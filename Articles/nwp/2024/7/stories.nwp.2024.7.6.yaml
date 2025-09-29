@@ -1,525 +1,525 @@
-'6':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '24823932-93b2-4cdf-95a8-6e545ba46dee'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-06T08:14:41.001+08:00
-  'mgnl:createdBy': 'jelo-nwp'
-  'mgnl:lastActivated': 2024-07-12T14:32:24.771+08:00
-  'mgnl:lastActivatedBy': 'magnolia-ben'
-  'mgnl:lastModified': 2024-07-06T08:23:07.034+08:00
-  'mgnl:lastModifiedBy': 'jelo-nwp'
-  'keir-starmer-new-uk-prime-minister':
-    'author': 'Brian Melley and Jill Lawless, Associated Press'
-    'caption': 'Britain''s King Charles III, right, shakes hands with Keir Starmer
+section6:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '24823932-93b2-4cdf-95a8-6e545ba46dee'
+  activationstatus: true
+  created: 2024-07-06T08:14:41.001+08:00
+  createdby: 'jelo-nwp'
+  lastactivated: 2024-07-12T14:32:24.771+08:00
+  lastactivatedby: 'magnolia-ben'
+  lastmodified: 2024-07-06T08:23:07.034+08:00
+  lastmodifiedby: 'jelo-nwp'
+  'START HERE----->keir-starmer-new-uk-prime-minister':
+    author: 'Brian Melley and Jill Lawless, Associated Press'
+    caption: 'Britain’s King Charles III, right, shakes hands with Keir Starmer
       where he invited the Labour Party leader to become prime minister and to form
       a new government, following the landslide general election victory for the Labour
       Party, in London, Friday, July 5, 2024.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-06T08:23:09.000+08:00
-    'imagesource': 'jcr:457ceb70-3e20-41a0-86b9-837040a3a387'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f8f734b4-cbfd-400e-9f39-99d03b697b6f'
-    'lead': 'Britain''s new prime minister, Keir Starmer, vowed Friday to reverse
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-06T08:23:09.000+08:00
+    imagesource: '457ceb70-3e20-41a0-86b9-837040a3a387'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f8f734b4-cbfd-400e-9f39-99d03b697b6f'
+    lead: 'Britain’s new prime minister, Keir Starmer, vowed Friday to reverse
       the hopelessness that grew over 14 years of Conservative rule and said he would
-      lead an urgent mission of national renewal after his Labour Party''s landslide
+      lead an urgent mission of national renewal after his Labour Party’s landslide
       victory.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-06T08:27:30.672+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:25.276+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-    'mgnl:lastModifiedBy': 'magnolia-ben'
-    'mgnl:tags': ['world-news', 'United-Kingdom', 'Keir-Starmer', 'Global-Watch']
-    'stories': []
-    'title': 'New UK prime minister Keir Starmer vows to heal wounds of distrust after
+    activationstatus: true
+    created: 2024-07-06T08:27:30.672+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-12T14:32:25.276+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-06T15:44:41.896+08:00
+    lastmodifiedby: 'magnolia-ben'
+    tags: ''
+    stories: ''
+    title: 'New UK prime minister Keir Starmer vows to heal wounds of distrust after
       Labour landslide'
-    'visualType': 'image'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d846ea3-916a-4333-86bc-252068e51ff5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.277+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.277+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': '<p><strong>LONDON (AP) —</strong> Britain''s new prime minister, Keir
+    visualtype: 'image'
+    section4:
+      primarytype: 'block'
+      uuid: '5d846ea3-916a-4333-86bc-252068e51ff5'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.277+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.277+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: '<p><strong>LONDON (AP) —</strong> Britain’s new prime minister, Keir
         Starmer, vowed Friday to reverse the hopelessness that grew over 14 years
         of Conservative rule and said he would lead an urgent mission of national
-        renewal after his Labour Party''s landslide victory.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3d169a6-9be2-46a0-aceb-f1eb02545ea2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.277+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.278+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "It will be a tall order.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82bdde96-c5ba-44a5-90fa-41e5df911641'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.278+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.278+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Rising poverty, crumbling infrastructure, a lagging economy and an\
+        renewal after his Labour Party’s landslide victory.</p>'
+    section5:
+      primarytype: 'block'
+      uuid: 'c3d169a6-9be2-46a0-aceb-f1eb02545ea2'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.277+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.278+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "It will be a tall order.\r"
+    section6:
+      primarytype: 'block'
+      uuid: '82bdde96-c5ba-44a5-90fa-41e5df911641'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.278+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.278+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Rising poverty, crumbling infrastructure, a lagging economy and an\
         \ overstretched National Health Service contributed to widespread dissatisfaction\
         \ and gripes about \"broken Britain.\" The resulting defeat was the worst\
         \ ever for Conservatives.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8f8aac3-5d3b-4fa1-bc7a-db3b25e78982'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.279+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.278+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "\"Have no doubt that we will rebuild Britain,\" Starmer said in his\
+    section7:
+      primarytype: 'block'
+      uuid: 'a8f8aac3-5d3b-4fa1-bc7a-db3b25e78982'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.279+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.278+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "\"Have no doubt that we will rebuild Britain,\" Starmer said in his\
         \ first official remarks as supporters cheered and waved union jack flags\
         \ outside 10 Downing St. \"Brick by brick we will rebuild the infrastructure\
         \ of opportunity.\"\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aba0944a-3e38-41ac-95d8-33dd80878033'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.279+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.279+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Starmer said it would take time, but his government would get the NHS\
+    section8:
+      primarytype: 'block'
+      uuid: 'aba0944a-3e38-41ac-95d8-33dd80878033'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.279+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.279+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Starmer said it would take time, but his government would get the NHS\
         \ \"back on its feet,\" secure the borders, improve public safety and cut\
         \ electric bills — while relying on homegrown clean energy.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3ee89816-1b03-45a7-a798-3ff0b05807e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.280+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.279+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Among the crowd of people who gathered to watch the changing of government\
+    section9:
+      primarytype: 'block'
+      uuid: '3ee89816-1b03-45a7-a798-3ff0b05807e4'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.280+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.279+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Among the crowd of people who gathered to watch the changing of government\
         \ was David McKeever, who said Starmer needed to quickly provide the details\
         \ of his plans that were often lacking during the campaign.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '145e8d49-007a-45a1-8ee4-5fc65e5a2078'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.280+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.280+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "\"From today onwards, Keir Starmer is going to have to come up with\
-        \ some actual policies and implement them,'' McKeever said. \"We'll know in\
+    section10:
+      primarytype: 'block'
+      uuid: '145e8d49-007a-45a1-8ee4-5fc65e5a2078'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.280+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.280+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "\"From today onwards, Keir Starmer is going to have to come up with\
+        \ some actual policies and implement them,' McKeever said. \"We'll know in\
         \ time what we're dealing with. But yeah, clearly the Tories had set such\
         \ a monumentally low bar, you could have fallen over it.\"\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6956c8da-c796-488a-a402-4951a53cd26e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.281+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.280+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Before Starmer arrived at No. 10, his predecessor, Rishi Sunak, bid\
+    section11:
+      primarytype: 'block'
+      uuid: '6956c8da-c796-488a-a402-4951a53cd26e'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.281+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.280+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Before Starmer arrived at No. 10, his predecessor, Rishi Sunak, bid\
         \ farewell in a reflective speech from the same spot where he called for the\
         \ snap election that led to his ouster.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f01eb9d1-ed88-4767-a09b-e7634b30fd62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.282+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.280+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "\"I have heard your anger, your disappointment, and I take responsibility\
+    section12:
+      primarytype: 'block'
+      uuid: 'f01eb9d1-ed88-4767-a09b-e7634b30fd62'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.282+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.280+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "\"I have heard your anger, your disappointment, and I take responsibility\
         \ for this loss,\" Sunak said. \"To all the Conservative candidates and campaigners\
         \ who worked tirelessly but without success, I'm sorry that we could not deliver\
         \ what your efforts deserved.\"\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cee5c03a-da31-423b-a17e-29c4f74ca5d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.282+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.281+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Sunak's party, which has been wracked by scandals, turbulent leadership\
+    section13:
+      primarytype: 'block'
+      uuid: 'cee5c03a-da31-423b-a17e-29c4f74ca5d3'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.282+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.281+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Sunak’s party, which has been wracked by scandals, turbulent leadership\
         \ changes and global problems out of its control, suffered its biggest defeat\
         \ in its two-century history.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6898fe1-2f8e-4c56-9979-bfe01d393186'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.283+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.281+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "With results tallied for all but one constituency, Labour had won 412\
+    section14:
+      primarytype: 'block'
+      uuid: 'a6898fe1-2f8e-4c56-9979-bfe01d393186'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.283+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.281+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "With results tallied for all but one constituency, Labour had won 412\
         \ seats in the 650-seat House of Commons. The Conservatives had only 121 —\
         \ down from 365 seats in 2019. The drubbing surpassed even the 1906 election\
         \ in which they won just 156 seats.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88873af9-d7fb-4822-85e3-63853a8b50f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.284+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.281+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "The Tory reign was marked by Britain's messy divorce from the European\
-        \ Union, followed by the COVID-19 pandemic and Russia's invasion of Ukraine,\
+    section15:
+      primarytype: 'block'
+      uuid: '88873af9-d7fb-4822-85e3-63853a8b50f1'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.284+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.281+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "The Tory reign was marked by Britain’s messy divorce from the European\
+        \ Union, followed by the COVID-19 pandemic and Russia’s invasion of Ukraine,\
         \ all of which battered the economy.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f401de20-07e3-4899-8571-a3c1f80b4922'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.284+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.282+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "When Sunak took over in October 2022, he was the third prime minister\
+    section16:
+      primarytype: 'block'
+      uuid: 'f401de20-07e3-4899-8571-a3c1f80b4922'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.284+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.282+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "When Sunak took over in October 2022, he was the third prime minister\
         \ in less than two months and set out to bring stability to a party in crisis.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dcaa150c-c43d-49e2-926c-4b8d4f032cb1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.285+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.282+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Widespread anger over parties thrown by then-Prime Minister Boris Johnson's\
+    section17:
+      primarytype: 'block'
+      uuid: 'dcaa150c-c43d-49e2-926c-4b8d4f032cb1'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.285+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.282+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Widespread anger over parties thrown by then-Prime Minister Boris Johnson’s\
         \ staff in violation of his own lockdown rules led to his departure. His successor,\
         \ Liz Truss, was out of office in a record 49 days after shaking the economy\
         \ with a package of drastic tax cuts.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd463c65e-dcad-4ca8-9c65-753bb1508ec1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.286+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.282+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Truss, who lost her seat to Labour, was one of a slew of senior Tories\
+    section18:
+      primarytype: 'block'
+      uuid: 'd463c65e-dcad-4ca8-9c65-753bb1508ec1'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.286+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.282+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Truss, who lost her seat to Labour, was one of a slew of senior Tories\
         \ kicked out in a stark electoral reckoning.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '429bf6bf-7682-4a59-bae4-8138589e644c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.286+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.283+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Starmer began appointing the government ministers who will be responsible\
+    section19:
+      primarytype: 'block'
+      uuid: '429bf6bf-7682-4a59-bae4-8138589e644c'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.286+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.283+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Starmer began appointing the government ministers who will be responsible\
         \ for helping to turn those problems around. He announced that Rachel Reeves,\
         \ a former Bank of England economist, will be Treasury chief, the first woman\
         \ to hold the job.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '284c723b-f7b2-4ad9-9248-f11d41d1c5ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.287+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.283+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "The massive victory will bring big challenges for Starmer. He acknowledged\
+    section20:
+      primarytype: 'block'
+      uuid: '284c723b-f7b2-4ad9-9248-f11d41d1c5ad'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.287+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.283+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "The massive victory will bring big challenges for Starmer. He acknowledged\
         \ as much in referring to the \"gap between the sacrifices made by people\
         \ and the service they receive from politicians,\" which he said led to \"\
         weariness in the heart of a nation, a draining away of the hope, the spirit,\
         \ the belief in a better future.\"\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a9423d5-bd35-4b66-ba2b-4d980adeb09d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.288+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.284+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Tim Bale, a politics professor at Queen Mary University of London,\
-        \ said it's a question of whether Starmer can fix public services fast enough\
+    section21:
+      primarytype: 'block'
+      uuid: '1a9423d5-bd35-4b66-ba2b-4d980adeb09d'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.288+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.284+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Tim Bale, a politics professor at Queen Mary University of London,\
+        \ said it’s a question of whether Starmer can fix public services fast enough\
         \ to satisfy expectations.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa54feef-c611-4413-aa40-f73f97d231b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.289+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.284+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "\"The National Health Service is in crisis,\" Bale said. \"It's going\
+    section22:
+      primarytype: 'block'
+      uuid: 'fa54feef-c611-4413-aa40-f73f97d231b0'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.289+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.284+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "\"The National Health Service is in crisis,\" Bale said. \"It’s going\
         \ to take quite a lot of money in order to restore its fortunes. The question\
         \ is where Labour is going to get that money from and how quickly it can manage\
         \ to do it.\"\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8d5af26-b881-4509-86d6-487f012fc445'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.289+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.284+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "In a sign of the volatile public mood and anger at the system, the\
+    section23:
+      primarytype: 'block'
+      uuid: 'c8d5af26-b881-4509-86d6-487f012fc445'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.289+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.284+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "In a sign of the volatile public mood and anger at the system, the\
         \ incoming Parliament will be more fractured and ideologically diverse than\
         \ any in years.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32422fd0-ca54-4c2e-b5a7-e4fe5496b1aa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.290+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.285+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Smaller parties picked up millions of votes, including the centrist\
+    section24:
+      primarytype: 'block'
+      uuid: '32422fd0-ca54-4c2e-b5a7-e4fe5496b1aa'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.290+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.285+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Smaller parties picked up millions of votes, including the centrist\
         \ Liberal Democrats, who captured 71 seats — up by 60 from the last election.\
         \ The Green Party won four seats, up from just one before the election. One\
         \ of the biggest losers was the Scottish National Party, which held most of\
-        \ Scotland's 57 seats before the election but looked set to lose all but handful,\
+        \ Scotland’s 57 seats before the election but looked set to lose all but handful,\
         \ mostly to Labour.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f928517f-6ef6-434e-93e0-36608c67efaf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.291+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.285+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "While the overall result appeared to buck recent rightward electoral\
+    section25:
+      primarytype: 'block'
+      uuid: 'f928517f-6ef6-434e-93e0-36608c67efaf'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.291+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.285+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "While the overall result appeared to buck recent rightward electoral\
         \ shifts in Europe, including in France and Italy, many of those same populist\
         \ undercurrents also flow in Britain.\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9d8abe78-ab80-428a-8a14-286401baf9fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.292+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.286+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Reform UK, the party of Nigel Farage, who roiled the race with his\
-        \ party's anti-immigrant \"take our country back\" sentiment, won five seats,\
+    section26:
+      primarytype: 'block'
+      uuid: '9d8abe78-ab80-428a-8a14-286401baf9fb'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.292+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.286+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Reform UK, the party of Nigel Farage, who roiled the race with his\
+        \ party’s anti-immigrant \"take our country back\" sentiment, won five seats,\
         \ including one for Farage in the seaside town of Clacton-on-Sea, securing\
         \ a place in Parliament on his eighth attempt.\r"
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7fdde25a-92cb-4a3f-9ff4-4c89c9f1e13a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.292+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.286+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Reform, however, actually had a larger share of the vote than the Liberal\
+    section27:
+      primarytype: 'block'
+      uuid: '7fdde25a-92cb-4a3f-9ff4-4c89c9f1e13a'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.292+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.286+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Reform, however, actually had a larger share of the vote than the Liberal\
         \ Democrats and undercut support for the Conservatives and even grabbed some\
         \ voters from Labour.\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'afaf3ea2-eb79-4caf-836b-ad7078921e19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.293+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.287+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "It failed to gain as many seats, however, because its votes were not\
-        \ as efficiently distributed as the centrist Liberal Democrats. In Britain's\
+    section28:
+      primarytype: 'block'
+      uuid: 'afaf3ea2-eb79-4caf-836b-ad7078921e19'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.293+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.287+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "It failed to gain as many seats, however, because its votes were not\
+        \ as efficiently distributed as the centrist Liberal Democrats. In Britain’s\
         \ electoral system, the candidate with the most votes in each constituency\
         \ wins.\r"
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc3c899b-46e0-4660-a284-1e4a31336f58'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.294+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.287+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Labour's path to victory was largely a result of a cautious, safety-first\
+    section29:
+      primarytype: 'block'
+      uuid: 'dc3c899b-46e0-4660-a284-1e4a31336f58'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.294+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.287+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Labour’s path to victory was largely a result of a cautious, safety-first\
         \ campaign without making mistakes.\r"
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bdbe6240-b3f0-40e0-9dbe-17a5b30d1132'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.295+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.287+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Starmer may have lacked charisma, but his pledges to improve the economy,\
+    section30:
+      primarytype: 'block'
+      uuid: 'bdbe6240-b3f0-40e0-9dbe-17a5b30d1132'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.295+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.287+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Starmer may have lacked charisma, but his pledges to improve the economy,\
         \ invest in infrastructure and fix broken social services resonated. The party\
         \ also won business backing, including endorsements from traditionally conservative\
-        \ newspapers such Rupert Murdoch's The Sun tabloid, which praised Starmer\
+        \ newspapers such Rupert Murdoch’s The Sun tabloid, which praised Starmer\
         \ for \"dragging his party back to the center ground of British politics.\"\
         \r"
-    '31':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cfe039f-79b6-4830-bcd7-ab9a03ba83bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.296+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.288+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "The Conservatives in comparison were plagued with missteps, including\
-        \ Sunak's decision to bail out early on commemorations marking the 80th anniversary\
+    section31:
+      primarytype: 'block'
+      uuid: '2cfe039f-79b6-4830-bcd7-ab9a03ba83bb'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.296+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.288+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "The Conservatives in comparison were plagued with missteps, including\
+        \ Sunak’s decision to bail out early on commemorations marking the 80th anniversary\
         \ of the D-Day invasion in France.\r"
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd595f1ac-23ce-42cc-9ff8-1bb977304a9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.296+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.288+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "The campaign got off to an inauspicious start when Sunak stood under\
+    section32:
+      primarytype: 'block'
+      uuid: 'd595f1ac-23ce-42cc-9ff8-1bb977304a9f'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.296+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.288+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "The campaign got off to an inauspicious start when Sunak stood under\
         \ a downpour outside 10 Downing St in May to set the election date.\r"
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73c45733-005f-4ee8-b668-ba726718a267'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.297+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.288+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Six weeks later, on a day marked by occasional rain reminiscent of\
+    section33:
+      primarytype: 'block'
+      uuid: '73c45733-005f-4ee8-b668-ba726718a267'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.297+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.288+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Six weeks later, on a day marked by occasional rain reminiscent of\
         \ his election announcement, Sunak stood there to bid adieu and offered his\
         \ best wishes to his \"decent, public spirited\" successor despite their disagreements\
         \ in the campaign. He said he would step down from his leadership role.\r"
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8743ab6-4f60-46be-96cc-507a185eef9c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.298+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.289+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "Two hours later, Starmer stood in the same spot. He thanked Sunak for\
+    section34:
+      primarytype: 'block'
+      uuid: 'b8743ab6-4f60-46be-96cc-507a185eef9c'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.298+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.289+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "Two hours later, Starmer stood in the same spot. He thanked Sunak for\
         \ his dedication and noted he was the first British prime minister of Asian\
         \ descent.\r"
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '702e76b2-42d3-40cb-adc0-6e843d9e8e78'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.299+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.289+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "He then asked those who supported him and those who didn't to join\
+    section35:
+      primarytype: 'block'
+      uuid: '702e76b2-42d3-40cb-adc0-6e843d9e8e78'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.299+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.289+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "He then asked those who supported him and those who didn't to join\
         \ him in the mission of national renewal.\r"
-    '36':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0bc76cc-dde0-4a9b-b3b4-dc99dfbf7f0e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.300+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.290+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': "\"Our work is urgent,\" he said. \"And we begin it today.\"\r"
-    '37':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16ee3621-60a1-48dc-911a-8dc055f4252b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-06T15:08:05.301+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:25.290+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-06T15:44:41.896+08:00
-      'mgnl:lastModifiedBy': 'magnolia-ben'
-      'mgnl:type': 'text'
-      'text': '<p><em>Associated Press journalists Kwiyeon Ha, Danica Kirka and Pan
+    section36:
+      primarytype: 'block'
+      uuid: 'e0bc76cc-dde0-4a9b-b3b4-dc99dfbf7f0e'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.300+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.290+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: "\"Our work is urgent,\" he said. \"And we begin it today.\"\r"
+    section37:
+      primarytype: 'block'
+      uuid: '16ee3621-60a1-48dc-911a-8dc055f4252b'
+      activationstatus: true
+      created: 2024-07-06T15:08:05.301+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:25.290+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-06T15:44:41.896+08:00
+      lastmodifiedby: 'magnolia-ben'
+      type: 'text'
+      text: '<p><em>Associated Press journalists Kwiyeon Ha, Danica Kirka and Pan
         Pylas contributed to this report.</em></p>'

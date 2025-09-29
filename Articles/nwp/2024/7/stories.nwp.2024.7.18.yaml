@@ -1,1821 +1,1818 @@
-'18':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '2c87bd42-6a61-4227-b5b9-c8317070968f'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-18T08:52:11.039+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2024-07-18T16:55:14.153+08:00
-  'mgnl:lastActivatedBy': 'lance-nwp'
-  'mgnl:lastActivatedVersion': '1.4'
-  'mgnl:lastActivatedVersionCreated': 2024-07-18T16:55:13.539+08:00
-  'mgnl:lastModified': 2024-07-18T19:11:16.367+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'biden-positive-for-covid-19':
-    'author': 'Aamer Madhani, Associated Press'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T08:52:11.000+08:00
-    'imagesource': 'jcr:9d1656ca-a7c1-402c-820e-4e67e1e0e92c'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '52c2263a-a871-4d28-9c9c-f5e13c7eb58b'
-    'lead': 'President Joe Biden tested positive for COVID-19 while traveling Wednesday
+section18:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '2c87bd42-6a61-4227-b5b9-c8317070968f'
+  activationstatus: true
+  created: 2024-07-18T08:52:11.039+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2024-07-18T16:55:14.153+08:00
+  lastactivatedby: 'lance-nwp'
+  lastactivatedVersion: '1.4'
+  lastactivatedVersionCreated: 2024-07-18T16:55:13.539+08:00
+  lastmodified: 2024-07-18T19:11:16.367+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->biden-positive-for-covid-19':
+    author: 'Aamer Madhani, Associated Press'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T08:52:11.000+08:00
+    imagesource: '9d1656ca-a7c1-402c-820e-4e67e1e0e92c'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '52c2263a-a871-4d28-9c9c-f5e13c7eb58b'
+    lead: 'President Joe Biden tested positive for COVID-19 while traveling Wednesday
       in Las Vegas and is experiencing “mild symptoms” including “general malaise”
       from the infection, the White House said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T08:54:43.907+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-18T08:56:38.281+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2024-07-18T08:56:38.000+08:00
-    'mgnl:lastModified': 2024-07-18T08:56:33.150+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['COVID-19', 'Joe-Biden', 'Biden-administration', 'Las-Vegas', 'US']
-    'stories': []
-    'template': '1'
-    'title': 'President Joe Biden tests positive for COVID-19 while campaigning in
-      Las Vegas, has ''mild symptoms'''
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65bb2f24-efdb-4a7d-adb1-ba5d9874a181'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.992+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.281+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.144+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>LAS VEGAS (AP) —</strong> President Joe Biden tested positive
+    activationstatus: true
+    created: 2024-07-18T08:54:43.907+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-18T08:56:38.281+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedVersion: '1.1'
+    lastactivatedVersionCreated: 2024-07-18T08:56:38.000+08:00
+    lastmodified: 2024-07-18T08:56:33.150+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'President Joe Biden tests positive for COVID-19 while campaigning in Las Vegas, has ’mild symptoms’'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '65bb2f24-efdb-4a7d-adb1-ba5d9874a181'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.992+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.281+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.144+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>LAS VEGAS (AP) —</strong> President Joe Biden tested positive
         for COVID-19 while traveling Wednesday in Las Vegas and is experiencing “mild
         symptoms” including “general malaise” from the infection, the White House
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc925aaa-6065-4d00-8dfc-7d00657402dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.992+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.281+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.144+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Press secretary Karine Jean-Pierre said Biden will fly to his home
+    section1:
+      primarytype: 'block'
+      uuid: 'fc925aaa-6065-4d00-8dfc-7d00657402dd'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.992+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.281+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.144+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Press secretary Karine Jean-Pierre said Biden will fly to his home
         in Delaware, where he will “self-isolate and will continue to carry out all
         of his duties fully during that time." The news had first been shared by UnidosUS
-        President and CEO Janet Murguía, who told guests at the group''s convention
+        President and CEO Janet Murguía, who told guests at the group’s convention
         in Las Vegas that president had sent his regrets and could not appear because
         he tested positive for the virus.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91b78d99-05d6-43e9-a3c5-4d4c3ee90b17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.993+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.282+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.145+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dr. Kevin O''Connor, the president''s physician, said in a note that
+    section2:
+      primarytype: 'block'
+      uuid: '91b78d99-05d6-43e9-a3c5-4d4c3ee90b17'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.993+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.282+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.145+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Dr. Kevin O'Connor, the president’s physician, said in a note that
         Biden, 81, “presented this afternoon with upper respiratory symptoms, to include
         rhinorhea (runny nose) and non-productive cough, with general malaise.” After
         the positive COVID-19 test, Biden was prescribed the antiviral drug Paxlovid
-        and has taken his first dose, O''Connor said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b946010e-0041-4d7d-ad52-f36355ec3a18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.993+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.282+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.145+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Biden was slated to speak at the UnidosUS event in Las Vegas Wednesday
+        and has taken his first dose, O'Connor said.'
+    section3:
+      primarytype: 'block'
+      uuid: 'b946010e-0041-4d7d-ad52-f36355ec3a18'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.993+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.282+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.145+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Biden was slated to speak at the UnidosUS event in Las Vegas Wednesday
         afternoon as part of an effort to rally Hispanic voters ahead of the November
         election. Instead, he departed for the airport to fly to Delaware, where he
         had already been planning to spend a long weekend at his home in Rehoboth
         Beach.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3ae253d-e774-4582-bf3d-2674dd350bd4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.994+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.282+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.146+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president''s diagnosis comes amid intense scrutiny of his health
+    section4:
+      primarytype: 'block'
+      uuid: 'a3ae253d-e774-4582-bf3d-2674dd350bd4'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.994+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.282+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.146+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The president’s diagnosis comes amid intense scrutiny of his health
         and stamina after a disastrous debate with former President Donald Trump that
         sparked a flurry of concern among Democrats that Biden is not up to the rigors
         of winning another presidential term.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e59bccc-cbe9-4618-b40f-e6f1e976d349'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.994+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.282+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.146+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Biden gingerly boarded Air Force One and told reporters traveling with
+    section5:
+      primarytype: 'block'
+      uuid: '3e59bccc-cbe9-4618-b40f-e6f1e976d349'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.994+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.282+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.146+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Biden gingerly boarded Air Force One and told reporters traveling with
         him, “I feel good.” The president was not wearing a mask as he walked onto
         Air Force One.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb7dab07-1187-456a-9bae-56f53a1c374f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.994+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.282+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.147+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president had previously been at the Original Lindo Michoacan restaurant
+    section6:
+      primarytype: 'block'
+      uuid: 'bb7dab07-1187-456a-9bae-56f53a1c374f'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.994+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.282+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.147+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The president had previously been at the Original Lindo Michoacan restaurant
         in Las Vegas, where he was greeting diners and sat for an interview with Univision.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b877d433-5965-40b2-b825-297d3e8fb23d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.995+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.283+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.147+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Biden has been vaccinated and is current on his recommended annual
+    section7:
+      primarytype: 'block'
+      uuid: 'b877d433-5965-40b2-b825-297d3e8fb23d'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.995+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.283+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.147+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Biden has been vaccinated and is current on his recommended annual
         booster dose for COVID-19. The vaccines have proven highly effective at limiting
         serious illness and death from the virus, which killed more than 1 million
         people in the U.S. since the pandemic began in 2020. Paxlovid has been proven
         to curtail the chances of serious illness and death from COVID-19 when prescribed
         in the early days of an infection, but has also been associated with rebound
         infections, where the virus comes back a few days after clearing up.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f3da2b7-55bb-400d-85bc-fd9285a0c57b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.995+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.283+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.148+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Biden last tested positive for COVID-19 twice in the summer of 2022,
+    section8:
+      primarytype: 'block'
+      uuid: '7f3da2b7-55bb-400d-85bc-fd9285a0c57b'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.995+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.283+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.148+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Biden last tested positive for COVID-19 twice in the summer of 2022,
         when he had a primary case and a rebound case of the virus.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34282fb4-8b37-4e48-bfb1-2179fc183899'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.996+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.283+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.148+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Health officials have reported recent upticks in emergency room visits
+    section9:
+      primarytype: 'block'
+      uuid: '34282fb4-8b37-4e48-bfb1-2179fc183899'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.996+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.283+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.148+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Health officials have reported recent upticks in emergency room visits
         and hospitalizations from COVID-19. There has also been a pronounced increase
         in positive test results in much of the country — particularly the southwestern
         U.S.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1d179d26-961e-4526-8ea4-85504641f24a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T08:54:43.996+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T08:56:38.283+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T08:56:33.148+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>Associated Press writers Josh Boak, Stephanie Nano and Zeke
+    section10:
+      primarytype: 'block'
+      uuid: '1d179d26-961e-4526-8ea4-85504641f24a'
+      activationstatus: true
+      created: 2024-07-18T08:54:43.996+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T08:56:38.283+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T08:56:33.148+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>Associated Press writers Josh Boak, Stephanie Nano and Zeke
         Miller contributed to this report.</em></p>'
-  'angara-takes-deped-helm':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T10:30:06.000+08:00
-    'imagesource': 'jcr:742cac4a-c688-4a9a-ba11-e6db9b871c08'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '420071d0-fb86-485d-b238-25c3c9be5818'
-    'lead': 'Senator Sonny Angara has formally taken the helm as Education secretary,
+  'START HERE----->angara-takes-deped-helm':
+    author: 'Lance Mejico, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T10:30:06.000+08:00
+    imagesource: '742cac4a-c688-4a9a-ba11-e6db9b871c08'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '420071d0-fb86-485d-b238-25c3c9be5818'
+    lead: 'Senator Sonny Angara has formally taken the helm as Education secretary,
       replacing Vice President Sara Duterte who stepped down from her post and quit
       the Marcos cabinet.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T10:32:48.687+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2024-07-18T15:56:31.682+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2024-07-18T15:56:31.301+08:00
-    'mgnl:lastModified': 2024-07-18T15:56:26.990+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Sara-Duterte', 'Sonny-Angara', 'Department-of-Education']
-    'stories': []
-    'template': '1'
-    'title': 'Angara takes the helm at DepEd'
-    'updated': 2024-07-18T15:56:23.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cde70eac-892e-45b7-b12b-130debf51962'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.700+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.682+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.983+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Senator Sonny Angara
+    activationstatus: true
+    created: 2024-07-18T10:32:48.687+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2024-07-18T15:56:31.682+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedVersion: '1.0'
+    lastactivatedVersionCreated: 2024-07-18T15:56:31.301+08:00
+    lastmodified: 2024-07-18T15:56:26.990+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Angara takes the helm at DepEd'
+    updated: 2024-07-18T15:56:23.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'cde70eac-892e-45b7-b12b-130debf51962'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.700+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.682+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.983+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Senator Sonny Angara
         has formally taken the helm as Education secretary, replacing Vice President
         Sara Duterte who stepped down from her post and quit the Marcos cabinet.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e14d6873-7e9c-4a4e-b569-9703b1639d62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.701+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.682+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.984+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "Duterte formally passed the baton to Angara in a ceremony held at the\
+    section1:
+      primarytype: 'block'
+      uuid: 'e14d6873-7e9c-4a4e-b569-9703b1639d62'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.701+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.682+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.984+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "Duterte formally passed the baton to Angara in a ceremony held at the\
         \ central office of the Department of Education in Pasig City, Manila.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'adbd06a4-9466-4746-9b0a-a392723734f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.701+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.683+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.984+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He will assume office beginning tomorrow, July 19.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '47aa814a-e0a2-4379-bc5e-c93dda3b254a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:56:26.972+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.683+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.972+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a speech, Angara vowed to carry out reforms in the education
+    section2:
+      primarytype: 'block'
+      uuid: 'adbd06a4-9466-4746-9b0a-a392723734f1'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.701+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.683+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.984+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>He will assume office beginning tomorrow, July 19.</p>'
+    section10:
+      primarytype: 'block'
+      uuid: '47aa814a-e0a2-4379-bc5e-c93dda3b254a'
+      activationstatus: true
+      created: 2024-07-18T15:56:26.972+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T15:56:31.683+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.972+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a speech, Angara vowed to carry out reforms in the education
         sector. He added he will lay out priority projects in the coming days.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c55732d-5139-4228-a3a4-b61d690563c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:56:26.973+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.683+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.973+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Angara recognized Duterte for leading the agency over the past two
+    section11:
+      primarytype: 'block'
+      uuid: '8c55732d-5139-4228-a3a4-b61d690563c0'
+      activationstatus: true
+      created: 2024-07-18T15:56:26.973+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T15:56:31.683+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.973+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Angara recognized Duterte for leading the agency over the past two
         years.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a11e156f-aea7-4c95-86ba-f5ae34c1c713'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:56:26.973+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.683+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.973+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ang trabaho n’yo ang magsisilbing matatag na pundasyon ng mga programa
+    section12:
+      primarytype: 'block'
+      uuid: 'a11e156f-aea7-4c95-86ba-f5ae34c1c713'
+      activationstatus: true
+      created: 2024-07-18T15:56:26.973+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T15:56:31.683+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.973+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Ang trabaho n’yo ang magsisilbing matatag na pundasyon ng mga programa
         at proyekto na aming isusulong. We will build from what you have already started,”
         he said. '
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2a72c5ea-0a5e-441c-ac15-71eb42b6e180'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:56:26.974+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.684+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.974+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: Your work will serve as the foundation of the programs
+    section13:
+      primarytype: 'block'
+      uuid: '2a72c5ea-0a5e-441c-ac15-71eb42b6e180'
+      activationstatus: true
+      created: 2024-07-18T15:56:26.974+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T15:56:31.684+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.974+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: Your work will serve as the foundation of the programs
         and projects that we will do. We will build from what you have started]</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c9b5cb8d-6702-4b2a-86bf-52988a7a2c83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.701+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.684+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.985+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Angara’s portfolio</strong></h2>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b0840cc-8686-4fc3-8d25-a8c1c062fb4c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.702+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.684+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.986+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Angara has been a member of Congress for over two decades – the
+    section3:
+      primarytype: 'block'
+      uuid: 'c9b5cb8d-6702-4b2a-86bf-52988a7a2c83'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.701+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.684+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.985+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Angara’s portfolio</strong></h2>'
+    section4:
+      primarytype: 'block'
+      uuid: '7b0840cc-8686-4fc3-8d25-a8c1c062fb4c'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.702+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.684+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.986+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Angara has been a member of Congress for over two decades – the
         lone representative of Aurora province for nearly a decade before being elected
         as a senator in 2013.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5e14ac3-2ef0-4d3b-9444-ee5837d5d1fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.702+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.684+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.986+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "He was a key figure in the passage of the Universal Access to Tertiary\
+    section5:
+      primarytype: 'block'
+      uuid: 'd5e14ac3-2ef0-4d3b-9444-ee5837d5d1fb'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.702+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.684+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.986+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "He was a key figure in the passage of the Universal Access to Tertiary\
         \ Quality Education law and the Basic Education Act, which established the\
         \ K-12 curriculum. \r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '06b9a1a3-bdda-4489-96bc-255b234df6eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.703+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.685+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.987+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "Angara is also a commissioner of the Second Congressional Commission\
+    section6:
+      primarytype: 'block'
+      uuid: '06b9a1a3-bdda-4489-96bc-255b234df6eb'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.703+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.685+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.987+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "Angara is also a commissioner of the Second Congressional Commission\
         \ on Education, a body tasked to assess the education sector.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8351d36d-56ac-4daa-a0c2-847d1592984f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.703+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.685+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.987+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "As education chief, he will be facing what independent think tanks\
+    section7:
+      primarytype: 'block'
+      uuid: '8351d36d-56ac-4daa-a0c2-847d1592984f'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.703+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.685+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.987+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "As education chief, he will be facing what independent think tanks\
         \ view as an education crisis.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9397f32-235f-4196-90e9-4b704dfe591d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.703+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.685+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.988+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "Based on the 2022 Programme for International Student Assessment (PISA)\
+    section8:
+      primarytype: 'block'
+      uuid: 'a9397f32-235f-4196-90e9-4b704dfe591d'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.703+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.685+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.988+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "Based on the 2022 Programme for International Student Assessment (PISA)\
         \ released in June, the Philippines was at the bottom in a ranking that gauged\
         \ the creative thinking skills of 15-year-old students. The country also scored\
         \ poorly in mathematics, science, and reading comprehension. \r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b031bc5-a9e0-42b5-ac08-f230f0f591b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T10:32:48.704+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:56:31.685+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T15:56:26.988+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Angara’s term begins at the height of preparations for the opening
+    section9:
+      primarytype: 'block'
+      uuid: '8b031bc5-a9e0-42b5-ac08-f230f0f591b8'
+      activationstatus: true
+      created: 2024-07-18T10:32:48.704+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:56:31.685+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T15:56:26.988+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Angara’s term begins at the height of preparations for the opening
         of the school year (SY) 2024-2025 on July 29.</p>'
-  'Makabayan-in-talks-with-LP-for-Senate-slate':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T12:21:12.000+08:00
-    'imagesource': 'jcr:09d9ca43-84c4-4b25-be06-2d1a1db436bb'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '0f53da73-ca78-434e-b2be-2762e249d8d2'
-    'lead': 'A party-list coalition in the House of Representatives said it is in
+  'START HERE----->Makabayan-in-talks-with-LP-for-Senate-slate':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T12:21:12.000+08:00
+    imagesource: '09d9ca43-84c4-4b25-be06-2d1a1db436bb'
+    primarytype: 'composition'
+    uuid: '0f53da73-ca78-434e-b2be-2762e249d8d2'
+    lead: 'A party-list coalition in the House of Representatives said it is in
       talks with the Liberal Party to come up with a Senate slate for next year’s
       midterm elections.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T12:29:09.917+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2024-07-18T12:29:10.309+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': ['Liberal-Party', 'France-Castro', 'Makabayan-bloc']
-    'stories': []
-    'template': '1'
-    'title': 'Makabayan in talks with LP for Senate slate'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75e78ee8-22ee-4f42-b2fa-39b89f3c00c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.930+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.310+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> A party-list coalition
+    activationstatus: true
+    created: 2024-07-18T12:29:09.917+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2024-07-18T12:29:10.309+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T12:29:09.978+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Makabayan in talks with LP for Senate slate'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '75e78ee8-22ee-4f42-b2fa-39b89f3c00c2'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.930+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.310+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> A party-list coalition
         in the House of Representatives said it is in talks with the Liberal Party
         (LP) to come up with a Senate slate for next year’s midterm elections.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b3024afd-b6f2-4d67-b527-c17066201749'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.930+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.312+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd7e57b0-25a1-4abf-a772-7ca469bef66c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.931+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.313+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "Alliance of Concerned Teachers Rep. France Castro Castro told NewsWatch\
+    section1:
+      primarytype: 'block'
+      uuid: 'b3024afd-b6f2-4d67-b527-c17066201749'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.930+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.312+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: 'dd7e57b0-25a1-4abf-a772-7ca469bef66c'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.931+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.313+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "Alliance of Concerned Teachers Rep. France Castro Castro told NewsWatch\
         \ Plus on Wednesday, July 17, that the “Makabayan” bloc may join forces with\
         \ like-minded people.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3dbd5b9-0731-4cc9-861d-af2f12596de6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.931+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.314+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8239cb1-c375-4029-877e-63a148c3192c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.931+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.315+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Kami naman ay open din naman sa ibang indibidwal na labas sa Makabayan
+    section3:
+      primarytype: 'block'
+      uuid: 'c3dbd5b9-0731-4cc9-861d-af2f12596de6'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.931+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.314+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section4:
+      primarytype: 'block'
+      uuid: 'b8239cb1-c375-4029-877e-63a148c3192c'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.931+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.315+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Kami naman ay open din naman sa ibang indibidwal na labas sa Makabayan
         with the same principle as ours. So, ‘yung paninindigan ‘yung tinitindigan
         naming issues ay open din naman kami,” she said.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e4f8b1f9-4020-41e8-bb20-acb41c02cb12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.932+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.316+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb44a668-3267-413f-b01b-f72219a021af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.932+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.317+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: We are open to individuals outside Makabayan with
+    section5:
+      primarytype: 'block'
+      uuid: 'e4f8b1f9-4020-41e8-bb20-acb41c02cb12'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.932+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.316+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: 'fb44a668-3267-413f-b01b-f72219a021af'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.932+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.317+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: We are open to individuals outside Makabayan with
         the same principle as ours. Someone who will fight for the issues we fight
         for, we are open for that.]</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b144d8f-d2b4-4f27-aaef-247634126eda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.932+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.318+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '818ab3b9-d791-489a-9e2e-b278d692f00c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.933+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.319+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "“Nag-usap ‘yung aming leadership with the Liberal Party. I’m not privy\
+    section7:
+      primarytype: 'block'
+      uuid: '6b144d8f-d2b4-4f27-aaef-247634126eda'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.932+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.318+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section8:
+      primarytype: 'block'
+      uuid: '818ab3b9-d791-489a-9e2e-b278d692f00c'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.933+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.319+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "“Nag-usap ‘yung aming leadership with the Liberal Party. I’m not privy\
         \ pa rin sa pinag-usapan pero ongoing naman ‘yang pag-uusap sa iba’t ibang\
         \ indibidwal, party ng opposition na gustong sumama sa amin,” she added.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b424ed7-5117-48b7-9e11-46e6a2bbf035'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.933+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.320+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e8305a0-b9a1-4a53-8444-0c2a96a62b58'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.933+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.320+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: Our leadership talked to the Liberal Party. I’m not
+    section9:
+      primarytype: 'block'
+      uuid: '9b424ed7-5117-48b7-9e11-46e6a2bbf035'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.933+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.320+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section10:
+      primarytype: 'block'
+      uuid: '3e8305a0-b9a1-4a53-8444-0c2a96a62b58'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.933+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.320+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: Our leadership talked to the Liberal Party. I’m not
         privy to the discussion but talks with different individuals, opposition parties
         that want to join us are ongoing.]</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4607f0bc-d547-47ae-a98e-43dc2258a5f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.934+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.321+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f36c31fb-16d9-4ced-a300-9762092b3e74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.934+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.322+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The LP has yet to identify people it would endorse to run for senator.</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e922dc0-fc46-4059-84c9-ec62face0a94'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.935+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.323+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4a5caa0-d6c9-4f5c-8d7d-035837934197'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.935+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.324+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "The Makabayan senatorial slate has two names so far: Castro and Gabriela\
+    section11:
+      primarytype: 'block'
+      uuid: '4607f0bc-d547-47ae-a98e-43dc2258a5f4'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.934+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.321+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section12:
+      primarytype: 'block'
+      uuid: 'f36c31fb-16d9-4ced-a300-9762092b3e74'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.934+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.322+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The LP has yet to identify people it would endorse to run for senator.</p>'
+    section13:
+      primarytype: 'block'
+      uuid: '2e922dc0-fc46-4059-84c9-ec62face0a94'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.935+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.323+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section14:
+      primarytype: 'block'
+      uuid: 'b4a5caa0-d6c9-4f5c-8d7d-035837934197'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.935+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.324+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "The Makabayan senatorial slate has two names so far: Castro and Gabriela\
         \ Rep. Arlene Brosas. The group said it will announce the final lineup on\
         \ Aug. 26.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '731f600b-e09a-415c-b9d3-db1e13e99962'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.935+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.324+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6756b52f-4d01-4d3f-a313-b0c51aee6a0d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.936+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.325+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "Castro said Makabayan bets are the alternative choice for the masses.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ed4702c-f38d-47fb-8786-2137b89b2c17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.936+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.326+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f764846e-8a75-4bbf-823b-13185c9a7b9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.937+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.327+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "“Ito ‘yung political statement namin sa susunod na eleksyon, na sabi\
+    section15:
+      primarytype: 'block'
+      uuid: '731f600b-e09a-415c-b9d3-db1e13e99962'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.935+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.324+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section16:
+      primarytype: 'block'
+      uuid: '6756b52f-4d01-4d3f-a313-b0c51aee6a0d'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.936+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.325+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "Castro said Makabayan bets are the alternative choice for the masses.\r"
+    section17:
+      primarytype: 'block'
+      uuid: '8ed4702c-f38d-47fb-8786-2137b89b2c17'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.936+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.326+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section18:
+      primarytype: 'block'
+      uuid: 'f764846e-8a75-4bbf-823b-13185c9a7b9f'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.937+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.327+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "“Ito ‘yung political statement namin sa susunod na eleksyon, na sabi\
         \ namin, taumbayan naman. Kasi ang pagpipilian lang ng taumbayan dito ay Duterte\
         \ versus Marcos, wala doon ang taumbayan. Kami ‘yung alternatiba para sa taumbayan.\
         \ Nakita naman ‘yung track record namin sa ginagawa namin sa House, ginagawa\
         \ naming sa labas ng House of Representatives at track record naming na tingin\
         \ natin ay enough na para maisulong ‘yung kapakanan ng ating taumbayan,” she\
         \ said.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e07dc12b-2a99-4e0c-9a81-c30e75076ecf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.937+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.328+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': " \r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '871fccf3-09e8-40fb-9c9a-d151f71d4d12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.938+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.329+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: This is our political statement for the next election.\
+    section19:
+      primarytype: 'block'
+      uuid: 'e07dc12b-2a99-4e0c-9a81-c30e75076ecf'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.937+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.328+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: " \r"
+    section20:
+      primarytype: 'block'
+      uuid: '871fccf3-09e8-40fb-9c9a-d151f71d4d12'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.938+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.329+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "[Translation: This is our political statement for the next election.\
         \ We said, the people first. Because the choices are Duterte and Marcos, there\
         \ is no one for the people there. We are the alternative choice for the public.\
         \ You can see our track record in and out of the House of Representatives.\
         \ I think that is enough to push for the public’s welfare.]\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '907f8437-f46f-4170-83ba-a5ae1c8dade5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.938+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.329+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f88a38ba-b3ab-442e-b709-5bae4ce7c8a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T12:29:09.939+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T12:29:10.330+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T12:29:09.978+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>NewsWatch Plus Correspondent Daniza Fernandez contributed to this
+    section21:
+      primarytype: 'block'
+      uuid: '907f8437-f46f-4170-83ba-a5ae1c8dade5'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.938+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.329+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section22:
+      primarytype: 'block'
+      uuid: 'f88a38ba-b3ab-442e-b709-5bae4ce7c8a8'
+      activationstatus: true
+      created: 2024-07-18T12:29:09.939+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T12:29:10.330+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T12:29:09.978+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>NewsWatch Plus Correspondent Daniza Fernandez contributed to this
         report.</p>'
-  'Story-of-the-Filipino-Arvin-Amatorio':
-    'categories': ['e25fbecb-611d-4690-90d6-6b7ff9863a48']
-    'created': 2024-07-18T15:08:36.000+08:00
-    'embedimage': 'jcr:8f1d9c82-358c-48fd-b083-566e79b51166'
-    'embedsource': '<iframe width="560" height="315" src="https://www.youtube.com/embed/bDEjMF97bCM?si=PyjJK2-g1cChl7VD"
+  'START HERE----->Story-of-the-Filipino-Arvin-Amatorio':
+    categories: 'e25fbecb-611d-4690-90d6-6b7ff9863a48'
+    created: 2024-07-18T15:08:36.000+08:00
+    embedimage: '8f1d9c82-358c-48fd-b083-566e79b51166'
+    embedsource: '<iframe width="560" height="315" src="https://www.youtube.com/embed/bDEjMF97bCM?si=PyjJK2-g1cChl7VD"
       title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '799ef55d-feb5-4903-ad90-2b899ceca2f4'
-    'lead': 'Philippine-born Arvin Amatorio shares how he became a mayor in the United
+    primarytype: 'composition'
+    uuid: '799ef55d-feb5-4903-ad90-2b899ceca2f4'
+    lead: 'Philippine-born Arvin Amatorio shares how he became a mayor in the United
       States and how his beginnings motivate him to promote diversity and inclusivity
       in his community on The Story of the Filipino.
-
-      '
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T15:10:30.090+08:00
-    'mgnl:createdBy': 'cj-nwp'
-    'mgnl:lastActivated': 2024-07-18T15:10:30.232+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T15:10:30.106+08:00
-    'mgnl:lastModifiedBy': 'cj-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'The Story of the Filipino: Arvin Amatorio'
-    'visualType': 'embed'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ae32795-0f7a-409e-ba82-69b1ee790e43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:10:30.104+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:10:30.233+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:10:30.104+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Philippine-born Arvin Amatorio shares how he became a mayor in the
+'
+      
+    activationstatus: true
+    created: 2024-07-18T15:10:30.090+08:00
+    createdby: 'cj-nwp'
+    lastactivated: 2024-07-18T15:10:30.232+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T15:10:30.106+08:00
+    lastmodifiedby: 'cj-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'The Story of the Filipino: Arvin Amatorio'
+    visualtype: 'embed'
+    section0:
+      primarytype: 'block'
+      uuid: '6ae32795-0f7a-409e-ba82-69b1ee790e43'
+      activationstatus: true
+      created: 2024-07-18T15:10:30.104+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2024-07-18T15:10:30.233+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:10:30.104+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Philippine-born Arvin Amatorio shares how he became a mayor in the
         United States and how his beginnings motivate him to promote diversity and
         inclusivity in his community on The Story of the Filipino.</p>'
-  '7-dead-monsoon-rains-mindanao':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T15:42:23.000+08:00
-    'imagesource': 'jcr:5138d685-8a05-4d6f-b551-4fb3d8b3b2b4'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c0cb87ee-745e-4125-a7df-10672be21847'
-    'lead': 'Seven people were killed while two others were injured as monsoon rains
+  'START HERE----->7-dead-monsoon-rains-mindanao':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T15:42:23.000+08:00
+    imagesource: '5138d685-8a05-4d6f-b551-4fb3d8b3b2b4'
+    primarytype: 'composition'
+    uuid: 'c0cb87ee-745e-4125-a7df-10672be21847'
+    lead: 'Seven people were killed while two others were injured as monsoon rains
       battered Mindanao resulting in floods, disaster management officials said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T15:46:50.974+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2024-07-18T15:46:51.269+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T15:46:51.002+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': ['Mindanao', 'flood', 'southwest-monsoon']
-    'stories': []
-    'template': '1'
-    'title': '7 dead, 2 injured from nonstop rains in Mindanao'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c523e65-3ce3-4c7f-b767-a9ef909c3f09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.987+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.270+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.987+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Seven people were killed
+    activationstatus: true
+    created: 2024-07-18T15:46:50.974+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2024-07-18T15:46:51.269+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T15:46:51.002+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '7 dead, 2 injured from nonstop rains in Mindanao'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6c523e65-3ce3-4c7f-b767-a9ef909c3f09'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.987+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.270+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.987+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Seven people were killed
         while two others were injured as monsoon rains battered Mindanao resulting
         in floods, disaster management officials said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ef1df23-546c-4cab-b7ac-e23335c2ebd7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.987+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.273+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.987+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da1fd201-fd0a-418b-8f33-648b2bda41f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.988+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.274+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.988+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Of the seven deaths, four were from Zamboanga Peninsula, the National
+    section1:
+      primarytype: 'block'
+      uuid: '1ef1df23-546c-4cab-b7ac-e23335c2ebd7'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.987+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.273+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.987+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: 'da1fd201-fd0a-418b-8f33-648b2bda41f8'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.988+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.274+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.988+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Of the seven deaths, four were from Zamboanga Peninsula, the National
         Disaster Risk Reduction and Management Council reported on Thursday, July
         18.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '008aa510-9ad5-4069-9d2f-e6a7c282e3e9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.988+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.276+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.988+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '589270c3-b761-4976-bffc-11d8c25379e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.989+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.277+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.989+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "The other three were from Northern Mindanao, Davao Region, and Bangsamoro\
+    section3:
+      primarytype: 'block'
+      uuid: '008aa510-9ad5-4069-9d2f-e6a7c282e3e9'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.988+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.276+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.988+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section4:
+      primarytype: 'block'
+      uuid: '589270c3-b761-4976-bffc-11d8c25379e4'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.989+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.277+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.989+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "The other three were from Northern Mindanao, Davao Region, and Bangsamoro\
         \ Autonomous Region in Muslim Mindanao.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83659562-b3b7-4c4b-91ea-7485114ac59a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.989+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.278+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.989+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '098ec5c3-6976-4937-bc60-3669b5baec0d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.989+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.279+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.989+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "One person was listed as missing.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c7faa59a-b1fc-447d-af9e-44acca16c38a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.990+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.280+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.990+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb384d8f-74ff-4d60-84c5-b7b68ab27dad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.990+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.281+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.990+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "Data showed the rains affected more than 480,000 people.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b5db30d-320a-4de2-8414-b9d3022cb0a1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.991+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.282+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.991+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e325d7b7-8319-49fd-ae74-3301230a1dc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.991+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.283+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.991+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "Government assistance has reached around P13.5 million and was extended\
+    section5:
+      primarytype: 'block'
+      uuid: '83659562-b3b7-4c4b-91ea-7485114ac59a'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.989+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.278+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.989+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: '098ec5c3-6976-4937-bc60-3669b5baec0d'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.989+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.279+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.989+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "One person was listed as missing.\r"
+    section7:
+      primarytype: 'block'
+      uuid: 'c7faa59a-b1fc-447d-af9e-44acca16c38a'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.990+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.280+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.990+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section8:
+      primarytype: 'block'
+      uuid: 'bb384d8f-74ff-4d60-84c5-b7b68ab27dad'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.990+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.281+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.990+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "Data showed the rains affected more than 480,000 people.\r"
+    section9:
+      primarytype: 'block'
+      uuid: '6b5db30d-320a-4de2-8414-b9d3022cb0a1'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.991+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.282+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.991+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section10:
+      primarytype: 'block'
+      uuid: 'e325d7b7-8319-49fd-ae74-3301230a1dc5'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.991+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.283+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.991+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "Government assistance has reached around P13.5 million and was extended\
         \ to 4,258 families.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a69929ed-0318-40f1-b911-cf3a418382f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.991+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.284+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.991+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b9360fa3-8cea-4d6c-9913-f756c15c9064'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T15:46:50.992+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-18T15:46:51.285+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T15:46:50.992+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, damage to agriculture was estimated at P17.8 million.
+    section11:
+      primarytype: 'block'
+      uuid: 'a69929ed-0318-40f1-b911-cf3a418382f1'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.991+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.284+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.991+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: "\r"
+    section12:
+      primarytype: 'block'
+      uuid: 'b9360fa3-8cea-4d6c-9913-f756c15c9064'
+      activationstatus: true
+      created: 2024-07-18T15:46:50.992+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-18T15:46:51.285+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T15:46:50.992+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, damage to agriculture was estimated at P17.8 million.
         - DF</p>'
-  'duterte-cuts-ties-marcos-cabinet':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T16:18:32.000+08:00
-    'imagesource': 'jcr:e9ec81d0-d960-4759-8fb5-aa484aa116db'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1b21756b-9f06-4970-af49-cbca405c4bf7'
-    'lead': ' Vice President Sara Duterte has severed official ties with the administration
+  'START HERE----->duterte-cuts-ties-marcos-cabinet':
+    author: 'Lance Mejico, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T16:18:32.000+08:00
+    imagesource: 'e9ec81d0-d960-4759-8fb5-aa484aa116db'
+    primarytype: 'composition'
+    uuid: '1b21756b-9f06-4970-af49-cbca405c4bf7'
+    lead: ' Vice President Sara Duterte has severed official ties with the administration
       in refusing to rejoin the Cabinet after stepping down as education secretary.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T16:37:32.015+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-18T16:37:32.330+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T16:37:32.042+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Liza-Araneta-Marcos', 'Ferdinand-Marcos-Jr.', 'DepEd', 'Sara-Duterte',
-      'Bongbong-Marcos']
-    'stories': ['420071d0-fb86-485d-b238-25c3c9be5818', '79360da9-898d-4822-a33c-5ae691002652']
-    'template': '1'
-    'title': 'Duterte severs official ties with administration '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38402816-7c01-4b46-b680-47bec1e21ede'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.029+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.331+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.029+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
+    activationstatus: true
+    created: 2024-07-18T16:37:32.015+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-18T16:37:32.330+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T16:37:32.042+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: '420071d0-fb86-485d-b238-25c3c9be5818', '79360da9-898d-4822-a33c-5ae691002652'
+    template: '1'
+    title: 'Duterte severs official ties with administration '
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '38402816-7c01-4b46-b680-47bec1e21ede'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.029+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.331+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.029+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
         Duterte has severed official ties with the administration in refusing to rejoin
         the Cabinet after stepping down as education secretary.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74dee46c-aeb6-4fba-99cf-c5707103314f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.029+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.333+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.029+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte told reporters at the sidelines of the turnover ceremony
+    section1:
+      primarytype: 'block'
+      uuid: '74dee46c-aeb6-4fba-99cf-c5707103314f'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.029+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.333+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.029+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Duterte told reporters at the sidelines of the turnover ceremony
         at the Department of Education (DepEd) headquarters in Pasig City her reasons
         for quitting the post.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed42f664-1f7c-4b88-b644-b13c221e01c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.029+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.334+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.029+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Merong personal sa aming dalawa ni Pangulong Marcos, which stems from
+    section2:
+      primarytype: 'block'
+      uuid: 'ed42f664-1f7c-4b88-b644-b13c221e01c1'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.029+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.334+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.029+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Merong personal sa aming dalawa ni Pangulong Marcos, which stems from
         iyong napag-usapan namin bago ako pumayag sa DepEd. Meron siyang sa trabaho,
         at meron siyang sa bayan," she said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '561128f3-d403-40a3-845f-f07d11237b6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.030+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.335+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.030+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: There are personal things between me and President Marcos,
+    section3:
+      primarytype: 'block'
+      uuid: '561128f3-d403-40a3-845f-f07d11237b6c'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.030+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.335+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.030+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '[Translation: There are personal things between me and President Marcos,
         which stems from our discussion before I took the helm at DepEd. There are
         job-related reasons, while there’s also about the nation.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '01b5c254-1f5b-46d3-9728-93492a68324b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.030+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.337+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.030+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Duterte earlier said she resigned from DepEd as an act of compassion
+    section4:
+      primarytype: 'block'
+      uuid: '01b5c254-1f5b-46d3-9728-93492a68324b'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.030+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.337+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.030+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Duterte earlier said she resigned from DepEd as an act of compassion
         for the plight of students and teachers. '
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a23c544-2be1-45aa-b77a-38ec96aaf165'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.030+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.338+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.030+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The vice president denied speculations that her resignation had
+    section5:
+      primarytype: 'block'
+      uuid: '0a23c544-2be1-45aa-b77a-38ec96aaf165'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.030+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.338+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.030+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The vice president denied speculations that her resignation had
         something to do with First Lady Liza Araneta Marcos.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '087af284-28f0-4b44-bab6-14e7fa516dd2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.031+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.339+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.031+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“No. Kasi walang kinalaman si first lady sa trabaho namin ni Pangulong
+    section6:
+      primarytype: 'block'
+      uuid: '087af284-28f0-4b44-bab6-14e7fa516dd2'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.031+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.339+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.031+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“No. Kasi walang kinalaman si first lady sa trabaho namin ni Pangulong
         Marcos. Sabi ko nga kailangan siya ng sit-down kasi hindi siya isang rason
         lang. Nagkabuhol-buhol na siya,” said Duterte.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4686bb36-de26-4fba-ba44-e90666be7791'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.031+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.340+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.031+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: No. The first lady has nothing to do with my job with
+    section7:
+      primarytype: 'block'
+      uuid: '4686bb36-de26-4fba-ba44-e90666be7791'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.031+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.340+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.031+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: No. The first lady has nothing to do with my job with
         the president. As I’ve said, we need a sit-down because it’s not just one
         reason. It’s already tangled.]</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c97e3c58-d6c9-4002-baa7-f83a7a639c50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.031+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.341+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.031+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In an interview in April, Mrs. Marcos admitted she was hurt when
+    section8:
+      primarytype: 'block'
+      uuid: 'c97e3c58-d6c9-4002-baa7-f83a7a639c50'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.031+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.341+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.031+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In an interview in April, Mrs. Marcos admitted she was hurt when
         the vice president attended former President Rodrigo Duterte’s rally in Davao
         City in January. In the event, Duterte’s father called the president “bangag”
         or high on substance.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e9e1edc-967b-4632-b557-20886fc275f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.032+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.342+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.032+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Marcos and Duterte won the 2022 elections under the “UniTeam” ticket,
+    section9:
+      primarytype: 'block'
+      uuid: '3e9e1edc-967b-4632-b557-20886fc275f8'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.032+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.342+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.032+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Marcos and Duterte won the 2022 elections under the “UniTeam” ticket,
         with unity as the center of their campaign.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f87271e3-8b15-4a08-9d16-f26432d9725f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:37:32.032+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:37:32.343+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:37:32.032+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The two have shown differing positions, however, on a number of
+    section10:
+      primarytype: 'block'
+      uuid: 'f87271e3-8b15-4a08-9d16-f26432d9725f'
+      activationstatus: true
+      created: 2024-07-18T16:37:32.032+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:37:32.343+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:37:32.032+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The two have shown differing positions, however, on a number of
         issues including the investigation by the International Criminal Court on
         the bloody drug war during the Duterte administration, the sexual and trafficking
         abuse cases of religious leader Apollo Quiboloy, the former president’s religious
         adviser and close family friend, and the sudden shift in the academic calendar
         for basic education, among others.</p>'
-  'duterte-on-senatorial-bets':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T16:48:39.000+08:00
-    'imagesource': 'jcr:b2c6b346-f46e-44ac-8478-dcff09c5d054'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'bdcf2def-3e31-4008-8210-b6cf43f8eb89'
-    'lead': 'Vice President Sara Duterte said on Thursday she is not keen on endorsing
+  'START HERE----->duterte-on-senatorial-bets':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T16:48:39.000+08:00
+    imagesource: 'b2c6b346-f46e-44ac-8478-dcff09c5d054'
+    primarytype: 'composition'
+    uuid: 'bdcf2def-3e31-4008-8210-b6cf43f8eb89'
+    lead: 'Vice President Sara Duterte said on Thursday she is not keen on endorsing
       senatorial candidates for the 2025 elections. '
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T16:54:45.922+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-18T16:54:46.270+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T16:54:45.949+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Ferdinand-Marcos-Jr.', 'Rodrigo-Duterte', 'Sara-Duterte', 'Bongbong-Marcos']
-    'stories': ['1b21756b-9f06-4970-af49-cbca405c4bf7', '420071d0-fb86-485d-b238-25c3c9be5818']
-    'template': '1'
-    'title': 'Duterte not keen to back senatorial bets'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78fdde11-4885-4ebb-9a78-0e20bff32e37'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.936+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.271+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.936+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
+    activationstatus: true
+    created: 2024-07-18T16:54:45.922+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-18T16:54:46.270+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T16:54:45.949+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: '1b21756b-9f06-4970-af49-cbca405c4bf7', '420071d0-fb86-485d-b238-25c3c9be5818'
+    template: '1'
+    title: 'Duterte not keen to back senatorial bets'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '78fdde11-4885-4ebb-9a78-0e20bff32e37'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.936+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.271+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.936+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
         Duterte said on Thursday she is not keen on endorsing senatorial candidates
         for the 2025 elections.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f924df3e-c6de-47f4-90c8-beff8101f1d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.937+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.272+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.937+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a chance interview, Duterte said she needs time to think about
+    section1:
+      primarytype: 'block'
+      uuid: 'f924df3e-c6de-47f4-90c8-beff8101f1d6'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.937+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.272+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.937+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a chance interview, Duterte said she needs time to think about
         her direction for the midterm polls.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc4ea758-ddab-431c-a406-b7fd55df48ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.937+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.273+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.937+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The vice president said she and President Ferdinand Marcos Jr. discussed
+    section2:
+      primarytype: 'block'
+      uuid: 'cc4ea758-ddab-431c-a406-b7fd55df48ea'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.937+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.273+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.937+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The vice president said she and President Ferdinand Marcos Jr. discussed
         this before she resigned as education chief.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e14fa9dc-94e0-45f6-b74a-fc1b638597f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.937+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.274+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.937+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Before ako nagresign, mayroon akong isang meeting kung saan inimbita
+    section3:
+      primarytype: 'block'
+      uuid: 'e14fa9dc-94e0-45f6-b74a-fc1b638597f8'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.937+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.274+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.937+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Before ako nagresign, mayroon akong isang meeting kung saan inimbita
         ako ni President Marcos para sumali, tumulong para sa mga senatorial candidates.
         At sabi ko sa kanya hindi ako muna sasali sa midterm elections,” she said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7727baa-48df-4bba-a9ee-be657d42baa9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.938+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.275+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.938+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Before I resigned, I had a meeting with President Marcos
+    section4:
+      primarytype: 'block'
+      uuid: 'b7727baa-48df-4bba-a9ee-be657d42baa9'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.938+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.275+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.938+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '[Translation: Before I resigned, I had a meeting with President Marcos
         where he invited me to join and help senatorial candidates. And I told him,
         I won’t join the 2025 midterm elections for now]'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '092acd72-2afc-4712-a31b-8349c219ddc9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.938+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.276+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.938+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Duterte said the message was the same for her father and former President
+    section5:
+      primarytype: 'block'
+      uuid: '092acd72-2afc-4712-a31b-8349c219ddc9'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.938+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.276+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.938+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Duterte said the message was the same for her father and former President
         Rodrigo Duterte. '
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0333d594-9fe2-4742-be39-5b4004442df1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.939+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.277+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.939+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sa isa namang pagkikita namin ni former President Duterte…inimbita
+    section6:
+      primarytype: 'block'
+      uuid: '0333d594-9fe2-4742-be39-5b4004442df1'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.939+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.277+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.939+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Sa isa namang pagkikita namin ni former President Duterte…inimbita
         niya rin ako mangampanya, sumuporta para sa mga candidates ng PDP. So sinabi
         ko rin sa kanya na hindi ako muna sasali sa midterm elections,” she said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6e396aa1-f6b5-4ab0-973e-3cdaf2aa7be9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.939+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.278+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.939+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: In my chance meeting with former President Duterte,
+    section7:
+      primarytype: 'block'
+      uuid: '6e396aa1-f6b5-4ab0-973e-3cdaf2aa7be9'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.939+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.278+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.939+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: In my chance meeting with former President Duterte,
         he also invited me to campaign and support candidates for the PDP. So I also
         told him that I won’t join the midterm elections for now]</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5dbb726d-73e3-4205-b91e-557299ae3c40'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.939+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.279+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.939+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The vice president earlier announced that her father and two brothers
+    section8:
+      primarytype: 'block'
+      uuid: '5dbb726d-73e3-4205-b91e-557299ae3c40'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.939+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.279+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.939+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The vice president earlier announced that her father and two brothers
         - Davao City Mayor Baste Duterte and Rep. Paolo Duterte - will seek a Senate
         seat in 2025.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ec9fd15-8e9a-4359-a94a-9e5d6211f2d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.940+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.280+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.940+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The elder Duterte, however, denied such plans.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4112fcf8-bda3-4d78-bf23-f317ffa42075'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T16:54:45.940+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T16:54:46.281+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T16:54:45.940+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>NewsWatch Plus Correspondent Lance Mejico contributed to this report.</p>'
-  'vietnam-south-china-sea-philippines':
-    'author': 'Tristan Nodalo, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T17:01:48.000+08:00
-    'imagesource': 'jcr:f8e2afec-7b17-477e-a91a-395ccdb41558'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3ba8fb75-d2a1-48c5-bfa8-c5028ac6ba7c'
-    'lead': 'After the Philippines, it’s Vietnam’s turn to file a claim before the
+    section9:
+      primarytype: 'block'
+      uuid: '8ec9fd15-8e9a-4359-a94a-9e5d6211f2d6'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.940+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.280+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.940+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The elder Duterte, however, denied such plans.</p>'
+    section10:
+      primarytype: 'block'
+      uuid: '4112fcf8-bda3-4d78-bf23-f317ffa42075'
+      activationstatus: true
+      created: 2024-07-18T16:54:45.940+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T16:54:46.281+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T16:54:45.940+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>NewsWatch Plus Correspondent Lance Mejico contributed to this report.</p>'
+  'START HERE----->vietnam-south-china-sea-philippines':
+    author: 'Tristan Nodalo, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T17:01:48.000+08:00
+    imagesource: 'f8e2afec-7b17-477e-a91a-395ccdb41558'
+    primarytype: 'composition'
+    uuid: '3ba8fb75-d2a1-48c5-bfa8-c5028ac6ba7c'
+    lead: 'After the Philippines, it’s Vietnam’s turn to file a claim before the
       United Nations for an extended continental shelf (ECS) in the South China Sea. '
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T17:08:27.863+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2024-07-18T17:08:28.169+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-18T17:08:27.905+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['vietnam', 'philippines', 'south-china-sea', 'West-Philippine-Sea']
-    'stories': []
-    'template': '1'
-    'title': 'Vietnam files UN claim to extended boundaries in South China Sea'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55c0ea77-9563-4835-ae81-8a9cbf4eab90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.889+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.170+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.900+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> After the Philippines,
+    activationstatus: true
+    created: 2024-07-18T17:08:27.863+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2024-07-18T17:08:28.169+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-18T17:08:27.905+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Vietnam files UN claim to extended boundaries in South China Sea'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '55c0ea77-9563-4835-ae81-8a9cbf4eab90'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.889+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.170+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.900+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> After the Philippines,
         it’s Vietnam’s turn to file a claim before the United Nations for an extended
         continental shelf (ECS) in the South China Sea.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '395de1a8-c518-42d5-92da-5bc0b8cf260e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.890+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.171+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.890+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Vietnam Foreign Ministry said that under the United Nations
+    section1:
+      primarytype: 'block'
+      uuid: '395de1a8-c518-42d5-92da-5bc0b8cf260e'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.890+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.171+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.890+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The Vietnam Foreign Ministry said that under the United Nations
         Convention on the Law of the Sea (UNCLOS), it is “entitled to a continental
         shelf extending beyond 200 nautical miles from the baselines from which the
         breadth of the territorial sea is measured.”</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f61bbf55-19ef-4c4b-ab04-c13fd75312eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.890+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.172+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.890+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>This is not the first time Hanoi is making such a submission. In
+    section2:
+      primarytype: 'block'
+      uuid: 'f61bbf55-19ef-4c4b-ab04-c13fd75312eb'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.890+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.172+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.890+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>This is not the first time Hanoi is making such a submission. In
         2009, Vietnam filed a submission in respect to the north area of the South
-        China Sea or Vietnam''s East Sea and a joint submission with Malaysia in respect
+        China Sea or Vietnam’s East Sea and a joint submission with Malaysia in respect
         to the southern part of the area in 2009.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98edabe6-b494-4f6e-b4c5-bfd0f3d6caf2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.890+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.173+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.890+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'China claims almost the entire South China Sea, including parts claimed
+    section3:
+      primarytype: 'block'
+      uuid: '98edabe6-b494-4f6e-b4c5-bfd0f3d6caf2'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.890+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.173+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.890+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'China claims almost the entire South China Sea, including parts claimed
         by the Philippines, Brunei, Malaysia, Taiwan, and Viet Nam.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fee95744-9012-4dae-96fb-ab085080bc64'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.891+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.174+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.891+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Vietnam also asserted its sovereignty over the Spratly Islands.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82c1a9b3-b204-4dbd-9398-be5a2f202246'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.891+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.175+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.891+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Viet Nam reaffirms its sovereignty over the Hoang Sa (Paracel)
+    section4:
+      primarytype: 'block'
+      uuid: 'fee95744-9012-4dae-96fb-ab085080bc64'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.891+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.174+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.891+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Vietnam also asserted its sovereignty over the Spratly Islands.</p>'
+    section5:
+      primarytype: 'block'
+      uuid: '82c1a9b3-b204-4dbd-9398-be5a2f202246'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.891+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.175+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.891+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“Viet Nam reaffirms its sovereignty over the Hoang Sa (Paracel)
         Islands and Truong Sa (Spratly) Islands under international law, and the rights
         over its maritime zones in the East Sea established in accordance with UNCLOS,”
         the ministry said.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '749ceeab-00ed-41d9-a485-78afcc042d51'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.892+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.176+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.892+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement, the Department of Foreign Affairs said that the
+    section6:
+      primarytype: 'block'
+      uuid: '749ceeab-00ed-41d9-a485-78afcc042d51'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.892+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.176+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.892+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>In a statement, the Department of Foreign Affairs said that the
         Philippines affirms its claim to its extended continental shelf in the Western
         Palawan Region saying it is consistent with its maritime entitlements under
         UNCLOS, as demonstrated by the ECS submission on June 15, 2024.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb7dfd54-da90-49db-b6f3-172e89a8d5d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.892+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.177+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.892+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Nevertheless, we acknowledge Viet Nam’s right, as a coastal State
+    section7:
+      primarytype: 'block'
+      uuid: 'bb7dfd54-da90-49db-b6f3-172e89a8d5d8'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.892+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.177+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.892+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“Nevertheless, we acknowledge Viet Nam’s right, as a coastal State
         like the Philippines, to submit information to establish the outer limits
         of their continental shelf beyond 200 nautical miles from the relevant and
         lawful baselines from which its territorial sea is measured, as provided for
         under UNCLOS,” the DFA said.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ed65f18-809f-4a34-9208-48c15bb1f705'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.893+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.178+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.893+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Manila said it is ready to engage with Vietnam on ways forward to
+    section8:
+      primarytype: 'block'
+      uuid: '4ed65f18-809f-4a34-9208-48c15bb1f705'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.893+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.178+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.893+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Manila said it is ready to engage with Vietnam on ways forward to
         help achieve a mutually beneficial solution to South China Sea issues in line
         with international law.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd268c490-5253-477c-b66f-581da4fae605'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.893+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.893+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Continental shelf or extended continental shelf</strong></h2>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a95acaf7-d8d8-425b-96eb-e08548ed2094'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.893+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.893+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Under Article 76 of UNCLOS, “the continental shelf of a coastal
+    section9:
+      primarytype: 'block'
+      uuid: 'd268c490-5253-477c-b66f-581da4fae605'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.893+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.893+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<h2><strong>Continental shelf or extended continental shelf</strong></h2>'
+    section10:
+      primarytype: 'block'
+      uuid: 'a95acaf7-d8d8-425b-96eb-e08548ed2094'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.893+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.893+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Under Article 76 of UNCLOS, “the continental shelf of a coastal
         State comprises the seabed and subsoil of the submarine areas that extend
         beyond its territorial sea throughout the natural prolongation of its land
         territory to the outer edge of the continental margin, or to a distance of
         200 nautical miles from the baselines from which the breadth of the territorial
         sea is measured where the outer edge of the continental margin does not extend
         up to that distance”.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac6076eb-520b-4c42-bf9e-2dc143252b00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.894+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.181+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.894+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Article 76 further states that “... the coastal State shall establish
+    section11:
+      primarytype: 'block'
+      uuid: 'ac6076eb-520b-4c42-bf9e-2dc143252b00'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.894+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.181+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.894+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Article 76 further states that “... the coastal State shall establish
         the outer edge wherever the margin extends beyond 200 nautical miles from
         the baselines from which the breadth of the territorial sea is measured....”</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1015fb5-ca92-4c6c-b6ad-ba10ecad8136'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T17:08:27.894+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-18T17:08:28.182+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-18T17:08:27.894+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The continental shelf beyond 200 nautical miles is what is now commonly
+    section12:
+      primarytype: 'block'
+      uuid: 'a1015fb5-ca92-4c6c-b6ad-ba10ecad8136'
+      activationstatus: true
+      created: 2024-07-18T17:08:27.894+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-18T17:08:28.182+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-18T17:08:27.894+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The continental shelf beyond 200 nautical miles is what is now commonly
         referred to as the “extended continental shelf” or ECS.</p>'
-  'tagaytay-suspect-killing-australians-filipina-surrender':
-    'author': 'Jim Gomez, Associated Press'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-18T19:11:16.000+08:00
-    'imagesource': 'jcr:d876ecc3-3e2c-437f-a733-bd2be92488cf'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1eda7303-b1c9-4709-be8c-b02877ad6532'
-    'lead': 'The suspect in the killings of two Australians and their Filipina companion
+  'START HERE----->tagaytay-suspect-killing-australians-filipina-surrender':
+    author: 'Jim Gomez, Associated Press'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-18T19:11:16.000+08:00
+    imagesource: 'd876ecc3-3e2c-437f-a733-bd2be92488cf'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '1eda7303-b1c9-4709-be8c-b02877ad6532'
+    lead: 'The suspect in the killings of two Australians and their Filipina companion
       at a hotel in a popular resort city south of Manila surrendered and claimed
       he wanted to retaliate against the hotel for firing him, Philippine officials
       said Wednesday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-18T19:48:56.700+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-18T19:49:12.545+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2024-07-18T19:49:12.062+08:00
-    'mgnl:lastModified': 2024-07-18T19:48:56.825+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Tagaytay-crime', 'Australian', 'tourist-safety', 'Lake-Hotel-murder',
-      'Tagaytay-killing']
-    'stories': []
-    'template': '1'
-    'title': 'Officials say suspect in killing of 2 Australians, Filipina surrenders'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be3f068c-841b-4ca0-b5f8-e574546cfdea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.799+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.545+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.816+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Tagaytay, Philippines (AP)</strong> — The suspect in the
+    activationstatus: true
+    created: 2024-07-18T19:48:56.700+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-18T19:49:12.545+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedVersion: '1.0'
+    lastactivatedVersionCreated: 2024-07-18T19:49:12.062+08:00
+    lastmodified: 2024-07-18T19:48:56.825+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Officials say suspect in killing of 2 Australians, Filipina surrenders'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'be3f068c-841b-4ca0-b5f8-e574546cfdea'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.799+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.545+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.816+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Tagaytay, Philippines (AP)</strong> — The suspect in the
         killings of two Australians and their Filipina companion at a hotel in a popular
         resort city south of Manila surrendered and claimed he wanted to retaliate
         against the hotel for firing him, Philippine officials said Wednesday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a8c248c-9bbc-42d4-98e1-9f4c5a4950d0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.799+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.545+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.799+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The suspect further said that he randomly barged into the victims’\
+    section1:
+      primarytype: 'block'
+      uuid: '9a8c248c-9bbc-42d4-98e1-9f4c5a4950d0'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.799+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.545+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.799+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The suspect further said that he randomly barged into the victims’\
         \ room last week because its window was open, authorities added.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af53f292-03c9-4a4f-a8de-3f694551d648'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.800+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.546+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.800+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The victims, whose hands and feet were tied, were found sprawled on\
+    section2:
+      primarytype: 'block'
+      uuid: 'af53f292-03c9-4a4f-a8de-3f694551d648'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.800+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.546+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.800+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The victims, whose hands and feet were tied, were found sprawled on\
         \ the floor in a street-level room at the Lake Hotel in Tagaytay city on July\
         \ 10 in a heinous crime that shattered the tranquility the tourism destination\
         \ known for a picturesque volcano nestled in a lake, Tagaytay Mayor Abraham\
         \ Tolentino said.\r"
-    '3':
-      'image': 'jcr:d3b42bc8-5cb2-4681-bcfa-5d8583dd1bd7'
-      'imageCaption': 'Tagaytay Mayor Abraham N. Tolentino, left, presides in a news
+    section3:
+      image: 'd3b42bc8-5cb2-4681-bcfa-5d8583dd1bd7'
+      imagecaption: 'Tagaytay Mayor Abraham N. Tolentino, left, presides in a news
         conference as a relative of the victim, right, talks with reporters near the
         suspect, left, in the killing of two Australian nationals and their Filipino
         companion stands at the back following his surrender in Tagaytay city, Cavite
         province Philippines on Wednesday, July 17, 2024. (AP Photo/Aaron Favila)'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '678594bb-acee-4037-a248-47f2079e04e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.800+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.546+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.800+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'image'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '366987c0-e1bd-47d4-8d1c-abfba8294e73'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.801+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.546+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.801+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a pre-dawn news conference at the city hall, Tolentino and police
+      primarytype: 'block'
+      uuid: '678594bb-acee-4037-a248-47f2079e04e8'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.800+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.546+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.800+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'image'
+    section4:
+      primarytype: 'block'
+      uuid: '366987c0-e1bd-47d4-8d1c-abfba8294e73'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.801+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.546+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.801+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a pre-dawn news conference at the city hall, Tolentino and police
         officials presented the handcuffed suspect, who was wearing a hoodie, dark
         eyeglasses and a face mask. The man, whose identity was not released, will
         face criminal complaints for the killings and robbery, Tagaytay police chief
         Charles Daven Capagcuan said.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cc4239f-50dd-410b-a4da-d6c4209e847c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.801+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.546+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.801+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The mayor repeated an apology to the victims’ families and to Australia
+    section5:
+      primarytype: 'block'
+      uuid: '2cc4239f-50dd-410b-a4da-d6c4209e847c'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.801+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.546+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.801+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The mayor repeated an apology to the victims’ families and to Australia
         for what he called the senseless killings.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d695e7f-5aae-4cbf-81de-9755df004662'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.802+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.546+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.802+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"We are pleased to present to you the main suspect in this brutal
+    section6:
+      primarytype: 'block'
+      uuid: '6d695e7f-5aae-4cbf-81de-9755df004662'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.802+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.546+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.802+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>"We are pleased to present to you the main suspect in this brutal
         crime and as promised that within a week, we will resolve and give justice,”
         Tolentino said, without identifying the victims as requested by their families.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0a4d6dc-b535-41ba-92ea-53ec424689a1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.802+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.547+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.802+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "In a Southeast Asian country where many criminal suspects have managed\
+    section7:
+      primarytype: 'block'
+      uuid: 'a0a4d6dc-b535-41ba-92ea-53ec424689a1'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.802+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.547+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.802+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "In a Southeast Asian country where many criminal suspects have managed\
         \ to evade arrest for months or years before getting captured, Tolentino commended\
         \ the police for rapidly identifying and locating the suspect, who was then\
         \ apparently pressured to give up.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8091197b-126c-4c32-a3a8-6dc413da8b46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.803+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.547+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.803+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "Capagcuan told The Associated Press ahead of the news conference that\
+    section8:
+      primarytype: 'block'
+      uuid: '8091197b-126c-4c32-a3a8-6dc413da8b46'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.803+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.547+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.803+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "Capagcuan told The Associated Press ahead of the news conference that\
         \ the breakthrough in the case came when the suspect was identified by at\
         \ least three hotel employees based on his image, which was captured by security\
         \ cameras showing a part of his face when his mask slid down.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2b311a4-0097-4822-930f-bb0a02604cbe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.803+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.547+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.803+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The identification and information from witnesses eventually led authorities\
+    section9:
+      primarytype: 'block'
+      uuid: 'b2b311a4-0097-4822-930f-bb0a02604cbe'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.803+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.547+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.803+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The identification and information from witnesses eventually led authorities\
         \ to the suspect’s Batangas home province near Tagaytay, where he decided\
         \ to surrender on Tuesday, the police chief said.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9cbea0b-bd8b-47c8-b6bf-a82173d89e05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.804+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.547+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.804+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "\"He wanted to get back at the hotel management for his dismissal,”\
+    section10:
+      primarytype: 'block'
+      uuid: 'a9cbea0b-bd8b-47c8-b6bf-a82173d89e05'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.804+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.547+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.804+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "\"He wanted to get back at the hotel management for his dismissal,”\
         \ Capagcuan told reporters, adding that the suspect used to work as a swimming\
         \ pool cleaner but was fired by the hotel in March after he was linked to\
         \ a robbery in one of the rooms.\r"
-    '11':
-      'image': 'jcr:567c324a-d204-4bdc-a58f-16ba973224bd'
-      'imageCaption': 'A suspect in the killing of two Australian nationals and a
+    section11:
+      image: '567c324a-d204-4bdc-a58f-16ba973224bd'
+      imagecaption: 'A suspect in the killing of two Australian nationals and a
         Filipino arranges his face mask as he is presented to reporters following
         his surrender in Tagaytay city, Cavite province Philippines on Wednesday,
         July 17, 2024. (AP Photo/Aaron Favila)'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d3daa90-6506-42b9-aca2-f09a90c0f022'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.804+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.548+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.804+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'image'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3afcd6ab-55f0-4c62-8399-56ce2f4bb73b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.805+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.548+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.805+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "Police officials planned to file criminal complaints of robbery in\
+      primarytype: 'block'
+      uuid: '8d3daa90-6506-42b9-aca2-f09a90c0f022'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.804+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.548+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.804+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'image'
+    section12:
+      primarytype: 'block'
+      uuid: '3afcd6ab-55f0-4c62-8399-56ce2f4bb73b'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.805+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.548+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.805+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "Police officials planned to file criminal complaints of robbery in\
         \ addition to the killings against the suspect.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecf5f1df-0b4e-4dd2-b435-0c40ce3982d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.805+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.548+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.805+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The man acknowledged taking the watch and shoes of the Australian male\
+    section13:
+      primarytype: 'block'
+      uuid: 'ecf5f1df-0b4e-4dd2-b435-0c40ce3982d9'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.805+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.548+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.805+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The man acknowledged taking the watch and shoes of the Australian male\
         \ victim after attacking him with a knife and suffocating his partner, a Filipino\
         \ woman who had acquired Australian citizenship, and her Filipina daughter-in-law,\
         \ Capagcuan said.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3db9ee0-9240-4d52-8d56-4e16f6987a53'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.806+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.549+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.806+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "\"He barged randomly with a knife into the room because its window\
+    section14:
+      primarytype: 'block'
+      uuid: 'd3db9ee0-9240-4d52-8d56-4e16f6987a53'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.806+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.549+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.806+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "\"He barged randomly with a knife into the room because its window\
         \ was open,” Capagcuan said.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '632d1047-85ad-4e0e-9e54-e69d1d74b1e5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.806+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.549+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.806+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The Australian woman and her daughter-in-law are to be buried in their\
+    section15:
+      primarytype: 'block'
+      uuid: '632d1047-85ad-4e0e-9e54-e69d1d74b1e5'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.806+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.549+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.806+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The Australian woman and her daughter-in-law are to be buried in their\
         \ family’s home province in the Philippines while the remains of the Australian\
         \ man would be flown Tuesday to Sydney, Tolentino said.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2439626b-03ac-493c-90ee-b1f58cae9026'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.807+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.549+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.807+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "The Australian couple had planned to fly back to Australia on July\
+    section16:
+      primarytype: 'block'
+      uuid: '2439626b-03ac-493c-90ee-b1f58cae9026'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.807+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.549+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.807+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "The Australian couple had planned to fly back to Australia on July\
         \ 10, the day they were killed, but decided to briefly take a vacation in\
         \ Tagaytay, the Filipino son of the slain Australian-Filipino woman told AP.\
         \ He spoke on condition of anonymity last week because he was fearful after\
         \ what happened to his mother and his wife and given the suspect remained\
         \ at large at that time.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1554267-eda4-43d6-841d-d72d3d4c2751'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.807+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.549+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.807+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': "During the news conference, the son, who still concealed his identity\
+    section17:
+      primarytype: 'block'
+      uuid: 'e1554267-eda4-43d6-841d-d72d3d4c2751'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.807+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.549+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.807+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: "During the news conference, the son, who still concealed his identity\
         \ with a white facial mask and a sport cap, thanked the police and the mayor\
         \ for quickly locating the suspect. He asked the suspect, who was standing\
         \ near him, what made him commit the gruesome crime but the man did not respond.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '67a9ab1c-a831-45e9-9764-a01e05666bbb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-18T19:48:56.808+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-18T19:49:12.550+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-18T19:48:56.808+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Tagaytay, about 60 kilometers (37 miles) south of Manila, is popular
+    section18:
+      primarytype: 'block'
+      uuid: '67a9ab1c-a831-45e9-9764-a01e05666bbb'
+      activationstatus: true
+      created: 2024-07-18T19:48:56.808+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-18T19:49:12.550+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-18T19:48:56.808+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Tagaytay, about 60 kilometers (37 miles) south of Manila, is popular
         among local and foreign tourists who flock there for its cool weather and
         to view one of the world’s smallest active volcanos in a lake from elevated
         ridges teeming with restaurants, viewing decks and hotels, including the one
