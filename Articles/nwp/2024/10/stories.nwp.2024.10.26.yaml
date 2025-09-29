@@ -1,0 +1,2294 @@
+'26':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'cc8986ef-26a0-45b3-9f59-c8554951b1b7'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-10-26T10:49:44.387+08:00
+  'mgnl:createdBy': 'lance-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:46:17.540+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.086+08:00
+  'mgnl:lastModified': 2024-10-26T18:20:24.752+08:00
+  'mgnl:lastModifiedBy': 'lance-nwp'
+  'mixed-movements-in-fuel-prices':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T10:49:44.000+08:00
+    'imagesource': 'jcr:32e05f39-7b09-4298-b0f7-6faeb5bf6913'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'e1022a5a-c54b-4ce1-8d92-e373ab95a5ca'
+    'lead': 'Motorists may see slight adjustments in fuel prices next week, projection
+      from the Department of Energy (DOE) showed.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T10:51:41.922+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:06.775+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.197+08:00
+    'mgnl:lastModified': 2024-10-26T10:51:41.957+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['fuel-price', 'DOE']
+    'stories': []
+    'template': '1'
+    'title': 'Mixed oil price movements seen next week'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '264cf36d-d498-40b2-8764-adc01347a5b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.947+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.778+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.953+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Motorists may see slight
+        adjustments in fuel prices next week, projection from the Department of Energy
+        (DOE) showed.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4c7811ca-866e-4f3b-b6cc-dcf75385b6dd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.948+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.779+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.948+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In an advisory released on Friday, Oct 25., DOE said gasoline prices
+        may either go down or up by P0.20 per liter. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91092689-a19a-4494-bb62-c5c532544432'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.948+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.779+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.948+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Diesel prices may also decrease by P0.10 or increase by P0.30 per liter,
+        while kerosene cost is likely to fall by up to P0.30 per liter.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9d7dbd3-f45b-40d2-8bea-1fe7ccc709c0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.949+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.780+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.949+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“For those areas declared under the State of Calamity, price freeze
+        for household LPG (liquefied petroleum gas) and kerosene will be implemented
+        for 15 days starting from the date of the official declaration,” the agency
+        said.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c675e4b-7bb7-4c8f-afac-5ff80c2ee6c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.949+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.781+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.949+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The DOE attributed the potential rollback to weaker oil demand in China
+        and the U.S., surprise build in U.S. stocks, and the expected stability of
+        geopolitical risks in the Middle East.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b620a10-bbe9-42d8-9622-3bb67a1f0056'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.950+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.781+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.950+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, prices may also rise due to South Korea’s increase in diesel
+        demand which could affect Asia, and possible supply disruption caused by Iran’s
+        retaliation. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f96fd2ed-9d24-4fb0-9997-6d10e32ebf65'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:51:41.950+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.782+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T10:51:41.950+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Oil firms cut fuel prices by less than a peso on Tuesday, Oct. 22.</p>'
+  'BDO-remains-online-Typhoon-Kristine':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T10:52:24.000+08:00
+    'imagesource': 'jcr:e969ad29-8710-40ad-8382-3b892a5f89d1'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '55607964-614d-4f85-9b95-844d31c3255a'
+    'lead': 'In the face of great damage brought by Tropical Storm Kristine to the
+      Bicol Region, BDO Unibank remained online within the Rinconada District to serve
+      the community’s cash requirements at a dire time when people needed access to
+      their funds.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T10:59:05.591+08:00
+    'mgnl:createdBy': 'cj-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:06.406+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.366+08:00
+    'mgnl:lastModified': 2024-10-26T19:31:42.602+08:00
+    'mgnl:lastModifiedBy': 'cj-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'A story of service and resiliency: BDO remains online amidst the onslaught
+      of Typhoon Kristine'
+    'visualType': 'image'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6176f4c3-3c82-42e6-82b9-78510f9be159'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:49:26.680+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.408+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.587+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> &nbsp;In&nbsp;the face
+        of great damage brought by Tropical Storm Kristine to the Bicol Region, BDO
+        Unibank remained online within the Rinconada District to serve the community’s
+        cash requirements at a dire time when people needed access to their funds.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6bf1cf52-e8a6-41b7-b684-52024b4f694d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.604+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.409+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.588+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54854bc4-c93e-4a94-b39e-5dcca078d3e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.605+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.410+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.588+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "The Rinconada District encompasses the municipalities of Baao, Balatan,\
+        \ Bato, Buhi, Bula, Nabua, and Iriga City.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31a20494-8174-411b-8121-9a58952e3c56'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.605+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.410+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.589+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a21c138-3a8b-473b-bd2d-206dfd02d877'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.605+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.411+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.590+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "According to Romeo R. De Vera III, Senior Assistant Vice President\
+        \ and Area Head of Region 6-Southern Luzon, the BDO branch in Iriga City was\
+        \ the only bank that remained accessible to clients needing cash on October\
+        \ 24 when the rest were unavailable.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39ad6915-4d18-43ee-b68f-b63c25a0d4ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.606+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.412+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.590+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd203a7db-6643-4f9a-add0-d8b6fe203b11'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.606+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.413+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.591+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "De Vera explained that to ensure uninterrupted service to their clients\
+        \ even during calamities, they strategically deploy personnel and resources\
+        \ where needed most, as some branches will have to close due to floods and\
+        \ other challenges.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c546e3a8-469b-437a-b5d6-59f22084310a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.606+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.413+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.591+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '669a0b51-49c1-413a-830b-7ae2074bc80d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.607+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.414+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.592+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>He stressed, however, that BDO prioritizes its personnel''s welfare
+        first, especially during these challenging situations.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e0f5d0d-4174-454a-b8d9-31fa1dfbc9ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.607+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.415+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.592+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"That''s always been our practice during calamities—after securing
+        our respective homes and families, our personnel would head to the branches
+        to help get these up and running, ready to serve our clients.”</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '070d7a77-47fd-4239-a95e-3857405de696'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.608+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.415+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.593+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '76629562-62ee-467e-805f-91364d0c46a7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.608+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.416+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.593+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>All in a day''s work</strong></h2>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5fcf4f99-0d78-4e06-9252-8dfbb1710662'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.608+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.417+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.594+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '27607845-4e9b-42ec-a0b3-079c9954167f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.609+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.418+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.595+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "For De Vera, it's business as usual, even in typhoons.\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f7d06a5a-808e-4b13-95bd-da51b6bc0f69'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.609+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.419+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.595+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5f0e854-05cd-4e46-a5c4-f0fd3ab736ad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.610+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.419+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.596+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\"As long as the roads are passable, we go and help out where we are\
+        \ needed. But we only ask employees who can report for work and are not adversely\
+        \ affected by the flood,” he pointed out.\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f89dc751-1701-4e3c-8812-a129d2612944'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.610+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.420+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.596+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fb941f46-9fa4-4b1f-990a-bddc08bc4ace'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.611+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.421+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.597+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "He also proudly shared that resilience is one of the many positive\
+        \ traits of Bicolanos like him.\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd393df81-e5e8-4e3d-886f-cd0c8e1e0ad8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.611+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.422+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.597+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '68ba674c-897f-43ee-a4d5-a2e86ad5b26d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.612+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.422+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.598+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\"When it comes to calamities, Bicolanos are resilient. It's just a\
+        \ typhoon. But this (Tropical Storm Kristine) was our strongest in 30 years.\
+        \ We were surprised by the magnitude of the ensuing floods,\" he admitted.\
+        \ \"But here in BDO, it's nothing new. Like we always say here, ‘we find ways.’\
+        \ That's why our clients are so happy with us; even clients from other banks\
+        \ can still withdraw using our ATMs.\" \r"
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc79103d-2fa4-4d33-9710-9d23754a2e7c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.612+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.423+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.598+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '820dde37-2c61-4cba-bf65-e95bfa437d3f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.613+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.424+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.599+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "He also noted that the bank’s “we find ways” philosophy extends not\
+        \ only to the level of service it provides to its clients but also to the\
+        \ support it offers to fellow employees, especially during trying times.\r"
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '110d522c-90c5-41c3-a59e-f7e7c7048bfd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.613+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.424+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.599+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '61a34b8b-ef86-4b6f-9892-bb287ad3cba0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.614+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.425+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.600+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "De Vera explained that this came to the fore when personnel from other\
+        \ branches were unable to go home because of the floods.\r"
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f3c74eec-1135-4cf4-ba6f-a7ede4fee3d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.614+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.601+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '75073993-f69e-4e06-8ba8-7f7d9dede5b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T10:59:05.615+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:06.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T19:31:42.601+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"One branch manager took in her home one of the staff who got stranded
+        and unable to go home because of the flood. The same is true for personnel
+        in our Camarines Sur-Nabua branch, who is still there. We also would like
+        to thank our security division for facilitating the delivery of relief goods
+        to them," he said.</p>'
+  'cavaliers-hold-off-pistons-in-bickerstaff-s-cleveland-return':
+    'author': 'Reuters'
+    'caption': 'Oct 25, 2024; Cleveland, Ohio, USA; Cleveland Cavaliers guard Donovan
+      Mitchell (45) drives to the basket against Detroit Pistons guard Cade Cunningham
+      (2) during the second half at Rocket Mortgage FieldHouse. Mandatory Credit:
+      Ken Blaze-Imagn Images'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T11:05:54.000+08:00
+    'imagesource': 'jcr:b62831b2-a84d-4de5-a54e-d09a79587aa0'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '86fac67b-d6e4-4d18-a2ce-a28652ba9157'
+    'lead': 'Dean Wade and Donovan Mitchell scored 19 points apiece and the host Cleveland
+      Cavaliers spoiled J.B. Bickerstaff''s return to the city with a 113-101 win
+      over the Detroit Pistons on Friday night.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T11:13:17.636+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:05.542+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.560+08:00
+    'mgnl:lastModified': 2024-10-26T11:13:17.675+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Detroit-pistons', 'cleveland-cavaliers', 'NBA']
+    'stories': []
+    'template': '1'
+    'title': 'Cavaliers hold off Pistons in J.B. Bickerstaff''s return to Cleveland'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e85b65dc-be67-4c81-bf72-5f9547ede3e5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.661+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.544+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.671+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Reuters -</strong> Dean Wade and Donovan Mitchell scored
+        19 points apiece and the host Cleveland Cavaliers spoiled J.B. Bickerstaff''s
+        return to the city with a 113-101 win over the Detroit Pistons on Friday night.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3beaf482-a510-494b-aeae-1f6396f87b43'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.661+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.545+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.661+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Jarrett Allen had 17 points and 11 rebounds, while Evan Mobley supplied
+        16 points, six rebounds, three assists and four steals for the Cavaliers.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '60139682-b1ef-411f-96c1-208d7afb267f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.662+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.546+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.662+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Darius Garland and Ty Jerome contributed 13 points apiece.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '12c10676-4a67-486a-ab33-eb9b60304c31'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.662+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.546+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.662+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Bickerstaff coached Cleveland to the Eastern Conference semifinals
+        last season but was dismissed after Cleveland was eliminated from the playoffs.
+        He was hired by Detroit over the summer.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '780f45cd-63d5-4afe-8f68-8a3f3e4aaa15'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.663+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.547+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.663+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Cade Cunningham led the Pistons with 33 points and six assists but
+        he also committed nine of Detroit''s 22 turnovers. Jaden Ivey had 22 points
+        and Malik Beasley scored 13 points off the bench.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7062c890-2aa4-43ca-a662-7bcd7445cd9c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.663+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.548+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.663+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Cavaliers finished the first half on a 13-4 run to take a 65-55
+        halftime lead. Turnovers played a big role, as Detroit committed 13 before
+        the break.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd892a41a-2482-42cf-b1c5-087576c6f761'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.663+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.548+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.663+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Allen led Cleveland with 12 first-half points, while Wade had 11. The
+        Pistons'' starting backcourt of Cunningham and Ivey combined for 32 points
+        but they also made eight of those turnovers.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7db5d2aa-328f-44c4-aa5a-d8931d21cdf9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.664+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.549+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.664+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Caris LeVert scored from in close with 4:56 left in the third quarter
+        to give Cleveland an 81-70 lead. Tobias Harris made a 3-pointer and Cunningham
+        scored from short range to cut the Cavaliers'' lead to six points. Ronald
+        Holland II''s layup pulled Detroit within four points with 2:21 left in the
+        quarter.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b1347c9c-91a9-4040-8a26-05b75169fdf2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.664+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.550+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.664+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Cavaliers then finished the quarter on an 8-0 run with Mitchell
+        scoring five of those points. Mitchell also made a free throw to start the
+        fourth quarter after Cunningham was whistled for a technical foul.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '262ac010-74bc-4065-b1cb-c05b4437e1b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.665+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.550+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.665+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Ivey halted the Cavs'' run with a three-point play early in the fourth
+        quarter. After Detroit pulled within eight points, Wade knocked down back-to-back
+        3-pointers to give his club a 105-91 lead with 6:17 remaining.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '27c226d5-25f9-4e88-9345-323777856a4c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T11:13:17.665+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.550+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T11:13:17.665+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>A layup by Allen and a midrange shot by Garland completed a 10-0
+        run to push Cleveland''s lead to 18 points. Ivey halted that run with a layup
+        but the damage had been done.</p>'
+  'new-tropical-storm-over-the-weekend':
+    'caption': 'Forecasters last spotted the storm 1,630 kilometers east of Central
+      Luzon, packing maximum sustained winds of 65 kilometers per hour (km/h) and
+      gusts of up to 80 km/h. '
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T12:28:18.000+08:00
+    'imagesource': 'jcr:a9d2467e-f22f-4ffb-963f-4633f1562d5a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'c3e22636-affc-42db-b26f-4fa30a3688e0'
+    'lead': 'A new tropical storm is seen to enter the Philippine Area of Responsibility
+      (PAR) over the weekend, just days after severe tropical storm Kristine battered
+      Luzon and Visayas, the Philippine Atmospheric, Geophysical, and Astronomical
+      Services Administration (PAGASA) said on Saturday, Oct. 26.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T12:30:43.116+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:05.181+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.683+08:00
+    'mgnl:lastModified': 2024-10-26T12:30:43.168+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['PAGASA', 'KristinePH', 'weather']
+    'stories': []
+    'template': '1'
+    'title': 'New tropical storm to enter PAR over the weekend - PAGASA'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '80a9a140-c502-4dd3-9fff-675fbeb2defe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.157+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.184+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.164+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> A new tropical storm
+        is seen to enter the Philippine Area of Responsibility (PAR) over the weekend,
+        just days after severe tropical storm Kristine battered Luzon and Visayas,
+        the Philippine Atmospheric, Geophysical, and Astronomical Services Administration
+        (PAGASA) said on Saturday, Oct. 26.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dcaa13f4-2e92-49c8-ac3c-2217f4bea371'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.157+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.184+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.157+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Forecasters last spotted the storm 1,630 kilometers east of Central
+        Luzon, packing maximum sustained winds of 65 kilometers per hour (km/h) and
+        gusts of up to 80 km/h. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e5abfad-952a-487b-91c4-7ef8bdbf2a91'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.157+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.185+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.157+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The weather bureau said the cyclone, with an international name ‘Kong-Rey’,
+        may enter the country’s weather monitoring zone tonight or tomorrow, Oct.
+        27. It will be named ‘Leon’ once it reaches the PAR.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '53140690-e88a-4080-93e9-a03b153e2526'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.158+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.186+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.158+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA said the weather disturbance may intensify into a severe tropical
+        storm on Sunday, and may reach typhoon category on Monday, Oct. 28. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fca6bdbd-c6fd-4058-988c-789f7b671b6f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.158+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.186+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.158+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“It may also continue to influence the southwesterly windflow initially
+        triggered by Severe Tropical Storm Kristine, which may affect the western
+        section of Southern Luzon, Visayas, and Mindanao in the coming days,” the
+        weather bureau said. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '240c97d4-a820-427b-9be8-d3d52647f605'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.159+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.187+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.159+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA said the storm’s path will be far from the Philippine landmass
+        but may still change within the coming days. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9300918-45a3-48df-9937-e560703ef279'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.159+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.188+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.159+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, severe tropical storm Kristine - which exited the weather
+        monitoring zone on Friday, may loop counterclockwise over the West Philippine
+        Sea on Sunday and Monday and move towards the PAR.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '429dd7d1-48ee-4640-84af-d3f8e0cd9d08'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.160+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.188+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.160+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'This forecast depends on weather systems that might affect Kristine,
+        including the tropical storm spotted outside of PAR, the bureau said.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd9207ee1-ff6b-4954-b2ac-a096dba248c9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T12:30:43.160+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:05.188+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T12:30:43.160+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The trough of Kristine will continue triggering scattered rains
+        over Occidental Mindoro and Palawan within the day.</p>'
+  'govt-workers-bonus-november-':
+    'caption': 'A usual work day for government employees inside their office (File
+      photo)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T13:12:22.000+08:00
+    'imagesource': 'jcr:10d06deb-8585-454c-8b39-ebf54de72cf9'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '2d89ed05-4d48-4cee-8868-0b331a8d8b6a'
+    'lead': 'Government workers will receive their year-end bonus and cash gifts earlier
+      than expected, as the Department of Budget and Management ordered its release
+      on the first payroll of Nov. 2024.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T13:17:31.375+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:04.175+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.794+08:00
+    'mgnl:lastModified': 2024-10-26T13:17:31.433+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['bonus', 'DBM']
+    'stories': []
+    'template': '1'
+    'title': "Year-end bonus, cash gift for govt employees out on first payroll of\
+      \ Nov.  \n"
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f65fee1d-8168-4453-a37b-1d584fb7f79c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.425+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.178+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.431+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Government workers
+        will receive their year-end bonus and cash gifts earlier than expected, as
+        the Department of Budget and Management ordered its release on the first payroll
+        of Nov. 2024.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9d5eaab-636a-4ece-b724-1eba191241c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.425+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.425+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In a statement, the budget department said it amended a section in
+        the Budget Circular No. 2016-4, which said bonuses and cash gifts shall be
+        given not earlier than Nov. 15 of the current year. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9752a5db-6075-438f-b478-794687fed4bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.426+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.426+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The year-end bonus is equivalent to one month of basic pay as of Oct.
+        31, while the cash gift stands at P5,000. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd41adb19-828c-4e83-a036-872cb198209f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.426+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.426+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency said the order was amended because of delays being experienced
+        by government workers in receiving their bonuses, “affecting their morale,
+        motivation, and level of job satisfaction”.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc072412-6ec7-4a1b-9988-00bd81ae3010'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.427+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.427+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“The streamlining process of each agency will mitigate the internal
+        and external cause of delay in the payment of benefits. A streamlined process
+        will increase productivity and efficiency, ensuring that the year-end bonus
+        and cash gift will be granted on schedule,” the DBM said. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cb8aec62-4442-4c75-8fe1-2295b119c9d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:17:31.427+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:04.181+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:17:31.427+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The department then instructed agencies to carry out necessary adjustments
+        in their payroll systems to prevent delays.</p>'
+  'harris-in-texas-trump-in-michigan':
+    'author': 'Trevor Hunnicutt, Gabriella Borter and Georgina McCartney, Reuters'
+    'caption': 'From left to right: U.S. Vice President Kamala Harris and former U.S.
+      President Donald Trump in separate campaign rallies ahead of the November election'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T13:27:19.000+08:00
+    'imagesource': 'jcr:b6e0603d-c425-4926-a225-5eaaaca68dda'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'c20f44fb-367f-4d7d-90a8-82bc349ebb0b'
+    'lead': 'Kamala Harris and Donald Trump took a detour from barnstorming the battleground
+      states that will decide November''s election with Friday stops in Texas, a conservative
+      state that was the first to implement a near-total abortion ban.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T13:31:19.535+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:03.868+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:00.971+08:00
+    'mgnl:lastModified': 2024-10-26T13:31:19.608+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Donald-Trump', 'Kamala-Harris', 'US-Elections']
+    'stories': []
+    'template': '1'
+    'title': 'Harris focuses on abortion in Texas, as Trump heads to Michigan'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cfa848e1-8ea3-4ee3-bc16-8bb18080700e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.568+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.870+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.597+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Texas, U.S. -</strong> Kamala Harris and Donald Trump took
+        a detour from barnstorming the battleground states that will decide November''s
+        election with Friday stops in Texas, a conservative state that was the first
+        to implement a near-total abortion ban.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '56c21d3c-a285-43ed-a7b5-cdb0c6a436c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.569+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.871+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.569+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Texas hasn''t backed a Democratic president since 1976, and Republican
+        Trump is almost certain to win the state''s 40 electoral college votes.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '07da8872-3db8-477c-abd7-a857e402a3c0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.569+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.872+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.569+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'But Democrats are betting it will provide a powerful backdrop for Vice
+        President Harris to talk about abortion rights in the final days before the
+        Nov. 5 election.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7f81f354-7b2f-42a9-b4a4-e2781df70924'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.569+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.872+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.569+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Superstar singer Beyonce, who was born in Houston, fired up the crowd
+        by introducing Harris, who came on stage to a recording of Beyonce''s song
+        "Freedom," which has made her campaign anthem. She did not sing however.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9deabd57-fe5e-4f9a-b4b2-2df663b67ef5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.570+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.873+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.570+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Harris spoke about the danger former President Trump and Republicans
+        could present to abortion rights across the country if he''s elected, a campaign
+        source said, and be joined by women who have suffered after Texas'' anti-abortion
+        regulations were passed and their family members.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '73a4a04b-d35c-4c90-9913-4c7f6e18f960'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.570+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.874+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.570+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"Texas, what is happening across this state and our country is a health
+        care crisis, and Donald Trump is the architect of it," Harris said.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a4f7f567-f9a4-41eb-a97e-b825d3added4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.571+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.874+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.571+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Texas implemented a first-of-its kind law in September 2021 that banned
+        abortion after six weeks and allowed anyone to sue abortion patients in violation
+        and those who assisted them.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e0f5b09b-90e1-4261-a187-6564309a55d1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.571+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.875+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.571+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The U.S. Supreme Court, with a conservative majority formed by Trump''s
+        judicial appointments, allowed the law to stand, and then gutted federal abortion
+        rights by overturning Roe v. Wade in June 2022.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f69f71c5-27c5-4161-ae54-eae34f6214ea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.572+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.876+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.572+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In between personal stories of abortion-related tragedy, and before
+        Beyonce took the stage, the rally took on the air of a dance party, with people
+        swaying and singing along to a DJ.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2f31c4bb-6859-458d-9020-72f5666b15b9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.572+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.876+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.572+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'While Beyonce appealed to a younger crowd, 91-year-old Willie Nelson
+        showed earlier in the event that he still has cachet in his native Texas.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '49786cd5-c5bb-435a-a45e-0fd3a4f6231b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.572+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.877+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.572+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"Are we ready to say Madam President?" Nelson asked the crowd before
+        launching into "Mammas Don''t Let Your Babies Grow Up to Be Cowboys," to which
+        the audience sang along.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2c3d448a-c0e0-41d4-a4ca-390d40440b7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.573+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.878+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.573+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'He closed with "On the Road Again"'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e7207e30-0de2-466b-8d74-c320d474dedd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.573+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.878+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.573+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Trump was also campaigning in Texas on Friday, making a stop in Austin
+        to record an episode of "The Joe Rogan Experience," a popular podcaster with
+        tens of millions of social media followers, most of them men.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a76709b3-dcd4-419b-b3e7-14d5375dad38'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.574+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.879+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.574+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'After a three-hour interview with Rogan in Texas, Trump arrived late
+        to a rally in battleground state Michigan.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8134cc32-4de1-4d9c-8b6e-75fe8fc104c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.574+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.880+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.574+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"We''ve got a war going and she''s out partying," Trump said Friday
+        night, a reference to Israel''s attacks on Iran.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b9911dd-b97a-4fc1-a556-e43872561c4f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.575+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.880+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.575+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In his interview with Rogan, Trump again suggested he favored eliminating
+        income tax and replacing the lost revenue with tariffs.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0bfbb963-0264-475b-a4c1-d49825f2b167'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.575+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.881+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.575+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"Did you just float out the idea of getting rid of income taxes and
+        replacing it with tariffs? Are we serious about that," Rogan asked.'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09e29171-fe56-4b78-a201-558690cbab1b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.576+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.882+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.576+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"Yeah, sure. Why not?" Trump replied.'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c351fe8d-4b14-4765-82ef-5bff1f5ba258'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.576+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.882+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.576+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Harris'' team had been in touch with Rogan''s program about a possible
+        appearance, but scheduling did not line up, spokesperson Ian Sams said on
+        MSNBC on Thursday.'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b7c7594-86dc-43af-9080-19c20793ea97'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.577+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.883+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.577+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Trump has lost ground with women voters since Harris became the Democratic
+        candidate, polls show, although the two are in a tight race in the battleground
+        states.'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8fdca769-4387-4846-b658-081efd89782e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.577+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.884+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.577+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Harris led Trump by 49% to 36%, or 13 percentage points, among women
+        voters in a Reuters/Ipsos poll published late in August, compared to her 9-point
+        lead in polls conducted in July.'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c358c7d6-6c53-4516-b5e5-460b7113f996'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.578+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.884+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.578+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Trump has taken credit for appointing the justices who helped overturn
+        Roe v. Wade.'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09096ad2-6150-4feb-959e-ab81081517c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.578+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.885+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.578+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Since winning the Republican primary earlier this year however, he
+        has sought the support of moderate and independent voters, saying he would
+        not support a national ban on abortions and that individual states should
+        be free to restrict abortion as they choose.'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f9f358a0-0977-4d4f-8830-cb8b01b1034a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.579+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.886+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.579+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'He called for exceptions on any ban to include incidents of rape and
+        incest or to protect the health of the mother. However, Trump said in August
+        he would vote against an amendment in his home state of Florida to protect
+        abortion rights that would lift a six week abortion ban, before many women
+        know they are pregnant.'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5eee3cee-7489-41f5-8b06-4c8765d12c4b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.579+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.886+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.579+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The majority of Americans disagreed with the Supreme Court''s overturning
+        of Roe, which fueled a wave of Democratic wins in the 2022 midterm elections
+        and left Republicans scrambling to find a winning message on the issue.'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2dac1172-24fd-4660-8880-c56ae4ffe5b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.580+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.887+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.580+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Personal stories</strong></h2>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cfb6ecf5-0f63-46b3-964f-6e6393b4c33a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.581+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.894+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.581+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Texas Democratic Senate candidate Colin Allred also attended Harris''
+        rally, as Democrats sought to give him a boost in his bid to unseat Republican
+        Senator Ted Cruz.'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6361c8cc-fd38-4c6a-81e0-4a8dec51b350'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.581+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.895+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.581+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Harris led the Biden administration''s reproductive rights initiatives
+        and has made the issue a cornerstone of her presidential campaign.'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a039377c-afa9-4860-ada8-c91e506732a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.582+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.896+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.582+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Democrats have highlighted personal stories to show the impact of abortion
+        being almost entirely banned in 16 states.'
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '173acbe4-30fc-4c57-8b01-3d26b771d77b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.582+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.896+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.582+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Ahead of the Houston trip, her campaign released an ad featuring
+        a Texas woman who was denied an emergency abortion when her water broke at
+        16 weeks in 2022 and who then almost died of sepsis.</p>'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3ddd9daa-d54d-4f05-bd25-7d6921b4fa13'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.583+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.897+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.583+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>An analysis by JAMA Pediatrics, a medical journal, found that Texas
+        saw a larger increase in infant mortality than the rest of the U.S. after
+        enforcing the abortion ban, and early reports indicate that Texas has also
+        seen a significant increase in maternal deaths.</p>'
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '445652de-6ade-4856-89c1-3526a82398bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T13:31:19.584+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.897+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T13:31:19.584+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Trevor Hunnicutt, Gabriella Borter and Georgina
+        McCartney; Additional reporting by Steve Holland; Editing by Heather Timmons,
+        Lincoln Feast and Shri Navaratnam.)</em></p>'
+  'cj-opiaza-miss-grand-first-runner-up':
+    'caption': 'CJ Opiaza was crowned first runner up at the Miss Grand International
+      2024 pageant in Bangkok, Thailand on Friday, Oct. 25.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T14:43:42.000+08:00
+    'imagesource': 'jcr:f2f5f9e9-2fcd-42eb-b282-e38d5773767f'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd7690701-da19-4fd0-bafb-3acfbff2ab80'
+    'lead': 'The country’s bet at the prestigious Miss Grand International pageant
+      was hailed as first runner up in its 2024 edition, with India taking home this
+      year’s crown. '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T14:45:44.335+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:03.155+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.150+08:00
+    'mgnl:lastModified': 2024-10-26T14:45:44.374+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['cj-opiaza', 'Miss-Grand-International']
+    'stories': []
+    'template': '1'
+    'title': 'PH bet wins 1st runner up at Miss Grand International 2024'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a66522c-6d61-4d75-9248-a5e7f0556611'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.365+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.157+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.371+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> The country’s bet at
+        the prestigious Miss Grand International pageant was hailed as first runner
+        up in its 2024 edition, with India taking home this year’s crown.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '063acb50-12e5-4e38-9c05-0266ef82ddc0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.365+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.158+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.365+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Cj Opiaza from Zambales wowed the crowd with her relevant answer during
+        the pageant’s question and answer portion. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '55d785e0-6e2f-4535-862f-93b05df18a7c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.366+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.159+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.366+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Filipina beauty queen tackled war and violence across the globe,
+        when asked about a critical issue that needs to be resolved.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '61cb880d-d019-499c-b90f-62fa61a3a46a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.366+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.159+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.366+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“We can see all around in the media that there are people dying, people
+        suffering. You can see kids crying, their dreams are being shattered…I collect
+        you all as you leave this place today to bring much more kindness, respect
+        and treat one another as human,” she said. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fba87441-e344-482e-9686-b7799fae440c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.366+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.160+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.366+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Opiaza donned a stunning silver gown by Filipino designer Mak Tumang. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dcacf0bc-02c0-4f37-a307-b14dd3220fc8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.367+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.161+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.367+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'India’s Rachel Gupta bagged the crown, with bets from Myanmar, France,
+        and Brazil securing other runner up spots.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3169ae3a-3366-4d3e-bc9f-1947d346bef0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T14:45:44.367+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:03.161+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T14:45:44.367+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The pageant was held on Friday night, Oct. 25, in Bangkok, Thailand.</p>'
+  'kristine-deaths-rise-to-81':
+    'author': 'Lance Mejico, NewsWatch Plus'
+    'caption': 'Coast guard personnel on rubber boats on their way to reach stranded
+      residents in Maharlika Highway in Baao, Camarines Sur on Wednesday, Oct. 23.
+      (Philippine Coast Guard/Facebook)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T15:09:30.000+08:00
+    'imagesource': 'jcr:78b57597-bdba-4212-bbaa-489fff4370d3'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd22b2ce2-d4a1-4973-b771-0df64ae3d798'
+    'lead': 'The number of people who died due to severe tropical storm Kristine has
+      risen to 81, nearly double of the tally recorded by the Office of Civil Defense
+      on Friday.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T15:12:12.834+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:02.856+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.275+08:00
+    'mgnl:lastModified': 2024-10-26T15:12:12.889+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['NDRRMC', 'KristinePH']
+    'stories': []
+    'template': '1'
+    'title': 'Reported deaths due to ‘Kristine’ rise to 81 - NDRRMC'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2a2f8fd8-7f93-43f0-9f6c-1fe09e80d57c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.877+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.859+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.885+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> The number of people
+        who died due to severe tropical storm Kristine has risen to 81, nearly double
+        of the tally recorded by the Office of Civil Defense on Friday.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52f99d09-d0ee-46c6-8201-98346f6a2d32'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.877+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.859+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.877+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'This data is based on the monitoring dashboard by the National Disaster
+        Risk Reduction and Management Council (NDRRMC) on Saturday, Oct. 26. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f67e54bb-07fa-428b-8039-8441f09fcc4a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.877+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.860+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.877+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Sixty-six people were reported injured, while 34 individuals remain
+        missing. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d79b0c2-be20-4863-99b1-4bf5d566e6d7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.878+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.860+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.878+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Over 4.2 million people were affected with half of them coming from
+        the disaster-stricken Bicol region.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5b62f74-da7c-49ce-bef5-68f174248b04'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.878+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.861+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.878+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'More than 300,000 individuals are currently staying in evacuation centers,
+        the NDRRMC said. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4345385b-75c5-4167-8da6-3b5b5ab3fdbf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.879+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.862+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.879+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Infrastructure damages stood at P203.8 million, while agriculture losses
+        were pegged at P87.5 million.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b29caa0-8821-4660-9b34-0527837086ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.879+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.862+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.879+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'As of Saturday morning, a total of 83 municipalities and cities were
+        under a state of calamity based on NDRRMC’s tally. '
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fc4b6a2c-8b3d-4623-9ac0-447de613a0f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.879+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.863+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.879+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Kristine left the Philippine Area of Responsibility on Friday but may
+        reenter the weather monitoring zone on Sunday (Oct. 27) or Monday (Oct. 28). '
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd24794c4-b0cc-4f25-b599-bf6a2884ff30'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.880+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.864+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.880+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The weather bureau said a new tropical storm is expected to enter
+        tonight or tomorrow.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1fc802ea-63f1-4475-b623-fcbd793d5265'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T15:12:12.880+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.864+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T15:12:12.880+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/10/26/new-tropical-storm-over-the-weekend.html">New
+        tropical storm to enter PAR over the weekend - PAGASA</a></strong></p>'
+  'duterte-ready-to-face-senate-probe':
+    'author': 'Lance Mejico, NewsWatch Plus'
+    'caption': 'Former President Rodrigo Duterte shares dinner with his partner, Honeylet,
+      Sen. Bato dela Rosa, and Davao del Norte 1st district Rep. Pantaleon Alvarez
+      days before the Senate conducts its investigation into his drug war.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T16:43:34.000+08:00
+    'imagesource': 'jcr:c8550bfa-3e93-4737-bf21-6a3694c5f6af'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b4fea1b6-af7f-4b1e-a4bb-8617094fe503'
+    'lead': 'After skipping the House probe into his administration’s drug war due
+      to health reasons, former President Rodrigo Duterte is now ready to face senators’
+      inquiry on Monday, his former police chief and now Sen. Bato dela Rosa said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T16:50:38.140+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:02.489+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.446+08:00
+    'mgnl:lastModified': 2024-10-26T16:50:38.195+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Bato-dela-Rosa', 'Rodrigo-Duterte', 'drug-war']
+    'stories': []
+    'template': '1'
+    'title': 'Ex-pres. Duterte in condition to face Senate drug war probe - Dela Rosa'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2c11245f-52b1-4f4d-aa29-f47b5d9f05cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.176+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.491+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.189+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> After skipping the
+        House probe into his administration’s drug war due to health reasons, former
+        President Rodrigo Duterte is now ready to face senators’ inquiry on Monday,
+        his former police chief and now Sen. Bato dela Rosa said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e986a2f0-26b0-41e2-bf70-0bc0d3a57483'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.176+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.492+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.176+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In a radio interview, the lawmaker assured Duterte’s attendance in
+        the Senate probe into his controversial anti-narcotics campaign. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '15719813-0c0f-455d-91a7-cbd872738739'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.177+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.493+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.177+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'He said the former president, who skipped the House investigation on
+        Tuesday to ‘rest’, is now in good condition.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b5508b1e-1bd8-4abf-adcf-76e1d3b092cc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.177+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.493+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.177+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte and Dela Rosa had dinner on Friday, Oct. 25, together with
+        Davao del Norte 1st district Rep. Pantaleon Alvarez and Duterte’s partner,
+        Honeylet. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '749adc9c-d537-43ce-b935-3cbd8c30311f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.177+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.494+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.177+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Dela Rosa said this was not meant to prepare for the upcoming inquiry.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '827e57e6-e0c4-42a2-9d89-65cd69098d11'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.178+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.495+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.178+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Nung nagkita kami doon sa loob ng exhibit ng mga baril, ikot-ikot
+        doon, nagtingin-tingin ang mga baril, nag-imbita siya ng dinner pagkatapos
+        niya mag-ikot. Kaya nga, napasama ako doon sa sa dinner,” he told DWIZ 882.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ddb93a5-d27b-4896-92f3-114860d50758'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.178+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.495+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.178+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: When we met inside the firearms exhibit, while looking
+        around and checking out the guns, he invited me to dinner after his tour.
+        That’s how I ended up at the dinner]'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5e44c031-0290-44e6-bd8d-548865158249'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.179+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.496+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.179+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The former PNP chief said he will only share what he knows from his
+        “personal knowledge”.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a323ec4a-fb30-42b8-88d4-79e0082c5a11'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.179+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.496+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.179+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Hindi po ako magsi-share sa kanila ng tsismis. Hindi ako magsi-share
+        sa kanila ng opinion,” he said. '
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8442e53c-725b-4a19-825f-f24f69c6ce43'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.179+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.497+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.179+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I won’t share gossip. I won’t share my opinions]'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a1cc178c-ce7a-4051-b71e-98879757f348'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.180+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.498+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.180+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Dela Rosa is facing a number of allegations in the House quad committee
+        probe, including accusations of <strong><a href="https://www.newswatchplus.ph/news/2024/10/11/espinosa-claims-on-dela-rosa-in-delima-case.html">ordering</a></strong>
+        the implication of Sen. Leila de Lima in illegal drug trade.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b9593583-ad6a-4256-947c-0a3852d5c8a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.180+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.498+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.180+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte’s ex-police officer Royina Garma also told lawmakers of
+        a supposed <strong><a href="https://www.newswatchplus.ph/news/2024/10/12/cops-in-drug-war-killing-rewarded-.html">reward</a></strong>
+        system in killing drug suspects during the previous administration, which
+        Dela Rosa also denied.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78f15f7c-be49-436a-b965-c1e761a59232'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.181+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.499+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.181+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Despite this, the former Philippine National Police chief has not
+        attended a single hearing of the House.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'af0f10b7-e1dd-4b86-b954-d5ff395c5cf3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.181+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.499+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.181+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Dela Rosa said he trusts Sen. Koko Pimentel, who is in charge of the
+        investigation, to be fair and impartial.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '00042be8-453d-40c7-9568-2c13981d3e97'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.182+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.500+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.182+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Siya ay isang taong straight, matino na tao, fair na tao kahit na
+        sabihin mo nasa minority siya, kami nasa majority pero pagdating sa mga punto
+        na kailangan ng kooperasyon nila para maganda ang measures na aming tinatalakay
+        ay maganda iyong kooperasyon na pinapakita ni Sen. Koko,” he said.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1d8c3246-60fc-40ef-a952-4db4398ed643'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T16:50:38.182+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:02.500+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T16:50:38.182+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translate: He is a straightforward person, an honest and fair individual.
+        Even though you could say he’s in the minority and we’re in the majority,
+        when it comes to points where we need their cooperation for the measures we’re
+        discussing, Sen. Koko cooperates well]'
+  'a1-cebu-concert':
+    'caption': 'British-Norwegian group ''A1'' is set serenade Filipino fans in Cebu
+      on Feb. 14, 2025.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T17:37:11.000+08:00
+    'imagesource': 'jcr:45e979db-9ab1-468b-99b0-fcd3aba91f3a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ebe6d7a1-0dda-4fd9-8e65-bb78dbdf1b8a'
+    'lead': 'British-Norwegian boy group A1 is set to serenade Filipino fans on Valentine’s
+      Day 2025, as it brings its concert tour to Cebu.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T17:41:15.428+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:00.925+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.579+08:00
+    'mgnl:lastModified': 2024-10-26T17:41:15.460+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['A1', 'valentine-s-day']
+    'stories': []
+    'template': '1'
+    'title': 'A1 to serenade Filipino fans in Cebu on Valentine’s day 2025'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e91aa74c-eebf-4493-bad2-4b7e260e39f8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.452+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.927+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.457+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> British-Norwegian boy
+        group A1 is set to serenade Filipino fans on Valentine’s Day 2025, as it brings
+        its concert tour to Cebu.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ce66a30-4472-430f-8fb3-c6aaecaa31b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.452+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.452+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The group will hold its Valentine’s show at the Waterfront Cebu City
+        Hotel &amp; Casino in Cebu City. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '36a15ada-ae52-4e07-9089-0446242fb793'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.453+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.453+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>A1 earlier announced its post-Valentine concert on February 15,
+        2025 at the New Frontier Theater in Quezon City.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4da174a2-f271-4752-90bd-e8c90120c7d4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.453+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.929+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.453+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Since our last visit to the Philippines, we''ve been busy working
+        on our long-awaited new album, and production is in the final stages. We have
+        15 new songs that we''re currently putting the finishing touches to, for what
+        is shaping up to be an incredible album, so expect some exciting teasers in
+        the show,” Mark Read said in a press statement.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '32fa8e0d-93fb-4aeb-a997-d4c757db95e0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.454+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.454+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The group last visited the country in 2023 for its 25th anniversary.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '12a9b388-111e-4381-992c-99c4db0ce2f8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T17:41:15.454+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T17:41:15.454+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>A1 is known for its classic hits such as ‘Like a Rose’, ‘Everytime,
+        and Same Old Brand’, among others.</p>'
+  'willie-showtime-hosts-angat-buhay-donation':
+    'caption': 'From left to right: Willie Revillame, ''It''s Showtime'' hosts Kim
+      Chiu and Ogie Alcasid together with their staff'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T18:13:40.000+08:00
+    'imagesource': 'jcr:516e7971-a1da-4c48-9378-3a2cdb297dfe'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'a2828b20-76d6-4303-85fc-b6d500d9b7f5'
+    'lead': 'More celebrities and personalities pledged their donations to the relief
+      operations headed by former Vice President Leni Robredo for victims of the deadly
+      severe tropical storm ‘Kristine’.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T18:20:20.143+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:00.699+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.693+08:00
+    'mgnl:lastModified': 2024-10-26T18:20:20.177+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['showtime', 'Ogie-Alcasid', 'Willie-revillame', 'Kim-Chiu']
+    'stories': []
+    'template': '1'
+    'title': 'Willie Revillame, ‘It’s Showtime’ hosts donate to Robredo’s relief ops'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '884270a7-b65c-40db-bc59-48aad7199ade'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.165+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.702+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.172+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> More celebrities and
+        personalities pledged their donations to the relief operations headed by former
+        Vice President Leni Robredo for victims of the deadly severe tropical storm
+        ‘Kristine’.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f2f5c3bf-70b8-40c8-80c6-ea67b6ef57dc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.165+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.703+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.165+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'On Saturday, Oct. 26, television host Willie Revillame personally handed
+        a P3 million check to Robredo to aid residents in Naga city. Revillame is
+        seeking a Senate seat in the 2025 elections. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bb29bace-5645-4711-908a-523170f3b4cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.165+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.704+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.165+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Nagpapasalamat po tayo kay Willie Revillame na kusang loob na pumunta
+        sa atin, nagbigay ng very generous donation para sa mga kababayan natin na
+        nasalanta ng bagyo,” Robredo said in a press release.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f985a720-be0f-43bd-b848-179623808be9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.166+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.704+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.166+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, ‘It’s Showtime’ hosts Kim Chiu and Ogie Alcasid also announced
+        they will donate their P300,00 cash prize from their fresh win at the noontime
+        show’s “Magpasikat” contest. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba7be92c-5ce2-4f47-a546-e026192c8424'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.166+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.705+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.166+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Hindi pa man namin alam iyong nangyari sa Bagyong Kristine, pero iyong
+        charity po talaga namin ay para sa Angat Buhay Foundation. Malaking tulong
+        po ito sa lahat ng mga nasalanta,” said Chiu. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c8e9b7ff-d5e3-4cbc-b6ee-21e4bc6f8375'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.167+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.706+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.167+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Even though we didn’t know that this will be the impact
+        of severe tropical storm Kristine, our chosen charity is already the Angat
+        Buhay Foundation. This will be a great help to all those affected by the typhoon]'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fc91ab51-6f03-49a2-aff3-8b8643cbf197'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.167+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.707+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.167+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'On Thursday, Oct. 24, actor Donny Pangilinan personally handed relief
+        goods to Angat Buhay headquarters in Quezon City.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64c91157-bf5c-4c35-8ea2-493a09bd81e4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.168+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.707+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.168+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Actress Bea Binene also delivered aid at the foundation’s office on
+        Saturday morning. '
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '01ab5e49-cab3-4288-b299-6bbf499a8a77'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:20:20.168+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.707+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:20:20.168+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Angat Buhay was established, months after Robredo’s loss to Ferdinand
+        Marcos Jr. in the 2022 presidential race.</p>'
+  '290-filipinos-from-lebanon-back-home':
+    'caption': '290 Filipinos from Lebanon arrive at the NAIA Terminal 1 in Pasay
+      City on Saturday, Oct. 26.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-26T18:20:24.000+08:00
+    'imagesource': 'jcr:00ac3d14-a212-47d4-bb52-b4133882550c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '7fe5278b-18a1-41db-ab97-1226d9106392'
+    'lead': '290 Filipinos from Lebanon have returned home, the Department of Migrant
+      Workers said on Saturday, Oct. 26.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-26T18:23:01.143+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:11:00.229+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:45:01.817+08:00
+    'mgnl:lastModified': 2024-10-26T18:23:01.250+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Lebanon', 'OFW']
+    'stories': []
+    'template': '1'
+    'title': '290 Filipinos from Lebanon back home – DMW'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '62e721c5-ad09-4f29-b7a6-0aeb34054125'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.241+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.232+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.247+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> 290 Filipinos from
+        Lebanon have returned home, the Department of Migrant Workers said on Saturday,
+        Oct. 26.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78927ef5-bdee-4a4e-8153-b007301e3f07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.242+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.232+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.242+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'A total of 233 Overseas Filipino Workers (OFWs), together with 13 dependents
+        arrived at the Ninoy Aquino International Airport on Saturday, while 21 more
+        Filipinos with their dependents were also in the flight.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cca3dab6-b63d-4b8a-86ca-22d40e57ac27'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.242+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.233+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.242+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The DMW said it is the biggest batch of repatriates affected by escalating
+        tensions in the Middle East, bringing the total of returnees to 903.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bae04086-343c-4e5a-bb01-14c6d9a05751'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.242+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.234+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.242+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency earlier announced returning OFWs will receive P150,000 in
+        financial assistance from the agency and the Overseas Workers Welfare Administration. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf01d98b-cc4f-471f-8966-f767c9ba522d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.243+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.234+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.243+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In addition, they will benefit from livelihood assistance and training
+        programs provided by the Department of Social Welfare and Development and
+        the Technical Education and Skills Development Authority.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eac0f45d-598d-4146-bd0e-473be722cba2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-26T18:23:01.243+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:11:00.234+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-26T18:23:01.243+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'President Ferdinand Marcos Jr. earlier ordered government agencies
+        to utilize all available resources to ensure the safe and timely repatriation
+        of Filipinos affected by the ongoing conflict.'

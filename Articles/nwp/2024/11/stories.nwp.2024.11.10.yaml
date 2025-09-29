@@ -1,0 +1,2946 @@
+'10':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'e52e2968-dc44-43aa-bcbb-7b5f3a141fd9'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-11-10T09:38:39.430+08:00
+  'mgnl:createdBy': 'daniza-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:39:45.073+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:54.421+08:00
+  'mgnl:lastModified': 2024-12-22T14:22:38.622+08:00
+  'mgnl:lastModifiedBy': 'daniza-nwp'
+  'nika-now-sts':
+    'caption': 'Weather bureau PAGASA’s satellite as of Nov. 10, 9:20 a.m. (PAGASA)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T09:38:39.000+08:00
+    'imagesource': 'jcr:b91408b3-1705-43c6-b281-420ec08e4598'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ca672516-1689-4303-8d3f-a77637ef0ae4'
+    'lead': 'Wind Signal 2 has been raised in parts of Auora and Isabela as ''Nika''
+      intensified into a severe tropical storm on Sunday, Nov. 10.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T09:41:33.700+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:08.068+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:54.738+08:00
+    'mgnl:lastModified': 2024-11-10T09:41:33.741+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': '‘Nika’ now severe tropical storm; Signal 2 up in Aurora, Isabela'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1fe78c90-c41e-4528-a435-6cbab5ee56c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.713+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.072+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.713+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Wind Signal 2 has been
+        raised in two areas as “Nika” intensified into a severe tropical storm on
+        Sunday, Nov. 10.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9a282ae3-0381-4291-a9d7-9754444045ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.713+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.072+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.713+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>According to the Philippine Atmospheric, Geophysical and Astronomical
+        Services Administration (PAGASA), the southeastern portion of Isabela and
+        the northern portion of Aurora are under Wind Signal 2 – minor to moderate
+        threat to life may be expected.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3dc6ba98-d3f2-4382-811a-3a3a6030f3a9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.713+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.073+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.713+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The following areas are under Wind Signal 1:'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c98a652-d557-4b64-ad86-339e23a4d6a9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.714+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.074+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.714+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ southeastern portion of Cagayan'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8ed20782-6494-42ff-b54e-62e39f9c14c8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.714+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.075+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.714+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ rest of Isabela'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd81135e5-548a-4ad0-bab2-c9e3f41d187a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.714+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.076+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.714+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Quirino'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '764d3591-753c-417f-9e3b-c12eebde3f8f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.715+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.076+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.715+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Nueva Vizcaya'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b24e0a27-a5ec-476a-85ff-e4a22a6e8abd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.715+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.077+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.715+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ southeastern portion of Kalinga'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1c91eb1c-0cd5-421f-af81-d24c93140413'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.715+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.078+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.715+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ eastern portion of Mountain Province'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cfe524da-3257-4a96-8644-88cd710172c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.716+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.078+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.716+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Ifugao'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2c86ec8c-74a6-4cda-8957-e5941a34b7f7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.716+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.079+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.716+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ eastern portion of Pangasinan'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9e42f9c8-361a-4fe0-b3e3-92b34489ea6d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.717+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.080+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.717+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ rest of Aurora'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0f2e7156-941a-403a-b066-6bacc0032eab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.717+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.080+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.717+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Nueva Ecija'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a030605-0e56-44b5-933b-ed7fa9c6607d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.717+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.081+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.717+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ northeastern portion of Pampanga'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9845259f-7f48-4c95-8e33-f8181acb5200'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.718+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.082+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.718+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ northern and eastern portions of Bulacan'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8fe3c7b8-b88e-4cd5-b73d-45303be014af'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.718+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.082+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.718+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ eastern portion of Quezon including Polillo Islands'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5fcdf59e-8f92-43a5-b475-3efda4949d0a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.719+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.083+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.719+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Camarines Norte'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8c5977ec-3cfe-42a7-addc-8d4dcfe2a1ee'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.719+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.084+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.719+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Camarines Sur'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '834acfe3-e9a7-4a18-b9f3-8feab9ef8edc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.720+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.085+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.720+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Catanduanes'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aaee2556-9312-4082-afba-c2c3267a52cb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.720+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.085+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.720+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ northeastern portion of Albay'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1759c71a-0587-4222-8847-a728b69a14af'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.720+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.086+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.720+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Residents under Signal 1 should beware of minimal to minor threat to
+        life and property.'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b706e2e1-879d-4ee9-a214-36fe3cdd8c70'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.721+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.087+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.721+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, the northeasterly windflow will cause strong to gale-force
+        gusts over Batanes, Babuyan Islands, northern Cagayan, and Ilocos Norte.'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c4aa278-c831-4c52-8b15-e80fffd40319'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.721+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.087+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.721+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA said there is a risk of storm surge occuring in low-lying or
+        exposed coastal localities.'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f9c6df58-5b58-438c-9b46-afef9b0ade55'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.722+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.088+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.722+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'At 4 a.m., Nika was monitored 690 kilometers east of Infanta, Quezon.'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a814f8cc-93d2-489b-a9d0-dd9303c8e4f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.722+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.089+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.722+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'It has maximum sustained winds of 100 kilometers per hour (kph) and
+        gustiness of up to 125 kph, moving west northwestward at 30 kph.'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c1d3d2a3-4a51-439b-ac68-ce8945921e80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T09:41:33.723+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:08.089+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T09:41:33.723+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>PAGASA said Nika is undergoing rapid intensification.</p>'
+  'quadcomm-offer-pay-duterte-travel':
+    'caption': 'House quad-committee leaders hold its tenth hearing on extrajudicial
+      killings, the drug war, and offshore gaming on Nov. 7. (House of Representatives/YouTube)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T10:35:19.000+08:00
+    'imagesource': 'jcr:4b7933fc-aa7c-414d-a001-1eaab3c50c92'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b4ef5784-d7c1-4641-b5ba-4d72cbeae2d8'
+    'lead': 'House lawmakers have offered to pay for the travel and accommodation
+      expenses of former President Rodrigo Duterte for him to attend the quad-committee’s
+      inquiry on extrajudicial killings linked to his drug war.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T10:39:55.182+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:05.988+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:54.966+08:00
+    'mgnl:lastModified': 2024-11-10T10:42:54.033+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'House solons offer to pay for Duterte’s flight, accommodation to attend
+      EJK probe'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '40d0fb33-3770-4197-8247-285c95d0a289'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.211+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.990+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.027+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> House lawmakers have
+        offered to pay for the travel and accommodation expenses of former President
+        Rodrigo Duterte for him to attend the quad-committee’s inquiry on extrajudicial
+        killings (EJKs) linked to his drug war.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cae6bef9-6f05-43f2-af5c-74988842043c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.212+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.991+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.028+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The quad-committee leaders’ offer, which includes expenses of the
+        former president''s entourage, came after Duterte cited financial constraints
+        as one of the reasons why he skipped the previous hearing.</p>'
+    '2':
+      'contentWidth': 'fit-content'
+      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">READ:
+        Former President Rodrigo Duterte will not attend the House quad-committee’s
+        hearing on extrajudicial killings on Nov. 7, citing doubts on the panel’s
+        integrity among others | <a href="https://twitter.com/dsfernandez?ref_src=twsrc%5Etfw">@dsfernandez</a>
+        <a href="https://t.co/AhEzDYwKwQ">pic.twitter.com/AhEzDYwKwQ</a></p>&mdash;
+        NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1854051662102663325?ref_src=twsrc%5Etfw">November
+        6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc75cf6b-ec11-4602-803e-286dcdddd1f8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.212+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.991+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.028+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'embedCode'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4e6bfc9-1cb4-4be3-bf03-264e9de3f34f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.213+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.992+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.029+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“This is about the people’s right to know the truth about alleged abuses
+        in his administration’s anti-drug operations,” said Surigao del Norte Rep.
+        Ace Barbers, the overall quad-panel chairperson.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'be276f45-8165-4196-89c3-143d1b638fb1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.213+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.993+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.029+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“The committee is willing to help in any way possible. We’re all ready
+        to contribute personally if that’s what it takes. This is about accountability,
+        not excuses,” panel co-chairperson Santa Rosa, Laguna Rep. Dan Fernandez said.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1efc153e-ae7d-4cdb-b2c9-bd0a9e25479d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.213+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.993+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.030+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Manila Rep. Benny Abante, panel co-chairperson, stressed that the
+        families of EJK victims deserve to know the truth of the anti-illegal drug
+        campaign.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '32c8132a-33b3-4d7b-abb9-90f021e8cf90'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.214+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.994+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.030+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’re offering to remove every obstacle. We’re even willing to ‘chip
+        in’ if it means he can no longer avoid the inquiry,” he said.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05d22468-a876-4e4c-9758-5e673ef39f53'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.214+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.995+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.031+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte has repeatedly skipped the House quad-committee’s EJK investigation.
+        He, however, attended the <a href="https://www.newswatchplus.ph/news/2024/10/28/duterte-senate-drug-war-probe.html">Senate’s
+        first inquiry</a> on the matter.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '66f49fe7-8609-4629-a948-b7c7fc4a80ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.215+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.995+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.031+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The former chief executive is facing congressional scrutiny as his
+        drug war death toll reached more than 20,000, according to some estimates.
+        Government estimates place the number at around 6,000.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6973360f-15c2-4a42-9646-7778d8abdb0b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.215+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.996+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.031+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The <a href="https://www.newswatchplus.ph/news/2024/10/30/ICC-duterte-drug-war-.html">International
+        Criminal Court</a> is also looking into supposed crimes against humanity in
+        relation to Duterte’s bloody drug war.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '459120e0-63ef-4f77-b3ef-6eea75cf4e27'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T10:39:55.216+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.997+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T10:42:54.032+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+        this report.</em></p>'
+  'trump-wins-arizona':
+    'author': 'Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T11:17:19.000+08:00
+    'imagesource': 'jcr:10e90e71-c9f5-415c-8fe7-6c6e375ec330'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '86dab132-0e1f-42a3-b000-d9a44ade6c2b'
+    'lead': 'Donald Trump has won the presidential election in Arizona, Edison Research
+      projected, completing a sweep of all seven battleground states and locking in
+      a decisive Electoral College victory over Democratic Vice President Kamala Harris.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T11:20:54.529+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:05.328+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:55.127+08:00
+    'mgnl:lastModified': 2024-11-10T11:20:54.555+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Trump wins Arizona, sweeping all seven battleground states, Edison Research
+      says'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5fbeb47a-e67d-403f-927c-92bfffa6c06c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.546+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.330+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.552+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Washington, United States&nbsp;—</strong> Donald Trump has
+        won the presidential election in Arizona, Edison Research projected on Saturday,
+        completing a sweep of all seven battleground states and locking in a decisive
+        Electoral College victory over Democratic Vice President Kamala Harris.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dfe198a0-9c64-45d3-a4f0-fbec56fbc04c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.547+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.547+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Republican Trump, who had secured the 270 Electoral College
+        votes needed to win the White House by early on Wednesday, now has what is
+        expected to be a final total of 312 votes to Harris'' 226.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '170efc02-f6c3-4e76-9992-3bf6784de475'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.547+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.547+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In addition to Arizona, Trump won the swing states of Michigan,
+        Pennsylvania, Georgia, North Carolina, Wisconsin and Nevada. In 2020, Joe
+        Biden defeated Trump by winning six of the seven swing states - and narrowly
+        losing North Carolina and won 306 Electoral College votes to Trump''s 232.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '124f4579-03d9-473a-a3cf-7281dbfcd423'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.547+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.332+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.547+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Trump also won 306 in his 2016 victory over Hillary Clinton.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e1f7af5-c055-4650-82c2-826d601af994'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.548+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.333+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.548+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Associated Press said Trump has won 74.6 million votes nationwide,
+        or 50.5%, to Harris'' 70.9 million, or 48%.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f52c19b4-a803-44b8-bce6-8b1936e96b91'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.548+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.333+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.548+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>After Congress certifies the Electoral College vote on Jan. 6, Trump
+        and his incoming vice president, U.S. Senator JD Vance, are due to take office
+        on Jan. 20.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '40ab4f6c-643d-4667-a9b6-f7f2e7fb910e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:20:54.549+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:05.334+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:20:54.549+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by David Lawder, David Shepardson and Ismail Shakil;
+        Editing by Tom Hogue)</em></p>'
+  'republicans-on-brink-house-control':
+    'author': 'Jason Lange and David Shepardson, Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T11:24:02.000+08:00
+    'imagesource': 'jcr:efee612b-90cb-4902-9815-085a53dc7182'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '46e7eda6-cd21-4c50-a5f3-baf9ce180a69'
+    'lead': 'Republicans were close to clinching control of the U.S. House of Representatives,
+      a critical element for President-elect Donald Trump to advance his agenda when
+      he returns to the White House in January.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T11:28:10.285+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:04.942+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:55.304+08:00
+    'mgnl:lastModified': 2024-11-10T11:28:10.358+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Republicans on brink of clinching US House control after taking Senate'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1128ae2f-a381-481f-9b55-acdd00d2fdcc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.344+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.945+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.353+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Washington, United States —</strong> Republicans on Saturday
+        were close to clinching control of the U.S. House of Representatives, a critical
+        element for President-elect Donald Trump to advance his agenda when he returns
+        to the White House in January.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba6d5d9f-0963-4bde-9811-f0f9ad94d7ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.344+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.945+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.344+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>With votes still being counted from the Nov. 5 general election,
+        Republicans had won 213 seats in the 435-member House, according to Edison
+        Research, which projected on Saturday night that Representative Dan Newhouse
+        had enough votes to keep Republican control of Colorado''s 3rd congressional
+        district.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '53e2c231-0bb8-48d6-8d38-348165c92dc2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.344+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.946+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.344+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Republicans need to win five more seats to keep control of the House
+        and they already have enough victories to wrest control of the U.S. Senate
+        from Democrats, though Edison Research projected late on Friday that Democratic
+        U.S. Senator Jacky Rosen won reelection in Nevada.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '461178ff-4827-413d-9cda-5229ed286790'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.345+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.947+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.345+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Edison Research said Democrats have won 205 seats so far, including
+        projecting on Saturday that Representative Greg Stanton in Arizona had won
+        re-election. Democrats would need to win 13 of the remaining 17 seats to take
+        control.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5bd8795a-e0c2-4ecb-a8f3-e3569a301072'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.345+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.947+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.345+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>With Trump''s victory in the presidential election and Republican
+        winning control of the Senate, keeping hold of the House would give Republicans
+        sweeping powers to potentially ram through a broad agenda of tax and spending
+        cuts, energy deregulation and border security controls.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64355138-4791-4f65-89ff-455d58fe73ad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.346+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.948+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.346+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Most of the remaining 17 House races are in competitive districts
+        in Western states where the pace of vote counting is typically slower than
+        in the rest of the country.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '22abce46-18fd-4bc1-990a-8cac4bd2a1ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.346+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.949+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.346+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Nine of the seats are currently held by Republicans and eight by
+        Democrats. Fourteen seats were widely seen as competitive ahead of the election.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ced595e-7840-4a5e-a80c-b7a12462b46e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.347+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.949+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.347+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Republican senators will decide next week who will serve as the
+        party''s leader in the Senate in 2025 with John Thune, John Cornyn and Rick
+        Scott vying for the job. On Saturday, Senators Bill Hagerty and Rand Paul
+        endorsed Scott over the more senior Thune and Cornyn, who have been viewed
+        as favorites.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5772a57-dce1-4677-9f79-d6638565a30a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.347+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.950+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.347+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Cornyn vowed late on Saturday that if he wins he will keep the Senate
+        in session until Trump''s cabinet is confirmed.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5ad60854-54e8-4a4f-88c6-40b63924d267'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.347+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.950+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.347+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"No weekends, no breaks. Democrats can cooperate in the best interest
+        of the country, or continue the resistance, which will eventually be ground
+        down," he wrote on X.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd5d2c924-2cc9-40d6-9199-2922dad4d116'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T11:28:10.348+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.951+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T11:28:10.348+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Jason Lange and David Shepardson; Editing by Diane
+        Craft, Richard Chang and William Mallard)</em></p>'
+  'nika-8-areas-signal-2':
+    'caption': 'Weather bureau PAGASA’s satellite as of Nov. 10, 9:20 a.m. (PAGASA)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T11:57:38.000+08:00
+    'imagesource': 'jcr:b91408b3-1705-43c6-b281-420ec08e4598'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '23221d1a-a27e-45b3-914e-23402292e486'
+    'lead': 'Eleven areas are under Wind Signal 2 as Severe Tropical Storm Nika slightly
+      intensifies.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T12:00:19.304+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:04.480+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:55.824+08:00
+    'mgnl:lastModified': 2024-11-10T15:05:09.999+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': '11 areas under Wind Signal 2 as ‘Nika’ slightly intensifies'
+    'updated': 2024-11-10T15:00:00.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffe034f0-b121-4759-b1f0-0287801c5dd8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.317+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.483+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.972+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> More areas are under
+        Wind Signal 2 as Severe Tropical Storm Nika slightly intensifies on Sunday,
+        Nov. 10.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f8c7aef1-f14f-4037-8a05-6802e91690e5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.318+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.484+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.973+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>According to the Philippine Atmospheric, Geophysical and Astronomical
+        Services Administration (PAGASA), Wind Signal 2 has been raised over:</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dc6e54df-f2eb-44dc-ab3f-4a0e1915d9c8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.318+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.485+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.973+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ northern and central portions of Aurora</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c6bca91-7b61-48ec-9548-6b9948ec7ef5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.318+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.486+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.974+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Isabela'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c892cfca-2ed5-4e35-b2a6-565c055e4b09'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.319+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.486+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.975+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Quirino'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4cef2065-46c0-4ccc-94b4-5d59a54e257e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.319+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.487+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.975+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ southern portion of Cagayan'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83d2c5fe-d206-4e75-8d23-b8cfa6b4165a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.319+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.488+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.976+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Nueva Vizcaya'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2afd829c-a3f6-4288-a0f6-b8761d2228bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.320+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.489+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.976+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Kalinga'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ee56a87-7184-4f4c-8c4d-1625e07efdd3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.320+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.489+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.977+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Mountain Province'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64ee4188-73c1-4c7f-a93e-1f6613961c0b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.320+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.490+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.978+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Ifugao</p>'
+    '38':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6cbd4df3-205e-44c3-a6cc-324572d2023d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T14:51:21.182+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.491+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.978+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ eastern portion of Benguet</p>'
+    '39':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '49ea4df1-e18b-4af3-aabf-069e77193a32'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T14:51:21.183+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.492+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.979+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ northern portion of Nueva Ecija'
+    '40':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '395f530c-a99a-4add-96f1-a8ea8930d9ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T14:51:21.184+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.492+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.980+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ northeastern portion of Pangasinan</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f4bff4cf-bab1-4001-b80c-5dbd0e2a0d08'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.321+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.493+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.980+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Minor to moderate threat to life may be expected in the mentioned areas.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f5cf25ab-039d-4c39-9df9-44da8f020cb9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.321+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.494+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.981+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The following areas are under Wind Signal 1, which may pose minimal
+        to minor threat to life and property:</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '34e5844b-b464-490f-8b51-85baccf2f1ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.322+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.494+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.981+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ rest of Cagayan including Babuyan Islands'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84732b8c-6f05-4083-9a3c-18337aa1bd8e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.322+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.495+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.982+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Apayao'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3752848c-798d-46b4-90fd-0996ea8e4d85'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.322+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.495+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.983+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Abra'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '85594324-68c2-4d4a-84a5-714587da4208'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.323+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.496+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.983+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Ilocos Norte'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '44a18538-838b-4f01-b078-8bb8e86906c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.323+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.497+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.984+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Ilocos Sur'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f9dc5fe-00cd-4a77-b1e4-b3b516c4c434'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.324+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.497+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.984+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ rest of Pangasinan</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83fc8ce6-b11c-4bea-827b-2a21c6c18050'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.324+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.498+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.985+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ La Union'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b9b080f-f418-411a-a4df-3da2a2731bfe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.325+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.499+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.986+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ rest of Benguet</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5c9b365-edeb-4ed6-9b4d-b9d346586f2c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.325+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.499+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.986+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ rest of Aurora'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8eecc15f-0be3-408b-b37e-4fda5b34b837'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.325+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.500+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.987+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Tarlac</p>'
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9a51dd2-5f68-42c0-a4e9-218ab8c938f2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T14:51:21.187+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.501+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.988+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ northern and central portions of Zambales</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd26a6394-b289-4cb6-8f98-e4661b248671'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.326+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.501+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.988+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ rest of Nueva Ecija</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aad4b633-02c0-405a-a2b1-7cb4e4c4a7bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.327+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.502+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.989+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Pampanga'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '43ab183a-e655-4c8c-a68e-d90b47d202a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.327+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.503+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.989+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Bulacan'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c2547024-0ae5-406a-ad71-de4dc047e298'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.328+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.503+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.990+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Metro Manila</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '254660f5-2319-46b1-a187-c051c24eea0b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.328+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.504+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.991+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Rizal'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '222a0c5f-6a28-4b8a-886f-dedece886cd8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.329+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.505+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.991+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ eastern portion of Laguna</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '14927b1a-c675-4faa-9913-cc702e63e8a2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.329+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.505+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.992+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ eastern portion of Quezon including Polillo Islands'
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33e662f5-ca5d-40a6-a1bf-0e0b44a53a1d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.330+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.506+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.993+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Camarines Norte'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e82e6761-5783-44aa-b4f5-517529d35ff9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.330+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.507+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.993+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Camarines Sur'
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a8391abc-7910-45ef-b0e0-8cb22d2107bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.331+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.507+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.994+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Catanduanes'
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'db51f299-5382-44c9-883e-314f5ae1d03e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.331+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.508+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.995+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '+ Albay'
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '42e599b9-95b7-4e52-a831-70e50a5372b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.332+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.508+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.995+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Moderate to heavy rains, or about 50 to 100 millimeters, can be expected
+        over Aurora, Quezon, Catanduanes, Camarines Norte, Camarines Sur, and Northern
+        Samar.'
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b2736708-817e-43ae-a58c-677b1bcab49c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.333+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.509+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.996+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, the northeasterly windflow will cause strong to gale-force
+        gusts over Batanes.</p>'
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '177559f2-90f2-4dd7-8e55-48a81dbbf5ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.333+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.510+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.996+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA said there is a risk of storm surge occuring in low-lying or
+        exposed coastal localities.'
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3cfbbee4-7cd7-4070-bbd7-613551a98bac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.334+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.510+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.997+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>At 2 p.m., Nika was monitored 425 kilometers east of Infanta, Quezon.</p>'
+    '37':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '81e12d59-752e-4941-b249-4d9d927d7cf0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:00:19.335+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:04.510+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:05:09.998+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>It has maximum sustained winds of 110 kilometers per hour (kph)
+        and gustiness of up to 135 kph, moving westward at 30 kph.</p>'
+  'sugar-importation-decision-delayed':
+    'caption': 'A stock photo of sugarcane. (Canva)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T12:22:59.000+08:00
+    'imagesource': 'jcr:8e423fd1-c099-4248-a843-802e32c8574d'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '0ce67a98-3037-4897-ac9d-70bdc0bc000a'
+    'lead': 'The country has postponed making a decision on sugar importation until
+      mid-2025 to assess the domestic supply first, the Department of Agriculture
+      said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T12:26:06.691+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:03.168+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.117+08:00
+    'mgnl:lastModified': 2024-11-10T12:26:06.714+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'PH delays sugar importation decision ‘til mid-2025'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50c78537-c4ad-41c5-8d9c-7d5d93204090'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.703+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.177+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.703+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The country has postponed
+        making a decision on sugar importation until mid-2025 to assess the domestic
+        supply first, the Department of Agriculture said on Sunday, Nov. 10.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a9866803-ac61-4302-8938-50556b94c7a7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.703+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.177+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.703+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Agriculture Secretary Francisco Tiu Laurel Jr. and Sugar Regulatory
+        Authority (SRA) Administrator Pablo Luis Azcona agreed on the delay.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ae472f19-1fe1-41f4-b7a4-1b4f3e062ea0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.704+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.178+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.704+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Laurel said domestic supply of sugar is currently enough to meet the
+        projected demand.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e862dac-fcbb-4545-838a-db77d98c9a2c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.704+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.704+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '"Given the current situation, Administrator Azcona and I agreed that
+        a decision on sugar importation could be delayed until after May, when the
+        current harvest season ends," Laurel said.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b9b1838-f775-4009-b48b-c8de80b39a07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.704+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.704+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Our supply for both raw and refined sugar are stable and we are just
+        beginning our harvest season, so Sec Laurel and I agree to delay the decision
+        on sugar imports until after harvest sometime in May," Azcona said.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b813e16-f41f-4a39-ba16-e5c34c1d1441'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.705+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.181+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.705+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The current harvest season, Azcona explained, began slowly due to El
+        Niño. Total cane volume only reached a third of what was harvested around
+        the same period last crop year.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '30b3e137-43e1-48a7-9e1c-3ce2a633dc2d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.705+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.182+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.705+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Due to prolonged El Niño dry spells, the cane became physiologically
+        immature, leading to 16 percent lower sugar content per ton of cane.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '122de252-118e-4c69-90af-3179ef36af6e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.705+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.182+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.705+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>For the cane to mature and boost sugar content, Azcona said farmers
+        had to postpone their harvests.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '80a7fc1a-3779-4b3f-9ad5-44bb5d9bf08e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T12:26:06.706+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:03.183+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T12:26:06.706+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The SRA projected a 7.2-percent decrease in sugar production this
+        year. The present crop year will end in August 2025.</p>'
+  'marce-1-dead':
+    'caption': 'An area in Cagayan Province had knee-deep flood due to Typhoon Marce.
+      (PIA Cagayan/Facebook)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T13:19:19.000+08:00
+    'imagesource': 'jcr:719a7b97-e0b0-4df1-9358-f5e32d218cf9'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'faa27fd0-c629-495e-a3de-1c01335ec026'
+    'lead': 'A 12-year-old girl has been reported dead after Typhoon Marce devastated
+      the country, an initial report of the Office of Civil Defense showed.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T13:21:58.146+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:02.450+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.279+08:00
+    'mgnl:lastModified': 2024-11-10T15:04:47.433+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': '12-year-old girl reported dead amid Typhoon Marce'
+    'updated': 2024-11-10T15:03:49.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6141abbe-d329-458c-85c7-a90919a7151b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.159+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.453+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.428+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> A 12-year-old girl
+        has been reported dead after Typhoon Marce devastated the country, an initial
+        report of the Office of Civil Defense showed.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '20f9c479-6269-41ae-8bb0-9bfa9e3498f9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.159+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.453+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.429+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The report said the girl was from Claveria, Cagayan. Her body was
+        “retrieved inside a damaged house.”</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1543bf5d-b881-487c-9dd7-735779ba02fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:04:47.421+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.454+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.421+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The local government is still validating if her death was related to
+        the typhoon.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91c0e269-3548-4454-a628-1e8593213f02'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:04:47.422+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.455+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.422+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, one individual was injured while another remains missing
+        in Bantay, Ilocos Sur.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d46788a-3c41-478d-af8f-797c0aaebc70'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:04:47.422+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.455+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.422+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“The bamboo raft they were onboard capsized and the strong water current
+        caused by [Tropical Cyclone Marce] drifted them away,” the report said.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '55748056-0531-42a6-8392-ff108b810e8b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:04:47.423+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.456+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.423+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Based on the National Disaster Risk Reduction and Management Council
+        figures, 261,787 people have been affected by the typhoon.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4cd97154-a46a-4ed4-adaf-275c1d481b79'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.160+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.457+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.431+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Some 26,000 persons were displaced.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd57dc8b-65e4-4b58-8428-0be2f5332359'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.160+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.457+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.431+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Nearly 21,000 houses and 49 infrastructures were damaged.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '10502259-effc-43ac-9229-4a947ce32994'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.161+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.458+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.431+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>President Ferdinand Marcos Jr. has committed to immediately rehabilitate
+        destroyed houses in Cagayan after Marce battered the province.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '182f62f5-bfc0-4ba6-9e10-50c432c79bce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T13:21:58.161+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:02.458+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:04:47.432+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>He also provided P10 million each to eight municipalities in Cagayan
+        to aid their recovery.</p>'
+  'kanlaon-ash-emission':
+    'caption': 'A screenshot of Kanlaon Volcano’s ash emission on Nov. 10. (PHIVOLCS/X)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T15:26:54.000+08:00
+    'imagesource': 'jcr:c9caef58-2c50-450b-bdd3-d6cd0906fb39'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ebe6c140-aafb-481d-9cb4-857818bff80b'
+    'lead': 'Kanlaon Volcano in Negros Island emitted ash again, causing 500-meter
+      plumes on Nov. 10.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T15:28:44.924+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:00.831+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.445+08:00
+    'mgnl:lastModified': 2024-11-10T15:28:44.946+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Ash emitted from Kanlaon Volcano, causes 500-meter plumes'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7eaf036e-ed96-4e2e-bcb0-12238bde605b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:28:44.940+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.834+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:28:44.940+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Kanlaon Volcano in
+        Negros Island emitted ash again, causing 500-meter plumes on Sunday, Nov.
+        10.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e3932c7-5d5f-4e6a-ad2f-92958c270dbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:28:44.941+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.834+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:28:44.941+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Philippine Institute of Volcanology and Seismology (PHIVOLCS)
+        said the emission from the volcano''s summit crater happened between 8 a.m.
+        to 9 a.m.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '508ef856-3683-4937-8a06-87297695c38b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:28:44.941+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.835+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:28:44.941+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>It resulted in grayish plumes, a buoyant mixture of volcanic particles
+        and gas, as high as 500 meters above the crater. It flew southeast.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '839e975b-fe98-4a12-847f-3dba53ea9a1a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:28:44.942+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.835+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:28:44.942+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>PHIVOLCS recorded 11 earthquakes in the volcano on Saturday, releasing
+        almost 4,000 tons of sulfur dioxide.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c6a05265-e761-4f8c-b6c6-db949d18c542'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T15:28:44.942+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.836+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T15:28:44.942+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Kanlaon Volcano is under Alert Level 2 or low-level volcanic unrest.</p>'
+  'ukraine-major-attack-moscow':
+    'author': 'Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T16:01:14.000+08:00
+    'imagesource': 'jcr:31f4d529-ee7b-457a-aceb-964055c21846'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '22f84578-bbea-4d01-be83-47fad692c747'
+    'lead': 'Ukraine attacked Moscow with at least 25 drones, forcing the temporary
+      closure of two of the city''s major airports, Russian officials said, in what
+      was the biggest Ukrainian drone strike on the Russian capital to date.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T16:05:21.805+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:11:00.086+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.616+08:00
+    'mgnl:lastModified': 2024-11-10T16:05:21.826+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Ukraine launches major drone attack on Moscow'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '262d6734-d29d-488e-908c-e32efb80dbb5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.817+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.089+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.817+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Moscow, Russia —</strong> Ukraine attacked Moscow on Sunday
+        with at least 25 drones, forcing the temporary closure of two of the city''s
+        major airports, Russian officials said, in what was the biggest Ukrainian
+        drone strike on the Russian capital to date.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '372d2c41-e952-4879-bfb9-0dbf2371ae0c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.817+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.090+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.817+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Moscow Mayor Sergei Sobyanin said the drones were destroyed in the
+        Ramenskoye and Kolomensky districts of the Moscow region, as well as in Domodedovo
+        city, southwest of Moscow. The Moscow region has a population of more than
+        21 million.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '773fbf57-8290-4516-84e9-f483edb2f941'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.818+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.090+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.818+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"According to preliminary information, there is no damage or casualties
+        at the site of the fall of the debris," Sobyanin said on the Telegram messaging
+        app. "Emergency services are on the sites."</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ce58f652-f7cd-4aab-b86e-3d99a402871e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.818+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.091+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.818+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Ramenskoye district, some 45 kilometers (30 miles) southeast
+        of the Kremlin, was last targeted in Septemberin what was then Ukraine''s
+        biggest attack on the Russian capital, when Russian air defense units destroyed
+        20 drones.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3258dbce-9b8c-45a6-9f9b-d2ad426e5541'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.818+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.092+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.818+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Rosaviatsia, Russia''s federal air transport agency, said on Telegram
+        that "to ensure the safety of civil aircraft flights, temporary restrictions
+        have been introduced on the operation of the Domodedovo and Zhukovo airports,"
+        starting at 0530 GMT.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c820321d-a06d-4a1a-9773-27f82ed988c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.819+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.093+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.819+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'It did not say how long the restrictions would be in force.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'df19a173-6b87-4184-ac52-f2c61ac0d524'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.819+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.093+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.819+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Separately, Ukrainian drone attacks have set several non-residential
+        buildings on fire in Russia''s Kaluga and Bryansk regions overnight, regional
+        governors said on Sunday. The Russian ministry said it had destroyed 17 drones
+        over the Bryansk region.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4228d5d-bc39-4d1d-8fac-b0d424261e5c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:05:21.819+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:11:00.094+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:05:21.819+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Lidiaa Kelly in Melbourne; Editing by William
+        Mallard/Guy Faulconbridge)</em></p>'
+  'haley-pompeo-not-second-admin':
+    'author': 'David Shepardson, Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T16:11:01.000+08:00
+    'imagesource': 'jcr:158088ca-2c62-45f8-b490-580d717ad1aa'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ed051581-2545-4a74-960e-2c2e2f6bcf98'
+    'lead': 'President-elect Donald Trump said former Republican presidential contender
+      Nikki Haley and former Secretary of State Mike Pompeo will not be asked to join
+      his administration.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T16:15:22.635+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:59.710+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.766+08:00
+    'mgnl:lastModified': 2024-11-10T16:15:22.660+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Trump says Haley, Pompeo will not join second administration'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6c5ec074-b03a-4a54-b8f6-d07a9a85876c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.648+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.713+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.648+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Washington, United States&nbsp;—</strong> President-elect
+        Donald Trump said on Saturday that former Republican presidential contender
+        Nikki Haley and former Secretary of State Mike Pompeo will not be asked to
+        join his administration.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b9cc5653-ab75-4009-9934-d3939f456889'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.648+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.714+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.648+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"I will not be inviting former Ambassador Nikki Haley, or former
+        Secretary of State Mike Pompeo, to join the Trump Administration, which is
+        currently in formation," Trump posted on social media. "I very much enjoyed
+        and appreciated working with them previously, and would like to thank them
+        for their service to our country."</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '80fcf822-cbbc-4542-adc1-13c6d783da34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.649+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.714+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.649+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Trump is meeting with potential candidates to serve in his administration
+        before his Jan. 20 inauguration as president. Reuters reported Friday that
+        Trump met with prominent investor Scott Bessent, who is a potential U.S. Treasury
+        Secretary nominee.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ae918eb-179a-47a4-9f59-bfc3e2d80dc2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.649+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.715+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.649+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Haley, a former South Carolina governor who served as U.S. ambassador
+        to the United Nations under Trump, endorsed Trump for president despite having
+        criticized him harshly when she ran against him in the party primaries.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '86efce31-592a-4c73-99d6-c0be87dfbcdb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.650+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.716+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.650+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"I was proud to work with President Trump defending America at the
+        United Nations," Haley said on social media. "I wish him, and all who serve,
+        great success in moving us forward to a stronger, safer America over the next
+        four years."</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b84a95f1-9163-42c3-ab4a-4fb6c9c3c70c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.650+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.717+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.650+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Pompeo, who also served as director of the Central Intelligence
+        Agency under Trump, has been mentioned in some media reports as a possible
+        defense secretary and had been also seen a potential Republican presidential
+        candidate, before he announced in April 2023 he would not run.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6c8ba0d1-85fa-44a5-a8a3-43372951927e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.650+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.718+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.650+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Pompeo could not immediately be reached for comment Saturday.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '51987064-1850-44da-b104-be8170c11568'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.651+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.719+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.651+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>During his first term as president, Trump made some key personnel
+        announcements via social media posts.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6047a345-ce43-4ebd-af9a-e04133bc1008'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.651+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.719+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.651+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Separately, Trump said the 2025 presidential inauguration will be
+        co-chaired by real estate investor and campaign donor Steve Witkoff and former
+        Senator Kelly Loeffler.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '11871e07-c9ce-4dc6-9418-9dcf2632afb5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:15:22.651+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.720+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:15:22.651+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by David Shepardson; Editing by Cynthia Osterman
+        and Raju Gopalakrishnan)</em></p>'
+  'dozens-killed-wounded-jabalia-strike-':
+    'author': 'Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T16:18:41.000+08:00
+    'imagesource': 'jcr:481faf07-20e1-40e8-895d-efafe3fb722c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '1b484a25-233f-441c-95eb-89ad5c7e3c67'
+    'lead': 'Dozens of people were killed and wounded in an Israeli strike on a house
+      in Jabalia in the northern Gaza Strip, Palestinian medics said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T16:24:25.157+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:59.133+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:56.913+08:00
+    'mgnl:lastModified': 2024-11-10T16:24:25.178+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Dozens killed and wounded in Israeli strike on northern Gaza''s Jabalia,
+      medics say'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0e953edd-477b-44ca-94d4-ce6915117f75'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.169+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.136+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.169+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Cairo, Egypt&nbsp;—</strong> Dozens of people were killed
+        and wounded in an Israeli strike on a house in Jabalia in the northern Gaza
+        Strip at dawn on Sunday, Palestinian medics said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'edad0515-3d99-499e-8000-2b719a70f1c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.169+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.137+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.169+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Footage circulating on social media, which Reuters could not immediately
+        verify, showed about a dozen bodies wrapped in blankets and laid to the ground
+        at a hospital. Residents said the building that was hit had housed at least
+        30 people.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5db1ff8c-e815-4f8c-b994-140f2a775660'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.170+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.138+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.170+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Palestinian official news agency WAFA and Hamas media put the
+        number of people killed at 32. There was no immediate confirmation of the
+        tally by the territory''s health ministry.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '833c7277-bfd2-48b5-885e-69ec641e02ac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.170+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.139+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.170+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Civil Emergency Service said its operations have been halted
+        by an ongoing Israeli raid into two towns and a refugee camp in northern Gaza
+        that began on Oct 5. It also could not provide a figure for those killed in
+        the attack.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '763e4744-88a5-4332-b353-77d2b4525eea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.170+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.140+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.170+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Israel said it sent forces into Jabalia, Beit Lahiya and Beit Hanoun
+        in the north of the enclave to fight Hamas militants waging attacks from there
+        and to prevent them from regrouping. It says its troops have killed hundreds
+        of militants in those areas since the new offensive began.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3baa40d6-1f95-4ebd-a367-a6639d46cf1a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.171+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.141+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.171+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In Gaza City, an Israeli airstrike on a house in Sabra neighborhood
+        killed Wael Al-Khour, an official at the Welfare Ministry, and seven other
+        members of his family including his wife and children on Sunday, medics and
+        relatives said.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '60fa33bd-ba80-47fd-af73-c85dfec97f07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.171+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.141+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.171+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Israeli military said it was looking into the reports on the
+        strike in Jabalia and in the Sabra neighborhood.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c713ba96-cb73-4cff-95d1-fb77a3b84110'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T16:24:25.171+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:59.142+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T16:24:25.171+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Nidal Al-MughrabiEditing by Frances KerryEditing
+        by William Mallard and Frances Kerry)</em></p>'
+  'china-oppose-ph-maritime-law':
+    'author': 'Reuters'
+    'caption': 'A composite photo of China''s flag and the South China Sea.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T17:00:20.000+08:00
+    'imagesource': 'jcr:e471fb8a-eae4-4cb4-a3e3-353a800b589b'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'cb83f149-571b-4311-93c4-c316377edae4'
+    'lead': 'China rejected Philippine maritime claims on Sunday saying new legislation
+      ''severely infringes on'' Beijing''s territorial sovereignty and rights in the
+      South China Sea, and vowing to protect its own interests.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T17:05:57.357+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:58.768+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:57.100+08:00
+    'mgnl:lastModified': 2024-11-11T11:44:29.193+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['China', 'Global-Watch', 'West-Philippine-Sea']
+    'stories': []
+    'template': '1'
+    'title': 'China opposes new Philippine maritime law, vows to protect South China
+      Sea ''sovereignty'''
+    'updated': 2024-11-11T07:11:42.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ea262821-71a7-4178-bb0a-dfa3ca0993fe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.034+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.771+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.188+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Beijing, China —</strong> China rejected Philippine maritime
+        claims on Sunday, Nov. 10, saying new legislation "severely infringes on"
+        Beijing''s territorial sovereignty and rights in the South China Sea, and
+        vowing to protect its own interests.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c9e02e1-1b32-43e6-8b4d-fad2b93616e3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.035+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.772+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.188+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Philippine President Ferdinand Marcos Jr signed<a href="https://www.newswatchplus.ph/news/2024/11/8/maritime-zones-sea-lanes-new-laws-.html">
+        two laws on Friday</a> to define the country''s maritime entitlements and
+        set designated sea lanes and air routes to reinforce sovereignty.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd6ed5472-ba7a-4a5c-bb92-1e5fbaaed3dd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.035+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.772+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.189+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "\"China firmly opposes this and will continue to take all necessary\
+        \ measures in accordance with the law to resolutely defend China's territorial\
+        \ sovereignty and maritime rights and interests,\" the foreign ministry said.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f57f6fa-fb77-4ecf-b6cf-83fd9d7cade2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.035+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.773+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.189+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "Beijing claims sovereignty over nearly all of the South China Sea,\
+        \ including areas claimed by the Philippines, Brunei, Indonesia, Malaysia\
+        \ and Vietnam. China rejects a 2016 ruling by the Permanent Court of Arbitration\
+        \ in the Hague that its sweeping claims were not supported by international\
+        \ law.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '115a5ee1-6838-455a-8087-78fe92e0a783'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.036+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.774+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.190+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "The United States, a Philippine ally, backs the court's ruling in the\
+        \ case, which was brought by Manila.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2515d41e-9236-4042-a245-c50e081bc0b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.036+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.190+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "The Chinese ministry's statement on Sunday defined a baseline of \"\
+        territorial waters\" around the Scarborough Shoal, which China claims as its\
+        \ territory and calls Huangyan Island. The shoal is a major point of contention\
+        \ over sovereignty and fishing rights.\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8fc63b5-2b92-4da8-a692-bb52628864bc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.036+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.191+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "China has enacted domestic laws covering the South China Sea, such\
+        \ as a coast guard law in 2021 that allows it to detain foreigners suspected\
+        \ of trespassing.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c0e3dee3-ea2d-4b0f-a320-3ceba8c2cf98'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.037+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.776+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.191+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "With an armada of coast guard ships to assert its claims, Beijing routinely\
+        \ accuses vessels of trespassing in areas of the South China Sea that fall\
+        \ inside the exclusive economic zones of its neighbours, and has clashed repeatedly\
+        \ with the Philippines in the past year.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8c204c66-90b4-46ff-8544-3ccdb3a61a2c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.037+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.777+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.191+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': "China's coast guard issued a statement on Sunday saying the Philippines\
+        \ has frequently sent military and police warships and aircraft to \"intrude\"\
+        \ into the waters and airspace near the Scarborough Shoal. It accused Manila\
+        \ of instigating \"illegal fishing\" in the area.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91606341-71b1-47a7-b6f3-6adc498e5b94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-11T07:13:15.038+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.777+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-11T11:44:29.192+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Ella Cao in Beijing and Marius Zaharia in Hong
+        Kong; Editing by Tom Hogue and William Mallard)</em></p>'
+  'biden-trump-meet-white-house':
+    'author': 'Gabriel Araujo, Reuters'
+    'caption': 'President-elect Donald Trump (L), President Joe Biden (R) (Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T17:08:16.000+08:00
+    'imagesource': 'jcr:a23fb12e-11bc-453d-bcb0-78627e2b1d0e'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd5b6df77-9557-4518-84d9-a752eebbeae7'
+    'lead': 'U.S. President Joe Biden and President-elect Donald Trump will meet on
+      Wednesday at the White House on Biden''s invitation, a White House spokesperson
+      said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T17:12:23.369+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:58.325+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:57.239+08:00
+    'mgnl:lastModified': 2024-11-10T17:12:23.436+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Biden, Trump to meet at the White House on Wednesday'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f1e8f70e-8d24-4b8c-84fe-4613cde6d9d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.427+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.327+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.433+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Washington/Delaware, United States&nbsp;—</strong> U.S.
+        President Joe Biden and President-elect Donald Trump will meet on Wednesday
+        at the White House on Biden''s invitation, a White House spokesperson said
+        on Saturday.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '67537559-6f7c-4b94-b99c-dd1204264631'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.428+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.328+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.428+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Trump will take office on Jan. 20 after defeating current Vice President
+        Kamala Harris in the Nov. 5 presidential election.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '078150c6-c779-44ba-9578-417ac6a7a703'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.428+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.329+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.428+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"At President Biden’s invitation, President Biden and President-elect
+        Trump will meet in the Oval Office on Wednesday," Press Secretary Karine Jean-Pierre
+        said in a statement.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f4c606fa-ab6e-4119-8552-d56c1d3a30de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.428+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.329+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.428+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Biden, a Democrat, had initially sought reelection but dropped out
+        of the race in July after a disastrous debate against the Republican Trump.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '29306751-fb15-43d3-be2f-ca9d1c4353d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.429+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.330+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.429+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"I''m going to see him on Wednesday," Biden told reporters on Saturday,
+        when asked whether Trump was a threat to democracy.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e321baf-f5b3-481a-a498-8b4c8156927e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.429+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.429+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Biden spoke after leaving a church service in Rehoboth Beach, Delaware,
+        where he traveled for the weekend. The president did not respond to questions
+        about what he would say to Trump.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf3816ec-3d27-486a-9357-8842e4a97405'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T17:12:23.430+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:58.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T17:12:23.430+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Jason Lange in Washington and Gabriel Araujo in
+        Rehoboth Beach, Delaware; Editing by Diane Craft and Daniel Wallis)</em></p>'
+  'nika-landfall-isabela-aurora':
+    'caption': 'A screenshot of state weather bureau PAGASA''s satellite as of Nov.
+      10, 5:40 p.m. (PAGASA)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T18:03:32.000+08:00
+    'imagesource': 'jcr:a358f482-5b18-469d-8ec1-8a51fbfb85ed'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'e0b47650-3b90-4fdf-98d1-162443b7953e'
+    'lead': 'Severe Tropical Storm Nika will make landfall over Isabela or northern
+      Aurora by morning or early afternoon of Monday, Nov. 11, the state weather bureau
+      said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T18:06:28.583+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:57.926+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:57.428+08:00
+    'mgnl:lastModified': 2024-11-10T18:06:28.613+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': '‘Nika’ to make landfall over Isabela or Aurora on Nov. 11'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '366bc22f-0164-41d3-981d-4de92804d7ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.595+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.929+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.595+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Severe Tropical Storm
+        Nika will make landfall over Isabela or northern Aurora by morning or early
+        afternoon of Monday, Nov. 11, the state weather bureau said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '088e82fc-4991-4673-88df-cef880a97f3f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.595+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.929+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.595+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In its latest bulletin on Sunday, Nov. 10, the Philippine Atmospheric,
+        Geophysical and Astronomical Services Administration (PAGASA) said Nika will
+        further intensify into a typhoon before reaching land.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2363e9af-1690-4721-8739-36d0fc58d183'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.596+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.596+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“It must be emphasized that hazards on land and coastal waters may
+        still be experienced in areas outside the landfall point or forecast confidence
+        zone,” PAGASA said.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aee654a4-460e-424a-997c-217191290911'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.596+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.931+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.596+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Nika may weaken once it hits land.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '964471fc-6c3e-4872-86a2-d6608ff24fd1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.596+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.931+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.596+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'After the landfall, Nika will cross the Northern Luzon landmass and
+        emerge over the Philippine Sea on Monday evening.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b2f46afc-44ca-47f8-a3a0-f1449f9d1f3c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.597+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.932+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.597+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Nika will leave the Philippine Area of Responsibility on Tuesday afternoon.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd3740f7-742f-4506-9acd-a31c122d69d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.597+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.933+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.597+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'As of 5 p.m., Wind Signal 2 was raised over the northern portion of
+        Aurora, Isabela, Quirino, southern portion of mainland Cagayan, Nueva Vizcaya,
+        southern portion of Apayao, Abra, Kalinga, Mountain Province, Ifugao, Benguet,
+        northern portion of Nueva Ecija, southern portion of Ilocos Sur, La Union,
+        and northeastern portion of Pangasinan.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '108d7822-e609-40e0-bf21-1c81f9b2a791'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.597+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.933+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.597+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Residents in the said areas may experience minor to moderate threats
+        to life and property.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '708d951e-4311-4fe2-b122-1e9f04d39f06'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.598+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.934+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.598+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Wind Signal 1, which may cause minimal to minor threats to life and
+        property, is up over the rest of Cagayan including Babuyan Islands, rest of
+        Apayao, Ilocos Norte, rest of Ilocos Sur, rest of Pangasinan, rest of Aurora,
+        Tarlac, northern and central portions of Zambales, rest of Nueva Ecija, Pampanga,
+        Bulacan, Metro Manila, Rizal, eastern portion of Laguna, eastern portion of
+        Quezon including Polillo Islands, Camarines Norte, Camarines Sur, Catanduanes,
+        and northeastern portion of Albay.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffe2610b-1f5a-424c-ba3b-22003aa2c984'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.598+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.598+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA hoisted a gale warning over the eastern seaboard of Luzon.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c6326e35-1bab-4ebe-9c04-27cda405307a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.598+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.598+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'At 4 p.m., Nika was spotted 380 kilometers east of Infanta, Quezon
+        with maximum sustained winds of 110 kilometers per hour (kph) and gustiness
+        of up to 135 kph, moving westward at 20kph.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '76eaf995-62ed-4958-8ecb-681b64510b8b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.599+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.936+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.599+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Monday weather</strong></h2>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '268c18b7-44f0-4b6f-a262-aef1a23cfbe3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.599+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.599+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>For Monday, a stormy condition is expected over Cagayan Valley,
+        Cordillera Administrative Region, Ilocos Region, Aurora, and Nueva Ecija due
+        to the tropical cyclone.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e0e042a8-c906-4a97-be81-554ad796bf45'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.600+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.600+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Nika will also bring rains with gusty winds over Metro Manila, the
+        rest of Central Luzon, Calabarzon, Camarines Norte, Camarines Sur, Catanduanes,
+        and Albay.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '138a2095-d6a3-4d53-9208-8b949fb14e99'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.600+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.938+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.600+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Nika’s trough, meanwhile, will cause cloudy skies with scattered rains
+        and thunderstorms over the rest of Luzon and Eastern Visayas.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0f566841-c159-4331-a3b0-fdd4b0bd227c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.600+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.938+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.600+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The rest of the country will have partly cloudy to cloudy skies with
+        isolated rain showers or thunderstorms brought by localized thunderstorms.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2209896d-a5c9-4a28-aee3-2f94451a9bb3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T18:06:28.601+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.939+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T18:06:28.601+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>PAGASA is also monitoring another low pressure area outside the
+        country''s monitoring space.</p>'
+  'La-Salle-UP-second-round-UAAP-Season-87-men-basketball':
+    'author': 'CJ Marquez, NewsWatch Plus'
+    'caption': 'Courtesy: UAAP Season 87 Media Team'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-10T21:32:11.000+08:00
+    'credit': 'Courtesy: UAAP Season 87 Media Team'
+    'imagesource': 'jcr:93d5db21-caed-448b-b967-c6c4a52b7348'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '365d2ed5-c5e2-4d0b-bb2d-d835f873109b'
+    'lead': 'The De La Salle University Green Archers will be the No. 1 squad in the
+      Final Four armed with a twice-to-beat edge in UAAP Season 87 men’s basketball.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-10T21:34:49.929+08:00
+    'mgnl:createdBy': 'cj-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:57.257+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:57.610+08:00
+    'mgnl:lastModified': 2024-11-10T21:35:20.715+08:00
+    'mgnl:lastModifiedBy': 'cj-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'UAAP: La Salle secures top seed with repeat win over UP'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09c9a4cc-5db5-4645-8030-985a790df6b8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.941+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.259+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.709+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The De La Salle University
+        Green Archers reasserted their mastery over the University of the Philippines
+        (UP) Fighting Maroons, 77-66, in their second round clash in UAAP Season 87
+        men’s basketball on Sunday at the Smart Araneta Coliseum in Quezon City.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a8170b9-9625-48f6-b2af-bf4911fc06c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.941+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.260+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.710+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Reigning Season and Finals Most Valuable Player Kevin Quiambao led
+        the way for the Green Archers with 15 points, five rebounds, and three assists.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5bf61ace-6f05-4abb-a4a6-8583106cfcd3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.941+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.261+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.710+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Things were looking bright for the Fighting Maroons as they held
+        onto a three-point advantage at the halftime break.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '674f85a0-0d54-404b-8a0d-447a6d6c3744'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.942+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.261+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.711+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'But it was all La Salle in the second half as the Taft-based squad
+        hit UP with blow after blow to secure the victory.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5eff7761-5752-48f4-98c9-f0241acb8dfd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.942+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.262+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.711+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Fighting Maroons played without big man Quentin Millora-Brown who
+        is currently in the US to attend the wake of his grandfather.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f7dc369-49a8-445f-bd7c-9d7833c0d067'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.942+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.263+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.712+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Mike Phillips, in his usual energetic self, helped the Green Archers
+        with 14 points and 10 rebounds.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e936945-4508-434f-aef9-3c2e19f2a48e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.943+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.264+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.712+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>La Salle notched its ninth straight win this season and fourth consecutive
+        triumph against UP.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '762278ad-c6d7-4ff6-b73d-07d791500b9d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.943+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.264+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.713+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Green Archers officially clinched the top spot, while the Fighting
+        Maroons occupy the second seed. Both teams will be with a twice-to-beat incentive
+        in the Final Four.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1d093b76-b88a-4c05-bf96-aaa2718b8498'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.943+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.265+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.713+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'JD Cagulangan had a game-high 22 points along with six rebounds and
+        five assists for UP.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '66c5bf2d-6ae4-46ab-89e9-dcd1c80c0fbb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.944+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.265+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.713+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'La Salle will try to continue its dominance against the National University
+        Bulldogs on Nov. 13 at the UST Quadricentennial Pavilion in Manila.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '153619a0-7480-4e82-9950-1ac7dd01cc30'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-10T21:34:49.944+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:57.266+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-10T21:35:20.714+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, the Fighting Maroons will face the Far Eastern University
+        Tamaraws on Nov. 16 at the FilOil EcoOil Centre in San Juan City.</p>'

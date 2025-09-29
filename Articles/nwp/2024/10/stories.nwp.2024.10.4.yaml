@@ -1,0 +1,3892 @@
+'4':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '62f1d91d-60d3-430b-95c6-edac3a7bc882'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-10-04T10:25:15.779+08:00
+  'mgnl:createdBy': 'tristan-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:48:11.206+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:49.135+08:00
+  'mgnl:lastModified': 2024-10-04T19:26:19.081+08:00
+  'mgnl:lastModifiedBy': 'tristan-nwp'
+  'mixed-fuel-price-movements-next-week':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T10:28:58.000+08:00
+    'imagesource': 'jcr:32e05f39-7b09-4298-b0f7-6faeb5bf6913'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'c7764176-f7a8-4612-9715-513047783ae5'
+    'lead': 'Pump prices may reflect mixed adjustments next week over jitters on a
+      widening conflict in the Middle East and supply disruptions, estimates of the
+      Department of Energy (DOE) showed on Friday, Oct. 4.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T10:30:31.562+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:12.078+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:49.263+08:00
+    'mgnl:lastModified': 2024-10-04T10:30:31.598+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['oil-prices', 'doe']
+    'stories': []
+    'template': '1'
+    'title': 'Mixed fuel price movements next week - DOE '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b3b14ec-744e-49af-9c88-e159e1f361ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T10:30:31.592+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:12.080+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T10:30:31.596+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Pump prices may reflect
+        mixed adjustments next week over jitters on a widening conflict in the Middle
+        East and supply disruptions, estimates of the Department of Energy (DOE) showed
+        on Friday, Oct. 4.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97f800f0-4d97-49ec-bf3c-c28f4c130b7a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T10:30:31.592+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:12.081+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T10:30:31.592+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency said gasoline prices may decline by up to P0.70, while diesel
+        and kerosene costs may go up by P0.70 and P0.35, respectively.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1483026c-58f8-4f5f-8fd1-3d4bb656eb7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T10:30:31.593+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:12.082+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T10:30:31.593+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency pointed to possible supply disruptions triggered by hurricane
+        Helene in the US, and Israel’s potential attack on Iran’s oil infrastructure.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '28ba0132-53df-4e9b-aab2-14559e858e0f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T10:30:31.593+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:12.082+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T10:30:31.593+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, the possible decline in gasoline price is due to the balance
+        of weak global demand growth and a positive supply outlook, the DOE said. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e4149384-cbc1-4467-8c88-3eb28db5d6a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T10:30:31.593+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:12.082+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T10:30:31.593+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Oil companies implemented less than a peso hike on fuel products
+        on Tuesday, Oct. 1.</p>'
+  'enrile-reyes-napoles-acquitted-plunder':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T11:20:56.000+08:00
+    'imagesource': 'jcr:b8b7fa79-d218-4a3a-aafd-726cbe1f2dd0'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'e6269376-3b3a-4d2d-85d5-427e7a40067d'
+    'lead': 'Former Senator Leila de Lima, who was the justice secretary when the
+      PDAF cases were filed, expressed her frustration with the Sandiganbayan''s decision.
+      ''On the part of the DOJ, NBI at that time, there was enough evidence,'' De
+      Lima tells NewsWatch Plus Senior Anchor Menchu Macapagal.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T11:23:00.463+08:00
+    'mgnl:createdBy': 'eimor-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:11.018+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:49.435+08:00
+    'mgnl:lastModified': 2024-10-04T16:47:54.349+08:00
+    'mgnl:lastModifiedBy': 'eimor-nwp'
+    'mgnl:tags': ['pork-barrel', 'Juan-Ponce-Enrile', 'Janet-Napoles', 'Gigi-Reyes']
+    'stories': []
+    'template': '1'
+    'title': 'Enrile, aide, Napoles cleared of plunder in pork barrel case'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc589b25-83de-4b82-9c99-20cdb1b1f154'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.476+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.021+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.340+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines</strong> – Former Senate President
+        and now Chief Presidential Legal Counsel Juan Ponce Enrile is the last high-profile
+        personality to be acquitted of plunder in the multibillion-peso pork barrel
+        controversy, where lawmakers’ funds were allegedly diverted for fraud.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'df677404-010d-4554-88d3-357130966d6e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.477+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.021+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.341+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Sandiganbayan Special Third Division on Friday cleared Enrile
+        of the decade-old case in which he allegedly pocketed P172 million from his
+        Priority Development Assistance Fund or pork barrel, a congressional discretionary
+        fund that has since been declared unconstitutional.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'af6f3cd0-e4cc-47b1-b4a1-5afead41d108'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.477+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.022+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.341+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The anti-graft court also acquitted Enrile’s former chief of staff,
+        Gigi Reyes, and businesswoman Janet Lim Napoles, who allegedly orchestrated
+        the diversion of lawmakers'' funds to fake non-government organizations.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9fdfe755-2a27-4c89-aac8-7a516e40ea6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.478+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.023+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.342+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Sandiganbayan cited the prosecution’s “failure to prove their
+        guilt beyond reasonable doubt.”</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6c865c1d-245a-4081-9dde-3a3b24f132fd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.183+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.024+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.342+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>It noted that none of the prosecution''s witnesses testified to
+        handing or transferring money to Enrile.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '86f339b7-4980-4e9a-80fb-bf86bc4b698c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.183+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.025+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.343+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“Verily, the prosecution failed to prove the allegation that Enrile\
+        \ received a percentage of the cost of any project funded from his PDAF in\
+        \ consideration for the latter’s endorsement to Napoles’ NGOs,” the Sandiganbayan\
+        \ said in its 85-page decision. \r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb610bfc-6ef2-4058-b33e-41780e9eb177'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.184+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.025+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.343+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "State witness Ruby Tuason said she gave Reyes money intended for Enrile,\
+        \ which came from Napoles. However, the Sandiganbayan noted that Tuason could\
+        \ not provide specific details.\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '71aefe49-0bd2-448e-a8b1-c3dba124174f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.184+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.026+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.344+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“We are baffled as to why, despite the huge sum of money allegedly\
+        \ delivered to Reyes, Tuason had no acknowledgement receipt of any proof of\
+        \ these deliveries,” it added. \r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2efdd556-2c15-49b4-b59c-3331b4aca02c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.185+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.027+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.344+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "Tuason said she relied on the records of whistleblower Benhur Luy,\
+        \ who claimed to be Napoles' financial officer. However, the Sandiganbayan\
+        \ pointed out that even if Luy's daily disbursement reports were considered\
+        \ credible, they only listed Tuason's name and not those of Reyes or Enrile.\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'da45f396-61a5-4746-ba4b-1a4319ed01fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.185+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.027+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.345+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Since the prosecution was unable to prove the receipt of money
+        as alleged in the information by herein public officers Enrile and Reyes (the
+        alleged main plunderers), then Napoles could not be found liable for the offense
+        charged since the basis of her indictment was conspiracy with the said public
+        officers,” the Sandiganbayan added. It also granted the demurrer to evidence
+        filed by Enrile, and the demurrer (without leave of court) of Napoles, which
+        sought to junk the case for lack of evidence.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ba46305-785e-450f-b45c-61d801f7d1f5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.186+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.028+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.345+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>It also granted the demurrer to evidence filed by Enrile, and the
+        demurrer (without leave of court) of Napoles, which sought to junk the case
+        for lack of evidence.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ee2cf62-a3c8-4003-a267-591b164b5a58'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.479+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.029+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.346+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "The court also lifted and set aside the hold departure order issued\
+        \ against the three. \r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '41e8a956-00ce-42a0-96f5-65583878a5e3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.480+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.029+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.346+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Napoles, however, was previously convicted in multiple cases related
+        to the PDAF scam and serving time at the Correctional Institution for Women
+        in Mandaluyong City.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '132820f2-fab3-459b-9f56-190fca7dc65c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.187+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.030+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.347+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Former Senator Leila de Lima, who was justice secretary when the
+        PDAF cases were filed, expressed her frustration with the Sandiganbayan decision.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c080df21-f1cf-4b9b-a5f2-69f1c10faeac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.187+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.031+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.347+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“On the part of the DOJ (Department of Justice), NBI (National Bureau
+        of Investigation) at that time, there was enough evidence,” De Lima told NewsWatch
+        Plus Senior Anchor Menchu Macapagal.</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3b4cebc-5bf3-4c75-be85-09764b11ab99'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:39:15.188+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.031+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.348+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“There were documents – the DBM (Department of Budget and Management)
+        and COA (Commission on Audit) documents – there were signatures there. There
+        are the testimonies of the whistleblowers,” De Lima added.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6751e479-de74-4fa0-a16d-479c35f50dd8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T11:23:00.480+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:11.031+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:47:54.348+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In 2014, Enrile was allowed to post bail pending trial for humanitarian
+        reasons. Meanwhile, Senators Jinggoy Estrada and Bong Revilla were detained
+        for three years and four years, respectively, for separate PDAF scam cases.
+        Estrada was allowed to post bail in 2017 until his acquittal early this year.
+        Revilla walked free in 2018.</p>'
+  'september-overall-inflation-psa':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T12:54:05.000+08:00
+    'imagesource': 'jcr:787d3e67-86c5-4836-80e6-59194d5bd820'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '22fee0da-2178-4bf8-b9de-00044cfeb3b5'
+    'lead': 'The rate of price increase on goods and services substantially dipped
+      further in September, the slowest since May 2020, mainly driven by low food
+      prices.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T12:56:05.395+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:09.936+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:49.646+08:00
+    'mgnl:lastModified': 2024-10-04T12:56:05.543+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Inflation', 'Rice']
+    'stories': []
+    'template': '1'
+    'title': 'Inflation further cools in September at 1.9%'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b6252c8d-d4a8-426a-998f-b3eb4b43c2fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.520+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.939+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.535+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The rate of price increase
+        on goods and services substantially dipped further in September, the slowest
+        since May 2020, mainly driven by low food prices.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1965deea-8adc-4642-a422-0aa8dac425b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.520+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.940+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.520+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The inflation rate eased to 1.9% in September from 3.3% in August,\
+        \ data from the Philippine Statistics Authority (PSA) showed Friday, Oct.\
+        \ 4.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48048138-3c2c-4337-931d-b19c28cc94b5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.521+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.940+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.521+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "At year-to-date, the average headline inflation was pegged at 3.4%\
+        \ within the government target range of 2% to 4%.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'beaa8791-3868-4dc1-a258-4b7c5280c79e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.521+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.941+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.521+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "National Statistician Dennis Mapa said September inflation was the\
+        \ lowest since the 1.6% in May 2020.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8afa7bbb-05f7-4ab7-a506-7d43f2cf470e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.522+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.942+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.522+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Main contributors to the slowdown were food and non-alcoholic beverages,\
+        \ transport, and the sector of housing, water, electricity, gas and other\
+        \ fuels.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94f8839a-83ac-40ba-bde9-da2833cfbf45'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.522+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.942+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.522+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Kung titingnan natin ‘yong individual items or some group of items\
+        \ meron talagang bumagsak, negative, ibig sabihin talagang bumaba ang presyo\
+        \ niya,” Mapa said. “Ang example nito transport, gasolina, diesel, kamatis.”\
+        \r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e295395e-5236-4c05-85b6-01ef811bc6dc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.522+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.943+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.522+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: If we look at the individual items or some of the group\
+        \ of items, there were prices that went down. The examples included transport,\
+        \ gasoline, diesel, and tomatoes.]\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '525d22e2-f87e-44ce-9ed1-bc0caec478a4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.523+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.944+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.523+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Based on PSA data, Metro Manila inflation print slowed to 1.7% in September,\
+        \ while areas outside the capital region cooled to an average of 2%. Ilocos\
+        \ region had the lowest rate at 0.6%\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0bd312c4-7a7c-49fd-bb01-64c09c359c76'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.523+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.944+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.523+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd111afc5-1a82-4bce-86b6-07fcf7367c65'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.524+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.945+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.524+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e7e8c75-9282-4112-9c75-616f31178c13'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.524+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.946+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.524+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Rice inflation at single digit</strong></h2>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e53436fc-cebe-4e05-be30-99598379950c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.525+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.946+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.525+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Rice inflation dropped to 5.7% from 14.7% in the previous month, the\
+        \ first single-digit for the year, PSA data showed.\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'be8672bb-f274-452a-be26-70e5813747c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.525+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.947+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.525+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Mapa said January’s rate of increase in rice prices was at 22.6%.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5a928cc2-507f-41c4-8ecb-dc260dad0103'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.526+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.948+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.526+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Of course mas mababa ito sa previous months,” Mapa said. “The last\
+        \ time that it was lower than this number, recent lang, noong July 2023 naitala\
+        \ sa 4.2% for the rice inflation.”\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b7503eab-f365-4076-98a0-d4cdb578c654'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.526+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.948+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.526+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: Of course this was lower than previous months. The last\
+        \ time that it was lower than this number was July 2023 at 4.2%.]\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4621b386-ba6c-4eb7-a888-c354055f1311'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.527+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.949+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.527+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Nakita natin na mataas talaga kaya meron pa ring year-on-year na increase\
+        \ kasi mas mataas ang presyo ngayon kumpara last year but month-on-month we\
+        \ are seeing already a reduction,” he said. “Kaya nagpapakita ‘yong negative\
+        \ inflation month-on-month.”\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c174a9b1-03da-4771-be75-9995d2404c25'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.527+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.949+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.527+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: We see a substantial increase year-on-year because prices\
+        \ this year were higher than last year, but month-on-month we are already\
+        \ seeing a reduction. We witness negative inflation month-on-month.]\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0c14f4f-7ab0-4dd3-8e9d-71d18b200de5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T12:56:05.528+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.950+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T12:56:05.528+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "President Ferdinand Marcos Jr. in June issued Executive Order No. 62\
+        \ that halved the tariff on rice imports to 15% from 35% in a bid to lower\
+        \ prices of the grain.\r"
+  '18-palestinians-killed-in-israeli-strike':
+    'author': 'Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T13:35:15.000+08:00
+    'imagesource': 'jcr:488671a7-248e-4d27-aeab-458e2ffcf9b0'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '247ab55e-9589-4ab3-9fbe-0a1cc57d60ea'
+    'lead': 'At least 18 Palestinians were killed in an Israeli strike on the Tulkarm
+      refugee camp in the occupied West Bank, the Palestinian health ministry said
+      on Thursday, with the Israeli military saying it killed a Hamas commander.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T13:38:21.939+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:09.387+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:49.868+08:00
+    'mgnl:lastModified': 2024-10-04T13:38:21.965+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Hamas', 'israel']
+    'stories': []
+    'template': '1'
+    'title': 'Israel says it killed Hamas commander in West Bank strike that left
+      18 dead'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '282039a4-5101-4ef4-9a5d-8f9128e14947'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.957+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.390+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.963+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Reuters -</strong> At least 18 Palestinians were killed
+        in an Israeli strike on the Tulkarm refugee camp in the occupied West Bank,
+        the Palestinian health ministry said on Thursday, with the Israeli military
+        saying it killed a Hamas commander.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a32d7879-8f17-4b13-89be-15868ca744aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.958+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.390+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.958+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Israeli military said in a statement that its air force had killed
+        the head of Hamas'' network in Tulkarm in a strike. It identified him as Zahi
+        Yaser Abd al-Razeq Oufi.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e065cba-153c-43ac-bd99-f590042058e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.958+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.391+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.958+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Palestinian government "calls for urgent international action to
+        stop the escalating massacres" against its people, it said in a statement.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd2d64ce-949a-47de-bbe0-f96b538fbe30'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.959+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.392+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.959+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The official spokesman for the Palestinian presidency also condemned
+        the attack, the Palestinian news agency WAFA said, adding that those attacks
+        "will not bring security and stability to anyone, but will drag the region
+        into more violence".'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b3802415-1548-41fe-a439-eb90dc43e4f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.959+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.392+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.959+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Violence has surged in the West Bank since the start of the war
+        in Gaza, with almost daily sweeps by Israeli forces that have involved thousands
+        of arrests and regular gunbattles between security forces and Palestinian
+        fighters.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3b529e80-b81f-4346-9a41-a381ac9eb4d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:38:21.960+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.393+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:38:21.960+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Cairo newsroom and Ali Sawafta; Editing by Chizu
+        Nomiyama and Sandra Maler)</em></p>'
+  '5-Things-That-Shine-in-Joker--Folie---Deux':
+    'author': 'Jio de Leon'
+    'categories': ['877ad2d4-e6bd-4452-a5d8-8b30546e1e2e']
+    'created': 2024-10-04T13:32:01.000+08:00
+    'image': 'jcr:1e986b77-913b-422b-ad92-19ee89933e3a'
+    'imagesource': 'jcr:1e986b77-913b-422b-ad92-19ee89933e3a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '1f8cb99a-5d38-44c1-bf04-fd2524b29c34'
+    'lead': 'Thoughts about the highly-anticipated follow-up to the 2019 blockbuster
+      ''Joker'''
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T13:41:56.060+08:00
+    'mgnl:createdBy': 'jio-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:09.032+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:50.132+08:00
+    'mgnl:lastModified': 2024-10-04T13:48:46.211+08:00
+    'mgnl:lastModifiedBy': 'jio-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '2'
+    'title': '5 Things That Shine in ''Joker: Folie à Deux'''
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2d7f0ab8-1ddb-4e6f-a36f-d71817c7fb1c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.085+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.035+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.199+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Joker: Folie à Deux</strong> is the highly-anticipated follow-up
+        to the 2019 blockbuster <strong>Joker</strong>, which saw Joaquin Phoenix
+        deliver an Oscar-winning performance as Gotham’s most notorious villain. In
+        the original film, Arthur Fleck, a mentally ill loner, embarks on a killing
+        spree that culminates in the live murder of a talk show host—an act that triggers
+        widespread chaos in Gotham.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '82b41aab-9dba-4cb7-a75b-cd6a6189d0e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.086+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.036+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.199+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The sequel takes place about two years after those events, centering
+        on Arthur Fleck’s trial and his time in a correctional facility. Here, he
+        crosses paths with Lee Quinzel (Lady Gaga), forming a twisted and dangerous
+        bond.</p>'
+    '2':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/cT7M4GM2tzE?si=OJNt9A4JmaWR0IBa"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54dd100a-64e2-4490-9ac4-be755e807cf8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.086+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.036+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.200+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f695e23c-d9e7-4cf4-9f07-7e43fa718d41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.087+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.037+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.201+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Joker: Folie à Deux</strong> takes a different approach
+        from its predecessor. Rather than sticking with the dark, gritty tone of the
+        first film, it adopts a slower, more introspective pace and surprises viewers
+        with its use of musical numbers that reflect Arthur’s repetitive prison life.
+        While this shift may leave some viewers puzzled or underwhelmed, there are
+        still notable elements that make<strong> Joker: Folie à Deux</strong> worth
+        a watch. Here are five key highlights of the film:</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5e20d8d1-0693-4bda-9e61-03c45f143b4a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.087+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.038+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.201+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>1. Joaquin Phoenix as Arthur Fleck a.k.a. the Joker</strong></p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8cac4759-58d8-4fb9-87ad-8cfef4428222'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.088+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.038+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.202+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Phoenix’s performance in <strong>Joker</strong> earned him an Oscar
+        for a reason. It’s a completely lived-in performance that jumps from endearing
+        to menacing from scene to scene. In <strong>Folie à Deux</strong>, he brilliantly
+        portrays the duality of the subdued Arthur and the manic, unpredictable Joker.
+        Phoenix’s commitment to the role remains magnetic, and watching him return
+        as this complex character is a highlight of the film.</p>'
+    '17':
+      'image': 'jcr:9fb1dabe-fb7d-4848-9e52-05dd2d841cd8'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ae47bcba-1c28-42e4-baad-0e3e9a6fafe4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:47:10.681+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.039+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.202+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'image'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ee940e50-b72c-49a8-a022-2fd6d7c9f2a2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.088+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.040+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.203+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>2. Lady Gaga as Lee a.k.a. Harley Quinn</strong></p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf66baad-b547-4a45-9194-07255410e96c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.089+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.040+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.203+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>If anyone can match Phoenix’s intensity, it’s Lady Gaga. Known for
+        her fearless approach to acting, she takes on a darker, more manipulative
+        version of Harley Quinn, a departure from Margot Robbie’s portrayal. Unfortunately,
+        Gaga is underutilized in the film but when she gets her moments, she truly
+        shines – especially in the musical numbers.</p>'
+    '18':
+      'image': 'jcr:7cc2faa7-5b9a-4ecf-9c47-d6f9998b46d3'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9da539df-38d7-47f7-8b71-091c96b8ff2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:47:10.682+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.041+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.204+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'image'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3b417866-5539-41e6-bc29-ae8de8f9b6de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.089+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.042+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.204+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>3. The Music</strong></p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c5752c7c-768d-4cb8-a38a-f1f9fff269fd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.090+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.042+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.205+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Joker: Folie à Deux</strong> is a jukebox musical, meaning
+        the soundtrack consists of well-known songs reinterpreted to suit the film’s
+        atmosphere. The production team made excellent choices, featuring classic,
+        toe-tapping jams like “For Once In My Life,” “If My Friends Could See Me Now,”
+        and “Get Happy.” Musicals tend to be a "love it or hate it" genre, and while
+        some may find the scenes where Joker and Lee break into song awkward, the
+        song choices and overall production are undeniably well-executed.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39c7f9ae-349a-4faf-9e42-0a6f07493d78'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.091+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.043+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.205+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>4. The Visual Mastery</strong></p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd9d10914-8c78-40b8-9630-009b75cc9e00'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.091+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.043+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.206+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Though the narrative may not be as compelling as the first film,
+        the visual elements of <strong>Folie à Deux</strong> are stunning. The cinematography
+        by Lawrence Sher, costume design by Arianne Phillips, and production design
+        by Mark Friedberg come together beautifully to create a distinctive aesthetic.
+        Whether in the gritty realism of Arthur''s imprisonment or the surreal musical
+        sequences, the film''s craftsmanship shines. Clever lighting and framing create
+        unforgettable, striking moments that leave a lasting impression.</p>'
+    '19':
+      'image': 'jcr:90f01969-a840-48c6-abc9-c317bada263f'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '194d5d32-cb50-46d2-934a-1f0fd137342e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:47:10.684+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.044+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.206+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'image'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cc14842e-4ecc-422c-9923-04b1c0b80920'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.092+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.045+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.207+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>5. Joker Lets Loose</strong></p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8c4cb031-65fb-43a6-8705-d0c8bcd6f994'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.093+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.045+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.207+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Like in the first film, much of <strong>Folie à Deux</strong> focuses
+        on Arthur rather than his Joker persona. And like the first film, the best
+        moments in this sequel are when Joker gets to be the crazy, unpredictable
+        supervillain we know. When the Joker finally takes the stage, the film ramps
+        up in intensity. One of the most memorable sequences is a chaotic courtroom
+        scene where Joker’s unpredictable nature is fully unleashed.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '402094e3-6884-47b3-8c56-72f3ae490440'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.093+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.046+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.208+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Joker: Folie à Deux</strong> may not be the thrilling and
+        exciting sequel that it could’ve been, but it still offers moments of brilliance
+        in its performances, visuals, and daring choices. Despite its slower pace
+        and musical shift, it’s a film that showcases the talent of everyone involved.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd9f7c4db-ceb2-4804-8406-5d4fca263ca0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.094+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.047+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.208+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>What did you think of <strong>Joker: Folie à Deux</strong>?</p>'
+    '20':
+      'image': 'jcr:bf24a748-4d4c-412b-bea0-799a939d55b2'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a1396795-c677-454c-8b5a-ab8489fc5a71'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:47:10.685+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.047+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.209+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'image'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aaa5853b-3d39-4787-a342-a6cea7f97d24'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:41:56.094+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:09.047+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:48:46.209+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>Photo Credits: Warner Bros. Pictures</em></p>'
+  'julian-exits-par-again':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T13:40:47.000+08:00
+    'imagesource': 'jcr:c549d73f-7f99-4d16-b985-1f4936795b14'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '873c2f02-2ddf-48b8-adf3-706b6916588d'
+    'lead': 'Tropical Depression ‘Julian’ is out of the Philippine Area of Responsibility
+      again on Friday, Oct. 4, weather bureau Philippine Atmospheric, Geophysical,
+      and Astronomical Services Administration (PAGASA) said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T13:43:11.979+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:08.335+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:50.305+08:00
+    'mgnl:lastModified': 2024-10-04T13:43:12.011+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['PAGASA', 'weather', 'JulianPH']
+    'stories': []
+    'template': '1'
+    'title': '‘Julian’ exits PAR again - PAGASA'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6b224985-9c8c-4c13-ba81-654dba955e50'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.003+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.338+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.008+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Tropical Depression
+        ‘Julian’ is out of the Philippine Area of Responsibility again on Friday,
+        Oct. 4, weather bureau Philippine Atmospheric, Geophysical, and Astronomical
+        Services Administration (PAGASA) said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b2a178c3-7c39-4240-b15b-d21f494fec38'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.003+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.339+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.003+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Forecasters said the storm weakened into a low pressure area as it
+        left PAR - the weather monitoring zone. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cde6b2bb-69e3-431b-a800-d2e2a749da54'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.004+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.339+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.004+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The LPA was last spotted 480 kilometers north of Itbayat, Batanes,
+        moving northward at 45 kilometers per hour (km/h).'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f64f00f1-ac43-4ba0-b128-1a8613e3fbd5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.004+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.340+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.004+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The weather bureau said it is seen to merge with the frontal system
+        over Taiwan.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6419e624-bac6-4d2f-8336-95a0904e1c06'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.005+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.340+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.005+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '‘Julian’ first left PAR on Tuesday, Oct. 1 but reentered the weather
+        monitoring zone on Thursday, Oct. 3. The storm intensified into a super typhoon
+        during its stay in the country.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd5acce94-dde8-45b1-8b68-232344a1af5d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:43:12.005+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:08.341+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:43:12.005+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Five people were reported dead, while over 20 municipalities are
+        under a state of calamity.</p>'
+  'julian-death-toll-ndrrmc':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T13:48:26.000+08:00
+    'imagesource': 'jcr:4ec1ca2a-a0f1-4fbc-b6df-ea24ccfc5d37'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '3546b60f-868c-4e0e-8235-8245c6d42591'
+    'lead': 'The death toll in the aftermath of tropical cyclone Julian has risen
+      to five, disaster management officials said Friday.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T13:52:49.086+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:07.639+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:50.442+08:00
+    'mgnl:lastModified': 2024-10-04T13:58:55.994+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Five killed in ‘Julian’ aftermath — NDRRMC'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e652e400-ba84-4f43-962e-70d8d967805c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.124+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.642+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.987+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The death toll in the
+        aftermath of tropical cyclone Julian has risen to five, disaster management
+        officials said Friday, Oct. 4.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50c27ced-c408-4ab7-b971-aaf70e7c6a01'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.125+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.643+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.987+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b406459-3930-4648-87e0-f49082315a7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.125+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.644+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.988+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In its report, the National Disaster Risk Reduction and Management\
+        \ Council (NDRRMC) said it confirmed one fatality each in Ilocos region and\
+        \ Cagayan Valley.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '10da6efa-65fa-4a5a-812f-18715c442faa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.126+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.645+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.988+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f61f3f49-dd2c-49e3-ba65-f13fa34ac704'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.126+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.645+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.989+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The NDRRMC said a 62-year-old male in Pasuquin, Ilocos Norte drowned,\
+        \ while a 25-year-old male in Santa Ana, Cagayan was electrocuted.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f04b72ba-00e8-442c-b664-02513208f2c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.126+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.646+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.989+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2472f785-f4d9-457b-b125-ff75f5fdaa0a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.127+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.647+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.990+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Three more deaths were for validation in Ilocos region.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '02e40a32-6427-4e86-bc97-8e9039469751'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.127+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.647+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.990+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c052426-06e3-40b8-8d60-6edf4bdae633'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.128+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.648+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.991+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Eight were hurt while one person remains missing, the agency added.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '320c4f14-6359-41a7-adba-0a603ca02a1a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.128+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.649+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.991+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3199a9eb-3be4-481f-b29a-35263340209b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.128+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.649+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.992+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The storm affected nearly 243,000 people, including around 145,000\
+        \ in Ilocos region.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2df0802b-c4d3-42a2-b9b2-31c269f59935'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.129+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.650+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.992+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7b2e286a-0cc0-46e6-a402-8637b1667a51'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:52:49.129+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:07.650+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:55.993+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Department of Agriculture reported around P481 million worth of\
+        \ agricultural damage, including more than P300 million in rice losses. Other\
+        \ commodities that suffered damage were corn and high-value crops.\r"
+  'Film-Class--5-Movies-about-Inspiring-Teachers':
+    'author': 'Jio de Leon'
+    'categories': ['877ad2d4-e6bd-4452-a5d8-8b30546e1e2e']
+    'created': 2024-10-04T13:49:07.000+08:00
+    'image': 'jcr:2b1ccc09-d05f-4855-b161-4b5c0de2182c'
+    'imagesource': 'jcr:2b1ccc09-d05f-4855-b161-4b5c0de2182c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '41351923-ef07-46d9-bd07-bbb159c3f7db'
+    'lead': 'Here are five films to watch for World Teachers’ Day that feature inspiring
+      and unforgettable educators:'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T13:57:36.888+08:00
+    'mgnl:createdBy': 'jio-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:06.856+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:50.707+08:00
+    'mgnl:lastModified': 2024-10-04T13:58:40.181+08:00
+    'mgnl:lastModifiedBy': 'jio-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '2'
+    'title': 'Film Class: 5 Movies about Inspiring Teachers'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cae952d0-90cf-4ade-ab25-292a36565ffa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.900+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.859+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.171+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>World Teachers’ Day is celebrated on October 5th, a day dedicated
+        to honoring the incredible educators who shape lives around the world.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c50581d-169c-4c10-91c9-5b39bfd3ed80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.900+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.860+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.171+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In the Philippines, it also marks the end of National Teachers''
+        Month, making it the perfect time to reflect on the influence of teachers
+        both in our classrooms and on the big screen. Here are five films to watch
+        for World Teachers’ Day that feature inspiring and unforgettable educators:</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52d314de-3901-430e-837f-d127641a522c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.901+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.867+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.172+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>1. Dead Poets Society</strong></p>'
+    '3':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/ye4KFyWu2do?si=OJs6czAMwIIQvx8C"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c7a0c8b5-3412-458f-9df6-3507dd0ab072'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.901+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.868+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.172+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ff838a8-829e-4873-a3be-041cc591da47'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.901+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.869+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.173+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In <strong>Dead Poets Society</strong>, new English teacher John
+        Keating (played by Robin Williams) transforms the lives of his students at
+        a conservative boarding school with his unconventional teaching style. Keating’s
+        mantra, “carpe diem” or “seize the day,” encourages his students to embrace
+        self-expression and live authentically. Though the film takes dark turns,
+        at its heart is Keating’s powerful influence on his students'' journeys toward
+        individuality.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2bca7f7b-5a05-499f-8eca-37667e2a1aa6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.902+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.870+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.173+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>2. The Holdovers</strong></p>'
+    '6':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/AhKLpJmHhIg?si=O212rXymHEsayhL8"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ae84f54d-88ab-4690-b269-46e146d95e3e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.902+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.871+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.174+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '35c07873-9683-4fe8-a287-a7050fa9da53'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.903+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.873+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.174+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>A recent addition to the genre, <strong>The Holdovers</strong> features
+        Paul Hunham (Paul Giamatti), a curmudgeonly classics teacher stuck at a boarding
+        school over Christmas break with a few students who have nowhere to go. Despite
+        his prickly nature, Paul forms meaningful connections with a student named
+        Angus and the school’s cafeteria manager, Mary, in this heartwarming tale
+        of learning, growth, and unexpected friendships.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c59227c6-70c2-43e4-862f-491a4493daf8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.903+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.873+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.175+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>3. Matilda (or Matilda the Musical)</strong></p>'
+    '9':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/1UigDLytK5A?si=f-Ut-U2C4mK5252E"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '24fabf63-d0a0-4faf-9173-0c9888bff85b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.903+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.874+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.175+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c61411f4-17ce-400a-8a39-615b053cdaad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.904+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.875+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.176+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Matilda</strong> introduces us to two very different teachers:
+        the kind and nurturing Ms. Honey, and the terrifying principal Ms. Trunchbull.
+        Matilda, a gifted student with telekinetic powers, finds solace and support
+        in Ms. Honey, who proves that a caring teacher can have a profound impact
+        on a student’s life—even one as extraordinary as Matilda’s.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ed039c0-0feb-4de5-946a-157aa7f03f6d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.904+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.876+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.176+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>4. Monsieur Lazhar</strong></p>'
+    '12':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/tUXzWQiqZoM?si=NxXF-zGQKN_k2GX_"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '410a80c4-c298-4f9f-b17d-6a5906643991'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.905+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.877+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.177+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '60bc7760-3dc9-4c6d-b608-38e93734067e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.905+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.877+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.177+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>This French-Canadian film opens with tragedy as a teacher’s death
+        leaves her class in mourning. Bachir Lazhar, an Algerian immigrant, steps
+        in to take over the class and helps the students process their grief while
+        confronting his own personal sorrows. <strong>Monsieur Lazhar</strong> is
+        a moving exploration of healing, empathy, and the connections that transcend
+        cultural boundaries.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8d0b7fd0-dc5f-42d9-8b03-0a0c1e366212'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.905+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.878+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.178+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>5. School of Rock</strong></p>'
+    '15':
+      'contentWidth': '100%'
+      'embedCode': '<iframe width="560" height="315" src="https://www.youtube.com/embed/TExoc0MG4I4?si=cmnl1n9Mhh_VM4If"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb3eb001-ceb3-4b59-a508-20755534a32f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.906+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.879+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.178+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'embedCode'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c3870aec-a561-47b7-b36f-7aab847c80e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.906+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.879+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.179+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In this feel-good comedy, Dewey Finn (Jack Black) poses as a substitute
+        teacher and forms a rock band with his students, leading them to compete in
+        a Battle of the Bands. Though Dewey isn’t a real teacher, his ability to inspire
+        and bring out his students’ hidden talents makes him a memorable and unconventional
+        educator, and <strong>School of Rock</strong> remains a joyous celebration
+        of music, creativity, and self-expression.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dd9aa046-8518-4112-a6e7-e5bbfa0006b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T13:57:36.907+08:00
+      'mgnl:createdBy': 'jio-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.880+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T13:58:40.179+08:00
+      'mgnl:lastModifiedBy': 'jio-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>These films not only highlight the power of education but also remind
+        us of the profound impact that teachers can have on their students’ lives.
+        This World Teachers’ Day, take some time to appreciate the inspiring educators—both
+        on-screen and in real life—who guide and shape us.</p>'
+  'Alice-Guo-mayor-2025-elections':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T14:02:28.000+08:00
+    'imagesource': 'jcr:80c09b22-80da-469e-b16e-6d56862b6c9e'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '871f6b35-f6cb-43e6-8870-fb54ebb587f2'
+    'lead': 'Dismissed Bamban, Tarlac Mayor Alice Guo is poised to run in the 2025
+      elections, said her lawyer Stephen David.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T14:14:57.118+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:06.168+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:50.910+08:00
+    'mgnl:lastModified': 2024-10-04T14:14:57.169+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Alice-Guo']
+    'stories': []
+    'template': '1'
+    'title': 'Alice Guo to run for mayor in 2025 – lawyer
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7430e132-df51-4061-9f4e-86d78342bd0d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.150+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.171+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.163+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines—</strong> Dismissed Bamban, Tarlac
+        Mayor Alice Guo is poised to run in the 2025 elections, said her lawyer Stephen
+        David.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3cb41b88-75dc-46ba-a057-d004b14b4baa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.150+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.172+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.150+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'David confirmed Guo’s political plans in a text message to NewsWatch
+        Plus. Guo’s certificate of candidacy will be filed by a representative next
+        week.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '286c940f-6243-4e59-ab6e-951fc4e0398f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.151+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.173+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.151+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Kailangan niya tumakbo para ipakita ang pagmamahal niya sa bayan especially
+        sa Bamban," said David in an interview with reporters.  '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd1d1bf3c-021c-42d3-a00b-cdf45a2248fb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.151+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.174+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.151+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: She needs to run to show her love for the town, especially
+        Bamban.] '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fde067c3-288d-4ff2-8c65-75243bdc8983'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.152+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.174+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.152+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"She is a Filipino, wala naman court decision na nagsabing hindi siya
+        Filipino," he added.  '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4096599e-9a77-4b0a-8b0a-05318a7082de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.152+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.175+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.152+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: She is a Filipino, and there is no court decision stating
+        otherwise.]'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9bdefb07-64eb-4388-9ee7-ce684644d10e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.152+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.176+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.152+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Comelec to accept COC, but…</strong></h2>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1dc067fe-c903-492f-9776-4c37e6b9a5ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.153+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.176+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.153+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'In an interview with Commission on Elections (Comelec) Chairman George
+        Garcia on Friday, Oct. 4, he said the poll body will accept the candidacy
+        to be filed by Guo’s camp.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6a27a425-1421-47a4-8b8b-b0ae51a88bbe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.153+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.177+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.153+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Tatanggapin naman namin ang lahat ng filers ng candidacy basta ba
+        kumpleto ang dokumento, duty accomplished, notaryado, may sedula," said Garcia.  '
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a84dbf3-a5db-43ad-b8bf-f412585e0b6d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.154+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.178+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.154+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation:We will accept all filers of candidacy as long as the
+        documents are complete, duty accomplished, notarized, and with a community
+        tax certificate.]'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7038eb1b-7615-4c64-94b6-0cb2ca97b47e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.154+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.154+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Dito nga po sa tent ng Manila Hotel, may kumakanta, may paano-ano.
+        Pero pinatanggap pa rin ng Comelec sapagkat parte po iyan ng ating mandato
+        na ministerial ang duty namin natanggapin ang lahat ng certificates of candidacy,"
+        he added.  '
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd2b56435-f910-4b09-8273-6868daa34aa4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.155+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.155+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation:Here at the tent in Manila Hotel, there are even performers,
+        but Comelec still accepts it because part of our mandate is to ministerially
+        accept all certificates of candidacy.]'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fc60c3ce-fac9-4765-9b1e-69658fd30aaa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.155+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.155+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The poll chief, however, said whether Guo will be allowed to run is
+        another matter.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05d3cf05-8f83-451a-ad9f-d086bb85cf0d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.156+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.156+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Sapagkat, yun ay naka-depende. Number one, meron ba siyang kasong
+        disqualification? Number two, meron bang perpetual disqualification to hold
+        public office na ginawad ang mismo office of the Ombudsman? O, kaya naman
+        baka naman nuisance candidate. So, yung mga bagay na yan ay ire-resolve ng
+        Comelec," he said.  '
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '414de569-fd32-440e-abc7-c451c1a7fdea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.156+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.181+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.156+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Because it depends. Number one, does she have a disqualification
+        case? Number two, does she have a perpetual disqualification to hold public
+        office issued by the Ombudsman? Or perhaps, is she a nuisance candidate? So,
+        these matters will be resolved by the Comelec.] '
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1acf5b9a-2af7-4d27-a90d-2314ba7ab3c7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T14:14:57.157+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:06.181+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T14:14:57.157+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Garcia said the Comelec hopes to finalize the list and print the
+        ballots for the midterm elections by the end of December.</p>'
+  'dfa-cancels-guo-passport':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T15:07:07.000+08:00
+    'imagesource': 'jcr:2a9d6ab7-5fbd-4234-86ab-7fd5abb8e54f'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '1a5f527e-ae4d-4c9b-af64-74d9bb9a7ae7'
+    'lead': 'Dismissed Bamban, Tarlac Mayor Alice Guo no longer holds a ''fraudulently
+      acquired'' Philippine passport effective Sept. 30, the Department of Foreign
+      Affairs (DFA) said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T15:15:52.276+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:05.709+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.154+08:00
+    'mgnl:lastModified': 2024-10-05T09:37:54.789+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Alice Guo no longer holds PH passport — DFA'
+    'updated': 2024-10-05T09:37:50.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '98d17640-e426-417f-87b7-2c7ec3e83d3d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.374+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.712+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.781+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Dismissed Bamban, Tarlac
+        Mayor Alice Guo no longer holds a “fraudulently acquired” Philippine passport
+        effective Sept. 30, the Department of Foreign Affairs (DFA) said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ef839484-cbd7-42e8-833a-88cc0a49b813'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.374+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.712+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.782+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The agency said the decision was based on findings of the National\
+        \ Bureau of Investigation that the biometrics of Alice Leal Guo in the passport\
+        \ database matched those of Guo Hua Ping in National Bureau of Investigation\
+        \ (NBI) files.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c32bacb-c16c-4d81-874a-1ad55c82f447'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.374+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.713+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.782+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“The cancellation of the Philippine passport issued to the dismissed
+        Bamban mayor was effected on 30 September 2024, by virtue of Section 10 (b)
+        (4) of Republic Act No. 11983 or the New Philippine Passport Law,” the DFA
+        said in a statement on Friday, Oct. 4.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '21bd18e4-24a7-432d-b568-081808499c0d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.375+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.714+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.782+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In July, the Office of the Solicitor General filed a petition with
+        a Tarlac court seeking to cancel Guo’s birth certificate, and subsequently
+        a quo warranto petition before a Manila court.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c1e8bfb6-44d0-4d77-b958-55c3360b2ac6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-05T09:37:54.768+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.715+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.783+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In a message to NewsWatch Plus, Solicitor General Menardo Guevarra
+        said the cancellation of Guo’s passport “will reinforce the petition for quo
+        warranto,” which seeks her removal from public office.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf0f7495-223e-484b-91ed-1455200bfcd3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-05T09:37:54.769+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.715+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.769+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“The OSG’s petition for cancelation of Guo’s certificate of birth is\
+        \ still with the trial court,” Guevarra added.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '780f7b30-e010-4edd-9c6f-5987b268f5cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-05T09:37:54.769+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.716+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.769+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The embattled Guo is <a href="https://www.newswatchplus.ph/news/2024/10/4/Alice-Guo-mayor-2025-elections.html">planning
+        to seek reelection</a> for the Bamban mayoralty, her lawyer said.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5185b34d-3e4c-4b02-8dbb-a49096def8da'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-05T09:37:54.770+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.717+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.770+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Guevarra said the former mayor “may still file a certificate of candidacy\
+        \ for any elective position” at this time.\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3f0ebed-b1b3-4530-acec-cec315c70f61'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-05T09:37:54.770+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.718+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.770+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“The Comelec (Commission on Elections) is duty-bound to accept Guo’s
+        certificate of candidacy, unless it later disqualifies Guo for some valid
+        reason,” the government’s top lawyer said. “Ultimately though, it is the electorate
+        who will decide if Alice Guo deserves to hold public office.”</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7b0ddbc6-deef-4020-bbb0-cd24df627362'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.375+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.719+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.785+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>RELATED STORIES:</strong></p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '949d9ce7-5760-4798-ba48-c40dedf87a91'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.375+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.720+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.785+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/9/10/alice-guo-faces-senate-hearing.html"><strong>The
+        lies of Alice Guo’s identity, death threats, yacht escape – senators</strong></a></p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f4d2c20e-ed5a-4d3e-90cb-5d7212387126'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.376+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.721+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.785+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/7/29/alice-guo-quo-warranto-petition.html"><strong>EXPLAINER:
+        Alice Guo’s lies, according to PH gov’t top lawyer</strong></a></p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6d7ccc46-540b-4fb4-9306-29f1c1f688d2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.376+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.722+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.786+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a6586ca3-1537-4a01-be58-89fa77deaa21'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.377+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.722+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.786+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Guo, who is also supposedly known as Guo Hua Ping, has been at the\
+        \ center of the illegal offshore gaming operations scandal in the country.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '62ae5d4a-29f4-4a3f-8f10-5e83fdeced4a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.377+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.723+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.787+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Her Chinese citizenship has been one of the main issues hounding her\
+        \ in congressional hearings.\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '178d915e-5140-4b13-9bbf-226f3cf9c3c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:15:52.377+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.723+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-05T09:37:54.787+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Fresh allegations have been thrown at the former mayor as a <a href="https://www.newswatchplus.ph/news/2024/9/28/alice-guo-denies-chinese-spy-house-quad-comm.html">Chinese
+        spy</a>, based on the assertion of She Zhijiang, an imprisoned Chinese gaming
+        tycoon and self-confessed Chinese spy. Guo rejected the claim before lawmakers.</p>'
+  'The-Digital-Educator-Transforming-Filipino-Classrooms-':
+    'categories': ['290033c0-cbb5-4422-80c5-83c54c89968a']
+    'created': 2024-10-04T15:04:44.000+08:00
+    'imagesource': 'jcr:aba2088a-0846-4821-ad36-249b0c9d995d'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'dff51965-4c01-4ace-82f6-e1d24d450744'
+    'lead': 'As digital education reshapes how we learn, Raymor Cuevas emerges as
+      a fresh and inspiring voice on TikTok, bringing science, trivia, and thought-provoking
+      topics to the screens of young Filipinos. Known for his captivating short videos,
+      Raymor is more than an educreator; he''s an advocate for accessible, engaging
+      education, passionately bridging the gaps in the Philippine education system
+      with a blend of humor and insight.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T15:20:11.606+08:00
+    'mgnl:createdBy': 'michia-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:05.056+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.406+08:00
+    'mgnl:lastModified': 2024-10-07T11:58:12.487+08:00
+    'mgnl:lastModifiedBy': 'michia-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '2'
+    'title': 'The Digital Educator Transforming Filipino Classrooms'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e8a890b7-d55e-49ae-aa64-aeb91b2dfcfa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.643+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.059+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.476+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Raymor Cuevas, celebrated as TikTok’s Top Education Creator in 2022,
+        has changed the way Filipino students approach learning. With a dedication
+        to making education accessible and relatable, Raymor uses TikTok to tackle
+        complex topics in a way that resonates with today’s youth. His approach connects
+        directly with his audience, especially in a country where educational disparities
+        still persist. Through his content, he’s not only addressing gaps but filling
+        them, turning learning into a journey that’s as enjoyable as it is enriching.</p>'
+    '17':
+      'embed': '<iframe width="1013" height="570" src="https://www.youtube.com/embed/e5zIbzyX-Ec"
+        title="What&#39;s in my bag: Kuya RM" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91416ca5-ed5b-4bd6-b32e-c10c61d51acf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:22:06.457+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.060+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.477+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'video'
+      'scale': 'true'
+      'type': 'embed'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cffebe82-fc23-4105-ae53-1c3434550b44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.644+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.061+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.477+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Raymor’s Digital Education Journey</strong></p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ce65b90b-697c-4820-9fae-c358d579eabf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.644+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.061+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.478+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Raymor began his journey by observing the appeal of TikTok''s short-form
+        videos and how they resonated with Filipino youth. With figures like Kuya
+        Kim as an inspiration, Raymor saw an opportunity to create content that would
+        entertain while educating. He explains, “TikTok’s dynamic format lets me break
+        down complex ideas into engaging, bite-sized content, perfect for today’s
+        fast-paced digital landscape.” His mission is clear: to use TikTok’s reach
+        to spark curiosity and make learning more inclusive and fun.</p>'
+    '3':
+      'image': 'jcr:fb25efc3-80eb-4c17-b92b-e32cb5d767e8'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f88e9283-752d-4736-a7c1-2ba9fcab3c85'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.645+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.062+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.478+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'image'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6521f41a-e1c7-4fda-9f44-8dd6f803cf28'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.645+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.063+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.479+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Addressing Educational Challenges in the Philippines</strong></p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '11cac9a7-8123-410e-8d4c-4c67f87ee0a4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.646+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.064+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.479+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>For Raymor, creating content is more than a creative outlet—it’s
+        a way to address systemic educational issues. He sees the lack of resources,
+        outdated curricula, and language barriers as major hurdles for Filipino students.
+        By delivering content in Filipino and incorporating current scientific discoveries,
+        Raymor ensures his lessons are accessible to a broader audience. Many teachers
+        have even reached out, expressing gratitude for his videos as supplemental
+        learning materials. Raymor reflects, “It’s heartwarming to know my videos
+        are helping teachers and students bridge the gap, bringing quality education
+        within reach for all.</p>'
+    '19':
+      'image': 'jcr:4a7e4d16-1e3f-4ccc-b33c-9bda26e6665c'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '71724986-bfd0-4db1-96d8-78c19fb8b071'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-07T11:58:12.460+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.064+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.460+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'image'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b35a9590-8d1c-41e9-9ac6-cc5ddcec2779'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.647+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.065+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.480+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>The Power of Social Media in Education</strong></p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2cacf8c7-c200-4a96-b417-1acd527497c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.647+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.066+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.481+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Raymor believes that platforms like TikTok can revolutionize education
+        in the Philippines, making learning resources accessible to students from
+        various socioeconomic backgrounds. While he acknowledges potential pitfalls
+        like misinformation, he emphasizes that, with careful fact-checking and planning,
+        social media can become a tool that complements traditional learning. “Digital
+        platforms allow us to reach students who otherwise might not have access to
+        comprehensive educational materials,” Raymor explains. By promoting a scientific,
+        nationalistic approach to education, he hopes to inspire a shift toward a
+        more inclusive, forward-thinking system.</p>'
+    '9':
+      'image': 'jcr:f16ce012-1967-4507-a974-1b511a3111f0'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d65261e-79fb-45db-86e2-e9f4069d5d30'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.648+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.066+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.481+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'image'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa96f93d-1998-4160-a002-845a80de4589'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.649+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.067+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.482+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Transforming Learning through Entertainment</strong></p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9e9152e2-b161-4137-a05d-0198afc79710'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.649+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.068+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.482+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Raymor’s content takes typically “boring” subjects and presents
+        them with an engaging twist. By using fun facts, humor, and relatable examples,
+        he makes topics like science feel relevant and exciting. This approach has
+        reshaped how Filipino students perceive learning, showing them that education
+        can be dynamic and enjoyable. “I’m passionate about making each lesson a memorable
+        experience, so students feel empowered to learn beyond the classroom,” Raymor
+        shares. His efforts have also inspired young viewers to adopt proactive learning
+        habits, fostering a mindset of continuous curiosity.</p>'
+    '12':
+      'image': 'jcr:05aef7d1-3138-4e5b-80c7-33149b5bf8c7'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d52f0cd-e1bb-4d5a-b163-3170bc2affe1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.649+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.068+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.483+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'image'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cc18e02d-137c-4338-847b-9cda05b1eb8c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.650+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.069+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.483+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Advocating for Change in Education</strong></p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5bcc7744-411a-462a-9baf-e46760bd3181'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.651+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.073+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.484+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Looking to the future, Raymor hopes for an education system that’s
+        scientific, mass-oriented, and truly accessible. His advocacy extends beyond
+        his videos, as he engages with followers on critical issues and calls for
+        updates in the curriculum that reflect modern skills and Filipino heritage.
+        By encouraging discourse on social media, Raymor empowers his audience to
+        join the push for reform. His vision is for an education system that’s not
+        just a privilege but a right accessible to every Filipino, a mission he champions
+        passionately in his online journey.</p>'
+    '15':
+      'image': 'jcr:f44eded2-9c01-4214-a9fe-81d85a88d924'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52922715-2bcd-48b9-b94a-208cc6c4db34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.651+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.074+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.484+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'image'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33aad830-ddaa-49e0-914f-76b606926d83'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:36:57.070+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.074+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.485+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Raymor Cuevas stands as a testament to the transformative potential
+        of digital platforms in education. With each video, he bridges the gap between
+        entertainment and enlightenment, offering Filipino students a fresh perspective
+        on learning. His journey serves as an inspiration, reminding us all that education
+        can—and should—be accessible, engaging, and inclusive. As he continues to
+        advocate for change, Raymor’s impact on Filipino education is sure to resonate
+        for generations to come.</p>'
+    '16':
+      'embed': '<iframe width="1013" height="570" src="https://www.youtube.com/embed/885Rr01eJ-w"
+        title="5 fun questions with Kuya RM" frameborder="0" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e420f3f-3ba8-4c9a-91d0-976937032d6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T15:20:11.652+08:00
+      'mgnl:createdBy': 'michia-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:05.075+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T11:58:12.485+08:00
+      'mgnl:lastModifiedBy': 'michia-nwp'
+      'mgnl:type': 'video'
+      'scale': 'true'
+      'type': 'embed'
+  'bini-in-grammys-list-':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T16:05:02.000+08:00
+    'imagesource': 'jcr:912ddc9f-b880-4a4c-9d66-5a57bc7c5bb2'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'a2ab1162-9565-4b3e-a279-f21128e13bc9'
+    'lead': 'P-pop girl group BINI has landed on the list of Grammy Awards’ “12 Rising
+      Girl Groups to Know.”
+
+      '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T16:06:32.696+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:04.443+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.550+08:00
+    'mgnl:lastModified': 2024-10-04T16:06:32.728+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['BINI', 'Grammys']
+    'stories': []
+    'template': '1'
+    'title': 'BINI in Grammys list of ‘Rising Girl Groups to Know’'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8395a857-2cd5-4ab2-8a73-8537da95ea6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.721+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.446+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.725+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> P-pop girl group BINI
+        has landed on the list of Grammy Awards’ “12 Rising Girl Groups to Know.”</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83628b52-d8a7-43a4-808a-63455512a0ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.721+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.446+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.721+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The list was published on the Grammys website on Oct. 3, Thursday. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b489105-36ae-48cf-99f2-43d9f881d305'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.721+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.447+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.721+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The prestigious award-giving body called BINI “one of the fastest growing
+        music markets” in the country. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cadbf8b2-785d-41c9-8383-cbc6232c07a1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.722+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.448+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.722+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“BINI has captured Southeast Asia with EDM (electronic dance music)
+        - driven pop production and a blend of English and Tagalog lyrics. And as
+        the first Filipino act to enter Spotify''s Top Artist Global Chart and to
+        perform at the long-standing KCON festival, it''s no surprise they''ve been
+        dubbed the ‘Nation''s Girl Group,’” Grammys said. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '86ef9422-b28c-48b2-a596-37c136a0650b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.722+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.449+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.722+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Joining BINI in the list are Korean girl groups Unis and Kiss of Life,
+        and British trio “Flo.” '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ef4dff97-58ca-4845-83ec-b1675486512a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:06:32.723+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:04.449+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:06:32.723+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The P-pop group is set to headline the Asiya: Asian Music Festival
+        next week, ahead of its three-day concert at the Araneta Coliseum Quezon City
+        in November.</p>'
+  'abby-nancy-binay-luis-campos':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T16:22:57.000+08:00
+    'imagesource': 'jcr:b727302d-9e3b-49a5-819f-a9b22a4da4bb'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'bfc68f24-f887-4090-a2eb-17821bf6af71'
+    'lead': 'Makati Mayor Abby Binay has confirmed that her husband, Makati Rep. Luis
+      Campos will run for mayor next year, pitting him against her sister, Senator
+      Nancy Binay.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T16:25:56.493+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:03.579+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.667+08:00
+    'mgnl:lastModified': 2024-10-04T16:25:56.523+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Abby-Binay', 'Nancy-Binay']
+    'stories': []
+    'template': '1'
+    'title': 'Abby Binay confirms husband running vs. sister for Makati mayoral race'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e1daa3c8-a64c-49db-887d-4ea5270e503f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.512+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.581+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.520+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Makati Mayor Abby Binay
+        has confirmed that her husband, Makati Rep. Luis Campos will run for mayor
+        next year, pitting him against her sister, Senator Nancy Binay.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c05c8ba6-6872-478e-a5e1-acccb7b5b756'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.513+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.582+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.513+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Abby SAID Campos will file his certificate of candidacy (COC) on Oct.
+        5'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0fb2aed-84af-4100-9092-f71d5e3cc98f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.513+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.583+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.513+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“There hasn’t been any discussion, so we’ll let the people decide,”
+        Abby said in a media interview after filing her candidacy for senator at the
+        Manila Hotel on Friday.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5ea99d1b-f280-444a-bfcc-c09c5e4c7550'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.513+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.584+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.513+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kami ho ay nagdesisyon na, matagal na (We made this decision a long
+        time ago),” she added.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7fd02970-955a-4be8-90d9-09846179859f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.514+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.585+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.514+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Earlier, Nancy expressed her view that Abby is qualified to run for
+        senator after Abby filed her own COC for mayor on Monday.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4013317-b3c0-4497-a72b-f2a921351496'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.514+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.585+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.514+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Thank you? What comment do you want? You’ll have to ask her why she
+        thinks I’m qualified—ang hirap naman magbuhat ng sariling bangko (it''s hard
+        to toot my own horn). It’s still nerve-wracking for me to run. I don’t know
+        if I’m mentally ready," Abby responded.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '32224d63-a5bb-4083-8a33-7041569e0531'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.515+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.586+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.515+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Abby also addressed a statement by their brother, former Makati Mayor
+        Junjun Binay, who said that their father, former Vice President Jejomar Binay,
+        supported her decision to run.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6effe670-8e03-44d0-8d49-fcd654c0fab4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.515+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.587+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.515+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Yung sinasabi nila na yun daw gusto ng ama namin, wala naman ho siyang
+        sinasabi sa akin (They’re saying that’s what our father wants, but he hasn’t
+        told me anything). I guess I’ll have to hear it straight from him,” she said.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50d2b40b-349a-4509-adf3-01d9e41e495b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:25:56.516+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.587+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:25:56.516+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>This is not the first time that members of the Binay family faced
+        off in the elections. In 2019, Abby and Junjun fought for the mayoral race.</p>'
+  'marcos-to-attend-asean-summits':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T16:31:05.000+08:00
+    'imagesource': 'jcr:5d09f6d7-d39d-4e77-95e0-2849bd986391'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '8aead620-a768-4f31-8130-8af0a8f58606'
+    'lead': 'President Bongbong Marcos is set to attend two consecutive ASEAN summits
+      in October, where he is expected to tackle the South China Sea issue, human
+      trafficking, and other Filipino interests.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T16:34:48.360+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:03.203+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.807+08:00
+    'mgnl:lastModified': 2024-10-04T16:34:48.486+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['ASEAN', 'Bongbong-Marcos']
+    'stories': []
+    'template': '1'
+    'title': 'South China Sea, trafficking in Marcos agenda for ASEAN summits'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8dc033d8-6cb1-4e6e-978e-7d7c6e7efafd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.206+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.480+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
+        Marcos Jr. is set to attend two consecutive summits at the Association of
+        Southeast Asian Nations (ASEAN) in October, where he is expected to tackle
+        the South China Sea issue, human trafficking, and other national interests.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f274e431-18b7-4fb9-ba60-029b805a2f07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.206+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.469+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In a Palace briefing on Friday, Oct. 4, Foreign Affairs Assistant Secretary\
+        \ Daniel Espiritu said Marcos will join the 44th and 45th ASEAN and Related\
+        \ Summits in Vientiane, Laos on Oct. 8 to 11.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '25dc6f3f-fc89-4a7e-9d98-c77cb43df69b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.470+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.207+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.470+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Espiritu said, in general, the Philippines will push for issues on\
+        \ political, security, economic, and socio-cultural cooperation, including\
+        \ climate action and biodiversity management.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cb73f77a-e99a-4439-9a85-a70e48a5176d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.470+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.208+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.470+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Asked if the West Philippine Sea will be raised, Espiritu told reporters:\
+        \ “Of course, definitely. The president always champions that issue in all\
+        \ of the summits from the very start.” \r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '117b063e-c3ca-4b72-bacf-1248e0037e22'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.471+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.208+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.471+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "No details were given but Marcos is expected to mention “recent developments”\
+        \ in the talks, he added.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '716eac63-d7a6-4759-8566-da011208371a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.471+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.209+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.471+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Will ASEAN finally reach a unified statement rejecting China’s “aggression”\
+        \ in the disputed waters?\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48c523c2-aaed-47b8-9b9d-ffd2771c3a74'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.471+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.210+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.471+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“I think we should not only look at ASEAN but also the external
+        partners. It’s also a platform for the external partners to express their
+        support to us on the issue and most of our major external partners did so
+        I think we have to look at it at that. And it’s still a fluid situation, many
+        things are developing in the waters not only with the Philippines but also
+        with other claimant states, so let''s see,” Espiritu said.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a6eb4c4-c9cc-4f4f-a76c-18139a7b0499'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.472+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.210+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.472+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The DFA official also confirmed that Marcos will tackle human trafficking\
+        \ as it is a “common concern within ASEAN,” noting that most of the documents\
+        \ to be signed center on the issue.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6400c988-6344-4cbf-9dea-7f53942a009a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.472+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.211+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.472+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“In fact, some of them dinadala din sa [are brought to the] Philippines,\
+        \ some people of other nationalities and it’s happening in mainland Southeast\
+        \ Asia,” Espiritu said of human trafficking.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f1e5b6f-7491-4e40-9178-9323d7ff81d9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.473+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.212+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.473+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“May counterparts ‘yong [There are counterparts of] POGO (Philippine\
+        \ Offshore Gaming Operator) in other ASEAN member states and so we are actually\
+        \ actively cooperating on that,” he said. “In fact, right now, we have an\
+        \ active cooperation including the rescue of the victims of these scam schemes.”\
+        \r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '89b845a4-7bae-4372-af76-54ea21cb4d39'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.473+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.213+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.473+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Digital economy and supporting micro, small, and medium enterprises\
+        \ are Manila’s other advocacies.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e53d76fe-f8a0-42e5-a4d5-61a7ec5ee892'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.474+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.213+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.474+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Other events in Marcos’ schedule are a business and investment summit,\
+        \ as well as meetings with the TikTok regional director of Southeast Asia,\
+        \ TikTok creators and sellers.\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c42b644-e288-4ab0-a7eb-cc18e12d4e4f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T16:34:48.474+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:03.213+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T16:34:48.474+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Around 80 documents will be signed including the ASEAN Leaders’ Declaration\
+        \ on the Development and Strategic Plans to Implement the ASEAN Community\
+        \ Vision 2045, the ASEAN Leaders’ Declaration on Promoting the ASEAN Outlook\
+        \ in the Indo-Pacific for a Future-ready ASEAN, the ASEAN Leaders’ Declaration\
+        \ on Strengthening Regional Biosafety and Biosecurity, and, the ASEAN Leaders’\
+        \ Declaration on Enhanced Cooperation Against Illicit Drug Trafficking and\
+        \ Precursor Chemicals.\r"
+  'us-south-korea-defense-costs':
+    'author': 'Reuters'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T17:56:19.000+08:00
+    'imagesource': 'jcr:86d1ab5f-43c5-4eaf-8e71-48106299daa7'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '67587e60-26bf-4348-ad8e-78a9a0fabb9c'
+    'lead': 'The United States and South Korea on Friday agreed on a new five-year
+      plan on sharing the cost of keeping American troops in South Korea, South Korea''s
+      foreign ministry and the U.S. Department of Statement said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T17:59:11.296+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:02.722+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:51.972+08:00
+    'mgnl:lastModified': 2024-10-04T17:59:32.035+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['south-korea', 'US']
+    'stories': []
+    'template': '1'
+    'title': 'U.S., South Korea agree on five-year plan to share defence costs
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9e4e626b-fdc2-4b94-8ddc-988b5154cf66'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.319+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.725+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.030+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Seoul, South Korea -</strong> The United States and South
+        Korea on Friday agreed on a new five-year plan on sharing the cost of keeping
+        American troops in South Korea, South Korea''s foreign ministry and the U.S.
+        Department of Statement said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '14030944-51f0-4790-9edf-439216721e3c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.320+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.726+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.031+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'For 2026, the nations agreed to raise defence cost by 8.3% to 1.52
+        trillion won ($1.13 billion), South Korea''s foreign ministry said in a statement.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '172861b5-ed3b-44f8-92c0-292a1d582cc2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.320+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.726+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.031+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Seoul and Washington launched the talks earlier than usual in what
+        was seen as a bid to conclude the negotiations before the U.S. election in
+        November.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '68f6a407-e4c3-4554-a556-247cb538a452'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.321+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.727+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.032+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lee Tae-woo, South Korea''s chief negotiator, and Linda Specht, the
+        top U.S. negotiator for talks on defence cost sharing with Korea, finalised
+        the new deal after eight rounds of talks that began in April, held just before
+        the existing deals were due to expire next year.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6fdc720a-4785-4234-ac1a-d15b0f638c06'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.321+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.728+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.032+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Some 28,500 American troops are stationed in South Korea as part of
+        efforts to deter nuclear-armed North Korea.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c78526f-81de-44dc-a465-1e9884af3b9e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.322+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.728+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.033+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'South Korea began shouldering the costs of U.S. deployments, used to
+        fund local labour, the construction of military installations and other logistics
+        support, in the early 1990s.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2d42ad20-1787-4f2f-bd8b-af27e8e756a2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.322+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.729+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.033+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Donald Trump, the Republican nominee in the November election, had
+        during his presidency accused South Korea, a key Asian ally, of "free-riding"
+        on U.S. military might, anddemanded that it pay as much as $5 billion a year
+        for the U.S. deployment.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c1ecc2b0-db85-4554-b78b-2cdeff46f5bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.322+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.730+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.033+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'During his presidency, both sides had struggled for months to make
+        progress, before reaching a deal with his successor Joe Biden, when Seoul
+        agreed to increase its contribution by 13.9%, the biggest annual rise in nearly
+        two decades.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '95c29431-3ef8-40eb-a5b2-01be69973272'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.323+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.730+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.034+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The cost sharing rise for 2026 compares with the average annual
+        increase of 6.2% for the past five years, to factor in higher maintenance
+        costs and additional local staff, Seoul''s foreign ministry said. For 2027-2030,
+        they agreed to use the Consumer Price Index as a reference and work to make
+        sure the annual increase does not exceed 5%, it said.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '87b9acd5-a8db-41f4-aa5d-712f497d169e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T17:59:11.323+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.731+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T17:59:32.034+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Josh Smith and Cynthia KimEditing by Ed Davies)</em></p>'
+  'olivia-rodrigo-halo-halo-manila':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T18:13:09.000+08:00
+    'imagesource': 'jcr:85fe6fca-5595-4d8a-b8cd-89b59b70100f'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b5b411f3-88a2-4c22-a14c-b001028a2d3f'
+    'lead': 'Filipino-American singer-songwriter Olivia Rodrigo is surely taking her
+      sweet time across Metro Manila ahead of her ‘Guts’ World Tour show on Saturday.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T18:18:54.295+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:02.012+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:52.114+08:00
+    'mgnl:lastModified': 2024-10-04T18:18:54.392+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Olivia-Rodrigo', 'Guts-World-Tour']
+    'stories': []
+    'template': '1'
+    'title': 'Olivia Rodrigo and the secured ‘halo-halo’'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3fea7cde-d9d4-440f-b382-7c89f0981c73'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.377+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.015+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.387+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Metro Manila, Philippines — Filipino-American singer-songwriter
+        Olivia Rodrigo is taking her sweet time across Metro Manila ahead of her “Guts”
+        World Tour show on Saturday, Oct. 5.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05cf12c5-daae-4078-8f3a-9de380a872d9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.378+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.016+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.378+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Rodrigo arrived at the Ninoy Aquino International Airport on Thursday\
+        \ evening, holding hands with actor and boyfriend Louis Partridge, as seen\
+        \ in photos and videos on social media.\r"
+    '2':
+      'contentWidth': 'fit-content'
+      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fromulocafeph%2Fposts%2Fpfbid029GRykBhH3fueFT7mrsWD6zptixupovGSAy8NEA3HQ4AEkMbh7qn26a27oHToFEvKl&show_text=true&width=500"
+        width="500" height="396" style="border:none;overflow:hidden" scrolling="no"
+        frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share"></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f289c32-c0e7-4897-8f68-554f536ec02c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.378+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.017+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.378+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'embedCode'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cd41315e-ba0d-4484-8879-7a7739c9ab37'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.379+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.018+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.379+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Rodrigo then visited a cafe in Makati to taste the popular Filipino\
+        \ cold dessert “halo-halo”\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '04d94c10-551e-4eb3-b787-483332fc7bbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.379+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.019+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.379+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“halo halo secured!!! so excited to be in the philippines,” she
+        wrote in an Instagram story.</p>'
+    '5':
+      'image': 'jcr:d4727f7d-5693-4526-90c2-637036fcfa54'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '922ddb96-765f-4eb4-a558-1bd8f60fc56b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.380+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.019+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.380+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'image'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '861a2af8-3fdd-4179-9332-65afc1175b14'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.380+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.020+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.380+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>By Friday morning, fans spotted the couple, along with Rodrigo’s
+        father Chris, <a href="https://www.facebook.com/blandie.sape.1/videos/410032231872973">strolling
+        around Intramuros</a> in Manila.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '36ef7f89-cc35-4785-b2c4-d593fa0cbe2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.381+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.021+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.381+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The 21-year-old pop star rented a bicycle to enjoy her trip in the
+        historic walled city.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '151dce5a-d381-4ef3-9c5d-3a71557ab1d2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.381+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.021+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.381+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>She accommodated fans’ requests for selfies, while other “Livies,”
+        especially those who did not get spots to her concert, were content to see
+        the artist up-close along Manila streets.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '59557b22-5019-488b-8f5b-9463ac4e9cd4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.381+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.022+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.381+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Rodrigo is <a href="https://www.facebook.com/livenationph/posts/pfbid0AgtNff4PEifPK7TwntQUCivMvVredSUHMQMbZFDXT6mKtG9AZk6pPEh2exgSKTaml">set
+        to rock the stage</a> at the Philippine Arena in Bulacan on Saturday. Tickets
+        were priced at P1,500, with proceeds going to her “Fund 4 Good” initiative
+        for women’s reproductive health rights.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84266f12-deb8-4c4e-997d-2a1ee9d8bf04'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:18:54.382+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:02.022+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:18:54.382+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "She is behind the hits “vampire,” which is included in her “Guts” album,\
+        \ “deja vu,” and “drivers license.”\r"
+  'philippines-vietnam-china-south-china-sea':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T18:39:14.000+08:00
+    'imagesource': 'jcr:664f838f-09ff-4cd2-ad69-c66f86bed27e'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'e26ee09e-aff6-4a15-b716-4184c3c5d2c4'
+    'lead': 'The Philippine government slammed China’s violent and illegal actions
+      against Vietnamese fishermen near Paracel Island in the South China Sea.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T18:43:17.812+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:01.564+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:52.312+08:00
+    'mgnl:lastModified': 2024-10-04T18:50:44.153+08:00
+    'mgnl:lastModifiedBy': 'thea-nwp'
+    'mgnl:tags': ['Philippines', 'South-China-Sea']
+    'stories': []
+    'template': '1'
+    'title': 'PH condemns ‘illegal, unjustified assault’ on Vietnamese fishermen '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b115c92-769a-4b66-bd2e-3c5b62547158'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.830+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.566+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.143+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines—</strong> The Philippine government
+        slammed China’s violent and illegal actions against Vietnamese fishermen near
+        Paracel Island in the South China Sea.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dd51e01b-1b49-4b01-b8cb-2e5da8430598'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.831+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.567+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.143+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '“This unjustified assault, which left 10 fishermen injured and damaged
+        their property, is an alarming act with no place in international relations,”
+        said National Security Adviser Eduardo Año in a statement on Friday, Oct.
+        4. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bb2d9959-3778-42e9-8fde-143dd990f86e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.831+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.568+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.144+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'Año said the Philippines is an advocate of peaceful dispute resolutions
+        in the South China Sea and “coercion and violence” should never be used against
+        civilian fisherfolk. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b9aeeb1-7aab-4459-a1a7-8d9d51acf1f5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.831+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.568+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.145+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '“We stand with Vietnam in denouncing this egregious act and call for
+        accountability. China must uphold international maritime laws and cease all
+        hostile activities that endanger the lives and livelihoods of civilian mariners,”
+        he said. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ec674348-ea1e-41fe-b421-820c83e02136'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.832+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.569+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.145+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '“The Philippines reaffirms its commitment to peace, security, and respect
+        for international law,” he added.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ae613dd1-dae3-4801-b143-8796dd6890e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.832+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.570+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.146+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Department of Foreign Affairs (DFA) has raised concerns from reports
+        of the incident which took place on Sept. 29. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e089a7c-985e-4db2-92a6-6ab6fbdecad2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.832+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.570+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.147+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '“The Philippines has consistently denounced the use of force, aggression
+        and intimidation in the South China Sea, and emphasized the need for actors
+        to exercise genuine self-restraint,” said the DFA.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '42315ab4-6c68-4581-8bd6-62e5c60e497e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.833+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.571+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.147+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'In a Reuters report, at least 10 Vietnamese fishermen were injured
+        when their boat was attacked by two foreign vessels while fishing near the
+        Paracel Islands. '
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b7126c4-6602-422c-a5de-b3d7903eaafd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.833+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.571+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.148+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'Local media reports said that around 40 people from the foreign vessels
+        beat them with iron pipes and took away their fishing equipment.  Three fishermen
+        suffered from broken legs and arms following the attack. '
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '726b3189-94a9-4b01-9e29-4d071a5f6244'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.833+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.572+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.149+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Paracel Islands are claimed by Vietnam and China. '
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd1ac36ad-ad28-4c3f-a090-22b8b2bea7ea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.834+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.573+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.149+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': 'Hanoi has protested the Chinese actions against the fishermen. '
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '73efe165-d87f-4b9b-abdc-bd3915ebbd51'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.834+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.573+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.150+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '“Vietnam is extremely concerned, indignant and resolutely protests
+        the brutal treatment by Chinese law enforcement forces of Vietnamese fishermen
+        and fishing boats operating in the Hoang Sa archipelago of Vietnam,” foreign
+        ministry spokesperson Pham Thu Hang said in a statement.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf67c38c-13f6-4d9c-8f40-1c0ae927dc24'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T18:43:17.835+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:01.574+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T18:50:44.151+08:00
+      'mgnl:lastModifiedBy': 'thea-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>NewsWatch Plus Senior Correspondent Tristan Nodalo contributed
+        to this report</em></p>'
+  'coc-filing-day-4-highlights':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-04T19:26:19.000+08:00
+    'image': 'jcr:59f84546-bc83-405e-9f8b-ff968913a731'
+    'imagesource': 'jcr:47de964a-0b37-4928-b246-000946a5df1d'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '3d794b20-4c1c-4517-88e1-df363d9e6203'
+    'lead': 'The fourth day of filing certificates of candidacy (COC) kicked off with
+      the Makabayan coalition presenting 11 candidates for the Senate representing
+      diverse sectors such as health care, labor, agriculture, women''s rights, and
+      education.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-04T19:31:35.914+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:09:58.342+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:52.539+08:00
+    'mgnl:lastModified': 2024-10-04T19:32:11.705+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['elections-2025']
+    'stories': []
+    'template': '2'
+    'title': 'Vote Watch: Progressives, political heirs, independent hopefuls on Day
+      4 of COC filing  '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffdb8fba-7abd-4471-a7a1-78b8ca61203d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.934+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.489+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.688+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines—</strong>The fourth day of filing
+        certificates of candidacy (COC) kicked off with the Makabayan coalition presenting
+        11 candidates for the Senate representing diverse sectors such as health care,
+        labor, agriculture, women''s rights, and education.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0924010a-a2ea-4031-a25b-f6999aa0a77e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.935+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.490+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.689+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Deputy Speaker Camille Villar and Makati Mayor Abby Binay also joined
+        the race to May 2025, bringing attention to their political families. Meanwhile,
+        labor leaders urged the public to unite against the entrenched political dynasties.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0acd83ca-5265-481c-a0b9-bc6da5ba22b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.935+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.491+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.689+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Amidst this backdrop, a number of senatorial hopefuls are banking on
+        their sincerity and passion to serve, even without the backing of established
+        political machinery.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '44064d71-f88a-49d8-9ed1-df0eeac88e8d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.936+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.492+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.690+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Makabayan coalition targets tight Senate race</strong></h2>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '24419c2e-10d0-4067-866d-27c590ecdeec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.936+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.492+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.690+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Jerome Adonis of Kilusang Mayo Uno is committed to abolishing regional
+        wage boards and contractualization if elected. Meanwhile, ACT Teachers party-list
+        representative France Castro aims to eliminate confidential funds from the
+        national budget. She has vowed to push for amendments to laws on graft and
+        corruption to ensure greater accountability in public fund usage.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '897fc3f3-9960-4091-96ac-6e277735f5dc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.936+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.493+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.691+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Bawal po ang pusit pag ako ay maging Senado [Squid is not allowed
+        if I am in the Senate],” she said in a reference to resorting to squid tactics.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4f64d8fc-eb28-43a5-96c8-49b679818c6c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.937+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.494+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.692+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Gabriela party-list representative Arlene Brosas emphasized the need
+        for a women’s rights advocate in the Senate, pledging to push for clearer
+        definitions of the anti-rape law for better implementation.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c464099-c871-4989-a60f-c7a6b7d4e88a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.937+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.494+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.692+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Sa halip na sexist at macho, Gabriela naman ang dalhin natin sa Senado
+        [Instead of sexism and pride in masculinity, let us bring Gabriela this time
+        to the Senate],” she said.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '424dd3d4-1d6b-49f5-95e6-614c77563904'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.938+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.495+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.693+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Former anti-poverty chairperson Liza Maza said she is advocating for
+        an independent foreign policy, proposing a resolution to withdraw from all
+        treaties, including the Mutual Defense Treaty and Visiting Forces Agreement
+        with the United States. Maza noted that the Philippines should not be embroiled
+        in geopolitical rivalries between the US and China.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4f90354a-8182-4184-bcba-ec089e1878ca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.938+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.496+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.693+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Farmer Danilo Ramos used an “Alice Guo” reference to highlight the
+        challenges faced by Filipino workers, in reference to the controversial former
+        mayor in the middle of a congressional inquiry on illegal offshore gaming
+        activities.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '79e96fc9-89fa-4347-8560-74cc23b52831'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.939+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.496+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.694+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Ako si Danilo Ramos, magsasaka, mangaggawang bukid, at totoong lumaki
+        sa farm,” he said in his opening speech.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f525847d-ad92-4f28-a014-8fbb8984bf9d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.939+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.497+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.694+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Senate: Villar family affair</strong></h2>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '96d8f416-5032-47bd-a081-3398e9e03958'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.940+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.517+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.695+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Deputy House Speaker and Las Piñas Rep. Camille Villar filed her
+        COC following the footsteps of her father and former Senate President Manny
+        Villar, mother Sen. Cynthia Villar, and brother Sen. Mark Villar.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3b2bf230-f19d-4946-9261-824882b19f73'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.940+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.518+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.695+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'When questioned about the family''s dominance in the Senate, the millennial
+        lawmaker responded, “We are all elected officials—my father, my mother, and
+        my brother. Nagpapasalamat ng taos puso sa ating kababayan sa ating patuloy
+        na pagbibigay suporta at tiwala sa pamilya Villar [Sincerely thankful for
+        the continuous support and trust of our countrymen to the Villar family].”'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9fd5cb3f-3858-495e-a9b1-ad07e31a0433'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.940+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.519+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.696+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Family feud</strong></h2>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6b86db40-93ec-45c1-9045-589220d836f9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.941+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.519+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.696+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, Makati Mayor Abby Binay filed her candidacy under the Nationalist
+        People’s Coalition at the Manila Hotel. In her speech, she emphasized her
+        focus on enhancing health care services, amending the local government code,
+        and securing disaster response funds for LGUs.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e6c06ef-09ab-4f1b-8300-b8500ecb0a6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.942+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.520+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.697+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'She faced questions about her family, especially with her sister running
+        for the mayoral post against her husband.'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ccfea19-8984-4ad7-8733-f24d1e221000'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.942+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.521+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.697+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“There hasn’t been any discussion, so we’ll let the people decide,”
+        Abby stated in a media interview after filing her COC.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5cbab3e7-867d-4fe0-a80c-bdc93923ceb7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.943+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.522+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.698+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Kami ho ay nagdesisyon na, matagal na [We made this decision a long
+        time ago]," she added.'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '20e7990b-75fc-436f-b3b9-f4ba08772b59'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.943+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.523+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.699+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Earlier, Nancy supported Abby in her Senate bid.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88a4930c-2519-42f2-8e54-d2a505bec575'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.944+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.523+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.699+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Thank you? What comment do you want? You’ll have to ask her why she
+        thinks I’m qualified—ang hirap naman magbuhat ng sariling bangko (it''s hard
+        to toot my own horn). It’s still nerve-wracking for me to run. I don’t know
+        if I’m mentally ready," Abby responded.'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '08dd3371-d173-4d21-b275-93e3a6d3c8ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.944+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.525+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.700+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Abby also confirmed that her husband, Luis Campos, will compete against
+        her sister.'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ff44a05c-8d70-498a-840c-fb10448b7742'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.945+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.525+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.700+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Labor leaders: End Senate drama, dynasties</strong></h2>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c52876ea-344c-4b80-88a7-1839b212e6ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.945+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.526+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.701+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Labor leaders Luke Espiritu and former presidential candidate Leody
+        de Guzman voiced strong opposition to political dynasties, particularly in
+        the Senate. '
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '457eab71-187d-40ad-9a72-b61a1f1e9418'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.946+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.527+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.701+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Espiritu said the Senate should not become a “source of drama or soap
+        opera.” De Guzman expressed optimism that growing public frustration with
+        dynasties may prompt action in the upcoming 2025 midterm elections.'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '58534dab-4129-49f9-a1ee-751b600a0756'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.947+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.528+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.702+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Bilyonaryo vs. baryanaryo</strong></h2>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '81a94a37-f5c9-4806-87d2-ff6531f800b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.947+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.529+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.703+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Retired teacher Ernesto Balite criticized the state of politics
+        in filing his candidacy for senator. He lamented the rampant corruption and
+        the lack of opportunities for lesser-known candidates.</p>'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f946f24-c5ef-4287-a28a-762f72ee8a17'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.948+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.530+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.703+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Ang kalaban po namin ay bilyonaryo. Kami po ay baryanaryo lamang [We
+        are against billionaires. We are poor],” he stated.'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c87cca95-cd98-46e9-8ac9-d0161491496a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-04T19:31:35.948+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:09:58.530+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-04T19:32:11.704+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Comelec data showed that 19 filed their candidacy for senators on
+        Friday.</p>'

@@ -1,0 +1,3215 @@
+'8':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'ae2f6a13-ba3e-481b-8c8c-d7b6b34b0feb'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-12-08T09:53:18.705+08:00
+  'mgnl:createdBy': 'daniza-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:33:50.560+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:43.095+08:00
+  'mgnl:lastModified': 2024-12-08T22:58:18.646+08:00
+  'mgnl:lastModifiedBy': 'lance-nwp'
+  'rains-persist-cooler-weather':
+    'caption': 'The Himawari weather satellite as of Dec. 8, 9:30 a.m. (PAGASA/Website)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T09:53:18.000+08:00
+    'imagesource': 'jcr:a38ef5ba-b7a8-4f0c-9d4a-ebadc236dacd'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'dda34b7b-a8fa-4f1d-ad45-d0cba7e66297'
+    'lead': 'Cooler weather will prevail over the archipelago this week, the Philippine
+      Atmospheric, Geophysical and Astronomical Services Administration said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T09:56:46.425+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:14.925+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:43.269+08:00
+    'mgnl:lastModified': 2024-12-08T17:42:52.099+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Cooler weather to prevail this week — PAGASA'
+    'visualType': 'image'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '21e6a2f1-d967-47bc-8863-255408915a1d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T09:56:46.444+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.929+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.093+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Cooler weather will
+        prevail over the archipelago this week, the Philippine Atmospheric, Geophysical
+        and Astronomical Services Administration (PAGASA) said on Sunday, Dec. 8.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94ff9d68-dcb0-45b2-ad1b-54b73e53ceeb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.080+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.931+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.080+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Asahan pa rin ang paglakas ng northeast monsoon dito sa may Northern
+        Luzon at posibleng umakyat or bumaba pa dito sa may parteng Central Luzon,”
+        PAGASA weather specialist Benison Estareja said in a weather forecast.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5184556b-a6a8-4b79-bf3c-8172fd3e42ac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.081+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.933+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.081+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Expect the strengthening of the northeast monsoon in
+        Northern Luzon which may extend to the Central Luzon area.]'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ef481d7-7572-4873-a263-34aab1652ce1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.081+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.081+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'For Monday, light to moderate rains may be dumped over Cagayan Valley
+        and the Cordillera Administrative Region.'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9f5402a0-2212-40ac-acf2-f9c80e8766c9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.082+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.082+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The shear line will also bring scattered rains and thunderstorms over
+        Central Luzon, Southern Luzon, and Visayas.'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f2e3765c-dfa0-4fcd-a289-6853ea757d4e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.082+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.939+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.082+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA warned against the threat of floods and landslides.'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '326fd833-e2af-4780-8516-5eb3a4ef5340'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.082+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.941+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.082+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Sunday weather</strong></h2>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eddb7f1e-5444-402d-bfc4-02a4e5596cfc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.083+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.945+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.083+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Most parts of the country will continue to experience rains due to
+        three weather systems, PAGASA said. '
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '15ab8eb0-7703-4144-b337-dd4b23f8f893'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.083+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.948+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.083+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'In PAGASA’s forecast, the intertropical convergence zone, the area
+        where winds from the northern and southern hemispheres meet, will bring overcast
+        skies with scattered rains and thunderstorms over Mindanao, Eastern Visayas,
+        Central Visayas, Negros Island Region, and Palawan.'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d7369aa-788d-4e4f-9546-949188660f56'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.084+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.950+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.084+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The shear line, the area where cool and warm winds converge, will cause
+        cloudy skies with scattered rains and isolated thunderstorms over Isabela,
+        Aurora, Quezon, Camarines Norte, and Camarines Sur.'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1535e201-2bc0-4008-8149-0cd9f1c8aa96'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.084+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.953+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.084+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The northeast monsoon, locally known as amihan, will trigger overcast
+        skies with rains over Apayao, Kalinga, Mountain Province, Ifugao, and the
+        rest of Cagayan Valley.'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c63826b1-4525-482d-a664-a26df1d5debb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.085+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.957+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.085+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Ilocos Region and the rest of the Cordillera Administrative Region
+        will have partly cloudy to cloudy skies with isolated light rains also due
+        to the amihan.'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '00714388-5cf8-40ce-a3fe-d93b35598141'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.085+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.961+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.085+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The rest of the country will have partly cloudy to cloudy skies with
+        isolated rain showers or thunderstorms due to localized thunderstorms.'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '263c836b-e8af-492e-aa10-ed996653bfc8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.086+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.963+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.086+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA raised a gale warning over the coasts of Batanes, Cagayan including
+        Babuyan Islands, Ilocos Norte, Ilocos Sur, northern La Union, and western
+        Pangasinan as waves may reach up to five meters.'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c7a6067d-4f8d-46cb-8190-7078c2603bc5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:42:52.086+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.965+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:42:52.086+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>For the next three days, no low pressure area will enter the Philippine
+        Area of Responsibility.</p>'
+  'pope-francis-21-cardinals':
+    'author': 'Joshua McElwee, Reuters'
+    'caption': 'Pope Francis, with a large bruise on his chin, attends a consistory
+      ceremony to elevate Roman Catholic prelates to the rank of cardinal, in Saint
+      Peter''s Basilica at the Vatican, December 7, 2024. (Simone Risoluti/Vatican
+      Media/Handout via Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T10:17:02.000+08:00
+    'imagesource': 'jcr:7640b9e6-dff0-4aa1-99bd-7b128f5a28b1'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'bd823373-5b2e-40b6-8c7d-da3a9a661d55'
+    'lead': 'Pope Francis led a ceremony in St. Peter''s Basilica to install 21 new
+      Catholic cardinals with what appeared to be a bruised chin.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T10:24:26.926+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:14.217+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:43.457+08:00
+    'mgnl:lastModified': 2024-12-08T17:56:18.955+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Pope Francis appears with bruised chin at ceremony for new cardinals'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '79f783fa-00bf-4df6-a397-13f5a96da6d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.455+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.221+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.946+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Vatican City&nbsp;—</strong> Pope Francis led a ceremony
+        in St. Peter''s Basilica on Saturday to install 21 new Catholic cardinals
+        with what appeared to be a bruised chin. The Vatican said it would not comment
+        on the matter.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '868d4fcf-4e41-4d16-85dd-20b37d4e5486'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.455+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.222+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.946+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Francis, who turns 88 this month, appeared otherwise on good form,
+        leading a ritual-filled ceremony to elevate churchmen from 17 countries to
+        the College of Cardinals, the elite group that will one day elect his successor.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '22480150-400e-4f26-aac8-8f36d395ac14'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.456+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.375+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.947+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'A purplish blotch could be seen on the right side of the pope''s face,
+        around his lower chin and upper neck. The Vatican''s press office said it
+        would not comment on what had happened.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09d889e1-e873-4a02-83db-eb204cae4d52'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.456+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.377+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.947+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Francis, pope since 2013, has suffered occasional bouts of ill health
+        in recent years, and now uses a wheelchair due to knee and back pain.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'feb79757-e4ad-461b-992f-65e937581402'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.456+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.378+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.948+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Cardinals are the highest-ranking officials in the 1.4-billion-member
+        Catholic Church beside the pope. At the pontiff''s death or resignation, cardinals
+        under the age of 80 are tasked with entering a conclave and choosing the next
+        pope.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '458bb2b5-5c47-49c3-917b-58ffda9b253a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.457+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.379+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.948+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Francis has now installed about 80% of the prelates who will elect
+        the next pope, increasing the likelihood that the next pontiff might share
+        his vision for a Church that is more inclusive and engaged with the wider
+        world.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc3306e5-2055-4c79-ad74-5053f4bbcf0a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.457+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.380+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.949+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>More geographic diversity</strong></h2>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c62474ee-172d-4a00-bc57-92770e508849'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.458+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.381+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.949+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Francis, originally from Argentina and the first pope from the Americas,
+        has focused on strengthening geographic diversity among the cardinals.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4644addc-2357-47cf-a7b2-3c7221dfd877'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.458+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.382+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.950+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'At least 67 countries now have cardinals who can vote in a conclave,
+        according to Vatican statistics, compared to fewer than 50 when Francis was
+        elected.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '532a57e3-069b-41d6-acf1-788ccd4f9e64'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.459+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.383+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.950+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The newest appointees come from countries including Peru, Argentina,
+        Japan, the Philippines, Algeria, India and Serbia.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0fecd1fb-6781-4feb-8bd5-19dbb8bea59d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.459+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.384+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.951+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In his homily for Saturday''s service, Francis said the new cardinals
+        "come from different backgrounds and cultures," urging them to be "witnesses
+        of fraternity, artisans of communion and builders of unity."</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c5299e4b-ba94-4c3e-a74f-138fb19dec9a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.460+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.385+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.951+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Archbishop Ignace Bessi Dogbo, one of the new cardinals, praised the
+        pope''s efforts to boost geographical diversity.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f5b35c1-5a98-4169-8362-058c03cd16db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.460+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.386+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.952+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '"Having cardinals from every part of the world truly translates the
+        universality of the Church," Bessi Dogbo, from Abidjan in the Ivory Coast,
+        told Reuters.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c5db5a3-591c-4ffa-a9ec-1eb5d7c8b60c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.460+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.387+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.952+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Italy remains the country with the most cardinals, counting 17 under
+        the age of 80. Four of those were installed on Saturday, including the archbishops
+        of Turin, a northern business hub, and Naples, the country''s third-largest
+        city.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5918b4a0-b859-4030-a466-fa85b2a51a2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.461+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.387+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.953+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Among the other new cardinals, one is a Belgian friar serving as archbishop
+        of the Tehran-Isfahan archdiocese in Iran. Another is a Ukrainian Greek Catholic
+        ministering in Australia.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '708f343f-ccb6-4865-a66e-521e6eb43095'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:24:27.462+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:14.388+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:56:18.953+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Joshua McElwee;Editing by Helen Popper)</em></p>'
+  'taiwan-reports-doubling-chinese-awa':
+    'author': 'Reuters'
+    'caption': 'A Navy miniature is seen in front of displayed Chinese and Taiwanese
+      flags in this illustration taken, April 11, 2023. Dado Ruvic/Illustration/File
+      Photo/Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T10:33:23.000+08:00
+    'imagesource': 'jcr:ccc5cdd7-b32f-4615-9732-f04ae3aff760'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'c7c19fd7-abb6-46b5-a9f4-fda0a8612035'
+    'lead': 'Taiwan''s defense ministry said on Sunday that China had nearly doubled
+      the number of its warships operating around the island in the previous 24 hours,
+      ahead of what security sources expect will be a new round of war games.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T10:39:16.419+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:13.447+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:43.619+08:00
+    'mgnl:lastModified': 2024-12-08T10:39:17.005+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Taiwan reports near doubling of Chinese warships nearby'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3b6cbd4-7006-4e1e-9313-10f58cc00ca4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.985+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.450+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.998+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Taipei, Taiwan —</strong>&nbsp;Taiwan''s defense ministry
+        said on Sunday that China had nearly doubled the number of its warships operating
+        around the island in the previous 24 hours, ahead of what security sources
+        expect will be a new round of war games.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8aa59ea4-7d70-4ad7-97e6-93daf54848d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.986+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.452+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.986+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>China, which views democratically governed Taiwan as its own territory,
+        has been angered by visits by President Lai Ching-te to Hawaii and the U.S.
+        territory of Guam as part of a Pacific tour. Lai returned from the week-long
+        trip on Friday night.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3674403-5639-4bcf-81f4-4bfdf853ddc7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.986+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.453+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.986+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Beijing has held two rounds of war games around Taiwan this year.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a87e047-2878-4068-8313-913285ac6f1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.986+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.454+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.986+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In its daily morning report on Chinese military activities, Taiwan''s
+        defense ministry said there were 14 Chinese warships operating nearby, up
+        from the eight it reported the previous day.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '92a6beab-9d94-478a-90a6-5378eaee88ce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.987+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.456+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.987+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The ministry said it had detected four Chinese balloons flying over
+        the Taiwan Strait, one of which had brushed the top of the island.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd04b85f7-11ca-4478-a2f5-7aa571ca409a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.987+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.456+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.987+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Weather will likely be a factor in China''s decision on any war
+        games, security sources say. Weather in the strait has been poor this weekend.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1fe9061c-e302-4ad1-b83a-27ea0f1b1b98'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.988+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.458+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.988+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>China''s defense ministry did not answer calls to its news office
+        seeking comment outside of office hours on Sunday.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ff559158-6d94-4a03-b36c-8ea6c0fff847'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.988+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.459+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.988+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>But in a strongly worded commentary on its WeChat account on Sunday,
+        China''s Ministry of State Security said Lai''s efforts to "use arms to seek
+        independence" and cosy up to the United States were doomed to fail.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '367937a7-b6d8-4f6f-a715-7526b3d78771'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.989+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.460+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.989+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Taiwan''s government is putting on a "false display of power" while
+        the U.S. government is "acting in cahoots with gangsters and jackals" in supporting
+        Taiwan, it said.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ac74b5c-0505-461f-acf4-8115a0119cde'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.989+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.461+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.989+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"No country, organization or individual should underestimate the
+        strong determination, firm will and powerful capacity of the Chinese government
+        and people to safeguard national sovereignty and territorial integrity," it
+        said.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f935fe9-da5d-4c4c-ae8c-72d0d3605834'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.990+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.462+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.990+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>No one should presume they can "step out of line on the Taiwan issue
+        without having to pay a price," the ministry added.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '523aa0b5-87d4-4851-bc89-6a4d71197385'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.990+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.463+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.990+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lai and his government reject Beijing''s sovereignty claims.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1de574f3-92e6-4363-a9cc-66de6dfd20b7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T10:39:16.991+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:13.464+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T10:39:16.991+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Ben Blanchard; Editing by William Mallard)</em></p>'
+  'duterte-not-invited-quad-committee-':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'caption': 'The House quad-committee holds a hearing. (House of Representatives/YouTube)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T11:48:01.000+08:00
+    'imagesource': 'jcr:4b7933fc-aa7c-414d-a001-1eaab3c50c92'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'fc9dfc6b-c768-4ae6-80db-92d8dcf7ab91'
+    'lead': 'Former President Rodrigo Duterte, the brains of the bloody drug war,
+      may no longer be invited to the House quad-committee’s inquiry on illegal drugs
+      and extrajudicial killings, the lead panel chairperson said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T11:51:45.239+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:12.973+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:43.785+08:00
+    'mgnl:lastModified': 2024-12-08T11:51:45.286+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Duterte may no longer be invited to House illegal drug inquiry'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ed381112-baba-4c13-9151-0342ef7849c6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.263+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.977+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.279+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Former President Rodrigo
+        Duterte, the brains of the bloody drug war, may no longer be invited to the
+        House quad-committee’s inquiry on illegal drugs and extrajudicial killings
+        (EJKs), the lead panel chairperson said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4c5e26b-6777-40f0-977d-92f546e45a18'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.264+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.978+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.264+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Surigao del Norte 2nd District Rep. Ace Barbers said the lone attendance
+        of Duterte was already enough to gather information on the matter.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '73a10a4a-8783-4ee1-b64e-bf09cc523ea2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.264+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.979+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.264+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“‘Yong 12-13 hours na meeting natin sa kanya, basically ‘yun na ‘yong
+        gusto nating marinig, a little more than what he revealed or what he admitted
+        in the Senate. So, sa tingin ko sufficient na ‘yon,” Barbers said in a statement
+        on Sunday, Dec. 8.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e517ea1-4868-42c3-8b2a-e7787380d68a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.265+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.980+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.265+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: The 12- to 13-hour meeting we had with him, we heard
+        what we wanted there, a little more than what he revealed or what he admitted
+        in the Senate. So, I think that is already sufficient.]'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8d8cc991-f96f-45bc-a867-7d259324badb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.265+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.982+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.265+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>After repeated invitations, <a href="https://www.newswatchplus.ph/news/2024/11/14/duterte-first-quad-comm-attendance-wrap.html">Duterte
+        attended</a> the committee’s hearing for the first time on Nov. 13.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '25f953d6-2d27-46e4-ba8f-8c9a91ef98d1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.266+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.983+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.266+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'He admitted that he had killed police officers who were criminals and
+        others who were linked to illegal drugs.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bdd7c327-1e0d-4b80-b7ec-d435a1d631ad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.266+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.984+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.266+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte also said that he requested for a higher budget to fund
+        the reward system. Retired PCol Royina Garma, a longtime Davao police chief,
+        earlier testified that the system rewarded those who killed drug suspects.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a089d49-1c1b-4b7c-955f-f41a9d1778bb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.267+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.985+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.267+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>POGO probe</strong></h2>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6ed318c3-5685-47cc-84ca-13377fb02f71'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.267+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.986+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.267+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The quad-committee has also been looking into illegal activities of
+        Philippine offshore gaming operations (POGOs).'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8b0f9722-2b39-45a0-b7cb-070ad915ebf0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.268+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.987+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.268+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Barbers said that they are mulling to end the POGO probe.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6cef84b5-706f-4f28-a7be-b4db5e8cbc58'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.268+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.988+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.268+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“We are thinking of already terminating ‘yong hearing namin sa POGO,
+        so tututok na lang tayo sa dalawang usapin ‘yong EJK at saka ‘yong drugs,”
+        he said.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '86ed58a2-4cbd-475d-a30f-af731f263c25'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.269+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.989+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.269+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We are thinking of already terminating our hearing on
+        POGOs so we can focus on EJK and illegal drugs.]'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '65a176af-7479-40b2-9d7f-75037f0ed937'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.269+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.990+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.269+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Progress report</strong></h2>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '775b86f1-5bc6-4896-8fe8-79e4f7b6a54a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.270+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.991+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.270+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The quad-committee is planning to present its progress report on POGOs
+        and extrajudicial killings to the plenary before the session goes on a break
+        on Dec. 21.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8bfb4497-e702-4413-8afa-95b7b508f80c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.270+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.992+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.270+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Barbers said they will submit their report as there are things that
+        need to be acted on immediately.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '36a7708a-bf10-4ce8-813f-d9ebd889bdaa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.271+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.993+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.271+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Quad-committee members have introduced four measures in relation to
+        their investigation including a bill defining extrajudicial killing as a heinous
+        crime and a proposal to establish an inter-agency panel that would expedite
+        the cancellation of questionable birth certificates.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'af1fbbac-5d8b-48ea-99d9-74d715d7d5bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T11:51:45.271+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.993+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T11:51:45.271+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The plenary, Barbers said, could suggest to President Ferdinand
+        Marcos Jr. to include their proposed measures in his priority legislative
+        agenda or to certify those as urgent.</p>'
+  'army-assad-rule-ended':
+    'author': 'Maya Gebeily and Timour Azhari, Reuters'
+    'caption': 'People gather at Saadallah al-Jabiri Square as they celebrate after
+      Syria''s army command notified officers on Sunday, Dec. 8, that President Bashar
+      al-Assad''s 24-year authoritarian rule has ended, a Syrian officer who was informed
+      of the move told Reuters, following a rapid rebel offensive that took the world
+      by surprise in Aleppo, Syria. (Karam al-Masri/Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T12:05:51.000+08:00
+    'imagesource': 'jcr:4be85fae-163d-40a6-a16f-924258b02efe'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'f0f36434-cd56-4e14-a427-f74cfb4149a6'
+    'lead': 'Syrian rebels seized the capital Damascus unopposed on Sunday after a
+      lightning advance that sent President Bashar al-Assad fleeing to Russia after
+      a 13-year civil war and six decades of his family''s autocratic rule.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T12:19:00.492+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:12.312+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.016+08:00
+    'mgnl:lastModified': 2024-12-09T10:09:24.774+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Global-Watch', 'Syria', 'Bashar-al-Assad']
+    'stories': []
+    'template': '1'
+    'title': 'Syrian rebels topple Assad who flees to Russia in Mideast shakeup'
+    'updated': 2024-12-09T10:05:23.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3182ea5-1971-46fd-948e-503f56d01b49'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.726+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.326+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.726+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Damascus, Syria —</strong>&nbsp;Syrian rebels seized the
+        capital Damascus unopposed on Sunday, Dec. 8, after a lightning advance that
+        sent President Bashar al-Assad fleeing to Russia after a 13-year civil war
+        and six decades of his family''s autocratic rule.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '509751b6-f6d5-448e-9f92-fc12cc14183b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.726+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.327+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.726+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In one of the biggest turning points for the Middle East in generations,\
+        \ the fall of Assad's government wiped out a bastion from which Iran and Russia\
+        \ exercised influence across the Arab world. Moscow gave asylum to Assad and\
+        \ his family, Mikhail Ulyanov, Russia's ambassador to international organizations\
+        \ in Vienna, said on his Telegram channel.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1facc2f1-c85d-4323-867d-9c7f7be5fc2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.727+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.329+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.727+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "His sudden overthrow, at the hands of a revolt partly backed by Turkey\
+        \ and with roots in jihadist Sunni Islam, limits Iran's ability to spread\
+        \ weapons to its allies and could cost Russia its Mediterranean naval base.\
+        \ It could allow millions of refugees scattered for more than a decade in\
+        \ camps across Turkey, Lebanon and Jordan to finally return home.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '23ccda74-4e08-4291-8faf-09b7b542cbf3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.727+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.330+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.727+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "For Syrians, it brought a sudden unexpected end to a war in deep freeze\
+        \ for years, with hundreds of thousands dead, cities pounded to dust and an\
+        \ economy hollowed by global sanctions.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '117953c9-4040-4beb-a33b-704842e8b228'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.728+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.728+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"How many people were displaced across the world? How many people\
+        \ lived in tents? How many drowned in the seas?\" the top rebel commander,\
+        \ Abu Mohammed al-Golani, told a huge crowd at the medieval Umayyad Mosque\
+        \ in central Damascus, referring to refugees who died trying to reach Europe.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a11e9f66-e839-4b65-ad8b-ca7dd1506f24'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.728+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.332+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.728+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"A new history, my brothers, is being written in the entire region\
+        \ after this great victory,\" he said, adding that with hard work Syria would\
+        \ be \"a beacon for the Islamic nation.\"\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ecf008f-5150-41c7-8528-9b47c7916af9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.728+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.333+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.728+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Assad police state — known since his father seized power in
+        the 1960s as one of the harshest in the Middle East with hundreds of thousands
+        of political prisoners — melted away overnight.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '621cb12e-8f7d-47b8-934d-dc9e97cb4034'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.729+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.335+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.729+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Bewildered and elated inmates poured out of jails after rebels blasted\
+        \ open their cells. Reunited families wept in joy. Newly freed prisoners were\
+        \ filmed at dawn running through the Damascus streets holding up the fingers\
+        \ of both hands to show how many years they had been in prison.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88868270-13d5-40b5-9de1-436e8f1dba14'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.729+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.336+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.729+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"We toppled the regime!\" a voice shouted as one prisoner yelled and\
+        \ skipped with delight.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b3da5fcf-3339-48c1-9d25-3e6012b798b0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.730+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.337+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.730+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The White Helmets rescue organization said it had dispatched five emergency\
+        \ teams to the notorious Sedhaya prison to search for hidden underground cells\
+        \ believed to hold detainees.\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '596f85cc-5a6f-4db2-b2e4-a15dd04afe7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.730+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.339+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.730+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Defaced Assad images</strong></h2>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0588033e-0f11-4634-95f6-2ea7b8ec651c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.731+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.340+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.731+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "As the sun set in Damascus without Assad for the first time, roads\
+        \ leading into the city were mostly empty, apart from motorcycles carrying\
+        \ armed men and rebel vehicles caked with mud as camouflage.\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '415886f1-d9fa-422c-9076-f222a167067a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.731+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.341+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.731+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Some men could be seen looting a shopping centre on the road between\
+        \ the capital and the Lebanese border. The myriad checkpoints lining the road\
+        \ to Damascus were empty. Posters of Assad were torn at his eyes. A burning\
+        \ Syrian military truck was parked diagonally on the road out of the city.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '114bc8e8-13a5-4202-b2b6-981bbcb1ce50'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.732+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.342+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.732+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "A thick column of black smoke billowed from the Mazzeh neighbourhood,\
+        \ where Israeli strikes earlier had targeted Syrian state security branches,\
+        \ according to two security sources.\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4539dc25-fe1f-4c32-a2cb-1e102f325108'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.732+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.343+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.732+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Intermittent gunfire rang out in apparent celebration.\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b239707d-d7ef-46a2-bef6-18579f30989b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.733+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.345+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.733+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Shops and restaurants closed early in line with a curfew imposed by\
+        \ the rebels. Just before it came into effect, people could be seen briskly\
+        \ walking home with stacks of bread.\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f259f60f-8624-4de2-92c2-7545c490842e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.733+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.346+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.733+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Earlier, the rebels said they had entered the capital with no sign\
+        \ of army deployments. Thousands of people in cars and on foot congregated\
+        \ at a main square in Damascus waving and chanting \"Freedom.\"\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '749ace49-b12a-441e-97d1-cd8e70adfed7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.734+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.352+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.734+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "People were seen walking inside the Al-Rawda Presidential Palace, with\
+        \ some leaving carrying furniture. A motorcycle was parked on the intricately-laid\
+        \ parquet floor of a gilded hall.\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ae3d313b-076c-4833-b5d0-ab8a3354ad1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.734+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.353+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.734+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Syrian rebel coalition said it was working to complete the transfer\
+        \ of power to a transitional governing body with executive powers.\r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83fe0600-e711-4b99-9b42-b8f0aff39384'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.735+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.354+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.735+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"The great Syrian revolution has moved from the stage of struggle\
+        \ to overthrow the Assad regime to the struggle to build a Syria together\
+        \ that befits the sacrifices of its people,\" it added in a statement.\r"
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '846608b2-76a6-4a4a-9675-c3ea06efa449'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.735+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.355+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.735+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Mohammad Ghazi al-Jalali, prime minister under Assad, called for free\
+        \ elections and said he had been in contact with Golani to discuss the transitional\
+        \ period.\r"
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '71ea2e5f-5ccc-47e6-8919-4bf322d3b6df'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.736+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.356+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.736+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Golani, whose group was once Syria's branch of al Qaeda but has softened\
+        \ its image to reassure members of minority sects and foreign countries, said\
+        \ there was no room for turning back.\r"
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94fb17cf-c2ff-425b-842b-39f5a9f09b9f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.736+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.357+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.736+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Arab world stunned</strong></h2>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba012b7a-63ce-4a78-8285-4c4a37671f76'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.737+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.358+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.737+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The pace of events stunned Arab capitals and raised concerns about\
+        \ more instability on top of the Gaza war.\r"
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d0bb3c3-120f-4a48-b47b-27f3a434649f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.738+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.360+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.738+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "U.S. President Joe Biden, in a televised address, cheered Assad's fall\
+        \ but acknowledged that it was also a moment of risk and uncertainty.\r"
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5349f1e6-4ca2-431c-9a65-e8d8b74b46c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.738+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.361+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.738+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"As we all turn to the question of what comes next, the United States\
+        \ will work with our partners and the stakeholders in Syria to help them seize\
+        \ an opportunity to manage the risk,\" Biden said.\r"
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d0ce0b6-8f38-4a91-bd20-05c443b535c0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.739+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.362+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.739+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The U.S. Central Command said its forces conducted dozens of airstrikes\
+        \ targeting known Islamic State camps and operatives in central Syria on Sunday.\r"
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33443581-93f9-427d-95eb-4b7e52293966'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.739+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.363+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.739+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Later in the day Secretary of Defense Lloyd Austin said he spoke with\
+        \ Turkish Minister of National Defense Yasar Guler, emphasizing that the United\
+        \ States is watching closely.\r"
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '99e6a80b-60f5-44cd-8430-6f79ca8819b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.740+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.364+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.740+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Jubilant supporters of the revolt crowded Syrian embassies around the\
+        \ world, lowering red, white and black Assad-era flags and replacing them\
+        \ with the green, white and black flag flown by his opponents.\r"
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8831aa1f-de26-4fe1-a10e-e67d5cceeb75'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.741+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.365+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.741+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Israeli Prime Minister Benjamin Netanyahu said Assad's fall was thanks\
+        \ to blows Israel had dealt to Iran and its Lebanese ally Hezbollah, once\
+        \ the lynchpin of Assad's security forces.\r"
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '66dd633d-80ca-4155-a3af-7aea4b974459'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.741+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.366+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.741+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"The barbaric state has fallen,\" French President Emmanuel Macron\
+        \ said.\r"
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dc2253e9-7beb-4fac-9ccf-a1b46d6ad5f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.742+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.367+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.742+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "When the celebrations fade, Syria's new leaders face the daunting task\
+        \ of trying to deliver stability to a diverse country that will need billions\
+        \ of dollars in aid.\r"
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b2175c7d-e21b-4e77-943e-8feca5aee0b5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.743+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.368+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.743+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "During the civil war, which erupted in 2011 as an uprising against\
+        \ Assad, his forces and their Russian allies bombed cities to rubble. The\
+        \ refugee crisis across the Middle East was one of the biggest of modern times\
+        \ and caused a political reckoning in Europe when a million people arrived\
+        \ in 2015.\r"
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '401be587-a98b-4776-8997-363a95528c13'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.743+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.370+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.743+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In recent years Turkey had backed some rebels in a small redoubt in\
+        \ the northwest and along its border. The United States, which still has 900\
+        \ soldiers on the ground, backed a Kurdish-led alliance that fought Islamic\
+        \ State jihadists from 2014-2017.\r"
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '93325b40-b0b0-4feb-a4fc-e383e5343af0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.744+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.371+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.744+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The biggest strategic losers were Russia and Iran, which intervened\
+        \ in the war's early years to rescue Assad, helping him recapture most territory\
+        \ and all major cities. The front lines were frozen four years ago under a\
+        \ deal Russia and Iran reached with Turkey.\r"
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f40ef31c-c64e-42af-b7da-6d6601b569f3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.745+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.371+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.745+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>But Moscow''s focus on its war in Ukraine and the blows to Iran''s
+        allies following the war in Gaza — particularly the decimation of Hezbollah
+        by Israel over the past two months — left Assad with scant support.</p>'
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dfef5cd0-8555-434d-99db-99f4ee6fe145'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-09T10:09:24.745+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:12.372+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-09T10:09:24.772+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Maya Gebeily and Timour Azhari in Damascus, Suleiman
+        al-Khalidi in Amman, Tom Perry and Laila Bassam in Beirut, Jaidaa Taha and
+        Adam Makary in Cairo, Clauda Tanios, Nadine Awadallah and Tala Ramadan in
+        DubaiWriting by Michael Perry, Michael Georgy, Peter Graff, Phil Stewart,
+        Patricia ZengerleEditing by Philippa Fletcher, Andrew Cawthorne, Frances Kerry
+        and Lisa Shumaker)</em></p>'
+  'marcos-gift-giving':
+    'caption': 'President Ferdinand Marcos and his family lead the annual gift-giving
+      program at Malacañang on Dec. 8. (RTVM/YouTube)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T13:24:16.000+08:00
+    'imagesource': 'jcr:8248fd24-0381-4793-a610-529eb3023a86'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '345d92f0-5ef0-4cc8-844d-0ee50f679d0c'
+    'lead': 'Around 30,000 children benefited from this year''s gift-giving program
+      of President Ferdinand Marcos Jr.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T13:26:25.707+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:11.377+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.224+08:00
+    'mgnl:lastModified': 2024-12-08T13:26:25.736+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Marcos’ gift-giving program benefits 30,000 kids'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '56ca2f02-eb21-4d78-8669-f5cdba0ea3b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.724+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.433+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.724+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Around 30,000 children
+        benefited from the gift-giving program of President Ferdinand Marcos Jr. on
+        Sunday, Dec. 8.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f87f925d-cada-420b-9eef-9c5d7716bdac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.725+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.434+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.725+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Marcos and the First Family led the “Balik Sigla, Bigay Saya” celebration
+        at Malacañan Palace in Manila. A play area and food section were laid out
+        across the Kalayaan Grounds.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09d08940-edbb-4867-b7f3-5566e8e0cca3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.725+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.435+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.725+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Ang Pasko naman ay para sa mga kabataan kaya tinitiyak natin na kahit
+        sino at napadpad sa malalayo, sa kanilang pamilya, sa kanilang mga mahal sa
+        buhay, ay kahit papa''no ay meron din silang Pasko,” Marcos said during the
+        event.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '68a6678c-f8e1-4848-ac64-23bf82bdb50d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.726+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.436+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.726+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Christmas is for the kids that is why we assure that
+        any child who is far from their loved ones will also experience Christmas.]'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7f3a3b63-b2db-42cd-bfd8-d3a4f0fc9f01'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.726+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.438+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.726+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The president lamented the burden that Filipinos felt this year such
+        as the El Niño and La Niña that brought harsh rains across the country.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ab00a77-4279-44b8-9fdf-a45e7a1f82c6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.726+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.439+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.726+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kaya sana naman mag-merry Christmas lang tayo kasi tayo ay nabigyan
+        ng kaunting oras, kaunting pagkakataon na makasama ang ating mga mahal sa
+        buhay, nakapag-celebrate ng kaunti, nakapagsaya ng kaunti at kumain ng masyadong
+        maraming lechon saka hamon, ''yan ang Pasko para sa Pilipino,” he added.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '720b7efb-114c-4107-a54c-2ddc8e0eb64c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.440+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.727+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I hope we have a merry Christmas. We have been given
+        a time, a chance to be with our loved ones to celebrate, enjoy, and eat lechon
+        and ham, that is the Filipino Christmas.]'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3ca2290-a772-4ed9-b937-baff4f5a8e60'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.441+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.727+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The program was held simultaneously across the country.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7f551dbd-52a5-4cd7-8c3a-f946e83b8ec7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T13:26:25.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:11.441+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T13:26:25.727+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Children, aged 4 to 12, participated in games, entertainment, and
+        gifts.</p>'
+  'romualdez-critics-stroke-fake-news':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'caption': 'House Speaker Martin Romualdez presides in a plenary session. (House
+      of Representatives)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T14:06:26.000+08:00
+    'imagesource': 'jcr:7d7b6bf5-e7db-4e74-8c91-0cb69f7d51d7'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '7eeec348-4746-417c-8962-edcf21788fa4'
+    'lead': 'Critics of the House of Representatives may be the ones who spread fake
+      news about Speaker Martin Romualdez suffering a stroke, the congressman himself
+      said.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T14:10:36.026+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:10.952+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.347+08:00
+    'mgnl:lastModified': 2024-12-08T14:10:36.058+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'House critics may have spread fake news on Speaker stroke – Romualdez'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5b67aedf-19f8-4e11-abe5-1d49679d7ff2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.045+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.957+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.054+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Critics of the House
+        of Representatives may be the ones who spread fake news about Speaker Martin
+        Romualdez suffering a stroke, the congressman himself said.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a8ca43ec-2f71-4ee3-8bfe-f25bfbcb31c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.046+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.958+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.046+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'In an interview taken on Saturday but released on Sunday, Dec. 8, Romualdez
+        told the public that he is in good health.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c24e6aa4-2342-4679-8773-629ba4e9d0b5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.046+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.960+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.046+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Sana huwag na lang magpakalat ng fake news. Let’s just all work together.
+        Positive tayo lalo na Pasko ngayon,” he said.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ff228924-eecc-4039-9155-52e6ffaa2abc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.047+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.961+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.047+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I hope fake news won’t be circulated. Let us be positive,
+        especially as Christmas is approaching.]'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '35e29f71-314c-478f-b08e-148c66e1e0cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.047+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.962+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.047+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Siguro naman sa mga detractors ng House, lalo na sa nangyayari po
+        sa mga hearings natin. Siyempre, may nagbabatikos. Kumbaga, kasama din talaga
+        ‘yan sa trabaho natin pero iwasan na lang natin ang pagkakalat ng fake news,”
+        Romualdez added.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '073f3c05-1359-45bc-be31-3b30afc6e378'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.048+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.963+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.048+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: Maybe it came from detractors of the House, especially
+        with what is happening in our hearings. Of course, there are critics. It is
+        part of our job but let us avoid spreading fake news.]</p>'
+    '6':
+      'contentWidth': '100%'
+      'embedCode': '<blockquote class="twitter-tweet" data-media-max-width="560"><p
+        lang="en" dir="ltr">WATCH: House Speaker Martin Romualdez tells the public
+        to beware of fake news, debunking rumors that he suffered a stroke.<br><br>Romualdez
+        says critics of the House of Representatives may be the ones who spread the
+        false information | <a href="https://twitter.com/dsfernandez?ref_src=twsrc%5Etfw">@dsfernandez</a>
+        <br><br> 🎥 Office of the Speaker <a href="https://t.co/L6uTNBunzF">pic.twitter.com/L6uTNBunzF</a></p>&mdash;
+        NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1865627205851897897?ref_src=twsrc%5Etfw">December
+        8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f2610129-7f98-41cc-96c0-6f82238ee060'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.048+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.964+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.048+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'embedCode'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '134ca02a-f149-4f2b-94e0-9f610d151588'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.049+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.965+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.049+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The representative of the first district of Leyte said he has taped
+        Christmas messages, had public engagements, and was able to bond with his
+        family.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9bf19a9-974c-4a0e-98bb-ebb6fb1c91de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:10:36.049+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.966+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:10:36.049+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Romualdez’s Head Executive Assistant Lemuel Erwin Romero said the
+        allegations are made to “mislead the public and sow confusion.”</p>'
+  'pnp-intensifies-ops-holidays-political-challenges':
+    'caption': 'Police personnel (File photo)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T14:42:24.000+08:00
+    'imagesource': 'jcr:16fce30e-9d15-45fd-9037-2cfa3d7ce567'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'a0f8d6b7-3322-4eff-8661-924543cf898e'
+    'lead': 'The Philippine National Police has strengthened its security operations
+      as the holiday season approaches and amid political challenges from the impeachment
+      complaints against Vice President Sara Duterte.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T14:45:36.720+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:10.567+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.469+08:00
+    'mgnl:lastModified': 2024-12-08T14:45:36.744+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'PNP strengthens security operations for holidays, political challenges'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '192576a4-7c0a-4ff4-af09-a31281c070ea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.733+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.573+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.733+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The Philippine National
+        Police (PNP) has strengthened its security operations as the holiday season
+        approaches and amid political challenges from the impeachment complaints against
+        Vice President Sara Duterte.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b3f86ff-0539-4e5b-bd35-c93fbae22bac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.733+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.576+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.733+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>PNP chief PGen. Rommel Marbil ordered intensified police visibility
+        through patrols and additional personnel deployment in high-traffic zones.
+        Quick response teams are on standby.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84545eac-a047-4b6f-a1be-6971eeb9f25f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.734+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.577+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.734+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The police force is also preparing for possible political activities
+        after the Iglesia ni Cristo announced prayer rallies to show support for President
+        Ferdinand Marcos Jr.’s rejection of impeaching Duterte. They are also getting
+        ready in case complainants mount protests.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3e3f651e-efc9-42fc-bac6-6444a9f8e1a9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.734+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.579+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.734+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Christmas is a season of joy and giving, but it is also a period when
+        criminal elements may exploit public vulnerability. The PNP is committed to
+        making this season safe and secure for all Filipinos,” Marbil said in a statement
+        on Sunday, Dec. 8.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2d84c177-763c-4613-a01e-675d558d38b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.735+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.582+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.735+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Our mandate is clear: to ensure public safety under any circumstances.
+        The PNP is a professional and apolitical organization. We are here to serve
+        and protect all Filipinos, regardless of the political climate," he added.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'da1b7315-db1f-41ac-aac7-a7066570f7b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.735+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.584+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.735+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The country’s top cop advised the public to safeguard personal belongings,
+        avoiding huge cash transactions, and reporting skeptical activities. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cb769f3f-8ea0-46f7-b7e2-2d3909036dab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.735+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.586+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.735+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>He also reminded the people to be vigilant with online transactions,
+        which increase during the holidays, by verifying activities and avoiding suspicious
+        links.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5cb174aa-5e75-4c8c-8eeb-c63fea3cc8a4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T14:45:36.736+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.586+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T14:45:36.736+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+        this report.</em></p>'
+  'duterte-immaculate-conception-message':
+    'caption': 'Vice President Sara Duterte (Office of the Vice President/Facebook)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T15:46:15.000+08:00
+    'imagesource': 'jcr:b2c6b346-f46e-44ac-8478-dcff09c5d054'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'dae5ef39-24f2-4233-83a8-7ffb09fb0bd9'
+    'lead': 'Vice President Sara Duterte has called on the Catholic faithful to live
+      up to the virtues of the Blessed Virgin Mary.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T15:49:25.166+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:10.147+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.592+08:00
+    'mgnl:lastModified': 2024-12-08T15:49:25.189+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Duterte on Immaculate Conception feast: Live up to Virgin Mary’s virtues'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c0dd9cd-567b-42c4-9bea-d606e2a6b433'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.180+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.242+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.180+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Vice President Sara
+        Duterte has called on the Catholic faithful to live up to the virtues of the
+        Blessed Virgin Mary.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b0f2b2fd-646f-434e-81ca-67403df707e2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.180+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.244+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.180+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In her message on the Feast of the Immaculate Conception on Sunday,
+        Dec. 8, Duterte hoped that the commemoration would unite the people in prayer.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7a967181-1817-4b2f-a395-d15441cf74e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.180+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.246+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.180+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The vice president said that the “enduring faith and steadfast joy”
+        shown by the Virgin Mary present an example of “unwavering love” amid challenges
+        and worries.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5f33c0b-f07b-42df-86c4-62764df616ce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.181+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.247+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.181+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“We are encouraged today to live up to her virtues of compassion,
+        empathy, and generosity which underscored the resilience she exemplified in
+        the face of loss and sorrow,” Duterte said in a video message.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '649a67c0-8c44-4c36-98f1-2756f13d03e2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.181+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.249+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.181+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“May the solemn observance of this day invite us all to join hands
+        in prayer as we extend a helping hand to the needy, show mercy to those who
+        are facing injustices, and extend love and kindness to our kababayan in the
+        underserved and unserved communities,” she added.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '10a8635e-81bf-432a-aea1-b221b77a2b7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.182+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.250+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.182+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte also encouraged faithfuls to be “guided by our resilience
+        that is rooted in faith in every trying time as we look forward with profound
+        hope and optimism to a better future for every Filipino.”</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e0cb390a-2cdd-4476-8e2a-a8997db4faec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T15:49:25.182+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:10.251+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T15:49:25.182+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The vice president noted that her actions are for God, country,
+        and every Filipino family.</p>'
+  'cardinal-david-expresses-gratitude':
+    'caption': 'Cardinal Pablo Virgilio David receives the red biretta and ring from
+      Pope Francis during the consistory at the Vatican on Dec. 7. (Vatican News)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T17:04:54.000+08:00
+    'imagesource': 'jcr:04e046fa-2f3f-434d-adb0-1bc7b1d603e2'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '49fe578e-1eca-4de0-9706-5276c8111417'
+    'lead': 'New Cardinal Pablo Virgilio David has expressed gratitude after receiving
+      his red hat, elevating his rank from bishop.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T17:08:01.874+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:09.809+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.735+08:00
+    'mgnl:lastModified': 2024-12-08T17:08:01.904+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Cardinal David expresses gratitude after receiving red hat'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2168dbfe-1f0c-448d-afd4-4893d0b11581'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.888+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.816+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.888+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> New Cardinal Pablo
+        Virgilio David has expressed gratitude after receiving his red hat, elevating
+        his rank from bishop.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a6c4f9e0-8da5-42b6-9a77-b070ac10f45c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.889+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.818+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.889+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Pope Francis led the consistory of 21 new cardinals, including David,
+        at St. Peter’s Basilica in Vatican City on Saturday, Dec. 7 (Manila time).'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '22c52757-cc36-4811-b743-f6e5c846de99'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.889+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.820+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.889+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'David thanked those who supported him.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3824487f-e16a-4608-9488-97477baa5b2f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.890+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.823+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.890+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Gusto ko lamang magpasalamat, lalong-lalo na sa mga kapatid sa
+        Diocese of Kalookan na nag-organize… bilang panalangin sa paghahanda ko rito
+        sa Roma para sa konsistoryo. Maraming, maraming salamat po. Damang-dama ko
+        ang inyong panalangin,” David said in a video message on Sunday, Dec. 8.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e443e8e-fcf9-482b-934e-e790b8f524f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.890+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.825+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.890+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: I just want to give thanks, especially to my brothers
+        and sisters in the Diocese of Kalookan who organized and prayed for my preparation
+        in Rome for the consistory. Thank you very much. I felt your prayers.]</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b5d4e344-dd0f-42a7-8928-81e2828a56da'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.890+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.827+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.890+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Maraming salamat din sa lahat ng mga kaibigan, kakilala, mga kababayan
+        sa Pilipinas na sumama sa akin sa pananalangin,” he added.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83ed2adb-e23e-474e-a621-7861ef4ec4c6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.891+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.829+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.891+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Thanks also to friends, acquaintances, and fellow Filipinos
+        who joined me in prayer.]'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8b121a90-77ef-49c0-bfec-d348ef6e2762'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.891+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.831+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.891+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'David posted on his Facebook account his reflection about the color
+        red, noting that red is perceived as a “dangerous” color and is the color
+        of blood. But he saw the good side of the color.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb26b60c-b0cb-4de0-bd36-3939bebffcbe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.892+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.832+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.892+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Thank God we have instituted in the Church a Red Wednesday that calls
+        attention to the plight of persecuted Christians around the world.  It is
+        a celebration that uses the color more appropriately—the color of martyrdom,
+        the color of fearless prophetic witnessing, even at the price of so much persecution,
+        or even at the price of death,” David wrote.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88d22ed4-16f3-460c-92db-f54628592235'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.892+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.833+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.892+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“It is the liturgical color we use to celebrate the passion and death
+        of John the Baptist. It is the color we wear when we celebrate the passion
+        and death of Jesus Christ, the Son of God.  It is the color that we wear to
+        honor our courageous martyrs,” he said.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5e533f2e-d26c-4795-8875-4cbe501bd8b5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.892+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.834+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.892+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'David said he is looking forward to his return to the Philippines.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4fd2591e-0013-49d2-ae0f-603894d7a066'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:08:01.893+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.835+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:08:01.893+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>He is the 10th Filipino cardinal and is one of the closest advisers
+        of the pope. The new cardinal is the president of the Catholic Bishops’ Conference
+        of the Philippines since 2021.</p>'
+  'dfa-restraint-syria':
+    'caption': 'People hold a Syrian opposition flag as they celebrate after Syrian
+      rebels announced that they have ousted President Bashar al-Assad, in Damascus,
+      Syria December 8, 2024. (Firas Makdesi/Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T17:09:18.000+08:00
+    'imagesource': 'jcr:c6239dff-987b-4f34-9b4a-5c4a565637b6'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd85efa1a-0059-451b-bc5b-8c30e8f72efe'
+    'lead': 'The Philippines has appealed for restraint to avoid violence from escalating
+      in Syria.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T17:11:23.932+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:09.353+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:44.857+08:00
+    'mgnl:lastModified': 2024-12-08T17:11:23.961+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'PH calls on restraint to avoid further violence in Syria'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '62cd2ec2-c210-4dfe-8d32-00ed905f52b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.953+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.359+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.958+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The Philippines appealed
+        for restraint to avoid violence from escalating in Syria on Sunday, Dec. 8.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e80cbb6f-65c3-48c5-b1f4-c85daed4beae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.954+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.360+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.954+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Syria’s army command has announced the <a href="https://www.newswatchplus.ph/news/2024/12/8/army-assad-rule-ended.html">end
+        of President Bashar al-Assad’s</a> 24-year authoritarian rule. He flew out
+        of Damascus for an unknown location as rebels entered the capital.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a79caf38-059a-4b89-93db-100da46c5a27'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.954+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.361+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.954+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“The Philippines calls on all concerned parties to exercise restraint
+        and refrain from further violence, to avert further casualties and deaths
+        of civilians,” the Department of Foreign Affairs said in a statement.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c297d8f2-e85f-4836-a569-9e713e415afe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.954+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.362+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.954+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“We express concern regarding the situation of our Filipinos in Syria
+        and advise them to take the necessary precautions and stay in contact with
+        the Philippine Embassy in Damascus,” it added.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '21d1b9eb-40a0-47d1-a6ea-9a13a1ab5cfc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.955+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.363+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.955+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency said they are continuously monitoring the developments.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a0eb808-c130-4ed5-86ca-08ba8b6e280d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:11:23.955+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:09.364+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:11:23.955+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Philippine government has raised Alert Level 4 in Syria, where
+        703 Filipinos are based.</p>'
+  'sokor-martial-law-fallout-deepens':
+    'author': 'Hyunjoo Jin and Josh Smith, Reuters'
+    'caption': 'South Korean National Assembly Speaker Woo Won-shik bangs the gavel
+      to announce that "the voting cannot take place" because the quorum was not reached
+      during a plenary session of the impeachment vote of President Yoon Suk Yeol
+      at the National Assembly in Seoul, South Korea, December 7, 2024. (Jon Heon-Kyun/Pool
+      via Reuters)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T17:12:58.000+08:00
+    'imagesource': 'jcr:faf0460c-1ff8-487a-bff1-15c161b0963a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '61d6bb62-5a5c-4e7f-beec-3c15e5d9f9ff'
+    'lead': 'South Korea''s leadership crisis deepened as prosecutors named President
+      Yoon Suk Yeol as a subject of a criminal investigation over last week''s martial
+      law attempt, a media report said, and his former defense minister was arrested.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T17:21:36.328+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:08.870+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:45.050+08:00
+    'mgnl:lastModified': 2024-12-08T17:21:36.384+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'South Korea martial law fallout deepens as prosecutors close in on president,
+      ex-defense minister'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '90437b2b-d4ea-476d-a1a1-f6c1bfcde0bc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.341+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.878+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.341+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Seoul, South Korea —</strong> South Korea''s leadership
+        crisis deepened on Sunday as prosecutors named President Yoon Suk Yeol as
+        a subject of a criminal investigation over last week''s martial law attempt,
+        a media report said, and his former defense minister was arrested.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c1a0cfa-0064-4454-9fce-4e7938d0d652'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.342+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.882+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.342+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Yoon survived an impeachment vote in the opposition-led parliament
+        late on Saturday, prompted by his short-lived attempt to impose martial law
+        on Tuesday, but the leader of his own party said the president would effectively
+        be excluded from his duties before eventually stepping down.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '759abadc-2c7f-4457-ab85-4b369c1b5579'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.342+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.885+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.342+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>That proposal, which appeared to win tacit approval from the Yoon-appointed
+        prime minister on Sunday, drew condemnation from opposition lawmakers who
+        said it was another unconstitutional power grab to delegate authority without
+        resignation or impeachment.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b4c107e-356d-4cd1-8ae5-e6e42a679bbb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.343+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.886+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.343+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Thousands of people rallied in front of the parliament in Seoul
+        on Sunday, calling for the impeachment and arrest of Yoon and the disbandment
+        of his ruling party.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dcf2cf60-8e11-4ad1-89af-5b95ffd2a780'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.343+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.889+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.343+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Yoon''s martial law declaration on Tuesday plunged Asia''s fourth-largest
+        economy and a key U.S. military ally into its greatest political crisis in
+        decades, threatening to shatter South Korea''s reputation as a democratic
+        success story.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c3bfe207-1f80-4c17-a340-4fcab2e4023a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.343+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.890+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.343+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The leader of Yoon''s People Power Party, Han Dong-hoon, told a
+        press conference alongside the prime minister on Sunday that Yoon would not
+        be involved in foreign and other state affairs before his early resignation.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fef071cf-0d51-4edb-a3e2-e9a76fc79fc0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.344+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.893+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.344+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>But National Assembly speaker Woo Won-shik said it was unconstitutional
+        to delegate presidential authority to the prime minister and the ruling party
+        without impeachment. Woo proposed a meeting of rival parties to discuss ways
+        to suspend Yoon''s presidential power immediately.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '802e4955-0deb-4825-b3c5-f51d1f9b935e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.344+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.897+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.344+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The main opposition Democratic Party called for the immediate suspension
+        of Yoon’s presidential duties and for stripping him of authority to control
+        the military. The DP called for the arrest of Yoon and related military officials
+        implicated in the martial law fiasco.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b83e351a-15b6-449f-9ced-9e0beb11e84b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.345+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.900+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.345+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Yoon shocked the nation on Tuesday night when he gave the military
+        sweeping emergency powers to root out what he called "anti-state forces" and
+        obstructionist political opponents. He rescinded the order six hours later,
+        after parliament defied military and police cordons to vote unanimously against
+        the decree.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3b5a668f-2c3a-4396-8967-1d4696384bf1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.345+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.904+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.345+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Criminal probe</strong></h2>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd4726bf5-e5be-4f76-832b-a36cd213fce7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.345+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.906+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.345+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Yonhap news agency reported that prosecutors had "booked" Yoon, a process
+        in South Korea that involves formally naming subjects of investigation.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5b3e11e-85f1-4f1c-a076-e2ec4bfef85b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.346+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.908+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.346+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Prosecutors could not immediately be reached for comment on the report.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b601c265-1709-46f1-9ef5-660f7db58702'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.346+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.910+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.346+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Three minority opposition parties filed a complaint with the prosecution
+        against Yoon, ex-Defense Minister Kim Yong-hyun and martial law commander
+        Park An-su, accusing them of insurrection. The crime of leading an insurrection
+        is punishable by death or life imprisonment, with or without prison labor.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3585367c-3408-477c-87c3-46f32d608bad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.347+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.911+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.347+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Kim, who stepped down on Wednesday after Yoon rescinded martial law,
+        was seen as a central figure in the debacle. He had proposed martial law to
+        the president, according to a senior military official and the impeachment
+        filings.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e801f89-e6bc-4229-9ba5-72b43cea2868'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.347+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.913+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.347+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The prosecution''s special investigative team arrested Kim on Sunday
+        and seized his mobile phone, it said in a brief statement to reporters. Before
+        the arrest, investigators questioned Kim, who voluntarily appeared at the
+        Seoul Central District Prosecutors'' Office around 1:30 a.m. on Sunday (1630
+        GMT on Saturday), Yonhap news agency reported.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3369b81e-bd8a-4ef2-b3f5-dc23c79157db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.348+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.915+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.348+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The national police raided Kim''s office on Sunday as part of an investigation
+        into claims of treason against Yoon and top ministers, Yonhap said.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '514fd8c6-ae44-483b-855c-7f684d548415'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.349+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.917+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.349+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Opposition lawmakers allege Yoon mobilized military forces to block
+        a vote by lawmakers seeking to nullify what they said was an unconstitutional
+        martial law decree.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '70a1617d-05be-4aae-9b0e-314493a6f3f5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.349+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.918+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.349+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Military crisis</strong></h2>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ef5a1ec5-9dbd-47d5-b2f1-e9c8bba7568c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.350+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.921+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.350+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Hours before Saturday''s impeachment vote, Yoon addressed the nation
+        in a televised speech to apologize for his martial law decree, saying he would
+        put his fate in the hands of his party.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '613013eb-19c7-40f8-ac49-71180705b6e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.351+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.925+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.351+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Han said the comments were effectively a promise to leave office
+        early, adding that the ruling party would consult with the prime minister
+        to manage state affairs.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3fb8fccb-cf47-4394-a4be-72bc4e9f520e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.352+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.352+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Prime Minister Han Duck-soo said on Sunday the cabinet would do
+        its best to "maintain trust with our allies," referring to the United States
+        and Japan.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7348e9db-eda7-484f-91c1-66b99d163e8a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.353+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.933+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.353+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The ruling party offered few details on their plan to prevent Yoon''s
+        impeachment but have him give up power, and the proposal added more confusion
+        to the crisis over presidential authority.'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c0abd97-6fd5-4f95-9a80-c5020f671f31'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.353+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.353+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In an effort to reassure the public, multiple military leaders,
+        including the acting defense minister, have stated they would refuse any orders
+        to impose another round of martial law.</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '337bd484-c5cf-40ca-a888-01b9190a081c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.354+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.354+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The defense ministry did not respond to repeated questions from
+        foreign media on Sunday over who is now the commander-in-chief of South Korea''s
+        military, which is one of the largest in the world and operates combined commands
+        with the United States.</p>'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a9dc40e6-a950-496e-a9dc-9ea574cb900b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.355+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.939+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.355+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"I think (military commanders) are very disappointed, some of them
+        are feeling that they have been betrayed. It will take a lot of work to regain
+        the trust of the military," said Chun In-bum, a retired lieutenant general
+        in the South Korean army and former commander of the country’s special forces,
+        who blamed politicians for the mess.</p>'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c7c8c1e4-cd83-4671-ad04-cd5cd11bc789'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.356+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.940+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.356+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '"I resent the fact they draw in the military to do their job, and it
+        was a bad decision to try to use the military to solve a political problem,"
+        Chun said.'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e672e7a-58cd-4a3b-9bb1-0998d7457062'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.357+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.941+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.357+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'The leadership crisis threatens to undermine allied efforts to deter
+        nuclear-armed North Korea, analysts said.'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9979233d-0eb9-42d7-972b-550d93dc2638'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.358+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.942+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.358+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"North Korea will probably take a wait-and-see approach toward these
+        events, but it cannot be ruled out that Pyongyang will attempt to exploit
+        divisions in Seoul," said Leif-Eric Easley, a professor at Ewha University
+        in Seoul.</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f11a1c3-6105-4e46-aea5-d5f273bb255e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T17:21:36.358+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:08.943+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T17:21:36.358+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Hyunjoo Jin, Josh Smith, Hyunsu Yim, Ju-min Park
+        and Eduardo Baptista; Editing by Sandra Maler and William Mallard)</em></p>'
+  'UP-La-Salle-UAAP-Season-87-Game-1-finals':
+    'author': 'CJ Marquez, NewsWatch Plus'
+    'caption': 'Courtesy: UAAP Season 87 Media Team'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T20:28:38.000+08:00
+    'credit': 'Courtesy: UAAP Season 87 Media Team'
+    'imagesource': 'jcr:542e83ea-e01c-4323-8930-ca13a0e334f6'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'a03b411f-c7ef-4c30-a95f-a0c722951eca'
+    'lead': 'The University of the Philippines Fighting Maroons inch closer to regaining
+      the UAAP men’s basketball title after holding off the De La Salle University
+      Green Archers in Game 1 of the Season 87 finals.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T20:30:56.500+08:00
+    'mgnl:createdBy': 'cj-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:07.898+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:45.267+08:00
+    'mgnl:lastModified': 2024-12-08T20:30:56.527+08:00
+    'mgnl:lastModifiedBy': 'cj-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'UP moves one win away from reclaiming UAAP crown'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0d0e1fb-649f-4163-a297-82ef59ee4de6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.514+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.926+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.514+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The University of the
+        Philippines Fighting Maroons took down the De La Salle University Green Archers
+        in Game 1 of the Season 87 finals, 73-65, on Sunday at the Smart Araneta Coliseum
+        in Quezon City.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39177949-7264-4469-89f0-6ef9391e33fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.514+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.514+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Quentin Millora-Brown towed the Fighting Maroons with 17 big points
+        along with nine rebounds and three assists in over 34 minutes of action.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5cebcec-8906-4d6b-b7e1-fc68af34b342'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.515+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.515+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'With EJ Gollena and Kevin Quiambao taking charge, the Green Archers
+        had the upper hand in the first half and built a 41-37 edge at the break. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8c425e6-b82b-4f0d-b4cb-9c13022d7329'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.515+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.934+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.515+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': ' '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9d617a2-79b1-4c62-9076-19b935c67305'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.515+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.936+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.515+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'The momentum then shifted to UP in the third period as JD Cagulangan
+        sparked the offense for the Diliman-based squad.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '693877a0-bd6d-44d9-af69-132cc53bb594'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.516+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.516+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'After a hot shooting in the first two quarters, Quiambao went cold
+        when La Salle was searching for answers to the Fighting Maroons’ onslaught
+        at the crucial stretch.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '00e9902f-1458-4405-8980-5b36cdba1f6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.516+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.939+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.516+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Gerry Abadiano nailed the clutch three-pointer to extend UP’s lead,
+        70-63, with 40.1 seconds left in the final frame.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50fac4e2-6a3b-43b0-b179-b4447e5844f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.517+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.940+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.517+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Cagulangan had 13 points and five assists, while Francis Lopez added
+        13 points and six rebounds for the Fighting Maroons.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a4a71741-75c5-4be7-947c-6214a11d61b0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.517+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.940+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.517+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Quiambao finished with 19 markers and 11 boards for the Green Archers.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f8709750-56ec-42b1-9842-9af32e936c1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T20:30:56.517+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.941+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T20:30:56.517+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>UP has the chance to end the series and complete its redemption
+        campaign in Game 2 scheduled on Dec. 11 at the Mall of Asia Arena in Pasay
+        City.</p>'
+  'naia-centralized-hub':
+    'author': 'Lance Mejico, NewsWatch Plus'
+    'caption': 'Grab and JoyRide booths near the NAIA Terminal 3 multi-level parking
+      building where passengers can book their trips (NewsWatch Plus/Lance Mejico)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-12-08T22:58:18.000+08:00
+    'imagesource': 'jcr:0e92ae1c-463d-4dac-bf16-79c530514c06'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '23bfbfa9-e6a1-4049-9e65-0b11c4b07487'
+    'lead': 'Travelers taking ride-hailing services at the Ninoy Aquino International
+      Airport (NAIA) may enjoy the newly-opened centralized hub at Terminal 3 ahead
+      of the holiday rush. '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-12-08T23:01:33.751+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T12:35:07.521+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:45.418+08:00
+    'mgnl:lastModified': 2024-12-08T23:40:22.181+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['joyride', 'Angkas', 'Grab-Philippines', 'NAIA']
+    'stories': []
+    'template': '1'
+    'title': 'NAIA T3 opens centralized ride-hailing service hub ahead of Christmas
+      rush'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1ffe354c-1f0a-443a-89d2-1a32c71e3a6f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.787+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.525+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.171+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Travelers taking ride-hailing
+        services at the Ninoy Aquino International Airport (NAIA) may enjoy the newly-opened
+        centralized hub at Terminal 3 ahead of the holiday rush.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2caede4e-e33a-41e3-aeeb-ec196660d759'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.788+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.526+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.171+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>New NAIA Infra Corp. (NNIC), the airport’s private operator, fully
+        launched the 6,000 square meter facility on Sunday, Dec. 8.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '77d63062-fe1a-4b94-a2d1-58f0017798f2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.788+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.527+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.172+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'It is at T3’s multi-level parking building, and has over 400 parking
+        slots and 18 loading bays.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fc921c8b-19f8-473f-99ca-01e815dca5f9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.788+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.528+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.173+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lito Alvarez, NNIC general manager, said the transport hub launch will
+        improve traffic flow and reduce curbside congestion, especially with the anticipated
+        increase in vehicle volume during the holiday season.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '23c644e5-fea1-4b6d-b0d3-e6cb0088881f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.789+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.529+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.173+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Overall magi-improve ang passenger experience. Sa ating mga kababayan
+        na mag-travel, unawain niyo na marami kaming ginagawa rito. Unti-unti lamang
+        at mafi-feel niyo nang husto ang initiatives,” he told NewsWatch Plus.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '470814e1-80d9-45b0-8895-d845ae0cfc40'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.789+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.532+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.174+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Overall, the passenger experience will improve. To our
+        fellow Filipinos who will be traveling, please understand that we are doing
+        a lot here. It''s a gradual process, but you will eventually feel the full
+        impact of these initiatives]'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dbe4564c-4ac2-478e-befd-df5551d0751f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.790+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.533+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.174+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Alvarez added there are plans to carry out the same system at T1
+        and T2, as well as at T4, which is under renovation.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aca7b131-e478-4013-923b-69d45d693bcc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.790+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.535+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.175+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Operators</strong></h2>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '41555d27-ee44-480f-9f03-1a578973bf77'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.791+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.536+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.175+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Grab Philippines began its full-scale operations on Sunday, while
+        JoyRide booths will open on Tuesday, Dec. 10.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45878f28-ae8d-41b6-a35e-3bff4968a6de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.791+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.537+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.176+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In an interview with NewsWatch Plus, EJ dela Vega, Grab director for
+        mobility, said the company has systems to assist travelers and drivers with
+        transport changes at T3.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'edde0e64-904b-4613-ae63-4645b71dc560'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.792+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.538+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.177+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’ve been working very closely with our drivers, getting information
+        out there. We’ve been training them, doing online forums and consultations,”
+        he said.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f4e26601-3380-4008-80c5-6abe2ce0a0bc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.792+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.539+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.177+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’re able to put indoor navigation, live navigation in the app, we’re
+        able to redirect them (passengers) even the pickup points they see in the
+        app,” Dela Vega added.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4f1348fb-e73b-41a7-acf1-10b375f32834'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.793+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.540+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.178+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Grab official said the company also designated a hundred personnel
+        to help passengers in booking trips and assist them at designated bays. '
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b9eec13-fe6a-4346-a319-bbd13af6a975'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.793+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.542+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.178+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Grab is happy to support the NNIC, of their objectives, of their continuous
+        improvement especially at the terminals at NAIA,” Dela Vega said. '
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ec3f4ae2-5350-43ba-8613-d994d8b9bf8f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.794+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.543+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.179+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In a press release, JoyRide, which will operate both app-based rides
+        and metered taxis at the facility, said its partnership with NNIC will make
+        transportation more “reliable” for travelers.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39d8a412-77d6-428b-a8ca-fadcd407e82f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.794+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.544+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.179+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Angkas, through its four-wheeled ride service “Angcars,” will also
+        join the transport hub.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e99fdbb5-dce5-477a-84b9-153c58358f0f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-12-08T23:01:33.795+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T12:35:07.544+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-12-08T23:40:22.180+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“This initiative is a win for travelers, drivers, and airport efficiency
+        alike,” George Royeca, Angkas CEO, said in a press release.'

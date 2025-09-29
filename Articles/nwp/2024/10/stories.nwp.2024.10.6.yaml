@@ -1,0 +1,3308 @@
+'6':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '4847de3d-229c-48ba-9762-ba261b72f707'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-10-06T10:55:59.148+08:00
+  'mgnl:createdBy': 'jelo-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:47:59.896+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:55.786+08:00
+  'mgnl:lastModified': 2024-10-16T11:45:30.102+08:00
+  'mgnl:lastModifiedBy': 'tristan-nwp'
+  'us-military-planes-batanes-aid':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T10:56:07.000+08:00
+    'imagesource': 'jcr:24f5c32c-7652-4465-bc54-519df58f2807'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '74dfc878-e1f0-43b8-aaba-66c553cd745c'
+    'lead': 'The United States deployed aircraft to help transport aid and supplies
+      to Batanes, which Super Typhoon Julian battered last week.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T10:58:02.871+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:35.162+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:55.903+08:00
+    'mgnl:lastModified': 2024-10-06T11:04:29.585+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Batanes', 'United-States', 'JulianPH']
+    'stories': []
+    'template': '1'
+    'title': 'US sends needed aid to Julian-stricken Batanes'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'af015292-5858-45aa-afa0-4d8212dbeb01'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.897+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.165+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.573+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The United States deployed
+        aircraft to help transport aid and supplies to Batanes, which Super Typhoon
+        Julian battered last week.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4367fbed-f834-44f5-b115-a02f50b53162'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.898+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.166+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.574+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b0a5765-2ed4-4eda-aeea-4ee05abc97b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.898+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.178+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.575+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "US military planes carried personnel and equipment to assist in relief\
+        \ efforts in Batanes, the National Disaster Risk Reduction and Management\
+        \ Council (NDRRMC) said on Saturday, Oct. 4.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '16b4c45e-bf0d-46a9-b3b4-dda435478877'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.899+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.575+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '41f70949-dfab-4c37-869a-cd7b190847ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.899+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.179+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.576+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "They sent the following to the province: 1,000 family food packs from\
+        \ the Department of Social Welfare and Development; 1,000 shelter repair kits\
+        \ from the Office of Civil Defense; and 2,500 International Organization for\
+        \ Migration (IOM) graded tarpaulin sheets and 1,000 IOM kitchen sets.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c5555b95-32ff-4449-bb1a-511e753dd8ce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.900+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.180+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.576+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0765497c-f579-442f-8c6c-b1fe0c99e812'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.900+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.181+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.577+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The NDRRMC said two KC-1307 Hercules aircraft from the US III Marine\
+        \ Expeditionary Force landed at Villamor Air Base on Saturday afternoon.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b73f6107-2382-4851-a9ad-7efb3580a18f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.901+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.182+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.577+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '80789bb5-cb38-4a9e-acf4-5f670052fb8c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.901+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.182+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.577+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Initially, the KC-130Js were scheduled to fly directly to Batanes;\
+        \ however, following a thorough assessment by US counterparts in collaboration\
+        \ with the Armed Forces of the Philippines, it was determined that the runway\
+        \ at Batanes airport might be compromised due to the heavy weight of the aircraft,\"\
+        \ the NDRRMC explained.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '107b206c-8d76-4b71-aa37-48a70cd0ee4e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.901+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.183+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.578+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ad898df2-7899-4a21-8ed9-5c91046ca1de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.902+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.184+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.579+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Consequently, the planes will instead transport supplies to Laoag\
+        \ Airport, from where goods will be further distributed to Batanes using US\
+        \ MV2 and CH5-1 aircraft,\" it added.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94de3de7-535a-4048-8bea-788a99f4f6d1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.902+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.184+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.579+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '415766cc-e9e1-4f2f-b884-f3057f6546ca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.903+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.185+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.580+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Defense Secretary Gibo Teodoro thanked the US government whose assistance\
+        \ he said was \"vital as we work to rebuild and provide for our communities\
+        \ affected by the super typhoon.\"\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6b4e280b-b7fd-401c-9a29-4644aff42918'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.903+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.186+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.580+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f409ba8-836c-4c6c-9325-adaabf8d33ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.904+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.187+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.581+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The NDRRMC reported on Sunday that \"Julian\" affected more than 317,000\
+        \ people across Ilocos region, Cagayan Valley, and Cordillera Administrative\
+        \ Region. It also damaged at least 2,456 houses in these three regions. \r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f544c56-a82a-462a-bdb0-32fe4f4a8395'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.904+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.187+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.581+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e313e89-c454-4215-9833-97e51f76923a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.905+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.188+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.582+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Disaster management officials confirmed five dead, eight hurt, and\
+        \ one missing amid the onslaught of the super typhoon.\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '15676cd7-381a-4c9b-9876-7723f668bb95'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.905+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.189+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.582+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '380c4ae9-1023-4d71-b5e5-83d8e876c525'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.906+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.190+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.583+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The NDRRMC recorded P934 million worth of infrastructure damage. \r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5239894a-d0cd-4e9d-bf2f-9c251df5f4b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.906+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.190+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.583+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e1a1ce82-9f08-48b1-a349-32f3e5fa720e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T10:58:02.907+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:35.191+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:04:29.584+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Department of Agriculture tallied P551 million worth of agricultural\
+        \ damage, including irrigation facilities and other farm structures. Lost\
+        \ commodities were rice, corn, high-value crops, and livestock and poultry.\r"
+  'de-lima-on-roque-arrest-order':
+    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T11:10:19.000+08:00
+    'imagesource': 'jcr:2de0a14c-949c-483b-82bf-218d08b04b5c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '97dabfc8-79ca-4c76-bdb2-be0c8c0114cf'
+    'lead': 'Former Sen. Leila de Lima challenged former presidential spokesperson
+      Harry Roque to face his arrest order if he has nothing to hide.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T11:11:59.425+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:34.267+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:56.162+08:00
+    'mgnl:lastModified': 2024-10-06T11:28:22.934+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Leila-de-Lima', 'Harry-Roque']
+    'stories': []
+    'template': '1'
+    'title': 'De Lima tells Roque to heed arrest order'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '42ead838-7f16-42ac-8856-437de8b6732e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.464+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.269+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.916+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Former Sen. Leila de
+        Lima challenged former presidential spokesperson Harry Roque to face his arrest
+        order if he has nothing to hide.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4c888296-9509-42a8-90b6-4c624973eff8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.465+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.270+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.917+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a100a1a4-f4b1-459a-9369-cdbe3185f689'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.465+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.271+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.918+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Roque has been evading his arrest order from the House of Representatives’\
+        \ quad committee, which is investigating his links to illegal offshore gaming\
+        \ operations.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eef15066-c7f9-4e77-a6c6-d13cdc4c203c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.466+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.271+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.918+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6ea06011-7ad0-443b-9862-30e7026f2288'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.466+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.272+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.919+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Ako nga hinarap ko, eh, kahit gawa-gawang kaso. Hinarap ko 'yong\
+        \ batas. [I faced trumped-up charges. I faced the law.] I respected the rule\
+        \ of law,\" De Lima told reporters on Saturday, Oct. 5, after filing her candidacy\
+        \ for the 2025 party-list elections.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c89a0496-e526-414d-9723-70d2a9b2de66'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.467+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.273+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.919+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf003b5a-9ab4-4771-8190-f1248eef2bd0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.467+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.273+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.920+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "De Lima, a former justice secretary during the Aquino administration,\
+        \ said she went through the process of being tried for criminal charges for\
+        \ years. She described the process as \"painful and tedious.\"\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5e6741a-fe39-42ea-8592-f31e523ea917'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.467+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.274+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.920+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '463f0e16-26bd-46ce-9aaa-3c5dfb77c944'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.468+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.275+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.921+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Dapat ganun: Kung wala kang kasalanan, wala kang tinatago, harapin\
+        \ mo nang buong tapang,\" she said. \"Hindi 'yong nagtatapangan lang siya\
+        \ by means of nagla-live feed nalang siya.\"\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba81d7cc-78bc-4277-bf5c-5d26557ea182'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.468+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.275+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.921+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '62d98357-2093-49bd-8c0e-72b3efec29f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.276+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.922+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Iniinsulto pa niya ang ating mga law enforcers,\" she added.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f60e8bbf-95ff-43b6-b7e1-122cb2a5eb31'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.277+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.922+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf899112-59b1-40ef-acac-43191c59667b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.470+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.277+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.923+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: It must be like that: If you did not do anything wrong,\
+        \ you have nothing to hide, face the order with courage, not just act brave\
+        \ by going into livestreaming. He's insulting our law enforcers.]\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '89c94f99-d30c-4139-bdfe-da9b83325b07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.471+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.278+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.924+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a4f40295-17de-4dde-a13f-21147e3e31d4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.471+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.279+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.924+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Supreme Court denied Roque's petition for a writ of amparo as it\
+        \ was \"not the proper remedy against Congressional contempt and detention\
+        \ orders.\"\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97a6534f-0bae-4c47-b47e-ea8f2df4786f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.472+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.279+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.925+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f95a57cb-1bba-4886-9a5f-3d687798c16e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.472+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.280+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.925+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The administration of former President Rodrigo Duterte filed three\
+        \ drug-related charges against De Lima, who was a vocal critic of Duterte's\
+        \ war on drugs.\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'df693744-fc5e-4f5f-9a70-c9b668e2f454'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.473+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.281+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.926+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c18b6fc0-622c-4cd8-aa3f-903962123d85'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.473+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.281+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.926+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "As the presidential spokesperson at the time, Roque wished De Lima\
+        \ a lifetime in jail. \r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e2afd049-58f6-4fa4-9abc-6511ec4ebe59'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.474+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.282+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.927+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31201b84-647e-4484-aee1-29366bd721b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.475+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.283+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.927+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "When Roque was the representative of the Kabayan Party-list in 2016,\
+        \ he asked vulgar and sexist questions to De Lima during a House committee\
+        \ hearing into De Lima's ties to the illegal drug trade.\r"
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a143b2ce-4881-410f-8eb3-1216417f5fcf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.475+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.283+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.928+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '434e9154-e32d-440b-8e70-974e9e990820'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.476+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.284+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.929+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Siguro naman na-realize niya na kung gaano kamali ang nasabi niya\
+        \ sa akin, sa mga ginawa niya sa akin, I think he should realize that,\" De\
+        \ Lima told reporters. \"Really, marunong talaga ang Diyos.\"\r"
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e188fec-1d6c-4b80-a218-04eb8c0b7dec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.477+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.285+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.929+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b1aa5633-aba5-4bf2-ba75-03ad47acc1c9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.478+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.286+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.930+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: Maybe he realized how wrong the things he said about\
+        \ me, the things that he did to me, I think he should realize that. Really,\
+        \ God is just.]\r"
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c33a2ada-9ec4-4371-b977-3fcb0fac7107'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.478+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.287+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.931+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '01d16121-8236-44e4-93d2-630eaa684da7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.479+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.287+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.931+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "A former chairperson of the Commission on Human Rights, De Lima spent\
+        \ more than six years in detention before being cleared of all drug-related\
+        \ charges against her.\r"
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '889ba93a-464a-4724-99f0-add114948a18'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.479+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.288+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.932+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31a3ec98-923e-4f6b-8488-5e273fb0dd6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:11:59.480+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:34.288+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:28:22.933+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "De Lima admitted she seeks a House seat as part of her efforts to rebuild\
+        \ herself. She is the first nominee of the Mamamayang Liberal Party-list.\r"
+  'jimmy-bondoc-senate-coc-2025-polls':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T11:31:45.000+08:00
+    'imagesource': 'jcr:528fdb17-4e1a-4a75-a2e5-11c7446cb1a1'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b903dc6a-cbdf-472a-87f2-86df5a541194'
+    'lead': 'Singer and lawyer Jimmy Bondoc said he will push for measures that will
+      benefit the entertainment industry and eradicate corruption if he secures a
+      Senate seat in the 2025 polls.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T11:33:43.421+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:33.417+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:56.424+08:00
+    'mgnl:lastModified': 2024-10-06T11:40:46.083+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['certificate-of-candidacy', 'Eleksyon-2025', 'Vote-Watch', 'Jimmy-Bondoc']
+    'stories': []
+    'template': '1'
+    'title': 'Jimmy Bondoc to push for entertainment industry welfare, anti-corruption
+      measures'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '081dea81-937e-41ff-bb1b-3fad7e3ac750'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.456+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.420+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.066+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Singer and lawyer Jimmy
+        Bondoc said he will push for measures that will benefit the entertainment
+        industry and eradicate corruption if he secures a Senate seat in the 2025
+        polls.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '58bf285a-7d2f-4c23-adba-42a9b97ad9e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.457+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.421+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.067+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ff8158a6-bdb5-408b-8b73-3f007144fa88'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.457+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.422+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.067+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Bondoc lodged his certificate of candidacy for senator before the Commission\
+        \ on Elections offsite office at the Manila Hotel on Sunday, Oct. 6. Senator\
+        \ Robin Padilla accompanied him during the filing.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa8c4359-ea45-41bd-94f6-2e1eabc244c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.457+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.422+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.068+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4a74585-eb89-4e51-969f-a8992fead6aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.458+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.423+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.068+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Bondoc is running under the Partido ng Demokratiko Pilipino - Lakas\
+        \ ng Bayan, chaired by former President Rodrigo Duterte.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a48cefd-1ccd-4fd2-8112-9787a4266b92'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.458+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.424+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.069+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78ae4900-bab6-4b75-8f85-54855f1aaf75'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.459+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.424+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.069+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Ending corruption</strong></h2>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1cb9c153-b08f-43ae-ad33-abde19addaed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.459+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.425+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.070+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "His top priority at the Senate: curbing corruption.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84deb75b-b14c-4c19-835e-e47ea3d46e26'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.460+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.071+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ccf94cc4-b454-4342-bd85-3c59680b6291'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.460+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.071+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Nais ko pong gamitin ang boses na ito upang i-institutionalize ang\
+        \ anti-corruption, gumawa po ng isang mabisa na batas na tuluyan nang wakasan\
+        \ ang korapsyon sa Pilipinas,” he told reporters.\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3aa09b7c-b0a8-4a8d-9447-69528a0e182c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.460+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.427+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.072+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c0fbebec-bb32-4da6-98c0-b7b3c9c4e866'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.461+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.428+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.072+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: I want to use my voice to institutionalize anti-corruption,\
+        \ create effective legislation that would end corruption in the Philippines.]\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9cdc92b6-0172-442b-bf07-61d7075f03e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.461+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.428+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.073+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'febc67a6-a6ba-47a0-98f6-19f7914e97c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.462+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.429+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.073+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Asked for his reaction to a plunder complaint against Duterte, Bondoc\
+        \ stressed the importance of “innocence until proven guilty.”\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b65b9d4d-4a0a-4ed7-a9d1-269466efe735'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.462+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.429+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.074+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4fcc4609-29fc-4a2f-a869-90173b3ed398'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.463+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.430+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.074+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Ako na po bilang kaibigan niya ay siguradong-sigurado naman na lahat\
+        \ ng ginawa ng ating pangulo ay the best interest of the people,” he said.\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c3535f8b-947f-4df6-a187-10fb0ee5c2f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.463+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.431+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.075+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0e5331c8-0e61-4d00-9546-2b52897672de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.464+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.432+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.076+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: I, as his friend, am very sure that everything he has\
+        \ done as president was for the best interest of the people.]\r"
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'db620b5c-a0a9-401d-a111-68824fbdf958'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.464+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.432+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.076+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '745c8674-c88e-491f-81b4-2c8d3151accd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.465+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.433+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.077+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Entertainment industry welfare</strong></h2>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0801183-6624-4fb0-83f0-9b4a44b21b1b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.465+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.434+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.077+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Meanwhile, Bondoc said that the entertainment industry, including music,\
+        \ should be recognized as an “economic and labor force.” \r"
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91d511c1-8d2d-4a64-8244-46c11a22371e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.466+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.434+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.078+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ceb4a9a6-b47e-49f8-b344-40ea8efb0135'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.466+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.435+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.078+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He noted that the force is yet to be optimized in the country.\r"
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '666d1cad-4d9f-437a-809e-32077c33567c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.467+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.435+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.079+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a03e735-b0cc-4399-a205-588b20a28f57'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.468+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.436+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.079+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“We can encourage the adoption or the creation of treaties para po\
+        \ tayo’y magkaroon ng pakikipag-ugnayan sa ibang bayan and to exchange talent\
+        \ and our music force para umunlad ang turismo at makilala ang kultura ng\
+        \ Pilipino globally,” he said.\r"
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0f989622-89e6-4efe-b302-12df1da36dc5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.468+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.437+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.080+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3b54d6b2-820f-4641-974c-6cccc67d2c9e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.437+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.081+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: We can encourage the adoption or the creation of treaties\
+        \ so that we have coordination with other countries and to exchange talent\
+        \ and our music force to boost tourism and for the Filipino culture to be\
+        \ known globally.]\r"
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f249c7ca-2975-4d36-9d75-e98af785a59c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.469+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.438+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.081+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0184e167-b807-4f83-94e3-e075c712c2e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T11:33:43.470+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:33.438+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T11:40:46.082+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Bondoc was a board member of the Philippine Amusement and Gaming
+        Corporation in 2021.</p>'
+  'erwin-tulfo-dynasty':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T14:07:41.000+08:00
+    'imagesource': 'jcr:4ab8d163-6183-4613-b281-17a6e5eae693'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '6c432744-f2a5-4794-9011-ee12933fe3d1'
+    'lead': 'The people should decide how many Tulfos they want in the Senate, ACT-CIS
+      Party-list Rep. Erwin Tulfo said on Sunday, Oct. 6.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T14:12:18.004+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:32.362+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:56.603+08:00
+    'mgnl:lastModified': 2024-10-06T16:01:48.969+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Rep. Tulfo on potential dynasty in Senate: Let people decide'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '239259d5-e07e-4dbe-82b9-cd5b4d1cb19d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.029+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.365+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.965+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The people should decide
+        how many Tulfos they want in the Senate, ACT-CIS Party-list Rep. Erwin Tulfo
+        said on Sunday, Oct. 6.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1836078c-ed15-40e1-942c-21ad72501f7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.029+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.366+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.966+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': 'Tulfo’s remark came when he was asked about the possibility of a dynasty
+        at the upper chamber as he filed his certificate of candidacy for senator.
+        His brother Raffy is an incumbent senator while his other brother broadcaster
+        Ben also joined the Senate race.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '65c98bf1-b157-472e-9520-2144c46949ea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.030+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.366+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.966+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '“As long as there’s no law yet, then we let the people decide. Kung
+        may batas na ho, then we stop. ‘Yung political dynasty, matagal na hong usapin
+        po ‘yan, and I believe hindi po titigil ‘yan hanggang wala pong batas,” the
+        congressman said.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fec8fec1-414e-4645-b61d-29749d9f97e9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.030+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.367+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.966+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: If there’s already a law, then we stop. The political
+        dynasty issue has long been discussed, and I believe it will not stop until
+        there is a law.]'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '737752a0-6219-4ee1-8617-808e98e37c74'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.031+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.368+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.967+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': 'He, however, said that he is open to supporting such a law if it will
+        benefit the public.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '225fa33f-307b-4eb4-aa9f-a881b5422d54'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.031+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.368+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.967+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': 'Most of the Tulfo brothers’ programs are to help the poor. But the
+        incumbent representative said he will now prioritize the middle class such
+        as improving their wages and benefits.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54b458de-4e83-4def-9a4b-fff1e97f0984'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.031+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.369+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.968+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '“We were so focused, ‘yung gobyerno sa mga mahihirap. Siguro it’s time
+        we also look at du’n sa mga kababayan natin na hindi masyado napapansin, ‘yung
+        nasa middle. '
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eda1ce42-5b85-4d8f-a4fa-f5d511219d8e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.032+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.369+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.968+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: The government is focused on the poor. Maybe it’s time
+        we also look at our fellow Filipinos who are unnoticed.]'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '92d3a53e-68a0-44ca-b405-d6688a099b36'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T14:12:18.032+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:32.370+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:01:48.968+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Tulfo is running under Lakas-Christian Muslim Democrats.</p>'
+  'lorraine-badoy-epanaw-sambayanan-coc':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T15:49:48.000+08:00
+    'imagesource': 'jcr:748cfb5a-75e8-4d38-b822-7d170f6d884c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '179537f8-165e-4fa3-a688-1f492537cd7a'
+    'lead': 'Former spokesperson of the National Task Force to End Local Communist
+      Armed Conflict (NTF-ELCAC) Lorraine Badoy vowed to protect the indigenous peoples
+      as she runs as the second nominee of Epanaw Sambayanan Party-list.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T15:52:24.635+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:31.549+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:56.749+08:00
+    'mgnl:lastModified': 2024-10-06T15:52:24.688+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Lorraine-Badoy', 'Vote-Watch', 'certificate-of-candidacy', 'NTF-ELCAC']
+    'stories': []
+    'template': '1'
+    'title': 'Badoy vows to protect indigenous peoples'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fd11400a-2e95-4723-a441-2e618ee6ecdc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.667+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.551+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.681+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Former spokesperson
+        of the National Task Force to End Local Communist Armed Conflict (NTF-ELCAC)
+        Lorraine Badoy vowed to protect the indigenous peoples as she runs as the
+        second nominee of Epanaw Sambayanan Party-list.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f3600340-acf1-4222-bf10-dc79d4485509'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.667+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.552+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.667+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '53260eac-8ed9-4bc7-be09-d1d6aefeb449'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.667+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.552+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.667+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The party-list, with its first nominee lawyer Marlon Bosantog and Badoy,\
+        \ filed its certificate of nomination and acceptance on Sunday, Oct. 6 before\
+        \ the Commission on Elections’ offsite office at the Manila Hotel. \r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aac34b44-00ee-423f-8c68-65d0b7da18e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.668+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.553+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.668+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48a40d95-0c1e-41c9-b1c7-9911714692c6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.668+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.554+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.668+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Epanaw Sambayanan Party-list’s main agenda is to save indigenous peoples\
+        \ from alleged exploitation committed by the Communist Party of the Philippines\
+        \ (CPP), its armed wing New People’s Army (NPA), and the National Democratic\
+        \ Front (NDF).\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4b544b80-bd2e-41cd-a9d0-a4d1af6d1baf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.669+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.554+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.669+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64a61062-3364-46e9-89ea-817abd97aa7a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.669+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.555+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.669+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“The most heinous crimes against our indigenous peoples were done by\
+        \ the CPP-NPA-NDF,” Badoy said.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4c9a9fe-d826-4afb-96ce-8402d6772bfa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.669+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.555+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.669+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2ab137c0-c4b9-445f-a01a-02cc2e8714cf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.670+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.556+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.670+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“You cannot fight for the rights of indigenous peoples without unmasking\
+        \ the CPP-NPA-NDF. And you cannot fight for our country without fighting against\
+        \ the CPP-NPA-NDF,” she added.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '86d4a7b6-ad2d-4c73-a223-c678dd6b7e73'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.670+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.557+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.670+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '93700c07-58c6-43d2-bd2b-9fcd3bc6b725'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.671+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.557+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.671+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Progressive group Bayan Muna slammed Badoy’s move to seek a seat  at\
+        \ the House of Representatives.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cdb26411-35fc-4a47-b204-fe5a66f0c307'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.671+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.558+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.671+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b82b2953-a74e-4074-9efd-d19e802c1eb7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.672+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.559+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.672+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"But she herself bastardized the struggle of indigenous people during\
+        \ her stint at the NTF-ELCAC, where she gained notoriety for red-tagging activists\
+        \ and Lumad people during the Duterte administration,\" former Bayan Muna\
+        \ Rep. Eufemia Cullamat said in a statement.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '16f6891b-2278-4d04-8853-3079e6ee3ea5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.672+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.559+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.672+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8830a141-b004-49be-b51e-5ef70eb446f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.673+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.560+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.673+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Supreme Court earlier said that red-tagging is a threat to the\
+        \ right to life, liberty, and security. In 2022, it dismissed a petition to\
+        \ proscribe the CPP-NPA as a terrorist group.\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94960d90-ecb7-4a99-b607-e50a61c9e3cf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.673+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.560+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.673+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '81ccfa47-edde-4c23-94cb-c36d9ca7460b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T15:52:24.674+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:31.561+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T15:52:24.674+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The High Court has also found Badoy guilty of indirect contempt after\
+        \ red-tagging a judge.\r"
+  'ahtisa-manalo-miss-cosmo-2024-journey':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T16:03:20.000+08:00
+    'imagesource': 'jcr:68474b5b-d953-407c-a3d6-c11454cf7832'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ee7817b5-c309-4f4e-a28f-4af1d2ebc8ed'
+    'lead': 'Philippine bet Ahtisa Manalo finished her quest for the crown at the
+      Top 10 of the Miss Cosmo 2024 pageant on Saturday night in Ho Chi Minh City,
+      Vietnam.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T16:04:53.987+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:30.914+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:56.926+08:00
+    'mgnl:lastModified': 2024-10-06T16:04:54.041+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'PH bet Ahtisa Manalo ends Miss Cosmo 2024 stint at Top 10'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '41e8f29a-d3e5-4522-bbd7-65e233a3f40e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.022+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.917+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.035+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Philippine bet Ahtisa
+        Manalo finished her quest for the crown at the Top 10 of the Miss Cosmo 2024
+        pageant on Saturday night, Oct. 5, in Ho Chi Minh City, Vietnam.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '624d7cfe-f4af-405d-aead-3c575d04c193'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.023+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.918+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.023+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7cffc431-c6a5-4a65-b972-350848e3a6bf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.023+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.918+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.023+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Ketut Permata Juliastrid of Indonesia won the title and bested 55 other\
+        \ candidates during the grand finale of the pageant's inaugural edition at\
+        \ the Saigon Riverside Park.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '336d9cad-b59f-4fe4-bf2b-9aa3f2b7451c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.024+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.919+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.024+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4172f83c-1514-49f6-8dee-c0cbf00fb2d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.024+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.920+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.024+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Thailand's Mook Karnruethai Tassabut was first runner-up.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bee393d7-ec76-4f84-8711-4d300580fd40'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.025+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.920+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.025+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3c9392f-9875-4c1c-8ac0-b83e44b42046'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.025+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.921+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.025+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The two Southeast Asian queens battled for the crown through a two-round\
+        \ debate where they presented their advocacies.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2976c2b7-6a61-42d0-9dea-764116d9beba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.025+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.922+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.025+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f28878d1-8fc1-4624-bbaf-ebb75ec32f41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.026+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.923+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.026+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Contestants from Peru, United States, and Vietnam completed the Top\
+        \ 5.\r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c94aa848-71f5-44d4-bc97-fcf63beeb95f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.026+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.923+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.026+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cac5582d-a3e9-4157-9da1-f8cc9fabc09c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.027+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.924+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.027+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Manalo, who has Finnish, Swedish, and Filipino heritage, brought home\
+        \ the Cosmo Tea Culture Tourism Ambassador title and People's Choice Award.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0be629f6-764e-40eb-b6d3-9a337629bef7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.027+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.925+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.027+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '36b69952-0ea1-4167-83f5-60d164b1760e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.028+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.926+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.028+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Fashion designer Mak Tumang created the evening gown of the 27-year-old\
+        \ beauty queen, which was bedazzled with the colors of the galaxy.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9183ce8c-b485-452c-b563-560423de2f01'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.028+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.926+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.028+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '306350bd-232d-49c5-8f2d-7078a9e0180f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T16:04:54.029+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.926+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T16:04:54.029+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Hailing from Quezon, she became the country's representative after\
+        \ finishing as the second runner-up at the Miss Universe Philippines 2024.\
+        \  \r"
+  'act-teachers-unified-opposition':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T17:39:14.000+08:00
+    'imagesource': 'jcr:61ad9cf2-d1e6-43a2-b143-a018fd6b8824'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ffcbe79e-048d-4e36-bcad-7544d8c460ec'
+    'lead': 'A unified opposition may “inevitably” happen, says Alliance of Concerned
+      Teachers (ACT) Party-list first nominee Antonio Tinio.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T17:43:17.166+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:30.419+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:57.142+08:00
+    'mgnl:lastModified': 2024-10-06T17:43:17.197+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'ACT Teachers believes a unified opposition may ‘inevitably’ happen'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '95b1a386-35a5-4a7b-915d-22c6a10ca837'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.185+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.421+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.193+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> A unified opposition
+        may “inevitably” happen, says Alliance of Concerned Teachers (ACT) Party-list
+        first nominee Antonio Tinio.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ad49d969-c6be-487a-acc6-562208e871d8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.185+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.422+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.185+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Tinio and his co-nominees filed the certificate of nomination and acceptance
+        for ACT Teachers Party-list before the Commission on Elections offsite office
+        at the Manila Hotel on Sunday, Oct. 6. Incumbent Rep. France Castro accompanied
+        them.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2720fd7c-8f05-4240-a1ff-dfba3a2bc18f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.185+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.423+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.185+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Asked if they are open to uniting with other opposition members, Tinio
+        agreed as long as they are against the administration of Ferdinand Marcos
+        Jr. and the Duterte family.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'df72a7c8-a2bc-4297-ab95-370421b82b23'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.186+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.423+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.186+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“I think inevitably mangyayari ‘yun. Lahat ng mga mananalo ng mga parties
+        and individuals sa Kongreso na may tindig na opposition sa Marcos administration
+        at ganu’n din sa grupo ng mga Duterte who are still in power or part of the
+        ruling clique, kailangan talaga inevitably magsasama-sama,” Tinio said.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '040a0962-419c-4056-b7c9-1be0f4d2e353'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.186+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.424+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.186+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I think that will inevitably happen. Parties and individuals
+        who will win in Congress who stand against the Marcos administration and as
+        well as the Duterte group who are still in power or part of the ruling clique,
+        they need to join forces.]'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bab4e7b3-4f9b-4128-9ce1-2b5a52749d57'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.187+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.425+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.187+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Bukas tayo makipagtulungan sa lahat basta malinaw ang tindig kontra
+        sa Marcos at naniningil ng accountability sa mga Duterte, at nagsusulong sa
+        interes ng taumbayan,” he added.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6952a61b-3879-4794-8c72-683710f0dd16'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.187+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.425+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.187+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We are open to help one another as long as it is clear
+        that they are against Marcos and they ask for accountability from the Dutertes,
+        and they push for the public’s interest.]'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4282b161-211c-4e9b-9a6e-64d8d4a8c510'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.188+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.188+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Other issues, Tinio said, that should be advocated by the possible
+        opposition include bringing prices of commodities down, providing a family
+        living wage, and upholding human rights.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6fb4512d-46ac-4a02-a5e4-79a132328116'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.188+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.426+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.188+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Should the party-list win a House seat again, they pledge to lobby
+        for raising the starting salary of teachers to P50,000.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2ea3d32d-3e6b-4152-807b-c9655e23018b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T17:43:17.188+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:30.427+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T17:43:17.188+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, Castro stressed the importance of having a teacher representative
+        at the Senate as some measures were left unnoticed.</p>'
+  'olivia-rodrigo-guts-concert-ph-arena':
+    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T18:15:39.000+08:00
+    'imagesource': 'jcr:6808290f-7d28-4c8d-a096-51c87e0ca17c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '8dac1d70-ea58-4b10-b283-9aa78fb63957'
+    'lead': 'Filipinos Livies and local celebrities had the chance to warmly welcome
+      singer Olivia Rodrigo during the Manila leg of her ‘Guts’ concert on Saturday
+      in what the Filipino-American said was her biggest show yet.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T18:18:33.166+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:29.914+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:57.364+08:00
+    'mgnl:lastModified': 2024-10-06T20:57:15.533+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Philippine-Arena', 'Guts-World-Tour', 'Olivia-Rodrigo']
+    'stories': []
+    'template': '1'
+    'title': 'Pinoy Livies, local celebs welcome ‘pinsan’ Olivia Rodrigo in her ‘Guts’
+      show in Manila'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd700807a-2c8d-4392-9d38-cf1050cad477'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.203+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.916+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.512+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong>&nbsp;Filipino fans
+        and local celebrities had the chance to warmly welcome singer Olivia Rodrigo
+        during the Manila leg of her "Guts" concert on Saturday, Oct. 5, in what the
+        Filipino-American said was her biggest show yet.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1200253b-1f7a-45b6-ae02-65f31685b759'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.203+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.917+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.512+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Fondly called by Filipino fans as “pinsan” or cousin, Rodrigo rocked\
+        \ the stage at the Philippine Arena, performing her hits from her two albums\
+        \ \"GUTS\" and \"SOUR\" in front of 55,000 fans.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '909dffc9-fe4b-49c8-99a5-5614cabd986b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.204+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.918+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.513+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5ad88544-c964-4f2b-b44c-cc6859112e2f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.204+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.918+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.513+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The 21-year-old pop star's night on Philippine soil was no ordinary\
+        \ show as it only sold “Silver Star” tickets worth P1,500 in random seating,\
+        \ to Filipino Livies, the nickname of her fans. Ticket proceeds would go to\
+        \ her \"Fund 4 Good\" initiative for women's reproductive health rights.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88f94583-d77b-47c9-a144-b6c14bbb9f58'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.205+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.919+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.514+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bb56baf8-942b-4471-9b06-7943ce3b575a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.205+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.919+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.515+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Among the celebrities present was former Going Bulilit star Sharlene\
+        \ San Pedro, who jokingly posted a photo where she was seen squinting to catch\
+        \ a glimpse of Rodrigo on stage. \r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a8730c18-0d1e-4576-bf91-d4ad894e2413'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.205+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.920+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.515+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4b08ed47-6984-4984-a9f0-0db7977bf99b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.206+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.921+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.516+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "She was seated at the upper box of the Philippine Arena, something\
+        \ that concertgoers would not primarily pick given the chance (if you know,\
+        \ you know).\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6db16dc4-e091-4865-9505-03492cba25cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.206+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.921+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.516+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“that was insaneeeee,” dancer and content creator Niana Guerrero
+        wrote on X (formerly Twitter), followed by crying and purple heart emojis.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b340b27b-354a-4541-8ab0-04e3cbfa9d55'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.207+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.922+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.517+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Meanwhile, Zia, the daughter of actors Marian Rivera and Dingdong Dantes,\
+        \ could not contain her joy when the singer seemingly waved at her while entertaining\
+        \ concertgoers with \"logical.\"\r"
+    '32':
+      'contentWidth': 'fit-content'
+      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“MAMA,
+        SHE SAID HI TO ME”<br><br>WATCH: Zia, the daughter of actors Marian Rivera
+        and Dingdong Dantes, turns ecstatic after Fil-Am singer Olivia Rodrigo waves
+        to her during the “Guts” World Tour concert at the Philippine Arena on Saturday.
+        Rivera also thanks the singer for giving her… <a href="https://t.co/TskWAgqLfa">pic.twitter.com/TskWAgqLfa</a></p>&mdash;
+        NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1842787191002739064?ref_src=twsrc%5Etfw">October
+        6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e92f07ef-27ac-4c62-b026-ca65dd39b579'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:05:48.954+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.923+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.518+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'embedCode'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '55aec8fe-0d89-41df-b0f3-87f3f4db1b9b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.207+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.923+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.518+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '990fd5f0-73cd-4584-a42e-ef399e1b9a2b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.208+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.924+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.519+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Mama, she looked at me,\" the 8-year-old Zia said, as seen in a video\
+        \ posted by Rivera on Instagram.\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0dfa5331-914f-4042-bad5-d95fcfa83b23'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.208+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.925+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.519+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '93863b17-732b-468f-92de-dd8409089b3a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.209+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.925+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.520+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Kung saan ka masaya, Anak, nandito lang kami para suportahan ka [We\
+        \ support you, Zia, in what makes you happy]!\" the actress wrote, also thanking\
+        \ Rodrigo in the caption for giving her daughter a night to remember.\r"
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '26b118f2-1851-42ea-ab32-5eff527ef9f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.209+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.926+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.520+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '284547d2-d1a2-4426-b5b2-84763fb1f10b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.209+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.927+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.521+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Actor Elijah Canlas had an emotional night as well. He shared that\
+        \ he brought a picture of his late youngest brother JM, who was a fan of the\
+        \ singer, when he watched the concert.\r"
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '560c89de-891a-4d1d-b2ab-68187b493311'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.210+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.927+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.522+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1d48782e-6572-4941-a547-42fa1368dfc1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.211+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.522+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "JM died at the age of 17 in August 2023.\r"
+    '33':
+      'contentWidth': 'fit-content'
+      'embedCode': '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">LOOK:
+        Actor Elijah Canlas brings with him a picture of his late youngest brother
+        JM, who is a fan of Olivia Rodrigo, to the “Guts” World Tour concert at the
+        Philippine Arena on Saturday.<br><br>“Kahit mag-isa lang ako kanina at may
+        konting buhos ng luha, ramdam kitang sumasabay sa… <a href="https://t.co/EeC5rPwtoY">pic.twitter.com/EeC5rPwtoY</a></p>&mdash;
+        NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1842788596404937024?ref_src=twsrc%5Etfw">October
+        6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5422739d-8898-4c78-90e0-bc84c6aad174'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:05:48.957+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.928+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.523+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'embedCode'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5eb3b811-4577-423b-a584-44a93885ee79'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.211+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.929+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.523+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c98433f-8a8f-4782-9a6a-2be989b08f89'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.212+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.524+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"He (JM) made me promise to take him to an Olivia Rodrigo  concert\
+        \ someday,\" Canlas wrote in an Instagram story. \r"
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b3ce5721-382a-4a60-ab6e-a7b99ea3c6f2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.212+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.930+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.525+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b84e408-55e4-402a-a119-e4d0345388c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.213+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.931+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.525+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Kahit mag-isa lang ako kanina at may konting buhos ng luha, ramdam\
+        \ kitang sumasabay sa bawat kanta, nakangiting tumatalon, at tunay na maligaya\
+        \ [Even if I was alone and shed some tears, I felt that you were singing along,\
+        \ jumping up and down, and truly happy]. Hope you had fun,\" he added.\r"
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a24d481-e803-4779-95b5-8641d4ce9953'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.213+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.932+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.526+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c122f7ad-491b-44a4-af88-555d1cd96377'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.214+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.932+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.526+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Actress Andrea Brillantes, on the other hand, saw Rodrigo almost face\
+        \ to face. She shared that she was the first one to line up in her respective\
+        \ queue.\r"
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fdbb28bd-e072-4db2-bc69-54c2d0ffa0e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.214+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.933+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.527+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45705197-a1ba-412d-94da-85c9ef101af0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.215+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.934+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.528+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"Kaya ako lang tao nandun [because] I lined up very early for it.
+        It wasn''t VIP treatment or anything magical," she explained in an Instagram
+        story as some fans criticized her on social media.</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6ae41578-9bb8-45e3-adcd-e4ae6a5a386e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.215+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.934+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.528+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cfd51330-7ac2-48d1-85d0-a14a2da815ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.216+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.529+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The \"Guts\" World Tour will proceed to Australia for the rest of October.\r"
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a687fddf-ad3a-47a9-bc2e-c8b8e8ba05ac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.217+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.935+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.529+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ee46dfd7-67b8-47ef-9ce5-4d42333de34c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.217+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.936+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.530+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Rodrigo will have a South America leg by March 2025.\r"
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3cfdf958-eed4-4e6d-b992-d19ecb854529'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.218+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.531+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7a96158b-b612-432f-a41e-987e4ef66814'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:18:33.219+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:29.937+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:57:15.531+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The \"Guts\" World Tour documentary will stream on Netflix, Oct. 29.\r"
+  'koko-pimentel-congress-coc':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T18:18:38.000+08:00
+    'imagesource': 'jcr:16afa75f-c11f-4786-81f2-6db7e14dd2ac'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '0ff326df-6460-4c93-8eec-bb25c724cc22'
+    'lead': 'Senate Minority Leader Koko Pimentel is seeking to continue in public
+      office as he filed his candidacy to be Marikina City 1st District''s representative
+      on Sunday, Oct. 6.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T18:20:10.354+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:28.821+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:57.576+08:00
+    'mgnl:lastModified': 2024-10-06T19:05:09.100+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['certificate-of-candidacy', 'Vote-Watch', 'Koko-Pimentel']
+    'stories': []
+    'template': '1'
+    'title': 'Pimentel bids for Marikina district representative post'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8bf14f7f-444b-49a4-8d57-31fe32c3bb2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.388+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.824+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.095+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Senate Minority Leader
+        Koko Pimentel is seeking to continue in public office as he filed his candidacy
+        to be Marikina City 1st District''s representative on Sunday, Oct. 6.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c18de48-8780-4076-8d81-65872ba53de1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.388+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.825+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.095+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83d299e5-7236-467e-b64e-9b60664846e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.389+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.825+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.096+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Pimentel is term-limited in the Senate as the Constitution only permits\
+        \ a maximum of two consecutive terms in the upper chamber.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ab88b326-823b-4154-974c-28d4b7eccb41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.389+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.826+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.096+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eba1574a-ecc6-4b7a-859e-79fa0ce02944'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.389+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.827+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.097+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He said one of his priorities is strengthening the city's shoe industry.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7020c055-1e11-4920-9898-ae95b1f5008f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.390+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.828+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.097+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '70a67795-e12d-4b23-ae6e-021cd1390425'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.390+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.828+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.098+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Pimentel is set to face in the 2025 elections incumbent Marikina Mayor\
+        \ Marcy Teodoro, who is seeking a return to the House.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '14124cd9-eefa-4ddf-b384-a2dfa628145c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.391+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.829+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.098+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b0b87537-2ed3-447d-89a6-120288a97043'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:20:10.391+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.829+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T19:05:09.099+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Teodoro filed his certificate of candidacy on Saturday. He previously\
+        \ served as the district's representative from 2007 to 2016.\r"
+  'another-gatchalian-to-try-hand-at-politics':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T18:20:27.000+08:00
+    'imagesource': 'jcr:f3ee6365-d5ec-44e3-af56-727cf14fe583'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '1ad4ac69-42b2-4423-9a99-45f4a05357a7'
+    'lead': 'Businessman Kenneth Gatchalian is eyeing to enter the political arena
+      through district representation.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T18:21:54.547+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:28.475+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:57.694+08:00
+    'mgnl:lastModified': 2024-10-06T20:27:14.781+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['political-dynasty', 'Vote-Watch', 'Kenneth-Gatchalian']
+    'stories': []
+    'template': '1'
+    'title': 'Another Gatchalian to try hand at politics'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54ae5583-946f-4450-a861-cc7a829b6f6f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.592+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.478+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.777+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Businessman Kenneth
+        Gatchalian is eyeing to enter the political arena through district representation.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a2e654fe-b68d-473a-aa63-80c15dc73089'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.593+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.479+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.777+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '508966b4-c120-4415-98c4-78429b9e4aff'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.593+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.480+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.777+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He is the brother of Sen. Win Gatchalian, reelectionist Valenzuela\
+        \ Mayor Wes Gatchalian, and Social Welfare Secretary Rex Gatchalian.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c2ae9aec-9a10-4858-84a2-5d4c58cb51e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.593+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.480+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.778+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3db99da0-2b1e-406d-8480-2c8bfbe098ed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.594+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.481+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.778+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Kenneth, 48, lodged his certificate of candidacy on Sunday, Oct. 6,\
+        \ seeking to get hold of Valenzuela's first district for the 2025 elections\
+        \ under the Nationalist People's Coalition.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c69d8ca-bff4-458c-b11e-4b1282e167e5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.594+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.482+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.779+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a292195-6a20-4a70-aafe-88b6b75f1846'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.595+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.482+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.779+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Wes filed his COC for mayoralty on the same day.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0e7ba1e2-e168-4a8e-8a10-1e86c1a434ab'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.595+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.483+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.780+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4c474af-15ed-42c4-a4d5-b5c2e1729d00'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T18:21:54.596+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:28.483+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:27:14.780+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Kenneth is the president and director of the Wellex Industries Inc.\
+        \ and a member of the board of directors of the Wellex Group. Business interests\
+        \ included hotel, real estate development, oil, mining, aviation, trading,\
+        \ and banking.\r"
+  'day-6-coc-filing':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T20:25:06.000+08:00
+    'imagesource': 'jcr:81d402cd-b8d4-4cbe-9de9-3a7e51f96397'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'da06a38f-9b40-4a37-a596-f44432cf4fc6'
+    'lead': 'A singer-lawyer and incumbent lawmakers are among the senatorial aspirants
+      on the sixth day of certificate of candidacy lodging at the Commission on Elections’
+      offsite office at the Manila Hotel.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T20:31:02.645+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:27.958+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:57.858+08:00
+    'mgnl:lastModified': 2024-10-07T08:19:20.919+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Singer-lawyer, lawmakers among Day 6 national post filers'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f41671d-45ba-429c-a6ea-e3babed6a8de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.724+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.961+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.905+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> A singer-lawyer and
+        incumbent lawmakers are among the senatorial aspirants on the sixth day of
+        certificate of candidacy (COC) lodging at the Commission on Elections’ offsite
+        office at the Manila Hotel.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ebe91a5-7e2e-40e6-9d1c-ec7b9a6ab7f7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.725+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.962+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.906+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Original Pilipino Music star Jimmy Bondoc was the first aspirant
+        who formalized his senatorial run on Sunday, Oct. 6. His <a href="https://www.newswatchplus.ph/news/2024/10/6/jimmy-bondoc-senate-coc-2025-polls.html">legislative
+        agenda</a> includes anti-corruption and boosting entertainment industry measures.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9960bf7-866e-4786-ad98-98a0c87990d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.725+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.962+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.906+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>ACT-CIS Party-list Rep. Erwin Tulfo is eyeing to join his brother
+        Senator Raffy Tulfo in the upper chamber. His other brother, broadcaster <a
+        href="https://www.newswatchplus.ph/news/2024/10/5/ben-tulfo-coc-senator.html">Ben
+        Tulfo</a>, has the same desire.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '76c7988d-7545-45ed-b6a8-e6d28b74bf5b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.726+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.963+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.907+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>If the brothers’ Senate bid succeeds, there will be <a href="https://www.newswatchplus.ph/news/2024/10/6/erwin-tulfo-dynasty.html">three
+        Tulfos</a> in the Senate.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7c616696-a579-48a9-88a9-f5ad562b7f1d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.964+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.907+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Senator Pia Cayetano, meanwhile, is seeking another term.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b7348fba-96c3-4aae-aa98-74ee9869285d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.965+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.908+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The following also filed their COCs for senator: Junbert Guigayuma,
+        Wilson Amad, Sixto Lagare, Ernesto Arellano, and John Rafael Escobar.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4fccf92f-b823-45e1-9a93-dcdcdec3fadc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.727+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.965+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.908+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Guigayuma is a tribal leader who wants to end land grabbing and create
+        tribal courts.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'db7b9404-5be3-4dc9-b069-422944db4e23'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.728+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.966+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.909+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Amad, a vice presidential bet in the 2022 polls, plans to break political
+        dynasties and raise the pension of the elderly to make it equal to the minimum
+        wage.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5edbccec-5a75-4337-be66-6c83965ef785'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.728+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.967+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.909+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lagare, meanwhile, has been declared a nuisance candidate thrice. He
+        is running again to amend the Bill of Rights.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'acad951e-ea50-4277-b3cd-df607bd5d13f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.729+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.967+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.910+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Arellano is a lawyer who advocates social change.</p>'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46fdf63b-39d7-4c84-9ae0-92124cb8fecb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-07T08:12:54.281+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.968+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.910+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Escobar will run as an independent bet.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '42995a7f-f482-4616-82a3-4c8ea3dbf998'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.729+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.969+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.911+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>On the other hand, nominees of 14 party-lists lodged their certificate
+        of nomination and acceptance:</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f35830c0-2fc5-49f7-81f3-82274502e0da'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.730+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.969+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.911+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Pinoy Workers Party-list</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3c45e68-e4fb-446b-87fc-d06c03f8284d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.730+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.970+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.912+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ API (Abante Pangasinan Ilokano) Party-list</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '904127e9-c746-4fbf-9274-56466842c7af'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.731+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.971+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.913+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Tupad Party-list</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f122e275-6cca-4f69-ac6e-6365a15f506e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.731+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.971+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.913+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Unyon ng mga Gabay ng Bayan Party-list</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6480bbfc-92aa-4eaa-ab7a-78a3df6138e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.732+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.972+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.914+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ P3PWD (Komunidad ng Pamilya, Pasyente, at&nbsp; Persons with Disabilities
+        Party-list</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '730b49b3-588d-4b75-8d8c-8564e31c32e4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.732+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.973+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.914+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Epanaw Sambayanan Party-list</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0ed35694-1c2e-4923-99a9-11209d09a206'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.733+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.973+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.915+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Edukasyon Party-list</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46e831ce-b246-434d-9638-b7f534ec9bee'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.733+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.974+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.915+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Pusong Pinoy Party-list</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b0ec9e3a-ca31-4e85-a27b-52c45c9a048f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.734+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.974+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.916+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ SSS-GSIS Pensyonado Party-list</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '237e27df-b9b5-4022-9c53-e71ad5a9dc3b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.734+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.975+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.916+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ ACT Teachers Party-list</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5dd5c7d1-7591-415a-a964-db6327a909b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.735+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.976+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.917+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ RAM (Rebolusyonaryong Alyansang Makabansa) Party-list</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4d807be9-a3d2-4023-a6ca-eae816f0023e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-07T08:19:20.888+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.976+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.888+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ TicTok (Tulong Ipamahagi sa Communidad Tungo Onsa Kaunlaran) Party-list</p>'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b422cf4-a3e2-4ac4-8880-c2351d4d54cc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.736+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.977+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.917+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ PDYN (Ako Padayon Pilipino) Party-list</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '430d991f-db78-4236-b654-a0f299fe567a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:31:02.737+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.977+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-07T08:19:20.918+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>+ Aral Patriots Party-list</p>'
+  'comelec-guanzon-overtime':
+    'author': 'Daniza Fernandez, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T20:31:27.000+08:00
+    'imagesource': 'jcr:5ed3c022-bcb3-4757-905e-a1d9b14df38a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '994f59e3-cfc8-4e2a-86e8-36968c23ca36'
+    'lead': 'Commission on Elections chairman George Garcia apologized after former
+      poll official Rowena Guanzon exceeded her time with the media.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T20:38:54.679+08:00
+    'mgnl:createdBy': 'daniza-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:26.882+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:58.053+08:00
+    'mgnl:lastModified': 2024-10-06T20:38:54.712+08:00
+    'mgnl:lastModifiedBy': 'daniza-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Comelec apologized for Guanzon’s overtime with media'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c0ac53d0-33e2-4d23-8e37-7cd6db832c2c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.698+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.885+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.698+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Commission on Elections
+        (Comelec) chairman George Garcia apologized after former poll official Rowena
+        Guanzon exceeded her time with the media.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '44c81daf-1f11-43fc-831b-5fcdc274fce5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.698+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.885+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.698+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Aspirants who file their certificates of candidacy and nomination and
+        acceptance before the Comelec offsite office at the Manila Hotel are given
+        two minutes to introduce themselves and eight minutes to answer media’s queries.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '65ee7e6f-2b1e-4ce4-8d88-1aa66c32a5f3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.699+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.886+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.699+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Guanzon, a former Comelec commissioner, lodged her certificate of nomination
+        and acceptance as first nominee of P3PWD Party-list.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'adafc976-9b2c-4def-b953-77ebce7319da'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.699+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.887+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.699+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'After filing, her time with the media took around 30 minutes.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6d561c50-09e4-449b-8088-2e3de52615cb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.699+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.888+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.699+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Hindi ko kinukundena ‘yun. Hindi ko sinasabing mali ‘yun. Ang sinasabi
+        ko lang, may patakaran tayo, lahat naman sumunod,” Garcia said.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd2286af7-c4af-4dde-9a9a-b29c7c8d83eb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.700+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.018+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.700+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I do not condemn that. I’m not saying that was wrong.
+        What I’m saying is we have rules and everyone followed.]'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5f181d62-ee81-45c1-a7d9-751beae069e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.700+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.024+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.700+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '“Ako na ang personal na humihingi ng paumanhin sapagkat nakita n’yo
+        naman hindi pagkukulang ‘yun ng Comelec,” he went on. “That is really beyond
+        what is required sana sa ating rules.”'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0e091091-b6a4-45ea-aeee-ecdec2ef2ff8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.701+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.025+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.701+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: I am personally asking to excuse us because that is not
+        the shortcoming of the Comelec.]'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c8e3c7ff-191c-4c70-9318-713543d80368'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.701+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.027+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.701+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Garcia assured the public that everyone will be treated fairly.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3f4d4f8d-97b6-4ca1-9e48-47dd316a02d9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.701+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.028+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.701+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meanwhile, Guanzon vowed to increase the budget for special education,
+        should her party-list win a slot at the House of Representatives.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4e28fb7e-81bc-4853-9b13-60a2085785af'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.702+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.029+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.702+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': 'She said that they will work on issues that are of national interest.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1d3b6841-1923-4df0-a716-536fbb4de828'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T20:38:54.702+08:00
+      'mgnl:createdBy': 'daniza-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:27.030+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T20:38:54.702+08:00
+      'mgnl:lastModifiedBy': 'daniza-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Among their planned legislations are the full disclosure and equality
+        bills.</p>'
+  'La-Salle-UP-UAAP-Season-87-first-round':
+    'author': 'CJ Marquez, NewsWatch Plus'
+    'caption': 'Courtesy: UAAP Season 87 Media Team'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-10-06T22:45:38.000+08:00
+    'credit': 'Courtesy: UAAP Season 87 Media Team'
+    'imagesource': 'jcr:59a12c0d-b403-4487-a3f8-22ebdd01a8a2'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '14c87898-7490-479c-a32c-5749ca872956'
+    'lead': 'The De La Salle University Green Archers handed the University of the
+      Philippines Fighting Maroons their first loss in UAAP Season 87 men’s basketball.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-06T22:49:19.263+08:00
+    'mgnl:createdBy': 'cj-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:26.506+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:58.175+08:00
+    'mgnl:lastModified': 2024-10-06T22:49:19.285+08:00
+    'mgnl:lastModifiedBy': 'cj-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'UAAP: La Salle weathers UP rally to grab top spot at end of first round'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd4338efb-f341-4726-8ce4-f33eef8aa0a2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.275+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.508+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.275+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> In the highly-anticipated
+        finals rematch, the De La Salle University Green Archers reasserted their
+        mastery over the University of the Philippines Fighting Maroons, 68-56, on
+        Sunday in UAAP Season 87 men’s basketball at the Mall of Asia Arena in Pasay
+        City.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '796fa69b-2c37-499d-a19b-f883e89c5430'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.276+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.509+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.276+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Reigning Most Valuable Player Kevin Quiambao led the attack for the
+        Green Archers with 20 points and 10 rebounds.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8ea42835-c5c9-455d-afac-92dcd011a9aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.276+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.510+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.276+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Fighting Maroons crawled their way back from a 20-point deficit
+        in the second half.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b2ad52fc-7bab-415d-a2fc-7aa8555ae993'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.277+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.510+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.277+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'La Salle went on a 10-2 run highlighted by a dagger three-pointer by
+        Quiambao to seal the win for La Salle.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5bde31c1-a24c-4ae3-a94a-f2ec18b4253d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.277+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.511+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.277+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Outside shooting was the difference in the match as the Green Archers
+        converted 11, while UP only had two.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '80fa1ce5-421f-46a2-a3b4-06eb3cb5aa35'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.277+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.512+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.277+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Joshua David added 14 points and seven rebounds for La Salle.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a12ed5af-3d70-492a-8d88-523f67ad9337'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.278+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.512+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.278+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': 'Harold Alarcon paced the Fighting Maroons with 19 markers and five
+        boards.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa430090-5e89-4c6d-91ce-9ccafbfbf1bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-10-06T22:49:19.278+08:00
+      'mgnl:createdBy': 'cj-nwp'
+      'mgnl:lastActivated': 2025-03-13T13:10:26.512+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-10-06T22:49:19.278+08:00
+      'mgnl:lastModifiedBy': 'cj-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The Green Archers now occupy the top spot in the team standings
+        with a 6-1 win-loss record, while making sure there is no stepladder in the
+        playoffs after putting a halt to UP’s six-game winning streak.</p>'
+  'untitled':
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:folder'
+    'jcr:uuid': '778bb20d-15ce-4ea3-bcb4-504148e0108f'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-10-16T11:45:30.103+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T13:10:26.116+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:43:58.266+08:00
+    'mgnl:lastModified': 2024-10-16T11:45:30.103+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'

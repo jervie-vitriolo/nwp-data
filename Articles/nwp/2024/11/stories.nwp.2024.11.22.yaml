@@ -1,0 +1,2407 @@
+'22':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'ba372019-4523-410f-97e8-ad5bbf615147'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-11-22T10:35:51.031+08:00
+  'mgnl:createdBy': 'jelo-nwp'
+  'mgnl:lastActivated': 2025-03-13T12:37:35.253+08:00
+  'mgnl:lastActivatedBy': 'nelsonp'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:55.451+08:00
+  'mgnl:lastModified': 2024-11-22T19:32:56.072+08:00
+  'mgnl:lastModifiedBy': 'tristan-nwp'
+  'doe-forecast-fuel-price-hike':
+    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    'caption': 'A motorist gasses up at a local pump station in Metro Manila. (NewsWatch
+      Plus/File)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T10:35:56.000+08:00
+    'imagesource': 'jcr:554b70e9-7f73-4dfa-a273-79d6e0baf616'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'edc55b4c-ef53-433e-be1c-6f1c4c31acec'
+    'lead': 'Motorists could brace for an upside adjustment in pump prices next week,
+      the Department of Energy said on Friday.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T10:40:55.803+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:24.769+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:55.646+08:00
+    'mgnl:lastModified': 2024-11-22T10:40:55.886+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Department-of-Energy', 'Oil-price-forecast', 'Business']
+    'stories': []
+    'template': '1'
+    'title': 'DOE: Fuel price hike seen next week'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b745979f-6c6b-4b54-85e0-56a522cb8f34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.877+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.772+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.883+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Motorists could brace
+        for an upside adjustment in pump prices next week, the Department of Energy
+        said on Friday, Nov. 22.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '090ef424-5a7f-4c07-aec1-bb531a00fb94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.877+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.772+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.877+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "According to the DOE forecast, gasoline prices may go up by P0.70 to\
+        \ as much as P0.90 per liter next week.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '802ee98a-c842-41ae-9093-a42849191441'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.878+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.773+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.878+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Per-liter prices of diesel may increase by a range of P0.70 to P1,\
+        \ while P0.60-P0.70 for kerosene.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3995652-ed18-4cda-b9db-3e5523df636e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.878+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.774+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.878+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The DOE attributed next week’s possible price increase to the “escalating\
+        \ geopolitical situation around Russia” which it said “continued to dominate\
+        \ sentiment, underpinning the week’s gains.”\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e80fd2a-1671-4796-897a-89c37973f52c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.878+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.774+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.878+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Other reasons included the heavy losses and lower production of Russia’\
+        s oil refinery business, making them at risk of plant closure, and Norway’\
+        s reported oil production outage.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '544d5692-3e16-420e-b165-29941d68b7cc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.879+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.879+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Oil firms implemented a rollback this week.\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4d9ad97c-1b8b-4159-97ff-f927efd42a5d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T10:40:55.879+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T10:40:55.879+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "According to DOE monitoring, year-to-date adjustment of gasoline and\
+        \ diesel stood at a net increase of P10.15 per liter and P9.40 per liter,\
+        \ respectively. Kerosene had a net decrease of P1.40 per liter.\r"
+  'elon-musk-australia-soc-med-ban':
+    'author': 'Reuters'
+    'caption': 'Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of
+      X looks on during the Milken Conference 2024 Global Conference Sessions at The
+      Beverly Hilton in Beverly Hills, California, U.S., May 6, 2024. REUTERS/David
+      Swanson/File Photo'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T11:35:39.000+08:00
+    'imagesource': 'jcr:a43f5db6-d4b4-429e-addc-839c24023627'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b37df920-c2ca-46cb-a866-ba01699b280f'
+    'lead': 'U.S. billionaire Elon Musk, owner of social media platform X, has criticised
+      Australia''s proposed law to ban social media for children under 16 and fine
+      social media platforms of up to A$49.5 million ($32 million) for companies for
+      systemic breaches.
+
+      '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T11:37:47.054+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:24.440+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:55.786+08:00
+    'mgnl:lastModified': 2024-11-22T11:37:47.089+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Australia', 'Elon-Musk']
+    'stories': []
+    'template': '1'
+    'title': 'Elon Musk blasts Australia''s planned ban on social media for children'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5574fde4-4ea5-4062-8b7f-9a01e061aa26'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.078+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.442+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.085+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Sydney, Australia -</strong> U.S. billionaire Elon Musk,
+        owner of social media platform X, has criticised Australia''s proposed law
+        to ban social media for children under 16 and fine social media platforms
+        of up to A$49.5 million ($32 million) for companies for systemic breaches.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2fcc1a4f-9721-4342-980c-87098b420184'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.079+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.443+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.079+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Australia''s centre-left government on Thursday introduced the bill
+        in parliament. It plans to try an age-verification system to enforce a social
+        media age cut-off, some of the toughest controls imposed by any country to
+        date.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7cd0d672-0575-4543-be28-3e8a02a88127'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.079+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.444+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.079+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"Seems like a backdoor way to control access to the Internet by all
+        Australians," Musk, who views himself as a champion of free speech, said in
+        a reply late on Thursday to Prime Minister Anthony Albanese''s post on X about
+        the bill.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e6bfba26-5aae-44c6-ba66-cdf6edeadb22'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.080+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.445+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.080+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Several countries have already vowed to curb social media use by children
+        through legislation, but Australia''s policy could become one of the most
+        stringent with no exemption for parental consent and pre-existing accounts.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '51441e7f-ec29-47fd-afb9-ff5f3243f879'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.080+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.445+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.080+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'France last year proposed a ban on social media for those under 15
+        but allowed parental consent, while the U.S. has for decades required technology
+        companies to seek parental consent to access the data of children under 13.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0bece93c-64b4-474d-807b-7b162d9d9751'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.080+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.446+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.080+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Musk has previously clashed with Australia''s centre-left Labor government
+        over its social media policies and had called it "fascists" over its misinformation
+        law.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b518418e-df1e-4187-909f-ce2e5a1c1dc1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.081+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.447+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.081+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In April, X went to an Australian court to challenge a cyber regulator''s
+        order for the removal of some posts about the stabbing of a bishop in Sydney,
+        prompting Albanese to call Musk an "arrogant billionaire".'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05617015-6b9a-4393-a64b-ab5bc65615e0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:37:47.081+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:24.447+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:37:47.081+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Renju Jose in Sydney; Editing by David Gregorio)</em></p>'
+  'taiwan-pacific-allies':
+    'caption': 'Taiwan President Lai Ching-te speaks at an event marking the 75th
+      anniversary of the Battle of Guningtou, on Kinmen island, Taiwan October 25,
+      2024. REUTERS/Annabelle Chih'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T11:38:43.000+08:00
+    'imagesource': 'jcr:8521bc8d-c897-4e41-a4f1-b26af490c04c'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'f9ebcd5b-e1ca-4806-bfad-b916a2bc8169'
+    'lead': 'Taiwan President Lai Ching-te will visit Taipei''s three remaining diplomatic
+      allies in the Pacific on a trip starting at the end of the month, his office
+      said on Friday, but the government declined to give details on U.S. transit
+      stops.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T11:40:47.021+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:23.324+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:55.965+08:00
+    'mgnl:lastModified': 2024-11-22T11:40:47.057+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Taiwan', 'Lai-Ching-te']
+    'stories': []
+    'template': '1'
+    'title': 'Taiwan''s president to visit Pacific allies, no details on US transits'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa99ae1e-a658-42f7-baa9-0f9e802db59b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.038+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.327+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.051+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Taipei, Taiwan -</strong> Taiwan President Lai Ching-te
+        will visit Taipei''s three remaining diplomatic allies in the Pacific on a
+        trip starting at the end of the month, his office said on Friday, but the
+        government declined to give details on U.S. transit stops.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0be6cc0-20ac-4e57-bbf7-0b2e37e1facb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.039+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.327+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.039+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Taiwanese presidents usually use visits to allied countries to make
+        what are officially stop-overs in the United States, Taiwan''s most important
+        international backer and arms supplier, which frequently anger Beijing.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9a66784-fe00-481d-85db-f01fdfef445f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.039+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.328+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.039+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'On two occasions in the past two years China staged military drills
+        around Taiwan after presidential or vice-presidential stopovers in the United
+        States.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c22ade78-d341-4407-9b65-426f2a89d98d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.039+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.329+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.039+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'On those stopovers, Taiwanese presidents often meet with friendly politicians
+        and give speeches. Reuters reported last week that Lai was planning to stop
+        off in Hawaii and maybe the U.S. territory of Guam while he was in the Pacific.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c26919f8-d1be-4bc1-bae2-db96d8b1e068'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.040+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.329+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.040+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Asked repeatedly by reporters at a news conference for details on the
+        stop overs, Deputy Taiwan Foreign Minister Tien Chung-kwang said they were
+        in the planning stages and would be announced at an "appropriate time".'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '36f84653-32be-4e5b-8db6-02bc5396a002'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.040+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.330+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.040+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '"But there is a principle, which is that they are handled with safety,
+        dignity, convenience and comfort" in mind, Tien added.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fc129739-9c93-43b1-be28-c73e5c0f76e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.041+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.041+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'China''s foreign ministry did not respond to a request for comment.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fe252d59-25ef-4ea8-8743-16885286a85c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.041+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.331+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.041+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Of the 12 countries which maintain formal diplomatic ties with Chinese-claimed
+        Taiwan, three are in the Pacific - Palau, the Marshall Islands and Tuvalu
+        - and Lai will go to all of them starting from Nov. 30, his office said.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4f2d380b-cf40-417c-a533-96d5bddb2cef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.042+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.332+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.042+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'His official schedule has him then arriving in the Marshall Islands
+        only in the following week, on Dec. 3, without saying where he would be in
+        the intervening period.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffbd1147-f2c0-43c7-9cf9-b8c931bf3c3a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.042+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.332+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.042+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The Pacific island nations visits are also important as China is competing
+        for influence with the United States there and has been gradually whittling
+        away at the number of countries in the region who retain ties with Taiwan.
+        In January, tiny Nauru switched relations back to Beijing.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88cd1290-dddf-4037-938a-1a0774b3ed46'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.042+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.333+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.042+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'China has ramped up its military activities around Taiwan in the past
+        five years, including holding another round of war games in May shortly after
+        Lai''s inauguration it said were a warning to "separatist acts"'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8db2986-2bb5-4dad-a9d9-463067469511'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.043+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.334+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.043+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Taiwan''s government rejects Beijing''s sovereignty claims and says
+        it has a right to engage with other countries and for its leaders to make
+        foreign trips.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f33a6a3-3294-45bb-bc9e-5bb73a63bd02'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.043+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.334+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.043+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In August of last year, China held a day of military drills around
+        Taiwan after then-vice president Lai returned from the United States, where
+        he officially made only stopovers but gave speeches on his way to and from
+        Paraguay.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd55878c6-18da-41d3-a4fa-c71d58042b5b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.044+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.335+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.044+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In April of last year, China also held war games around Taiwan in anger
+        at a U.S. trip by then-president Tsai Ing-wen, who met then-U.S. House of
+        Representatives Speaker Kevin McCarthy in Los Angeles. In 2017 and 2019, Tsai
+        stopped in Hawaii during her visits to Pacific allies.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e346df00-38af-4f92-ae53-46dd349af357'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:40:47.044+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:23.335+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:40:47.044+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>(Reporting by Ben Blanchard and Roger Tung; Editing by Christian
+        Schmollinger and Michael Perry)</em></p>'
+  'sara-duterte-visist-zuleika-lopez':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T11:42:48.000+08:00
+    'imagesource': 'jcr:7534de69-a75b-4c09-a68f-f44b7eae4300'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '845b3a6b-7c4f-4c01-91ed-0e92636b2e46'
+    'lead': 'Vice President Sara Duterte visited her chief of staff, Zuleika Lopez,
+      in her detention facility at the House of Representatives on Thursday, Nov.
+      21, to serve a contempt order for supposedly obstructing the probe on questionable
+      confidential fund spending.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T11:45:12.267+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:22.734+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:56.224+08:00
+    'mgnl:lastModified': 2024-11-22T11:45:12.307+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Sara-Duterte', 'Zuleika-Lopez']
+    'stories': []
+    'template': '1'
+    'title': 'Duterte visits detained chief of staff at House of Representatives'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4e65e7c-a8b9-48e8-89fe-0fbe075cb4c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.290+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.737+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.302+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
+        Duterte visited her chief of staff, Zuleika Lopez, in her detention facility
+        at the House of Representatives on Thursday, Nov. 21, to serve a contempt
+        order for supposedly obstructing the probe on questionable confidential fund
+        spending.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5dc3b2ab-2c79-47bb-9156-7de42a613f7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.290+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.738+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.290+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'House Secretary General Reginald Velasco said the vice president spent
+        the night at her brother’s office, Davao Rep. Paolo Duterte.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cd205ca0-b152-4678-8d82-1f43676c953a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.291+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.739+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.291+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Dumating siya around 8 pm kagabi, binisita niya si Attorney Lopez,
+        tapos at 10 pm, kasi yun ang limit ng visit to a detainee, she decided to
+        go to the office of Congressman Pulong Duterte,” Velasco told NewsWatch Plus
+        in an interview.  '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c67ff0f5-8380-419b-a629-cdde4ccadbb9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.291+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.739+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.291+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: She arrived around 8 pm last night, visited Attorney
+        Lopez, and then at 10 pm, because that’s the limit for visits to a detainee,
+        she decided to go to Congressman Pulong Duterte’s office.]'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2d718aea-879d-4d7f-9a68-b63593e6e3bf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.292+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.740+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.292+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"Hindi pa namin alam ano gagawin niya next," said Velasco.  '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8cd0e595-a067-46f3-804c-81b0191fc42a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.292+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.741+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.292+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We don’t know yet what she will do next.]'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '51d93669-a4fc-47ce-abbb-338e80079c92'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.292+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.741+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.292+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte was still in the House premises as of Friday morning'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '219ae7e7-945f-49f2-9828-139a8a40178d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.293+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.742+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.293+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Velasco said the House Sergeant-at-Arms is now coordinating with its
+        counterparts to make sure the vice president is secure.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd06f59a5-90b6-4007-8d5c-cbd8981bb7b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.293+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.743+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.293+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lawmakers ordered the detention of Lopez on Wednesday, Nov. 20.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bde9717e-88db-4094-bc64-b41f1e27736c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.294+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.743+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.294+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'ACT Teachers party-list Rep. France Castro made the motion for detention,
+        citing “undue interference,” based on Lopez’s letter to the Commission on
+        Audit that requested to disregard the subpoena for confidential fund documents
+        issued by the House committee on good government and public accountability.'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '484848bf-4adf-49b9-b6b3-6dfd002a1dfd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.294+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.744+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.294+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lopez will remain in detention until Nov. 25. She has appealed the
+        arrest.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e66bb632-fba6-4348-82c9-11851e9e83b7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.295+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.745+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.295+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“It was just a respectful request to the Commission on Audit. There
+        was no intention to demand from them or to order them or to commandeer them
+        into something that they did not want to do,” Lopez said.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '16bd138c-5bb5-442c-a812-65e9b16ed46e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.295+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.745+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.295+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lawmakers upheld their decision.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '49f4f0a2-2b77-4255-8551-ec8154ee5e07'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T11:45:12.296+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.746+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T11:45:12.296+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>NewsWatch Plus Correspondent Daniza Fernandez contributed to
+        this report.</em></p>'
+  'marcos-aid-nueva-vizcaya-typhoon-impact':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T15:59:12.000+08:00
+    'imagesource': 'jcr:8c109ac7-3945-42c4-8351-1482e3ee4375'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b422f1ec-d20f-4a65-a66a-b7104c98eb3f'
+    'lead': 'President Ferdinand R. Marcos Jr. on Friday, Nov. 22, pledged continuous
+      government support for the typhoon-stricken people of Nueva Vizcaya until they
+      fully recover from the devastation from three successive typhoons.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T16:00:54.011+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:22.257+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.1'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:56.485+08:00
+    'mgnl:lastModified': 2024-11-22T16:00:54.057+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Marcos vows sustained aid for Nueva Vizcaya typhoon victims'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d7c29c1-9cdf-4622-9587-bb564dc0867e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.038+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.259+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.052+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines–</strong> President Ferdinand
+        R. Marcos Jr. on Friday, Nov. 22, pledged continuous government support for
+        the typhoon-stricken people of Nueva Vizcaya until they fully recover from
+        the devastation from three successive typhoons.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7d880972-2401-43b0-9222-45a378f3b789'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.040+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.260+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.040+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'During an aid distribution in Bambang town, the president handed over
+        ₱52 million in financial aid and more than 1,000 boxes of family food packs
+        to affected families.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eab88b45-59a4-4f33-80c8-7bd1bba84fa2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.041+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.261+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.041+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kaya po ito lahat ay pinagsasama-sama natin kasi ang aming gagawin
+        ay mula ngayon, we will continue to distribute itong relief goods hanggang
+        hindi na nangangailangan ang ating mga kababayan, ang mga tiga-Vizcaya,” Marcos
+        said. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba11ec2e-5fde-485d-9825-2795397c9f81'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.041+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.261+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.041+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation:That’s why we are pooling all these resources because
+        starting now, we will continue distributing relief goods until our fellow
+        Filipinos in Vizcaya no longer need them.] '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '67726ddc-fde9-41d7-a2bc-63d2fd758523'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.042+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.262+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.042+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Of the total aid, ₱50 million came from the Office of the President,
+        and ₱2.5 million from the Department of Social Welfare and Development’s Assistance
+        to Individuals in Crisis Situation (AICS).'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45c9f7ce-caff-49de-a01c-e2d7d51a485c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.043+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.263+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.043+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'At least 500 beneficiaries received ₱5,000 each through AICS.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64d80f76-9c6e-4468-817d-f34480764703'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.044+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.263+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.044+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Tuloy-tuloy ‘yan hangga’t makabalik na kayo sa inyong tinitirahan
+        at kaya na ninyong bumalik sa dati ninyong buhay,” the president said.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a9ef40ae-e7e5-4d95-bd35-7ca4f071e75b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.044+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.264+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.044+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: This will continue until you can return to your homes
+        and resume your normal lives.]'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c7dbcc8b-9e1e-4d65-9d62-2b646b2aad96'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.045+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.264+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.045+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The National Disaster Risk Reduction and Management Council reported
+        that the three typhoons impacted over 8,000 families, equivalent to 27,700
+        people, in the entire province.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91692aae-45fb-44c3-a43d-4788135e7dc6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:00:54.046+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:22.265+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:00:54.046+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Of the three typhoons, “Pepito” (international name: Man-yi) caused
+        the most damage, with seven fatalities, three injuries from a landslide, and
+        one missing person. The typhoon damaged more than 2,800 houses.</p>'
+  'philippines-united-states-japan-australia-korea-defense-meeting':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T16:07:59.000+08:00
+    'imagesource': 'jcr:463d30f0-9d24-4612-af43-aa514d235e89'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '8f9e45f6-b00d-490f-abdb-057c7d954598'
+    'lead': 'Defense leaders from the Philippines, Australia, Japan, South Korea,
+      and the United States convened for the first time to strengthen multilateral
+      cooperation for a peaceful and open Indo-Pacific.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T16:10:52.548+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:21.795+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:56.644+08:00
+    'mgnl:lastModified': 2024-11-22T16:10:52.589+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['South-c', 'Indo-Pacific']
+    'stories': []
+    'template': '1'
+    'title': 'PH, 4 others reaffirm commitment to Indo-Pacific defense cooperation'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '977dd7a1-74eb-4266-8025-df45367ef19e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.565+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.798+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.565+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Defense leaders from
+        the Philippines, Australia, Japan, South Korea, and the United States convened
+        for the first time to strengthen multilateral cooperation for a peaceful and
+        open Indo-Pacific.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5bf6c92-e55f-4ae8-a860-3abf77e5c8c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.566+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.798+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.566+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Meeting in Vientiane, Laos, on Nov. 21, the ministers reaffirmed their
+        shared vision for a free, open, secure, and prosperous Indo-Pacific, emphasizing
+        respect for international law and sovereignty.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5a6458c7-b31e-462c-8d55-4d27c40c3d11'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.566+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.799+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.566+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'In attendance were Defense Secretary Gilberto Teodoro, Australian Minister
+        for Defense Industry Pat Conroy, Japanese Defense Minister Nakatani Gen, Korean
+        National Defense Minister Kim Yong-hyun, and US Defense Secretary Lloyd Austin
+        III.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2491b45c-e138-47c6-91a4-a3070a914b34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.567+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.800+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.567+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Our countries are delivering results together in support of a free
+        and open Indo-Pacific region,” Austin said.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd32bff3f-1111-4270-b081-c8e2bf97c793'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.567+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.800+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.567+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The ministers highlighted the importance of close multilateral cooperation
+        to address regional security and stability challenges.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50fa2644-45af-41c2-ae5a-bdfa77aa09e2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.568+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.801+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.568+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'They also cited the need to strengthen ASEAN (Association of Southeast
+        Asian Nations) centrality and unity, and reaffirmed their support for the
+        ASEAN-led regional framework.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88c6fe2d-db89-4d4b-ac7e-0d1adc93cb46'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.569+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.802+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.569+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The meeting followed multilateral maritime cooperative activities in
+        the West Philippine Sea with Australia, Japan, and the US that showcased a
+        growing regional commitment to maintaining peace and stability.'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45036e21-3281-4c4b-a05b-0b984d5d8600'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T16:10:52.569+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.802+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T16:10:52.569+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The leaders said they are determined to deepen collaboration and
+        continue efforts to uphold shared values and principles.</p>'
+  'senate-ovp-budget-possible-increase':
+    'author': 'Eimor Santos, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T17:01:56.000+08:00
+    'imagesource': 'jcr:d3f235b6-3fda-45cd-b7e6-6820b2d894fe'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'c4ccaf8b-0212-461f-9745-98479ac651be'
+    'lead': 'Senator Joel Villanueva said at least seven colleagues support his call
+      to increase the Office of the Vice President''s budget for next year, following
+      a significant cut in the versions approved by the House and a Senate committee.
+
+      '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T17:03:26.383+08:00
+    'mgnl:createdBy': 'eimor-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:21.474+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:56.800+08:00
+    'mgnl:lastModified': 2024-11-22T17:03:26.440+08:00
+    'mgnl:lastModifiedBy': 'eimor-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'At least 8 senators want to increase OVP budget – Villanueva'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d02043e-fd1b-4c02-a7ba-02e3f1549559'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.421+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.476+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.434+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines</strong> – Senator Joel Villanueva
+        said at least seven colleagues support his call to increase the Office of
+        the Vice President''s budget for next year, following a significant cut in
+        the versions approved by the House and a Senate committee.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ec04de81-f375-4cc4-b344-8a1000a23efe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.422+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.477+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.422+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“I've spoken to like [seven] members na pareho ng aking pananaw na\
+        \ increase-an ang budget ng Office of the Vice President mula doon sa GAB\
+        \ (General Appropriations Bill) na ipinasa ng Congress,” Villanueva told reporters\
+        \ on Friday, without naming names.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c69b7162-6211-42fd-afe2-536f9d1911b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.422+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.478+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.422+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: I've spoken to around [seven] members who share my view\
+        \ that the budget of the Office of the Vice President should be increased\
+        \ from what was approved in the General Appropriations Bill passed by Congress.]\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '22729f4e-1caa-43bf-9f33-d98ae7e7959d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.423+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.479+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.423+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“We have yet to discuss the exact amount. Pero (But), for me, at least\
+        \ a hundred, a hundred fifty (million) is decent enough to increase the budget.\
+        \ So, we'll see,” he added.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf51a0bc-909a-443c-a003-8ddc67ff1d94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.424+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.479+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.424+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "The OVP’s proposed budget stands at P733 million after a cut of P1.3\
+        \ billion in the General Appropriations Bill as approved by the House of Representatives.\
+        \ The Senate committee on finance adopted the reduced amount.\r"
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f9e135b1-ed8c-45b7-a94b-1571e19467d9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.424+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.480+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.424+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "During plenary deliberations, Senators Christopher “Bong” Go and Ronald\
+        \ “Bato” dela Rosa called for the full or partial restoration of the P2 billion\
+        \ allotted for the OVP in the National Expenditure Program submitted by Malacañ\
+        ang.\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '501d33c3-4996-4c73-97ac-3005ed943827'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.425+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.481+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.425+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "Senate panel chairperson Grace Poe noted that such changes could be\
+        \ proposed during the period of amendments next week.\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5bcf4870-cc09-48dd-a39a-c244f35ee973'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.426+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.481+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.426+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "Villanueva said his “main consideration” is the 200 OVP personnel who\
+        \ could lose their jobs if the budget is reduced, as previously highlighted\
+        \ by Vice President Sara Duterte.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '453a04ea-cfd2-4519-b69c-e08da74c5856'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.426+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.482+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.426+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“We should not be looking at the personalities involved here. So, I'm\
+        \ looking at the office, and I feel like we need to put some more social funds\
+        \ na pwedeng gamitin ng ating vice president. Kasi vice president's office\
+        \ yan (that our vice president can use. Because that’s the vice president’\
+        s office),” he added. \r"
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8a426e96-c47c-42d6-8067-c9a62549cee4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.427+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.483+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.427+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“Para sa akin lang kasi yung more than half na in-slash doon sa President's\
+        \ Fund, President's Fund ng NEP, hindi ko ho talaga makita na makatarungan\
+        \ sa isang opisina na itinuturing nating pangalawang pinakamataas na opisina\
+        \ ng pamahalaan,” Villanueva also said.\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52fbfe5b-d13e-47aa-8084-b93659868c5c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.427+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.484+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.427+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: For me, the more than half that was slashed from the\
+        \ President's Fund in the NEP, I really cannot see it as fair for an office\
+        \ that we consider the second-highest office in the government.] \r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e7fd3dda-427a-4302-a6be-c77de53d185e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:03:26.428+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.484+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:03:26.428+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In a separate press conference on Thursday, Senate Deputy Minority
+        Leader Risa Hontiveros stated that she would vote against any proposal to
+        increase the OVP budget, noting that the allocation is enough to fund its
+        programs and operations unless there is a compelling reason to change her
+        stance.</p>'
+  'senate-drug-war-hearing-contempt':
+    'author': 'Eimor Santos, NewsWatch Plus'
+    'caption': 'Senate Minority Leader Aquilino "Koko" Pimentel III (FILE PHOTO)'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T17:10:02.000+08:00
+    'imagesource': 'jcr:ac266ec2-384f-4811-aba2-f2fdf816a3a2'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '70736a0d-d9e9-4cd9-9510-93480c8475b1'
+    'lead': 'The Blue Ribbon subcommittee will only hold a second hearing on the bloody
+      drug war if it is granted the authority to cite resource persons in contempt,
+      chairperson and Senate Minority Leader Koko Pimentel says.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T17:12:24.625+08:00
+    'mgnl:createdBy': 'eimor-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:21.048+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.020+08:00
+    'mgnl:lastModified': 2024-11-22T17:13:10.146+08:00
+    'mgnl:lastModifiedBy': 'eimor-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Second Senate drug war hearing hinges on contempt powers – Pimentel'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '63e4f84b-61ac-4e44-a3a1-856326846cc4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.659+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.051+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.138+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines</strong> – The Blue Ribbon subcommittee
+        will only hold a second hearing on the bloody drug war if it is granted the
+        authority to cite resource persons in contempt, chairperson and Senate Minority
+        Leader Aquilino “Koko” Pimentel III said on Thursday, Nov. 22.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d70271d-2272-4401-a69d-5a48d73bd2a2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.660+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.051+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.139+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "“I will only schedule a second hearing if the subcommittee is given\
+        \ contempt powers. Wala kasi as of the moment na power to cite in contempt\
+        \ (As of the moment, it has no power to cite anyone in contempt),” Pimentel\
+        \ told reporters in a text message on Thursday.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '77e3fa9b-814e-43c8-94f7-5f6be96df7fe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.661+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.052+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.139+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "NewsWatch Plus has reached out to Pimentel to clarify whether he has\
+        \ made a formal motion to the Blue Ribbon committee, which is chaired by Senator\
+        \ Pia Cayetano.\r"
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '399e159a-ac39-4480-9fd9-de9321a2f24b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.661+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.053+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.140+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "In a press conference, Senate Deputy Minority Leader Risa Hontiveros\
+        \ expressed hope that a hearing could be scheduled soon, especially in light\
+        \ of reports that drug-related killings continue.\r"
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '58a3a6d1-6f17-4b92-88bd-7369c9ed856e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.662+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.053+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.140+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Wala pa pong petsa na naitakda pero fina-follow up ko po at umaasa
+        po ako na makapagtakda ng susunod na hearing kung kakayanin sana ngayong buwan
+        para mabigyang-daan ng isa pang kung huli man na hearing sa susunod na buwan
+        ng Disyembre," Hontiveros said.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1649c7b3-84df-48c2-996b-ae3ddab7cdf4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.662+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.054+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.141+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: There is no set date yet, but I am following up and I\
+        \ hope we can schedule the next hearing, hopefully this month, to allow for\
+        \ another, possibly the last, hearing in December.]\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b162799a-b927-4de7-973f-21caa33a1480'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.663+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.055+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.142+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>She also said she is "looking forward" to the attendance of former
+        Senator Antonio Trillanes IV. During a hearing of the House of Representatives’
+        quad committee last week, Trillanes presented data on alleged drug money being
+        transferred to the bank accounts of the Duterte family—a claim that former
+        President Rodrigo Duterte has denied.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ddfd5cb4-0012-45ac-ba5a-f95328f10c74'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.664+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.056+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.142+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In a text message, Trillanes said he would be “honored to attend”
+        a Senate hearing and present the same information.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f85e5ac0-9cc5-43e7-812f-face90c28385'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.664+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.056+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.143+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>However, when asked about this, Pimentel responded, “Can he execute
+        first an affidavit detailing what his testimony is all about?”</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e6aa9147-a4cc-434e-8747-380211e83ebf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.665+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.057+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.143+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': "During the first hearing of the subcommittee, Duterte admitted to having\
+        \ his own death squad and ordering the police to encourage criminals to fight\
+        \ back so they could be killed. He made further admissions at the House.\r"
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '01e36819-aa77-4a11-a61e-0ab2a3eba539'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:12:24.666+08:00
+      'mgnl:createdBy': 'eimor-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:21.057+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:13:10.144+08:00
+      'mgnl:lastModifiedBy': 'eimor-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The International Criminal Court, which is investigating Duterte’s
+        bloody war on drugs, previously confirmed to NewsWatch Plus that it is closely
+        monitoring developments in the two congressional inquiries.</p>'
+  'migratory-bird-habitat-expansion':
+    'author': 'Lance Mejico, NewsWatch Plus'
+    'caption': ' Migratory birds feed on the mudflats at the biodiversity offset site
+      in Barangay Pamarawan, Malolos, Bulacan, on Nov. 21.'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T17:15:24.000+08:00
+    'imagesource': 'jcr:b9a9de53-1ad6-483e-af50-532d469ec912'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '278f8e60-16f2-434c-8cbb-62d8a24f1e1f'
+    'lead': 'The operator of the award-winning biodiversity offset site for migratory
+      birds in Malolos, Bulacan announced expansion plans for 2025.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T17:18:49.712+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:19.855+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.194+08:00
+    'mgnl:lastModified': 2024-11-22T17:20:51.927+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['SMC']
+    'stories': []
+    'template': '1'
+    'title': 'Award-winning migratory bird habitat set to expand into more areas'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '355ccaf0-b267-415c-9228-0100414cf84a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.767+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.858+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.914+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> The operator of the
+        award-winning biodiversity offset site for migratory birds in Malolos, Bulacan
+        announced expansion plans for 2025.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd5596444-b11a-4370-b299-12e0ba2f4ea6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.767+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.858+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.915+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In an interview with NewsWatch Plus, Louie Lapeñas, biodiversity management
+        manager of “Saribuhay sa Dampalit,” said a similar habitat will be constructed
+        in Macabebe, Pampanga, and Hagonoy, Bulacan in February. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9a34c156-3d6f-4584-a1d6-9dbe15a3907c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.768+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.860+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.915+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'San Miguel Aerocity, Inc. (SMAI) launched the 47-sectare offset site
+        in Brgy. Pamarawan in Malolos in February, a first of its kind in the country.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5f6102a1-43bb-4fbc-a4eb-c3dbddc9b820'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.769+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.860+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.916+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The site serves as a feeding habitat and stopover point for migratory
+        birds along the East Asian-Australasian Flyway.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd769cc26-2540-41fd-ad41-93f7f9c9f635'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.769+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.861+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.917+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’re working in Pampanga around 77 hectares in Macabebe Pampanga.
+        We’re also looking in Hagonoy, we’re working around 30 hectares,” said Lapeñas.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05db491c-f2d9-404c-8087-2c4c8384a784'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.770+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.862+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.917+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'He said SMAI has established around 370 hectares of temporary habitats,
+        with the goal of creating 400 to 800 hectares of feeding area for migratory
+        birds. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e51121dd-c246-4bde-a1b4-8a50769eb21b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.771+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.863+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.918+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The company earlier said the program shows its commitment to environmental
+        protection while advancing critical infrastructure projects such as the New
+        Manila International Airport in Bulacan. '
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '65b00863-628d-4186-bd61-7b36e2979fbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.771+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.864+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.918+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’re moving them away from the airport because of wildlife hazards,”
+        Lapeñas said.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dc228233-912c-48e2-9dad-a5f14a279ceb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.772+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.864+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.919+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In November, SMAI was <strong><a href="https://www.newswatchplus.ph/news/2024/11/4/San-Miguel-Corporation-Biodiversity-Offset-Program-Bulacan.html">recognized</a></strong>
+        as one of Asia-Pacific’s 25 Steward Leadership Excellence awardees for the“Saribuhay
+        sa Dampalit” program.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '44a9b3e0-53f2-4bb7-92e1-d5944a0047d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.772+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.865+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.920+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Environmental managers</strong></h2>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1820cf39-759a-44e3-88ec-8d24b9d140ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.773+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.866+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.920+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Aside from environmental protection, SMAI also vowed livelihood protection
+        for those affected by the airport project. '
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6fbc470e-a606-4519-b5b0-8cbe78f4b3e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.774+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.867+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.921+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lapeñas said the group has so far employed over 60 locals from Bulacan,
+        training them to become environmental managers.'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6dbfd5b1-9545-4acf-8518-cee3c226fdb4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.774+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.868+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.921+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“The hope is for these people in the community to take ownership of
+        the program. More than the birds, we really prioritize the stomach of these
+        people and we created offset sites in a way that we’re providing feeding habitat
+        for these migratory birds but at the same time we provide food on the tables
+        for these people,” he said. '
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0bf11806-8481-4982-817e-ad27965e1599'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.775+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.869+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.922+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Joel Javier, who used to be a sailor, told NewsWatch Plus how the program
+        helped him provide for his family. He now assists in monitoring the feeding
+        site.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '23bae40a-a2f3-4091-9c00-1b8dc19c911e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.776+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.873+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.922+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kapag may alon walang dagat, maghihintay pa kami ng kalma ng dagat
+        para lang makapag-hanapbuhay ulit,” he said. '
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f5d11dfd-f6fe-4808-9ef7-d17a6e5bcbe3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.777+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.874+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.923+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: If the waves are big, we can’t sail. We need to wait
+        for it to calm down so we can work]'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd216e097-eaa2-477a-86e7-64cf1f5212ac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.777+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.876+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.924+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Lapeñas said the company is eyeing to hire a hundred more workers from
+        the community for upcoming programs in other biodiversity sites.'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc00139a-667c-42ae-819b-e2da3c5a702f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.778+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.877+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.924+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'He said he is also hopeful that the project will boost eco-tourism
+        in the area and create more opportunities for locals.'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '85c33a90-faf6-4e92-ad40-3b281047a09b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.779+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.877+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.925+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Take a look at the pioneer migratory bird habitat here.&nbsp;</p>'
+    '19':
+      'embed': '<iframe width="560" height="315" src="https://www.youtube.com/embed/1KaqdR2pMdQ?si=6K6hMI3J3wV4fgXM"
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3317efbc-c6cf-4dff-a615-b158566d48e3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T17:18:49.780+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:19.878+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T17:20:51.926+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'video'
+      'scale': 'true'
+      'type': 'embed'
+  'chua-duterte-lopez-requests':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T19:26:29.000+08:00
+    'imagesource': 'jcr:d0a70d6b-4383-4ff4-b934-1f9dabbfcf3f'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'eeaac945-99ab-44cd-ab4f-ada52403c1a0'
+    'lead': 'The House committee on good government and public accountability has
+      denied Vice President Sara Duterte’s request to join her detained chief of staff,
+      Zuleika Lopez.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T19:28:44.778+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:18.762+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.388+08:00
+    'mgnl:lastModified': 2024-11-22T19:28:44.828+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Sara-Duterte']
+    'stories': []
+    'template': '1'
+    'title': 'House panel rejects Duterte request to join staff in detention'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45f8f2db-cfb8-4748-93cf-b1d4f687b696'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.802+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.764+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.821+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> The House committee
+        on good government and public accountability has denied Vice President Sara
+        Duterte’s request to join her detained chief of staff, Zuleika Lopez.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f17e33d6-63ae-4bbe-9a75-f36d22125b67'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.803+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.765+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.803+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Committee chairperson Manila Rep. Joel Chua cited security risks and
+        protocol concerns in rejecting the request.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'faee3d96-c599-411f-95f1-52499d1d5f94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.803+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.766+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.803+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Hindi naman po natin papayagan kasi hindi naman po siya detainee.
+        At saka sa totoo lang, syempre medyo high-profile po ito eh. It will require
+        so much security. Security risk po ito dahil pangalawang pangulo po ito. I
+        do not know if we have enough security,” he said in a media briefing on Friday,
+        Nov. 22.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05278109-12c7-4b6f-b2d8-472d36887722'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.804+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.766+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.804+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We cannot allow it because she is not a detainee. And
+        honestly, this is quite high-profile. It will require so much security. It’s
+        a security risk because she’s the Vice President. I don’t know if we have
+        enough security for this.] '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '491250a7-c35f-406b-8149-2d7ceb6abe40'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.804+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.767+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.804+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The panel also denied the request to transfer Lopez to the office of
+        Davao Rep. Paolo Duterte. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94a84cdd-80f7-404c-b6ae-dfff84fffb09'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.805+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.767+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.805+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Ito po''y hindi natin na pinayagan dahil otherwise, ang mangyayari
+        po niyan, yung susunod po, yung mga iba pa pong may connection o may mga kaibigan
+        na congressman,” Chua said.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '06427f61-9e1e-478f-9b64-ff5fadec16cf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.806+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.768+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.806+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We did not allow this because if we do, others with connections
+        or congressman friends will follow suit.] '
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b1af4e50-63f4-45d4-ac3b-70f6ff41c3d8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.806+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.769+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.806+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte cited six reasons for the requested transfer, including Lopez''s
+        health concerns and peace of mind.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a5f16ad-934a-45ed-93ff-a90a4fc7e59c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.807+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.769+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.807+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“First is yung migraines. Number two, she has expressed since yesterday
+        that she is nauseous and light-headed. Number three, she has little sleep
+        because of fears for her security and safety. Number four, she is not used
+        to being alone and is worried that other detainees may cause her harm. Number
+        five, she is still experiencing fatigue due to jet lag and sadness about the
+        condition of her aunt. Number six, she has requested me to join her so she
+        may have peace of mind and get adequate rest,” Chua said, reading the humanitarian
+        reasons cited by Duterte.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '66087b7f-2084-46db-be2c-fd4aedd3e9c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.807+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.770+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.807+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Chua noted the importance of adhering to the law.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b3641abf-299b-4fdd-bde8-fd31f3525bba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.808+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.771+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.808+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kung tayo mismo hindi susunod sa batas, paano pa natin ipatutupad
+        ang mga batas? Ang atin pong pangalawang pangulo ay isang abogada. Siya po
+        ay pangalawa sa pinakamataas na opisyal ng ating bansa,” he said.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '06ff043c-0b6b-49ad-935c-dade1a769256'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.809+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.772+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.809+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: If we ourselves do not follow the law, how can we enforce
+        it? Our vice president is a lawyer. She is the second highest ranking official
+        in the country.] '
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fe6059ed-5257-4faa-925c-1c6944a250d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.809+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.773+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.809+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Chua also criticized Duterte for allegedly selectively attending House
+        investigations. He noted that while the vice president accompanied her father,
+        former President Rodrigo Duterte, during the House quad committee probe into
+        extrajudicial killings, she has continued to skip hearings on the Office of
+        the Vice President''s (OVP) fund use.'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ebb8385f-9ae6-4b09-ab45-0e7f06d6cc94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.810+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.773+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.810+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Nakikita naman po natin parang kung kailan lang niya gusto, kung ano
+        lang ang gusto niya, ‘yun lang ang gagawin niya,” Chua said.'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1007385e-60b8-4c76-8fc2-47bcfd5d5140'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.811+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.774+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.811+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: We can see that she only participates when she wants
+        to, and does only what she wants to do.]'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1031654a-2d70-4154-902d-1e178233d198'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.811+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.811+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte arrived at the House of Representatives on Thursday evening,
+        Nov. 21, at 7:45 p.m. By 10:05 p.m., House officials, including Sergeant-at-Arms
+        Napoleon Taas, assumed she had left the premises after visiting Lopez at the
+        visitor’s center.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8718f021-a9b4-484e-91fd-b6cd3f9001c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.812+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.775+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.812+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'However, Duterte instead proceeded to Room 304, the office of her brother.
+        Despite appeals from House officials, Duterte and her security team stayed
+        in the office until early Friday morning, supposedly violating House rules.'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c65d2667-aa96-420e-9e73-c854d66e3032'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:28:44.813+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.776+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:28:44.813+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The controversy underscores tensions between the vice president
+        and the House over investigations on the OVP fund use.</p>'
+  'marcos-BARMM-poll-suspension':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T19:28:53.000+08:00
+    'imagesource': 'jcr:73ae7a02-af1b-45c5-b5a2-d52d03beaf35'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '689b442e-03b4-4df1-ab5c-6d4c0b1b0b8a'
+    'lead': 'President Ferdinand Marcos Jr. said the government is reviewing calls
+      to postpone next year’s Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)
+      elections in light of Sulu’s exit from the group.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T19:30:29.742+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:18.114+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.540+08:00
+    'mgnl:lastModified': 2024-11-22T19:30:29.771+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['BARMM', 'Marcos']
+    'stories': []
+    'template': '1'
+    'title': 'Gov’t studying calls to suspend BARMM polls - Marcos'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '18afe559-32de-4a2f-9c9b-01deb962497f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.756+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.116+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.756+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> President Ferdinand
+        Marcos Jr. said the government is reviewing calls to postpone next year’s
+        Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) elections in light
+        of Sulu’s exit from the group.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48a62775-cdd8-4bab-b963-ee05b4b95031'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.757+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.117+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.757+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“We’re still studying it. Some of the local officials are saying that
+        because of the Supreme Court decision of separating Sulu from BARMM, maraming
+        implications in terms of the changes that have to be made. Baka hindi natin
+        kayang gawin by May of next year,” said Marcos in an interview in Pangasinan.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5fc10c1b-6eee-4857-b83c-cfc2992f5572'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.757+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.118+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.757+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: Some of the local officials are saying that because of
+        the Supreme Court decision to separate Sulu from BARMM, there are many implications
+        regarding the necessary adjustments. We might not be able to address these
+        by May next year.]'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91785852-d894-4984-8749-1fdd66bcec59'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.758+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.119+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.758+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Regional elections will coincide with the midterm polls in May.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '114de668-573a-448f-b56d-456ca83243f6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.758+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.119+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.758+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The president said the BARMM transition authority is working on administrative,
+        local government, and election codes in response to the high court ruling.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8ad94c73-38d0-4fb7-8367-9581cd83fab1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.759+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.120+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.759+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Marami tayo na hindi nakita na naging unintended consequence ng decision
+        ng Supreme Court. Kaya hangga''t maaari gagawin namin na isasabay natin. Pero
+        kung hindi kaya, mas mabuti nang maging tama kaysa sa madaliin natin tapos
+        magkagulo lang,” he explained.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6a107502-8be4-4c4a-8e7e-f3b97319073c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.759+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.121+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.759+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '[Translation: There are many unintended consequences of the Supreme
+        Court’s decision that we did not foresee. As much as possible, we will align
+        the processes. But if it can’t be done, it’s better to get it right rather
+        than rush it and risk causing disorder.]'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '310c3d79-2e12-414c-b1be-268f4eb9889e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.760+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.122+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.760+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Marcos did not provide a timeline for when a decision would be made
+        regarding the elections.'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'be7b640c-e570-446a-8112-e32adaeee73e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.760+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.122+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.760+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Earlier, Senate President Chiz Escudero filed a bill seeking to postpone
+        the BARMM parliamentary elections from May 12, 2025, to May 11, 2026.'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ed19e76e-cac2-4663-ab05-c53d550c3472'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:30:29.761+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:18.123+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:30:29.761+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In September, the Supreme Court upheld the validity of the Bangsamoro
+        Organic Law but ruled that Sulu is no longer part of BARMM. The region currently
+        has 80 parliamentary seats under its electoral code, a structure now impacted
+        by the ruling.</p>'
+  'adam-genato-sorry-miss-universe-ph-chelsea-manalo':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T19:30:32.000+08:00
+    'imagesource': 'jcr:5a2babd0-0496-4377-a554-0251f769f34a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd5c77000-2dac-457c-84f5-4256bd642681'
+    'lead': 'Pageant vlogger Adam Genato has apologized over his comments to Miss
+      Universe Asia Chelsea Manalo’s performance during the 73rd Miss Universe competition
+      in Mexico. '
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T19:31:56.413+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:17.316+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.699+08:00
+    'mgnl:lastModified': 2024-11-22T19:31:56.446+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Chelsea-Manalo']
+    'stories': []
+    'template': '1'
+    'title': 'Vlogger apologizes after Miss Universe Philippines calls out comment
+      on Chelsea Manalo '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6d7d8d2c-0993-4b7a-a38b-e3f24e5b939d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.433+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.318+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.442+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Pageant vlogger Adam
+        Genato has apologized over his comments to Miss Universe Asia Chelsea Manalo’s
+        performance during the 73rd Miss Universe competition in Mexico.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '843906f2-33e2-4f19-b634-d3c411cf68f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.434+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.319+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.434+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“I’m not okay because it is only now that I am realizing the gravity
+        of what I did on social media the other day. I''m coming out with this video
+        not to gain back your sympathy, but I really think this is the most Christian
+        thing to do,” said Genato in a new vlog. '
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c88c3da-f165-4eab-b8fa-2719d699c0e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.434+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.320+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.434+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Chelsea, I''m really really sorry about what I said about you. It
+        was never really my intention to really hurt your feelings nor your team''s
+        kasi you''ve come you''ve worked so hard to be where you are right now,” he
+        added. '
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '45e27b8a-8eea-4bfb-a724-f2508339683e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.435+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.320+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.435+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Genato said that he was just responding to a question on his live video
+        when asked about who should represent the Philippines in the next Miss Universe
+        competition. '
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '91fef278-5158-4690-a18b-f5bc52e788c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.435+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.321+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.435+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '“Kung si Ahtisa Manalo ang pinadala natin sa Mexico or si Christie
+        McGarry siguro hindi na tayo matutulog kasi tignan mo pinanalo nila si Denmark,
+        barbie looking, eh sino ba ang barbie looking noong nakaraang MUPH,” he said
+        during the live video. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1e65b2fd-9d02-486b-995f-03ef9f02b67f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.436+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.322+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.436+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'This did not sit well with the Miss Universe Philippines organization. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d4222a9-7ac7-4f51-baad-a905e24f57c9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.437+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.323+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.437+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"We do not tolerate bullying and irresponsible vlogging especially
+        from an accredited MUPh media partner whom we have welcomed in our events,"
+        the organization said. '
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6da28b77-9ab3-41b0-8064-5cd395912d7c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:31:56.437+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:17.323+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:31:56.437+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"For too long, we have allowed such behavior to be tolerated because
+        bashers and haters have been an accepted part of social media. But in reality,
+        we still have a choice to normalize it or speak up against it,” it added.</p>'
+  'kathryn-bernardo-first-international-award-hollywood-festival':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-11-22T19:32:56.000+08:00
+    'imagesource': 'jcr:2f2eff27-9e36-44ff-b24e-e6dc7b48f766'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b753bb96-2154-469e-bd5d-79f8fa385cc5'
+    'lead': 'Kathryn Bernardo has won her first award from a Hollywood-based film
+      festival, earning the prestigious Snow Leopard Rising Star Award at the 10th
+      Asian World Film Festival in California, USA.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-11-22T19:34:09.027+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2025-03-13T14:10:16.889+08:00
+    'mgnl:lastActivatedBy': 'nelsonp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:35:57.805+08:00
+    'mgnl:lastModified': 2024-11-22T19:34:09.052+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': ['Kathryn-Bernardo']
+    'stories': []
+    'template': '1'
+    'title': 'Kathryn Bernardo wins award at Hollywood-based film festival'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e35aef03-f3d8-4d42-893c-c91a98103e53'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.041+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.891+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.041+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> Kathryn Bernardo has
+        won her first award from a Hollywood-based film festival, earning the prestigious
+        Snow Leopard Rising Star Award at the 10th Asian World Film Festival in California,
+        USA.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e2aaf86d-831f-4f09-b1be-eb7acde6527b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.042+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.892+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.042+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Bernardo was joined by her mother, Min, some of her co-stars, and
+        ABS-CBN Films executives during the awarding ceremony.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fe2b0a8c-6c5e-48a3-9fe1-613de1119cba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.042+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.893+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.042+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The award follows the blockbuster hit of Bernardo''s film with actor
+        Alden Richards, “Hello, Love, Again.”'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b061719-9c59-4e47-8ed7-0a3f5e49dc0b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.043+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.895+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.043+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The film also premiered during the film festival.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '40feebd1-b3a4-4f20-a70e-50e88c86b324'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.043+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.895+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.043+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '"I’m so proud of you, Katreng. Will always be your cheerleader," said
+        ABS-CBN Films head Kriz Gazmen in his Instagram post. '
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3387175f-ae93-481d-bdb5-672584d7d998'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.044+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.896+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.044+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Gazmen added that Bernardo is given the Rising Star Award in recognition
+        of her career as an actress and the potential they see in her to break through
+        in Hollywood. '
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6bb6166c-9086-4e71-a243-3ea5a987ddac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-11-22T19:34:09.044+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2025-03-13T14:10:16.896+08:00
+      'mgnl:lastActivatedBy': 'nelsonp'
+      'mgnl:lastModified': 2024-11-22T19:34:09.044+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>"Congrats, Katreeeeng!!! Well-deserved. Congrats also to the proud
+        mother, Mommy Min! Super cry sya," he added.</p>'
