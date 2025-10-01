@@ -1,349 +1,349 @@
-section8:
-  mixintypes: 'hasVersion'
-  primarytype: 'folder'
-  uuid: '1efcc738-b486-4ec8-8da4-8eb13f2e91c6'
-  activationstatus: true
-  created: 2024-07-08T12:05:12.783+08:00
-  createdby: 'jelo-nwp'
-  lastactivated: 2024-07-12T14:32:22.976+08:00
-  lastactivatedby: 'magnolia-ben'
-  lastmodified: 2024-07-08T19:26:41.810+08:00
-  lastmodifiedby: 'jelo-nwp'
-  june-13th-straight-monthly-heat-record':
-    author: 'Seth Borenstein, AP Science Writer'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-08T12:05:12.000+08:00
-    imagesource: '843070a2-9d81-446b-9451-127edda1e246'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '06cd2e63-97fa-474a-a560-ff0b508c5c04'
-    lead: 'Earth’s more than year-long streak of record-shattering hot months kept
+'8':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '1efcc738-b486-4ec8-8da4-8eb13f2e91c6'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-07-08T12:05:12.783+08:00
+  'mgnl:createdBy': 'jelo-nwp'
+  'mgnl:lastActivated': 2024-07-12T14:32:22.976+08:00
+  'mgnl:lastActivatedBy': 'magnolia-ben'
+  'mgnl:lastModified': 2024-07-08T19:26:41.810+08:00
+  'mgnl:lastModifiedBy': 'jelo-nwp'
+  'june-13th-straight-monthly-heat-record':
+    'author': 'Seth Borenstein, AP Science Writer'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-08T12:05:12.000+08:00
+    'imagesource': 'jcr:843070a2-9d81-446b-9451-127edda1e246'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '06cd2e63-97fa-474a-a560-ff0b508c5c04'
+    'lead': 'Earth''s more than year-long streak of record-shattering hot months kept
       on simmering through June, according to the European climate service Copernicus.'
-    activationstatus: true
-    created: 2024-07-08T12:13:36.007+08:00
-    createdby: 'jelo-nwp'
-    lastactivated: 2024-07-12T14:32:24.506+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-08T12:25:50.579+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'June sizzles to 13th straight monthly heat record. String may end soon,
-      but dangerous heat won’t'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '97f00778-a565-47d5-9c3b-c26032f10c5b'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.212+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.507+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.566+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>(AP) —</strong> Earth’s more than year-long streak of record-shattering
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-08T12:13:36.007+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:24.506+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-08T12:25:50.579+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['heat', 'world-news', 'Global-Watch', 'global-temperature', 'climate-change']
+    'stories': []
+    'template': '1'
+    'title': 'June sizzles to 13th straight monthly heat record. String may end soon,
+      but dangerous heat won''t'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97f00778-a565-47d5-9c3b-c26032f10c5b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.212+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.507+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.566+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(AP) —</strong> Earth''s more than year-long streak of record-shattering
         hot months kept on simmering through June, according to the European climate
         service Copernicus.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: '9cf42cf3-1f7c-4cfe-9bc1-398fb8b0c2a5'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.212+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.508+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.566+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "There’s hope that the planet will soon see an end to the record-setting\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9cf42cf3-1f7c-4cfe-9bc1-398fb8b0c2a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.212+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.508+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.566+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "There's hope that the planet will soon see an end to the record-setting\
         \ part of the heat streak, but not the climate chaos that has come with it,\
         \ scientists said.\r"
-    section2:
-      primarytype: 'block'
-      uuid: '8526ca4a-a1cf-4e16-a927-deaf115c8c32'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.213+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.508+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.567+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The global temperature in June was record warm for the 13th straight\
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8526ca4a-a1cf-4e16-a927-deaf115c8c32'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.213+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.508+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.567+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The global temperature in June was record warm for the 13th straight\
         \ month and it marked the 12th straight month that the world was 1.5 degrees\
         \ Celsius (2.7 degrees Fahrenheit) warmer than pre-industrial times, Copernicus\
         \ said in an early Monday announcement.\r"
-    section3:
-      primarytype: 'block'
-      uuid: '17dad9f9-896d-49b8-bae7-2b2570daa347'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.213+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.508+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.567+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"It’s a stark warning that we are getting closer to this very important\
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '17dad9f9-896d-49b8-bae7-2b2570daa347'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.213+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.508+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.567+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"It's a stark warning that we are getting closer to this very important\
         \ limit set by the Paris Agreement,\" Copernicus senior climate scientist\
         \ Nicolas Julien said in an interview. \"The global temperature continues\
         \ to increase. It has at a rapid pace.\"\r"
-    section4:
-      primarytype: 'block'
-      uuid: '6f2e560e-0dbb-4bb9-9d50-da4b00c22f72'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.214+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.509+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.568+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "That 1.5 degree temperature mark is important because that’s the warming\
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f2e560e-0dbb-4bb9-9d50-da4b00c22f72'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.214+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.509+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.568+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "That 1.5 degree temperature mark is important because that's the warming\
         \ limit nearly all the countries in the world agreed upon in the 2015 Paris\
         \ climate agreement, though Julien and other meteorologists have said the\
-        \ threshold won't be crossed until there’s long-term duration of the extended\
+        \ threshold won't be crossed until there's long-term duration of the extended\
         \ heat — as much as 20 or 30 years.\r"
-    section5:
-      primarytype: 'block'
-      uuid: '99bdd1e1-24dc-466b-8f90-7a23cf5ed016'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.214+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.509+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.568+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"This is more than a statistical oddity and it highlights a continuing\
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '99bdd1e1-24dc-466b-8f90-7a23cf5ed016'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.214+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.509+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.568+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"This is more than a statistical oddity and it highlights a continuing\
         \ shift in our climate,\" Copernicus Director Carlo Buontempo said in a statement.\r"
-    section6:
-      primarytype: 'block'
-      uuid: '33117e99-74b5-4f8e-b25f-35f33a1b5da2'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.215+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.510+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.569+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The globe for June 2024 averaged 62 degrees Fahrenheit (16.66 degrees\
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33117e99-74b5-4f8e-b25f-35f33a1b5da2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.215+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.510+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.569+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The globe for June 2024 averaged 62 degrees Fahrenheit (16.66 degrees\
         \ Celsius), which is 1.2 degrees (0.67 Celsius) above the 30-year average\
         \ for the month, according to Copernicus. It broke the record for hottest\
         \ June, set a year earlier, by a quarter of a degree (0.14 degrees Celsius)\
         \ and is the third-hottest of any month recorded in Copernicus records, which\
         \ goes back to 1940, behind only last July and last August.\r"
-    section7:
-      primarytype: 'block'
-      uuid: '4243f70c-2d41-4225-ab59-84eced1ae51d'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.216+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.510+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.570+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "It’s not that records are being broken monthly but they are being \"\
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4243f70c-2d41-4225-ab59-84eced1ae51d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.216+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.510+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.570+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "It's not that records are being broken monthly but they are being \"\
         shattered by very substantial margins over the past 13 months,\" Julien said.\r"
-    section8:
-      primarytype: 'block'
-      uuid: 'a05ecb0a-6939-4cae-8e2e-90b6a15453bd'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.216+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.510+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.570+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"How bad is this?\" asked Texas A&amp;M University climate scientist\
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a05ecb0a-6939-4cae-8e2e-90b6a15453bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.216+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.510+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.570+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"How bad is this?\" asked Texas A&amp;M University climate scientist\
         \ Andrew Dessler, who wasn't part of the report. \"For the rich and for right\
-        \ now, it’s an expensive inconvenience. For the poor it’s suffering. In the\
+        \ now, it's an expensive inconvenience. For the poor it's suffering. In the\
         \ future the amount of wealth you have to have to merely be inconvenienced\
         \ will increase until most people are suffering.\"\r"
-    section9:
-      primarytype: 'block'
-      uuid: '5367d6ea-108f-4050-a3cc-a820f69491cf'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.217+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.511+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.571+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Even without hitting the long-term 1.5-degree threshold, \"we have\
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5367d6ea-108f-4050-a3cc-a820f69491cf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.217+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.511+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.571+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Even without hitting the long-term 1.5-degree threshold, \"we have\
         \ seen the consequences of climate change, these extreme climate events,\"\
         \ Julien said — meaning worsening floods, storms, droughts and heat waves.\r"
-    section10:
-      primarytype: 'block'
-      uuid: '1de35c65-81e0-4bf6-890e-b32ca7045f73'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.217+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.511+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.571+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "June’s heat hit extra hard in southeast Europe, Turkey, eastern Canada,\
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1de35c65-81e0-4bf6-890e-b32ca7045f73'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.217+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.511+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.571+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "June's heat hit extra hard in southeast Europe, Turkey, eastern Canada,\
         \ the western United States and Mexico, Brazil, northern Siberia, the Middle\
         \ East, northern Africa and western Antarctica, according to Copernicus. Doctors\
         \ had to treat thousands of heatstroke victims in Pakistan last month as temperatures\
         \ hit 117 (47 degrees Celsius).\r"
-    section11:
-      primarytype: 'block'
-      uuid: '9d1db5ad-dbf0-4f5a-928a-b1815d0139aa'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.218+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.511+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.572+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "June was also the 15th straight month that the world’s oceans, more\
-        \ than two-thirds of Earth’s surface, have broken heat records, according\
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9d1db5ad-dbf0-4f5a-928a-b1815d0139aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.218+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.511+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.572+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "June was also the 15th straight month that the world's oceans, more\
+        \ than two-thirds of Earth's surface, have broken heat records, according\
         \ to Copernicus data.\r"
-    section12:
-      primarytype: 'block'
-      uuid: '700cc35f-2155-4c32-ac84-55621b83e3cc'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.219+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.512+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.572+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Most of this heat is from long-term warming from greenhouse gases emitted\
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '700cc35f-2155-4c32-ac84-55621b83e3cc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.219+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.512+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.572+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Most of this heat is from long-term warming from greenhouse gases emitted\
         \ by the burning of coal, oil and natural gas, Julien and other meteorologists\
         \ said. An overwhelming amount of the heat energy trapped by human-caused\
         \ climate change goes directly into the ocean and those oceans take longer\
         \ to warm and cool.\r"
-    section13:
-      primarytype: 'block'
-      uuid: '37e68de1-e866-4b14-81c7-477b02e7154d'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.219+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.512+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.573+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The natural cycle of El Ninos and La Ninas, which are warming and cooling\
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '37e68de1-e866-4b14-81c7-477b02e7154d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.219+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.512+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.573+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The natural cycle of El Ninos and La Ninas, which are warming and cooling\
         \ of the central Pacific that change weather worldwide, also plays a role.\
         \ El Ninos tend to spike global temperature records and the strong El Nino\
         \ that formed last year ended in June.\r"
-    section14:
-      primarytype: 'block'
-      uuid: '308dabd5-6743-4539-a4c0-a99befb91e68'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.220+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.512+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.573+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Another factor is that the air over Atlantic shipping channels is cleaner\
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '308dabd5-6743-4539-a4c0-a99befb91e68'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.220+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.512+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.573+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Another factor is that the air over Atlantic shipping channels is cleaner\
         \ because of marine shipping regulations that reduce traditional air pollution\
         \ particles, such as sulfur, that cause a bit of cooling, scientists said.\
         \ That slightly masks the much larger warming effect of greenhouse gases.\
         \ That \"masking effect got smaller and it would temporarily increase the\
-        \ rate of warming' that is already caused by greenhouse gases, said Tianle\
+        \ rate of warming'' that is already caused by greenhouse gases, said Tianle\
         \ Yuan, a climate scientist for NASA and the University of Maryland Baltimore\
         \ Campus who led a study on the effects of shipping regulations.\r"
-    section15:
-      primarytype: 'block'
-      uuid: 'a5fcebdf-49ac-4816-b6c9-804d9afac319'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.220+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.513+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.574+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Climate scientist Zeke Hausfather, of the tech company Stripes and\
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5fcebdf-49ac-4816-b6c9-804d9afac319'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.220+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.513+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.574+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Climate scientist Zeke Hausfather, of the tech company Stripes and\
         \ the Berkeley Earth climate-monitoring group, said in a post on X that with\
         \ all six months this year seeing record heat, \"that there is an approximately\
         \ 95% chance that 2024 beats 2023 to be the warmest year since global surface\
         \ temperature records began in the mid-1800s.\"\r"
-    section16:
-      primarytype: 'block'
-      uuid: 'dde9826f-d3bb-450a-8117-988a751620f9'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.221+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.513+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.575+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Copernicus hasn't computed the odds of that yet, Julien said. The U.S.\
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dde9826f-d3bb-450a-8117-988a751620f9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.221+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.513+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.575+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Copernicus hasn't computed the odds of that yet, Julien said. The U.S.\
         \ National Oceanic and Atmospheric Administration last month gave it a 50%\
         \ chance.\r"
-    section17:
-      primarytype: 'block'
-      uuid: '829fe592-6929-434a-81cc-755f58cfff6f'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.222+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.514+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.575+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Global daily average temperatures in late June and early July, while\
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '829fe592-6929-434a-81cc-755f58cfff6f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.222+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.514+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.575+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Global daily average temperatures in late June and early July, while\
         \ still hot, were not as warm as last year, Julien said.\r"
-    section18:
-      primarytype: 'block'
-      uuid: 'e0f15cc2-34b2-4e2b-b168-eae2af0cecd6'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.222+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.514+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.576+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"It is likely, I would say, that July 2024 will be colder than July\
-        \ 2023 and this streak will end,\" Julien said. \"It’s still not certain.\
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e0f15cc2-34b2-4e2b-b168-eae2af0cecd6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.222+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.514+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.576+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"It is likely, I would say, that July 2024 will be colder than July\
+        \ 2023 and this streak will end,\" Julien said. \"It's still not certain.\
         \ Things can change.\"\r"
-    section19:
-      primarytype: 'block'
-      uuid: 'e5200781-80c2-4408-bbc9-aae47f33c475'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.223+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.514+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.576+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Andrew Weaver, a climate scientist at the University of Victoria, said\
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5200781-80c2-4408-bbc9-aae47f33c475'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.223+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.514+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.576+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Andrew Weaver, a climate scientist at the University of Victoria, said\
         \ the data show Earth is on track for 3 degrees Celsius of warming if emissions\
         \ aren't urgently curtailed. And he feared that an end to the streak of record\
-        \ hot months and the arrival of winter’s snows will mean \"people will soon\
+        \ hot months and the arrival of winter's snows will mean \"people will soon\
         \ forget\" about the danger.\r"
-    section20:
-      primarytype: 'block'
-      uuid: '4302e113-9f72-4253-a332-ce7d5ee3c9b5'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.224+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.515+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.577+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"Our world is in crisis,\" said University of Wisconsin climate scientist\
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4302e113-9f72-4253-a332-ce7d5ee3c9b5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.224+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.515+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.577+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Our world is in crisis,\" said University of Wisconsin climate scientist\
         \ Andrea Dutton. \"Perhaps you are feeling that crisis today — those who live\
         \ in the path of Beryl are experiencing a hurricane that is fueled by an extremely\
         \ warm ocean that has given rise to a new era of tropical storms that can\
@@ -351,1057 +351,1058 @@ section8:
         \ not in crisis today, each temperature record we set means that it is more\
         \ likely that climate change will bring crisis to your doorstep or to your\
         \ loved ones.\"\r"
-    section21:
-      primarytype: 'block'
-      uuid: '54a7aff8-7552-41a9-8fcf-cb413e134774'
-      activationstatus: true
-      created: 2024-07-08T12:13:36.224+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:24.515+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T12:25:50.578+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Copernicus uses billions of measurements from satellites, ships, aircraft\
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54a7aff8-7552-41a9-8fcf-cb413e134774'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T12:13:36.224+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.515+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T12:25:50.578+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Copernicus uses billions of measurements from satellites, ships, aircraft\
         \ and weather stations around the world and then reanalyzes it with computer\
         \ simulations. Several other countries' science agencies — including NOAA\
         \ and NASA — also come up with monthly climate calculations, but they take\
         \ longer, go back further in time and don't use computer simulations.\r"
-  'START HERE----->comelec-on-alice-guo':
-    author: 'Lance Mejico, NewsWatch Plus'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-06T14:44:00.000+08:00
-    imagesource: '37154305-8493-4a88-a21c-1c52f607e086'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '49ccfe7d-2bce-45b9-aab3-2f266f614722'
-    lead: 'A petition by the Office of the Solicitor General (OSG) to cancel the
+  'comelec-on-alice-guo':
+    'author': 'Lance Mejico, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-06T14:44:00.000+08:00
+    'imagesource': 'jcr:37154305-8493-4a88-a21c-1c52f607e086'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '49ccfe7d-2bce-45b9-aab3-2f266f614722'
+    'lead': 'A petition by the Office of the Solicitor General (OSG) to cancel the
       birth certificate of suspended Bamban Mayor Alice Guo is a big help in the filing
       of a possible election offense complaint, Commission on Elections (COMELEC)
-      Chairman George Garcia said on Saturday. '
-    activationstatus: true
-    created: 2024-07-08T14:47:49.275+08:00
-    createdby: 'lance-nwp'
-    lastactivated: 2024-07-12T14:32:24.152+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-08T14:47:49.317+08:00
-    lastmodifiedby: 'lance-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'COMELEC: OSG petition vs Guo ‘huge help’ in possible poll case'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '47a1f513-30dc-410e-9ee7-66d449e83082'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.300+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.153+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.311+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines –&nbsp;</strong>A petition by
+      Chairman George Garcia said on Saturday.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-08T14:47:49.275+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:24.152+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-08T14:47:49.317+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['Alice-Guo', 'George-Garcia', 'Comelec']
+    'stories': []
+    'template': '1'
+    'title': 'COMELEC: OSG petition vs Guo ‘huge help’ in possible poll case'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '47a1f513-30dc-410e-9ee7-66d449e83082'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.300+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.153+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.311+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –&nbsp;</strong>A petition by
         the Office of the Solicitor General (OSG) to cancel the birth certificate
         of suspended Bamban Mayor Alice Guo is a big help in the filing of a possible
         election offense complaint, Commission on Elections (COMELEC) Chairman George
         Garcia said on Saturday.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'da2f2575-3ae2-4f0d-84de-703d90cdf56a'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.301+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.153+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.301+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>In an interview with NewsWatch Plus, Garcia said the petition would
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'da2f2575-3ae2-4f0d-84de-703d90cdf56a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.301+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.153+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.301+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>In an interview with NewsWatch Plus, Garcia said the petition would
         help prove a case of misrepresentation in the 2022 polls.</p>'
-    section2:
-      primarytype: 'block'
-      uuid: '06ef2d70-c937-4ff3-ad3c-7233c6c5e99c'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.302+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.154+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.302+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>“Kukuha kami ng kopya hihingi kami sa opisina ng OSG ng kanilang
-        petition to cancel the birth certificate. Sa'ming palagay medyo malaking
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '06ef2d70-c937-4ff3-ad3c-7233c6c5e99c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.302+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.154+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.302+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Kukuha kami ng kopya hihingi kami sa opisina ng OSG ng kanilang
+        petition to cancel the birth certificate. Sa''ming palagay medyo malaking
         bentahe na yun. Mukhang may ebidensya na doon. Pero syempre hindi pwedeng
         doon lang kami magre-rely sa ebidensyang meron ang Solicitor General,” he
         told NewsWatch Plus.</p>'
-    section3:
-      primarytype: 'block'
-      uuid: 'ee04d81f-efe2-4224-8701-49ae55043d8e'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.302+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.154+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.302+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>(Translation: We will secure a copy of the OSG petition to cancel
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ee04d81f-efe2-4224-8701-49ae55043d8e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.302+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.154+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.302+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>(Translation: We will secure a copy of the OSG petition to cancel
         Mayor Guo’s birth certificate. We believe it’s a great advantage for the case.
         There could be evidence there. But of course, we can’t just rely on the evidence
         of OSG.)</p>'
-    section4:
-      primarytype: 'block'
-      uuid: '63641e41-bd97-46eb-9534-0e741fd7f88c'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.303+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.155+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.303+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'The OSG filed the petition with the Tarlac Regional Trial Court on
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '63641e41-bd97-46eb-9534-0e741fd7f88c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.303+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.155+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.303+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The OSG filed the petition with the Tarlac Regional Trial Court on
         July 5, citing the mayor’s failure to comply with requirements for late birth
-        registration. '
-    section5:
-      primarytype: 'block'
-      uuid: 'bffb9a0d-ca76-48dd-b99a-91229e5e0398'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.303+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.155+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.303+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>Solicitor General Menardo Guevarra said the petition may lay the
+        registration.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bffb9a0d-ca76-48dd-b99a-91229e5e0398'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.303+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.155+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.303+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Solicitor General Menardo Guevarra said the petition may lay the
         groundwork to file a quo warranto case that may remove Guo as mayor of Bamban.
         A quo warranto case questions the authority of public officials to hold office.</p>'
-    section6:
-      primarytype: 'block'
-      uuid: 'fff17a06-d98c-4426-9ac7-5e02b4f73d41'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.303+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.155+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.303+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>Garcia said he has ordered the COMELEC law department to conduct
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fff17a06-d98c-4426-9ac7-5e02b4f73d41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.303+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.155+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.303+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Garcia said he has ordered the COMELEC law department to conduct
         its own fact-finding probe on Guo, the results of which may come out in two
         weeks.</p>'
-    section7:
-      primarytype: 'block'
-      uuid: '918f26bb-b1ff-4e21-b725-3e29f6ff6a97'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.304+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.156+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.304+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>“Kasama sa instruction ng law department na magpa-conduct ng technical
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '918f26bb-b1ff-4e21-b725-3e29f6ff6a97'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.304+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.156+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.304+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>“Kasama sa instruction ng law department na magpa-conduct ng technical
         examination ng fingerprints at ikumpara doon sa fingerprints na meron ang
         NBI,” Garcia said.</p>'
-    section8:
-      primarytype: 'block'
-      uuid: '84f8634f-9897-4738-b2f1-488a360efe9c'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.304+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.156+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.304+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>(Translation: Included in our instruction to our law department
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84f8634f-9897-4738-b2f1-488a360efe9c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.304+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.156+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.304+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>(Translation: Included in our instruction to our law department
         to conduct a technical examination of fingerprints and compare it with the
         NBI findings.)</p>'
-    section9:
-      primarytype: 'block'
-      uuid: 'f23029b4-13b2-423e-9270-758e551a37ad'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.305+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.156+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.305+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>Garcia said violators of elections laws may face a jail time of
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f23029b4-13b2-423e-9270-758e551a37ad'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.305+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.156+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.305+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Garcia said violators of elections laws may face a jail time of
         three to six years.</p>'
-    section10:
-      primarytype: 'block'
-      uuid: '801658cb-21ed-4068-ba3f-4e5e0436ba55'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.305+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.157+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.305+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'Guo is at the center of a Senate probe over her alleged links to illegal
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '801658cb-21ed-4068-ba3f-4e5e0436ba55'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.305+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.157+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.305+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Guo is at the center of a Senate probe over her alleged links to illegal
         operations of Philippine Offshore Gaming Operators (POGO) in Tarlac. She had
         denied this, including claims that she is a spy for China.'
-    section11:
-      primarytype: 'block'
-      uuid: 'd3d20c18-e7cb-46c7-8f7d-a004a4885e02'
-      activationstatus: true
-      created: 2024-07-08T14:47:49.306+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-12T14:32:24.157+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T14:47:49.306+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>Guo is facing criminal complaints linked to human trafficking and
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3d20c18-e7cb-46c7-8f7d-a004a4885e02'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T14:47:49.306+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:24.157+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T14:47:49.306+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Guo is facing criminal complaints linked to human trafficking and
         graft.</p>'
-  'START HERE----->russian-missile-attack':
-    author: 'Hanna Arhirova and Illia Novikov, Associated Press'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-08T19:21:09.000+08:00
-    imagesource: '00c8f6ca-4dd0-4219-b810-3aac688d4208'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '6df93cf8-773f-4de5-a806-7c0ae6e1a706'
-    lead: 'A major Russian missile attack across Ukraine killed at least 20 people
+  'russian-missile-attack':
+    'author': 'Hanna Arhirova and Illia Novikov, Associated Press'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-08T19:21:09.000+08:00
+    'imagesource': 'jcr:00c8f6ca-4dd0-4219-b810-3aac688d4208'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '6df93cf8-773f-4de5-a806-7c0ae6e1a706'
+    'lead': 'A major Russian missile attack across Ukraine killed at least 20 people
       and injured more than 50 on Monday, officials said, with one missile striking
-      a large children’s hospital in the capital, Kyiv, where emergency crews searched
+      a large children''s hospital in the capital, Kyiv, where emergency crews searched
       rubble for casualties.'
-    activationstatus: true
-    created: 2024-07-08T19:23:35.758+08:00
-    createdby: 'jelo-nwp'
-    lastactivated: 2024-07-12T14:32:23.921+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-09T12:04:19.535+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'A major Russian missile attack on Ukraine kills at least 20 people and
-      hits a children’s hospital'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '777d98df-0444-4fd1-b67e-d57687f0f285'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.885+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.921+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.527+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>KYIV, Ukraine (AP) —</strong> A major Russian missile attack
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-08T19:23:35.758+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:23.921+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-09T12:04:19.535+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Russia-Ukraine-war', 'world-news', 'Ukraine', 'Global-Watch', 'Russia']
+    'stories': []
+    'template': '1'
+    'title': 'A major Russian missile attack on Ukraine kills at least 20 people and
+      hits a children''s hospital'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '777d98df-0444-4fd1-b67e-d57687f0f285'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.885+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.921+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.527+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>KYIV, Ukraine (AP) —</strong> A major Russian missile attack
         across Ukraine killed at least 20 people and injured more than 50 on Monday,
-        officials said, with one missile striking a large children’s hospital in
+        officials said, with one missile striking a large children''s hospital in
         the capital, Kyiv, where emergency crews searched rubble for casualties.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'd7649658-8317-41ec-aea5-4ea3a767a1bd'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.885+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.922+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.528+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The Russian barrage targeted five Ukrainian cities with more than 40\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd7649658-8317-41ec-aea5-4ea3a767a1bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.885+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.922+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.528+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The Russian barrage targeted five Ukrainian cities with more than 40\
         \ missiles of different types, hitting apartment buildings and public infrastructure,\
         \ Ukrainian President Volodymyr Zelenskyy said in a social media post.\r"
-    section2:
-      primarytype: 'block'
-      uuid: '0d2baf55-00cc-47a8-ad0c-14439319802b'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.886+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.922+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.528+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Strikes in Kryvyi Rih, in central Ukraine, killed 10 people and injured\
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d2baf55-00cc-47a8-ad0c-14439319802b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.886+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.922+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.528+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Strikes in Kryvyi Rih, in central Ukraine, killed 10 people and injured\
         \ 37, in what the head of city administration, Oleksandr Vilkul, said was\
         \ a massive missile attack.\r"
-    section3:
-      primarytype: 'block'
-      uuid: '33fb2398-1691-4096-b589-59763d6f3f34'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.886+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.923+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.529+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "At the Okhmatdyt children’s hospital in Kyiv, rescuers were searching\
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33fb2398-1691-4096-b589-59763d6f3f34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.886+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.923+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.529+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "At the Okhmatdyt children's hospital in Kyiv, rescuers were searching\
         \ for people under the rubble of a partially collapsed wing of the facility,\
         \ Zelenskyy said, adding that the number of casualties was not yet known.\r"
-    section4:
-      primarytype: 'block'
-      uuid: 'febc2562-ed01-478c-bb0d-3c845b1e87b3'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.886+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.923+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.529+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Vsevolod Dorofieiev, the senior instructor of a volunteer medical unit,\
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'febc2562-ed01-478c-bb0d-3c845b1e87b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.886+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.923+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.529+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Vsevolod Dorofieiev, the senior instructor of a volunteer medical unit,\
         \ said some people had died but he did not say how many or whether they were\
         \ children or adults.\r"
-    section5:
-      primarytype: 'block'
-      uuid: '4e4fad11-643f-45ec-9a36-dbc918308949'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.887+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.923+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.530+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "On social media, Zelenskyy said: \"It is very important that the world\
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4e4fad11-643f-45ec-9a36-dbc918308949'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.887+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.923+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.530+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "On social media, Zelenskyy said: \"It is very important that the world\
         \ should not be silent about it now and that everyone should see what Russia\
         \ is and what it is doing.\"\r"
-    section6:
-      primarytype: 'block'
-      uuid: 'ffbdab8e-5020-44fb-8cac-fae7bfb3ef1d'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.887+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.924+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.530+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The attack comes on the eve of a three-day NATO summit in Washington,\
-        \ which will look at how to reassure Ukraine of the alliance’s unwavering\
-        \ support and offer Ukrainians hope that their country can come through Europe’s\
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffbdab8e-5020-44fb-8cac-fae7bfb3ef1d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.887+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.924+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.530+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The attack comes on the eve of a three-day NATO summit in Washington,\
+        \ which will look at how to reassure Ukraine of the alliance's unwavering\
+        \ support and offer Ukrainians hope that their country can come through Europe's\
         \ biggest conflict since World War II.\r"
-    section7:
-      primarytype: 'block'
-      uuid: '04382a24-d870-4836-9a58-da89a750dd4f'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.888+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.924+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.531+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "At the children’s hospital, a two-story building was partly destroyed.\
-        \ On the hospital’s main 10-story building, windows and doors were blown out\
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '04382a24-d870-4836-9a58-da89a750dd4f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.888+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.924+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.531+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "At the children's hospital, a two-story building was partly destroyed.\
+        \ On the hospital's main 10-story building, windows and doors were blown out\
         \ and walls were blackened. Blood spattered the floor in one room.\r"
-    section8:
-      primarytype: 'block'
-      uuid: '819cf2ff-6130-4818-94b5-eaa7144c19c3'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.888+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.924+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.531+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Medical personnel and local people helped shift the rubble as they\
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '819cf2ff-6130-4818-94b5-eaa7144c19c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.888+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.924+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.531+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Medical personnel and local people helped shift the rubble as they\
         \ searched for children and medical workers who could be trapped underneath.\
         \ Volunteers formed a line, passing stones and debris to each other. Smoke\
         \ still rose from the building, and volunteers and emergency crews worked\
         \ in protective masks.\r"
-    section9:
-      primarytype: 'block'
-      uuid: 'c8e64a5c-28eb-4376-8746-a9848fe5a2d7'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.889+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.925+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.532+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The attack forced the hospital to shut down and evacuate. Some mothers\
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c8e64a5c-28eb-4376-8746-a9848fe5a2d7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.889+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.925+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.532+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The attack forced the hospital to shut down and evacuate. Some mothers\
         \ carried their children away on their backs. Others waited in the courtyard\
         \ with their children as calls to doctors' phones rang unanswered.\r"
-    section10:
-      primarytype: 'block'
-      uuid: '6254bef3-020e-4cc4-8794-f33c66eb908b'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.889+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.925+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.532+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Elsewhere in Kyiv, the heaviest Russian bombardment of the capital\
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6254bef3-020e-4cc4-8794-f33c66eb908b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.889+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.925+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.532+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Elsewhere in Kyiv, the heaviest Russian bombardment of the capital\
         \ in almost four months killed seven people and injured 25, officials said.\
         \ The daylight attacks included Kinzhal hypersonic missiles, one of the most\
         \ advanced Russian weapons, the Ukrainian air force said. The Kinzhal flies\
         \ at 10 times the speed of sound, making it hard to intercept.\r"
-    section11:
-      primarytype: 'block'
-      uuid: 'f1991327-3ff8-41cc-9dd9-6c0da9178ccf'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.890+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.925+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.533+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "City buildings shook from the blasts. An entire section of a residential\
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f1991327-3ff8-41cc-9dd9-6c0da9178ccf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.890+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.925+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.533+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "City buildings shook from the blasts. An entire section of a residential\
         \ multistory building in one district of Kyiv was destroyed, officials said.\
         \ Three electricity substations were damaged or completely destroyed in two\
         \ districts of Kyiv, energy company DTEK said.\r"
-    section12:
-      primarytype: 'block'
-      uuid: '94a96f2b-ce49-4d5e-86d8-00702d1579a5'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.890+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.926+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.533+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The head of Ukraine’s presidential office, Andrii Yermak, said the\
-        \ attack occurred at a time when many people were in the city’s streets.\r"
-    section13:
-      primarytype: 'block'
-      uuid: 'aa714dc2-7b8a-4711-9558-b3345195c2fe'
-      activationstatus: true
-      created: 2024-07-08T19:23:35.891+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.926+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-09T12:04:19.534+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Kyiv Mayor Vitalii Klitschko said official assessments of the attack’s\
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94a96f2b-ce49-4d5e-86d8-00702d1579a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.890+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.926+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.533+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The head of Ukraine's presidential office, Andrii Yermak, said the\
+        \ attack occurred at a time when many people were in the city's streets.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa714dc2-7b8a-4711-9558-b3345195c2fe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:23:35.891+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.926+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-09T12:04:19.534+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Kyiv Mayor Vitalii Klitschko said official assessments of the attack's\
         \ consequences were still being carried out.\r"
-  'START HERE----->france-macron-elections':
-    author: 'Sylvie Corbet and Lori Hinnant, Associated Press'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-08T19:24:09.000+08:00
-    imagesource: '8f791377-cb41-4509-9221-6313e49610d3'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '9e78c3cc-a366-4fe1-a3af-8d351e4724b3'
-    lead: 'French President Emmanuel Macron refused the resignation of the country’s
+  'france-macron-elections':
+    'author': 'Sylvie Corbet and Lori Hinnant, Associated Press'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-08T19:24:09.000+08:00
+    'imagesource': 'jcr:8f791377-cb41-4509-9221-6313e49610d3'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '9e78c3cc-a366-4fe1-a3af-8d351e4724b3'
+    'lead': 'French President Emmanuel Macron refused the resignation of the country''s
       prime minister, asking him on Monday to remain temporarily as the head of the
       government after chaotic election results left the government in limbo.'
-    activationstatus: true
-    created: 2024-07-08T19:26:38.944+08:00
-    createdby: 'jelo-nwp'
-    lastactivated: 2024-07-12T14:32:23.657+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-08T19:26:39.158+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'France’s Macron keeps prime minister in place for "stability of the country" after chaotic election'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '63d660a2-d4a8-4096-bf53-f17048ebd297'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.124+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.658+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.148+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>PARIS (AP) —</strong> French President Emmanuel Macron refused
-        the resignation of the country’s prime minister, asking him on Monday to
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-08T19:26:38.944+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:23.657+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-08T19:26:39.158+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Global-Watch', 'world-news', 'Emmanuel-Macron', 'France']
+    'stories': []
+    'template': '1'
+    'title': 'France''s Macron keeps prime minister in place for ''stability of the
+      country'' after chaotic election'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '63d660a2-d4a8-4096-bf53-f17048ebd297'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.124+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.658+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.148+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>PARIS (AP) —</strong> French President Emmanuel Macron refused
+        the resignation of the country''s prime minister, asking him on Monday to
         remain temporarily as the head of the government after chaotic election results
         left the government in limbo.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: '06555337-cad4-4e58-9989-d7969c3a499b'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.125+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.658+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.125+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "French voters split the legislature on the left, center and far right,\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '06555337-cad4-4e58-9989-d7969c3a499b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.125+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.658+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.125+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "French voters split the legislature on the left, center and far right,\
         \ leaving no faction even close to the majority needed to form a government.\
-        \ The results from Sunday’s vote raised the risk of paralysis for the European\
-        \ Union’s second-largest economy.\r"
-    section2:
-      primarytype: 'block'
-      uuid: '02e5d5f2-7919-41fd-bb8b-449529fae7d5'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.125+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.658+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.125+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Macron gambled that his decision to call snap elections would give\
+        \ The results from Sunday's vote raised the risk of paralysis for the European\
+        \ Union's second-largest economy.\r"
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '02e5d5f2-7919-41fd-bb8b-449529fae7d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.125+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.658+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.125+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Macron gambled that his decision to call snap elections would give\
         \ France a \"moment of clarification,\" but the outcome showed the opposite,\
         \ less than three weeks before the start of the Paris Olympics, when the country\
         \ will be under an international spotlight.\r"
-    section3:
-      primarytype: 'block'
-      uuid: 'e8a2bbf5-81ab-4521-9aef-3b42761a9820'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.126+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.659+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.126+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "France’s main share index opened with a dip, but quickly recovered,\
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e8a2bbf5-81ab-4521-9aef-3b42761a9820'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.126+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.659+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.126+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "France's main share index opened with a dip, but quickly recovered,\
         \ possibly because markets had feared an outright victory for the far right\
         \ or the leftist coalition.\r"
-    section4:
-      primarytype: 'block'
-      uuid: '939b0342-b143-4d34-8e78-59d4bee95a24'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.126+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.659+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.126+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Prime Minister Gabriel Attal had said he would remain in office if\
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '939b0342-b143-4d34-8e78-59d4bee95a24'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.126+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.659+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.126+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Prime Minister Gabriel Attal had said he would remain in office if\
         \ needed but offered his resignation Monday morning. Macron, who named him\
         \ just seven months ago, immediately asked him to stay on \"to ensure the\
-        \ stability of the country.\" Macron’s top political allies joined the meeting\
+        \ stability of the country.\" Macron's top political allies joined the meeting\
         \ with Attal at the presidential palace, which ended after about 90 minutes.\r"
-    section5:
-      primarytype: 'block'
-      uuid: '04416e25-dcee-4ef7-b521-2a5a832433c4'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.127+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.659+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.127+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Attal on Sunday made clear that he disagreed with Macron’s decision\
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '04416e25-dcee-4ef7-b521-2a5a832433c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.127+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.659+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.127+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Attal on Sunday made clear that he disagreed with Macron's decision\
         \ to call the surprise elections. The results of two rounds of voting left\
         \ no obvious path to form a government for either the leftist coalition that\
-        \ came in first, Macron’s centrist alliance, or the far right.\r"
-    section6:
-      primarytype: 'block'
-      uuid: 'd3999871-c204-4d5e-8e31-1f623823364d'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.127+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.660+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.127+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Newly elected and returning lawmakers were expected to gather at the\
+        \ came in first, Macron's centrist alliance, or the far right.\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd3999871-c204-4d5e-8e31-1f623823364d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.127+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.660+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.127+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Newly elected and returning lawmakers were expected to gather at the\
         \ National Assembly to begin negotiations in earnest.\r"
-    section7:
-      primarytype: 'block'
-      uuid: 'acf0c6a3-0f70-46a7-995d-68cb2362e8b0'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.128+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.660+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.128+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Macron himself will leave midweek for a NATO summit in Washington.\r"
-    section8:
-      primarytype: 'block'
-      uuid: '57c07c2a-cfb4-4c30-8765-b39e2847aa6f'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.128+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.661+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.128+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Political deadlock could have far-ranging implications for the war\
-        \ in Ukraine, global diplomacy and Europe’s economic stability. Still, at\
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'acf0c6a3-0f70-46a7-995d-68cb2362e8b0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.128+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.660+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.128+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Macron himself will leave midweek for a NATO summit in Washington.\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '57c07c2a-cfb4-4c30-8765-b39e2847aa6f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.128+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.661+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.128+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Political deadlock could have far-ranging implications for the war\
+        \ in Ukraine, global diplomacy and Europe's economic stability. Still, at\
         \ least one leader said the results were a relief.\r"
-    section9:
-      primarytype: 'block'
-      uuid: '31be6661-101d-4e64-b488-aa10b43d52dd'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.129+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.661+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.129+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"In Paris enthusiasm, in Moscow disappointment, in Kyiv relief. Enough\
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31be6661-101d-4e64-b488-aa10b43d52dd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.129+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.661+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.129+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"In Paris enthusiasm, in Moscow disappointment, in Kyiv relief. Enough\
         \ to be happy in Warsaw,\" Prime Minister Donald Tusk, a former European Union\
         \ Council head, wrote late Sunday on X.\r"
-    section10:
-      primarytype: 'block'
-      uuid: '1b64c85b-3e5e-48c4-8905-d8a0c5a485d4'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.129+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.661+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.129+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "According to official results released early Monday, all three main\
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b64c85b-3e5e-48c4-8905-d8a0c5a485d4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.129+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.661+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.129+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "According to official results released early Monday, all three main\
         \ blocs fell far short of the 289 seats needed to control the 577-seat National\
-        \ Assembly, the more powerful of France’s two legislative chambers.\r"
-    section11:
-      primarytype: 'block'
-      uuid: '3f81422d-9bde-4c86-b4d7-596ae7862d19'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.130+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.662+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.130+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The results showed just over 180 seats for the New Popular Front leftist\
-        \ coalition, which placed first, ahead of Macron’s centrist alliance, with\
-        \ more than 160 seats. Marine Le Pen’s far-right National Rally and its allies\
+        \ Assembly, the more powerful of France's two legislative chambers.\r"
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3f81422d-9bde-4c86-b4d7-596ae7862d19'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.130+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.662+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.130+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The results showed just over 180 seats for the New Popular Front leftist\
+        \ coalition, which placed first, ahead of Macron's centrist alliance, with\
+        \ more than 160 seats. Marine Le Pen's far-right National Rally and its allies\
         \ were restricted to third place, although their more than 140 seats were\
-        \ still way ahead of the party’s previous best showing of 89 seats in 2022.\r"
-    section12:
-      primarytype: 'block'
-      uuid: 'd60d52f8-a7c1-460f-9d8a-b67badc24470'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.130+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.662+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.130+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Macron has three years remaining on his presidential term.\r"
-    section13:
-      primarytype: 'block'
-      uuid: '51678fae-d100-45ce-976f-41dcc2d5829e'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.131+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.663+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.131+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Rather than rallying behind Macron as he'd hoped, millions took the\
+        \ still way ahead of the party's previous best showing of 89 seats in 2022.\r"
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd60d52f8-a7c1-460f-9d8a-b67badc24470'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.130+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.662+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.130+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Macron has three years remaining on his presidential term.\r"
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '51678fae-d100-45ce-976f-41dcc2d5829e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.131+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.663+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.131+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Rather than rallying behind Macron as he'd hoped, millions took the\
         \ vote as an opportunity to vent anger about inflation, crime, immigration\
         \ and other grievances — including his style of government.\r"
-    section14:
-      primarytype: 'block'
-      uuid: 'e738aad0-20dd-4687-8774-72ec87a3bac1'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.131+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.663+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.131+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The New Popular Front’s leaders immediately pushed Macron to give them\
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e738aad0-20dd-4687-8774-72ec87a3bac1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.131+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.663+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.131+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The New Popular Front's leaders immediately pushed Macron to give them\
         \ the first chance to form a government and propose a prime minister. The\
-        \ faction pledges to roll back many of Macron’s headline reforms, embark on\
+        \ faction pledges to roll back many of Macron's headline reforms, embark on\
         \ a costly program of public spending, and take a tougher line against Israel\
-        \ because of its war with Hamas. But it’s not clear, even among the left,\
+        \ because of its war with Hamas. But it's not clear, even among the left,\
         \ who could lead the government without alienating crucial allies.\r"
-    section15:
-      primarytype: 'block'
-      uuid: '6e1b3c94-876c-440f-ad3b-1dce689d178e'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.132+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.663+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.132+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"We need someone who offers consensus,\" said Olivier Faure, head\
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e1b3c94-876c-440f-ad3b-1dce689d178e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.132+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.663+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.132+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"We need someone who offers consensus,\" said Olivier Faure, head\
         \ of the Socialist Party, which joined the leftist coalition and was still\
         \ sorting out how many seats it won on Monday.\r"
-    section16:
-      primarytype: 'block'
-      uuid: '4bfd987e-ba80-4314-9dc5-51e556fb512a'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.132+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.664+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.132+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Macron warns that the left’s economic program of many tens of billions\
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4bfd987e-ba80-4314-9dc5-51e556fb512a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.132+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.664+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.132+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Macron warns that the left's economic program of many tens of billions\
         \ of euros in public spending, partly financed by taxes on wealth and hikes\
         \ for high earners, could be ruinous for France, already criticized by EU\
         \ watchdogs for its debt.\r"
-    section17:
-      primarytype: 'block'
-      uuid: '943d5730-be42-4b54-81fd-f57a06a07215'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.133+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.664+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.133+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "A hung parliament is unknown territory for modern France and many people\
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '943d5730-be42-4b54-81fd-f57a06a07215'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.133+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.664+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.133+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "A hung parliament is unknown territory for modern France and many people\
         \ reacted with a mix of relief and apprehension.\r"
-    section18:
-      primarytype: 'block'
-      uuid: '2fc1c0c4-3068-4c95-a2ee-6094ce6231b4'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.134+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.664+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.134+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"What pollsters and the press were telling us made me very nervous\
-        \ so it’s a huge relief. Big expectations as well,\" said Nadine Dupuis, a\
-        \ 60-year-old legal secretary in Paris. \"What’s going to happen? How are\
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2fc1c0c4-3068-4c95-a2ee-6094ce6231b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.134+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.664+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.134+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"What pollsters and the press were telling us made me very nervous\
+        \ so it's a huge relief. Big expectations as well,\" said Nadine Dupuis, a\
+        \ 60-year-old legal secretary in Paris. \"What's going to happen? How are\
         \ they going to govern this country?\"\r"
-    section19:
-      primarytype: 'block'
-      uuid: '49f0c05d-878b-4118-b012-bf9ada4a1ea4'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.134+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.665+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.134+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The political agreement between the left and center to block the National\
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '49f0c05d-878b-4118-b012-bf9ada4a1ea4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.134+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.665+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.134+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The political agreement between the left and center to block the National\
         \ Rally was largely successful. Many voters decided that keeping the far right\
         \ from power was more important than anything else, backing its opponents\
         \ in the runoff, even if they weren't from the political camp they usually\
         \ support.\r"
-    section20:
-      primarytype: 'block'
-      uuid: '9571b637-199f-4283-8a8b-83fb27ac248f'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.135+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.665+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.135+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\"Disappointed, disappointed,\" said far-right supporter Luc Doumont,\
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9571b637-199f-4283-8a8b-83fb27ac248f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.135+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.665+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.135+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\"Disappointed, disappointed,\" said far-right supporter Luc Doumont,\
         \ 66. \"Well, happy to see our progression, because for the past few years\
         \ we've been doing better.\"\r"
-    section21:
-      primarytype: 'block'
-      uuid: '5ad37ff6-6100-4af7-98e1-256d9524f9c3'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.136+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.665+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.136+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "National Rally leader Le Pen, who was expected to make a fourth run\
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5ad37ff6-6100-4af7-98e1-256d9524f9c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.136+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.665+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.136+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "National Rally leader Le Pen, who was expected to make a fourth run\
         \ for the French presidency in 2027, said the elections laid the groundwork\
         \ for \"the victory of tomorrow.\"\r"
-    section22:
-      primarytype: 'block'
-      uuid: 'a460b770-6112-4666-8fd1-18a6554d48b7'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.136+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.666+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.136+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Racism and antisemitism marred the electoral campaign, along with Russian\
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a460b770-6112-4666-8fd1-18a6554d48b7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.136+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.666+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.136+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Racism and antisemitism marred the electoral campaign, along with Russian\
         \ disinformation campaigns, and more than 50 candidates reported being physically\
         \ attacked — highly unusual for France.\r"
-    section23:
-      primarytype: 'block'
-      uuid: '68df72c6-d9b6-418c-bd96-e71fc90f78e1'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.137+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.666+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.137+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Unlike other countries in Europe that are more accustomed to coalition\
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '68df72c6-d9b6-418c-bd96-e71fc90f78e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.137+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.666+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.137+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Unlike other countries in Europe that are more accustomed to coalition\
         \ governments, France doesn't have a tradition of lawmakers from rival political\
         \ camps coming together to form a majority. France is also more centralized\
         \ than many other European countries, with many more decisions made in Paris.\r"
-    section24:
-      primarytype: 'block'
-      uuid: 'a2aa19ef-0a5f-44c4-b461-b287e38078cb'
-      activationstatus: true
-      created: 2024-07-08T19:26:39.137+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.666+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:26:39.137+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><em>Associated Press journalists John Leicester, Diane Jeantet and
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a2aa19ef-0a5f-44c4-b461-b287e38078cb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:26:39.137+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.666+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:26:39.137+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>Associated Press journalists John Leicester, Diane Jeantet and
         Nicolas Garriga in Paris contributed to this report.</em></p>'
-  'START HERE----->p29-rice-program-kadiwa':
-    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-08T19:26:41.000+08:00
-    imagesource: '3c52789d-e20e-4e4d-a9f9-e74875203c6e'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: 'ff746015-38b3-468e-a6e1-54685f774306'
-    lead: 'The Department of Agriculture launches a ‘large-scale trial’ of a program
+  'p29-rice-program-kadiwa':
+    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-08T19:26:41.000+08:00
+    'imagesource': 'jcr:3c52789d-e20e-4e4d-a9f9-e74875203c6e'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'ff746015-38b3-468e-a6e1-54685f774306'
+    'lead': 'The Department of Agriculture launches a ‘large-scale trial’ of a program
       where vulnerable households can buy aging rice stocks at ₱29 per kilo in select
       Kadiwa sites.'
-    activationstatus: true
-    created: 2024-07-08T19:41:17.149+08:00
-    createdby: 'jelo-nwp'
-    lastactivated: 2024-07-12T14:32:23.238+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-08T19:41:17.468+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'DA launches trial for P29/kg rice in Kadiwa stores'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: 'e9f11706-7820-4489-82b9-b28d828c7611'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.445+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.239+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.461+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines —</strong> The Department of Agriculture
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-08T19:41:17.149+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:23.238+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-08T19:41:17.468+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['Department-of-Agriculture', 'P29-program', 'Bigas-29']
+    'stories': []
+    'template': '1'
+    'title': 'DA launches trial for P29/kg rice in Kadiwa stores'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9f11706-7820-4489-82b9-b28d828c7611'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.445+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.239+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.461+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The Department of Agriculture
         (DA) on Friday, July 5, launched what it called “large-scale trial” that allows
         poor households to buy aging rice stocks for ₱29 per kilogram (kg).</p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'a4c73c35-9af1-4cbc-8d0a-082369b8afa8'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.446+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.239+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.446+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Target beneficiaries of the subsidized rice include senior citizens,\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a4c73c35-9af1-4cbc-8d0a-082369b8afa8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.446+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.239+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.446+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Target beneficiaries of the subsidized rice include senior citizens,\
         \ single parents, persons with disabilities and members of the government’\
         s conditional cash transfer scheme or Pantawid Pamilyang Pilipino Program.\
         \ \r"
-    section2:
-      primarytype: 'block'
-      uuid: '0b1ce8b1-dae0-4685-8c4e-5a454a998443'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.446+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.240+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.446+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The DA limited the monthly allocation to 10 kg per household, and in\
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b1ce8b1-dae0-4685-8c4e-5a454a998443'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.446+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.240+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.446+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The DA limited the monthly allocation to 10 kg per household, and in\
         \ 5-kg increments. \r"
-    section3:
-      primarytype: 'block'
-      uuid: '4e2e7584-74f7-4fb0-9f79-9ec05a9737ec'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.447+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.240+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.447+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "In a news briefing on Thursday, July 4, Agriculture Assistant Secretary\
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4e2e7584-74f7-4fb0-9f79-9ec05a9737ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.447+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.240+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.447+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In a news briefing on Thursday, July 4, Agriculture Assistant Secretary\
         \ Genevieve Guevarra said aside from aging rice stocks from the National Food\
         \ Authority, the DA would also source stocks from the National Irrigation\
         \ Administration’s rice contract growing project and potential imports. \r"
-    section4:
-      primarytype: 'block'
-      uuid: 'b22d196e-3db0-49fa-a6d6-cc9ac441fd55'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.448+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.240+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.448+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The agency said it would provide to selected Kadiwa centers 15,000\
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b22d196e-3db0-49fa-a6d6-cc9ac441fd55'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.448+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.240+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.448+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The agency said it would provide to selected Kadiwa centers 15,000\
         \ kg of rice per week for 1,500 households. \r"
-    section5:
-      primarytype: 'block'
-      uuid: '7ac00c1e-c602-4709-b539-e8496ee0337c'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.448+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.241+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.448+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“Meron tayong around 10,000 metric tons na available for this large-scale\
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ac00c1e-c602-4709-b539-e8496ee0337c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.448+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.241+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.448+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Meron tayong around 10,000 metric tons na available for this large-scale\
         \ trial,” Guevarra said. “We’re computing, kaya naman po ito for the next\
         \ six months.” \r"
-    section6:
-      primarytype: 'block'
-      uuid: 'fa02f39f-8782-4c21-8186-662bb11b788f'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.449+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.241+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.449+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“Basta wala lang calamity or walang mapaggamitan si NFA, pwede ‘tong\
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa02f39f-8782-4c21-8186-662bb11b788f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.449+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.241+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.449+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Basta wala lang calamity or walang mapaggamitan si NFA, pwede ‘tong\
         \ masustain dahil every month naman merong aging stocks ang NFA na pwede nating\
         \ gamitin for this P29.” \r"
-    section7:
-      primarytype: 'block'
-      uuid: 'afe05330-9b2d-48a5-b124-2140b179671f'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.450+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.242+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.450+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "[Translation: We have around 10,000 metric tons available for this\
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'afe05330-9b2d-48a5-b124-2140b179671f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.450+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.242+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.450+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: We have around 10,000 metric tons available for this\
         \ large-scale trial. We’re computing, the program could run for the next six\
         \ months. As long as there is no calamity or NFA would not use the stocks,\
         \ this could be sustained with NFA’s monthly aging stocks.] \r"
-    section8:
-      primarytype: 'block'
-      uuid: 'd0840361-8eff-4118-bc1f-888d9a47903e'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.451+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.242+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.451+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The DA said the full implementation would require approximately 69,000\
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd0840361-8eff-4118-bc1f-888d9a47903e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.451+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.242+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.451+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The DA said the full implementation would require approximately 69,000\
         \ metric tons of rice to target the 6.9 million vulnerable households. \r"
-    section9:
-      primarytype: 'block'
-      uuid: '4fc10cb1-5ce8-471b-9d9a-1dfa8950d9d6'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.451+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.242+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.451+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Agriculture spokesperson Arnel de Mesa told reporters that the NFA’\
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4fc10cb1-5ce8-471b-9d9a-1dfa8950d9d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.451+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.242+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.451+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Agriculture spokesperson Arnel de Mesa told reporters that the NFA’\
         s mandate for calamity and relief efforts would not be affected with the “\
         P29” program. \r"
-    section10:
-      primarytype: 'block'
-      uuid: '910675d1-acd2-42d7-bab3-95f419f7d11b'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.452+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.243+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.452+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The mass trial will be launched in Kadiwa stores at the offices of\
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '910675d1-acd2-42d7-bab3-95f419f7d11b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.452+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.243+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.452+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The mass trial will be launched in Kadiwa stores at the offices of\
         \ the Bureau of Animal Industry and National Irrigation Administration in\
         \ Quezon City; Bureau of Plant Industry in Manila; Food Terminal Inc. in Taguig\
         \ City; PhilFIDA in Las Pinas; Caloocan City; Valenzuela City; Brgy. Fortune\
         \ and BF City (BFCT) in Marikina City; and San Jose del Monte City in Bulacan.\
         \ \r"
-    section11:
-      primarytype: 'block'
-      uuid: 'afa28aab-9790-460a-a868-e0f8876f3820'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.452+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.243+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.452+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The cheaper rice will be available every Friday to Saturday, from 8\
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'afa28aab-9790-460a-a868-e0f8876f3820'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.452+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.243+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.452+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The cheaper rice will be available every Friday to Saturday, from 8\
         \ a.m. to 5 p.m., or until supplies last.  \r"
-    section12:
-      primarytype: 'block'
-      uuid: '003eadd8-5362-43aa-b472-e6b592e44410'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.453+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.244+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.453+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Beneficiaries would present an identification card and would need to\
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '003eadd8-5362-43aa-b472-e6b592e44410'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.453+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.244+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.453+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Beneficiaries would present an identification card and would need to\
         \ list their names. The DA plans to produce booklets in August to monitor\
         \ the purchases. \r"
-    section13:
-      primarytype: 'block'
-      uuid: '7f53f12b-a4d2-43bc-bc40-e65b38d99e62'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.453+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.244+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.453+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“Our goal is to expand the number of KADIWA centers offering P29 rice\
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7f53f12b-a4d2-43bc-bc40-e65b38d99e62'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.453+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.244+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.453+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Our goal is to expand the number of KADIWA centers offering P29 rice\
         \ in the coming weeks and extend this network to the Visayas and Mindanao\
         \ by late August or early September, in collaboration with local government\
         \ units, farmers' cooperatives, and private businesses,” Agriculture Secretary\
         \ Francisco Tiu Laurel Jr. said in a statement Friday. \r"
-    section14:
-      primarytype: 'block'
-      uuid: '5685bbf9-d98a-4ece-8cdf-b81376be5257'
-      activationstatus: true
-      created: 2024-07-08T19:41:17.454+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-12T14:32:23.244+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-08T19:41:17.454+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>The department is also eyeing to launch a “Rice-for-All” program
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5685bbf9-d98a-4ece-8cdf-b81376be5257'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-08T19:41:17.454+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:23.244+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-08T19:41:17.454+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The department is also eyeing to launch a “Rice-for-All” program
         for the public, where rice will be sold for ₱45 to ₱48.</p>'

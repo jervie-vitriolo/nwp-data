@@ -1,267 +1,267 @@
-section5:
-  mixintypes: 'hasVersion'
-  primarytype: 'folder'
-  uuid: '29ea192a-8137-404e-b8c5-4cf41ed67a56'
-  activationstatus: true
-  created: 2024-07-05T16:19:12.638+08:00
-  createdby: 'tristan-nwp'
-  lastactivated: 2024-07-12T14:32:25.467+08:00
-  lastactivatedby: 'magnolia-ben'
-  lastmodified: 2024-07-05T16:19:12.863+08:00
-  lastmodifiedby: 'tristan-nwp'
-  'START HERE----->ph-china-coast-guard-cooperation':
-    author: 'Tristan Nodalo, NewsWatch Plus'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-04T16:19:13.000+08:00
-    embedimage: '5f9ae4c4-e04d-4e76-856e-42c6bd4d4569'
-    embedsource: '<iframe width="560" height="315" src="https://www.youtube.com/embed/feJpMvyxWyw?si=ik8hjVAYMw98q2VT"
+'5':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '29ea192a-8137-404e-b8c5-4cf41ed67a56'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-07-05T16:19:12.638+08:00
+  'mgnl:createdBy': 'tristan-nwp'
+  'mgnl:lastActivated': 2024-07-12T14:32:25.467+08:00
+  'mgnl:lastActivatedBy': 'magnolia-ben'
+  'mgnl:lastModified': 2024-07-05T16:19:12.863+08:00
+  'mgnl:lastModifiedBy': 'tristan-nwp'
+  'ph-china-coast-guard-cooperation':
+    'author': 'Tristan Nodalo, NewsWatch Plus'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-04T16:19:13.000+08:00
+    'embedimage': 'jcr:5f9ae4c4-e04d-4e76-856e-42c6bd4d4569'
+    'embedsource': '<iframe width="560" height="315" src="https://www.youtube.com/embed/feJpMvyxWyw?si=ik8hjVAYMw98q2VT"
       title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: 'df84800b-6557-4d62-967b-631ba3896022'
-    lead: 'The Philippines and China are considering reviving a coast guard body
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'df84800b-6557-4d62-967b-631ba3896022'
+    'lead': 'The Philippines and China are considering reviving a coast guard body
       to help ease tensions in the West Philippine Sea.'
-    activationstatus: true
-    created: 2024-07-05T16:28:09.697+08:00
-    createdby: 'tristan-nwp'
-    lastactivated: 2024-07-12T14:32:25.767+08:00
-    lastactivatedby: 'magnolia-ben'
-    lastmodified: 2024-07-06T15:37:55.711+08:00
-    lastmodifiedby: 'magnolia-ben'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'PH, China eye revival of coast guard cooperation to ease West PH Sea
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-05T16:28:09.697+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2024-07-12T14:32:25.767+08:00
+    'mgnl:lastActivatedBy': 'magnolia-ben'
+    'mgnl:lastModified': 2024-07-06T15:37:55.711+08:00
+    'mgnl:lastModifiedBy': 'magnolia-ben'
+    'mgnl:tags': ['Duterte', 'Xi-Jinping', 'China', 'Ayungin-Shoal', 'West-Philippine-Sea']
+    'stories': []
+    'template': '1'
+    'title': 'PH, China eye revival of coast guard cooperation to ease West PH Sea
       tensions'
-    visualtype: 'embed'
-    section0:
-      primarytype: 'block'
-      uuid: '24811208-4b28-4884-aa68-c4ed827c6ed1'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.816+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.768+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.701+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p><em><strong>To sum up:</strong></em><br><br><em><strong>Revival
+    'visualType': 'embed'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '24811208-4b28-4884-aa68-c4ed827c6ed1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.816+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.701+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p><em><strong>To sum up:</strong></em><br><br><em><strong>Revival
         of Joint Coast Guard Committee (JCGC):</strong> The Philippines and China
         are considering reviving the Duterte-era maritime cooperation initiative</em></p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'c94b5aa3-8496-4573-bd35-1c7d04c6feaa'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.818+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.768+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.702+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p><em><strong>Strengthening maritime communication:</strong> Both
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c94b5aa3-8496-4573-bd35-1c7d04c6feaa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.818+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.702+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p><em><strong>Strengthening maritime communication:</strong> Both
         sides aim to enhance maritime communication between Manila and Beijing</em></p>'
-    section2:
-      primarytype: 'block'
-      uuid: '722ea11f-bacf-4811-8058-1ddbb980cc43'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.819+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.769+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.702+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p><em><strong>Maritime dispute</strong>: Despite a 2016 ruling invalidating
-        China’s claims, significant differences remain over areas like Ayungin Shoal,
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '722ea11f-bacf-4811-8058-1ddbb980cc43'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.819+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.769+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.702+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p><em><strong>Maritime dispute</strong>: Despite a 2016 ruling invalidating
+        China''s claims, significant differences remain over areas like Ayungin Shoal,
         emphasizing the need for continued dialogue</em></p>'
-    section4:
-      primarytype: 'block'
-      uuid: '1b96078b-7e21-439b-853d-153b4974e701'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.821+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.769+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.703+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines —</strong> The Philippines and
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b96078b-7e21-439b-853d-153b4974e701'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.821+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.769+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.703+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> The Philippines and
         China are considering reviving a coast guard body to help ease tensions in
         the West Philippine Sea.</p>'
-    section5:
-      primarytype: 'block'
-      uuid: '96aedecb-7998-4428-baa1-c1abe5691152'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.821+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.769+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.703+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p>The potential resumption of the Joint Coast Guard Committee (JCGC),
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '96aedecb-7998-4428-baa1-c1abe5691152'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.821+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.769+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.703+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p>The potential resumption of the Joint Coast Guard Committee (JCGC),
         established during the presidency of Rodrigo Duterte, was discussed during
         the 9th Bilateral Consultation Mechanism in Manila on Tuesday, July 2, between
         senior diplomats from both sides.</p>'
-    section6:
-      primarytype: 'block'
-      uuid: '7e003811-621b-4306-9dbe-ad338d9ff988'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.822+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.770+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.704+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'The memorandum of understanding (MOU) on the JCGC was signed during
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e003811-621b-4306-9dbe-ad338d9ff988'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.822+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.770+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.704+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'The memorandum of understanding (MOU) on the JCGC was signed during
         Duterte’s visit to China in October 2016, aimed at enhancing maritime cooperation.
         The recent meeting focused on the bilateral body to ease maritime disputes.'
-    section7:
-      primarytype: 'block'
-      uuid: 'c9068d7c-7a0d-44e0-8029-fc42feb4969d'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.823+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.771+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.705+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '“The two sides agreed to continue discussions on maritime cooperation
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c9068d7c-7a0d-44e0-8029-fc42feb4969d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.823+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.771+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.705+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '“The two sides agreed to continue discussions on maritime cooperation
         between their respective coast guard authorities, including the possible resumption
         of the Joint Coast Guard Committee,” the Department of Foreign Affairs (DFA)
         said in a statement.'
-    section8:
-      primarytype: 'block'
-      uuid: 'dbc4e6c6-6566-471a-802a-eaa97749c9a5'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.824+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.771+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.705+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'Both sides also marked the need to strengthen the maritime communication
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dbc4e6c6-6566-471a-802a-eaa97749c9a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.824+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.771+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.705+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'Both sides also marked the need to strengthen the maritime communication
         mechanism in the South China Sea, as well as the possibility of marine scientific
         and technological cooperation.'
-    section9:
-      primarytype: 'block'
-      uuid: 'a2fcc280-fee1-4602-8640-6328d92fb6e6'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.825+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.772+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.706+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'During the meeting, Philippine and Chinese officials reiterated their
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a2fcc280-fee1-4602-8640-6328d92fb6e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.825+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.772+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.706+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'During the meeting, Philippine and Chinese officials reiterated their
         respective positions on the maritime dispute, particularly regarding Ayungin
         Shoal, also known as Second Thomas Shoal. Ayungin Shoal lies within the Philippines’
         exclusive economic zone and is more than 105 nautical miles from Palawan.'
-    section10:
-      primarytype: 'block'
-      uuid: '58994b97-b690-4c73-9c33-0346d8e50cfb'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.826+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.772+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.706+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '“The two sides discussed their respective positions on Ayungin Shoal
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '58994b97-b690-4c73-9c33-0346d8e50cfb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.826+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.772+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.706+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '“The two sides discussed their respective positions on Ayungin Shoal
         and affirmed their commitment to de-escalate tensions without prejudice to
         their respective positions. There was substantial progress on developing measures
         to manage the situation at sea, but significant differences remain. Both sides
         agreed to continue discussions to find a mutually acceptable resolution to
         the issues,” the DFA said.'
-    section11:
-      primarytype: 'block'
-      uuid: 'ed3a1082-0fe8-4a53-94c0-019a9a6d3807'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.827+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.772+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.707+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'Officials reaffirmed the need to “restore trust, rebuild confidence”
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ed3a1082-0fe8-4a53-94c0-019a9a6d3807'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.827+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.772+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.707+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'Officials reaffirmed the need to “restore trust, rebuild confidence”
         to create a conducive environment for dialogue and negotiations.'
-    section12:
-      primarytype: 'block'
-      uuid: 'ec6920c3-b7df-409f-b75c-1d2d9530a40f'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.828+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.773+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.707+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'China urged the Philippines to cooperate to prevent the “deterioration”
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ec6920c3-b7df-409f-b75c-1d2d9530a40f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.828+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.773+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.707+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'China urged the Philippines to cooperate to prevent the “deterioration”
         of bilateral ties.'
-    section13:
-      primarytype: 'block'
-      uuid: 'da2c2f0f-6c4a-4781-9683-4c6beccff72b'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.829+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.773+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.708+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '“The Chinese side urges the Philippine side to stop maritime infringement
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'da2c2f0f-6c4a-4781-9683-4c6beccff72b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.829+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.773+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.708+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '“The Chinese side urges the Philippine side to stop maritime infringement
         and provocation at once, earnestly abide by the provisions of the Declaration
         on the Conduct of Parties in the South China Sea, return to the right track
         of properly handling disputes through dialogue and consultation, jointly manage
-        the situation at Ren’ai Jiao [Ayungin Shoal] with the Chinese side, promote
+        the situation at Ren''ai Jiao [Ayungin Shoal] with the Chinese side, promote
         the easing and cooling down of the maritime situation,” the Chinese Foreign
         Ministry said in a statement.'
-    section14:
-      primarytype: 'block'
-      uuid: '61cab2dc-37a1-41de-be47-90683a85e520'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.830+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.774+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.708+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'The Philippine government has filed 163 diplomatic protests against
-        China in the Marcos administration. '
-    section15:
-      primarytype: 'block'
-      uuid: 'f2ea7187-c4e5-43f8-ac90-6b02c28619a1'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.831+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.774+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.709+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: 'In 2016, an international arbitral tribunal under the United Nations
-        Convention on the Law of the Sea invalidated China’s expansive claims in
-        the South China Sea, ruling in favor of the Philippines. '
-    section16:
-      primarytype: 'block'
-      uuid: '64d251d6-989b-4fa2-84e8-8c9f063615c3'
-      activationstatus: true
-      created: 2024-07-05T16:28:09.832+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-12T14:32:25.775+08:00
-      lastactivatedby: 'magnolia-ben'
-      lastmodified: 2024-07-06T15:37:55.709+08:00
-      lastmodifiedby: 'magnolia-ben'
-      type: 'text'
-      text: '<p>Despite this, China has continued to assert its claims and increase
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '61cab2dc-37a1-41de-be47-90683a85e520'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.830+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.774+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.708+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'The Philippine government has filed 163 diplomatic protests against
+        China in the Marcos administration.'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f2ea7187-c4e5-43f8-ac90-6b02c28619a1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.831+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.774+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.709+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': 'In 2016, an international arbitral tribunal under the United Nations
+        Convention on the Law of the Sea invalidated China''s expansive claims in
+        the South China Sea, ruling in favor of the Philippines.'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64d251d6-989b-4fa2-84e8-8c9f063615c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-05T16:28:09.832+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-12T14:32:25.775+08:00
+      'mgnl:lastActivatedBy': 'magnolia-ben'
+      'mgnl:lastModified': 2024-07-06T15:37:55.709+08:00
+      'mgnl:lastModifiedBy': 'magnolia-ben'
+      'mgnl:type': 'text'
+      'text': '<p>Despite this, China has continued to assert its claims and increase
         its presence in the region, leading to ongoing tensions and confrontations.</p>'

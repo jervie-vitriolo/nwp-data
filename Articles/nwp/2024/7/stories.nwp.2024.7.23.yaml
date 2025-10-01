@@ -1,1324 +1,1326 @@
-section23:
-  mixintypes: 'hasVersion'
-  primarytype: 'folder'
-  uuid: '6144a5ce-904a-4e30-bba9-5165cf48a463'
-  activationstatus: true
-  created: 2024-07-23T06:59:40.595+08:00
-  createdby: 'jelo-nwp'
-  lastactivated: 2024-07-23T19:06:44.772+08:00
-  lastactivatedby: 'thea-nwp'
-  lastactivatedVersion: '1.1'
-  lastactivatedVersionCreated: 2024-07-23T19:06:44.153+08:00
-  lastmodified: 2024-07-23T19:02:05.292+08:00
-  lastmodifiedby: 'thea-nwp'
-  'START HERE----->marcos-sona-2024-highlights':
-    author: 'Jelo Ritzhie Mantaring, Daniza Fernandez, and Sophia Sioco, NewsWatch
+'23':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '6144a5ce-904a-4e30-bba9-5165cf48a463'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2024-07-23T06:59:40.595+08:00
+  'mgnl:createdBy': 'jelo-nwp'
+  'mgnl:lastActivated': 2024-07-23T19:06:44.772+08:00
+  'mgnl:lastActivatedBy': 'thea-nwp'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2024-07-23T19:06:44.153+08:00
+  'mgnl:lastModified': 2024-07-23T19:02:05.292+08:00
+  'mgnl:lastModifiedBy': 'thea-nwp'
+  'marcos-sona-2024-highlights':
+    'author': 'Jelo Ritzhie Mantaring, Daniza Fernandez, and Sophia Sioco, NewsWatch
       Plus'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-23T06:59:47.000+08:00
-    image: '40e9dac9-6f90-4375-9ff9-f5abebe7c89f'
-    imagesource: '2c45a2c4-c243-4105-b636-2eb9815a5492'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: 'bbc588fb-08a0-40eb-9a43-b1c1c767f835'
-    lead: 'President Ferdinand Marcos Jr. reported to the nation the progress and
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-23T06:59:47.000+08:00
+    'image': 'jcr:40e9dac9-6f90-4375-9ff9-f5abebe7c89f'
+    'imagesource': 'jcr:2c45a2c4-c243-4105-b636-2eb9815a5492'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'bbc588fb-08a0-40eb-9a43-b1c1c767f835'
+    'lead': 'President Ferdinand Marcos Jr. reported to the nation the progress and
       achievements of his administration from the previous year. NewsWatch Plus summarizes
       some of the highlights in this year’s speech.'
-    activationstatus: true
-    created: 2024-07-23T07:06:36.539+08:00
-    createdby: 'jelo-nwp'
-    lastactivated: 2024-07-23T07:06:52.268+08:00
-    lastactivatedby: 'jelo-nwp'
-    lastactivatedVersion: '1.0'
-    lastactivatedVersionCreated: 2024-07-23T07:06:51.487+08:00
-    lastmodified: 2024-07-23T07:06:36.855+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '2'
-    title: 'SONA 2024: Highlights, pronouncements of Marcos'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '945736fa-18c4-4f5b-815e-aab71fbd23b0'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.774+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.269+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.833+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-23T07:06:36.539+08:00
+    'mgnl:createdBy': 'jelo-nwp'
+    'mgnl:lastActivated': 2024-07-23T07:06:52.268+08:00
+    'mgnl:lastActivatedBy': 'jelo-nwp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2024-07-23T07:06:51.487+08:00
+    'mgnl:lastModified': 2024-07-23T07:06:36.855+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['POGO', 'President-Ferdinand-Marcos--Jr.', 'Bongbong-Marcos', 'SONA2024',
+      'rice', 'West-Philippine-Sea']
+    'stories': []
+    'template': '2'
+    'title': 'SONA 2024: Highlights, pronouncements of Marcos'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '945736fa-18c4-4f5b-815e-aab71fbd23b0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.774+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.269+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.833+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
         Marcos Jr. reported to the nation the progress and achievements of his administration
         from the previous year.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'ef10fe2a-d96d-4bf8-9e73-d6c8c3af81c8'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.775+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.269+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.775+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos was at the Batasang Pambansa on Monday, July 22, to deliver\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ef10fe2a-d96d-4bf8-9e73-d6c8c3af81c8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.775+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.269+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.775+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos was at the Batasang Pambansa on Monday, July 22, to deliver\
         \ his State of the Nation Address (SONA) before a joint session of Congress,\
         \ laying down instructions to his Cabinet and his agenda to Congress.\r"
-    section2:
-      primarytype: 'block'
-      uuid: 'c6a94bcf-5dd6-44bf-b0bb-78c32e2f5d69'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.775+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.270+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.775+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The president faced declining trust and approval scores in a recent\
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c6a94bcf-5dd6-44bf-b0bb-78c32e2f5d69'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.775+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.270+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.775+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The president faced declining trust and approval scores in a recent\
         \ Pulse Asia survey ahead of the annual address.\r"
-    section3:
-      primarytype: 'block'
-      uuid: '8f7904be-d828-42c0-9529-c6c84016a7d7'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.775+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.271+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.775+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Political analyst Cleve Arguelles told NewsWatch Plus the SONA was\
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f7904be-d828-42c0-9529-c6c84016a7d7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.775+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.271+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.775+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Political analyst Cleve Arguelles told NewsWatch Plus the SONA was\
         \ more in step with realities facing the country.\r"
-    section4:
-      primarytype: 'block'
-      uuid: '8a4b3018-ad8e-4747-af9a-476697a9579f'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.776+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.271+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.776+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“In the previous address, he was quite confident to say you have elected\
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8a4b3018-ad8e-4747-af9a-476697a9579f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.776+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.271+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.776+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“In the previous address, he was quite confident to say you have elected\
         \ me and the new Philippines is coming,” Arguelles said post-SONA. “But now\
         \ we’re actually hearing the challenges and problems. He’s very aware that\
         \ he cannot really just talk about the accomplishments of the administration\
         \ without responding to unaddressed…issues.”\r"
-    section5:
-      primarytype: 'block'
-      uuid: '18c5dd16-665f-41b5-a021-a735d90a2fd1'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.776+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.272+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.776+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "NewsWatch Plus summarizes some of the highlights in this year’s speech.\r"
-    section6:
-      primarytype: 'block'
-      uuid: '3bf5fd4f-c236-437c-bf9f-4a306a86c92d'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.776+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.272+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.776+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section7:
-      primarytype: 'block'
-      uuid: '2183bef1-fd20-4b65-9efa-02396f236333'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.777+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.273+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.777+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section8:
-      primarytype: 'block'
-      uuid: '19761bee-b9d5-40f5-bfc4-680a1b1a16df'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.777+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.273+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.777+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>Banning POGO</strong></h2>'
-    section9:
-      primarytype: 'block'
-      uuid: '37dbf704-f528-49db-90a1-6afb79eca9e0'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.778+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.274+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.778+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos categorically announced a ban on Philippine Offshore Gaming\
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '18c5dd16-665f-41b5-a021-a735d90a2fd1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.776+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.272+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.776+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "NewsWatch Plus summarizes some of the highlights in this year’s speech.\r"
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bf5fd4f-c236-437c-bf9f-4a306a86c92d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.776+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.272+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.776+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2183bef1-fd20-4b65-9efa-02396f236333'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.777+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.273+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.777+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '19761bee-b9d5-40f5-bfc4-680a1b1a16df'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.777+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.273+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.777+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Banning POGO</strong></h2>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '37dbf704-f528-49db-90a1-6afb79eca9e0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.778+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.274+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.778+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos categorically announced a ban on Philippine Offshore Gaming\
         \ Operators (POGOs) effective July 22, with a directive to the gaming regulator\
         \ to see to it that their operations wind down until the year-end. \r"
-    section10:
-      primarytype: 'block'
-      uuid: '95339fcf-6d52-43d5-b994-0f39fab700e0'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.778+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.274+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.778+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>It capped multisectoral calls — even from among his official family
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '95339fcf-6d52-43d5-b994-0f39fab700e0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.778+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.274+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.778+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>It capped multisectoral calls — even from among his official family
         and political allies&nbsp; to do away with online gambling and its negative
         impact on society.</p>'
-    section11:
-      primarytype: 'block'
-      uuid: '96c03440-72b4-4227-8845-49c5ad7d4f44'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.779+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.275+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.779+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "It also came on the heels of a Senate probe on a controversial online\
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '96c03440-72b4-4227-8845-49c5ad7d4f44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.779+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.275+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.779+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "It also came on the heels of a Senate probe on a controversial online\
         \ gambling group in Bamban, Tarlac, that progressed to issues of the town\
         \ mayor’s citizenship and security matters.\r"
-    section12:
-      primarytype: 'block'
-      uuid: 'fd963e6b-d737-4887-9255-98a4a576eb51'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.779+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.275+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.779+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/22/marcos-pogo-ban-sona-2024.html">Marcos
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fd963e6b-d737-4887-9255-98a4a576eb51'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.779+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.275+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.779+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/22/marcos-pogo-ban-sona-2024.html">Marcos
         bans all POGOs in SONA 2024</a></strong></p>'
-    section13:
-      primarytype: 'block'
-      uuid: '7f669f51-188e-4ebd-b6de-8b45136ccb35'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.779+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.276+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.779+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Online gaming in the form of POGOs began during the Duterte administration.\
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7f669f51-188e-4ebd-b6de-8b45136ccb35'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.779+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.276+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.779+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Online gaming in the form of POGOs began during the Duterte administration.\
         \ On the other hand, for Marcos, the “social ills” associated with POGOs weighed\
         \ more than possible revenue losses should they be banned.\r"
-    section14:
-      primarytype: 'block'
-      uuid: '22d4a931-2b81-46ab-9d43-934887f09641'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.780+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.276+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.780+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“I think the president is really trying to carve out the political\
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '22d4a931-2b81-46ab-9d43-934887f09641'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.780+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.276+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.780+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“I think the president is really trying to carve out the political\
         \ space to oppose the Duterte family,” political scientist Robin Michael Garcia\
-        \ told NewsWatch Plus. “It’s also connected to being tough on China.”\r"
-    section15:
-      primarytype: 'block'
-      uuid: '125d92a9-8be7-4d22-9d36-e97b7ad18acf'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.780+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.277+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.780+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Sen. Risa Hontiveros, who is leading the Senate inquiry on illegal\
+        \ told NewsWatch Plus. “It's also connected to being tough on China.”\r"
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '125d92a9-8be7-4d22-9d36-e97b7ad18acf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.780+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.277+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.780+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Sen. Risa Hontiveros, who is leading the Senate inquiry on illegal\
         \ POGO operations, welcomed the ban. \r"
-    section16:
-      primarytype: 'block'
-      uuid: 'd9d1b8eb-1295-4848-ad6f-7abda013abd7'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.781+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.277+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.781+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section17:
-      primarytype: 'block'
-      uuid: 'aa227f2c-b2d8-420f-b612-75157e471957'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.781+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.278+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.781+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>West PH Sea not a figment of imagination</strong></h2>'
-    section18:
-      primarytype: 'block'
-      uuid: 'df878707-4ddb-4d21-9f25-1d6c1e8f12b2'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.782+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.278+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.782+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos reaffirmed the country’s rights in the West Philippine Sea amid\
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd9d1b8eb-1295-4848-ad6f-7abda013abd7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.781+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.277+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.781+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa227f2c-b2d8-420f-b612-75157e471957'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.781+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.278+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.781+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>West PH Sea not a figment of imagination</strong></h2>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'df878707-4ddb-4d21-9f25-1d6c1e8f12b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.782+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.278+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.782+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos reaffirmed the country’s rights in the West Philippine Sea amid\
         \ Chinese aggression in the disputed waterway.\r"
-    section19:
-      primarytype: 'block'
-      uuid: '2b4a1f86-1780-41f4-a98e-2f09adb26dae'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.782+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.279+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.782+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "He said the Philippines cannot “yield” and “waver” as he noted efforts\
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2b4a1f86-1780-41f4-a98e-2f09adb26dae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.782+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.279+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.782+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He said the Philippines cannot “yield” and “waver” as he noted efforts\
         \ to de-escalate tensions in the West Philippine Sea.\r"
-    section20:
-      primarytype: 'block'
-      uuid: '770cf67c-64fb-43c5-b322-d4ff5f9c48f3'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.783+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.279+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.783+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“Ang West Philippine Sea ay hindi kathang-isip natin lamang. Ito ay\
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '770cf67c-64fb-43c5-b322-d4ff5f9c48f3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.783+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.279+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.783+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“Ang West Philippine Sea ay hindi kathang-isip natin lamang. Ito ay\
         \ atin, at ito ay mananatiling atin hangga’t nag-aalab ang diwa ng ating minamahal\
         \ na bansang Pilipinas,” Marcos said to a standing ovation from lawmakers\
         \ and the gallery.\r"
-    section21:
-      primarytype: 'block'
-      uuid: '3f881c52-6790-48ac-9da7-ad5753b19b8d'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.784+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.280+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.784+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "[Translation: The West Philippine Sea is not just a figment of our\
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3f881c52-6790-48ac-9da7-ad5753b19b8d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.784+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.280+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.784+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: The West Philippine Sea is not just a figment of our\
         \ imagination. It is ours, and it will remain as long as the spirit of our\
         \ beloved Philippines continues to burn.]\r"
-    section22:
-      primarytype: 'block'
-      uuid: '29f59fad-2d36-4884-aaae-f545e0e80527'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.784+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.280+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.784+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The commander-in-chief thanked the Armed Forces of the Philippines,\
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '29f59fad-2d36-4884-aaae-f545e0e80527'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.784+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.280+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.784+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The commander-in-chief thanked the Armed Forces of the Philippines,\
         \ Philippine Coast Guard, and fishermen of the West Philippine Sea for their\
         \ surveillance and sacrifices.\r"
-    section23:
-      primarytype: 'block'
-      uuid: '5d934a02-eac3-4656-aa7f-b613384ff6d7'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.785+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.281+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.785+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos’ pronouncement came a day after Manila and Beijing announced\
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5d934a02-eac3-4656-aa7f-b613384ff6d7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.785+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.281+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.785+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos’ pronouncement came a day after Manila and Beijing announced\
         \ a provisional agreement for resupply and rotation missions to the Ayungin\
         \ Shoal where a Philippine Navy ship has been grounded and serves as a military\
         \ outpost to stake the country’s territorial rights in the area.\r"
-    section24:
-      primarytype: 'block'
-      uuid: '7410be43-233f-481b-873c-cda74ab59bbc'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.785+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.281+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.785+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/21/ph-china-rore-arrangement.html">PH,
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7410be43-233f-481b-873c-cda74ab59bbc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.785+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.281+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.785+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/21/ph-china-rore-arrangement.html">PH,
         China agree on resupply mission deal to Ayungin Shoal — DFA</a>&nbsp;</strong></p>'
-    section25:
-      primarytype: 'block'
-      uuid: '264628b7-46b3-4fb9-bae4-b912b96a1daa'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.786+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.282+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.786+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section26:
-      primarytype: 'block'
-      uuid: '0e58bd57-bd8c-4802-93a1-833f456f07aa'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.786+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.282+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.786+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>Agriculture woes</strong></h2>'
-    section27:
-      primarytype: 'block'
-      uuid: 'ecfc37da-983b-48fe-bbc2-ad665751f758'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.787+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.283+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.787+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos began his speech by admitting costly rice prices. He promised\
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '264628b7-46b3-4fb9-bae4-b912b96a1daa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.786+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.282+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.786+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0e58bd57-bd8c-4802-93a1-833f456f07aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.786+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.282+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.786+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Agriculture woes</strong></h2>'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ecfc37da-983b-48fe-bbc2-ad665751f758'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.787+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.283+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.787+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos began his speech by admitting costly rice prices. He promised\
         \ during the campaign to bring down the price of the staple to ₱20 per kilogram,\
         \ but consumers have been shelling out more than twice the amount.\r"
-    section28:
-      primarytype: 'block'
-      uuid: '9762f068-35b4-4c8c-94f3-a43d6cd9f388'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.788+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.283+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.788+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“The hard lesson of this last year has made it very clear that whatever\
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9762f068-35b4-4c8c-94f3-a43d6cd9f388'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.788+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.283+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.788+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“The hard lesson of this last year has made it very clear that whatever\
         \ current data proudly bannering our country as among the best-performing\
         \ in Asia, means nothing to a Filipino, who is confronted by the price of\
         \ rice at ₱45 to ₱65 per kilo,” he said.\r"
-    section29:
-      primarytype: 'block'
-      uuid: 'b8d1075b-447e-4f84-8a2e-3b5f96d58eb6'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.788+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.284+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.788+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos said the record harvest of over 20 million tons of the grain\
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b8d1075b-447e-4f84-8a2e-3b5f96d58eb6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.788+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.284+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.788+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos said the record harvest of over 20 million tons of the grain\
         \ in 2023 was still insufficient, forcing the government to import.\r"
-    section30:
-      primarytype: 'block'
-      uuid: 'aa911704-f321-4e52-84e5-31ff5858def7'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.789+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.284+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.789+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Many agricultural groups have criticized the chief executive for reducing\
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa911704-f321-4e52-84e5-31ff5858def7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.789+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.284+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.789+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Many agricultural groups have criticized the chief executive for reducing\
         \ tariffs on imported rice to the detriment of farmers.\r"
-    section31:
-      primarytype: 'block'
-      uuid: 'aa2d5fcb-9ef7-49dd-b5d0-b6e9b4a44789'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.789+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.285+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.789+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos vowed continued support to local farmers and fisherfolk. He\
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa2d5fcb-9ef7-49dd-b5d0-b6e9b4a44789'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.789+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.285+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.789+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos vowed continued support to local farmers and fisherfolk. He\
         \ also said Kadiwa centers, where the government is selling subsidized rice\
         \ to the poor, will continue as a matter of course.\r"
-    section32:
-      primarytype: 'block'
-      uuid: '2ecb0634-bae6-4731-8ccf-b873d5a193fe'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.790+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.285+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.790+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section33:
-      primarytype: 'block'
-      uuid: '970b52f4-6c1b-459a-90b9-03b46558e536'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.791+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.286+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.791+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section34:
-      primarytype: 'block'
-      uuid: 'db2fe5b2-dd6c-433d-92d4-d8463a59a82d'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.791+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.286+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.791+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>‘Bloodless’ war on drugs</strong></h2>'
-    section35:
-      primarytype: 'block'
-      uuid: 'beb3e54a-30a1-4598-ac2c-67a5ff2acb27'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.792+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.287+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.792+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos touted his “bloodless” war on drugs, noting that “extermination”\
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2ecb0634-bae6-4731-8ccf-b873d5a193fe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.790+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.285+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.790+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '970b52f4-6c1b-459a-90b9-03b46558e536'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.791+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.286+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.791+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'db2fe5b2-dd6c-433d-92d4-d8463a59a82d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.791+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.286+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.791+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>‘Bloodless’ war on drugs</strong></h2>'
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'beb3e54a-30a1-4598-ac2c-67a5ff2acb27'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.792+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.287+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.792+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos touted his “bloodless” war on drugs, noting that “extermination”\
         \ is not included in the strategy.\r"
-    section36:
-      primarytype: 'block'
-      uuid: '64d3290b-1687-49b3-affb-12273c399747'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.793+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.287+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.793+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "He said more than 97,000 drug offenders have been arrested in about\
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '64d3290b-1687-49b3-affb-12273c399747'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.793+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.287+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.793+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He said more than 97,000 drug offenders have been arrested in about\
         \ 71,500 operations, resulting in the confiscation of over P44 billion in\
         \ illegal drugs.\r"
-    section37:
-      primarytype: 'block'
-      uuid: '1387ec64-453a-49c5-a145-baef02d78124'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.793+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.288+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.793+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Of those arrested, around 440 are government employees, including uniformed\
+    '37':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1387ec64-453a-49c5-a145-baef02d78124'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.793+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.288+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.793+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Of those arrested, around 440 are government employees, including uniformed\
         \ personnel and officials.\r"
-    section38:
-      primarytype: 'block'
-      uuid: 'd09502d6-aedf-4e4f-8c74-64a6773d7898'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.794+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.288+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.794+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“So to further paralyze their operations, dirty money and assets worth\
+    '38':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd09502d6-aedf-4e4f-8c74-64a6773d7898'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.794+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.288+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.794+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“So to further paralyze their operations, dirty money and assets worth\
         \ more than P500 million have been frozen and preserved. With strong case\
         \ build-up and efficient prosecution, the drug conviction rate is at a high\
         \ of seventy-nine percent,” said Marcos.\r"
-    section39:
-      primarytype: 'block'
-      uuid: '25b5f6e3-d288-45da-adf9-cd3391ffa23e'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.795+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.289+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.795+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section40:
-      primarytype: 'block'
-      uuid: '9ffdc888-7ce8-4d27-965a-1e0714cd4dae'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.796+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.289+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.796+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section41:
-      primarytype: 'block'
-      uuid: '13d52915-abfc-42f7-a823-b43e6acf2e28'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.796+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.290+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.796+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>‘Railway renaissance’</strong></h2>'
-    section42:
-      primarytype: 'block'
-      uuid: '075939b8-4603-4d94-8ca4-ebdaba64f5cd'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.797+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.290+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.797+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The president also reported on developments in the transportation system.\r"
-    section43:
-      primarytype: 'block'
-      uuid: '3bfb1a5a-b4c7-4b12-86bc-40103faccfa9'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.798+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.291+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.798+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“We are in the midst of a railway renaissance,” he said.\r"
-    section44:
-      primarytype: 'block'
-      uuid: '1e0a3f33-4efe-49f2-bee0-d2985fc00809'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.799+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.291+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.799+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos reported that the 100-kilometer Philippine National Railways\
+    '39':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '25b5f6e3-d288-45da-adf9-cd3391ffa23e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.795+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.289+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.795+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '40':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ffdc888-7ce8-4d27-965a-1e0714cd4dae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.796+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.289+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.796+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '13d52915-abfc-42f7-a823-b43e6acf2e28'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.796+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.290+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.796+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>‘Railway renaissance’</strong></h2>'
+    '42':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '075939b8-4603-4d94-8ca4-ebdaba64f5cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.797+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.290+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.797+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The president also reported on developments in the transportation system.\r"
+    '43':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bfb1a5a-b4c7-4b12-86bc-40103faccfa9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.798+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.291+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.798+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“We are in the midst of a railway renaissance,” he said.\r"
+    '44':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1e0a3f33-4efe-49f2-bee0-d2985fc00809'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.799+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.291+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.799+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos reported that the 100-kilometer Philippine National Railways\
         \ Bicol Line, which runs from Naga to Legazpi cities, has resumed operation.\r"
-    section45:
-      primarytype: 'block'
-      uuid: '8e18bd70-7d12-445f-906e-b11e429844ee'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.799+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.292+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.799+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "In Metro Manila, commuters may soon travel from Baclaran to Sucat through\
+    '45':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e18bd70-7d12-445f-906e-b11e429844ee'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.799+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.292+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.799+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "In Metro Manila, commuters may soon travel from Baclaran to Sucat through\
         \ the Light Rail Transit Line 1 Cavite Extension which will open this year,\
         \ the president said. The whole line, which will reach up to Bacoor in Cavite,\
         \ is expected to be completed in the following years.\r"
-    section46:
-      primarytype: 'block'
-      uuid: 'ee1a5299-a306-4f86-b106-bcd24bd99f1c'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.800+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.292+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.800+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "As for the Manila Subway Project, tunneling works are underway which\
+    '46':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ee1a5299-a306-4f86-b106-bcd24bd99f1c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.800+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.292+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.800+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "As for the Manila Subway Project, tunneling works are underway which\
         \ has three- to six-floor-deep digging.\r"
-    section47:
-      primarytype: 'block'
-      uuid: '41921c4e-288e-4a87-954a-37df2b7eaeda'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.801+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.293+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.801+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "The president also noted that works for the Metro Rail Transit Line\
+    '47':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '41921c4e-288e-4a87-954a-37df2b7eaeda'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.801+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.293+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.801+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "The president also noted that works for the Metro Rail Transit Line\
         \ 7 and the North-South Commuter Railway are also moving, noting that right-of-way\
         \ issues will be addressed.\r"
-    section48:
-      primarytype: 'block'
-      uuid: '1c584209-70a7-4f73-9684-6aebf484cce4'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.802+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.293+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.802+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section49:
-      primarytype: 'block'
-      uuid: 'f76e3553-921e-4aa8-9e2b-a3c07118ba2a'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.803+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.294+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.803+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "\r"
-    section50:
-      primarytype: 'block'
-      uuid: 'cc83a8ea-cb2b-4d6d-a0aa-5ac9d69d75dd'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.803+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.294+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.803+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<h2><strong>Improving education quality</strong></h2>'
-    section51:
-      primarytype: 'block'
-      uuid: '4d29323d-fb7c-458b-a447-f9375f59f074'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.804+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.295+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.804+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "While calling on new Education Secretary Sonny Angara to improve the\
+    '48':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1c584209-70a7-4f73-9684-6aebf484cce4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.802+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.293+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.802+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '49':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f76e3553-921e-4aa8-9e2b-a3c07118ba2a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.803+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.294+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.803+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "\r"
+    '50':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cc83a8ea-cb2b-4d6d-a0aa-5ac9d69d75dd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.803+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.294+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.803+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Improving education quality</strong></h2>'
+    '51':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4d29323d-fb7c-458b-a447-f9375f59f074'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.804+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.295+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.804+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "While calling on new Education Secretary Sonny Angara to improve the\
         \ quality of basic education as soon as possible, Marcos also pushed for reform\
         \ through technology.\r"
-    section52:
-      primarytype: 'block'
-      uuid: 'a261dcc8-882b-4c61-8a02-4686f852e6a9'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.805+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.295+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.805+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“We are working towards the day when all students will be equipped\
+    '52':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a261dcc8-882b-4c61-8a02-4686f852e6a9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.805+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.295+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.805+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“We are working towards the day when all students will be equipped\
         \ with computers, smart TVs, essential programs, digital books — and once\
         \ again, access to reliable power and the Internet,” he said.\r"
-    section53:
-      primarytype: 'block'
-      uuid: '839fc563-0126-40e3-b623-bb8bdf578a30'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.806+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.296+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.806+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "He also vowed to shorten the textbook procurement and delivery process\
+    '53':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '839fc563-0126-40e3-b623-bb8bdf578a30'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.806+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.296+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.806+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He also vowed to shorten the textbook procurement and delivery process\
         \ from three years to just one year.\r"
-    section54:
-      primarytype: 'block'
-      uuid: '99d32bc4-3e07-4b02-8572-50c3d4923671'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.807+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.296+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.807+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“The production of instructional materials, especially textbooks, which\
+    '54':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '99d32bc4-3e07-4b02-8572-50c3d4923671'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.807+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.296+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.807+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“The production of instructional materials, especially textbooks, which\
         \ are up-to-date and error-free, must be ensured,” he said.\r"
-    section55:
-      primarytype: 'block'
-      uuid: '7a31c059-8ee9-40be-befa-cd736c5a4bb5'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.808+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.297+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.808+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "Marcos also recognized that the “quality of our education rests on\
+    '55':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7a31c059-8ee9-40be-befa-cd736c5a4bb5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.808+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.297+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.808+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "Marcos also recognized that the “quality of our education rests on\
         \ the quality of our teachers,” adding that the government must make sure\
         \ teachers are protected and well taken care of.\r"
-    section56:
-      primarytype: 'block'
-      uuid: '0b5239a5-913e-47af-a625-c2cf8a724847'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.808+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.297+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.808+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "He highlighted the allocation of funds for implementing the expanded\
+    '56':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b5239a5-913e-47af-a625-c2cf8a724847'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.808+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.297+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.808+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "He highlighted the allocation of funds for implementing the expanded\
         \ career progression system for public school teachers.\r"
-    section57:
-      primarytype: 'block'
-      uuid: '5c514d52-e365-4019-8a37-326302a8c845'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.809+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.298+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.809+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "“With this system in place, we will accelerate the career growth of\
+    '57':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c514d52-e365-4019-8a37-326302a8c845'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.809+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.298+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.809+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "“With this system in place, we will accelerate the career growth of\
         \ teachers. Sa sistemang ito, wala nang public school teacher ang magre-retire\
         \ na Teacher 1 lamang,” the president said.\r"
-    section58:
-      primarytype: 'block'
-      uuid: '8e0fc42c-e12e-4b61-8360-ab20e37c144c'
-      activationstatus: true
-      created: 2024-07-23T07:06:36.810+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T07:06:52.298+08:00
-      lastactivatedby: 'jelo-nwp'
-      lastmodified: 2024-07-23T07:06:36.810+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "[Translation: With this system, no public school teacher will retire\
+    '58':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8e0fc42c-e12e-4b61-8360-ab20e37c144c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T07:06:36.810+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T07:06:52.298+08:00
+      'mgnl:lastActivatedBy': 'jelo-nwp'
+      'mgnl:lastModified': 2024-07-23T07:06:36.810+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "[Translation: With this system, no public school teacher will retire\
         \ at just Teacher 1 level.]\r"
-  'START HERE----->duterte-security-detail-pullout':
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-23T18:34:50.000+08:00
-    imagesource: '72f42b93-52d2-499a-a87f-d8dd087979aa'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '948257ee-d227-4fdd-9340-1666c8ca8db0'
-    lead: 'Vice President Sara Duterte confirmed on Tuesday that a 75-man police
+  'duterte-security-detail-pullout':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-23T18:34:50.000+08:00
+    'imagesource': 'jcr:72f42b93-52d2-499a-a87f-d8dd087979aa'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '948257ee-d227-4fdd-9340-1666c8ca8db0'
+    'lead': 'Vice President Sara Duterte confirmed on Tuesday that a 75-man police
       security detail for her office has been withdrawn.'
-    activationstatus: true
-    created: 2024-07-23T18:47:20.870+08:00
-    createdby: 'lance-nwp'
-    lastactivated: 2024-07-23T18:47:30.056+08:00
-    lastactivatedby: 'lance-nwp'
-    lastactivatedVersion: '1.0'
-    lastactivatedVersionCreated: 2024-07-23T18:47:29.749+08:00
-    lastmodified: 2024-07-23T18:47:20.908+08:00
-    lastmodifiedby: 'lance-nwp'
-    tags: ''
-    stories: '1b21756b-9f06-4970-af49-cbca405c4bf7'
-    template: '1'
-    title: 'PNP pulls out 75-man OVP security – Duterte'
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '7ec13e8b-eb7d-4f8e-b835-9599af75e2a7'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.896+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.056+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.904+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-23T18:47:20.870+08:00
+    'mgnl:createdBy': 'lance-nwp'
+    'mgnl:lastActivated': 2024-07-23T18:47:30.056+08:00
+    'mgnl:lastActivatedBy': 'lance-nwp'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2024-07-23T18:47:29.749+08:00
+    'mgnl:lastModified': 2024-07-23T18:47:20.908+08:00
+    'mgnl:lastModifiedBy': 'lance-nwp'
+    'mgnl:tags': ['philippine-national-police', 'SONA-2024', 'bongbong-marcos', 'pnp',
+      'sara-duterte', 'SONA']
+    'stories': ['1b21756b-9f06-4970-af49-cbca405c4bf7']
+    'template': '1'
+    'title': 'PNP pulls out 75-man OVP security – Duterte'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ec13e8b-eb7d-4f8e-b835-9599af75e2a7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.896+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.056+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.904+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines –</strong> Vice President Sara
         Duterte confirmed on Tuesday that a 75-man police security detail for her
         office has been withdrawn.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: 'fa9fc141-7adc-4b25-8502-2390bed02a56'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.896+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.056+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.896+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'In a statement, Duterte said the order was carried out by the Philippine
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa9fc141-7adc-4b25-8502-2390bed02a56'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.896+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.056+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.896+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In a statement, Duterte said the order was carried out by the Philippine
         National Police (PNP) on Monday, the same day President Ferdinand Marcos Jr.
         delivered his third State of the Nation Address (SONA).'
-    section2:
-      primarytype: 'block'
-      uuid: 'b03d9eaa-2d76-4adb-b2cf-d3459042f8ec'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.897+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.897+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'Duterte assured the public this will not affect her work as vice president.'
-    section3:
-      primarytype: 'block'
-      uuid: 'f9267c7f-d703-4750-9490-aeae95fc5163'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.897+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.897+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '“I do hope, however, that with the latest directive of the Chief PNP,
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b03d9eaa-2d76-4adb-b2cf-d3459042f8ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.897+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.897+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte assured the public this will not affect her work as vice president.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f9267c7f-d703-4750-9490-aeae95fc5163'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.897+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.897+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '“I do hope, however, that with the latest directive of the Chief PNP,
         we hear less cries from the people regarding the proliferation of drugs in
         the country, and that even fewer shall fall victim to various criminal activities,’”
         she said.'
-    section4:
-      primarytype: 'block'
-      uuid: 'a5004f93-9a17-4421-b9c7-a84c3dfc123a'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.898+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.898+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'In 2022, a Vice Presidential Security and Protection Group was formed
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5004f93-9a17-4421-b9c7-a84c3dfc123a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.898+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.898+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'In 2022, a Vice Presidential Security and Protection Group was formed
         composed of military and police officers. The security detail has over 400
-        personnel based on OVP data in 2023. '
-    section5:
-      primarytype: 'block'
-      uuid: 'e82be4ce-ec4e-4035-bf81-95a4939de21e'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.898+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.898+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'The pullout of the Office of the Vice President (OVP) security detail
+        personnel based on OVP data in 2023.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e82be4ce-ec4e-4035-bf81-95a4939de21e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.898+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.898+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'The pullout of the Office of the Vice President (OVP) security detail
         came after Duterte stepped down as education chief and vice-chairperson of
-        the anti-insurgency task force. '
-    section6:
-      primarytype: 'block'
-      uuid: '740523de-5a4b-4ed5-bd86-2306ffc84600'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.899+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.899+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: 'Duterte skipped the SONA on Monday and instead went to Bohol to pay
+        the anti-insurgency task force.'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '740523de-5a4b-4ed5-bd86-2306ffc84600'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.899+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.899+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': 'Duterte skipped the SONA on Monday and instead went to Bohol to pay
         her respects to the late Vice Governor Dionisio Victor Balite.'
-    section7:
-      primarytype: 'block'
-      uuid: 'e2d303ae-22b0-4d11-92c8-ee0fc9ffff21'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.899+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.057+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.899+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p>The vice president cited personal reasons for quitting the Cabinet.</p>'
-    section8:
-      primarytype: 'block'
-      uuid: 'a219a49c-6749-4de1-99d1-b7ad242664ba'
-      activationstatus: true
-      created: 2024-07-23T18:47:20.899+08:00
-      createdby: 'lance-nwp'
-      lastactivated: 2024-07-23T18:47:30.058+08:00
-      lastactivatedby: 'lance-nwp'
-      lastmodified: 2024-07-23T18:47:20.899+08:00
-      lastmodifiedby: 'lance-nwp'
-      type: 'text'
-      text: '<p><em>NewsWatch Plus Correspondent Lance Mejico contributed to this
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e2d303ae-22b0-4d11-92c8-ee0fc9ffff21'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.899+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.057+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.899+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The vice president cited personal reasons for quitting the Cabinet.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a219a49c-6749-4de1-99d1-b7ad242664ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T18:47:20.899+08:00
+      'mgnl:createdBy': 'lance-nwp'
+      'mgnl:lastActivated': 2024-07-23T18:47:30.058+08:00
+      'mgnl:lastActivatedBy': 'lance-nwp'
+      'mgnl:lastModified': 2024-07-23T18:47:20.899+08:00
+      'mgnl:lastModifiedBy': 'lance-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>NewsWatch Plus Correspondent Lance Mejico contributed to this
         report.</em></p>'
-  'START HERE----->carina-typhoon-pagasa':
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-23T19:03:53.000+08:00
-    imagesource: '76213cf5-e02a-442d-8db9-83ee44bf15c9'
-    primarytype: 'composition'
-    uuid: '4be115b1-8796-47be-a0b9-ce77b22d8e9a'
-    lead: 'Typhoon Carina (international name: Gaemi) has intensified as it moves
+  'carina-typhoon-pagasa':
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-23T19:03:53.000+08:00
+    'imagesource': 'jcr:76213cf5-e02a-442d-8db9-83ee44bf15c9'
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '4be115b1-8796-47be-a0b9-ce77b22d8e9a'
+    'lead': 'Typhoon Carina (international name: Gaemi) has intensified as it moves
       northward, enhancing the southwest monsoon, state weather bureau PAGASA said
       in its 5 p.m. bulletin.'
-    activationstatus: true
-    created: 2024-07-23T19:06:09.083+08:00
-    createdby: 'tristan-nwp'
-    lastactivated: 2024-07-23T19:06:09.343+08:00
-    lastactivatedby: 'superuser'
-    lastmodified: 2024-07-23T19:06:09.119+08:00
-    lastmodifiedby: 'tristan-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: "Typhoon Carina intensifies, Batanes under Signal 2 \n"
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: 'bd9ae8bd-ef03-4b9f-bd34-4916870395e9'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.104+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.344+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.114+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines—</strong>Typhoon Carina (international
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-23T19:06:09.083+08:00
+    'mgnl:createdBy': 'tristan-nwp'
+    'mgnl:lastActivated': 2024-07-23T19:06:09.343+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2024-07-23T19:06:09.119+08:00
+    'mgnl:lastModifiedBy': 'tristan-nwp'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': "Typhoon Carina intensifies, Batanes under Signal 2 \n"
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd9ae8bd-ef03-4b9f-bd34-4916870395e9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.104+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.344+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.114+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines—</strong>Typhoon Carina (international
         name: Gaemi) has intensified as it moves northward, enhancing the southwest
         monsoon, state weather bureau PAGASA said in its 5 p.m. bulletin.</p>'
-    section1:
-      primarytype: 'block'
-      uuid: '3fa78a88-09e0-49c2-a74f-c61254d06d61'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.104+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.345+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.104+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'The agency said heavy rainfall is expected in Batanes, Babuyan Islands,
-        the northern and eastern portion of mainland Cagayan, and Ilocos Sur. '
-    section2:
-      primarytype: 'block'
-      uuid: '4d9a9fbe-cce5-497e-82a7-9e3221bec3de'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.105+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.347+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.105+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'In addition, the southwest monsoon or habagat enhanced by ‘Carina’
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3fa78a88-09e0-49c2-a74f-c61254d06d61'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.104+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.345+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.104+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'The agency said heavy rainfall is expected in Batanes, Babuyan Islands,
+        the northern and eastern portion of mainland Cagayan, and Ilocos Sur.'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4d9a9fbe-cce5-497e-82a7-9e3221bec3de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.105+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.347+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.105+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'In addition, the southwest monsoon or habagat enhanced by ‘Carina’
         is bringing moderate to intense rain over the western portion of Luzon through
-        Thursday. '
-    section3:
-      primarytype: 'block'
-      uuid: '97671c2c-b305-4a88-8aa0-37aada6c8903'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.105+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.348+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.105+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'PAGASA said ‘Carina’ packs maximum sustained winds of 150 kilometers
+        Thursday.'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97671c2c-b305-4a88-8aa0-37aada6c8903'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.105+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.348+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.105+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'PAGASA said ‘Carina’ packs maximum sustained winds of 150 kilometers
         pr hour (kph), with gusts of up to 185 kph. Its eye was last spotted 325 km
-        east northeast of Basco, Batanes. '
-    section4:
-      primarytype: 'block'
-      uuid: '0039fc6f-4d22-4f62-9b1c-790c606259d3'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.106+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.349+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.106+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Tropical cyclone wind signal no. 2 is up in Batanes with winds of 62
-        km/h and up to 88 km/h may be expected in at least 24 hours. '
-    section5:
-      primarytype: 'block'
-      uuid: '0cccc9f8-b49e-4a57-9e49-2503fb694472'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.106+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.350+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.106+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Tropical cyclone wind signal no.1 has been raised in the following
+        east northeast of Basco, Batanes.'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0039fc6f-4d22-4f62-9b1c-790c606259d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.106+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.349+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.106+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Tropical cyclone wind signal no. 2 is up in Batanes with winds of 62
+        km/h and up to 88 km/h may be expected in at least 24 hours.'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0cccc9f8-b49e-4a57-9e49-2503fb694472'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.106+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.350+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.106+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Tropical cyclone wind signal no.1 has been raised in the following
         areas: '
-    section6:
-      primarytype: 'block'
-      uuid: 'd34bffcb-ff52-4778-ad5e-142dc9793cfe'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.106+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.351+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.106+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Cagayan including Babuyan Islands'
-    section7:
-      primarytype: 'block'
-      uuid: 'e5a1904b-abe2-42ac-b6c3-01d6791e0465'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.107+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.352+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.107+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Eastern portion of Isabela (Divilacan, Palanan, Maconacon, Dinapigue,
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd34bffcb-ff52-4778-ad5e-142dc9793cfe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.106+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.351+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.106+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Cagayan including Babuyan Islands'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5a1904b-abe2-42ac-b6c3-01d6791e0465'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.107+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.352+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.107+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Eastern portion of Isabela (Divilacan, Palanan, Maconacon, Dinapigue,
         Tumauini, Ilagan City, San Mariano, Cabagan, San Pablo, Santa Maria)'
-    section8:
-      primarytype: 'block'
-      uuid: 'b32d8d18-a359-490f-8f3f-3feef6b8842e'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.107+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.353+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.107+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Northern portion of Apayao (Calanasan, Luna, Pudtol, Flora, Santa Marcela,
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b32d8d18-a359-490f-8f3f-3feef6b8842e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.107+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.353+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.107+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Northern portion of Apayao (Calanasan, Luna, Pudtol, Flora, Santa Marcela,
         Kabugao)'
-    section9:
-      primarytype: 'block'
-      uuid: '7218157f-625a-4470-a4ac-a6ff9c298230'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.108+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.354+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.108+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Northern portion of Ilocos Norte (Pagudpud, Bangui, Adams, Dumalneg,
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7218157f-625a-4470-a4ac-a6ff9c298230'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.108+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.354+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.108+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Northern portion of Ilocos Norte (Pagudpud, Bangui, Adams, Dumalneg,
         Burgos, Vintar, Pasuquin, Bacarra, Carasi)'
-    section10:
-      primarytype: 'block'
-      uuid: '5ba016bc-6fff-4786-af6e-fdebf4b4124b'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.108+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.355+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.108+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: 'Winds of 39-61 km/h may be expected in at least 36 hours or intermittent
-        rains may be expected within 36 hours. '
-    section11:
-      primarytype: 'block'
-      uuid: '28ca365d-5ca1-4883-ad54-1d6c8c571b2e'
-      activationstatus: true
-      created: 2024-07-23T19:06:09.109+08:00
-      createdby: 'tristan-nwp'
-      lastactivated: 2024-07-23T19:06:09.356+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T19:06:09.109+08:00
-      lastmodifiedby: 'tristan-nwp'
-      type: 'text'
-      text: '<p>Earlier, Malacanang suspended government work and classes in all
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5ba016bc-6fff-4786-af6e-fdebf4b4124b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.108+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.355+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.108+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': 'Winds of 39-61 km/h may be expected in at least 36 hours or intermittent
+        rains may be expected within 36 hours.'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '28ca365d-5ca1-4883-ad54-1d6c8c571b2e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:09.109+08:00
+      'mgnl:createdBy': 'tristan-nwp'
+      'mgnl:lastActivated': 2024-07-23T19:06:09.356+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T19:06:09.109+08:00
+      'mgnl:lastModifiedBy': 'tristan-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>Earlier, Malacanang suspended government work and classes in all
         levels in Metro Manila due to non-stop rains.</p>'
-  'START HERE----->Gov-t-work--classes-suspended-due-to-non-stop-rains-on-July-24':
-    author: 'NewsWatch Plus staff'
-    categories: '47875775-1e19-4807-a703-c6d00e541860'
-    created: 2024-07-23T19:02:05.000+08:00
-    imagesource: 'a024c30f-ed1a-42d6-931c-e22e705d2142'
-    mixintypes: 'hasVersion'
-    primarytype: 'composition'
-    uuid: '3b05668e-1476-43b2-92c7-1578f7c8036d'
-    lead: 'Several cities and academic institutions have declared class suspensions
+  'Gov-t-work--classes-suspended-due-to-non-stop-rains-on-July-24':
+    'author': 'NewsWatch Plus staff'
+    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
+    'created': 2024-07-23T19:02:05.000+08:00
+    'imagesource': 'jcr:a024c30f-ed1a-42d6-931c-e22e705d2142'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '3b05668e-1476-43b2-92c7-1578f7c8036d'
+    'lead': 'Several cities and academic institutions have declared class suspensions
       for Tuesday, July 24, due to Typhoon Carina (international name: Gaemi).'
-    activationstatus: true
-    created: 2024-07-23T19:06:34.325+08:00
-    createdby: 'thea-nwp'
-    lastactivated: 2024-07-23T20:12:50.586+08:00
-    lastactivatedby: 'superuser'
-    lastmodified: 2024-07-23T20:12:50.278+08:00
-    lastmodifiedby: 'jelo-nwp'
-    tags: ''
-    stories: ''
-    template: '1'
-    title: 'Gov’t work, classes suspended due to non-stop rains on July 24'
-    updated: 2024-07-23T20:12:00.000+08:00
-    visualtype: 'image'
-    section0:
-      primarytype: 'block'
-      uuid: '4589d610-0ff2-42d8-a8de-419a8d1f9714'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.347+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.586+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.271+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>Metro Manila, Philippines</strong> – Several cities and
+    'mgnl:activationStatus': true
+    'mgnl:created': 2024-07-23T19:06:34.325+08:00
+    'mgnl:createdBy': 'thea-nwp'
+    'mgnl:lastActivated': 2024-07-23T20:12:50.586+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2024-07-23T20:12:50.278+08:00
+    'mgnl:lastModifiedBy': 'jelo-nwp'
+    'mgnl:tags': ['class-suspension', 'Walang-Pasok', 'CarinaPH']
+    'stories': ['']
+    'template': '1'
+    'title': 'Gov’t work, classes suspended due to non-stop rains on July 24'
+    'updated': 2024-07-23T20:12:00.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4589d610-0ff2-42d8-a8de-419a8d1f9714'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.347+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.586+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.271+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila, Philippines</strong> – Several cities and
         academic institutions have declared class suspensions for Tuesday, July 24,
         due to Typhoon Carina (international name: Gaemi).</p>'
-    section1:
-      primarytype: 'block'
-      uuid: '43565436-eca4-4691-9f17-77c4094add04'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.347+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.587+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.271+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: "State weather forecasters said in its 5 p.m. bulletin that Carina has\
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '43565436-eca4-4691-9f17-77c4094add04'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.347+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.587+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.271+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': "State weather forecasters said in its 5 p.m. bulletin that Carina has\
         \ further intensified as it moves northward, enhancing the southwest monsoon.\r"
-    section2:
-      primarytype: 'block'
-      uuid: '0edf6687-99ad-4e2c-a874-3d905bc4bf36'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.348+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.587+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.272+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>The following LGUs and academic institutions have suspended onsite
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0edf6687-99ad-4e2c-a874-3d905bc4bf36'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.348+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.587+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.272+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>The following LGUs and academic institutions have suspended onsite
         work and classes:</p>'
-    section3:
-      primarytype: 'block'
-      uuid: 'd8a69672-1261-46e8-b8d5-30bac187887a'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.348+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.587+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.272+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>All levels, public and private</strong></p>'
-    section8:
-      primarytype: 'block'
-      uuid: '12fd61cd-7176-4231-a410-528748c23f09'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.350+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.588+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.273+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Malabon City</p>'
-    section10:
-      primarytype: 'block'
-      uuid: 'd5f048f9-e750-45d5-90d7-ee884e9b0e74'
-      activationstatus: true
-      created: 2024-07-23T20:09:14.986+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T20:12:50.588+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.273+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Navotas City</p>'
-    section11:
-      primarytype: 'block'
-      uuid: '52cb56ec-2942-4229-9a5f-71e3bd6b533b'
-      activationstatus: true
-      created: 2024-07-23T20:09:14.987+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T20:12:50.588+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.274+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Cavite</p>'
-    section12:
-      primarytype: 'block'
-      uuid: '531e3f75-b617-4b6e-acf0-6200c63ea4c4'
-      activationstatus: true
-      created: 2024-07-23T20:09:14.987+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T20:12:50.589+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.274+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Calamba, Laguna</p>'
-    section4:
-      primarytype: 'block'
-      uuid: '13a1f8f4-e61a-4940-8bf5-d4e658db8d23'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.348+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.589+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.275+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- San Pedro, Laguna</p>'
-    section5:
-      primarytype: 'block'
-      uuid: '94ade6bb-635e-4b6d-8751-c09c2af86f80'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.349+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.589+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.275+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Biñan, Laguna</p>'
-    section13:
-      primarytype: 'block'
-      uuid: 'be2e1a2c-9d0c-4292-896e-6f735b9acb09'
-      activationstatus: true
-      created: 2024-07-23T20:09:14.988+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T20:12:50.590+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.276+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><strong>Government office</strong></p>'
-    section14:
-      primarytype: 'block'
-      uuid: '7e5107ee-763a-4a6b-aeb3-4906e4e64102'
-      activationstatus: true
-      created: 2024-07-23T20:09:14.989+08:00
-      createdby: 'jelo-nwp'
-      lastactivated: 2024-07-23T20:12:50.591+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.276+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p>- Batanes</p>'
-    section9:
-      primarytype: 'block'
-      uuid: '58ab8046-6a4c-4a37-a1e0-33f9fe5604bc'
-      activationstatus: true
-      created: 2024-07-23T19:06:34.350+08:00
-      createdby: 'thea-nwp'
-      lastactivated: 2024-07-23T20:12:50.591+08:00
-      lastactivatedby: 'superuser'
-      lastmodified: 2024-07-23T20:12:50.277+08:00
-      lastmodifiedby: 'jelo-nwp'
-      type: 'text'
-      text: '<p><em>Please refresh this page for updates.</em></p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8a69672-1261-46e8-b8d5-30bac187887a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.348+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.587+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.272+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>All levels, public and private</strong></p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '12fd61cd-7176-4231-a410-528748c23f09'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.350+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.588+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.273+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Malabon City</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd5f048f9-e750-45d5-90d7-ee884e9b0e74'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T20:09:14.986+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.588+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.273+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Navotas City</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52cb56ec-2942-4229-9a5f-71e3bd6b533b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T20:09:14.987+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.588+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.274+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Cavite</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '531e3f75-b617-4b6e-acf0-6200c63ea4c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T20:09:14.987+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.589+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.274+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Calamba, Laguna</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '13a1f8f4-e61a-4940-8bf5-d4e658db8d23'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.348+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.589+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.275+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- San Pedro, Laguna</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '94ade6bb-635e-4b6d-8751-c09c2af86f80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.349+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.589+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.275+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Biñan, Laguna</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'be2e1a2c-9d0c-4292-896e-6f735b9acb09'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T20:09:14.988+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.590+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.276+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Government office</strong></p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7e5107ee-763a-4a6b-aeb3-4906e4e64102'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T20:09:14.989+08:00
+      'mgnl:createdBy': 'jelo-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.591+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.276+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p>- Batanes</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '58ab8046-6a4c-4a37-a1e0-33f9fe5604bc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2024-07-23T19:06:34.350+08:00
+      'mgnl:createdBy': 'thea-nwp'
+      'mgnl:lastActivated': 2024-07-23T20:12:50.591+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2024-07-23T20:12:50.277+08:00
+      'mgnl:lastModifiedBy': 'jelo-nwp'
+      'mgnl:type': 'text'
+      'text': '<p><em>Please refresh this page for updates.</em></p>'
