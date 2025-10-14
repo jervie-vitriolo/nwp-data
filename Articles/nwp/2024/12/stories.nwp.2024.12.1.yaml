@@ -1,2004 +1,2004 @@
-'1':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'b0eb8bf2-335e-43c4-b33e-9dcc5effb737'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-12-01T09:39:29.106+08:00
-  'mgnl:createdBy': 'daniza-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:34:03.715+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:21.414+08:00
-  'mgnl:lastModified': 2024-12-01T16:58:31.855+08:00
-  'mgnl:lastModifiedBy': 'daniza-nwp'
-  'rains-3-weather-systems':
-    'caption': 'The state weather bureau’s satellite image as of Dec. 1, 9:10 a.m.
+section1:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'b0eb8bf2-335e-43c4-b33e-9dcc5effb737'
+  activationstatus: true
+  created: 2024-12-01T09:39:29.106+08:00
+  createdby: 'daniza-nwp'
+  lastactivated: 2025-03-13T12:34:03.715+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:31:21.414+08:00
+  lastmodified: 2024-12-01T16:58:31.855+08:00
+  lastmodifiedby: 'daniza-nwp'
+  'START HERE----->rains-3-weather-systems':
+    caption: 'The state weather bureau’s satellite image as of Dec. 1, 9:10 a.m.
       (PAGASA/Website)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T09:39:29.000+08:00
-    'imagesource': 'jcr:8e63b00b-cfa5-491a-9c80-57c122b1d46a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ec66db55-a2aa-45c7-87ff-410ffdf009b5'
-    'lead': 'Several parts of the country will have a rainy Sunday due to three weather
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T09:39:29.000+08:00
+    imagesource: '8e63b00b-cfa5-491a-9c80-57c122b1d46a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ec66db55-a2aa-45c7-87ff-410ffdf009b5'
+    lead: 'Several parts of the country will have a rainy Sunday due to three weather
       systems, the state weather bureau said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T09:42:43.634+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:11.243+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:21.520+08:00
-    'mgnl:lastModified': 2024-12-01T09:42:43.656+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '3 weather systems to dump rains – PAGASA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '800a9957-81ef-455e-a3cb-36da36c9c849'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.647+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.245+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.647+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Several parts of the
+    activationstatus: true
+    created: 2024-12-01T09:42:43.634+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:11.243+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:31:21.520+08:00
+    lastmodified: 2024-12-01T09:42:43.656+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '3 weather systems to dump rains – PAGASA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '800a9957-81ef-455e-a3cb-36da36c9c849'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.647+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.245+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.647+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Several parts of the
         country will have a rainy Sunday due to three weather systems, the Philippine
         Atmospheric, Geophysical and Astronomical Services Administration (PAGASA)
         said on Dec. 1.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0b59c2f-9c13-4605-9422-724a02f79289'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.648+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.246+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.648+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In its forecast, PAGASA said that the shear line – the convergence
+    section1:
+      primarytype: 'block'
+      uuid: 'a0b59c2f-9c13-4605-9422-724a02f79289'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.648+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.246+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.648+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In its forecast, PAGASA said that the shear line – the convergence
         of cold and warm winds – will bring overcast skies with scattered rains and
         thunderstorms over Metro Manila, Calabarzon, Bicol, Eastern Visayas, Bulacan,
         Oriental Mindoro, Marinduque, Romblon, Negros Occidental, and Cebu.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3817466c-cd91-4def-baee-7b68d5f07d2f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.648+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.247+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.648+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The same weather condition will be experienced over the Davao Region,
+    section2:
+      primarytype: 'block'
+      uuid: '3817466c-cd91-4def-baee-7b68d5f07d2f'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.648+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.247+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.648+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The same weather condition will be experienced over the Davao Region,
         Soccsksargen, Zamboanga Peninsula, Basilan, Sulu, Tawi-Tawi, and Palawan but
         because of the intertropical convergence zone – an area where the winds of
         the northern and southern hemispheres meet.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9f0866d-8bfa-4649-9392-a9d213bb3830'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.649+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.247+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.649+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the northeast monsoon will cause cloudy skies with rains
+    section3:
+      primarytype: 'block'
+      uuid: 'd9f0866d-8bfa-4649-9392-a9d213bb3830'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.649+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.247+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.649+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Meanwhile, the northeast monsoon will cause cloudy skies with rains
         over Cagayan Valley, Cordillera Administrative Region, and Aurora.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11bf21e3-1ff7-44d8-965e-7698ce23d14d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.649+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.248+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.649+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'It will also bring partly cloudy to cloudy skies with isolated light
+    section4:
+      primarytype: 'block'
+      uuid: '11bf21e3-1ff7-44d8-965e-7698ce23d14d'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.649+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.248+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.649+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'It will also bring partly cloudy to cloudy skies with isolated light
         rains over the Ilocos Region and the rest of Central Luzon.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '065a38ce-b3ce-4a9f-88b9-c4a73cb1ad73'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.649+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.249+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.649+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The rest of the archipelago will have partly overcast to overcast skies
+    section5:
+      primarytype: 'block'
+      uuid: '065a38ce-b3ce-4a9f-88b9-c4a73cb1ad73'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.649+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.249+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.649+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The rest of the archipelago will have partly overcast to overcast skies
         with isolated rain showers or thunderstorms brought by localized thunderstorms.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce62a05f-6b03-410e-9e34-52e458deea46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T09:42:43.650+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:11.249+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T09:42:43.650+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PAGASA warned against potential floods or landslides due to moderate
+    section6:
+      primarytype: 'block'
+      uuid: 'ce62a05f-6b03-410e-9e34-52e458deea46'
+      activationstatus: true
+      created: 2024-12-01T09:42:43.650+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:11.249+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T09:42:43.650+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>PAGASA warned against potential floods or landslides due to moderate
         to heavy rains or during severe thunderstorms.</p>'
-  'syria-rebels-sweep-aleppo-russia':
-    'author': 'Suleiman Al-Khalidi, Reuters'
-    'caption': 'Syrian opposition fighters stand in front of University of Aleppo,
+  'START HERE----->syria-rebels-sweep-aleppo-russia':
+    author: 'Suleiman Al-Khalidi, Reuters'
+    caption: 'Syrian opposition fighters stand in front of University of Aleppo,
       after rebels opposed to Syria’s President Bashar al-Assad said they had reached
       the heart of Aleppo, Syria November 30, 2024. (Mahmoud Hasano/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T09:58:52.000+08:00
-    'imagesource': 'jcr:8c9d7b12-5d98-48b2-a5ec-e710e797f8c3'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '29af6d4c-fc1e-4821-bd38-1f7c2e93d677'
-    'lead': 'The Syrian army said dozens of its soldiers had been killed in a major
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T09:58:52.000+08:00
+    imagesource: '8c9d7b12-5d98-48b2-a5ec-e710e797f8c3'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '29af6d4c-fc1e-4821-bd38-1f7c2e93d677'
+    lead: 'The Syrian army said dozens of its soldiers had been killed in a major
       attack led by Islamist Hayat Tahrir al-Sham rebels who swept into the city of
       Aleppo, forcing the army to redeploy in the biggest challenge to President Bashar
       al-Assad in years.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T10:08:54.874+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:10.942+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:21.708+08:00
-    'mgnl:lastModified': 2024-12-01T10:08:54.924+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Syrian rebels sweep into Aleppo, Russia conducts strikes in support
+    activationstatus: true
+    created: 2024-12-01T10:08:54.874+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:10.942+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:21.708+08:00
+    lastmodified: 2024-12-01T10:08:54.924+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Syrian rebels sweep into Aleppo, Russia conducts strikes in support
       of Assad'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4976235-34ce-40f9-afa3-5b264bd69721'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.890+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.945+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.890+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Amman, Jordan&nbsp;—</strong> The Syrian army said on Saturday
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f4976235-34ce-40f9-afa3-5b264bd69721'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.890+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.945+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.890+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Amman, Jordan&nbsp;—</strong> The Syrian army said on Saturday
         dozens of its soldiers had been killed in a major attack led by Islamist Hayat
         Tahrir al-Sham rebels who swept into the city of Aleppo, forcing the army
         to redeploy in the biggest challenge to President Bashar al-Assad in years.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7e5697d-8f30-4c37-a115-1953349f3975'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.890+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.945+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.890+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Russia’s Defense Ministry said its air force had carried out strikes
+    section1:
+      primarytype: 'block'
+      uuid: 'b7e5697d-8f30-4c37-a115-1953349f3975'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.890+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.945+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.890+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Russia’s Defense Ministry said its air force had carried out strikes
         on Syrian rebels in support of the country’s army, Russian news agencies
         reported. The strikes followed what was the boldest rebel assault for years
         in a civil war where front lines had largely been frozen since 2020.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81cbdd84-d11c-49cd-8813-cfbf859a1f1f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.890+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.946+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.890+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Hayat Tahrir al-Sham, or HTS, once known as the Nusra Front, is
+    section2:
+      primarytype: 'block'
+      uuid: '81cbdd84-d11c-49cd-8813-cfbf859a1f1f'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.890+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.946+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.890+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Hayat Tahrir al-Sham, or HTS, once known as the Nusra Front, is
         designated a terrorist group by the U.S., Russia, Turkey and other states.
         Assad is a close Moscow ally.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3700927d-8adc-4494-a4bd-afc488d6504d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.891+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.947+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.891+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In Washington, the White House National Security Council said it
+    section3:
+      primarytype: 'block'
+      uuid: '3700927d-8adc-4494-a4bd-afc488d6504d'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.891+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.947+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.891+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In Washington, the White House National Security Council said it
         was closely monitoring the situation and had been in contact with regional
         capitals over the last 48 hours.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0ef4105-35d7-4453-b82d-8819f3c2e292'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.891+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.947+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.891+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>NSC spokesperson Sean Savett said Syria’s refusal to engage in
+    section4:
+      primarytype: 'block'
+      uuid: 'a0ef4105-35d7-4453-b82d-8819f3c2e292'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.891+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.947+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.891+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>NSC spokesperson Sean Savett said Syria’s refusal to engage in
         a political process and its reliance on Russia and Iran had "created the conditions
         now unfolding, including the collapse of Assad regime lines in northwest Syria."</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c9a9d73-ea93-479d-99d0-645bea23186f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.891+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.948+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.891+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Savett said the U.S. had nothing to do with the offensive led by
+    section5:
+      primarytype: 'block'
+      uuid: '2c9a9d73-ea93-479d-99d0-645bea23186f'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.891+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.948+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.891+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Savett said the U.S. had nothing to do with the offensive led by
         "a designated terrorist organization" and "urged de-escalation ... and a serious
         and credible political process" under the 2015 U.N. Security Council Resolution
         2254, which laid out the steps for a ceasefire and political transition.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a4cb7d4-a83c-46d2-8131-5e0f7c1ca2ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.892+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.949+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.892+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The war, which has killed hundreds of thousands of people and displaced
+    section6:
+      primarytype: 'block'
+      uuid: '8a4cb7d4-a83c-46d2-8131-5e0f7c1ca2ae'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.892+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.949+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.892+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The war, which has killed hundreds of thousands of people and displaced
         many millions, has ground on since 2011 with no formal end, although most
         major fighting halted years ago after Iran and Russia helped Assad’s government
         win control of most land and all major cities.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8cf17566-a483-4fc7-a85b-99c69bb6d7c3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.892+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.949+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.892+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Aleppo had been firmly held by the government since a 2016 victory
+    section7:
+      primarytype: 'block'
+      uuid: '8cf17566-a483-4fc7-a85b-99c69bb6d7c3'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.892+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.949+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.892+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Aleppo had been firmly held by the government since a 2016 victory
         there, one of the war’s major turning points, when Russian-backed Syrian
         forces besieged and laid waste to rebel-held eastern areas of what had been
         the country’s largest city.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3fd77b70-0f7b-471b-8db7-013871e6480d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.892+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.950+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.892+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"I am a son of Aleppo, and was displaced from it eight years ago,
+    section8:
+      primarytype: 'block'
+      uuid: '3fd77b70-0f7b-471b-8db7-013871e6480d'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.892+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.950+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.892+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"I am a son of Aleppo, and was displaced from it eight years ago,
         in 2016. Thank God we just returned. It is an indescribable feeling," said
         Ali Jumaa, a rebel fighter, in television footage filmed inside the city.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a9be554-6976-4cb2-aef4-bde463a62a20'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.893+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.951+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.893+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Acknowledging the rebel advance, the Syrian army command said insurgents
+    section9:
+      primarytype: 'block'
+      uuid: '0a9be554-6976-4cb2-aef4-bde463a62a20'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.893+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.951+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.893+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Acknowledging the rebel advance, the Syrian army command said insurgents
         had entered much of Aleppo.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5942c204-146d-47a8-bb4b-f4af5c5904ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.893+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.951+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.893+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>After the army said it was preparing a counterattack, airstrikes
+    section10:
+      primarytype: 'block'
+      uuid: '5942c204-146d-47a8-bb4b-f4af5c5904ad'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.893+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.951+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.893+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>After the army said it was preparing a counterattack, airstrikes
         targeted rebel gatherings and convoys in the city, the pro-Damascus newspaper
         al-Watan reported. One strike caused casualties in Aleppo’s Basel square,
         a resident told Reuters.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '68fb3ffc-14b9-44c6-8181-efe9ebc59eb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.894+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.952+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.894+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The state-run Russian Center for the Reconciliation of the Enemy
+    section11:
+      primarytype: 'block'
+      uuid: '68fb3ffc-14b9-44c6-8181-efe9ebc59eb6'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.894+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.952+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.894+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The state-run Russian Center for the Reconciliation of the Enemy
         Parties in Syria said missile and bomb strikes against the rebels had targeted
         "militant concentrations, command posts, depots, and artillery positions"
         in Aleppo and Idlib provinces. It claimed about 300 rebel fighters had been
         killed.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f00a6c0-f91e-4d89-a7fd-1f83e74545c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.894+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.952+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.894+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Images filmed on Saturday showed people posing for photos on a toppled
+    section12:
+      primarytype: 'block'
+      uuid: '7f00a6c0-f91e-4d89-a7fd-1f83e74545c5'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.894+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.952+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.894+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Images filmed on Saturday showed people posing for photos on a toppled
         statue of Bassil al-Assad, late brother of the president. Fighters zipped
         around the city in trucks and milled around in the streets. A man waved a
         Syrian opposition flag as he stood near Aleppo’s historic citadel.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '869adad9-456f-4ef2-9488-6dddb2226e1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.895+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.953+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.895+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Syrian military command said militants had attacked in large
+    section13:
+      primarytype: 'block'
+      uuid: '869adad9-456f-4ef2-9488-6dddb2226e1c'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.895+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.953+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.895+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Syrian military command said militants had attacked in large
         numbers and from multiple directions, prompting "our armed forces to carry
         out a redeployment operation aimed at strengthening the defense lines in order
         to absorb the attack, preserve the lives of civilians and soldiers."</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '778a16d3-794e-47ac-bb7b-7b3bcaf3afe8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.895+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.954+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.895+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The rebels also took control of Aleppo airport, according to a statement
+    section14:
+      primarytype: 'block'
+      uuid: '778a16d3-794e-47ac-bb7b-7b3bcaf3afe8'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.895+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.954+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.895+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The rebels also took control of Aleppo airport, according to a statement
         by their operations room and a security source.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e4e89ca-8e6a-4af5-84f0-e4e340b93724'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.895+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.954+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.895+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Two rebel sources also said the insurgents had captured the city
+    section15:
+      primarytype: 'block'
+      uuid: '8e4e89ca-8e6a-4af5-84f0-e4e340b93724'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.895+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.954+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.895+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Two rebel sources also said the insurgents had captured the city
         of Maraat al Numan in Idlib province, bringing all of that area under their
         control.</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fdc2cd02-e1ba-4302-bfdb-2a4cf7826ee8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.896+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.955+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.896+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The fighting revives the long-simmering Syrian conflict as the wider
+    section16:
+      primarytype: 'block'
+      uuid: 'fdc2cd02-e1ba-4302-bfdb-2a4cf7826ee8'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.896+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.955+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.896+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The fighting revives the long-simmering Syrian conflict as the wider
         region is roiled by wars in Gaza and Lebanon, where a truce between Israel
         and the Iran-backed Lebanese group Hezbollah took effect on Wednesday.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd488fb99-1ed5-48bb-9408-4710305effe2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.896+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.956+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.896+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>With Assad backed by Russia and Iran, and Turkey supporting some
+    section17:
+      primarytype: 'block'
+      uuid: 'd488fb99-1ed5-48bb-9408-4710305effe2'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.896+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.956+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.896+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>With Assad backed by Russia and Iran, and Turkey supporting some
         of the rebels in the northwest where it maintains troops, the offensive has
         brought into focus the conflict’s knotted geopolitics. Fighting in the northwest
         had largely abated since Turkey and Russia reached a de-escalation agreement
         in 2020.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5410b497-4324-4fff-9647-2c957344f98d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.897+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.956+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.897+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Russian, Turkish ministers talk</strong></h2>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55473cbd-d0d6-42ca-85db-877a127bc568'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.897+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.957+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.897+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Russian Foreign Minister Sergei Lavrov held a phone call with his Turkish
+    section18:
+      primarytype: 'block'
+      uuid: '5410b497-4324-4fff-9647-2c957344f98d'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.897+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.956+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.897+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<h2><strong>Russian, Turkish ministers talk</strong></h2>'
+    section19:
+      primarytype: 'block'
+      uuid: '55473cbd-d0d6-42ca-85db-877a127bc568'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.897+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.957+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.897+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Russian Foreign Minister Sergei Lavrov held a phone call with his Turkish
         counterpart, Hakan Fidan, discussing the situation in Syria, Russia’s Foreign
         Ministry said on Saturday.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '13640661-a614-4552-ba64-4b742b4bc7b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.898+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.958+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.898+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Both sides expressed serious concerns at the dangerous development
+    section20:
+      primarytype: 'block'
+      uuid: '13640661-a614-4552-ba64-4b742b4bc7b5'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.898+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.958+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.898+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Both sides expressed serious concerns at the dangerous development
         of the situation," the ministry said. They agreed it was necessary to coordinate
         joint actions to stabilise the situation in the country.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c64eb30c-877c-4dd5-bacc-b815062bf401'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.898+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.958+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.898+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Turkish security officials had said on Thursday that Ankara had
+    section21:
+      primarytype: 'block'
+      uuid: 'c64eb30c-877c-4dd5-bacc-b815062bf401'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.898+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.958+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.898+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Turkish security officials had said on Thursday that Ankara had
         prevented operations which opposition groups wanted to organize, in order
         to avoid further tensions in the region.</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0bb41f7d-c506-4118-a6d9-9ca5113e2eda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.899+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.899+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Iranian Foreign Minister Abbas Araqchi told Lavrov in a phone call
+    section22:
+      primarytype: 'block'
+      uuid: '0bb41f7d-c506-4118-a6d9-9ca5113e2eda'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.899+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.899+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Iranian Foreign Minister Abbas Araqchi told Lavrov in a phone call
         that the rebel attacks were part of an Israeli-U.S. plan to destabilize the
         region, Iranian state media said.</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8175724e-bd80-48c6-acf4-3c884708ab80'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.899+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.899+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Syrian Civil Defense, a rescue service operating in opposition-held
+    section23:
+      primarytype: 'block'
+      uuid: '8175724e-bd80-48c6-acf4-3c884708ab80'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.899+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.899+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Syrian Civil Defense, a rescue service operating in opposition-held
         parts of Syria, said in a post on X that Syrian government and Russian aircraft
         carried out airstrikes on residential neighborhoods in rebel-held Idlib, killing
         four civilians and wounding six others.</p>'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59436762-6c29-46e7-8dea-eacaeb14f824'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.900+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.960+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.900+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Two Syrian military sources said Russia has promised Damascus extra
+    section24:
+      primarytype: 'block'
+      uuid: '59436762-6c29-46e7-8dea-eacaeb14f824'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.900+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.960+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.900+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Two Syrian military sources said Russia has promised Damascus extra
         military aid that would start arriving in the next 72 hours.</p>'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73d5fff6-320f-4b0c-bc0f-ede256700523'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.900+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.900+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Kurdish People’s Protection Units (YPG), which spearhead the
+    section25:
+      primarytype: 'block'
+      uuid: '73d5fff6-320f-4b0c-bc0f-ede256700523'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.900+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.900+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Kurdish People’s Protection Units (YPG), which spearhead the
         U.S.-backed Syrian Democratic Forces that control much of northeastern and
         eastern Syria and have long had a foothold in Aleppo, widened their control
         in the city as government troops left, a senior YPG source said.</p>'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '61df9094-d3d5-4ce4-8d43-714fa2de3fee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.901+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.901+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Mustafa Abdul Jaber, a commander in the Jaish al-Izza rebel brigade,
-        said the rebels'' speedy advance had been helped by a lack of Iran-backed
+    section26:
+      primarytype: 'block'
+      uuid: '61df9094-d3d5-4ce4-8d43-714fa2de3fee'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.901+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.901+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Mustafa Abdul Jaber, a commander in the Jaish al-Izza rebel brigade,
+        said the rebels' speedy advance had been helped by a lack of Iran-backed
         manpower to support the government in the broader Aleppo province.</p>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b91334d-45fc-4429-8354-9016b765579a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.901+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.962+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.901+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Iran’s regional allies have suffered a series of blows at the hands
+    section27:
+      primarytype: 'block'
+      uuid: '1b91334d-45fc-4429-8354-9016b765579a'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.901+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.962+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.901+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Iran’s regional allies have suffered a series of blows at the hands
         of Israel as the Gaza war has expanded through the Middle East.</p>'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31aaf113-bbd3-4eb0-8ad5-757cb2222626'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.902+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.962+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.902+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The opposition fighters have said the campaign was in response to
+    section28:
+      primarytype: 'block'
+      uuid: '31aaf113-bbd3-4eb0-8ad5-757cb2222626'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.902+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.962+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.902+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The opposition fighters have said the campaign was in response to
         stepped-up strikes in recent weeks against civilians by the Russian and Syrian
         air forces on areas of Idlib province, and to preempt any attacks by the Syrian
         army.</p>'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c823b655-24bd-42fb-9c49-77dfc04dad52'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:08:54.903+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:10.963+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:08:54.903+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Suleiman Al-Khalidi in Amman, Adam Makary and
+    section29:
+      primarytype: 'block'
+      uuid: 'c823b655-24bd-42fb-9c49-77dfc04dad52'
+      activationstatus: true
+      created: 2024-12-01T10:08:54.903+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:10.963+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:08:54.903+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Suleiman Al-Khalidi in Amman, Adam Makary and
         Menna Alaa El Din in Cairo, Ece Toksabay in Ankara, Felix Light in Tbilisi
         and Simon Lewis and David Brunnstrom in Washington; Writing by Tom Perry and
         David Brunnstrom; Editing by Frances Kerry, Peter Graff, Nick Zieminski, Rod
         Nickel and Daniel Wallis)</em></p>'
-  'trump-picks-kash-patel-fbi':
-    'author': 'Sarah N. Lynch, Reuters'
-    'caption': 'Kash Patel, former chief of staff to the defense secretary, speaks
+  'START HERE----->trump-picks-kash-patel-fbi':
+    author: 'Sarah N. Lynch, Reuters'
+    caption: 'Kash Patel, former chief of staff to the defense secretary, speaks
       on the day Republican presidential candidate and former U.S. President Donald
       Trump holds a campaign rally, in Prescott Valley, Arizona, U.S., October 13,
       2024. (Go Nakamura/Reuters/File Photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T10:17:51.000+08:00
-    'imagesource': 'jcr:dffc0869-8213-4bca-9740-cf02c0fd511b'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4d9d6e5a-95e0-46ee-94b3-87feda86c3cb'
-    'lead': 'Republican President-elect Donald Trump said he wanted former National
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T10:17:51.000+08:00
+    imagesource: 'dffc0869-8213-4bca-9740-cf02c0fd511b'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '4d9d6e5a-95e0-46ee-94b3-87feda86c3cb'
+    lead: 'Republican President-elect Donald Trump said he wanted former National
       Security official and loyalist Kash Patel to lead the FBI, signaling an intent
       to drive out the bureau’s current director, Christopher Wray.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T10:23:20.377+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:06.140+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:21.921+08:00
-    'mgnl:lastModified': 2024-12-01T10:23:20.415+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump picks Kash Patel to head FBI'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe1363d7-ffd0-4bbc-8db4-67644bfc2b56'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.390+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.142+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.390+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, United States&nbsp;—</strong> Republican President-elect
+    activationstatus: true
+    created: 2024-12-01T10:23:20.377+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:06.140+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:21.921+08:00
+    lastmodified: 2024-12-01T10:23:20.415+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump picks Kash Patel to head FBI'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fe1363d7-ffd0-4bbc-8db4-67644bfc2b56'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.390+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.142+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.390+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, United States&nbsp;—</strong> Republican President-elect
         Donald Trump said on Saturday he wanted former National Security official
         and loyalist Kash Patel to lead the FBI, signaling an intent to drive out
         the bureau’s current director, Christopher Wray.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '71599f68-65d2-44e9-891e-86ea1b2fa1b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.143+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.391+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Patel, who during Trump’s first term advised both the director
+    section1:
+      primarytype: 'block'
+      uuid: '71599f68-65d2-44e9-891e-86ea1b2fa1b2'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.143+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.391+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Patel, who during Trump’s first term advised both the director
         of national intelligence and the secretary of defense, has previously called
         for stripping the FBI of its intelligence-gathering role and purging its ranks
         of any employee who refuses to support Trump’s agenda.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ea55c275-fe6f-44e8-a091-f06abd75fd98'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.144+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.391+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"The biggest problem the FBI has had, has come out of its intel
-        shops. I''d break that component out of it. I''d shut down the FBI Hoover
+    section2:
+      primarytype: 'block'
+      uuid: 'ea55c275-fe6f-44e8-a091-f06abd75fd98'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.144+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.391+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"The biggest problem the FBI has had, has come out of its intel
+        shops. I'd break that component out of it. I'd shut down the FBI Hoover
         building on day one and reopen it the next day as a museum of the deep state,"
         Patel said in a September interview on the conservative Shawn Ryan Show.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98bd7d47-0080-483d-8fa1-3b774e5041d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.145+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.391+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"And I''d take the 7,000 employees that work in that building and
-        send them across America to chase down criminals. Go be cops. You''re cops.
+    section3:
+      primarytype: 'block'
+      uuid: '98bd7d47-0080-483d-8fa1-3b774e5041d5'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.145+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.391+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"And I'd take the 7,000 employees that work in that building and
+        send them across America to chase down criminals. Go be cops. You're cops.
         Go be cops."</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d17912f-e828-48b3-931c-5c2da8aea348'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.392+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.392+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'With the nomination of Patel, Trump is signaling that he is preparing
+    section4:
+      primarytype: 'block'
+      uuid: '3d17912f-e828-48b3-931c-5c2da8aea348'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.392+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.392+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'With the nomination of Patel, Trump is signaling that he is preparing
         to carry out his threat to oust Wray, a Republican first appointed by Trump,
         whose 10-year term at the FBI does not expire until 2027.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5559b51c-d157-463b-a971-65add53fe0c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.392+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.392+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Asked about Patel’s nomination, which will need Senate confirmation,
+    section5:
+      primarytype: 'block'
+      uuid: '5559b51c-d157-463b-a971-65add53fe0c4'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.392+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.392+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Asked about Patel’s nomination, which will need Senate confirmation,
         an FBI spokesperson said on Saturday: "Every day, the men and women of the
         FBI continue to work to protect Americans from a growing array of threats.
         Director Wray’s focus remains on the men and women of the FBI, the people
         we do the work with, and the people we do the work for."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b3fbdaa-bb7e-4eaa-9c8b-16a1401ddd4f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.392+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.147+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.392+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'FBI directors by law are appointed to 10-year terms as a means of insulating
+    section6:
+      primarytype: 'block'
+      uuid: '6b3fbdaa-bb7e-4eaa-9c8b-16a1401ddd4f'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.392+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.147+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.392+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'FBI directors by law are appointed to 10-year terms as a means of insulating
         the bureau from politics.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0cfd04c9-e14b-46a5-b7e8-5df8b691efa0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.393+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.148+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.393+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Wray, whom Trump tapped after firing James Comey in 2017 for investigating
-        his 2016 campaign, has been a frequent target of Trump supporters'' ire.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e60dda00-1a96-43ab-a452-06035ef518d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.393+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.149+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.393+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'During Wray’s tenure, the FBI carried out a court-approved search
+    section7:
+      primarytype: 'block'
+      uuid: '0cfd04c9-e14b-46a5-b7e8-5df8b691efa0'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.393+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.148+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.393+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Wray, whom Trump tapped after firing James Comey in 2017 for investigating
+        his 2016 campaign, has been a frequent target of Trump supporters' ire.'
+    section8:
+      primarytype: 'block'
+      uuid: 'e60dda00-1a96-43ab-a452-06035ef518d8'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.393+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.149+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.393+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'During Wray’s tenure, the FBI carried out a court-approved search
         at Trump’s Mar-a-Lago estate to look for classified documents and he has
         also faced criticism for his oversight role of a directive by Attorney General
         Merrick Garland aimed at working to protect local school boards from violent
         threats and harassment.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f092895c-aa8b-48c8-9a9c-337501a1662b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.394+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.149+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.394+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Special Counsel Jack Smith, who led the two federal prosecutions against
+    section9:
+      primarytype: 'block'
+      uuid: 'f092895c-aa8b-48c8-9a9c-337501a1662b'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.394+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.149+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.394+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Special Counsel Jack Smith, who led the two federal prosecutions against
         Trump for his role in subverting the 2020 election and retaining classified
         documents, asked on Nov. 25 the judges overseeing those cases to dismiss them
         before Trump takes office on Jan. 20, citing a Justice Department policy of
         not prosecuting a sitting president.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08396fb6-4c0b-45d2-9a77-f0b8f0163650'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.394+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.150+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.394+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Wray had previously signaled no intention of stepping down early and
+    section10:
+      primarytype: 'block'
+      uuid: '08396fb6-4c0b-45d2-9a77-f0b8f0163650'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.394+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.150+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.394+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Wray had previously signaled no intention of stepping down early and
         was busy planning events well into his 2025 calendar, according to a person
         familiar with the matter.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5e8480cf-3ab2-4e36-9078-9873d4da1560'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.395+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.151+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.395+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Former federal public defender, prosecutor</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03060b23-33d6-4159-9192-da9f8601e082'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.395+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.152+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.395+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Patel, 44, previously worked as a federal public defender and a federal
+    section11:
+      primarytype: 'block'
+      uuid: '5e8480cf-3ab2-4e36-9078-9873d4da1560'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.395+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.151+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.395+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<h2><strong>Former federal public defender, prosecutor</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: '03060b23-33d6-4159-9192-da9f8601e082'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.395+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.152+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.395+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Patel, 44, previously worked as a federal public defender and a federal
         prosecutor.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f85f320-1add-4f9e-b71a-54e0acb5a3b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.396+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.153+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.396+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He was instrumental in working to lead House Republicans'' probe into
+    section13:
+      primarytype: 'block'
+      uuid: '0f85f320-1add-4f9e-b71a-54e0acb5a3b8'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.396+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.153+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.396+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He was instrumental in working to lead House Republicans' probe into
         the FBI’s 2016 investigation into contacts between Trump’s 2016 campaign
         and Russia during his stint as an aide to former House Intelligence Committee
         Chair Devin Nunes.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f27ca086-8c65-4e9c-a4a4-c5230a53f91e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.396+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.153+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.396+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Later, during Trump’s first impeachment trial, ex-National Security
+    section14:
+      primarytype: 'block'
+      uuid: 'f27ca086-8c65-4e9c-a4a4-c5230a53f91e'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.396+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.153+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.396+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Later, during Trump’s first impeachment trial, ex-National Security
         Council official Fiona Hill told House investigators she was concerned Patel
         was secretly serving as a back channel between Trump and Ukraine without authorization.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9544873-983e-44ea-a912-56b5adf250ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.397+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.154+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.397+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Patel denied those allegations.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '880adac5-b78c-47d6-a5d4-2ec9b2dd30b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.397+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.155+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.397+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'After Trump left office in January 2021, Patel was one of several people
+    section15:
+      primarytype: 'block'
+      uuid: 'd9544873-983e-44ea-a912-56b5adf250ad'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.397+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.154+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.397+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Patel denied those allegations.'
+    section16:
+      primarytype: 'block'
+      uuid: '880adac5-b78c-47d6-a5d4-2ec9b2dd30b8'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.397+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.155+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.397+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'After Trump left office in January 2021, Patel was one of several people
         Trump designated as a representative for access to his presidential records.
         He was one of the few former Trump administration officials who claimed, without
         evidence, that Trump had declassified all of the records in question.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '29379ca7-0524-498d-9f3f-687e2a9b1384'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.398+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.156+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.398+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He was later subpoenaed to appear before a grand jury in connection
+    section17:
+      primarytype: 'block'
+      uuid: '29379ca7-0524-498d-9f3f-687e2a9b1384'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.398+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.156+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.398+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He was later subpoenaed to appear before a grand jury in connection
         with the probe.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed204d5d-47ac-424b-a8c9-3ea6ae07062c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.398+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.156+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.398+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'As a private citizen, Patel wrote a book called "Government Gangsters"
+    section18:
+      primarytype: 'block'
+      uuid: 'ed204d5d-47ac-424b-a8c9-3ea6ae07062c'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.398+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.156+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.398+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'As a private citizen, Patel wrote a book called "Government Gangsters"
         which Trump in 2023 declared would be used as a "roadmap to end the Deep State’s
         Reign."'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d38d10e-82ea-41d2-acb4-12421b04bf97'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.399+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.157+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.399+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Patel’s nomination is likely to garner pushback from Senate Democrats
+    section19:
+      primarytype: 'block'
+      uuid: '7d38d10e-82ea-41d2-acb4-12421b04bf97'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.399+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.157+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.399+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Patel’s nomination is likely to garner pushback from Senate Democrats
         and possibly even some Republicans, though Patel has received public support
         from some high-profile Republicans such as Texas Attorney General Ken Paxton.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fb935d2-608d-4d52-a18a-7047e86d55cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T10:23:20.399+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:06.157+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T10:23:20.399+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Sarah N. Lynch; additional reporting by Timothy
+    section20:
+      primarytype: 'block'
+      uuid: '4fb935d2-608d-4d52-a18a-7047e86d55cf'
+      activationstatus: true
+      created: 2024-12-01T10:23:20.399+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:06.157+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T10:23:20.399+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Sarah N. Lynch; additional reporting by Timothy
         Reid; Editing by Scott Malone, Lisa Shumaker and Rod Nickel)</em></p>'
-  'barbers-nbi-vloggers':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'caption': 'Surigao del Norte Rep. Ace Barbers leads the House quad-committee
+  'START HERE----->barbers-nbi-vloggers':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    caption: 'Surigao del Norte Rep. Ace Barbers leads the House quad-committee
       hearing on illegal drugs and offshore gaming operations. (House of Representatives)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T11:25:29.000+08:00
-    'imagesource': 'jcr:a42fa9f8-ada3-4180-b8ce-482ee81ca65f'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c2a1dd11-2a72-4b20-9b85-c0f711b79611'
-    'lead': 'Surigao del Norte Rep. Ace Barbers has asked the National Bureau of Investigation
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T11:25:29.000+08:00
+    imagesource: 'a42fa9f8-ada3-4180-b8ce-482ee81ca65f'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c2a1dd11-2a72-4b20-9b85-c0f711b79611'
+    lead: 'Surigao del Norte Rep. Ace Barbers has asked the National Bureau of Investigation
       to probe and file charges against vloggers who allegedly maligned the House
       quad-committee.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T11:29:54.757+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:05.688+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.111+08:00
-    'mgnl:lastModified': 2024-12-01T11:29:54.783+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'NBI asked to file charges vs vloggers allegedly maligning quad-panel'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '335e33dc-127e-426c-8e88-b94f307f8d87'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.771+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.691+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.771+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Surigao del Norte 2nd
+    activationstatus: true
+    created: 2024-12-01T11:29:54.757+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:05.688+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.111+08:00
+    lastmodified: 2024-12-01T11:29:54.783+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'NBI asked to file charges vs vloggers allegedly maligning quad-panel'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '335e33dc-127e-426c-8e88-b94f307f8d87'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.771+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.691+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.771+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Surigao del Norte 2nd
         District Rep. Ace Barbers has asked the National Bureau of Investigation (NBI)
         to probe and file charges against vloggers who allegedly maligned the House
         quad-committee.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5244c70-8df8-467b-99bb-f97450f536db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.771+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.692+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.771+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The quad-panel has been conducting an inquiry on illegal drugs and
+    section1:
+      primarytype: 'block'
+      uuid: 'd5244c70-8df8-467b-99bb-f97450f536db'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.771+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.692+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.771+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The quad-panel has been conducting an inquiry on illegal drugs and
         Philippine offshore gaming operators (POGOs).</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a88711ed-def6-4d15-975a-745a9fd74cf8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.771+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.693+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.771+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Barbers, quad-committee lead chairperson, wrote to NBI chief Jaime
+    section2:
+      primarytype: 'block'
+      uuid: 'a88711ed-def6-4d15-975a-745a9fd74cf8'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.771+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.693+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.771+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Barbers, quad-committee lead chairperson, wrote to NBI chief Jaime
         Santiago, requesting to identify the people or groups behind vlogs that supposedly
         sow misinformation and damage the integrity of House lawmakers’ public service.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff5fe6d1-32fc-4b31-9b8a-891613b055f6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.772+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.694+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.772+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The congressman also asked to preserve digital evidence in relation
+    section3:
+      primarytype: 'block'
+      uuid: 'ff5fe6d1-32fc-4b31-9b8a-891613b055f6'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.772+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.694+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.772+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The congressman also asked to preserve digital evidence in relation
         to the vlogs.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f7162c74-2d9e-453b-bafb-9d34bcdbe9cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.772+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.695+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.772+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Barbers forwarded to the NBI a vlog linking him and his brother
+    section4:
+      primarytype: 'block'
+      uuid: 'f7162c74-2d9e-453b-bafb-9d34bcdbe9cc'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.772+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.695+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.772+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Barbers forwarded to the NBI a vlog linking him and his brother
         Surigao del Norte Governor Lyndon Barbers to illegal drugs, as well as other
         evidence.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '02977a35-a7a7-4bd3-b988-52c8b9db359d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.772+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.696+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.772+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Very obvious na well-organized at bayaran ang mga vloggers na ito
+    section5:
+      primarytype: 'block'
+      uuid: '02977a35-a7a7-4bd3-b988-52c8b9db359d'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.772+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.696+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.772+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Very obvious na well-organized at bayaran ang mga vloggers na ito
         na gustong sirain ang pangalan ko, ng kapatid ko, at mga Quadcom members,”
         he said in a statement on Sunday, Dec. 1.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '704e5f65-5a74-4f42-9f3f-12f618fc4f60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.773+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.697+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.773+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: It is very obvious that these vloggers are well-organized
+    section6:
+      primarytype: 'block'
+      uuid: '704e5f65-5a74-4f42-9f3f-12f618fc4f60'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.773+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.697+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.773+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: It is very obvious that these vloggers are well-organized
         and paid to destroy my name, my brother, and the quad-committee members.]</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5d1db99-e32e-4b89-8e09-9e2efcb113b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.773+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.698+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.773+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sabi nila, ito yung mga bayarang grupo ng tagapagkalat ng kasinungalingan.
+    section7:
+      primarytype: 'block'
+      uuid: 'e5d1db99-e32e-4b89-8e09-9e2efcb113b9'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.773+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.698+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.773+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Sabi nila, ito yung mga bayarang grupo ng tagapagkalat ng kasinungalingan.
         Siguro nasasaktan na ang kanilang mga employers na POGO operators at drug
         lords dahil sa patuloy na Quadcom investigations,” he added.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38dda3e8-cf52-488a-a1a3-43fcac017351'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.773+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.699+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.773+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: They said these are groups paid to spread lies. Maybe
+    section8:
+      primarytype: 'block'
+      uuid: '38dda3e8-cf52-488a-a1a3-43fcac017351'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.773+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.699+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.773+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: They said these are groups paid to spread lies. Maybe
         their employers who are POGO operators and drug lords are hurt because of
         the quad-committee investigations.]</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '893ed0f7-04c3-4be4-bf9a-1f046187929e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.774+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.699+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.774+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmaker urged the NBI to file cases including libel and sedition
+    section9:
+      primarytype: 'block'
+      uuid: '893ed0f7-04c3-4be4-bf9a-1f046187929e'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.774+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.699+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.774+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The lawmaker urged the NBI to file cases including libel and sedition
         in relation to the Cybercrime Prevention Act.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'efd7b9e4-a760-4e3b-b261-0c25a29ebee3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T11:29:54.774+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.700+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T11:29:54.774+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Barbers believes the integrity of the committee will be protected
+    section10:
+      primarytype: 'block'
+      uuid: 'efd7b9e4-a760-4e3b-b261-0c25a29ebee3'
+      activationstatus: true
+      created: 2024-12-01T11:29:54.774+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.700+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T11:29:54.774+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Barbers believes the integrity of the committee will be protected
         and upheld with NBI’s intervention.</p>'
-  'pnp-duterte-cases-not-politics':
-    'caption': 'Philippine National Police chief PGen. Rommel Marbil. (NewsWatch Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T12:16:29.000+08:00
-    'imagesource': 'jcr:e9ef2b63-cc8d-40c4-976e-c8b6aaf3e782'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '17d68891-17ca-468d-b0ed-d215c9cf2221'
-    'lead': 'The filing of cases against Vice President Sara Duterte and her security
+  'START HERE----->pnp-duterte-cases-not-politics':
+    caption: 'Philippine National Police chief PGen. Rommel Marbil. (NewsWatch Plus)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T12:16:29.000+08:00
+    imagesource: 'e9ef2b63-cc8d-40c4-976e-c8b6aaf3e782'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '17d68891-17ca-468d-b0ed-d215c9cf2221'
+    lead: 'The filing of cases against Vice President Sara Duterte and her security
       personnel is not about politics but a constitutional mandate, Philippine National
       Police chief PGen. Rommel Marbil said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T12:19:42.167+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:05.395+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.243+08:00
-    'mgnl:lastModified': 2024-12-01T12:19:42.199+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PNP: Cases vs VP Duterte ‘not about politics’'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ae505f8-d5e0-4e94-8726-ab2d394745a7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.187+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.398+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.194+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The filing of cases
+    activationstatus: true
+    created: 2024-12-01T12:19:42.167+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:05.395+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.243+08:00
+    lastmodified: 2024-12-01T12:19:42.199+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PNP: Cases vs VP Duterte ‘not about politics’'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1ae505f8-d5e0-4e94-8726-ab2d394745a7'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.187+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.398+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.194+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The filing of cases
         against Vice President Sara Duterte and her security personnel is not about
         politics but a constitutional mandate, Philippine National Police (PNP) chief
         PGen. Rommel Marbil said on Sunday, Dec. 1.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1555a66-589f-46f6-a3b7-375ef70909cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.187+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.399+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.187+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The police have lodged direct assault, disobedience, and grave coercion
+    section1:
+      primarytype: 'block'
+      uuid: 'e1555a66-589f-46f6-a3b7-375ef70909cf'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.187+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.399+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.187+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The police have lodged direct assault, disobedience, and grave coercion
         <a href="https://www.newswatchplus.ph/news/2024/11/27/police-file-charges-duterte.html">complaints</a>
         against Duterte and PCol. Raymund Dante Lachica over their supposed interference
         during the transfer of the vice president’s chief of staff Zuleika Lopez from
         the House of Representatives to the Veterans Memorial Medical Center in Quezon
         City.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19808a2f-fb7e-407e-b4d7-84d77052ed2f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.188+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.400+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.188+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"If we do not file cases against those accused, what will people say?
+    section2:
+      primarytype: 'block'
+      uuid: '19808a2f-fb7e-407e-b4d7-84d77052ed2f'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.188+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.400+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.188+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"If we do not file cases against those accused, what will people say?
         Takot ang pulis, pangmahirap lang ang pangil ng batas. We cannot allow such
         perceptions to take root. Our duty is to apply the law to everyone, regardless
         of their standing, because justice is not selective," Marbil said in a statement.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a275d79-82e3-4643-958a-7b1b3dcc936d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.188+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.401+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.188+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: If we do not file cases against those accused, what will
+    section3:
+      primarytype: 'block'
+      uuid: '9a275d79-82e3-4643-958a-7b1b3dcc936d'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.188+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.401+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.188+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: If we do not file cases against those accused, what will
         people say? The police are scared, the rule of law is only for the poor.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91f198e3-342a-4ed3-bd61-75c3a30c0b12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.188+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.401+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.188+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marbil noted the alleged selective application of law in the “tokhang”
+    section4:
+      primarytype: 'block'
+      uuid: '91f198e3-342a-4ed3-bd61-75c3a30c0b12'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.188+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.401+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.188+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Marbil noted the alleged selective application of law in the “tokhang”
         (knock and plead) of the vice president’s father, former President Rodrigo
         Duterte, in which victims were mostly poor.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f771a9f-e4c4-4384-840c-2c92affb620a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.189+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.402+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.189+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“We refuse to let history repeat itself. The PNP is committed to protecting
+    section5:
+      primarytype: 'block'
+      uuid: '2f771a9f-e4c4-4384-840c-2c92affb620a'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.189+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.402+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.189+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“We refuse to let history repeat itself. The PNP is committed to protecting
         all sectors of society without bias or prejudice," the police chief said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '404153ed-9c78-4406-a45a-3775dbc2c293'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.189+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.403+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.189+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marbil stressed that it is their sworn duty as law enforcers to follow
+    section6:
+      primarytype: 'block'
+      uuid: '404153ed-9c78-4406-a45a-3775dbc2c293'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.189+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.403+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.189+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Marbil stressed that it is their sworn duty as law enforcers to follow
         and uphold laws to ensure accountability, adding that they cannot be selective
         and make exceptions based on affiliations.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98c83fa2-fedd-4631-949b-c9f933f43d53'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.190+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.404+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.190+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He guaranteed that due process will be followed as legal mechanisms
+    section7:
+      primarytype: 'block'
+      uuid: '98c83fa2-fedd-4631-949b-c9f933f43d53'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.190+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.404+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.190+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He guaranteed that due process will be followed as legal mechanisms
         are in place.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '93cc8f2c-016c-4267-bf20-a0678d00b35b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:19:42.190+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.404+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:19:42.190+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+    section8:
+      primarytype: 'block'
+      uuid: '93cc8f2c-016c-4267-bf20-a0678d00b35b'
+      activationstatus: true
+      created: 2024-12-01T12:19:42.190+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.404+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:19:42.190+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
         this report.</em></p>'
-  'ltfrb-special-holiday-permits-puv':
-    'caption': 'Vehicles are plying along a road in Metro Manila. (MMDA)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T12:40:32.000+08:00
-    'imagesource': 'jcr:16210df9-cb08-419b-8560-c06d6b7abf07'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5d1a3761-093b-49a7-ab7d-42a65824a7ec'
-    'lead': 'The Land Transportation Franchising and Regulatory Board will issue special
+  'START HERE----->ltfrb-special-holiday-permits-puv':
+    caption: 'Vehicles are plying along a road in Metro Manila. (MMDA)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T12:40:32.000+08:00
+    imagesource: '16210df9-cb08-419b-8560-c06d6b7abf07'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '5d1a3761-093b-49a7-ab7d-42a65824a7ec'
+    lead: 'The Land Transportation Franchising and Regulatory Board will issue special
       permits to public utility vehicles to accommodate commuters during the anticipated
       holiday rush.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T12:45:23.755+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:05.144+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.359+08:00
-    'mgnl:lastModified': 2024-12-01T12:45:23.776+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LTFRB to issue special holiday permits to PUVs'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5934d7eb-9b94-45e5-aa84-81b5539041d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.767+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.147+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.767+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The Land Transportation
+    activationstatus: true
+    created: 2024-12-01T12:45:23.755+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:05.144+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.359+08:00
+    lastmodified: 2024-12-01T12:45:23.776+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LTFRB to issue special holiday permits to PUVs'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5934d7eb-9b94-45e5-aa84-81b5539041d3'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.767+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.147+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.767+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The Land Transportation
         Franchising and Regulatory Board (LTFRB) will issue special permits to public
         utility vehicles (PUV) to accommodate commuters during the anticipated holiday
         rush.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e4eae0a9-73d9-43f6-89a6-f08a3d1ad9a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.768+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.148+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.768+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'LTFRB chairperson Teofilo Guadiz said they will begin accepting PUV
+    section1:
+      primarytype: 'block'
+      uuid: 'e4eae0a9-73d9-43f6-89a6-f08a3d1ad9a0'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.768+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.148+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.768+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'LTFRB chairperson Teofilo Guadiz said they will begin accepting PUV
         special permit applications on Dec. 15.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e6ecce37-8f77-465f-9f30-0e08ce89f8f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.768+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.149+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.768+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The permit will be valid from Dec. 20 to Jan. 4 next year.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af5dcd56-e00b-4d31-aca9-681cd006b8bc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.768+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.149+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.768+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Like the usual practice, we are opening slots for special permits
+    section2:
+      primarytype: 'block'
+      uuid: 'e6ecce37-8f77-465f-9f30-0e08ce89f8f4'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.768+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.149+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.768+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The permit will be valid from Dec. 20 to Jan. 4 next year.'
+    section3:
+      primarytype: 'block'
+      uuid: 'af5dcd56-e00b-4d31-aca9-681cd006b8bc'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.768+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.149+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.768+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Like the usual practice, we are opening slots for special permits
         to ensure that there are ample PUVs that would cater to our riding public
         during the holidays," Guadiz said in a statement on Sunday, Dec. 1.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aea1a107-39b6-4d93-a409-904d49edbbdc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.769+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.150+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.769+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The LTFRB has approved 5,000 slots for transport network vehicle services.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dcf762fa-23e7-4030-8cbf-d27cb4cb4f1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.769+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.151+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.769+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Guadiz advised commuters to plan their trips and to be on alert
+    section4:
+      primarytype: 'block'
+      uuid: 'aea1a107-39b6-4d93-a409-904d49edbbdc'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.769+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.150+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.769+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The LTFRB has approved 5,000 slots for transport network vehicle services.'
+    section5:
+      primarytype: 'block'
+      uuid: 'dcf762fa-23e7-4030-8cbf-d27cb4cb4f1d'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.769+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.151+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.769+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Guadiz advised commuters to plan their trips and to be on alert
         to have “safe and smooth” travel.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b633546-40a0-442b-8127-95513de0e688'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.769+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.151+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.769+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Please patronize legitimate public transportation, follow safety protocols,
+    section6:
+      primarytype: 'block'
+      uuid: '6b633546-40a0-442b-8127-95513de0e688'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.769+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.151+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.769+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Please patronize legitimate public transportation, follow safety protocols,
         and report any overcharging, overloading, or other violations through our
         official hotlines and channels,” he said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad6bab0d-2562-4fd2-8373-31758f69a170'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T12:45:23.770+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:05.152+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T12:45:23.770+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The agency, Guadiz said, is coordinating with operators and enforcers
+    section7:
+      primarytype: 'block'
+      uuid: 'ad6bab0d-2562-4fd2-8373-31758f69a170'
+      activationstatus: true
+      created: 2024-12-01T12:45:23.770+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:05.152+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T12:45:23.770+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The agency, Guadiz said, is coordinating with operators and enforcers
         to manage the expected influx of passengers during the holidays.</p>'
-  'duterte-unsure-nbi-attendance':
-    'caption': 'Vice President Sara Duterte holds a virtual briefing. (NewsWatch Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T13:55:17.000+08:00
-    'imagesource': 'jcr:9ddff2f1-55a3-4857-8071-54cad8b4464a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'af2d48ce-d82e-4260-97d3-0cd3f1b275e3'
-    'lead': 'Vice President Sara Duterte is unsure if she could attend the summon
+  'START HERE----->duterte-unsure-nbi-attendance':
+    caption: 'Vice President Sara Duterte holds a virtual briefing. (NewsWatch Plus)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T13:55:17.000+08:00
+    imagesource: '9ddff2f1-55a3-4857-8071-54cad8b4464a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'af2d48ce-d82e-4260-97d3-0cd3f1b275e3'
+    lead: 'Vice President Sara Duterte is unsure if she could attend the summon
       of the National Bureau of Investigation on Dec. 11 which stemmed from her threat
       to the First Family.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T14:00:18.515+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:04.849+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.484+08:00
-    'mgnl:lastModified': 2024-12-01T14:01:04.947+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Duterte unsure of attending NBI summon on Dec. 11'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2fa5264-f7c2-4935-bc5f-b9c6b3aaa208'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.574+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.853+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.941+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Vice President Sara
+    activationstatus: true
+    created: 2024-12-01T14:00:18.515+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:04.849+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.484+08:00
+    lastmodified: 2024-12-01T14:01:04.947+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Duterte unsure of attending NBI summon on Dec. 11'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd2fa5264-f7c2-4935-bc5f-b9c6b3aaa208'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.574+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.853+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.941+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Vice President Sara
         Duterte is unsure if she could attend the summon of the National Bureau of
         Investigation (NBI) on Dec. 11 which stemmed from her threat to the First
         Family.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c04c09f-f17f-4b72-8b4e-56abc2186957'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.575+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.854+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.941+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The NBI initially issued a subpoena for Duterte on Nov. 29. She
+    section1:
+      primarytype: 'block'
+      uuid: '5c04c09f-f17f-4b72-8b4e-56abc2186957'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.575+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.854+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.941+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The NBI initially issued a subpoena for Duterte on Nov. 29. She
         <a href="https://www.newswatchplus.ph/news/2024/11/29/duterte-snubs-nbi.html">skipped</a>
         it as she planned to attend a House inquiry on her confidential funds, which
         was <a href="https://www.newswatchplus.ph/news/2024/11/28/House-panel-gives-way-to-NBI-probe.html">canceled</a>.
         The NBI reset the probe to Dec. 11.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf9b97f6-0c7d-4378-8b91-173507f66927'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.575+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.855+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.942+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“I have to run my schedule day by day kasi nagbabago siya ngayon araw-araw
-        dahil bigla na lang may nangyayari na mga bagay. Kaya hindi ko magawa ''yung
-        schedule ko nang malayo pa. We do it day by day sa ngayon ''yung schedule.
+    section2:
+      primarytype: 'block'
+      uuid: 'bf9b97f6-0c7d-4378-8b91-173507f66927'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.575+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.855+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.942+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“I have to run my schedule day by day kasi nagbabago siya ngayon araw-araw
+        dahil bigla na lang may nangyayari na mga bagay. Kaya hindi ko magawa 'yung
+        schedule ko nang malayo pa. We do it day by day sa ngayon 'yung schedule.
         So, hindi ko pa masagot kung pupunta ako sa Dec. 11,” Duterte said in an interview
         on Saturday, Nov. 30.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e3918436-d789-4fc5-be81-2bb5700dcc9e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.576+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.855+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.942+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: I have to run my schedule day by day because it changes
+    section3:
+      primarytype: 'block'
+      uuid: 'e3918436-d789-4fc5-be81-2bb5700dcc9e'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.576+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.855+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.942+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: I have to run my schedule day by day because it changes
         everyday because there are sudden events. That is why I cannot schedule ahead.
         We do my schedule day by day. So, I cannot answer if I can attend on Dec.
         11.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45efae7c-f754-4338-bd8d-784e0b803462'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.576+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.856+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.943+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“''Tsaka ang isang consideration diyan ay sinusunod ko kung ano ''yung
+    section4:
+      primarytype: 'block'
+      uuid: '45efae7c-f754-4338-bd8d-784e0b803462'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.576+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.856+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.943+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Tsaka ang isang consideration diyan ay sinusunod ko kung ano 'yung
         mga sinasabi ng lawyers sa ngayon,” she added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11fd8b6e-9086-49f6-893b-a95896dd20eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.576+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.857+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.943+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: My other consideration is that I am following my lawyers’
+    section5:
+      primarytype: 'block'
+      uuid: '11fd8b6e-9086-49f6-893b-a95896dd20eb'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.576+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.857+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.943+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: My other consideration is that I am following my lawyers’
         advice.]'
-    '6':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/video.php?height=321&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F430985193412225%2F&show_text=false&width=560&t=0"
+    section6:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/video.php?height=321&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F430985193412225%2F&show_text=false&width=560&t=0"
         width="560" height="321" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share" allowFullScreen="true"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e0a1c60-2aaa-4ac9-8aa1-d2ebfdbf9691'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.577+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.858+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'embedCode'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ab361d4-fb29-40cf-b02a-91216a2af09d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.577+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.858+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte earlier said that she ordered someone to <a href="https://www.newswatchplus.ph/news/2024/11/23/sara-threats-marcos.html?fbclid=IwY2xjawG40ipleHRuA2FlbQIxMQABHUQmKh0RjmZPvWzh_9MzYOl5a--VqGp7VPYu7O0O17WdeVfhh0V6alsQCw_aem_BbMwInQzXH8a5xiysHYgKg">kill</a>
+      primarytype: 'block'
+      uuid: '3e0a1c60-2aaa-4ac9-8aa1-d2ebfdbf9691'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.577+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.858+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'embedcode'
+    section7:
+      primarytype: 'block'
+      uuid: '4ab361d4-fb29-40cf-b02a-91216a2af09d'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.577+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.858+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Duterte earlier said that she ordered someone to <a href="https://www.newswatchplus.ph/news/2024/11/23/sara-threats-marcos.html?fbclid=IwY2xjawG40ipleHRuA2FlbQIxMQABHUQmKh0RjmZPvWzh_9MzYOl5a--VqGp7VPYu7O0O17WdeVfhh0V6alsQCw_aem_BbMwInQzXH8a5xiysHYgKg">kill</a>
         President Ferdinand Marcos Jr., First Lady Liza Araneta-Marcos, and House
         Speaker Martin Romualdez, if she gets murdered.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cde60a1-018a-4102-86cd-980c4edabff8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.578+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.859+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The National Security Council considered the vice president’s threat
+    section8:
+      primarytype: 'block'
+      uuid: '4cde60a1-018a-4102-86cd-980c4edabff8'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.578+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.859+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The National Security Council considered the vice president’s threat
         a serious matter on the <a href="https://www.newswatchplus.ph/news/2024/11/24/ano-marcos-duterte-threat.html">state’s
         security</a>.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a548dd2-6e6a-49e5-a85c-e25b2090af6d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.578+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.860+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Presidential Security Command heightened its measures to safeguard
+    section9:
+      primarytype: 'block'
+      uuid: '4a548dd2-6e6a-49e5-a85c-e25b2090af6d'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.578+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.860+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Presidential Security Command heightened its measures to safeguard
         the First Family and other government officials following the threat.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4637254-cb86-4b9f-b5fe-ba1bbc29810d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T14:00:18.579+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.860+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T14:01:04.946+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+    section10:
+      primarytype: 'block'
+      uuid: 'd4637254-cb86-4b9f-b5fe-ba1bbc29810d'
+      activationstatus: true
+      created: 2024-12-01T14:00:18.579+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.860+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T14:01:04.946+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
         this report.</em></p>'
-  'icc-witness-appeal':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'caption': 'International Criminal Court'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T15:19:10.000+08:00
-    'imagesource': 'jcr:f0805a3d-4d93-4ec8-95f8-b8ecd7d44e09'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1cd8cbe9-f22e-4300-bbaf-6163a2c6af82'
-    'lead': 'The International Criminal Court has launched a witness appeal in relation
+  'START HERE----->icc-witness-appeal':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    caption: 'International Criminal Court'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T15:19:10.000+08:00
+    imagesource: 'f0805a3d-4d93-4ec8-95f8-b8ecd7d44e09'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '1cd8cbe9-f22e-4300-bbaf-6163a2c6af82'
+    lead: 'The International Criminal Court has launched a witness appeal in relation
       to former President Rodrigo Duterte’s bloody drug war. One of the counsels of
       the victims’ families said it is “highly possible” that the court has completed
       its probe and is preparing for trial.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T15:24:08.445+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:04.507+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.619+08:00
-    'mgnl:lastModified': 2024-12-01T15:24:08.469+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'ICC launches witness appeal on Duterte’s drug war'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e700fca1-7498-49ae-bdda-1bc104596962'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.458+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.510+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.458+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The International Criminal
+    activationstatus: true
+    created: 2024-12-01T15:24:08.445+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:04.507+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.619+08:00
+    lastmodified: 2024-12-01T15:24:08.469+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'ICC launches witness appeal on Duterte’s drug war'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e700fca1-7498-49ae-bdda-1bc104596962'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.458+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.510+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.458+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The International Criminal
         Court (ICC) has launched a witness appeal in relation to former President
         Rodrigo Duterte’s bloody campaign against illegal drugs.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b3e8ea86-8794-4041-a12c-27144b1de50a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.458+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.511+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.458+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a Facebook post, ICC assistant to counsel Kristina Conti said
+    section1:
+      primarytype: 'block'
+      uuid: 'b3e8ea86-8794-4041-a12c-27144b1de50a'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.458+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.511+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.458+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a Facebook post, ICC assistant to counsel Kristina Conti said
         those who have "credible" information about Duterte’s drug war can submit
         through https://appeals.icc-cpi.int.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8da00960-521b-4f8e-9a44-f5debc0c922e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.458+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.511+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.458+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Info transmitted will be kept confidential, but with consent can be
+    section2:
+      primarytype: 'block'
+      uuid: '8da00960-521b-4f8e-9a44-f5debc0c922e'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.458+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.511+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.458+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Info transmitted will be kept confidential, but with consent can be
         brought up during trial,” Conti said on Saturday, Nov. 30.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a78d644f-4684-479a-8796-b4e58a131b2f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.459+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.512+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.459+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Former Bayan Muna Rep. Neri Colmenares, one of the counsels of the
+    section3:
+      primarytype: 'block'
+      uuid: 'a78d644f-4684-479a-8796-b4e58a131b2f'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.459+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.512+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.459+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Former Bayan Muna Rep. Neri Colmenares, one of the counsels of the
         families of extrajudicial killing victims, said the platform is a “significant
         step toward justice.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9cf90c37-ac0b-416f-b977-83f16feb8644'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.459+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.513+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.459+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Even with the original set of witnesses the evidence is already enough.
+    section4:
+      primarytype: 'block'
+      uuid: '9cf90c37-ac0b-416f-b977-83f16feb8644'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.459+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.513+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.459+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Even with the original set of witnesses the evidence is already enough.
         The previous part of the investigation is gathering documentary evidence and
         interviewing informants. Now they are asking those who have sent their sworn
         statements or allowed themselves to be interviewed, if they want to appear
         in the trial,” he said in a statement on Sunday, Dec. 1.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '146c2ad3-e5ca-4b23-9171-a7d31cca6a0f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.459+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.514+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.459+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Additionally by announcing the process for witnesses, the ICC is encouraging
+    section5:
+      primarytype: 'block'
+      uuid: '146c2ad3-e5ca-4b23-9171-a7d31cca6a0f'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.459+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.514+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.459+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Additionally by announcing the process for witnesses, the ICC is encouraging
         those from the police ranks and other insiders to testify as witnesses,” Colmenares
         added.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '557814f6-24e7-4c4b-82f6-7b4ae8e121de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.460+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.515+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.460+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He encouraged witnesses and the kin of victims to come forward and
+    section6:
+      primarytype: 'block'
+      uuid: '557814f6-24e7-4c4b-82f6-7b4ae8e121de'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.460+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.515+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.460+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He encouraged witnesses and the kin of victims to come forward and
         use the witness appeal platform.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'efb2423b-9da2-42e7-921f-fa79d38e0104'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.460+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.515+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.460+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawyer said it is “highly possible” that the ICC has completed
+    section7:
+      primarytype: 'block'
+      uuid: 'efb2423b-9da2-42e7-921f-fa79d38e0104'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.460+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.515+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.460+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The lawyer said it is “highly possible” that the ICC has completed
         its probe and is preparing for trial.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6288aa00-a9ee-4a75-afca-cf8cf77bc0df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.460+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.516+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.460+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Colmenares urged President Ferdinand Marcos Jr. to reconsider his stance
+    section8:
+      primarytype: 'block'
+      uuid: '6288aa00-a9ee-4a75-afca-cf8cf77bc0df'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.460+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.516+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.460+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Colmenares urged President Ferdinand Marcos Jr. to reconsider his stance
         of non-cooperation with the ICC.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8e02d9e-f593-4fc6-b193-e88e1c0048f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.461+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.517+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.461+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Duterte, together with former national police chief and now Senator
+    section9:
+      primarytype: 'block'
+      uuid: 'f8e02d9e-f593-4fc6-b193-e88e1c0048f9'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.461+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.517+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.461+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Duterte, together with former national police chief and now Senator
         Bato dela Rosa, are being investigated for supposed crimes against humanity
         for extrajudicial killings in relation to the drug war.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a65702b-937c-4383-b573-24644053c0af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T15:24:08.461+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.517+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T15:24:08.461+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The drug war death toll reached up to 30,000, based on human rights
+    section10:
+      primarytype: 'block'
+      uuid: '4a65702b-937c-4383-b573-24644053c0af'
+      activationstatus: true
+      created: 2024-12-01T15:24:08.461+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.517+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T15:24:08.461+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The drug war death toll reached up to 30,000, based on human rights
         groups’ records.</p>'
-  'eu-new-officials-visit-ukraine':
-    'author': 'Reuters'
-    'caption': 'European Council President-elect Antonio Costa speaks on the day of
+  'START HERE----->eu-new-officials-visit-ukraine':
+    author: 'Reuters'
+    caption: 'European Council President-elect Antonio Costa speaks on the day of
       the ceremonial handover of the presidency by outgoing President Charles Michel,
       at the European Council headquarters in Brussels, Belgium November 29, 2024.
       (Johanna Geron/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T16:02:26.000+08:00
-    'imagesource': 'jcr:367e00c0-f135-4fdc-b494-5f57e0145c0a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '04c68434-795e-440b-8585-f29a5a2a6c71'
-    'lead': 'European Council president Antonio Costa and Kaja Kallas, the EU’s foreign
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T16:02:26.000+08:00
+    imagesource: '367e00c0-f135-4fdc-b494-5f57e0145c0a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '04c68434-795e-440b-8585-f29a5a2a6c71'
+    lead: 'European Council president Antonio Costa and Kaja Kallas, the EU’s foreign
       policy chief, arrived in the Ukrainian capital Kyiv on Sunday, using the first
       day in their new roles to send a message of support for Ukraine in its war with
       Russia.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T16:06:58.627+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:04.217+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.752+08:00
-    'mgnl:lastModified': 2024-12-01T16:06:58.650+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'EU’s new top foreign policy officials visit Ukraine in show of solidarity'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '918813f4-524e-4db6-824e-62117ada5721'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.641+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.220+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.641+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Kyiv, Ukraine —</strong> European Council president Antonio
+    activationstatus: true
+    created: 2024-12-01T16:06:58.627+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:04.217+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.752+08:00
+    lastmodified: 2024-12-01T16:06:58.650+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'EU’s new top foreign policy officials visit Ukraine in show of solidarity'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '918813f4-524e-4db6-824e-62117ada5721'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.641+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.220+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.641+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Kyiv, Ukraine —</strong> European Council president Antonio
         Costa and Kaja Kallas, the EU’s foreign policy chief, arrived in the Ukrainian
         capital Kyiv on Sunday, using the first day in their new roles to send a message
         of support for Ukraine in its war with Russia.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '77395701-9ddc-4269-86c3-abdafcbd7c7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.641+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.220+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.641+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"From day one of the war, the EU has stood by the side of Ukraine,"
+    section1:
+      primarytype: 'block'
+      uuid: '77395701-9ddc-4269-86c3-abdafcbd7c7e'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.641+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.220+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.641+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"From day one of the war, the EU has stood by the side of Ukraine,"
         Costa posted on X alongside an image of himself, Kallas and EU enlargement
         chief Marta Kos arriving via train.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '220f4fb2-cf59-4657-a68a-673304720209'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.642+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.221+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.642+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"From day one of our mandate, we are reaffirming our unwavering
+    section2:
+      primarytype: 'block'
+      uuid: '220f4fb2-cf59-4657-a68a-673304720209'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.642+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.221+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.642+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"From day one of our mandate, we are reaffirming our unwavering
         support to the Ukrainian people."</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4814f7b1-0fa3-404a-81fb-881f08ae2ea8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.642+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.222+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.642+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Both Kallas and Costa have been strong supporters of Ukraine since
+    section3:
+      primarytype: 'block'
+      uuid: '4814f7b1-0fa3-404a-81fb-881f08ae2ea8'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.642+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.222+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.642+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Both Kallas and Costa have been strong supporters of Ukraine since
         Russia’s February 2022 invasion, and their visit comes as Kyiv struggles
         to fend off a grinding Russian offensive and the uncertainty of U.S. policy
         toward it when Donald Trump takes office next month.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e973765d-c7ff-4d03-a967-b890f3fa1c96'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.642+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.642+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The EU says its institutions and member countries have made available
+    section4:
+      primarytype: 'block'
+      uuid: 'e973765d-c7ff-4d03-a967-b890f3fa1c96'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.642+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.642+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The EU says its institutions and member countries have made available
         some $133 billion in aid to Ukraine since the start of the war.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ef59496-9f29-4962-9443-6d95d8ce36c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.643+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.643+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"In my first visit since taking up office, my message is clear: the
+    section5:
+      primarytype: 'block'
+      uuid: '5ef59496-9f29-4962-9443-6d95d8ce36c8'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.643+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.643+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"In my first visit since taking up office, my message is clear: the
         European Union wants Ukraine to win this war," Kallas wrote on X. "We will
         do whatever it takes for that."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24211045-20a5-4510-902e-1f00e1ebc8f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T16:06:58.643+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:04.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T16:06:58.643+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Dan PeleschukAdditional reporting by Andrew Gray
+    section6:
+      primarytype: 'block'
+      uuid: '24211045-20a5-4510-902e-1f00e1ebc8f1'
+      activationstatus: true
+      created: 2024-12-01T16:06:58.643+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:04.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T16:06:58.643+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Dan PeleschukAdditional reporting by Andrew Gray
         in BrusselsEditing by Bernadette Baum and Frances Kerry)</em></p>'
-  'rains-mayon-lahar':
-    'caption': 'A file photo of Mayon Volcano (Connie Calipay/PNA)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-01T16:58:31.000+08:00
-    'imagesource': 'jcr:ca31fa02-f3f4-465a-959b-afba6d142f56'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '93b7cbbd-135b-4a83-aca1-a56a41f4cddb'
-    'lead': 'Lahars, or volcanic sediment flows, from Mayon Volcano threaten Bicol
+  'START HERE----->rains-mayon-lahar':
+    caption: 'A file photo of Mayon Volcano (Connie Calipay/PNA)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-01T16:58:31.000+08:00
+    imagesource: 'ca31fa02-f3f4-465a-959b-afba6d142f56'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '93b7cbbd-135b-4a83-aca1-a56a41f4cddb'
+    lead: 'Lahars, or volcanic sediment flows, from Mayon Volcano threaten Bicol
       amid continuous rainfall, the Philippine Institute of Volcanology and Seismology
       said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-01T17:02:24.291+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:34:03.963+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:31:22.866+08:00
-    'mgnl:lastModified': 2024-12-01T17:02:24.314+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Mayon Volcano lahars threaten Bicol amid rains – PHIVOLCS'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b3448b4b-fc5e-4448-8807-07580b0f29a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.304+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.966+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.304+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Lahars, or volcanic
+    activationstatus: true
+    created: 2024-12-01T17:02:24.291+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:34:03.963+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:31:22.866+08:00
+    lastmodified: 2024-12-01T17:02:24.314+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Mayon Volcano lahars threaten Bicol amid rains – PHIVOLCS'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b3448b4b-fc5e-4448-8807-07580b0f29a5'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.304+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.966+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.304+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Lahars, or volcanic
         sediment flows, from Mayon Volcano threaten Bicol amid continuous rainfall,
         the Philippine Institute of Volcanology and Seismology (Phivolcs) said on
         Sunday, Dec. 1.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '540bec81-28be-4660-b330-2e8f36ad9120'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.305+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.967+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.305+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Based on the state weather bureau’s 11 a.m. advisory, the shear line
+    section1:
+      primarytype: 'block'
+      uuid: '540bec81-28be-4660-b330-2e8f36ad9120'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.305+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.967+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.305+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Based on the state weather bureau’s 11 a.m. advisory, the shear line
         may trigger severe intensity and possible high-volume rainfall over Albay.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0f340d8-b0a6-44c5-86c4-2c4d92ee4833'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.305+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.968+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.305+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Aside from lahars, the persistent rains may cause “muddy streamflows
+    section2:
+      primarytype: 'block'
+      uuid: 'd0f340d8-b0a6-44c5-86c4-2c4d92ee4833'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.305+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.968+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.305+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Aside from lahars, the persistent rains may cause “muddy streamflows
         or muddy run-off in rivers and drainage areas.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37685ee0-c820-4445-bb63-cb6a47452de6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.305+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.969+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.305+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Those along the Miisi, Binaan, Anoling, Quirangay, Maninila, Masarawag,
+    section3:
+      primarytype: 'block'
+      uuid: '37685ee0-c820-4445-bb63-cb6a47452de6'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.305+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.969+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.305+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Those along the Miisi, Binaan, Anoling, Quirangay, Maninila, Masarawag,
         Muladbucad, Nasisi, Mabinit, Matanag, Basud, and Bulawan Channels in Albay
         should be on alert for possible lahars and sediment-laden streamflows.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1d844de0-e50e-46d8-91be-245a12ebc95b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.306+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.969+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.306+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Prolonged and heavy rainfall may generate post-eruption lahars
+    section4:
+      primarytype: 'block'
+      uuid: '1d844de0-e50e-46d8-91be-245a12ebc95b'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.306+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.969+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.306+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Prolonged and heavy rainfall may generate post-eruption lahars
         on major channels draining Mayon Volcano by incorporating loose material from
         remnant pyroclastic density current pyroclastic density current (PDC) deposits
         from the January-March 2018 eruption,” Phivolcs said in a separate advisory.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cb60cea-1ce5-48e1-84de-d84350453f84'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.306+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.970+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.306+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Most of the erodible PDC deposits are in the watershed areas of
+    section5:
+      primarytype: 'block'
+      uuid: '4cb60cea-1ce5-48e1-84de-d84350453f84'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.306+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.970+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.306+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Most of the erodible PDC deposits are in the watershed areas of
         Basud, Buyuan, Miisi, and Mabinit Channels.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7161268-2ab0-4bd0-aef5-f762280bc8f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.306+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.971+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.306+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Older and erodible eruption deposits that occupy the watershed areas
+    section6:
+      primarytype: 'block'
+      uuid: 'b7161268-2ab0-4bd0-aef5-f762280bc8f0'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.306+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.971+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.306+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Older and erodible eruption deposits that occupy the watershed areas
         on the eastern and western slopes of the edifice and can be remobilized as
         non-eruption lahars by erosion of banks and channel beds,” it added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bae0b6ae-4b32-4ab3-aac8-644527d25cbc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-01T17:02:24.307+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:34:03.971+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-01T17:02:24.307+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Phivolcs warned that Mayon lahars can threaten communities downstream
+    section7:
+      primarytype: 'block'
+      uuid: 'bae0b6ae-4b32-4ab3-aac8-644527d25cbc'
+      activationstatus: true
+      created: 2024-12-01T17:02:24.307+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:34:03.971+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-01T17:02:24.307+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Phivolcs warned that Mayon lahars can threaten communities downstream
         of the channels with inundation, among others.</p>'

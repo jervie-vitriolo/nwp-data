@@ -1,2086 +1,2086 @@
-'3':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '92b70a42-3c7f-43f1-b5a7-fdf46791e6ca'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-11-03T09:47:21.747+08:00
-  'mgnl:createdBy': 'daniza-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:40:32.218+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.267+08:00
-  'mgnl:lastModified': 2024-11-03T22:38:33.263+08:00
-  'mgnl:lastModifiedBy': 'cj-nwp'
-  'lpa-forms-may-enter-par':
-    'caption': 'A screenshot of state weather bureau PAGASA’s satellite as of Nov.
+section3:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '92b70a42-3c7f-43f1-b5a7-fdf46791e6ca'
+  activationstatus: true
+  created: 2024-11-03T09:47:21.747+08:00
+  createdby: 'daniza-nwp'
+  lastactivated: 2025-03-13T12:40:32.218+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:34:23.267+08:00
+  lastmodified: 2024-11-03T22:38:33.263+08:00
+  lastmodifiedby: 'cj-nwp'
+  'START HERE----->lpa-forms-may-enter-par':
+    caption: 'A screenshot of state weather bureau PAGASA’s satellite as of Nov.
       3, 9:20 a.m.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T09:47:21.000+08:00
-    'imagesource': 'jcr:b0b92ae3-e4b8-4e25-97be-8042bd02cd9a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a1862eb0-c65e-4c15-b28c-f29f2f0f36d1'
-    'lead': 'A low pressure area developed outside the Philippine Area of Responsibility
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T09:47:21.000+08:00
+    imagesource: 'b0b92ae3-e4b8-4e25-97be-8042bd02cd9a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a1862eb0-c65e-4c15-b28c-f29f2f0f36d1'
+    lead: 'A low pressure area developed outside the Philippine Area of Responsibility
       on Sunday, Nov. 3, and may enter the country’s monitoring zone, the state weather
       agency reported.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T09:50:02.608+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:56:54.610+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.413+08:00
-    'mgnl:lastModified': 2024-11-03T09:50:02.635+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LPA forms, may enter PAR – PAGASA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbfe57b2-dc6d-4b90-aae1-da38bac5d3ba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.621+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.613+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.621+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> A low pressure area
+    activationstatus: true
+    created: 2024-11-03T09:50:02.608+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:56:54.610+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.413+08:00
+    lastmodified: 2024-11-03T09:50:02.635+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LPA forms, may enter PAR – PAGASA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bbfe57b2-dc6d-4b90-aae1-da38bac5d3ba'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.621+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.613+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.621+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> A low pressure area
         (LPA) developed outside the Philippine Area of Responsibility (PAR) on Sunday,
         Nov. 3, and may enter the country’s monitoring zone, the state weather agency
         reported.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '788c082e-e4fe-4502-bfa5-d8729a5e0310'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.621+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.614+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.621+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Philippine Atmospheric, Geophysical and Astronomical Services Administration
+    section1:
+      primarytype: 'block'
+      uuid: '788c082e-e4fe-4502-bfa5-d8729a5e0310'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.621+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.614+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.621+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Philippine Atmospheric, Geophysical and Astronomical Services Administration
         (PAGASA) said the cloud clusters off Mindanao developed into an LPA at 2 a.m.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af6aced5-2796-4b4c-9a6c-1d4f96673585'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.621+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.615+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.621+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'As of 3 a.m., the LPA was spotted 1,605 kilometers east of northeastern
+    section2:
+      primarytype: 'block'
+      uuid: 'af6aced5-2796-4b4c-9a6c-1d4f96673585'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.621+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.615+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.621+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'As of 3 a.m., the LPA was spotted 1,605 kilometers east of northeastern
         Mindanao.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '102ad764-2568-4ed8-b8b3-b5f110c34bbe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.622+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.615+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.622+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ayon sa ating latest analysis ay mababa ‘yung tsansa nitong maging
+    section3:
+      primarytype: 'block'
+      uuid: '102ad764-2568-4ed8-b8b3-b5f110c34bbe'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.622+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.615+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.622+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Ayon sa ating latest analysis ay mababa ‘yung tsansa nitong maging
         bagyo within the next 24 hours, at wala rin po itong direct effect sa anumang
         bahagi ng ating bansa,” PAGASA weather specialist Grace Castaneda said in
         a public weather briefing.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76256f99-9fd3-461e-a7e0-c3a8320c7b5f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.622+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.616+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.622+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Based on our latest analysis, there is a low chance that
+    section4:
+      primarytype: 'block'
+      uuid: '76256f99-9fd3-461e-a7e0-c3a8320c7b5f'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.622+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.616+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.622+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: Based on our latest analysis, there is a low chance that
         this will intensify into a tropical cyclone in the next 24 hours, and it has
         no direct effect in our country.]'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32c21b4e-2ba2-4a58-bc04-4792e9b364dc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.623+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.617+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.623+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ngunit hindi po natin inaalis ''yung possibility na sa mga susunod
+    section5:
+      primarytype: 'block'
+      uuid: '32c21b4e-2ba2-4a58-bc04-4792e9b364dc'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.623+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.617+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.623+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Ngunit hindi po natin inaalis 'yung possibility na sa mga susunod
         na araw or the next 24 to 48 hours ay posible po itong pumasok sa loob ng
         PAR,” she added.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50a07eff-edc6-4d9f-8e15-4e186ecb4865'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.623+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.617+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.623+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: But we are not ruling out the possibility that it
+    section6:
+      primarytype: 'block'
+      uuid: '50a07eff-edc6-4d9f-8e15-4e186ecb4865'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.623+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.617+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.623+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: But we are not ruling out the possibility that it
         would enter PAR in the next 24 to 48 hours.]</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14a30269-faae-4cfb-9617-a53e3aeaa4d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.623+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.618+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.623+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Weather forecast</strong></h2>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a5dfd85-0b46-45fb-a9dc-b96be10e8b99'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.624+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.619+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.624+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Philippines will have partly cloudy to cloudy skies with isolated
+    section7:
+      primarytype: 'block'
+      uuid: '14a30269-faae-4cfb-9617-a53e3aeaa4d8'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.623+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.618+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.623+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<h2><strong>Weather forecast</strong></h2>'
+    section8:
+      primarytype: 'block'
+      uuid: '3a5dfd85-0b46-45fb-a9dc-b96be10e8b99'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.624+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.619+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.624+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Philippines will have partly cloudy to cloudy skies with isolated
         rains on Sunday.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8016592f-7452-4107-be1f-67448fd79636'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.624+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.624+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In its forecast, PAGASA said Batanes and Babuyan Islands will have
+    section9:
+      primarytype: 'block'
+      uuid: '8016592f-7452-4107-be1f-67448fd79636'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.624+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.624+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In its forecast, PAGASA said Batanes and Babuyan Islands will have
         isolated light rains due to the northeasterly windflow.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd52a3f19-9507-4997-8cbb-94112876300b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.624+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.624+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The easterlies will bring isolated rain showers or thunderstorms over
+    section10:
+      primarytype: 'block'
+      uuid: 'd52a3f19-9507-4997-8cbb-94112876300b'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.624+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.624+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The easterlies will bring isolated rain showers or thunderstorms over
         Bicol Region, Eastern Visayas, Aurora, Quezon, and the rest of Cagayan Valley.
         The rest of the country will experience the same weather condition caused
         by localized thunderstorms.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0657f9b-42b7-4273-af00-491dad46895c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T09:50:02.625+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:54.621+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T09:50:02.625+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PAGASA has not raised a gale warning for those venturing out at
+    section11:
+      primarytype: 'block'
+      uuid: 'e0657f9b-42b7-4273-af00-491dad46895c'
+      activationstatus: true
+      created: 2024-11-03T09:50:02.625+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:54.621+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T09:50:02.625+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>PAGASA has not raised a gale warning for those venturing out at
         sea.</p>'
-  'australia-slashes-student-loans':
-    'author': 'Reuters'
-    'caption': 'Australian Prime Minister Anthony Albanese speaks during a press conference
+  'START HERE----->australia-slashes-student-loans':
+    author: 'Reuters'
+    caption: 'Australian Prime Minister Anthony Albanese speaks during a press conference
       at the Parliament House in Canberra, Australia, June 17, 2024. (Lukas Coch/Pool
       via Reuters/File Photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T10:17:34.000+08:00
-    'imagesource': 'jcr:be604b98-728e-4af0-b880-f953397539e8'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4425ad21-859f-426e-bed1-b7fd870c342d'
-    'lead': 'Australian Prime Minister Anthony Albanese said that his government planned
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T10:17:34.000+08:00
+    imagesource: 'be604b98-728e-4af0-b880-f953397539e8'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '4425ad21-859f-426e-bed1-b7fd870c342d'
+    lead: 'Australian Prime Minister Anthony Albanese said that his government planned
       to cut student loans for around three million Australians by 20%, wiping off
       around A$16 billion ($10 billion) in debts.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T10:22:11.267+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:56:37.564+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.576+08:00
-    'mgnl:lastModified': 2024-11-03T10:22:11.291+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Australia to slash $10 billion off student debt amid cost of living
+    activationstatus: true
+    created: 2024-11-03T10:22:11.267+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:56:37.564+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.576+08:00
+    lastmodified: 2024-11-03T10:22:11.291+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Australia to slash $10 billion off student debt amid cost of living
       pressures'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd35a8f6-c80c-4d3c-8dca-e058fa06c3c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.279+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.566+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.279+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Sydney, Australia&nbsp;—</strong> Australian Prime Minister
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fd35a8f6-c80c-4d3c-8dca-e058fa06c3c9'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.279+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.566+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.279+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Sydney, Australia&nbsp;—</strong> Australian Prime Minister
         Anthony Albanese said on Sunday that his government planned to cut student
         loans for around three million Australians by 20%, wiping off around A$16
         billion ($10 billion) in debts.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '67af08db-1272-41d3-9f67-881cc76ce543'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.280+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.566+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.280+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The move builds on May’s budget, which attacked cost of living
+    section1:
+      primarytype: 'block'
+      uuid: '67af08db-1272-41d3-9f67-881cc76ce543'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.280+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.566+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.280+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The move builds on May’s budget, which attacked cost of living
         pressures in Australia and gave debt relief for students, as well as more
         investment to make medicines cheaper, and a boost to a rent assistance program.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08b5b9d2-f327-4b5a-a659-dbf6764e09a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.280+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.567+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.280+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"This will help everyone with a student debt right now, whilst we
+    section2:
+      primarytype: 'block'
+      uuid: '08b5b9d2-f327-4b5a-a659-dbf6764e09a9'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.280+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.567+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.280+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"This will help everyone with a student debt right now, whilst we
         work hard to deliver a better deal for every student in the years ahead,"
         Albanese said in a statement announcing the cut to student loans for tertiary
         education.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97d6467d-a8da-4598-936b-3ba98b75cb9a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.280+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.568+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.280+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The changes would mean the average graduate with a loan of A$27,600
+    section3:
+      primarytype: 'block'
+      uuid: '97d6467d-a8da-4598-936b-3ba98b75cb9a'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.280+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.568+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.280+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The changes would mean the average graduate with a loan of A$27,600
         would have A$5,520 wiped, the government said, adding that they would take
         effect from June 1, 2025.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a5cb624-766a-4154-82c1-008873d5edeb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.281+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.568+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.281+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The government said it already planned to cut the amount that Australians
+    section4:
+      primarytype: 'block'
+      uuid: '4a5cb624-766a-4154-82c1-008873d5edeb'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.281+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.568+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.281+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The government said it already planned to cut the amount that Australians
         with a student debt have to repay per year and raise the threshold to start
         repayments.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e309a58-3af1-4ce2-a72a-d9ea9cdac158'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.281+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.569+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.281+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>If reelected at the next general election, due in 2025, Labor would
+    section5:
+      primarytype: 'block'
+      uuid: '7e309a58-3af1-4ce2-a72a-d9ea9cdac158'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.281+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.569+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.281+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>If reelected at the next general election, due in 2025, Labor would
         also legislate to guarantee 100,000 free places each year at the country’s
         Technical and Further Education institutes, Albanese said.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90aa20a0-a4cf-4db6-a80d-0eaf122a1894'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.281+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.570+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.281+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"This is a time for building, building better education for all,"
+    section6:
+      primarytype: 'block'
+      uuid: '90aa20a0-a4cf-4db6-a80d-0eaf122a1894'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.281+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.570+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.281+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"This is a time for building, building better education for all,"
         he said in a speech to supporters in South Australia state capital Adelaide.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f6938277-d522-4a75-b47b-092402554815'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.282+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.570+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.282+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Cost of living pressures, stoked by stubbornly high inflation, have
+    section7:
+      primarytype: 'block'
+      uuid: 'f6938277-d522-4a75-b47b-092402554815'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.282+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.570+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.282+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Cost of living pressures, stoked by stubbornly high inflation, have
         a special resonance with a federal election looming and the center-left Labor
         government now polling behind their conservative opponents.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e16d270-6d41-45ea-9c3b-250ceb6e390a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.282+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.571+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.282+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '($1 = 1.5246 Australian dollars)'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2fef5896-2207-42e1-91a8-0870870d50d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:22:11.283+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:56:37.571+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:22:11.283+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Sam McKeith; Editing by Sandra Maler and William
+    section8:
+      primarytype: 'block'
+      uuid: '4e16d270-6d41-45ea-9c3b-250ceb6e390a'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.282+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.571+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.282+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '($1 = 1.5246 Australian dollars)'
+    section9:
+      primarytype: 'block'
+      uuid: '2fef5896-2207-42e1-91a8-0870870d50d9'
+      activationstatus: true
+      created: 2024-11-03T10:22:11.283+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:56:37.571+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:22:11.283+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Sam McKeith; Editing by Sandra Maler and William
         Mallard)</em></p>'
-  'ukraine-holding-back-offensive':
-    'author': 'Reuters'
-    'caption': 'A view shows an apartment building damaged by a Russian drone strike,
+  'START HERE----->ukraine-holding-back-offensive':
+    author: 'Reuters'
+    caption: 'A view shows an apartment building damaged by a Russian drone strike,
       amid Russia’s attack on Ukraine, in Kyiv, Ukraine November 2, 2024. (Valentyn
       Ogirenko/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T10:22:37.000+08:00
-    'imagesource': 'jcr:58497d28-3949-49a6-b1ea-fc58622312d7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '21d23b10-516a-4d3e-a9ae-f9a187b5d286'
-    'lead': 'Ukrainian forces are restraining one of Russia’s most powerful offensives
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T10:22:37.000+08:00
+    imagesource: '58497d28-3949-49a6-b1ea-fc58622312d7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '21d23b10-516a-4d3e-a9ae-f9a187b5d286'
+    lead: 'Ukrainian forces are restraining one of Russia’s most powerful offensives
       since the start of Moscow’s full-scale invasion on its smaller neighbor, the
       top commander of Kyiv’s forces said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T10:33:15.203+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:55:59.364+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.701+08:00
-    'mgnl:lastModified': 2024-11-03T10:33:15.232+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Ukraine ''holding back'' powerful Russian offensive, Kyiv top commander
+    activationstatus: true
+    created: 2024-11-03T10:33:15.203+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:55:59.364+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.701+08:00
+    lastmodified: 2024-11-03T10:33:15.232+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Ukraine 'holding back' powerful Russian offensive, Kyiv top commander
       says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd82221a4-437a-4dba-88f8-f80034e89e4b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.221+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.367+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.221+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters —</strong> Ukrainian forces are restraining one
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd82221a4-437a-4dba-88f8-f80034e89e4b'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.221+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.367+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.221+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters —</strong> Ukrainian forces are restraining one
         of Russia’s most powerful offensives since the start of Moscow’s full-scale
         invasion on its smaller neighbor, the top commander of Kyiv’s forces said
         on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bb91541-8432-4971-bcdd-0cc861cbac6e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.367+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Russian troops advanced in September at their fastest rate since
+    section1:
+      primarytype: 'block'
+      uuid: '5bb91541-8432-4971-bcdd-0cc861cbac6e'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.367+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Russian troops advanced in September at their fastest rate since
         March 2022, the month after President Vladimir Putin ordered the invasion,
         according to open-source data. Ukraine in August took part of Russia’s Kursk
         region.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00824d01-0f0d-4859-abf9-3d13d60b4e72'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.368+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"The Armed Forces of Ukraine are holding back one of the most powerful
+    section2:
+      primarytype: 'block'
+      uuid: '00824d01-0f0d-4859-abf9-3d13d60b4e72'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.368+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"The Armed Forces of Ukraine are holding back one of the most powerful
         Russian offensives from launching a full-scale invasion," General Oleksandr
         Syrskyi wrote on the Telegram messaging app.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0465beb5-e923-4756-bf7e-13127988eb5c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.369+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>After failing to capture the capital Kyiv early in the war and win
+    section3:
+      primarytype: 'block'
+      uuid: '0465beb5-e923-4756-bf7e-13127988eb5c'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.369+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>After failing to capture the capital Kyiv early in the war and win
         a decisive victory, Putin scaled back his war ambitions to taking the Donbas
         industrial heartland in Ukraine’s east, which covers the Luhansk and Donetsk
         regions.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c749a738-512f-44b3-96ad-436439291eb5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.223+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.370+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.223+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Donbas has since become the war’s main theatre, where some of biggest
+    section4:
+      primarytype: 'block'
+      uuid: 'c749a738-512f-44b3-96ad-436439291eb5'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.223+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.370+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.223+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Donbas has since become the war’s main theatre, where some of biggest
         battles in Europe for generations have taken place and where thousands of
         troops on each side have died.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '955dc5f7-e807-4f04-aafc-e8c1016b3819'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.223+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.370+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.223+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday, Moscow said it has taken two more settlements along
+    section5:
+      primarytype: 'block'
+      uuid: '955dc5f7-e807-4f04-aafc-e8c1016b3819'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.223+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.370+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.223+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>On Saturday, Moscow said it has taken two more settlements along
         the Donbas frontline. In the week of Oct. 20-27 alone, Russia captured nearly
         200 square km (80 square miles) of Ukrainian territory, according to the Russian
         media group Agentstvo, which analyzed Ukrainian open-source maps.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03ab81c8-f910-49d3-b40e-6e4e675402a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.223+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.371+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.223+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The war is entering what Russian analysts say is its most dangerous
+    section6:
+      primarytype: 'block'
+      uuid: '03ab81c8-f910-49d3-b40e-6e4e675402a2'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.223+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.371+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.223+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The war is entering what Russian analysts say is its most dangerous
         phase as Moscow’s forces advance, North Korea sends troops to Russia and
         the West ponders how the conflict will end.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b0fdbf88-8877-4536-aa68-e209f4fbabcd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.224+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.372+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.224+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Ukraine’s President Volodymyr Zelenskiy has been traveling the
+    section7:
+      primarytype: 'block'
+      uuid: 'b0fdbf88-8877-4536-aa68-e209f4fbabcd'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.224+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.372+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.224+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Ukraine’s President Volodymyr Zelenskiy has been traveling the
         world lobbying NATO countries to allow Kyiv the use of the long-range missiles
         they have provided to strike targets deep inside Russia.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c83e7ed0-aaf4-4dfe-b267-3319e916a46a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.224+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.372+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.224+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Ukraine is bracing for what could be the toughest winter of the
+    section8:
+      primarytype: 'block'
+      uuid: 'c83e7ed0-aaf4-4dfe-b267-3319e916a46a'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.224+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.372+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.224+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Ukraine is bracing for what could be the toughest winter of the
         war after long-range Russian airstrikes destroyed what officials say is about
         half of its power generating capacity.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd670dfa8-82f0-4900-a813-a202e8a641b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T10:33:15.225+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:59.372+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T10:33:15.225+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Lidia Kelly in Melbourne; Editing by William Mallard)</em></p>'
-  'arellanos-fifth-child-gender-reveal':
-    'caption': 'Celebrity couple Iya and Drew Arellano reveal the gender of their
+    section9:
+      primarytype: 'block'
+      uuid: 'd670dfa8-82f0-4900-a813-a202e8a641b1'
+      activationstatus: true
+      created: 2024-11-03T10:33:15.225+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:59.372+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T10:33:15.225+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Lidia Kelly in Melbourne; Editing by William Mallard)</em></p>'
+  'START HERE----->arellanos-fifth-child-gender-reveal':
+    caption: 'Celebrity couple Iya and Drew Arellano reveal the gender of their
       fifth child. (Iya Villania-Arellano/Instagram)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T11:29:40.000+08:00
-    'imagesource': 'jcr:c9b4331e-3712-4304-ba1a-0da3e37487ef'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '48c6418e-f89c-48c0-b6e5-ef459fd35bbd'
-    'lead': 'It’s a girl! – Celebrity couple Iya and Drew Arellano have revealed the
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T11:29:40.000+08:00
+    imagesource: 'c9b4331e-3712-4304-ba1a-0da3e37487ef'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '48c6418e-f89c-48c0-b6e5-ef459fd35bbd'
+    lead: 'It’s a girl! – Celebrity couple Iya and Drew Arellano have revealed the
       gender of their fifth child.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T11:32:03.351+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:55:44.538+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.819+08:00
-    'mgnl:lastModified': 2024-11-03T11:32:03.371+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'It’s a girl: Iya, Drew Arellano reveal gender of fifth child'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed1bad38-1f31-4c8a-94a8-656f7ff8ecf6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.364+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.540+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.364+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> It’s a girl! – Celebrity
+    activationstatus: true
+    created: 2024-11-03T11:32:03.351+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:55:44.538+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.819+08:00
+    lastmodified: 2024-11-03T11:32:03.371+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'It’s a girl: Iya, Drew Arellano reveal gender of fifth child'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'ed1bad38-1f31-4c8a-94a8-656f7ff8ecf6'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.364+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.540+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.364+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> It’s a girl! – Celebrity
         couple Iya and Drew Arellano have revealed the gender of their fifth child.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e9ee082-5ecc-44d7-99d8-406174bb6399'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.364+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.540+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.364+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Iya posted an Instagram video of her and Drew, telling the upcoming
+    section1:
+      primarytype: 'block'
+      uuid: '2e9ee082-5ecc-44d7-99d8-406174bb6399'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.364+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.540+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.364+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Iya posted an Instagram video of her and Drew, telling the upcoming
         baby’s gender to their four kids through coated cake pops.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15fa5c3d-f973-47a2-be36-79006fa0a7d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.365+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.541+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.365+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Their children started biting the pops, which showed pink bread.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e57a6663-e945-49eb-80f1-97d9ab2d5d8c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.365+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.542+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.365+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Initially I just wanted to wait until delivery but Primo (first child)
+    section2:
+      primarytype: 'block'
+      uuid: '15fa5c3d-f973-47a2-be36-79006fa0a7d4'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.365+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.541+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.365+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Their children started biting the pops, which showed pink bread.'
+    section3:
+      primarytype: 'block'
+      uuid: 'e57a6663-e945-49eb-80f1-97d9ab2d5d8c'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.365+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.542+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.365+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Initially I just wanted to wait until delivery but Primo (first child)
         wanted to know gender and, well, I didn’t want to rock up to a regular ultrasound
         and have an anti-climactic reveal,” Iya wrote on her post.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c985c3d6-7bd4-4f60-a7e2-bf3fe60be1bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.366+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.542+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.366+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The TV hosts’ four children are Primo, Leon, Alana, and Astro.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b067aa5-feb7-4b5a-aeb1-8377a76cb420'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T11:32:03.366+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:44.542+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T11:32:03.366+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Iya and Drew tied the knot in 2014.</p>'
-  '68.6-million-voter-registrants':
-    'caption': 'Filipinos register their applications to vote for the 2025 elections.
+    section4:
+      primarytype: 'block'
+      uuid: 'c985c3d6-7bd4-4f60-a7e2-bf3fe60be1bf'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.366+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.542+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.366+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The TV hosts’ four children are Primo, Leon, Alana, and Astro.'
+    section5:
+      primarytype: 'block'
+      uuid: '8b067aa5-feb7-4b5a-aeb1-8377a76cb420'
+      activationstatus: true
+      created: 2024-11-03T11:32:03.366+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:44.542+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T11:32:03.366+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Iya and Drew tied the knot in 2014.</p>'
+  'START HERE----->68.6-million-voter-registrants':
+    caption: 'Filipinos register their applications to vote for the 2025 elections.
       (Commission on Elections)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T12:10:45.000+08:00
-    'imagesource': 'jcr:5c2b916d-e36e-49a6-af91-10637cf2b68b'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '10f85bee-571f-4725-a02e-617509315db3'
-    'lead': 'About 68.6 million voters have registered for the May 12 polls, latest
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T12:10:45.000+08:00
+    imagesource: '5c2b916d-e36e-49a6-af91-10637cf2b68b'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '10f85bee-571f-4725-a02e-617509315db3'
+    lead: 'About 68.6 million voters have registered for the May 12 polls, latest
       Commission on Elections data showed.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T12:14:19.330+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:55:34.311+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.953+08:00
-    'mgnl:lastModified': 2024-11-03T12:14:19.359+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '68.6 million voters registered for May 12 polls'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74f22c20-a012-49aa-a1d4-20e24980c343'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.350+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.314+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.356+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> About 68.6 million
+    activationstatus: true
+    created: 2024-11-03T12:14:19.330+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:55:34.311+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.953+08:00
+    lastmodified: 2024-11-03T12:14:19.359+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '68.6 million voters registered for May 12 polls'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '74f22c20-a012-49aa-a1d4-20e24980c343'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.350+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.314+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.356+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> About 68.6 million
         voters have registered for the May 12 polls, Commission on Elections (Comelec)
         data showed on Sunday, Nov. 3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4f0630c-0441-47fc-9794-bfb237624654'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.351+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.314+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.351+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Comelec noted that the figures, as of Oct. 31, are subject to
+    section1:
+      primarytype: 'block'
+      uuid: 'b4f0630c-0441-47fc-9794-bfb237624654'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.351+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.314+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.351+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Comelec noted that the figures, as of Oct. 31, are subject to
         verification.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fea5fbfa-872d-4709-97c3-cb3c7b864812'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.351+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.315+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.351+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Calabarzon is the region with the highest number of registrants
+    section2:
+      primarytype: 'block'
+      uuid: 'fea5fbfa-872d-4709-97c3-cb3c7b864812'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.351+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.315+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.351+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Calabarzon is the region with the highest number of registrants
         at 9.7 million, followed by Central Luzon with 7.7 million, and Metro Manila
         with 7.5 million.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b698a0a2-1701-4995-b1c8-71235c9dea62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.351+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.315+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.351+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Cordillera Administrative Region, meanwhile, has the fewest registrants
+    section3:
+      primarytype: 'block'
+      uuid: 'b698a0a2-1701-4995-b1c8-71235c9dea62'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.351+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.315+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.351+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Cordillera Administrative Region, meanwhile, has the fewest registrants
         at 1.1 million.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0e7bd1c-6dac-4a47-ad52-d2c9e4eed7de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.352+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.316+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.352+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The filing of certificates of candidacy (COC) for local and national
+    section4:
+      primarytype: 'block'
+      uuid: 'd0e7bd1c-6dac-4a47-ad52-d2c9e4eed7de'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.352+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.316+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.352+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The filing of certificates of candidacy (COC) for local and national
         positions were held on Oct. 1 to 8.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd04e50c4-c41c-41e1-8b2c-413073bf8bc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.352+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.316+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.352+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The COC filing for the Bangsamoro Autonomous Region in Muslim Mindanao
+    section5:
+      primarytype: 'block'
+      uuid: 'd04e50c4-c41c-41e1-8b2c-413073bf8bc1'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.352+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.316+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.352+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The COC filing for the Bangsamoro Autonomous Region in Muslim Mindanao
         Parliamentary polls will start on Nov. 4 and end on Nov. 9.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f39ee504-0a2c-4959-be19-c2433868659d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T12:14:19.353+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:34.317+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T12:14:19.353+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, the shipment of two cargoes containing the final batch
+    section6:
+      primarytype: 'block'
+      uuid: 'f39ee504-0a2c-4959-be19-c2433868659d'
+      activationstatus: true
+      created: 2024-11-03T12:14:19.353+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:34.317+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T12:14:19.353+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, the shipment of two cargoes containing the final batch
         of <a href="https://www.newswatchplus.ph/news/2024/10/31/automated-vote-machines-manufactured-ahead-deadline.html">automated
         vote counting machine</a> kits from South Korea is set to arrive on Nov. 4.</p>'
-  'undas-generally-peaceful-police':
-    'caption': 'A family gathers around the tomb of their kin who passed away in April
+  'START HERE----->undas-generally-peaceful-police':
+    caption: 'A family gathers around the tomb of their kin who passed away in April
       this year. (Eric Bastillador/NewsWatch Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T13:02:06.000+08:00
-    'imagesource': 'jcr:8171288d-22e9-46ef-b632-a015b3288559'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '337741b5-d14a-46be-a9bc-ec339bd8d42a'
-    'lead': 'The observance of Undas, or All Saints Day and All Souls Day, has been
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T13:02:06.000+08:00
+    imagesource: '8171288d-22e9-46ef-b632-a015b3288559'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '337741b5-d14a-46be-a9bc-ec339bd8d42a'
+    lead: 'The observance of Undas, or All Saints Day and All Souls Day, has been
       generally peaceful across the country, the police said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T13:06:46.625+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:55:22.204+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.232+08:00
-    'mgnl:lastModified': 2024-11-03T13:06:46.664+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Undas commemoration ‘generally peaceful’ – PNP'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e8bc19dc-a142-43f7-b8df-486533479465'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.206+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.660+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The observance of Undas,
+    activationstatus: true
+    created: 2024-11-03T13:06:46.625+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:55:22.204+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.232+08:00
+    lastmodified: 2024-11-03T13:06:46.664+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Undas commemoration ‘generally peaceful’ – PNP'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e8bc19dc-a142-43f7-b8df-486533479465'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.206+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.660+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The observance of Undas,
         or All Saints Day and All Souls Day, has been “peaceful” across the country,
         the police said on Sunday, Nov. 3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c7fe7a1-8c0b-4733-8f0f-b72ff3e2a2d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.207+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.654+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Generally peaceful as no untoward incident recorded,” Philippine National
+    section1:
+      primarytype: 'block'
+      uuid: '8c7fe7a1-8c0b-4733-8f0f-b72ff3e2a2d9'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.207+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.654+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Generally peaceful as no untoward incident recorded,” Philippine National
         Police (PNP) spokesperson PBGen. Jean Fajardo told NewsWatch Plus in a message.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '795da6aa-adee-43ab-bc60-7ec21ae03d22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.208+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.654+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'A National Disaster Risk Reduction and Management Council tally showed
+    section2:
+      primarytype: 'block'
+      uuid: '795da6aa-adee-43ab-bc60-7ec21ae03d22'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.208+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.654+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'A National Disaster Risk Reduction and Management Council tally showed
         eight people were hurt during Undas, mostly dizziness and hypertension.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '552ce891-42fe-4ccf-ba9d-3f8669a3b824'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.655+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.208+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.655+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, seven families or around 20 individuals in Aparri, Cagayan
+    section3:
+      primarytype: 'block'
+      uuid: '552ce891-42fe-4ccf-ba9d-3f8669a3b824'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.655+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.208+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.655+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Meanwhile, seven families or around 20 individuals in Aparri, Cagayan
         stayed in an evacuation center after a fire ravaged their homes on Nov. 1.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a796684-4e42-47f0-b319-07424c77db68'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.655+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.209+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.655+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/11/1/filipinos-remember-departed.html">Families
+    section4:
+      primarytype: 'block'
+      uuid: '4a796684-4e42-47f0-b319-07424c77db68'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.655+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.209+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.655+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/11/1/filipinos-remember-departed.html">Families
         flocked</a> to cemeteries and columbariums on Undas, with over a million visiting
         the Manila North Cemetery, one of the largest burial sites in the metro.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb4aec5b-14ce-4e4e-b450-2cf129a7e4dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.656+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.209+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.656+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'More than 31,000 police officers were deployed nationwide for Undas.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f0d71a8-3d8c-4617-8277-58cc66b1b70c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.656+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.210+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.656+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/11/1/undas-departed-pets.html">Undas
+    section5:
+      primarytype: 'block'
+      uuid: 'eb4aec5b-14ce-4e4e-b450-2cf129a7e4dd'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.656+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.209+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.656+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'More than 31,000 police officers were deployed nationwide for Undas.'
+    section6:
+      primarytype: 'block'
+      uuid: '7f0d71a8-3d8c-4617-8277-58cc66b1b70c'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.656+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.210+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.656+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/11/1/undas-departed-pets.html">Undas
         2024: Filipinos also remember their departed pets</a></strong></p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ad5fa80-55be-4e70-ac8c-dddbbd6af4e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T13:06:46.657+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:22.210+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T13:06:46.657+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+    section7:
+      primarytype: 'block'
+      uuid: '2ad5fa80-55be-4e70-ac8c-dddbbd6af4e0'
+      activationstatus: true
+      created: 2024-11-03T13:06:46.657+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:22.210+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T13:06:46.657+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
         this report.</em></p>'
-  'national-budget-ratification-top-agenda':
-    'caption': 'Facade of the House of Representatives (House of Representatives)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T13:57:34.000+08:00
-    'imagesource': 'jcr:75e18bd0-dfec-45a2-ba9b-fe9154b468d0'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8e963e5e-050c-4bdd-81ba-e8046a7eac31'
-    'lead': 'Ratifying the proposed P6.352-trillion 2025 national budget is the House
+  'START HERE----->national-budget-ratification-top-agenda':
+    caption: 'Facade of the House of Representatives (House of Representatives)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T13:57:34.000+08:00
+    imagesource: '75e18bd0-dfec-45a2-ba9b-fe9154b468d0'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8e963e5e-050c-4bdd-81ba-e8046a7eac31'
+    lead: 'Ratifying the proposed P6.352-trillion 2025 national budget is the House
       of Representatives’ top agenda as it is set to reconvene on Nov. 4, a lawmaker
       said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T14:01:24.919+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:55:09.790+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.381+08:00
-    'mgnl:lastModified': 2024-11-03T14:01:24.955+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Proposed 2025 budget ratification top agenda – House solon'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '895e0ff8-185c-462b-b851-b9a1cf8f34d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.943+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.793+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.951+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines — Ratifying the proposed P6.352-trillion
+    activationstatus: true
+    created: 2024-11-03T14:01:24.919+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:55:09.790+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.381+08:00
+    lastmodified: 2024-11-03T14:01:24.955+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Proposed 2025 budget ratification top agenda – House solon'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '895e0ff8-185c-462b-b851-b9a1cf8f34d4'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.943+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.793+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.951+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines — Ratifying the proposed P6.352-trillion
         2025 national budget is the House of Representatives’ top agenda as it is
         set to reconvene on Monday, Nov. 4, a lawmaker said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48ffd8df-b37b-4f53-94c0-dcdd9291e1d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.944+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.794+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement on Sunday, Nov. 3, House Majority Leader Mannix Dalipe
+    section1:
+      primarytype: 'block'
+      uuid: '48ffd8df-b37b-4f53-94c0-dcdd9291e1d8'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.944+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.794+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a statement on Sunday, Nov. 3, House Majority Leader Mannix Dalipe
         said the lower chamber is awaiting the Senate’s approval of the budget proposal
         to pave the way for a bicameral conference committee.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8af1225-9099-4819-8766-c28396d73583'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.944+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.794+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The bicameral panel will reconcile the differences in the approval
+    section2:
+      primarytype: 'block'
+      uuid: 'f8af1225-9099-4819-8766-c28396d73583'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.944+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.794+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The bicameral panel will reconcile the differences in the approval
         of both chambers to produce a common version of the outlay.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f19f7e7-b9e6-4ef8-aafb-216b4d5950f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.945+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.795+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“We hope to ratify the bicam report before our Dec. 20 Christmas
+    section3:
+      primarytype: 'block'
+      uuid: '0f19f7e7-b9e6-4ef8-aafb-216b4d5950f1'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.945+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.795+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“We hope to ratify the bicam report before our Dec. 20 Christmas
         break. There is enough time to approve the final version of the budget,” Dalipe
         said.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a945a124-5ab5-4b2f-bd06-ee1cafa716d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.945+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.796+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“As in the past, the spending program for the coming year will be
+    section4:
+      primarytype: 'block'
+      uuid: 'a945a124-5ab5-4b2f-bd06-ee1cafa716d3'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.945+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.796+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“As in the past, the spending program for the coming year will be
         in place before the current fiscal year is over to ensure continuity of spending
         and seamless implementation of activities and programs,” he added.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e4f469c3-f9ed-4169-97cf-b12cd0f539d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.946+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.796+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.946+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The <a href="https://www.newswatchplus.ph/news/2024/9/25/house-passes-2025-budget-bill.html">House
+    section5:
+      primarytype: 'block'
+      uuid: 'e4f469c3-f9ed-4169-97cf-b12cd0f539d3'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.946+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.796+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.946+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The <a href="https://www.newswatchplus.ph/news/2024/9/25/house-passes-2025-budget-bill.html">House
         passed the 2025 appropriations bill</a> on Sept. 25.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41d479cc-6594-4445-bdd9-959e6c36bab0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.946+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.797+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.946+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Senate, meanwhile, will <a href="https://www.newswatchplus.ph/news/2024/11/2/senate-plenary-debates-2025-budget-november-6.html">begin
+    section6:
+      primarytype: 'block'
+      uuid: '41d479cc-6594-4445-bdd9-959e6c36bab0'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.946+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.797+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.946+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Senate, meanwhile, will <a href="https://www.newswatchplus.ph/news/2024/11/2/senate-plenary-debates-2025-budget-november-6.html">begin
         its plenary deliberations</a> on the national budget on Nov. 6.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8d628ef-c20f-4340-bebd-b21caf6afbfe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.946+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.797+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.946+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dalipe guaranteed that next year’s budget will be signed by President
+    section7:
+      primarytype: 'block'
+      uuid: 'c8d628ef-c20f-4340-bebd-b21caf6afbfe'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.946+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.797+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.946+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Dalipe guaranteed that next year’s budget will be signed by President
         Ferdinand Marcos Jr. before 2024 ends.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ef4eeff-26f0-4856-9796-462bb43288b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T14:01:24.947+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:55:09.798+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T14:01:24.947+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+    section8:
+      primarytype: 'block'
+      uuid: '8ef4eeff-26f0-4856-9796-462bb43288b1'
+      activationstatus: true
+      created: 2024-11-03T14:01:24.947+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:55:09.798+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T14:01:24.947+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
         this report.</em></p>'
-  'russia-attack-damages-kyiv':
-    'author': 'Reuters'
-    'caption': 'A view shows an apartment building damaged by a Russian drone strike,
+  'START HERE----->russia-attack-damages-kyiv':
+    author: 'Reuters'
+    caption: 'A view shows an apartment building damaged by a Russian drone strike,
       amid Russia’s attack on Ukraine, in Kyiv, Ukraine November 2, 2024. (Valentyn
       Ogirenko/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T15:31:44.000+08:00
-    'imagesource': 'jcr:58497d28-3949-49a6-b1ea-fc58622312d7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '067c3087-8c97-4d19-b487-724298f22354'
-    'lead': 'A Russian air attack on Kyiv damaged buildings, roads and several power
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T15:31:44.000+08:00
+    imagesource: '58497d28-3949-49a6-b1ea-fc58622312d7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '067c3087-8c97-4d19-b487-724298f22354'
+    lead: 'A Russian air attack on Kyiv damaged buildings, roads and several power
       lines in the city, the capital’s military administration said after the military
       said air defenses were trying to repel a drone attack.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T15:35:57.668+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:54:55.383+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.517+08:00
-    'mgnl:lastModified': 2024-11-03T18:35:25.947+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Russian drone attack on Kyiv damages buildings, power lines, Ukraine
+    activationstatus: true
+    created: 2024-11-03T15:35:57.668+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:54:55.383+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.517+08:00
+    lastmodified: 2024-11-03T18:35:25.947+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Russian drone attack on Kyiv damages buildings, power lines, Ukraine
       says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82427488-40f8-47ef-bc55-5b6c2cce8050'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.693+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.386+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.941+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Kyiv, Ukraine&nbsp;—</strong> A Russian air attack on Kyiv
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '82427488-40f8-47ef-bc55-5b6c2cce8050'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.693+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.386+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.941+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Kyiv, Ukraine&nbsp;—</strong> A Russian air attack on Kyiv
         damaged buildings, roads and several power lines in the city, the capital’s
         military administration said early on Sunday, after the military said air
         defenses were trying to repel a drone attack.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51c5add2-1cd7-4deb-9d10-b8015f808300'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.693+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.386+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.942+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>There were no injuries in the attack, which came in waves and approached
+    section1:
+      primarytype: 'block'
+      uuid: '51c5add2-1cd7-4deb-9d10-b8015f808300'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.693+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.386+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.942+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>There were no injuries in the attack, which came in waves and approached
         the city from different directions, Serhiy Popko, the head of the Kyiv military
         administration, said on the Telegram messaging app.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f7fa385-cb89-47ba-9a0f-6e4f18cfdcc0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.694+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.387+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.942+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Popko said there was no fire, amending the administration’s earlier
+    section2:
+      primarytype: 'block'
+      uuid: '3f7fa385-cb89-47ba-9a0f-6e4f18cfdcc0'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.694+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.387+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.942+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Popko said there was no fire, amending the administration’s earlier
         account that emergency crews had been dispatched to the site of a fire in
         the Shevchenkivskyi district that it said had been caused by the attack.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8c917eb-ded6-48be-ac84-2b5143d3cdfa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.694+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.388+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.943+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>It was Russia’s second drone attack on Kyiv in as many nights.
+    section3:
+      primarytype: 'block'
+      uuid: 'a8c917eb-ded6-48be-ac84-2b5143d3cdfa'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.694+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.388+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.943+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>It was Russia’s second drone attack on Kyiv in as many nights.
         According to preliminary information, all of the attack drones were destroyed,
         Popko added. It was not immediately clear how many drones were launched at
         Kyiv.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3943520d-e4d5-4dc8-b188-4daa5770e33a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.695+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.388+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.943+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Falling drone debris damaged an entrance and windows of at least
+    section4:
+      primarytype: 'block'
+      uuid: '3943520d-e4d5-4dc8-b188-4daa5770e33a'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.695+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.388+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.943+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Falling drone debris damaged an entrance and windows of at least
         five buildings in the Shevchenkivskyi and Holosiivskyi districts, including
         a hostel and windows in an office building, Popko said.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba2cc59a-2780-47e6-abba-4fee10c2d9e2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.695+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.389+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The military posted several photos on Telegram showing a blown-out
+    section5:
+      primarytype: 'block'
+      uuid: 'ba2cc59a-2780-47e6-abba-4fee10c2d9e2'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.695+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.389+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The military posted several photos on Telegram showing a blown-out
         entrance to a building, damaged windows in another and power lines lying on
         the road.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '43c1aff3-e19b-4627-afbb-bcd8bb41e7af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.695+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.389+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.944+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Reuters witnesses reported hearing blasts and seeing plumes of smoke
+    section6:
+      primarytype: 'block'
+      uuid: '43c1aff3-e19b-4627-afbb-bcd8bb41e7af'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.695+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.389+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.944+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Reuters witnesses reported hearing blasts and seeing plumes of smoke
         rising from above residential buildings.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c614fee-72ac-4702-9878-f61e74932a60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.696+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.390+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Shevchenkivskyi district near Kyiv’s center is a busy area with
+    section7:
+      primarytype: 'block'
+      uuid: '4c614fee-72ac-4702-9878-f61e74932a60'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.696+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.390+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Shevchenkivskyi district near Kyiv’s center is a busy area with
         a cluster of universities, restaurants and tourist attractions. Holosiivskyi
         district is home to a large national park. Both districts lie on the western
         bank of the Dnipro River.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45e22ad2-131c-4981-b9c3-92bcef1fd4f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.696+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.390+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Kyiv, its surrounding region and the vast majority of the eastern
+    section8:
+      primarytype: 'block'
+      uuid: '45e22ad2-131c-4981-b9c3-92bcef1fd4f2'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.696+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.390+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Kyiv, its surrounding region and the vast majority of the eastern
         half of Ukraine were intermittently under air raid alerts for most of the
         night, according to alerts issued on social media by the Ukrainian military.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2027cec-3891-4ff9-88cb-b4cea2b2a9c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:35:57.697+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:55.391+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T18:35:25.945+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Gleb Garanich and Sergiy Karazy in Kyiv; Writing
+    section9:
+      primarytype: 'block'
+      uuid: 'b2027cec-3891-4ff9-88cb-b4cea2b2a9c4'
+      activationstatus: true
+      created: 2024-11-03T15:35:57.697+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:55.391+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T18:35:25.945+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Gleb Garanich and Sergiy Karazy in Kyiv; Writing
         by Lidia Kelly in Melbourne; Editing by William Mallard)</em></p>'
-  'agri-damage-kristine-leon-5.5B':
-    'caption': 'A rice paddy is flooded as Severe Tropical Storm Kristine brings strong
+  'START HERE----->agri-damage-kristine-leon-5.5B':
+    caption: 'A rice paddy is flooded as Severe Tropical Storm Kristine brings strong
       rains and winds over Bay, Laguna, on Thursday, Oct. 24. (Niño Manalo/NewsWatch
       Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T15:38:40.000+08:00
-    'imagesource': 'jcr:930930be-37ea-465b-8f36-d7e919985692'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '95ea5280-ed60-4103-add3-a24b721a36d7'
-    'lead': 'Tropical cyclones Kristine and Leon’s damage to agriculture further grew
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T15:38:40.000+08:00
+    imagesource: '930930be-37ea-465b-8f36-d7e919985692'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '95ea5280-ed60-4103-add3-a24b721a36d7'
+    lead: 'Tropical cyclones Kristine and Leon’s damage to agriculture further grew
       to P5.5 billion, government data showed on Nov. 3.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T15:46:10.953+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:54:40.271+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.641+08:00
-    'mgnl:lastModified': 2024-11-03T15:46:10.974+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '‘Kristine,’ ‘Leon’ agri damage surges to P5.5 billion'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0b1dce4-8886-45e4-9f89-95e240fceaca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.966+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.273+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.966+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Tropical cyclones Kristine
+    activationstatus: true
+    created: 2024-11-03T15:46:10.953+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:54:40.271+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.641+08:00
+    lastmodified: 2024-11-03T15:46:10.974+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘Kristine,’ ‘Leon’ agri damage surges to P5.5 billion'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e0b1dce4-8886-45e4-9f89-95e240fceaca'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.966+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.273+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.966+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Tropical cyclones Kristine
         and Leon’s damage to agriculture further grew to P5.5 billion, government
         data showed on Sunday, Nov. 3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2690bc65-4587-4fca-8606-73b5d8b6a7c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.966+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.274+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.966+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Based on the National Disaster Risk Reduction and Management Council’s
+    section1:
+      primarytype: 'block'
+      uuid: '2690bc65-4587-4fca-8606-73b5d8b6a7c8'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.966+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.274+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.966+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Based on the National Disaster Risk Reduction and Management Council’s
         figures, more than 90,000 hectares of crops were battered by the two consecutive
         cyclones.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c36d6be-aa2d-4507-bfcf-33364dcff9c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.966+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.275+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.966+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Of the damaged crops, rice was the most widely affected at about 83,000
+    section2:
+      primarytype: 'block'
+      uuid: '5c36d6be-aa2d-4507-bfcf-33364dcff9c8'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.966+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.275+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.966+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Of the damaged crops, rice was the most widely affected at about 83,000
         hectares.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bda4190c-cadb-412f-954c-2814d9f296ba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.967+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.275+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.967+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Also destroyed were 105 irrigation systems.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9fc2f16-ecd1-4fa9-a489-2e556563dbd1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.967+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.276+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.967+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Damage to livestock and poultry, meanwhile, was pegged at P12 million.
+    section3:
+      primarytype: 'block'
+      uuid: 'bda4190c-cadb-412f-954c-2814d9f296ba'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.967+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.275+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.967+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Also destroyed were 105 irrigation systems.'
+    section4:
+      primarytype: 'block'
+      uuid: 'd9fc2f16-ecd1-4fa9-a489-2e556563dbd1'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.967+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.276+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.967+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Damage to livestock and poultry, meanwhile, was pegged at P12 million.
         As to fisheries, it was at P100 million.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '672f8f63-5a89-4dd8-b7d6-379897b1825b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.967+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.276+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.967+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Some 106,000 farmers and fisherfolks were paralyzed by the catastrophe.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b23c765-3ff6-46c4-9898-42b7f039c2b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:46:10.968+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:40.277+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:46:10.968+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The government said it has extended P1.1 billion worth of assistance
+    section5:
+      primarytype: 'block'
+      uuid: '672f8f63-5a89-4dd8-b7d6-379897b1825b'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.967+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.276+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.967+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Some 106,000 farmers and fisherfolks were paralyzed by the catastrophe.'
+    section6:
+      primarytype: 'block'
+      uuid: '4b23c765-3ff6-46c4-9898-42b7f039c2b9'
+      activationstatus: true
+      created: 2024-11-03T15:46:10.968+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:40.277+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:46:10.968+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The government said it has extended P1.1 billion worth of assistance
         to the victims of the typhoons.</p>'
-  'china-increased-military-activity-taiwan':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T15:50:24.000+08:00
-    'imagesource': 'jcr:ccc5cdd7-b32f-4615-9732-f04ae3aff760'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '413a3fa0-403d-4937-aa72-f55ecb23a5a0'
-    'lead': 'Taiwan’s defense ministry said it had spotted 35 Chinese military aircraft,
+  'START HERE----->china-increased-military-activity-taiwan':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T15:50:24.000+08:00
+    imagesource: 'ccc5cdd7-b32f-4615-9732-f04ae3aff760'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '413a3fa0-403d-4937-aa72-f55ecb23a5a0'
+    lead: 'Taiwan’s defense ministry said it had spotted 35 Chinese military aircraft,
       including fighters and bombers, flying to the island’s south on the way to
       exercises in the Pacific, a second day in a row it has reported such activities.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T15:55:34.856+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:54:28.952+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.761+08:00
-    'mgnl:lastModified': 2024-11-03T15:55:34.881+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Taiwan reports rise in Chinese military activity as US election nears'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '179a5aa7-36b9-40d4-b0b4-9fbf2a7f1627'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.869+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.955+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.869+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Taipei, Taiwan&nbsp;—</strong> Taiwan’s defense ministry
+    activationstatus: true
+    created: 2024-11-03T15:55:34.856+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:54:28.952+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.761+08:00
+    lastmodified: 2024-11-03T15:55:34.881+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Taiwan reports rise in Chinese military activity as US election nears'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '179a5aa7-36b9-40d4-b0b4-9fbf2a7f1627'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.869+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.955+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.869+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Taipei, Taiwan&nbsp;—</strong> Taiwan’s defense ministry
         said on Sunday it had spotted 35 Chinese military aircraft, including fighters
         and bombers, flying to the island’s south on the way to exercises in the
         Pacific, a second day in a row it has reported such activities.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '057546db-b00e-4283-a934-29f549fbe3e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.870+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.956+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.870+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>China, which views democratically governed Taiwan as its own territory
+    section1:
+      primarytype: 'block'
+      uuid: '057546db-b00e-4283-a934-29f549fbe3e7'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.870+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.956+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.870+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>China, which views democratically governed Taiwan as its own territory
         despite the strong objections of the government in Taipei, regularly sends
         its military in the skies and waters near the island seeking to enforce its
         sovereignty claims.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '71c87780-d772-4494-853c-7a0b74ac26e2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.870+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.957+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.870+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>China’s defense ministry did not respond to a request for comment
+    section2:
+      primarytype: 'block'
+      uuid: '71c87780-d772-4494-853c-7a0b74ac26e2'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.870+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.957+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.870+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>China’s defense ministry did not respond to a request for comment
         on the missions, reported just days before Tuesday’s U.S. presidential election.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a22dac7-c261-43d0-acfc-689a977cd42f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.870+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.958+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.870+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The United States is bound by law to provide Taiwan with the means
+    section3:
+      primarytype: 'block'
+      uuid: '5a22dac7-c261-43d0-acfc-689a977cd42f'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.870+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.958+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.870+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The United States is bound by law to provide Taiwan with the means
         to defend itself, and its arms sales to Taipei, including a $2 billion missile
         system announced last month, infuriate Beijing.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b543ac04-990f-4ee9-8a02-25bb03838627'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.871+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.871+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Taiwan’s defense ministry said that from 9 a.m. (0100 GMT) on Sunday
+    section4:
+      primarytype: 'block'
+      uuid: 'b543ac04-990f-4ee9-8a02-25bb03838627'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.871+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.871+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Taiwan’s defense ministry said that from 9 a.m. (0100 GMT) on Sunday
         it had detected 37 Chinese military aircraft, including J-16 fighters, nuclear-capable
         H-6 bombers and drones.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8cabe5ca-20e6-403a-a837-2c1ddd4f1397'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.871+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.871+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Of those, 35 aircraft flew to Taiwan’s southwest, south and southeast
+    section5:
+      primarytype: 'block'
+      uuid: '8cabe5ca-20e6-403a-a837-2c1ddd4f1397'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.871+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.871+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Of those, 35 aircraft flew to Taiwan’s southwest, south and southeast
         into the Western Pacific to carry out long-range training, the ministry said,
         adding it had sent its own forces to keep watch.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e431653-be7e-4ad7-8950-777fbec86772'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.871+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.960+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.871+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday, the ministry said China had carried out another "joint
+    section6:
+      primarytype: 'block'
+      uuid: '8e431653-be7e-4ad7-8950-777fbec86772'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.871+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.960+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.871+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>On Saturday, the ministry said China had carried out another "joint
         combat readiness patrol" with warships and aircraft near Taiwan.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '009f850d-c878-437d-a0b1-0629c2e0d8f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.872+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.872+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>China last month held large war games around Taiwan it said were
+    section7:
+      primarytype: 'block'
+      uuid: '009f850d-c878-437d-a0b1-0629c2e0d8f7'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.872+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.872+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>China last month held large war games around Taiwan it said were
         a warning to "separatist acts", drawing condemnation from the Taiwanese and
         U.S. governments.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4138995d-1e79-4781-a4e4-7257544a12e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.872+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.872+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Beijing strongly dislikes Taiwan President Lai Ching-te, who took
+    section8:
+      primarytype: 'block'
+      uuid: '4138995d-1e79-4781-a4e4-7257544a12e4'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.872+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.872+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Beijing strongly dislikes Taiwan President Lai Ching-te, who took
         office in May, saying he is a "separatist." He says only Taiwan’s people
         can decide their future and has repeatedly offered talks with Beijing but
         been rebuffed.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a99a0d58-a355-4744-af1a-50000e65e33e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T15:55:34.872+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:54:28.962+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T15:55:34.872+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Ben Blanchard; Editing by William Mallard)</em></p>'
-  'north-south-korea-nuclear-war-risk':
-    'author': 'Josh Smith, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T15:55:50.000+08:00
-    'imagesource': 'jcr:82986cbf-b9bc-453e-a8ec-7d2323930f32'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '072c5621-cdbc-4330-bd68-5ce1fef82a63'
-    'lead': 'North Korean state media released a white paper accusing South Korean
+    section9:
+      primarytype: 'block'
+      uuid: 'a99a0d58-a355-4744-af1a-50000e65e33e'
+      activationstatus: true
+      created: 2024-11-03T15:55:34.872+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:54:28.962+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T15:55:34.872+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Ben Blanchard; Editing by William Mallard)</em></p>'
+  'START HERE----->north-south-korea-nuclear-war-risk':
+    author: 'Josh Smith, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T15:55:50.000+08:00
+    imagesource: '82986cbf-b9bc-453e-a8ec-7d2323930f32'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '072c5621-cdbc-4330-bd68-5ce1fef82a63'
+    lead: 'North Korean state media released a white paper accusing South Korean
       President Yoon Suk Yeol of exposing his country to the danger of nuclear war
       through his policies toward the North.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T16:00:16.248+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:53:49.617+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:24.922+08:00
-    'mgnl:lastModified': 2024-11-03T16:00:16.284+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'North Korean white paper says South’s president has raised risk of nuclear
+    activationstatus: true
+    created: 2024-11-03T16:00:16.248+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:53:49.617+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:24.922+08:00
+    lastmodified: 2024-11-03T16:00:16.284+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'North Korean white paper says South’s president has raised risk of nuclear
       war'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4bc5121-6ba1-4a0a-8241-a30cd88df0d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.267+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.279+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Seoul, South Korea —</strong> North Korean state media released
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b4bc5121-6ba1-4a0a-8241-a30cd88df0d8'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.267+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.279+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Seoul, South Korea —</strong> North Korean state media released
         a white paper on Sunday accusing South Korean President Yoon Suk Yeol of exposing
         his country to the danger of nuclear war through his policies toward the North.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49368e4f-c9cb-4ae1-b387-4113695d49c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.267+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.621+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.267+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The document, compiled by North Korea’s Institute of Enemy State
+    section1:
+      primarytype: 'block'
+      uuid: '49368e4f-c9cb-4ae1-b387-4113695d49c5'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.267+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.621+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.267+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The document, compiled by North Korea’s Institute of Enemy State
         Studies and released by state news agency KCNA, criticised Yoon’s “reckless
         remarks” about war, abandoning elements of an inter-Korean agreement, engaging
         in nuclear war planning with the United States, and seeking closer ties with
         Japan and NATO.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4bad59c2-2c68-4a68-a65c-b074696d7881'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.268+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.622+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.268+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Its ever-worsening military moves resulted only in the paradoxical
+    section2:
+      primarytype: 'block'
+      uuid: '4bad59c2-2c68-4a68-a65c-b074696d7881'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.268+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.622+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.268+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Its ever-worsening military moves resulted only in the paradoxical
         consequences of pushing (North Korea) to stockpile its nuclear weapons at
         an exponential rate and further develop its nuclear attack capability,” the
         paper said.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d03b451-ce97-4f03-b792-fbf833b8feec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.268+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.623+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.268+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Yoon, a conservative, has taken a hard line on North Korea, which
+    section3:
+      primarytype: 'block'
+      uuid: '8d03b451-ce97-4f03-b792-fbf833b8feec'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.268+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.623+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.268+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Yoon, a conservative, has taken a hard line on North Korea, which
         has forged ahead with developing its arsenal of nuclear weapons and ballistic
         missiles in defiance of United Nations Security Council resolutions.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '197558ec-24aa-4ad9-b1dc-f1eba327f590'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.268+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.625+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.268+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'His administration blames North Korea for raising tensions with weapons
+    section4:
+      primarytype: 'block'
+      uuid: '197558ec-24aa-4ad9-b1dc-f1eba327f590'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.268+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.625+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.268+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'His administration blames North Korea for raising tensions with weapons
         tests and providing military aid and troops to aid Russia’s war in Ukraine.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e58bab3b-6f7d-44d4-8e4a-88fb9a89cc22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.269+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.626+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.269+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Pyongyang has been taking steps to sever inter-Korean ties,&nbsp;redefining
+    section5:
+      primarytype: 'block'
+      uuid: 'e58bab3b-6f7d-44d4-8e4a-88fb9a89cc22'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.269+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.626+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.269+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Pyongyang has been taking steps to sever inter-Korean ties,&nbsp;redefining
         the South as a separate, hostile enemy state, since Kim Jong Un declared it
         a "primary foe" early this year and said unification was no longer possible.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de99396d-a64c-4ee7-aead-9db69b875f6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.269+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.627+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.269+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Korea blew up sections of inter-Korean roads and rail lines on
+    section6:
+      primarytype: 'block'
+      uuid: 'de99396d-a64c-4ee7-aead-9db69b875f6c'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.269+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.627+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.269+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'North Korea blew up sections of inter-Korean roads and rail lines on
         its side of the heavily fortified border between the two Koreas last month,
         and satellite imagery shows it has since built large trenches across the former
         crossings.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbc9f425-9b5d-4cd9-af89-32bdc05d6458'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.270+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.628+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.270+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two Koreas are still technically at war after their 1950-53 war
+    section7:
+      primarytype: 'block'
+      uuid: 'cbc9f425-9b5d-4cd9-af89-32bdc05d6458'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.270+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.628+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.270+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The two Koreas are still technically at war after their 1950-53 war
         ended in an armistice, not a peace treaty.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1e4afa8-5ee8-421e-b530-9a78610d004f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.270+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.629+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.270+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two Koreas have also clashed over balloons of trash floated since
+    section8:
+      primarytype: 'block'
+      uuid: 'b1e4afa8-5ee8-421e-b530-9a78610d004f'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.270+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.629+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.270+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The two Koreas have also clashed over balloons of trash floated since
         May from North Korea. Pyongyang has said the launches are a response to balloons
         sent by anti-regime activists in the South.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38f1f80d-c5f6-4943-9dd5-ce10496397c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.270+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.630+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.270+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Sunday’s white paper also listed Yoon’s domestic political woes, including
+    section9:
+      primarytype: 'block'
+      uuid: '38f1f80d-c5f6-4943-9dd5-ce10496397c6'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.270+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.630+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.270+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Sunday’s white paper also listed Yoon’s domestic political woes, including
         scandals involving his wife, which have driven his approval ratings to record
         lows.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7fe58f6-eac5-42b5-8fda-ab2fd0b14a62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.271+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.631+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.271+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the United States on Sunday deployed B-1B bombers for joint
+    section10:
+      primarytype: 'block'
+      uuid: 'd7fe58f6-eac5-42b5-8fda-ab2fd0b14a62'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.271+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.631+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.271+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Meanwhile, the United States on Sunday deployed B-1B bombers for joint
         aerial drills with South Korea and Japan, in response to North Korea’s recent
         launch of an intercontinental ballistic missile, according to South Korea’s
         Joint Chiefs of Staff.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de9f1819-6650-4631-b02e-166a361b389c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.271+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.632+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.271+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The military exercise showed the three countries'' strong commitment
+    section11:
+      primarytype: 'block'
+      uuid: 'de9f1819-6650-4631-b02e-166a361b389c'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.271+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.632+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.271+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The military exercise showed the three countries' strong commitment
         to responding to the North’s nuclear and missile threats through cooperation,
         the Joint Chiefs of Staff said in a statement.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1afc0af5-cacf-4c97-8b1e-c47377ecd8b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.272+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.633+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.272+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'This is the second time this year that the three countries conducted
+    section12:
+      primarytype: 'block'
+      uuid: '1afc0af5-cacf-4c97-8b1e-c47377ecd8b4'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.272+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.633+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.272+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'This is the second time this year that the three countries conducted
         joint air drills and the fourth time in 2024 that the United States deployed
         its strategic bombers on the Korean peninsula, the Joint Chiefs of Staff said.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9c061c5-9013-4346-b0b1-46aadf990683'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T16:00:16.272+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:49.633+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T16:00:16.272+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Josh Smith in Seoul, Additional reporting by Hyunjoo
+    section13:
+      primarytype: 'block'
+      uuid: 'a9c061c5-9013-4346-b0b1-46aadf990683'
+      activationstatus: true
+      created: 2024-11-03T16:00:16.272+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:49.633+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T16:00:16.272+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Josh Smith in Seoul, Additional reporting by Hyunjoo
         Jin in Seoul; Editing by Daniel Wallis)</em></p>'
-  'chinese-illegal-mining-homonhon':
-    'caption': 'Authorities arrest 13 Chinese nationals, who were illegally working
+  'START HERE----->chinese-illegal-mining-homonhon':
+    caption: 'Authorities arrest 13 Chinese nationals, who were illegally working
       in mining sites in Eastern Samar, on Oct.30. (Bureau of Immigration)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T17:05:06.000+08:00
-    'imagesource': 'jcr:1e8eb50a-2c99-4280-badd-a23cf5df6841'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f93b17ca-eb26-4f05-8313-c54f63de9665'
-    'lead': 'Thirteen Chinese nationals have been arrested for illegally working in
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T17:05:06.000+08:00
+    imagesource: '1e8eb50a-2c99-4280-badd-a23cf5df6841'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f93b17ca-eb26-4f05-8313-c54f63de9665'
+    lead: 'Thirteen Chinese nationals have been arrested for illegally working in
       mining sites in Eastern Samar, the Bureau of Immigration reported.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T17:08:06.209+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:53:30.461+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:25.048+08:00
-    'mgnl:lastModified': 2024-11-03T17:08:06.228+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '13 Chinese nationals nabbed for illegal mining'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'edf58b79-add5-490b-bd31-8c524ed627d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.221+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.464+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.221+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Thirteen Chinese nationals
+    activationstatus: true
+    created: 2024-11-03T17:08:06.209+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:53:30.461+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:25.048+08:00
+    lastmodified: 2024-11-03T17:08:06.228+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '13 Chinese nationals nabbed for illegal mining'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'edf58b79-add5-490b-bd31-8c524ed627d4'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.221+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.464+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.221+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Thirteen Chinese nationals
         have been arrested for illegally working in mining sites in Eastern Samar,
         the Bureau of Immigration (BI) reported on Sunday, Nov. 3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6a5f9de1-96f0-42c9-a9fb-27aa29698c7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.221+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.465+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.221+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The BI said the Chinese nationals, who were apprehended on Oct. 30,
+    section1:
+      primarytype: 'block'
+      uuid: '6a5f9de1-96f0-42c9-a9fb-27aa29698c7d'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.221+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.465+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.221+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The BI said the Chinese nationals, who were apprehended on Oct. 30,
         were working in two separate sites in Homonhon Island.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fdbc6bce-b9d1-4126-b55e-ea483380e775'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.466+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Of the arrested, 11 were issued working visas for a different company;
+    section2:
+      primarytype: 'block'
+      uuid: 'fdbc6bce-b9d1-4126-b55e-ea483380e775'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.466+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Of the arrested, 11 were issued working visas for a different company;
         one had a retiree’s visa; and the other one was an overstaying alien or non-Filipino
         citizen.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ad3a369-9299-468f-9eb9-cc9e829497be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.467+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Illegal employment undermines local laws and communities. We are committed
+    section3:
+      primarytype: 'block'
+      uuid: '0ad3a369-9299-468f-9eb9-cc9e829497be'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.467+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Illegal employment undermines local laws and communities. We are committed
         to monitoring and addressing cases like these to protect our borders and environment,”
         Immigration Commissioner Joel Anthony Viado said in a statement.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be175b4a-3bac-4c77-985f-d06900f57d29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.222+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.467+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.222+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“The recent operation on Homonhon Island highlights our close coordination
+    section4:
+      primarytype: 'block'
+      uuid: 'be175b4a-3bac-4c77-985f-d06900f57d29'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.222+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.467+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.222+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“The recent operation on Homonhon Island highlights our close coordination
         with national agencies to ensure compliance with our regulations,” he added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d0b8418-df6b-4e74-8ab6-1773a35c7cc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.223+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.468+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.223+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bureau has already launched a deportation case against the illegal
+    section5:
+      primarytype: 'block'
+      uuid: '0d0b8418-df6b-4e74-8ab6-1773a35c7cc1'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.223+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.468+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.223+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The bureau has already launched a deportation case against the illegal
         workers, who are under the custody of the Presidential Anti-Organized Crime
         Commission.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c61a476-c10d-4de1-8596-6091c166f9ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:08:06.223+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:30.468+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:08:06.223+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Homonhon residents earlier raised issues on water supply, electricity,
+    section6:
+      primarytype: 'block'
+      uuid: '8c61a476-c10d-4de1-8596-6091c166f9ac'
+      activationstatus: true
+      created: 2024-11-03T17:08:06.223+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:30.468+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:08:06.223+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Homonhon residents earlier raised issues on water supply, electricity,
         and pollution triggered by mining activities.</p>'
-  'lpa-outside-par-now-td':
-    'caption': 'A screenshot of weather bureau PAGASA’s satellite as of Nov. 3, 5:20
+  'START HERE----->lpa-outside-par-now-td':
+    caption: 'A screenshot of weather bureau PAGASA’s satellite as of Nov. 3, 5:20
       p.m.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T17:53:37.000+08:00
-    'imagesource': 'jcr:34a092d0-f0ba-40fc-9de8-eaa3a37b4c8d'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e341cd5b-381f-4c74-bdfb-aa1552ee00b6'
-    'lead': 'The low pressure area outside the Philippine Area of Responsibility has
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T17:53:37.000+08:00
+    imagesource: '34a092d0-f0ba-40fc-9de8-eaa3a37b4c8d'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'e341cd5b-381f-4c74-bdfb-aa1552ee00b6'
+    lead: 'The low pressure area outside the Philippine Area of Responsibility has
       developed into a tropical depression, the state weather bureau said. Once in
       the country’s monitoring zone, it will be given the local name Marce.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T17:57:06.628+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:53:17.139+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:25.169+08:00
-    'mgnl:lastModified': 2024-11-03T17:58:52.201+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LPA outside PAR now a cyclone, may enter on Nov. 4'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b912d861-43ac-4bb6-ad32-5b132bba3609'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.649+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.142+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.197+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The low pressure area
+    activationstatus: true
+    created: 2024-11-03T17:57:06.628+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:53:17.139+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:25.169+08:00
+    lastmodified: 2024-11-03T17:58:52.201+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LPA outside PAR now a cyclone, may enter on Nov. 4'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b912d861-43ac-4bb6-ad32-5b132bba3609'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.649+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.142+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.197+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The low pressure area
         (LPA) outside the Philippine Area of Responsibility (PAR) has developed into
         a tropical depression, the country’s weather bureau reported on Sunday, Nov.
         3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5429124-6fed-49d1-9c95-d2185c88ae2a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.650+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.143+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.198+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>According to the Philippine Atmospheric, Geophysical and Astronomical
+    section1:
+      primarytype: 'block'
+      uuid: 'e5429124-6fed-49d1-9c95-d2185c88ae2a'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.650+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.143+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.198+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>According to the Philippine Atmospheric, Geophysical and Astronomical
         Services Administration (PAGASA), the LPA turned into a tropical cyclone at
         2 p.m. and may enter PAR on Nov. 4. Once in, it will be given the local name
         Marce.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '261d93e4-4d9f-4106-97be-0e95707c407c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.650+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.143+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.198+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The weather disturbance was monitored 1,350 kilometers east of Eastern
+    section2:
+      primarytype: 'block'
+      uuid: '261d93e4-4d9f-4106-97be-0e95707c407c'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.650+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.143+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.198+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The weather disturbance was monitored 1,350 kilometers east of Eastern
         Visayas at 3 p.m. Moving northwestward at 30 kilometers per hour (kph), it
         had maximum sustained winds of 55 kph and gustiness or strong wind bursts
         reaching up to 70 kph.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36699c3c-b2b9-4705-bfc7-0c1ffb089daf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.650+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.144+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.198+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The tropical depression may strengthen the surge of northeasterly
+    section3:
+      primarytype: 'block'
+      uuid: '36699c3c-b2b9-4705-bfc7-0c1ffb089daf'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.650+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.144+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.198+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The tropical depression may strengthen the surge of northeasterly
         windflow this week, the weather bureau said.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '862ae11b-21be-4b6d-b779-dfe41f62a4d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.651+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.145+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.199+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'PAGASA weather specialist Veronica Torres said there are two scenarios:
+    section4:
+      primarytype: 'block'
+      uuid: '862ae11b-21be-4b6d-b779-dfe41f62a4d9'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.651+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.145+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.199+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'PAGASA weather specialist Veronica Torres said there are two scenarios:
         One, the cyclone will cross Northern Luzon or Extreme Northern Luzon; two,
         it will approach near Philippine landmass and recurvate.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50a7518f-e07d-4d17-87db-09577153395c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.651+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.145+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.199+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>By Tuesday, the tropical depression or its tail will start dumping
+    section5:
+      primarytype: 'block'
+      uuid: '50a7518f-e07d-4d17-87db-09577153395c'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.651+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.145+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.199+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>By Tuesday, the tropical depression or its tail will start dumping
         rains over parts of the country, PAGASA said.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '21f069c7-9f18-4902-a88a-fdf8f98150f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.652+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.200+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>If the forecast track leans toward a landfall scenario, heavy to
+    section6:
+      primarytype: 'block'
+      uuid: '21f069c7-9f18-4902-a88a-fdf8f98150f3'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.652+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.200+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>If the forecast track leans toward a landfall scenario, heavy to
         torrential rains may be expected over Northern Luzon on Thursday or Friday.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c7875e9-5d14-4dd0-bcb2-aaaf825638b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T17:57:06.652+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:17.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T17:58:52.200+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>For Monday, Nov. 4, the entire country will have fair weather condition
+    section7:
+      primarytype: 'block'
+      uuid: '0c7875e9-5d14-4dd0-bcb2-aaaf825638b6'
+      activationstatus: true
+      created: 2024-11-03T17:57:06.652+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:53:17.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T17:58:52.200+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>For Monday, Nov. 4, the entire country will have fair weather condition
         with chances of localized thunderstorms.</p>'
-  'Ginebra-TNT-Game-4-PBA-Season-49-Governors-Cup-finals':
-    'author': 'CJ Marquez, NewsWatch Plus'
-    'caption': 'Courtesy: PBA Images'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-03T22:38:33.000+08:00
-    'credit': 'Courtesy: PBA Images'
-    'imagesource': 'jcr:ed0718df-af05-46bc-9835-bbacbbca54f8'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6cd17393-a21c-460f-8708-c45b811f5030'
-    'lead': 'After being down 0-2, Barangay Ginebra levels the finals series against
+  'START HERE----->Ginebra-TNT-Game-4-PBA-Season-49-Governors-Cup-finals':
+    author: 'CJ Marquez, NewsWatch Plus'
+    caption: 'Courtesy: PBA Images'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-03T22:38:33.000+08:00
+    credit: 'Courtesy: PBA Images'
+    imagesource: 'ed0718df-af05-46bc-9835-bbacbbca54f8'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6cd17393-a21c-460f-8708-c45b811f5030'
+    lead: 'After being down 0-2, Barangay Ginebra levels the finals series against
       the TNT Tropang Giga in the PBA Season 49 Governors’ Cup.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-03T22:40:39.934+08:00
-    'mgnl:createdBy': 'cj-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:53:03.976+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:25.279+08:00
-    'mgnl:lastModified': 2024-11-03T22:40:39.955+08:00
-    'mgnl:lastModifiedBy': 'cj-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PBA Finals: Red-hot Ginebra frustrates TNT in Game 4, ties series'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6509179a-bc52-4d0b-a409-321e974b184b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.946+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.979+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.946+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Barangay Ginebra showed
+    activationstatus: true
+    created: 2024-11-03T22:40:39.934+08:00
+    createdby: 'cj-nwp'
+    lastactivated: 2025-03-13T12:53:03.976+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:25.279+08:00
+    lastmodified: 2024-11-03T22:40:39.955+08:00
+    lastmodifiedby: 'cj-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PBA Finals: Red-hot Ginebra frustrates TNT in Game 4, ties series'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6509179a-bc52-4d0b-a409-321e974b184b'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.946+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.979+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.946+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Barangay Ginebra showed
         its lethal offensive form in its 106-92 win over the TNT Tropang Giga in Game
         4 to equalize the series in the PBA Season 49 Governors’ Cup finals on Sunday
         at the Smart Araneta Coliseum in Quezon City.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ae8ddba2-ad39-4e39-875f-ab3b177d2070'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.947+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.980+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.947+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Justin Brownlee exploded with 34 points including a four-point shot
+    section1:
+      primarytype: 'block'
+      uuid: 'ae8ddba2-ad39-4e39-875f-ab3b177d2070'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.947+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.980+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.947+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Justin Brownlee exploded with 34 points including a four-point shot
         dagger in the final quarter along with six rebounds and four assists for Ginebra.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ee9b5aa-8282-43c8-a353-d905b6a1ca95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.947+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.980+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.947+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ginebra, motivated not to be buried in a 3-1 hole, led from start to
+    section2:
+      primarytype: 'block'
+      uuid: '8ee9b5aa-8282-43c8-a353-d905b6a1ca95'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.947+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.980+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.947+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Ginebra, motivated not to be buried in a 3-1 hole, led from start to
         finish in front of more than 16,000 people in attendance.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '060412d1-427a-4c0b-a407-c0964001f70d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.947+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.981+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.947+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Tropang Giga were able to put Ginebra in penalty in the third frame,
+    section3:
+      primarytype: 'block'
+      uuid: '060412d1-427a-4c0b-a407-c0964001f70d'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.947+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.981+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.947+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'The Tropang Giga were able to put Ginebra in penalty in the third frame,
         but they could not capitalize as turnovers hurt their comeback attempt.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f529580a-c466-4b05-9d42-5fc6dbc16ec6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.948+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.982+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.948+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Stephen Holt and Maverick Ahanmisi knocked down timely buckets to keep
+    section4:
+      primarytype: 'block'
+      uuid: 'f529580a-c466-4b05-9d42-5fc6dbc16ec6'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.948+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.982+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.948+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Stephen Holt and Maverick Ahanmisi knocked down timely buckets to keep
         Ginebra in a safe distance, finished the match with 18 points each.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '358eb93b-73c1-4750-8962-3cc528e29d65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.948+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.982+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.948+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Rondae Hollis-Jefferson, who was earlier awarded Best Import, tallied
+    section5:
+      primarytype: 'block'
+      uuid: '358eb93b-73c1-4750-8962-3cc528e29d65'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.948+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.982+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.948+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Rondae Hollis-Jefferson, who was earlier awarded Best Import, tallied
         28 points and nine rebounds for TNT.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5046899a-85ce-479c-b2e7-033bfd8d017b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-03T22:40:39.948+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:53:03.983+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-03T22:40:39.948+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Game 5 is set for Nov. 6 at the Big Dome.</p>'
+    section6:
+      primarytype: 'block'
+      uuid: '5046899a-85ce-479c-b2e7-033bfd8d017b'
+      activationstatus: true
+      created: 2024-11-03T22:40:39.948+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:53:03.983+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-03T22:40:39.948+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Game 5 is set for Nov. 6 at the Big Dome.</p>'

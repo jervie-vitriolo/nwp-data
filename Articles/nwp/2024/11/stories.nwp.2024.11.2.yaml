@@ -1,2273 +1,2273 @@
-'2':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'd8b8a1cd-0d1e-4759-8f8d-65a1fdbe55cd'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-11-02T10:27:11.109+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:40:45.522+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:21.360+08:00
-  'mgnl:lastModified': 2024-11-02T18:23:30.046+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'israel-bombards-gaza-lebanon':
-    'author': 'Nidal al-Mughrabi, Timour Azhari and Laila Bassam, Reuters'
-    'caption': 'A view shows destroyed buildings on the Lebanon’s side of the border
+section2:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'd8b8a1cd-0d1e-4759-8f8d-65a1fdbe55cd'
+  activationstatus: true
+  created: 2024-11-02T10:27:11.109+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-03-13T12:40:45.522+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:34:21.360+08:00
+  lastmodified: 2024-11-02T18:23:30.046+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->israel-bombards-gaza-lebanon':
+    author: 'Nidal al-Mughrabi, Timour Azhari and Laila Bassam, Reuters'
+    caption: 'A view shows destroyed buildings on the Lebanon’s side of the border
       with Israel, amid ongoing hostilities between Hezbollah and Israeli forces,
       as seen from Mount Addir, northern Israel, October 31, 2024. REUTERS/Violeta
       Santos Moura'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T10:27:11.000+08:00
-    'imagesource': 'jcr:dfa1bb24-26f4-487c-8ee3-4d72c33484f3'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'da3d947f-95f9-4e3f-b398-a8c32e0c4e78'
-    'lead': 'Prospects of a ceasefire between Israel and its foes Hamas and Hezbollah
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T10:27:11.000+08:00
+    imagesource: 'dfa1bb24-26f4-487c-8ee3-4d72c33484f3'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'da3d947f-95f9-4e3f-b398-a8c32e0c4e78'
+    lead: 'Prospects of a ceasefire between Israel and its foes Hamas and Hezbollah
       ran aground on Friday as Israeli airstrikes killed at least 68 people in the
       Gaza Strip, according to medics in the Palestinian enclave, and bombed Beirut’s
       southern suburbs.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T10:30:25.492+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:52:52.221+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:21.627+08:00
-    'mgnl:lastModified': 2024-11-02T10:31:34.662+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Lebanon', 'Hamas', 'Hezbollah', 'Israel']
-    'stories': []
-    'template': '1'
-    'title': 'Ceasefire hopes fade as Israel bombards Gaza, Lebanon'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c31a612-2eec-4177-98d8-8ff523c7bfaa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.516+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.646+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Cairo/Beirut -</strong> Prospects of a ceasefire between
+    activationstatus: true
+    created: 2024-11-02T10:30:25.492+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:52:52.221+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:34:21.627+08:00
+    lastmodified: 2024-11-02T10:31:34.662+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Ceasefire hopes fade as Israel bombards Gaza, Lebanon'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7c31a612-2eec-4177-98d8-8ff523c7bfaa'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.516+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.646+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Cairo/Beirut -</strong> Prospects of a ceasefire between
         Israel and its foes Hamas and Hezbollah ran aground on Friday as Israeli airstrikes
         killed at least 68 people in the Gaza Strip, according to medics in the Palestinian
         enclave, and bombed Beirut’s southern suburbs.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a6fd9e5-8dd7-4118-9b2c-c44930c5702e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.516+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.646+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Israeli military said it killed senior Hamas official Izz al-Din
+    section1:
+      primarytype: 'block'
+      uuid: '1a6fd9e5-8dd7-4118-9b2c-c44930c5702e'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.516+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.646+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Israeli military said it killed senior Hamas official Izz al-Din
         Kassab in an airstrike in the southern Gaza town of Khan Younis and described
         him as one of the last surviving high-ranking members of Hamas responsible
         for coordinating with other groups in Gaza.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e43a762-12bb-4373-83b0-313378e27c95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.517+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.225+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.647+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. envoys had been working to secure ceasefires on both fronts ahead
+    section2:
+      primarytype: 'block'
+      uuid: '1e43a762-12bb-4373-83b0-313378e27c95'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.517+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.225+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.647+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. envoys had been working to secure ceasefires on both fronts ahead
         of the U.S. presidential election next Tuesday.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24076268-1df0-4e90-9380-19c574ff78a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.517+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.647+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But Hamas does not favour a temporary truce, its Al-Aqsa Hamas television
+    section3:
+      primarytype: 'block'
+      uuid: '24076268-1df0-4e90-9380-19c574ff78a2'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.517+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.647+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But Hamas does not favour a temporary truce, its Al-Aqsa Hamas television
         reported on Friday. The ceasefire proposals failed to meet its conditions
         that any deal must end the year-long war in Gaza and include a withdrawal
         of Israeli forces from the devastated Palestinian enclave, it said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '517d062d-1e99-43d2-8b44-f1e5082dc90e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.517+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.648+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Earlier, Israeli Prime Minister Benjamin Netanyahu said his priority
+    section4:
+      primarytype: 'block'
+      uuid: '517d062d-1e99-43d2-8b44-f1e5082dc90e'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.517+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.648+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Earlier, Israeli Prime Minister Benjamin Netanyahu said his priority
         was to enforce security "despite any pressure or constraints".'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ab083d2-7cbf-4d1b-acd0-c88f90f94057'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.518+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.648+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'His office said he relayed this message to U.S. envoys Amos Hochstein
+    section5:
+      primarytype: 'block'
+      uuid: '2ab083d2-7cbf-4d1b-acd0-c88f90f94057'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.518+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.648+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'His office said he relayed this message to U.S. envoys Amos Hochstein
         and Brett McGurk in Israel on Thursday. Israel meanwhile pressed on with its
         military offensives against Hamas in Gaza and Hezbollah in Lebanon on Friday.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a476708-1e50-4d30-8057-fad0060b8d23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.518+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.649+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Medics in Gaza said about 68 people were killed and dozens injured
+    section6:
+      primarytype: 'block'
+      uuid: '0a476708-1e50-4d30-8057-fad0060b8d23'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.518+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.649+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Medics in Gaza said about 68 people were killed and dozens injured
         overnight and into Friday morning in Israeli strikes on the city of Deir Al-Balah,
         the Nuseirat camp and the town of Al-Zawayda, all in Gaza’s central area,
         as well as in its south.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b73d797f-32b4-4f7a-86eb-21abd2f2b6ed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.519+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.649+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Fourteen people were killed by an Israeli strike at the gate of a school
+    section7:
+      primarytype: 'block'
+      uuid: 'b73d797f-32b4-4f7a-86eb-21abd2f2b6ed'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.519+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.649+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Fourteen people were killed by an Israeli strike at the gate of a school
         sheltering displaced Palestinians in Nuseirat, according to medics at the
         camp’s Al-Awda Hospital. Another 10 were killed in a car in Khan Younis,
         medics said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1162a04-67e0-4667-bc99-a11c3b7b86a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.519+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.650+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hours later, residents said Israeli tanks advanced on the northern
+    section8:
+      primarytype: 'block'
+      uuid: 'a1162a04-67e0-4667-bc99-a11c3b7b86a0'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.519+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.650+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hours later, residents said Israeli tanks advanced on the northern
         and eastern sides of Nuseirat, and medics said an Israeli airstrike killed
         four people, including three children.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '784aca14-cc64-4f1c-9e25-5baf7dbb7f43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.520+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.651+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Israeli military said its troops killed what it called armed terrorists
+    section9:
+      primarytype: 'block'
+      uuid: '784aca14-cc64-4f1c-9e25-5baf7dbb7f43'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.520+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.651+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Israeli military said its troops killed what it called armed terrorists
         in central Gaza and the northern Jabalia area. It had no immediate comment
         on the reported school strike, although it habitually denies deliberately
         attacking civilians.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7126ac50-5696-45d7-b2b8-ffc901179141'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.520+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.230+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.651+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The heads of U.N. humanitarian agencies said on Friday the situation
+    section10:
+      primarytype: 'block'
+      uuid: '7126ac50-5696-45d7-b2b8-ffc901179141'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.520+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.230+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.651+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The heads of U.N. humanitarian agencies said on Friday the situation
         in north Gaza was "apocalyptic" with the entire Palestinian population there
         at "imminent risk of dying from disease, famine and violence" as Israel pursues
         its offensive against regrouping Hamas militants in the area.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '052331b9-b0e8-46f3-a9cc-71b90bd7a9b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.520+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.230+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.652+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel also pummelled Beirut’s southern suburbs on Friday morning
+    section11:
+      primarytype: 'block'
+      uuid: '052331b9-b0e8-46f3-a9cc-71b90bd7a9b6'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.520+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.230+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.652+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israel also pummelled Beirut’s southern suburbs on Friday morning
         with at least 10 strikes, Reuters journalists said. It was the first bombardment
         of the area - once a densely packed district and Hezbollah stronghold - in
         nearly a week.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '640d4ef4-1dcd-4ac9-addf-19ef0d538c31'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.521+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.231+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.652+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The strikes came after Israel issued evacuation orders for 10 separate
+    section12:
+      primarytype: 'block'
+      uuid: '640d4ef4-1dcd-4ac9-addf-19ef0d538c31'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.521+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.231+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.652+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The strikes came after Israel issued evacuation orders for 10 separate
         neighbourhoods of the Lebanese capital.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36da1955-5eaf-4503-ba63-467461b36e8c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.521+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.232+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.653+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hassan Saad, speaking on a Beirut street, told Reuters: "This is a
+    section13:
+      primarytype: 'block'
+      uuid: '36da1955-5eaf-4503-ba63-467461b36e8c'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.521+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.232+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.653+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hassan Saad, speaking on a Beirut street, told Reuters: "This is a
         brutal war and Israel does not have the right to do this...There must be a
         limit put for Israel because it does not abide by any of the laws or human
         morality."'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59e4d244-6fe7-4f5d-aed3-7d05db79b2f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.522+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.232+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.653+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Another Beirut man, Ali Ramadan, said he believed the Israeli airstrikes
+    section14:
+      primarytype: 'block'
+      uuid: '59e4d244-6fe7-4f5d-aed3-7d05db79b2f2'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.522+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.232+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.653+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Another Beirut man, Ali Ramadan, said he believed the Israeli airstrikes
         were a way to put pressure on Lebanon in the ceasefire negotiations.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64c8500c-e338-4fde-8a2f-2784274b12a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.522+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.233+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.654+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The hostilities have undermined hope a truce could be reached before
+    section15:
+      primarytype: 'block'
+      uuid: '64c8500c-e338-4fde-8a2f-2784274b12a5'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.522+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.233+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.654+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The hostilities have undermined hope a truce could be reached before
         the U.S. presidential election on Tuesday.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08f79cc1-304c-4df7-a2e9-f90bb0308719'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.523+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.234+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.655+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hamas television, quoting a leading source in the group, said the ceasefire
+    section16:
+      primarytype: 'block'
+      uuid: '08f79cc1-304c-4df7-a2e9-f90bb0308719'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.523+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.234+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.655+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hamas television, quoting a leading source in the group, said the ceasefire
         proposals did not meet its conditions for a permanent end to hostilities,
         withdrawal of Israeli troops from Gaza and the return of displaced people.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88b36a4e-1400-4d99-9eab-7bfc02e8a6b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.523+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.234+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.655+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Nor did they address Palestinians'' need for security, relief and reconstruction
+    section17:
+      primarytype: 'block'
+      uuid: '88b36a4e-1400-4d99-9eab-7bfc02e8a6b1'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.523+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.234+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.655+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Nor did they address Palestinians' need for security, relief and reconstruction
         and the full reopening of border crossings, the source said.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5832af1-84dc-40c4-858f-c6fdbe9a9698'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.524+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.235+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.656+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. Secretary of State Antony Blinken and Israeli Minister of Strategic
+    section18:
+      primarytype: 'block'
+      uuid: 'a5832af1-84dc-40c4-858f-c6fdbe9a9698'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.524+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.235+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.656+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. Secretary of State Antony Blinken and Israeli Minister of Strategic
         Affairs Ron Dermer on Friday discussed a diplomatic solution to the conflict
         in Lebanon as well as ending the war and addressing dire humanitarian conditions
         in Gaza, the State Department said in a statement.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d3bb214-b11b-4a94-9a71-95ef708207b7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.524+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.235+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.656+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>''Israeli stubbornness''</strong></p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2fe4b5be-56b4-40e5-8d5d-cf841443cd77'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.525+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.236+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.657+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Lebanon’s caretaker Prime Minister Najib Mikati on Friday accused
+    section19:
+      primarytype: 'block'
+      uuid: '3d3bb214-b11b-4a94-9a71-95ef708207b7'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.524+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.235+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.656+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>'Israeli stubbornness'</strong></p>'
+    section20:
+      primarytype: 'block'
+      uuid: '2fe4b5be-56b4-40e5-8d5d-cf841443cd77'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.525+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.236+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.657+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Lebanon’s caretaker Prime Minister Najib Mikati on Friday accused
         Israel of blocking any progress in the negotiations.</p>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52d853df-c1db-4b45-b645-d2c84602568a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.525+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.237+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.657+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Israeli statements and diplomatic signals received by Lebanon confirm
+    section21:
+      primarytype: 'block'
+      uuid: '52d853df-c1db-4b45-b645-d2c84602568a'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.525+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.237+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.657+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Israeli statements and diplomatic signals received by Lebanon confirm
         the Israeli stubbornness in rejecting the proposed solutions and insisting
         on the approach of killing and destruction," he said.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd92fe512-71e3-4dce-81e7-1f06ed289c9e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.526+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.237+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.658+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lebanon’s health ministry said 52 people were killed on Friday in
+    section22:
+      primarytype: 'block'
+      uuid: 'd92fe512-71e3-4dce-81e7-1f06ed289c9e'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.526+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.237+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.658+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lebanon’s health ministry said 52 people were killed on Friday in
         Israeli strikes on more than a dozen towns in the Baalbek region, which has
         UNESCO-listed Roman ruins.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0864054d-d523-411e-bb05-509260f67f49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.527+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.238+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.658+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'An Israeli strike on Friday in Syria near northeast Lebanon forced
+    section23:
+      primarytype: 'block'
+      uuid: '0864054d-d523-411e-bb05-509260f67f49'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.527+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.238+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.658+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'An Israeli strike on Friday in Syria near northeast Lebanon forced
         a border crossing to shut, Lebanon Transport Minister Ali Hamieh told Reuters.
         Israeli bombing closed the crossing last month and it had partly reopened
         before the latest strike.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f9791914-dbdf-4e5e-b996-547c3babf18d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.527+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.238+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.659+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hezbollah began firing rockets at Israel in solidarity with Palestinians
+    section24:
+      primarytype: 'block'
+      uuid: 'f9791914-dbdf-4e5e-b996-547c3babf18d'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.527+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.238+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.659+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hezbollah began firing rockets at Israel in solidarity with Palestinians
         a day after Hamas-led militants attacked Israel on Oct. 7, 2023, killing some
         1,200 people and taking 251 hostages back to Gaza, according to Israeli tallies.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1080dbd7-3b54-40dd-b876-02ab7aa8b579'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.528+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.239+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.659+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel’s retaliatory offensives have killed more than 43,000 Palestinians
+    section25:
+      primarytype: 'block'
+      uuid: '1080dbd7-3b54-40dd-b876-02ab7aa8b579'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.528+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.239+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.659+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israel’s retaliatory offensives have killed more than 43,000 Palestinians
         and reduced most of Gaza to rubble, as well as killed at least 2,897 people
         in Lebanon, its health ministry said in an update on Friday.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc25abe6-ae56-442f-ae89-12f3a4f11d8c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.528+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.660+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In east Lebanon, looming winter hints at stretched aid response Read
+    section26:
+      primarytype: 'block'
+      uuid: 'cc25abe6-ae56-442f-ae89-12f3a4f11d8c'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.528+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.660+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In east Lebanon, looming winter hints at stretched aid response Read
         full story'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '824fabe3-ac14-4b4d-8b3e-972d3554b88f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.529+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.660+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. asked Lebanon to declare unilateral ceasefire with Israel, sources
+    section27:
+      primarytype: 'block'
+      uuid: '824fabe3-ac14-4b4d-8b3e-972d3554b88f'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.529+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.660+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. asked Lebanon to declare unilateral ceasefire with Israel, sources
         say Read full story'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad246520-4677-49e6-8678-7673b497b1cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T10:30:25.530+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:52.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T10:31:34.661+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Nidal al-Mughrabi in Cairo, Timour Azhari, Laila
+    section28:
+      primarytype: 'block'
+      uuid: 'ad246520-4677-49e6-8678-7673b497b1cb'
+      activationstatus: true
+      created: 2024-11-02T10:30:25.530+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:52.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T10:31:34.661+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Nidal al-Mughrabi in Cairo, Timour Azhari, Laila
         Bassam and Maya Gebeily in Beirut, Michelle Nichols at the United Nations,
         Ali Sawafta in Ramallah, Adam Makary in Cairo and Clauda Tanios in Dubai;
         writing by Maya Gebeily, Timour Azhari and Daphne Psaledakis; editing by Angus
         MacSwan, Mark Heinrich and Cynthia Osterman)</em></p>'
-  'november-4-national-day-of-mourning-kristine':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T11:03:35.000+08:00
-    'imagesource': 'jcr:39efcb41-95b5-4674-9973-f498d831c162'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9d8b70b9-9c5f-4dac-80f5-89c1cc9b36fb'
-    'lead': 'Malacañang has declared Nov. 4, 2024 (Monday) as National Day of Mourning
+  'START HERE----->november-4-national-day-of-mourning-kristine':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T11:03:35.000+08:00
+    imagesource: '39efcb41-95b5-4674-9973-f498d831c162'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9d8b70b9-9c5f-4dac-80f5-89c1cc9b36fb'
+    lead: 'Malacañang has declared Nov. 4, 2024 (Monday) as National Day of Mourning
       for victims of the deadly severe tropical storm ‘Kristine’, the palace announced.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T11:05:39.863+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:52:15.922+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:21.802+08:00
-    'mgnl:lastModified': 2024-11-02T11:05:39.896+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Ferdinand-Marcos-Jr.', 'KristinePH']
-    'stories': []
-    'template': '1'
-    'title': 'Nov. 4 declared as National Day of Mourning for ‘Kristine’ victims'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '577cd87b-aa92-44c2-bb4b-ef47899444ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.888+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.925+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Malacañang has declared
+    activationstatus: true
+    created: 2024-11-02T11:05:39.863+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:52:15.922+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:21.802+08:00
+    lastmodified: 2024-11-02T11:05:39.896+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Nov. 4 declared as National Day of Mourning for ‘Kristine’ victims'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '577cd87b-aa92-44c2-bb4b-ef47899444ea'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.888+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.925+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Malacañang has declared
         Nov. 4, 2024 (Monday) as National Day of Mourning for victims of the deadly
         severe tropical storm ‘Kristine’, the palace announced.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '29b3f88c-0a38-4d55-b3e2-c239eec8aeee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.888+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.926+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.888+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Ferdinand Marcos. Jr. made the declaration through Proclamation
+    section1:
+      primarytype: 'block'
+      uuid: '29b3f88c-0a38-4d55-b3e2-c239eec8aeee'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.888+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.926+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.888+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'President Ferdinand Marcos. Jr. made the declaration through Proclamation
         No. 728 signed by Executive Secretary Lucas Bersamin on Oct. 30, and published
         in the Official Gazette on Friday, Nov. 1.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bca551e7-b9b4-49d6-b534-843ec2c4d388'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.888+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.926+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.888+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under the proclamation, the Philippine flag will be flown at half-mast
+    section2:
+      primarytype: 'block'
+      uuid: 'bca551e7-b9b4-49d6-b534-843ec2c4d388'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.888+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.926+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.888+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Under the proclamation, the Philippine flag will be flown at half-mast
         on all public buildings where it is displayed as a sign of mourning for victims
         of the tragedy.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b4f94e6-790a-47ce-9eef-bd7f2af4d290'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.889+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.927+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.889+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The onslaught of severe tropical storm Kristine caused the loss of
+    section3:
+      primarytype: 'block'
+      uuid: '3b4f94e6-790a-47ce-9eef-bd7f2af4d290'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.889+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.927+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.889+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The onslaught of severe tropical storm Kristine caused the loss of
         lives and tremendous destruction of property, including immense damage to
         agriculture and critical infrastructures and lifelines, as well as the disruption
         of the means of livelihood, and the normal way of life of the people, especially
         in the affected areas,” the proclamation said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76126953-7fd7-40fa-870f-b481befc2c0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.889+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.927+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.889+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Based on the latest tally of the National Disaster Risk Reduction and
+    section4:
+      primarytype: 'block'
+      uuid: '76126953-7fd7-40fa-870f-b481befc2c0c'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.889+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.927+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.889+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Based on the latest tally of the National Disaster Risk Reduction and
         Management Council, 146 people were reported dead due to ‘Kristine’. 81 individuals
         were injured, while 19 others remain missing.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '69f4c1bf-b72a-444c-8cd6-a5c5f85dfbfd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:05:39.890+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:15.928+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:05:39.890+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Infrastructure damages were pegged at P7.3 billion, while agricultural
+    section5:
+      primarytype: 'block'
+      uuid: '69f4c1bf-b72a-444c-8cd6-a5c5f85dfbfd'
+      activationstatus: true
+      created: 2024-11-02T11:05:39.890+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:15.928+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:05:39.890+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Infrastructure damages were pegged at P7.3 billion, while agricultural
         losses stood at P4.4 billion.</p>'
-  'washington-activates-national-guard':
-    'author': 'Reuters'
-    'caption': 'John Waterbury from the Clark County election commission collects
+  'START HERE----->washington-activates-national-guard':
+    author: 'Reuters'
+    caption: 'John Waterbury from the Clark County election commission collects
       ballots from the drop-off boxes and fills out duplicate records and seals, in
       Vancouver, Washington, U.S., October 31, 2024. REUTERS/John Rudoff'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T11:11:52.000+08:00
-    'imagesource': 'jcr:e28f7eff-e608-4269-a832-648c71566788'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '966a5399-0959-47f2-a496-c301432b6d16'
-    'lead': 'The governor of Washington state on Friday said he was activating some
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T11:11:52.000+08:00
+    imagesource: 'e28f7eff-e608-4269-a832-648c71566788'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '966a5399-0959-47f2-a496-c301432b6d16'
+    lead: 'The governor of Washington state on Friday said he was activating some
       members of the National Guard to be on stand-by after information and concerns
       regarding potential violence related to the 2024 election.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T11:14:55.299+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:52:05.956+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:21.904+08:00
-    'mgnl:lastModified': 2024-11-02T11:15:31.044+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'Kamala-Harris', 'washington', 'US-Elections']
-    'stories': []
-    'template': '1'
-    'title': 'Washington state activates National Guard in case of election violence'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38b0ff83-3b29-4441-ad46-833664e25a5f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.326+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.041+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters -</strong> The governor of Washington state on Friday
+    activationstatus: true
+    created: 2024-11-02T11:14:55.299+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:52:05.956+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:21.904+08:00
+    lastmodified: 2024-11-02T11:15:31.044+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Washington state activates National Guard in case of election violence'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '38b0ff83-3b29-4441-ad46-833664e25a5f'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.326+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.041+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters -</strong> The governor of Washington state on Friday
         said he was activating some members of the National Guard to be on stand-by
         after information and concerns regarding potential violence related to the
         2024 election.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c564695a-327d-45b8-8e0e-f4a1a395f89b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.326+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.959+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.041+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The state, where Democrat Kamala Harris is easily expected to defeat
+    section1:
+      primarytype: 'block'
+      uuid: 'c564695a-327d-45b8-8e0e-f4a1a395f89b'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.326+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.959+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.041+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The state, where Democrat Kamala Harris is easily expected to defeat
         Republican Donald Trump according to polling, was one of two where ballot
         boxes were set on fire earlier in the week.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '321ce179-3c4d-4969-b429-7bfcfad7d723'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.327+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.960+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.042+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Early voting is available to those in Washington and more than 2
+    section2:
+      primarytype: 'block'
+      uuid: '321ce179-3c4d-4969-b429-7bfcfad7d723'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.327+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.960+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.042+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Early voting is available to those in Washington and more than 2
         million have already cast their ballots, according to the Election Lab at
         the University of Florida.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7182c246-0685-41ef-b2df-13c8befb4ca0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.327+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.042+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Based upon general and specific information and concerns regarding
+    section3:
+      primarytype: 'block'
+      uuid: '7182c246-0685-41ef-b2df-13c8befb4ca0'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.327+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.042+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Based upon general and specific information and concerns regarding
         the potential for violence or other unlawful activity related to the 2024
         general election, I want to ensure we are fully prepared to respond," Governor
         Jay Inslee wrote in a letter published on his website on Friday.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f00f3832-f996-4525-8698-11f1d09d76cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.327+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.961+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.043+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hundreds of ballots were damaged or destroyed by the use of the incendiary
+    section4:
+      primarytype: 'block'
+      uuid: 'f00f3832-f996-4525-8698-11f1d09d76cf'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.327+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.961+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.043+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hundreds of ballots were damaged or destroyed by the use of the incendiary
         device in the drop box in the city of Vancouver, according to Inslee.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa2cefac-fd29-4a65-bc75-8829fc5ae1c3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T11:14:55.328+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:52:05.962+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T11:15:31.043+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Costas Pitas; Editing by Sandra Maler)</em></p>'
-  'air-force-aircraft-landed-detached-tire':
-    'caption': 'A Philippine Air Force aircraft experienced "detached nose landing
+    section5:
+      primarytype: 'block'
+      uuid: 'aa2cefac-fd29-4a65-bc75-8829fc5ae1c3'
+      activationstatus: true
+      created: 2024-11-02T11:14:55.328+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:52:05.962+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T11:15:31.043+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Costas Pitas; Editing by Sandra Maler)</em></p>'
+  'START HERE----->air-force-aircraft-landed-detached-tire':
+    caption: 'A Philippine Air Force aircraft experienced "detached nose landing
       gear tire" upon touchdown in Basco Batanes on Friday, Nov. 1.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T12:45:30.000+08:00
-    'imagesource': 'jcr:7769e6c2-7f3b-437e-9709-1c495b803ac1'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c74c32c8-b6fc-4bc1-98ed-1dd142fcf09d'
-    'lead': 'The Philippine Air Force (PAF) said it is investigating the cause of
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T12:45:30.000+08:00
+    imagesource: '7769e6c2-7f3b-437e-9709-1c495b803ac1'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c74c32c8-b6fc-4bc1-98ed-1dd142fcf09d'
+    lead: 'The Philippine Air Force (PAF) said it is investigating the cause of
       an incident involving its aircraft that landed with a detached tire at Basco
       Airport in Batanes during a relief mission on Friday, Nov. 1.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T12:49:26.737+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:51:55.004+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.030+08:00
-    'mgnl:lastModified': 2024-11-02T12:49:26.779+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Batanes', 'Philippine-Air-Force']
-    'stories': []
-    'template': '1'
-    'title': 'Air Force probing cause of aircraft incident in Batanes, no injuries
+    activationstatus: true
+    created: 2024-11-02T12:49:26.737+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:51:55.004+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.030+08:00
+    lastmodified: 2024-11-02T12:49:26.779+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Air Force probing cause of aircraft incident in Batanes, no injuries
       reported'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b7412bc-af48-4715-8389-5b88fdc01354'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.771+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.011+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.776+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> The Philippine Air
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4b7412bc-af48-4715-8389-5b88fdc01354'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.771+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.011+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.776+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> The Philippine Air
         Force (PAF) said it is investigating the cause of an incident involving its
         aircraft that landed with a detached tire at Basco Airport in Batanes during
         a relief mission on Friday, Nov. 1.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1693543-47c7-468e-a136-fc2572a99d02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.771+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.012+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.771+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The incident happened around 3 p.m., involving its C295 aircraft
+    section1:
+      primarytype: 'block'
+      uuid: 'd1693543-47c7-468e-a136-fc2572a99d02'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.771+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.012+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.771+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The incident happened around 3 p.m., involving its C295 aircraft
         carrying food packs, the PAF said.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7cb2326e-b1a5-4ca2-ad8f-157fecc9b276'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.772+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.013+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.772+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement, Armed Forces Spokesperson Col. Francel Padilla said
+    section2:
+      primarytype: 'block'
+      uuid: '7cb2326e-b1a5-4ca2-ad8f-157fecc9b276'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.772+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.013+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.772+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a statement, Armed Forces Spokesperson Col. Francel Padilla said
         the aircraft "experienced detached nose landing gear tire” upon touchdown
         in Basco.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1aaf2837-e0bb-48bd-a0be-2d7e3a1e0f37'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.772+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.013+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.772+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The aircraft, which departed Manila earlier, that day completed its
+    section3:
+      primarytype: 'block'
+      uuid: '1aaf2837-e0bb-48bd-a0be-2d7e3a1e0f37'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.772+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.013+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.772+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The aircraft, which departed Manila earlier, that day completed its
         flight to Basco with no injuries reported among the pilots or crew. The aircraft
         is currently secured on the active runway as the situation is assessed,” she
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36423677-9b18-4401-bf73-d394170702da'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.773+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.014+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.773+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the PAF assured the public its relief operations will continue
+    section4:
+      primarytype: 'block'
+      uuid: '36423677-9b18-4401-bf73-d394170702da'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.773+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.014+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.773+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Meanwhile, the PAF assured the public its relief operations will continue
         in Batanes and other typhoon-hit areas despite what happened.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2fe906bb-d4dd-425d-8f45-5fd5e6d7a45a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T12:49:26.773+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:55.014+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T12:49:26.773+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Friday, Batanes Governor Marilou Cayco announced that the Basco
+    section5:
+      primarytype: 'block'
+      uuid: '2fe906bb-d4dd-425d-8f45-5fd5e6d7a45a'
+      activationstatus: true
+      created: 2024-11-02T12:49:26.773+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:55.014+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T12:49:26.773+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On Friday, Batanes Governor Marilou Cayco announced that the Basco
         Airport will be closed to fixed-wing aircrafts until Nov. 3, following the
         incident.</p>'
-  'list-local-holidays-november-december':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T13:48:27.000+08:00
-    'imagesource': 'jcr:5d09f6d7-d39d-4e77-95e0-2849bd986391'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'aa254a05-e554-40cf-a8cf-88de4d69574c'
-    'lead': 'President Ferdinand Marcos Jr. has declared a number of holidays in several
+  'START HERE----->list-local-holidays-november-december':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T13:48:27.000+08:00
+    imagesource: '5d09f6d7-d39d-4e77-95e0-2849bd986391'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'aa254a05-e554-40cf-a8cf-88de4d69574c'
+    lead: 'President Ferdinand Marcos Jr. has declared a number of holidays in several
       municipalities for the last two months of 2024.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T13:50:54.918+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:51:44.615+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.179+08:00
-    'mgnl:lastModified': 2024-11-02T13:51:18.927+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Ferdinand-Marcos-Jr.', 'Malacanang']
-    'stories': []
-    'template': '1'
-    'title': 'LIST: Local holidays in November, December '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '47d902fe-c26b-48e3-bf4d-05273da05a74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.941+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.646+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.917+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> President Ferdinand
+    activationstatus: true
+    created: 2024-11-02T13:50:54.918+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:51:44.615+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.179+08:00
+    lastmodified: 2024-11-02T13:51:18.927+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LIST: Local holidays in November, December '
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '47d902fe-c26b-48e3-bf4d-05273da05a74'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.941+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.646+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.917+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> President Ferdinand
         Marcos Jr. has declared a number of holidays in several municipalities for
         the last two months of 2024.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da7780a2-5c6a-49ef-b4b2-ff73a3f0b2e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.942+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.647+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.917+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Saturday, Nov. 2, Malacañang issued a series of proclamations authorized
+    section1:
+      primarytype: 'block'
+      uuid: 'da7780a2-5c6a-49ef-b4b2-ff73a3f0b2e7'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.942+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.647+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.917+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Saturday, Nov. 2, Malacañang issued a series of proclamations authorized
         by the President through Executive Secretary Lucas Bersamin:'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2b51a44-daa0-4e52-ad7e-c46a0dc3871c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.942+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.648+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.918+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 8, 2024, Special Non-working Day in the Municipality
+    section2:
+      primarytype: 'block'
+      uuid: 'e2b51a44-daa0-4e52-ad7e-c46a0dc3871c'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.942+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.648+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.918+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 8, 2024, Special Non-working Day in the Municipality
         of Tanay, Province of Rizal</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b02e4ae-508c-47e0-b5d0-6afeda8b3fd6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.942+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.649+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.919+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 12, 2024, Special Non-working Day in the City of Valenzuela</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd3891c9-1d4f-40ad-9961-0727f26b137a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.943+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.649+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.919+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 15, 2024, Special Non-working Day in the Province of
+    section3:
+      primarytype: 'block'
+      uuid: '5b02e4ae-508c-47e0-b5d0-6afeda8b3fd6'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.942+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.649+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.919+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 12, 2024, Special Non-working Day in the City of Valenzuela</p>'
+    section4:
+      primarytype: 'block'
+      uuid: 'bd3891c9-1d4f-40ad-9961-0727f26b137a'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.943+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.649+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.919+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 15, 2024, Special Non-working Day in the Province of
         Oriental Mindoro</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5559edd9-a379-4815-82ea-a40b7716419f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.943+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.650+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.919+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 15, 2024, Special Non-working Day in the City of Borongan,
+    section5:
+      primarytype: 'block'
+      uuid: '5559edd9-a379-4815-82ea-a40b7716419f'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.943+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.650+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.919+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 15, 2024, Special Non-working Day in the City of Borongan,
         Province of Eastern Samar</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9508ad45-ef65-4844-b481-e193951100ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.944+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.651+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.920+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 22, 2024, Special Non-working Day in the City of Palayan,
+    section6:
+      primarytype: 'block'
+      uuid: '9508ad45-ef65-4844-b481-e193951100ef'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.944+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.651+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.920+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 22, 2024, Special Non-working Day in the City of Palayan,
         Province of Nueva Ecija</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6accc781-aa4e-440a-be7f-d55fc5a8d857'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.944+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.652+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.920+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 22, 2024, Special Non-working Day in the Municipality
+    section7:
+      primarytype: 'block'
+      uuid: '6accc781-aa4e-440a-be7f-d55fc5a8d857'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.944+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.652+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.920+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 22, 2024, Special Non-working Day in the Municipality
         of Itogon, Province of Benguet</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '566c849a-473e-4a68-ab1a-e53e7542faad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.945+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.652+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.921+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 22 2024, Special Non-working Day in the Municipality
+    section8:
+      primarytype: 'block'
+      uuid: '566c849a-473e-4a68-ab1a-e53e7542faad'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.945+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.652+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.921+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 22 2024, Special Non-working Day in the Municipality
         of Tublay, Province of Benguet</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fe09d8c-23b4-4a6a-a3a8-7b6742a152fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.945+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.653+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.922+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 23, 2024, Special Non-working Day in the Province of
+    section9:
+      primarytype: 'block'
+      uuid: '4fe09d8c-23b4-4a6a-a3a8-7b6742a152fe'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.945+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.653+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.922+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 23, 2024, Special Non-working Day in the Province of
         Benguet</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36bec6a1-df95-4492-919a-1444c830473a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.945+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.654+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.922+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 25, 2024, Special Non-working Day in the Municipality
+    section10:
+      primarytype: 'block'
+      uuid: '36bec6a1-df95-4492-919a-1444c830473a'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.945+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.654+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.922+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 25, 2024, Special Non-working Day in the Municipality
         of Marasugan, Province of Davao de Oro</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df41cb9d-a3ab-4d5a-8c47-a07b69731448'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.946+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.656+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.922+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 26, 2024, Special Non-working Day in the City of Dasmariñas,
+    section11:
+      primarytype: 'block'
+      uuid: 'df41cb9d-a3ab-4d5a-8c47-a07b69731448'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.946+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.656+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.922+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 26, 2024, Special Non-working Day in the City of Dasmariñas,
         Province of Cavite</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bb82bd9-67ba-4b62-96fc-2ba2f83b65d0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.947+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.657+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.923+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 28 2024, Special Non-working Day in the Municipality
+    section12:
+      primarytype: 'block'
+      uuid: '5bb82bd9-67ba-4b62-96fc-2ba2f83b65d0'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.947+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.657+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.923+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 28 2024, Special Non-working Day in the Municipality
         of Piñan, Province of Zamboanga del Norte</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '860a2631-512f-40f4-ae2f-035c4d55dcfb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.948+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.658+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.924+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ November 28, 2024, Special Non-working Day in the Province of
+    section13:
+      primarytype: 'block'
+      uuid: '860a2631-512f-40f4-ae2f-035c4d55dcfb'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.948+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.658+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.924+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ November 28, 2024, Special Non-working Day in the Province of
         Sarangani</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81385cb1-8c0e-445a-972a-827d775ca3fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.948+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.659+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.924+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ December 5, 2024, Special Non-working Day in the City of Palayan,
+    section14:
+      primarytype: 'block'
+      uuid: '81385cb1-8c0e-445a-972a-827d775ca3fb'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.948+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.659+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.924+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>+ December 5, 2024, Special Non-working Day in the City of Palayan,
         Province of Nueva Ecija</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1cccb91d-b81d-4831-8c07-a08be1a662d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.949+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.660+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.925+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, Marcos also declared the second week of October as “National
+    section15:
+      primarytype: 'block'
+      uuid: '1cccb91d-b81d-4831-8c07-a08be1a662d1'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.949+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.660+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.925+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Meanwhile, Marcos also declared the second week of October as “National
         Myopia Consciousness Week”, and every 19th of the same month as “Transport
         Cooperative Day”.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f850f0b-1ee8-4e5a-8267-340e7e1c3de6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.949+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.660+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.925+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The President also proclaimed December as the “Philippine Architecture
+    section16:
+      primarytype: 'block'
+      uuid: '5f850f0b-1ee8-4e5a-8267-340e7e1c3de6'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.949+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.660+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.925+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The President also proclaimed December as the “Philippine Architecture
         Festival - National Architecture Month”.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f6f86cd-e85f-4a85-8f95-37badbd672d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.950+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.661+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.926+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Marcos earlier issued a list of holidays for 2025.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66de8103-de8f-4e5e-b782-83b7f2b0fd1e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T13:50:54.950+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:44.661+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T13:51:18.926+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong><a href="https://www.newswatchplus.ph/news/2024/10/31/marcos-declares-holidays-2025.html">LIST:
+    section17:
+      primarytype: 'block'
+      uuid: '3f6f86cd-e85f-4a85-8f95-37badbd672d8'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.950+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.661+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.926+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Marcos earlier issued a list of holidays for 2025.</p>'
+    section18:
+      primarytype: 'block'
+      uuid: '66de8103-de8f-4e5e-b782-83b7f2b0fd1e'
+      activationstatus: true
+      created: 2024-11-02T13:50:54.950+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:44.661+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T13:51:18.926+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong><a href="https://www.newswatchplus.ph/news/2024/10/31/marcos-declares-holidays-2025.html">LIST:
         Philippine holidays for 2025</a></strong></p>'
-  'liza-soberano-bright-vachirawit-new-project':
-    'caption': 'Liza Soberano and Bright Vachirawit share an intimate moment in the
+  'START HERE----->liza-soberano-bright-vachirawit-new-project':
+    caption: 'Liza Soberano and Bright Vachirawit share an intimate moment in the
       Thai star’s new music video to be out on Nov. 8.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T14:33:11.000+08:00
-    'imagesource': 'jcr:a0fcdfae-9e16-4370-bef0-1503e78959d4'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6d5596cb-352e-4e0a-8856-e96313378acb'
-    'lead': 'Actress and model Liza Soberano is set to star in the new music video
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T14:33:11.000+08:00
+    imagesource: 'a0fcdfae-9e16-4370-bef0-1503e78959d4'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6d5596cb-352e-4e0a-8856-e96313378acb'
+    lead: 'Actress and model Liza Soberano is set to star in the new music video
       of Thai star and heartthrob Bright Vachirawit.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T14:36:33.775+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:51:19.666+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.343+08:00
-    'mgnl:lastModified': 2024-11-02T14:36:33.813+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Bright-Vachirawit', 'Liza-Soberano']
-    'stories': []
-    'template': '1'
-    'title': 'Liza Soberano, Bright Vachirawit team up in new music video'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a72e72d0-65e7-42e6-bcc5-63ad38921e6d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.805+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.669+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.810+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Actress and model Liza
+    activationstatus: true
+    created: 2024-11-02T14:36:33.775+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:51:19.666+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.343+08:00
+    lastmodified: 2024-11-02T14:36:33.813+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Liza Soberano, Bright Vachirawit team up in new music video'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a72e72d0-65e7-42e6-bcc5-63ad38921e6d'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.805+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.669+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.810+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Actress and model Liza
         Soberano is set to star in the new music video of Thai star and heartthrob
         Bright Vachirawit.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0226f62f-ad98-4b53-abcd-12306cc2a31b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.806+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.670+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.806+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, the Thai singer posted behind-the-scenes photos of his new
+    section1:
+      primarytype: 'block'
+      uuid: '0226f62f-ad98-4b53-abcd-12306cc2a31b'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.806+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.670+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.806+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Friday, the Thai singer posted behind-the-scenes photos of his new
         music ‘Long Showers’, which will be out on Nov. 8.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce5f5e65-0894-4d25-83cc-0ee5043107ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.806+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.671+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.806+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In one of the snaps, the Filipina actress was seen sharing an intimate
+    section2:
+      primarytype: 'block'
+      uuid: 'ce5f5e65-0894-4d25-83cc-0ee5043107ec'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.806+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.671+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.806+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In one of the snaps, the Filipina actress was seen sharing an intimate
         scene with the Thai singer as they stood under the rain.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '675b8654-a3af-480e-a54c-4d33dd18a8fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.807+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.672+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.807+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Another photo showed Soberano chilling in a garage with Vachiwarit.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c8861b7-e9d6-4726-a8ad-355d55e01880'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.807+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.673+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.807+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In July, the Filipina actress <strong><a href="https://www.newswatchplus.ph/news/2024/9/14/liza-leaves-james-reid-music-label.html">parted
+    section3:
+      primarytype: 'block'
+      uuid: '675b8654-a3af-480e-a54c-4d33dd18a8fe'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.807+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.672+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.807+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Another photo showed Soberano chilling in a garage with Vachiwarit.</p>'
+    section4:
+      primarytype: 'block'
+      uuid: '2c8861b7-e9d6-4726-a8ad-355d55e01880'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.807+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.673+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.807+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In July, the Filipina actress <strong><a href="https://www.newswatchplus.ph/news/2024/9/14/liza-leaves-james-reid-music-label.html">parted
         ways</a></strong> with James Reid’s music label after two years.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '29722073-3299-416d-8ec0-c568428b6a85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T14:36:33.807+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:19.674+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T14:36:33.807+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Vachiwarit captured the hearts of Filipino audiences in 2020 for
+    section5:
+      primarytype: 'block'
+      uuid: '29722073-3299-416d-8ec0-c568428b6a85'
+      activationstatus: true
+      created: 2024-11-02T14:36:33.807+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:19.674+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T14:36:33.807+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Vachiwarit captured the hearts of Filipino audiences in 2020 for
         his boys-love series ‘2Gether’, which he co-starred with Thai actor Win Metawin.</p>'
-  'largest-captive-crocodile-dies':
-    'author': 'Reuters'
-    'caption': 'The world’s largest captive crocodile, Cassius is pictured at the
+  'START HERE----->largest-captive-crocodile-dies':
+    author: 'Reuters'
+    caption: 'The world’s largest captive crocodile, Cassius is pictured at the
       Marineland Melanesia on Green Island, Great Barrier Reef, Cairns, Australia
       March 18, 2023. AAP Image/Brian Cassey via REUTERS'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T15:02:20.000+08:00
-    'imagesource': 'jcr:f6d1b279-2103-4d27-ad57-9511276588ad'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a93cef4a-2dd5-4e52-9820-bcdea670e686'
-    'lead': 'A 5.48 metre (18 ft) Australian crocodile that held the world record
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T15:02:20.000+08:00
+    imagesource: 'f6d1b279-2103-4d27-ad57-9511276588ad'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a93cef4a-2dd5-4e52-9820-bcdea670e686'
+    lead: 'A 5.48 metre (18 ft) Australian crocodile that held the world record
       as the largest crocodile in captivity has died, a wildlife sanctuary said on
       Saturday. He was thought to be more than 110 years old.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T15:05:33.887+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:51:09.201+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.454+08:00
-    'mgnl:lastModified': 2024-11-02T15:06:57.350+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['crocodile', 'Australia']
-    'stories': []
-    'template': '1'
-    'title': 'World’s largest captive crocodile Cassius dies in Australia'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0fb6a341-5c3c-4df2-b93c-0e5a134cec8b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.914+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.344+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.346+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Sydney, Australia -</strong> A 5.48 metre (18 ft) Australian
+    activationstatus: true
+    created: 2024-11-02T15:05:33.887+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:51:09.201+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.454+08:00
+    lastmodified: 2024-11-02T15:06:57.350+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'World’s largest captive crocodile Cassius dies in Australia'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '0fb6a341-5c3c-4df2-b93c-0e5a134cec8b'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.914+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.344+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.346+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Sydney, Australia -</strong> A 5.48 metre (18 ft) Australian
         crocodile that held the world record as the largest crocodile in captivity
         has died, a wildlife sanctuary said on Saturday. He was thought to be more
         than 110 years old.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e0e9a77-6e9e-461f-91ca-c2b6d0b3be42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.914+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.345+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.346+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Cassius, weighing in at more than one ton, had been in declining
+    section1:
+      primarytype: 'block'
+      uuid: '8e0e9a77-6e9e-461f-91ca-c2b6d0b3be42'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.914+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.345+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.346+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Cassius, weighing in at more than one ton, had been in declining
         health since Oct. 15, Marineland Melanesia Crocodile Habitat said on Facebook.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de45ef27-8c14-4133-b40b-a0d4ec34086a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.915+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.346+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.347+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"He was very old and believed to be living beyond the years of a wild
+    section2:
+      primarytype: 'block'
+      uuid: 'de45ef27-8c14-4133-b40b-a0d4ec34086a'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.915+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.346+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.347+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"He was very old and believed to be living beyond the years of a wild
         Croc," according to a post by the organisation, based on Green Island near
         the Queensland tourist town of Cairns.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '40fd62e0-e6e6-445b-9687-ffe2c7a083a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.915+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.347+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.347+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Cassius will be deeply missed, but our love and memories of him will
+    section3:
+      primarytype: 'block'
+      uuid: '40fd62e0-e6e6-445b-9687-ffe2c7a083a9'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.915+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.347+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.347+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Cassius will be deeply missed, but our love and memories of him will
         remain in our hearts forever."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b95e3e2-6921-441d-9c4e-7cd70ad3c927'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.916+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.348+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.348+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group’s website said he had lived at the sanctuary since 1987
+    section4:
+      primarytype: 'block'
+      uuid: '3b95e3e2-6921-441d-9c4e-7cd70ad3c927'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.916+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.348+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.348+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The group’s website said he had lived at the sanctuary since 1987
         after being transported from the neighbouring Northern Territory, where crocodiles
         are a key part of the region’s tourist industry.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '69d681bf-de93-4dde-a083-447f1a3ba1d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.916+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.349+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.348+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Cassius, a saltwater crocodile, held the Guinness World Records title
+    section5:
+      primarytype: 'block'
+      uuid: '69d681bf-de93-4dde-a083-447f1a3ba1d4'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.916+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.349+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.348+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Cassius, a saltwater crocodile, held the Guinness World Records title
         as the world’s largest crocodile in captivity.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ea97ce6e-ea1a-4078-8cf7-4226c0692555'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.917+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.349+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.348+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He took the title after the 2013 death of Philippines crocodile Lolong,
+    section6:
+      primarytype: 'block'
+      uuid: 'ea97ce6e-ea1a-4078-8cf7-4226c0692555'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.917+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.349+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.348+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He took the title after the 2013 death of Philippines crocodile Lolong,
         who measured 6.17 m (20 ft 3 in) long, according to Guinness.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85695cd7-aed4-446b-a113-aef2a6c040b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:05:33.917+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:51:09.350+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:06:57.349+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Sam McKeith in Sydney; Editing by Edmund Klamann)</em></p>'
-  'permanent-body-for-indigenous-peoples':
-    'author': 'Jake Spring and Oliver Griffin, Reuters'
-    'caption': 'Jhajayra Machoa Mendua, leader of the A''I Cofan nationality, speaks
+    section7:
+      primarytype: 'block'
+      uuid: '85695cd7-aed4-446b-a113-aef2a6c040b9'
+      activationstatus: true
+      created: 2024-11-02T15:05:33.917+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:51:09.350+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:06:57.349+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Sam McKeith in Sydney; Editing by Edmund Klamann)</em></p>'
+  'START HERE----->permanent-body-for-indigenous-peoples':
+    author: 'Jake Spring and Oliver Griffin, Reuters'
+    caption: 'Jhajayra Machoa Mendua, leader of the A'I Cofan nationality, speaks
       during a press conference at the 16th United Nations Biodiversity Summit (COP16),
       in Yumbo, Colombia October 31, 2024. REUTERS/Luisa Gonzalez'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T15:31:35.000+08:00
-    'imagesource': 'jcr:9fee89d7-a3a3-4631-9480-be6bc3b6a054'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a6d54ff6-9095-4ca2-bee2-feb1cc46d1c0'
-    'lead': 'Countries at the U.N. COP16 summit on nature on Friday approved a measure
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T15:31:35.000+08:00
+    imagesource: '9fee89d7-a3a3-4631-9480-be6bc3b6a054'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a6d54ff6-9095-4ca2-bee2-feb1cc46d1c0'
+    lead: 'Countries at the U.N. COP16 summit on nature on Friday approved a measure
       to create a permanent body for Indigenous peoples to consult on United Nations
       decisions about nature conservation.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T15:34:29.233+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:50:56.103+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.569+08:00
-    'mgnl:lastModified': 2024-11-02T15:34:29.264+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['united-nations', 'COP16']
-    'stories': []
-    'template': '1'
-    'title': 'UN COP16 nature summit creates permanent body for Indigenous peoples'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12fca22f-fc13-4cf5-9360-5ff8e4c71eba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.252+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.143+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.260+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Cali, Colombia -</strong> Countries at the U.N. COP16 summit
+    activationstatus: true
+    created: 2024-11-02T15:34:29.233+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:50:56.103+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.569+08:00
+    lastmodified: 2024-11-02T15:34:29.264+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'UN COP16 nature summit creates permanent body for Indigenous peoples'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '12fca22f-fc13-4cf5-9360-5ff8e4c71eba'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.252+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.143+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.260+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Cali, Colombia -</strong> Countries at the U.N. COP16 summit
         on nature on Friday approved a measure to create a permanent body for Indigenous
         peoples to consult on United Nations decisions about nature conservation.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1dbb9573-29fe-45b1-af36-49a33e845d6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.252+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.144+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.252+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The consultative body is considered a breakthrough in recognizing the
+    section1:
+      primarytype: 'block'
+      uuid: '1dbb9573-29fe-45b1-af36-49a33e845d6b'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.252+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.144+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.252+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The consultative body is considered a breakthrough in recognizing the
         role that Indigenous peoples play in conserving nature globally, including
         some of the most biodiverse areas of the planet, according to Indigenous and
         environmental advocates.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '68ab7a19-bbce-4ee1-a7f2-168c99adaab6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.253+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.145+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.253+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Nearly 200 countries convened in the Columbian city of Cali aiming
+    section2:
+      primarytype: 'block'
+      uuid: '68ab7a19-bbce-4ee1-a7f2-168c99adaab6'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.253+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.145+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.253+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Nearly 200 countries convened in the Columbian city of Cali aiming
         to implement the 2022 Kunming-Montreal Global Biodiversity Framework agreement,
         which aims to halt the rapid decline of nature by 2030.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '498c8072-8f07-48fe-a454-3fcb52d41bb4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.253+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.253+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The consultative body, which will also extend to local communities,
+    section3:
+      primarytype: 'block'
+      uuid: '498c8072-8f07-48fe-a454-3fcb52d41bb4'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.253+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.253+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The consultative body, which will also extend to local communities,
         will help to incorporate traditional knowledge and practices into conservation
         efforts.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6af4557e-95d3-4678-a02f-44f1cea73c4a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.254+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.146+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.254+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Countries also adopted a measure that recognizes the role of people
+    section4:
+      primarytype: 'block'
+      uuid: '6af4557e-95d3-4678-a02f-44f1cea73c4a'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.254+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.146+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.254+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Countries also adopted a measure that recognizes the role of people
         of African descent in caring for nature, which COP16 host Colombia said would
         grant such communities easier access to resources to fund their biodiversity
         projects and participate in global environmental discussions.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '351abcd7-9ef5-4a82-8a14-cfc6fe534ad9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.254+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.147+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.254+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The measure’s adoption was met with chants and singing by campaigners,
+    section5:
+      primarytype: 'block'
+      uuid: '351abcd7-9ef5-4a82-8a14-cfc6fe534ad9'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.254+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.147+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.254+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The measure’s adoption was met with chants and singing by campaigners,
         as well as words of thanks from Colombia Foreign Minister Luis Gilberto Murillo,
         who said the breakthrough was particularly important for Latin America and
         the Caribbean.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '355c23d7-b1cb-481f-83cf-a17f50704ce6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.255+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.148+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.255+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Our territories, which cover much of the natural wealth of the
+    section6:
+      primarytype: 'block'
+      uuid: '355c23d7-b1cb-481f-83cf-a17f50704ce6'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.255+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.148+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.255+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>"Our territories, which cover much of the natural wealth of the
         planet, have also been home to people of African descent and Indigenous peoples
         whose sustainable practices are needed to face the environmental challenges
         that we all share today," Murillo said.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3733201b-d243-4bd1-8ebc-7f6545a83043'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.255+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.148+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.255+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Earlier in the week, Armenia was announced as the host of COP17, which
+    section7:
+      primarytype: 'block'
+      uuid: '3733201b-d243-4bd1-8ebc-7f6545a83043'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.255+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.148+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.255+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Earlier in the week, Armenia was announced as the host of COP17, which
         will be held in 2026.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9d47e40-7903-4d58-9f0d-46044a792b13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T15:34:29.256+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:56.149+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T15:34:29.256+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jake Spring and Oliver Griffin; Editing by William
+    section8:
+      primarytype: 'block'
+      uuid: 'e9d47e40-7903-4d58-9f0d-46044a792b13'
+      activationstatus: true
+      created: 2024-11-02T15:34:29.256+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:56.149+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T15:34:29.256+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jake Spring and Oliver Griffin; Editing by William
         Mallard and Edmund Klamann)</em></p>'
-  'senate-plenary-debates-2025-budget-november-6':
-    'caption': 'Sen. Grace poe during the budget briefing on the proposed 2025 budget
+  'START HERE----->senate-plenary-debates-2025-budget-november-6':
+    caption: 'Sen. Grace poe during the budget briefing on the proposed 2025 budget
       of the Office of the Vice President on Aug. 20'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T16:58:56.000+08:00
-    'imagesource': 'jcr:34a5de0b-09dd-4a7f-8f46-47a95140c1cc'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8672bd6d-d57b-4c40-9e44-3db43931fe8a'
-    'lead': 'The Senate plenary debates on the proposed 2025 budget will begin on
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T16:58:56.000+08:00
+    imagesource: '34a5de0b-09dd-4a7f-8f46-47a95140c1cc'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8672bd6d-d57b-4c40-9e44-3db43931fe8a'
+    lead: 'The Senate plenary debates on the proposed 2025 budget will begin on
       Nov. 6, finance committee chairperson Sen. Grace Poe said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T17:02:15.232+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:50:42.343+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.740+08:00
-    'mgnl:lastModified': 2024-11-02T17:03:11.551+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Grace-Poe', 'Senate', '2025-budget']
-    'stories': []
-    'template': '1'
-    'title': 'Senate plenary debates on 2025 budget to begin Nov. 6 - Poe'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2256f295-b871-4a98-bd6d-c17fc34af610'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.284+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.346+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.543+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> The Senate plenary
+    activationstatus: true
+    created: 2024-11-02T17:02:15.232+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:50:42.343+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.740+08:00
+    lastmodified: 2024-11-02T17:03:11.551+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Senate plenary debates on 2025 budget to begin Nov. 6 - Poe'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '2256f295-b871-4a98-bd6d-c17fc34af610'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.284+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.346+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.543+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> The Senate plenary
         debates on the proposed 2025 budget will begin on Nov. 6, finance committee
         chairperson Sen. Grace Poe said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef84f8ff-5b09-435b-98b7-ef3cde4078a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.285+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.347+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.543+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a radio interview, Poe said interpellations for the P6.352 trillion
+    section1:
+      primarytype: 'block'
+      uuid: 'ef84f8ff-5b09-435b-98b7-ef3cde4078a8'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.285+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.347+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.543+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a radio interview, Poe said interpellations for the P6.352 trillion
         proposal are set for Nov. 6 to 19.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc582b91-1587-4568-be02-a42fafa230a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.285+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.348+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmaker said she will submit the committee report and sponsor
+    section2:
+      primarytype: 'block'
+      uuid: 'fc582b91-1587-4568-be02-a42fafa230a6'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.285+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.348+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The lawmaker said she will submit the committee report and sponsor
         the Senate bill -  on Tuesday, Nov. 5.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff4153ba-20aa-406c-8c36-296dbd1178ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.286+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.348+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The House of Representatives transmitted its version of the General
+    section3:
+      primarytype: 'block'
+      uuid: 'ff4153ba-20aa-406c-8c36-296dbd1178ad'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.286+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.348+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The House of Representatives transmitted its version of the General
         Appropriations Bill to the upper chamber on Oct. 24.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b885c02-f737-4a72-bac7-d49d8aa51476'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.286+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.349+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Syempre meron talagang pagkakaiba dahil iba-iba naman ang pananaw
+    section4:
+      primarytype: 'block'
+      uuid: '6b885c02-f737-4a72-bac7-d49d8aa51476'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.286+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.349+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Syempre meron talagang pagkakaiba dahil iba-iba naman ang pananaw
         at adbokasiya ng bawat bahay, ang Kamara at Senado. Pero hindi naman ganun
         kalaki ang difference. So malalaman naman natin ang mga partikular kapag nagdebate
         na tayo,” she told DWIZ 882 when asked about the difference between the House
         and Senate versions.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e8289978-2eba-476a-bced-38d61dfc23f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.286+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.350+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Of course, there are really differences because each
+    section5:
+      primarytype: 'block'
+      uuid: 'e8289978-2eba-476a-bced-38d61dfc23f2'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.286+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.350+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '[Translation: Of course, there are really differences because each
         house, the House of Representatives and the Senate, has its own perspectives
-        and advocacies. But the difference isn''t that significant. We''ll learn about
+        and advocacies. But the difference isn't that significant. We'll learn about
         the specifics when we start debating]'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cbbd20f-3c68-4bcf-a7a6-72574af0b4ff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.287+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.351+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Poe said the bicameral conference committee (bicam) is set on Nov.
+    section6:
+      primarytype: 'block'
+      uuid: '4cbbd20f-3c68-4bcf-a7a6-72574af0b4ff'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.287+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.351+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Poe said the bicameral conference committee (bicam) is set on Nov.
         28 to 30, with the bicam expected to sign the proposal on Dec. 9.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4188e27-6c84-4e1c-a400-5b0c2e5dc78a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.287+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.352+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Ang transmittal sa DBM Dec. 19. Usually naman nasusunod lahat ito
+    section7:
+      primarytype: 'block'
+      uuid: 'c4188e27-6c84-4e1c-a400-5b0c2e5dc78a'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.287+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.352+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“Ang transmittal sa DBM Dec. 19. Usually naman nasusunod lahat ito
         at kung titingnan natin ang schedule nung nakaraan basically pareho lang o
         may napaaga tayo sa ibang proseso ng mga dalawa o tatlong araw,” she said.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a93cd53d-0e57-4658-a6e4-f9cf5ab21df6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.288+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.352+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: The transmittal to the DBM (Department of Budget and
+    section8:
+      primarytype: 'block'
+      uuid: 'a93cd53d-0e57-4658-a6e4-f9cf5ab21df6'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.288+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.352+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: The transmittal to the DBM (Department of Budget and
         Management) is on December 19. Usually, all of this is followed, and if we
         look at the schedule from before, it’s basically the same, or we’ve expedited
         some processes by two or three days]</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca0d44a4-ee40-41c4-9226-7dfd335d28fc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.288+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.353+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>More transparent bicam?</strong></p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd27caf30-b0b3-45da-9ef2-5e7dc19cf550'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.288+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.354+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.548+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Senate finance committee head said she supports calls to be more
+    section9:
+      primarytype: 'block'
+      uuid: 'ca0d44a4-ee40-41c4-9226-7dfd335d28fc'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.288+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.353+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>More transparent bicam?</strong></p>'
+    section10:
+      primarytype: 'block'
+      uuid: 'd27caf30-b0b3-45da-9ef2-5e7dc19cf550'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.288+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.354+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.548+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Senate finance committee head said she supports calls to be more
         transparent in the bicam.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '266da529-a0d7-4a37-a3b5-6bd27c743bd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.289+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.355+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.548+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The committee is composed of representatives from the House and Senate,
+    section11:
+      primarytype: 'block'
+      uuid: '266da529-a0d7-4a37-a3b5-6bd27c743bd5'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.289+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.355+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.548+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The committee is composed of representatives from the House and Senate,
         tasked to convene and resolve differences of the version of both Houses. But
         unlike the committee and plenary hearings, these sessions are traditionally
         conducted behind  closed-doors and are not available for streaming.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7220ce78-b672-49eb-8e9e-6f4d61b6728f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.289+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.356+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.549+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Poe said she is in favor of recording the bicam hearing.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78747553-489f-4002-b29c-b0db4ab588ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.290+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.356+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.549+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Generally, para sa akin pwede naman talaga pakinggan kung anuman
+    section12:
+      primarytype: 'block'
+      uuid: '7220ce78-b672-49eb-8e9e-6f4d61b6728f'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.289+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.356+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.549+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Poe said she is in favor of recording the bicam hearing.'
+    section13:
+      primarytype: 'block'
+      uuid: '78747553-489f-4002-b29c-b0db4ab588ca'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.290+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.356+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.549+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“Generally, para sa akin pwede naman talaga pakinggan kung anuman
         ang nangyayari sa bicam. Pero ang masasabi ko kung anuman ang ginawa rin dati
         ni Senator Chiz na sinasabi nyang transparent sa Finance Committee ganun din
         ang gagawin natin, hindi naman natin itatago ang dokumento na iyon,” she said.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65bb9520-362f-4bd5-8aca-df53f2fc4fa8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.290+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.357+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.550+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: Generally, I believe we can listen to whatever is
+    section14:
+      primarytype: 'block'
+      uuid: '65bb9520-362f-4bd5-8aca-df53f2fc4fa8'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.290+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.357+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.550+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: Generally, I believe we can listen to whatever is
         happening in the bicam. However, I can say that whatever Senator Chiz did
         before, claiming it was transparent in the Finance Committee, is exactly what
         we will do; we won’t hide that document]</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c64d5a1-1db6-44a1-8063-a331a289083a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T17:02:15.291+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:42.357+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T17:03:11.550+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
+    section15:
+      primarytype: 'block'
+      uuid: '5c64d5a1-1db6-44a1-8063-a331a289083a'
+      activationstatus: true
+      created: 2024-11-02T17:02:15.291+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:42.357+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T17:03:11.550+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
         report</em></p>'
-  'dani-barretto-welcomes-second-child':
-    'caption': 'Dani Barretto welcomes her second born ''Riley Nicholas James'' on
+  'START HERE----->dani-barretto-welcomes-second-child':
+    caption: 'Dani Barretto welcomes her second born 'Riley Nicholas James' on
       Oct. 25, 2024.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T18:03:59.000+08:00
-    'imagesource': 'jcr:7368666e-eb87-410e-8e5f-7ad6b984ea42'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b9bb58d1-7b76-44c5-a52b-8127e1ae59bc'
-    'lead': 'Podcast host and content creator Dani Barretto has welcomed her second
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T18:03:59.000+08:00
+    imagesource: '7368666e-eb87-410e-8e5f-7ad6b984ea42'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b9bb58d1-7b76-44c5-a52b-8127e1ae59bc'
+    lead: 'Podcast host and content creator Dani Barretto has welcomed her second
       child with her husband Xavi Panlilio.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T18:07:22.852+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:50:16.056+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:22.869+08:00
-    'mgnl:lastModified': 2024-11-02T18:07:22.900+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Julia-Barretto', 'Dani-Barretto']
-    'stories': []
-    'template': '1'
-    'title': 'Dani Barretto welcomes second child'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5d1cde6-5106-434f-9536-7995fc2e7985'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.892+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.059+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.898+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Podcast host and content
+    activationstatus: true
+    created: 2024-11-02T18:07:22.852+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:50:16.056+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:22.869+08:00
+    lastmodified: 2024-11-02T18:07:22.900+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Dani Barretto welcomes second child'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e5d1cde6-5106-434f-9536-7995fc2e7985'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.892+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.059+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.898+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Podcast host and content
         creator Dani Barretto has welcomed her second child with her husband Xavi
         Panlilio.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16199850-32bb-4a65-ad15-b0cd37c88945'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.893+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.059+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday, Nov. 2, Barretto posted photos of their son ‘Riley
+    section1:
+      primarytype: 'block'
+      uuid: '16199850-32bb-4a65-ad15-b0cd37c88945'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.893+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.059+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On Saturday, Nov. 2, Barretto posted photos of their son ‘Riley
         Nicholas James’ who was born on Oct. 25.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '719268b9-2843-4392-82ff-a06036ef0d72'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.893+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.060+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“And just like that, I’m in love all over again. Thank you Lord for
+    section2:
+      primarytype: 'block'
+      uuid: '719268b9-2843-4392-82ff-a06036ef0d72'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.893+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.060+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“And just like that, I’m in love all over again. Thank you Lord for
         our Riley. Panlilio party of 4 is now complete,” she wrote on Instagram.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c50d225-3134-4e2d-9443-57fe69036044'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.894+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.061+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Will share more in a couple of days. Right now, we’re enjoying our
+    section3:
+      primarytype: 'block'
+      uuid: '5c50d225-3134-4e2d-9443-57fe69036044'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.894+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.061+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Will share more in a couple of days. Right now, we’re enjoying our
         baby bubble,” the podcaster added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5b9c466-59f8-4d47-b90b-0418412a6c96'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.894+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.061+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Celebrities were quick to celebrate the couple’s new blessing, with
+    section4:
+      primarytype: 'block'
+      uuid: 'd5b9c466-59f8-4d47-b90b-0418412a6c96'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.894+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.061+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Celebrities were quick to celebrate the couple’s new blessing, with
         Bela Padilla, Yam Concepcion, and Dani’s sister, Julia Barretto, sending their
         congratulations.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25ce5623-3679-4dee-a69b-e21a7557b42e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:07:22.895+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:16.062+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:07:22.895+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Dani and Xavi welcomed their first born, Millie, in 2019.</p>'
-  '-nujp-international-day-to-end-impunity-for-crimes-against-journalists':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'caption': 'A view shows a memoir of the 2009 Maguindanao Massacre where 58 individuals,
+    section5:
+      primarytype: 'block'
+      uuid: '25ce5623-3679-4dee-a69b-e21a7557b42e'
+      activationstatus: true
+      created: 2024-11-02T18:07:22.895+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:16.062+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:07:22.895+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Dani and Xavi welcomed their first born, Millie, in 2019.</p>'
+  'START HERE----->-nujp-international-day-to-end-impunity-for-crimes-against-journalists':
+    author: 'Lance Mejico, NewsWatch Plus'
+    caption: 'A view shows a memoir of the 2009 Maguindanao Massacre where 58 individuals,
       including 32 media workers were killed (File photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T18:07:59.000+08:00
-    'imagesource': 'jcr:755e141d-f45d-4817-a44d-d729b34250e7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3a54e364-5383-4e18-bd50-70128494dfec'
-    'lead': 'The National Union of Journalists of the Philippines (NUJP) paid tribute
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T18:07:59.000+08:00
+    imagesource: '755e141d-f45d-4817-a44d-d729b34250e7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '3a54e364-5383-4e18-bd50-70128494dfec'
+    lead: 'The National Union of Journalists of the Philippines (NUJP) paid tribute
       to slain Filipino media workers, as the world observed on Saturday, Nov. 2 the
       International Day to End Impunity for Crimes against Journalists.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T18:15:04.268+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:50:05.855+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.002+08:00
-    'mgnl:lastModified': 2024-11-02T18:43:49.967+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['international-day-to-end-impunity-for-crimes-against-journalists','Percy-Lapid', 'maguindanao-massacre', 'NUJP']
-    'stories': []
-    'template': '1'
-    'title': 'NUJP honors slain media workers on International Day to End Impunity
+    activationstatus: true
+    created: 2024-11-02T18:15:04.268+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:50:05.855+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.002+08:00
+    lastmodified: 2024-11-02T18:43:49.967+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'NUJP honors slain media workers on International Day to End Impunity
       for Crimes Against Journalists'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a495e653-4fb7-4792-86b0-bc7cf15af1af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.308+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.868+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.959+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> The National Union
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a495e653-4fb7-4792-86b0-bc7cf15af1af'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.308+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.868+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.959+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> The National Union
         of Journalists of the Philippines (NUJP) paid tribute to slain Filipino media
         workers, as the world observed on Saturday, Nov. 2 the International Day to
         End Impunity for Crimes against Journalists.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5573b00-308f-45d6-b32d-a714d9374319'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.308+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.874+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.960+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a series of posts, the union recounted some of the biggest media
+    section1:
+      primarytype: 'block'
+      uuid: 'a5573b00-308f-45d6-b32d-a714d9374319'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.308+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.874+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.960+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a series of posts, the union recounted some of the biggest media
         killings recorded in history – spanning from past administrations up to the
         present.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '53565337-3ec3-460b-9885-ae7194474688'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.309+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.876+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.960+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Among those was the tragic Maguindanao Massacre on November 23,
+    section2:
+      primarytype: 'block'
+      uuid: '53565337-3ec3-460b-9885-ae7194474688'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.309+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.876+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.960+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Among those was the tragic Maguindanao Massacre on November 23,
         2009 that killed 58 individuals including 32 media workers – considered as
         the single deadliest attack on independent media and the worst incident of
         electoral violence across the globe.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bdb4e11a-e1f9-48d8-b71a-4fbd242519f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.309+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.879+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.961+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Unfortunately, the body of another journalist, Reynaldo Momay, was
+    section3:
+      primarytype: 'block'
+      uuid: 'bdb4e11a-e1f9-48d8-b71a-4fbd242519f9'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.309+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.879+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.961+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Unfortunately, the body of another journalist, Reynaldo Momay, was
         not found despite being in the list of media people who had joined the convoy,”
         the union said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '569b630a-1502-41e6-bd8f-2270b12312f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.310+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.881+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.962+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In December 2019, the Quezon City Regional Trial Court found masterminds
+    section4:
+      primarytype: 'block'
+      uuid: '569b630a-1502-41e6-bd8f-2270b12312f0'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.310+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.881+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.962+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In December 2019, the Quezon City Regional Trial Court found masterminds
         Andal Ampatuan Jr., his brother Zaldy, and 26 others guilty of murder, and
         were sentenced of up to 40 years of imprisonment without parole. Over 50 other
         suspects, however, were acquitted.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2fdabbb-40e9-421b-905d-03b09762fb46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.310+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.882+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.962+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'NUJP also remembered the death of Percy Lapid, who was shot dead while
+    section5:
+      primarytype: 'block'
+      uuid: 'd2fdabbb-40e9-421b-905d-03b09762fb46'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.310+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.882+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.962+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'NUJP also remembered the death of Percy Lapid, who was shot dead while
         on his way home, on Oct. 3, 2022.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f22f3217-19a9-474c-ae50-f283cc228007'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.311+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.883+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.963+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The alleged mastermind - former Bureau of Corrections chief Gerald
+    section6:
+      primarytype: 'block'
+      uuid: 'f22f3217-19a9-474c-ae50-f283cc228007'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.311+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.883+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.963+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The alleged mastermind - former Bureau of Corrections chief Gerald
         Bantag, remains at large.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad129a74-79ce-47ac-a5c5-0571ebad1f79'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.311+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.883+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.964+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Mabasa’s murder, which took place in the national capital, made Filipino
+    section7:
+      primarytype: 'block'
+      uuid: 'ad129a74-79ce-47ac-a5c5-0571ebad1f79'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.311+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.883+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.964+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Mabasa’s murder, which took place in the national capital, made Filipino
         journalists realize that the change in the country’s administration did not
         automatically mean a change in the culture of impunity that has been plaguing
         the Philippines,” NUJP said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ed3538e-0116-46ed-a885-6f2813b0d1cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.312+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.884+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.964+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The union also recalled the death of former campus journalist Beng
+    section8:
+      primarytype: 'block'
+      uuid: '5ed3538e-0116-46ed-a885-6f2813b0d1cb'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.312+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.884+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.964+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The union also recalled the death of former campus journalist Beng
         Hernandez who was killed in 2002, and broadcaster Gerry Ortega who was gunned
         down in Puerto Princesa City, Palawan in 2011.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c92478b-749c-4402-9fef-7831f5ee8fad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:15:04.312+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:50:05.884+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:43:49.965+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“We call on all media and press freedom organizations to unite in
+    section9:
+      primarytype: 'block'
+      uuid: '5c92478b-749c-4402-9fef-7831f5ee8fad'
+      activationstatus: true
+      created: 2024-11-02T18:15:04.312+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:50:05.884+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:43:49.965+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“We call on all media and press freedom organizations to unite in
         defending the rights of journalists who risk their safety to keep the public
         informed,” it said in a separate post.</p>'
-  'harris-trump-head-to-north-carolina':
-    'author': 'James Oliphant and Nandita Bose, Reuters'
-    'caption': 'From left to right: U.S. Vice President Kamala Harris and former U.S.
+  'START HERE----->harris-trump-head-to-north-carolina':
+    author: 'James Oliphant and Nandita Bose, Reuters'
+    caption: 'From left to right: U.S. Vice President Kamala Harris and former U.S.
       President Donald Trump in separate campaign rallies in Wisconsin ahead of the
       elections next week.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-11-02T18:23:30.000+08:00
-    'imagesource': 'jcr:0d90b0a0-a389-4329-b65f-7ab4a5db0264'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6f6c79f5-d8ae-4af2-9013-e5dc7949c1b6'
-    'lead': 'Democrat Kamala Harris and Republican Donald Trump head to North Carolina
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-11-02T18:23:30.000+08:00
+    imagesource: '0d90b0a0-a389-4329-b65f-7ab4a5db0264'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6f6c79f5-d8ae-4af2-9013-e5dc7949c1b6'
+    lead: 'Democrat Kamala Harris and Republican Donald Trump head to North Carolina
       on Saturday to try to clinch support in the southeastern battleground state
       just three days before Tuesday’s U.S. presidential election.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-11-02T18:26:59.430+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:49:50.686+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:34:23.162+08:00
-    'mgnl:lastModified': 2024-11-02T18:27:31.833+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'Kamala-Harris', 'US-Elections']
-    'stories': []
-    'template': '1'
-    'title': 'Harris, Trump head to North Carolina in US election campaign’s final
+    activationstatus: true
+    created: 2024-11-02T18:26:59.430+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:49:50.686+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:34:23.162+08:00
+    lastmodified: 2024-11-02T18:27:31.833+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Harris, Trump head to North Carolina in US election campaign’s final
       weekend'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1fb621ed-3144-4a42-8ac0-bfbcfccc08ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.465+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.689+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.822+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Wisconsin, U.S. -</strong> Democrat Kamala Harris and Republican
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1fb621ed-3144-4a42-8ac0-bfbcfccc08ad'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.465+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.689+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.822+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Wisconsin, U.S. -</strong> Democrat Kamala Harris and Republican
         Donald Trump head to North Carolina on Saturday to try to clinch support in
         the southeastern battleground state just three days before Tuesday’s U.S.
         presidential election.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c3c11a6-e93c-4689-a6a2-72417b4a1d3b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.466+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.690+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.823+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It will be the fourth day in a row that Vice President Harris and former
+    section1:
+      primarytype: 'block'
+      uuid: '8c3c11a6-e93c-4689-a6a2-72417b4a1d3b'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.466+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.690+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.823+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It will be the fourth day in a row that Vice President Harris and former
         President Trump visit the same state on the same day, underlining the critical
         importance of the seven states likely to decide the race, which opinion polls
         show to be on a knife’s edge.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28ad4d63-ff6f-4df9-8162-6d1e7df43f21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.466+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.690+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.823+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'More than 70 million Americans have already cast ballots, according
+    section2:
+      primarytype: 'block'
+      uuid: '28ad4d63-ff6f-4df9-8162-6d1e7df43f21'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.466+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.690+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.823+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'More than 70 million Americans have already cast ballots, according
         to the Election Lab at the University of Florida, below the record early-voting
         pace in 2020 during COVID-19, but still indicating a high level of voter enthusiasm.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b74a9c83-49fb-45a9-8997-a268892556d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.467+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.691+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.824+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Saturday also marks the last day of early voting in North Carolina,
+    section3:
+      primarytype: 'block'
+      uuid: 'b74a9c83-49fb-45a9-8997-a268892556d4'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.467+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.691+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.824+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Saturday also marks the last day of early voting in North Carolina,
         where over 3.8 million votes have been cast, while the state’s western reaches
         are still recovering from Hurricane Helene’s deadly flooding.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0a3fa57-e4e0-4b8e-8cda-81f502823c7c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.467+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.692+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.824+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Harris plans appearances with rock star Jon Bon Jovi in Charlotte,
+    section4:
+      primarytype: 'block'
+      uuid: 'e0a3fa57-e4e0-4b8e-8cda-81f502823c7c'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.467+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.692+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.824+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Harris plans appearances with rock star Jon Bon Jovi in Charlotte,
         the biggest city in North Carolina, which is tied with Georgia for the second-biggest
         prize of the swing states. Each has 16 votes in the Electoral College, where
         270 are needed to secure the presidency.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fc1bd8b-a85e-44c3-aa28-9523440e428b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.468+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.692+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.825+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Carolina backed Trump in 2020 but elected a Democratic governor
+    section5:
+      primarytype: 'block'
+      uuid: '4fc1bd8b-a85e-44c3-aa28-9523440e428b'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.468+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.692+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.825+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'North Carolina backed Trump in 2020 but elected a Democratic governor
         on the same day, giving hope to both parties.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0cbf09d-b563-4e90-afb9-93915a578711'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.468+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.693+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.825+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We have an opportunity in this election to turn the page on a decade
+    section6:
+      primarytype: 'block'
+      uuid: 'c0cbf09d-b563-4e90-afb9-93915a578711'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.468+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.693+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.825+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We have an opportunity in this election to turn the page on a decade
         of Donald Trump, who has spent full time trying to have the American people
         point fingers at each other," Harris said at a rally in Janesville, Wisconsin,
         on Friday.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e988e0f-9315-4508-9697-be033f1a88de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.468+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.694+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.826+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump will hold a rally in Gastonia, west of Charlotte, at noon (1600
+    section7:
+      primarytype: 'block'
+      uuid: '3e988e0f-9315-4508-9697-be033f1a88de'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.468+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.694+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.826+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump will hold a rally in Gastonia, west of Charlotte, at noon (1600
         GMT) before returning to the state in the evening, where he is due to speak
         at the 22,000-seat First Horizon Coliseum arena in Greensboro.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd322c57-f686-4c33-a5ad-3aa659a43ebf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.469+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.695+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.826+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"This election is a choice between whether we... have four more
+    section8:
+      primarytype: 'block'
+      uuid: 'cd322c57-f686-4c33-a5ad-3aa659a43ebf'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.469+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.695+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.826+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>"This election is a choice between whether we... have four more
         years of gross incompetence and failure, or whether we will begin the four
         greatest years in the history of our country," Trump told a crowd in Michigan
         on Friday.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'debb9763-feed-4a7c-98c6-7e027a4b000a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.469+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.695+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.827+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Policy differences</strong></p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7edf1741-439a-4160-8c74-435e8aa224c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.470+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.696+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.827+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Harris and Trump have very different policies on major issues including
+    section9:
+      primarytype: 'block'
+      uuid: 'debb9763-feed-4a7c-98c6-7e027a4b000a'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.469+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.695+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.827+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Policy differences</strong></p>'
+    section10:
+      primarytype: 'block'
+      uuid: '7edf1741-439a-4160-8c74-435e8aa224c2'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.470+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.696+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.827+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Harris and Trump have very different policies on major issues including
         support for Ukraine and NATO, abortion rights, immigration, taxes, democratic
         principles and tariffs.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10fd9735-eb13-4efa-a630-5b3c934e6298'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.470+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.697+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.828+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Harris and Trump were both in North Carolina on Wednesday, Nevada on
+    section11:
+      primarytype: 'block'
+      uuid: '10fd9735-eb13-4efa-a630-5b3c934e6298'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.470+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.697+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.828+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Harris and Trump were both in North Carolina on Wednesday, Nevada on
         Thursday and Wisconsin on Friday - all battleground states - at one point
         holding events around 7 miles (11 km) from each other.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b698a16-69f7-493d-aa45-80df160f7f3c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.471+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.698+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.828+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It indicates the enormous effort put on persuading a relatively small
+    section12:
+      primarytype: 'block'
+      uuid: '1b698a16-69f7-493d-aa45-80df160f7f3c'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.471+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.698+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.828+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It indicates the enormous effort put on persuading a relatively small
         number of voters in a few states, because the other states are seen as safely
         Democratic or Republican.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd59d9e9-cacb-427b-ad46-b87fbcadd57d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.471+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.698+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.829+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But Trump will also visit Salem, Virginia, on Saturday despite polls
+    section13:
+      primarytype: 'block'
+      uuid: 'dd59d9e9-cacb-427b-ad46-b87fbcadd57d'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.471+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.698+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.829+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But Trump will also visit Salem, Virginia, on Saturday despite polls
         showing a clear lead there for Harris.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59b5012c-83fd-44f0-a473-0ef2e663b507'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.472+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.699+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.829+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Harris will also be in the swing state of Georgia on Saturday, where
+    section14:
+      primarytype: 'block'
+      uuid: '59b5012c-83fd-44f0-a473-0ef2e663b507'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.472+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.699+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.829+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Harris will also be in the swing state of Georgia on Saturday, where
         film director Spike Lee and singer Victoria Monet are due to speak at a rally.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd511d104-d352-4209-a76a-47b8a24143cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.472+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.700+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.830+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Joe Biden, a Democrat, won Georgia by just 0.3 percentage
+    section15:
+      primarytype: 'block'
+      uuid: 'd511d104-d352-4209-a76a-47b8a24143cc'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.472+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.700+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.830+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'President Joe Biden, a Democrat, won Georgia by just 0.3 percentage
         points in 2020, the first time his party had picked up the state since Bill
         Clinton in 1992.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '464af8d8-d601-46b0-b254-17c6d4ca6027'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.473+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.700+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.830+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Democrats will be heavily reliant on Black voters turning out and backing
+    section16:
+      primarytype: 'block'
+      uuid: '464af8d8-d601-46b0-b254-17c6d4ca6027'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.473+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.700+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.830+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Democrats will be heavily reliant on Black voters turning out and backing
         Harris if they want to recreate Biden’s success in a state where Black people
         make up just over 12% of the population.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f4ae3fa-e9be-4dd7-8117-3daf8cbf93b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.473+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.701+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.831+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hispanics, who total nearly 19% of Georgia’s population, are also
+    section17:
+      primarytype: 'block'
+      uuid: '6f4ae3fa-e9be-4dd7-8117-3daf8cbf93b2'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.473+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.701+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.831+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hispanics, who total nearly 19% of Georgia’s population, are also
         being fought over. Trump holds a narrow 1.6 percentage-point lead over Harris
         in the state, according the polling average from FiveThirtyEight.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'efe23ea6-4ecc-4ee8-8432-ab3c75c42f81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.474+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.702+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.831+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Heading into the final stretch, on Monday the Harris campaign plans
+    section18:
+      primarytype: 'block'
+      uuid: 'efe23ea6-4ecc-4ee8-8432-ab3c75c42f81'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.474+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.702+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.831+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Heading into the final stretch, on Monday the Harris campaign plans
         to hold simultaneous interconnected organizing events across all seven battleground
         states to mobilize voters, according to a senior campaign official.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0e86a3da-1378-4a03-9e7e-64f558deb52a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-11-02T18:26:59.475+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:49:50.702+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-11-02T18:27:31.832+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Writing by Costas Pitas; Editing by Scott Malone and William
+    section19:
+      primarytype: 'block'
+      uuid: '0e86a3da-1378-4a03-9e7e-64f558deb52a'
+      activationstatus: true
+      created: 2024-11-02T18:26:59.475+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:49:50.702+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-11-02T18:27:31.832+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Writing by Costas Pitas; Editing by Scott Malone and William
         Mallard)</em></p>'

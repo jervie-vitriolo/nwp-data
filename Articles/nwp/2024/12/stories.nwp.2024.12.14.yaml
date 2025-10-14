@@ -1,1381 +1,1381 @@
-'14':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '1488c1f9-7dee-4dc6-970f-c9b366fa2935'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-12-14T11:24:17.935+08:00
-  'mgnl:createdBy': 'tristan-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:33:37.921+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:04.118+08:00
-  'mgnl:lastModified': 2024-12-14T16:32:40.509+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'south-korea-yoon-second-impeachment':
-    'author': 'Josh Smith, Reuters'
-    'caption': 'People watch a TV screen, broadcasting South Korean President Yoon
+section14:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '1488c1f9-7dee-4dc6-970f-c9b366fa2935'
+  activationstatus: true
+  created: 2024-12-14T11:24:17.935+08:00
+  createdby: 'tristan-nwp'
+  lastactivated: 2025-03-13T12:33:37.921+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:32:04.118+08:00
+  lastmodified: 2024-12-14T16:32:40.509+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->south-korea-yoon-second-impeachment':
+    author: 'Josh Smith, Reuters'
+    caption: 'People watch a TV screen, broadcasting South Korean President Yoon
       Suk Yeol delivering an address to the nation, at a railway station in Seoul,
       South Korea on Dec. 12. (Kim Hong-Ji/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T11:25:19.000+08:00
-    'imagesource': 'jcr:7f1ff31f-5bac-4e3a-ab2a-be25d7a6a718'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ad3a455c-7ffe-4049-ae1b-a07733d0602c'
-    'lead': 'A defiant South Korean President Yoon Suk Yeol faces a second impeachment
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T11:25:19.000+08:00
+    imagesource: '7f1ff31f-5bac-4e3a-ab2a-be25d7a6a718'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ad3a455c-7ffe-4049-ae1b-a07733d0602c'
+    lead: 'A defiant South Korean President Yoon Suk Yeol faces a second impeachment
       vote on Saturday over his short-lived attempt to impose martial law, a move
       that shocked the country, split his party and imperilled his presidency half
       way through his term.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T11:28:17.949+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:08:06.208+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:04.321+08:00
-    'mgnl:lastModified': 2024-12-14T11:34:27.593+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'South Korea’s Yoon faces second impeachment vote over martial law bid'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '009be9be-1d4a-4778-9d6d-7431c08d3b7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.987+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.211+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.578+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><b>Seoul, South Korea —</b> A defiant South Korean President Yoon
+    activationstatus: true
+    created: 2024-12-14T11:28:17.949+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2025-03-13T13:08:06.208+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:04.321+08:00
+    lastmodified: 2024-12-14T11:34:27.593+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea’s Yoon faces second impeachment vote over martial law bid'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '009be9be-1d4a-4778-9d6d-7431c08d3b7d'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.987+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.211+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.578+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><b>Seoul, South Korea —</b> A defiant South Korean President Yoon
         Suk Yeol faces a second impeachment vote on Saturday over his short-lived
         attempt to impose martial law, a move that shocked the country, split his
         party and imperilled his presidency half way through his term.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0ea0b32-6ea6-41c3-95e4-826c938771a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.987+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.213+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.578+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon rescinded his Dec. 3 move to impose military rule barely six hours
+    section1:
+      primarytype: 'block'
+      uuid: 'f0ea0b32-6ea6-41c3-95e4-826c938771a3'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.987+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.213+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.578+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon rescinded his Dec. 3 move to impose military rule barely six hours
         later, after the opposition-controlled parliament defied troops and police
         to vote against the decree. But it plunged the country into a constitutional
         crisis and triggered widespread calls for him to step down on the grounds
         that he had broken the law.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a76cf467-6812-45da-9daf-b0b4a00320bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.987+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.214+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.579+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Opposition parties plan to hold an impeachment vote at 4 p.m. (0700
+    section2:
+      primarytype: 'block'
+      uuid: 'a76cf467-6812-45da-9daf-b0b4a00320bb'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.987+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.214+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.579+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Opposition parties plan to hold an impeachment vote at 4 p.m. (0700
         GMT), with large demonstrations planned ahead of the vote.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '185b738b-c1b3-4f38-b90d-3f91cec849e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.988+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.214+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.579+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon’s conservative People Power Party boycotted the first impeachment
+    section3:
+      primarytype: 'block'
+      uuid: '185b738b-c1b3-4f38-b90d-3f91cec849e8'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.988+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.214+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.579+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon’s conservative People Power Party boycotted the first impeachment
         vote a week earlier, preventing a quorum.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a543c2d-a01e-4cf3-94a1-fd31fd83e07e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.988+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.215+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.580+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Since then, PPP leader Han Dong-hoon has urged party members to vote
+    section4:
+      primarytype: 'block'
+      uuid: '1a543c2d-a01e-4cf3-94a1-fd31fd83e07e'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.988+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.215+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.580+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Since then, PPP leader Han Dong-hoon has urged party members to vote
         for impeachment this time, and at least seven PPP members have said they would
         vote to impeach.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5abfe0cc-0a65-4719-857b-c8a33a395b54'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.989+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.216+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.580+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The opposition parties need at least eight PPP votes to impeach Yoon,
+    section5:
+      primarytype: 'block'
+      uuid: '5abfe0cc-0a65-4719-857b-c8a33a395b54'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.989+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.216+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.580+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The opposition parties need at least eight PPP votes to impeach Yoon,
         as they control 192 of the 300 seats in the single-chamber parliament and
         impeachment requires a two-thirds majority.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7eb46198-5cd7-4b36-9e45-9ac45d26736f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.989+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.217+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.581+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ahn Cheol-soo, a PPP lawmaker backing Yoon’s impeachment, said in
+    section6:
+      primarytype: 'block'
+      uuid: '7eb46198-5cd7-4b36-9e45-9ac45d26736f'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.989+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.217+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.581+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Ahn Cheol-soo, a PPP lawmaker backing Yoon’s impeachment, said in
         a Facebook post on Saturday that he would vote for impeachment "for the sake
         of swift stabilization of people’s livelihood, economy and diplomacy".'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc0f2f57-5160-4951-a406-5f34d0a1e67d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.989+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.219+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.582+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The PPP floor leader said on Friday, however, that the party’s stance
+    section7:
+      primarytype: 'block'
+      uuid: 'cc0f2f57-5160-4951-a406-5f34d0a1e67d'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.989+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.219+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.582+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The PPP floor leader said on Friday, however, that the party’s stance
         remained to oppose impeachment.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f56b14d4-baa3-4150-be29-f1bb07e65bac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.990+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.220+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.582+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'PPP lawmakers were meeting Saturday morning to decide whether to change
+    section8:
+      primarytype: 'block'
+      uuid: 'f56b14d4-baa3-4150-be29-f1bb07e65bac'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.990+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.220+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.582+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'PPP lawmakers were meeting Saturday morning to decide whether to change
         that position.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '287c9032-e789-41aa-8386-569a3cae97d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.990+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.221+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.583+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The main opposition Democratic Party said on Saturday Yoon’s "madness"
+    section9:
+      primarytype: 'block'
+      uuid: '287c9032-e789-41aa-8386-569a3cae97d3'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.990+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.221+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.583+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The main opposition Democratic Party said on Saturday Yoon’s "madness"
         could no longer be tolerated.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'db0a2a6b-2360-4dd2-9cfb-42b4e31dd7b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.991+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.222+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.583+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Refusing impeachment is treason against the people," the party said
+    section10:
+      primarytype: 'block'
+      uuid: 'db0a2a6b-2360-4dd2-9cfb-42b4e31dd7b8'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.991+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.222+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.583+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Refusing impeachment is treason against the people," the party said
         in a statement, asking more from the ruling party to join the impeachment.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a962113-8e64-4832-9ea1-e40f6b19088f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.991+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.584+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>''Fight to end''</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0e0eeef0-65d8-4dbf-9dab-67fd3aba0ad6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.992+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.584+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'If impeached, Yoon would lose authority but remain in office until
+    section11:
+      primarytype: 'block'
+      uuid: '0a962113-8e64-4832-9ea1-e40f6b19088f'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.991+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.584+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>'Fight to end'</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: '0e0eeef0-65d8-4dbf-9dab-67fd3aba0ad6'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.992+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.584+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'If impeached, Yoon would lose authority but remain in office until
         the Constitutional Court either removes or reinstates him. In the meantime,
         Prime Minister Han Duck-soo would serve as acting president.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bd2ee79-4e72-44f5-8213-74abc0e29773'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.992+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.225+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.585+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'If the court removes Yoon or he resigns, a presidential election must
+    section13:
+      primarytype: 'block'
+      uuid: '7bd2ee79-4e72-44f5-8213-74abc0e29773'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.992+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.225+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.585+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'If the court removes Yoon or he resigns, a presidential election must
         be held within 60 days.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78a5dd72-f9fd-4e3b-bfab-7e0c9c40c710'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.993+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.225+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.585+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon is separately under criminal investigation for alleged insurrection
+    section14:
+      primarytype: 'block'
+      uuid: '78a5dd72-f9fd-4e3b-bfab-7e0c9c40c710'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.993+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.225+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.585+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon is separately under criminal investigation for alleged insurrection
         over the martial law declaration and authorities have banned him from travelling
         overseas.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aeff6bff-bc2a-4018-818b-7912e4b5cf5c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.993+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.586+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He has not signalled a willingness to resign and in a speech on Thursday
+    section15:
+      primarytype: 'block'
+      uuid: 'aeff6bff-bc2a-4018-818b-7912e4b5cf5c'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.993+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.586+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He has not signalled a willingness to resign and in a speech on Thursday
         vowed he would "fight to the end", defending his martial law decree as necessary
         to overcome political deadlock and protect the country from domestic politicians
         who he said were undermining democracy.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a086846-6470-4503-a014-4848ed84eab3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.994+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.587+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon, president of Asia’s fourth-largest economy, hopes political
+    section16:
+      primarytype: 'block'
+      uuid: '9a086846-6470-4503-a014-4848ed84eab3'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.994+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.587+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon, president of Asia’s fourth-largest economy, hopes political
         allies will rally to support him, but the fiery remarks appeared to find mixed
         reception among PPP lawmakers.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd15a1d60-0b04-42c7-97ed-c2338fd64f00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.994+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.587+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A Gallup Korea poll on Friday found two-thirds of supporters of Yoon’s
+    section17:
+      primarytype: 'block'
+      uuid: 'd15a1d60-0b04-42c7-97ed-c2338fd64f00'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.994+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.587+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A Gallup Korea poll on Friday found two-thirds of supporters of Yoon’s
         party opposing the impeachment, though three-quarters of all respondents supported
         it.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f7f601d-7c5e-4ebf-ae9a-d9362354630d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.995+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.588+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Protesters calling for Yoon’s impeachment began gathering near the
+    section18:
+      primarytype: 'block'
+      uuid: '2f7f601d-7c5e-4ebf-ae9a-d9362354630d'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.995+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.588+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Protesters calling for Yoon’s impeachment began gathering near the
         parliament on Saturday, while pro-Yoon right-wing rallies at the centre of
         Seoul were due to start early in the afternoon.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e2b1c70-1608-43f3-9ea6-b75a77f1fad6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.995+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.230+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.588+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Some K-pop celebrities have slammed the president and plan to donate
+    section19:
+      primarytype: 'block'
+      uuid: '2e2b1c70-1608-43f3-9ea6-b75a77f1fad6'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.995+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.230+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.588+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Some K-pop celebrities have slammed the president and plan to donate
         food and drinks for those participating in the rally to demand Yoon’s impeachment.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cab0fe28-a7ae-4798-bfea-34b6fc36d415'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.996+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.231+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.589+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'People have been using delivery apps to pre-order food and coffee for
+    section20:
+      primarytype: 'block'
+      uuid: 'cab0fe28-a7ae-4798-bfea-34b6fc36d415'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.996+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.231+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.589+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'People have been using delivery apps to pre-order food and coffee for
         protesters.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce80178a-5e2d-42f6-906b-03efdab2e91d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.996+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.232+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.589+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Elected in 2022, Yoon was widely welcomed in Washington and other Western
+    section21:
+      primarytype: 'block'
+      uuid: 'ce80178a-5e2d-42f6-906b-03efdab2e91d'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.996+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.232+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.589+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Elected in 2022, Yoon was widely welcomed in Washington and other Western
         capitals for his rhetoric defending global democracy and freedom, but critics
         said that masked growing problems at home.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2dcfa40d-49ba-469b-81c8-df27101ad79e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.997+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.233+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.590+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He clashed with opposition lawmakers whom he has labelled as "anti-state
+    section22:
+      primarytype: 'block'
+      uuid: '2dcfa40d-49ba-469b-81c8-df27101ad79e'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.997+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.233+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.590+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He clashed with opposition lawmakers whom he has labelled as "anti-state
         forces", and press freedom organisations have criticised his heavy-handed
         approach to media coverage that he deems negative.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8b82aee-e2c9-44a9-bc84-d8a38c680c2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.998+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.234+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.591+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The crisis and ensuing uncertainty have shaken financial markets and
+    section23:
+      primarytype: 'block'
+      uuid: 'b8b82aee-e2c9-44a9-bc84-d8a38c680c2c'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.998+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.234+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.591+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The crisis and ensuing uncertainty have shaken financial markets and
         threatened to undermine South Korea’s reputation as a stable, democratic
         success story.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c908aa0-fdbf-4322-a96d-8966c07da826'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.998+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.234+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.591+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'South Korean shares rose for a fourth straight session on Friday on
+    section24:
+      primarytype: 'block'
+      uuid: '9c908aa0-fdbf-4322-a96d-8966c07da826'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.998+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.234+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.591+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'South Korean shares rose for a fourth straight session on Friday on
         hopes that the political uncertainty would ease after this weekend’s parliamentary
         impeachment vote.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c9b700b7-de40-4c78-aac5-aa14d2310be7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:28:17.999+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:08:06.235+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:34:27.592+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Josh Smith and Ju-min Park; Additional reporting
+    section25:
+      primarytype: 'block'
+      uuid: 'c9b700b7-de40-4c78-aac5-aa14d2310be7'
+      activationstatus: true
+      created: 2024-12-14T11:28:17.999+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-03-13T13:08:06.235+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:34:27.592+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Josh Smith and Ju-min Park; Additional reporting
         by Hyunsu Yim, Jack Kim; Editing by Sam Holmes and William Mallard)</em></p>'
-  'openai-fires-back-at-elon-musk':
-    'author': 'Mike Scarcella, Reuters'
-    'caption': 'Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of
+  'START HERE----->openai-fires-back-at-elon-musk':
+    author: 'Mike Scarcella, Reuters'
+    caption: 'Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of
       X looks on during the Milken Conference 2024 Global Conference Sessions at The
       Beverly Hilton in Beverly Hills, California, U.S., May 6, 2024. REUTERS/David
       Swanson/File Photo'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T11:28:47.000+08:00
-    'imagesource': 'jcr:a43f5db6-d4b4-429e-addc-839c24023627'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '582700ae-79f1-4f06-b2cb-10395804c400'
-    'lead': 'OpenAI asked a federal judge in California on Friday to reject a request
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T11:28:47.000+08:00
+    imagesource: 'a43f5db6-d4b4-429e-addc-839c24023627'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '582700ae-79f1-4f06-b2cb-10395804c400'
+    lead: 'OpenAI asked a federal judge in California on Friday to reject a request
       by billionaire Elon Musk to halt the ChatGPT maker’s conversion to a for-profit
       company.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T11:39:06.023+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:07:30.156+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:04.552+08:00
-    'mgnl:lastModified': 2024-12-14T11:39:06.071+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['OpenAI', 'Elon-Musk']
-    'stories': []
-    'template': '1'
-    'title': 'OpenAI fires back at Elon Musk bid to block for-profit conversion'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce44c2fe-ee22-4b53-ae84-995a7ecfc54c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.053+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.158+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.065+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters —</strong> OpenAI asked a federal judge in California
+    activationstatus: true
+    created: 2024-12-14T11:39:06.023+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:07:30.156+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:04.552+08:00
+    lastmodified: 2024-12-14T11:39:06.071+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'OpenAI fires back at Elon Musk bid to block for-profit conversion'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'ce44c2fe-ee22-4b53-ae84-995a7ecfc54c'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.053+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.158+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.065+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters —</strong> OpenAI asked a federal judge in California
         on Friday to reject a request by billionaire Elon Musk to halt the ChatGPT
         maker’s conversion to a for-profit company.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '168b7032-2dd3-46b1-9e86-5c258271be47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.054+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.159+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.054+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OpenAI also published a trove of emails and text messages with Musk
+    section1:
+      primarytype: 'block'
+      uuid: '168b7032-2dd3-46b1-9e86-5c258271be47'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.054+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.159+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.054+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OpenAI also published a trove of emails and text messages with Musk
         on its website to argue that he initially backed for-profit status for OpenAI
         before walking away from the company after failing to get a majority equity
         stake and full control.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19d53c38-75dd-4ac7-9ddd-67b631558b95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.054+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.160+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.054+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk, who was an OpenAI cofounder, has since launched a competing artificial
+    section2:
+      primarytype: 'block'
+      uuid: '19d53c38-75dd-4ac7-9ddd-67b631558b95'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.054+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.160+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.054+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Musk, who was an OpenAI cofounder, has since launched a competing artificial
         intelligence company, xAI.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f82bf081-8f2a-4225-9c96-f7b801ac1126'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.054+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.161+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.054+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk sued OpenAI, its CEO Sam Altman and others in August, claiming
+    section3:
+      primarytype: 'block'
+      uuid: 'f82bf081-8f2a-4225-9c96-f7b801ac1126'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.054+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.161+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.054+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Musk sued OpenAI, its CEO Sam Altman and others in August, claiming
         they violated contract provisions by putting profits ahead of the public good
         in the push to advance AI. In November, he asked U.S. District Judge Yvonne
         Gonzalez Rogers in Oakland for a preliminary injunction blocking OpenAI from
         converting to a for-profit structure.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28beb581-7777-46e3-9609-b49784b0cf18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.055+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.162+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.055+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A lawyer for Musk did not immediately respond to a request for comment
+    section4:
+      primarytype: 'block'
+      uuid: '28beb581-7777-46e3-9609-b49784b0cf18'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.055+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.162+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.055+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A lawyer for Musk did not immediately respond to a request for comment
         on Friday.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d6695c6-cf8e-490c-aa1f-09e289508fca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.055+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.162+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.055+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OpenAI’s blog post said Musk "should be competing in the marketplace
+    section5:
+      primarytype: 'block'
+      uuid: '5d6695c6-cf8e-490c-aa1f-09e289508fca'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.055+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.162+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.055+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OpenAI’s blog post said Musk "should be competing in the marketplace
         rather than the courtroom."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a29950c4-93cb-43ec-97c2-7aa01a3e9bcb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.056+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.163+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.056+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk has since added MicrosoftMSFT.O and others as defendants to his
+    section6:
+      primarytype: 'block'
+      uuid: 'a29950c4-93cb-43ec-97c2-7aa01a3e9bcb'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.056+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.163+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.056+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Musk has since added MicrosoftMSFT.O and others as defendants to his
         lawsuit, alleging OpenAI was scheming to sideline rivals and monopolize the
         market for generative artificial intelligence.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d9710b3-911c-4658-a170-d90197a2ece9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.056+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.164+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.056+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OpenAI’s court filing denied any conspiracy to restrain AI market
+    section7:
+      primarytype: 'block'
+      uuid: '3d9710b3-911c-4658-a170-d90197a2ece9'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.056+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.164+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.056+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OpenAI’s court filing denied any conspiracy to restrain AI market
         competition, and it said Musk’s request for a preliminary injunction was
         based on "unsupported allegations."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7d5f6f7-715e-4c6a-9575-6fb22be0cda1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.057+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.165+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.057+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a separate court filing, Microsoft on Friday said it and OpenAI
+    section8:
+      primarytype: 'block'
+      uuid: 'a7d5f6f7-715e-4c6a-9575-6fb22be0cda1'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.057+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.165+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.057+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a separate court filing, Microsoft on Friday said it and OpenAI
         "are independent companies that each pursue their own strategies and compete
         vigorously with each other and many others." Microsoft said its OpenAI partnership
         has "fueled innovation between them and others."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f034c32-3d6a-4bcd-a90f-f73c579ecc4e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.057+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.165+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.057+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OpenAI started as a nonprofit in 2014 and has become the face of generative
+    section9:
+      primarytype: 'block'
+      uuid: '2f034c32-3d6a-4bcd-a90f-f73c579ecc4e'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.057+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.165+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.057+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OpenAI started as a nonprofit in 2014 and has become the face of generative
         AI through billions of dollars in funding from Microsoft. In October, it closed
         a $6.6 billion funding round from investors, which could value the company
         at $157 billion.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a84b390-8b4e-4efe-b553-f145a310b887'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.057+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.166+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.057+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk’s xAI earlier this month said it had raised about $6 billion in
+    section10:
+      primarytype: 'block'
+      uuid: '5a84b390-8b4e-4efe-b553-f145a310b887'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.057+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.166+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.057+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Musk’s xAI earlier this month said it had raised about $6 billion in
         equity financing.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52ef3bf4-0722-4f3d-82b9-250a7faf89f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.058+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.167+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.058+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>OpenAI is working on a plan to restructure its core business into
+    section11:
+      primarytype: 'block'
+      uuid: '52ef3bf4-0722-4f3d-82b9-250a7faf89f0'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.058+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.167+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.058+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>OpenAI is working on a plan to restructure its core business into
         a for-profit benefit corporation. The OpenAI nonprofit would own a minority
         stake in the for-profit company.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e99b0dd1-951f-4ce5-b83b-31ef46ea08d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.058+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.167+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.058+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rogers is scheduled to hear arguments on Musk’s injunction bid on
+    section12:
+      primarytype: 'block'
+      uuid: 'e99b0dd1-951f-4ce5-b83b-31ef46ea08d9'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.058+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.167+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.058+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Rogers is scheduled to hear arguments on Musk’s injunction bid on
         Jan. 14.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe55c3e0-526a-4bc7-b2b4-970c4384a63b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T11:39:06.059+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:30.168+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T11:39:06.059+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Mike Scarcella; Editing by David Bario, Daniel
+    section13:
+      primarytype: 'block'
+      uuid: 'fe55c3e0-526a-4bc7-b2b4-970c4384a63b'
+      activationstatus: true
+      created: 2024-12-14T11:39:06.059+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:30.168+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T11:39:06.059+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Mike Scarcella; Editing by David Bario, Daniel
         Wallis and Bill Berkrot)</em></p>'
-  'holiday-season-travellers':
-    'caption': 'Passengers queue at the Ninoy Aquino International Airport (NewsWatchPlus
+  'START HERE----->holiday-season-travellers':
+    caption: 'Passengers queue at the Ninoy Aquino International Airport (NewsWatchPlus
       File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T12:11:14.000+08:00
-    'imagesource': 'jcr:c06c2872-e492-4bf9-95d6-b9fb50d990fe'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f603f24c-2889-4a58-87ae-8bd09c7efca5'
-    'lead': 'Around 110,000 passengers are expected to travel during the holiday season,
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T12:11:14.000+08:00
+    imagesource: 'c06c2872-e492-4bf9-95d6-b9fb50d990fe'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f603f24c-2889-4a58-87ae-8bd09c7efca5'
+    lead: 'Around 110,000 passengers are expected to travel during the holiday season,
       the Bureau of Immigration said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T12:15:25.637+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:07:10.857+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:04.696+08:00
-    'mgnl:lastModified': 2024-12-14T12:15:25.672+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Christmas']
-    'stories': []
-    'template': '1'
-    'title': 'Over 100,000 travellers seen for the holidays – immigration bureau'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be797dc5-c169-4564-80f0-6093c8f66c59'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.663+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.860+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.669+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Around 110,000 passengers
+    activationstatus: true
+    created: 2024-12-14T12:15:25.637+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:07:10.857+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:04.696+08:00
+    lastmodified: 2024-12-14T12:15:25.672+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Over 100,000 travellers seen for the holidays – immigration bureau'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'be797dc5-c169-4564-80f0-6093c8f66c59'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.663+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.860+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.669+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Around 110,000 passengers
         are expected to travel during the holiday season, the Bureau of Immigration
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15a5174c-98ca-4906-bc45-e126a4ba6f5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.663+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.860+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.663+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a press release, Immigration commissioner Joel Anthony Viado said
+    section1:
+      primarytype: 'block'
+      uuid: '15a5174c-98ca-4906-bc45-e126a4ba6f5d'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.663+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.860+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.663+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a press release, Immigration commissioner Joel Anthony Viado said
         their projections show that passenger tally may exceed pre-pandemic numbers.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df73b10e-0b47-4c39-aa9f-0a9a70ce1355'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.664+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.861+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.664+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Viado said Christmas weekend arrivals averaged 53,000, while departures
+    section2:
+      primarytype: 'block'
+      uuid: 'df73b10e-0b47-4c39-aa9f-0a9a70ce1355'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.664+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.861+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.664+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Viado said Christmas weekend arrivals averaged 53,000, while departures
         were reported at 43,000.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c2c7f4e-a14c-4902-9907-2bf192b0d550'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.664+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.862+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.664+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Prior to the pandemic in 2020, the immigration recorded daily arrivals
+    section3:
+      primarytype: 'block'
+      uuid: '6c2c7f4e-a14c-4902-9907-2bf192b0d550'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.664+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.862+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.664+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Prior to the pandemic in 2020, the immigration recorded daily arrivals
         at 55,000, with reported departures at 47,000.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2363d418-1f42-4237-afcf-76410580f0ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.664+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.862+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.664+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bureau assured travelers of smooth operations during the holidays.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e243cb4b-6ae6-4470-bed5-d20cc989a62f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.665+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.863+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.665+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“We have ramped up our operations at major international airports,
+    section4:
+      primarytype: 'block'
+      uuid: '2363d418-1f42-4237-afcf-76410580f0ee'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.664+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.862+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.664+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The bureau assured travelers of smooth operations during the holidays.'
+    section5:
+      primarytype: 'block'
+      uuid: 'e243cb4b-6ae6-4470-bed5-d20cc989a62f'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.665+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.863+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.665+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“We have ramped up our operations at major international airports,
         with additional personnel to maintain a smooth flow of passengers,” said Viado.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5daf35d6-1346-47ff-af18-6b54306a8bb0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:15:25.665+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:07:10.863+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:15:25.665+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Rapid response teams and mobile counters were also activated to
+    section6:
+      primarytype: 'block'
+      uuid: '5daf35d6-1346-47ff-af18-6b54306a8bb0'
+      activationstatus: true
+      created: 2024-12-14T12:15:25.665+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:07:10.863+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:15:25.665+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Rapid response teams and mobile counters were also activated to
         ensure efficient processing during the peak season, he said.</p>'
-  'us-court-tiktok-request-to-temporarily-halt-':
-    'author': 'David Shepardson and Kanishka Singh, Reuters'
-    'caption': 'Logo of short-form video app TikTok (Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T12:45:43.000+08:00
-    'imagesource': 'jcr:1edb0fb7-70c7-4ff0-88d1-7460aea3bea0'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '24865169-eead-471f-a2d2-32662eba14aa'
-    'lead': 'TikTok must now move quickly with a request to the Supreme Court to block
+  'START HERE----->us-court-tiktok-request-to-temporarily-halt-':
+    author: 'David Shepardson and Kanishka Singh, Reuters'
+    caption: 'Logo of short-form video app TikTok (Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T12:45:43.000+08:00
+    imagesource: '1edb0fb7-70c7-4ff0-88d1-7460aea3bea0'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '24865169-eead-471f-a2d2-32662eba14aa'
+    lead: 'TikTok must now move quickly with a request to the Supreme Court to block
       or overturn a law that would require its Chinese parent ByteDance to divest
       of the short-video app by Jan. 19 after an appeals court on Friday rejected
       a bid for more time.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T12:49:55.686+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:06:59.558+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:04.845+08:00
-    'mgnl:lastModified': 2024-12-14T12:49:55.727+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['TikTok']
-    'stories': []
-    'template': '1'
-    'title': 'US court rejects TikTok request to temporarily halt pending US ban'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '031aa8cf-d66a-4913-8705-6f626c751eaf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.709+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.560+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.721+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S. -</strong> TikTok must now move quickly
+    activationstatus: true
+    created: 2024-12-14T12:49:55.686+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:06:59.558+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:04.845+08:00
+    lastmodified: 2024-12-14T12:49:55.727+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US court rejects TikTok request to temporarily halt pending US ban'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '031aa8cf-d66a-4913-8705-6f626c751eaf'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.709+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.560+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.721+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S. -</strong> TikTok must now move quickly
         with a request to the Supreme Court to block or overturn a law that would
         require its Chinese parent ByteDance to divest of the short-video app by Jan.
         19 after an appeals court on Friday rejected a bid for more time.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecccf754-5c6d-40f1-b7f6-a1e0d5bac195'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.710+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.561+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.710+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>TikTok and ByteDance on Monday had filed the emergency motion with
+    section1:
+      primarytype: 'block'
+      uuid: 'ecccf754-5c6d-40f1-b7f6-a1e0d5bac195'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.710+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.561+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.710+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>TikTok and ByteDance on Monday had filed the emergency motion with
         the U.S. Court of Appeals for the District of Columbia, asking for more time
         to make their case to the U.S. Supreme Court.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd1e7c31-191b-4cdb-9956-bdc077645550'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.710+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.561+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.710+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The companies had warned that without court action, the law will "shut
+    section2:
+      primarytype: 'block'
+      uuid: 'cd1e7c31-191b-4cdb-9956-bdc077645550'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.710+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.561+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.710+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The companies had warned that without court action, the law will "shut
         down TikTok — one of the nation’s most popular speech platforms — for its
         more than 170 million domestic monthly users."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b14d340-5fc3-4b61-8719-7e674eeb79a7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.562+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But the court rejected the bid, saying TikTok and ByteDance had not
+    section3:
+      primarytype: 'block'
+      uuid: '5b14d340-5fc3-4b61-8719-7e674eeb79a7'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.562+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But the court rejected the bid, saying TikTok and ByteDance had not
         identified a previous case"in which a court, after rejecting a constitutional
         challenge to an Act of Congress, has enjoined the Act from going into effect
         while review is sought in the Supreme Court," Friday’s unanimous court order
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '859ac215-3d99-4e52-81e8-cdb6cc3ab489'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.563+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A TikTok spokesperson said after the ruling that the company plans
+    section4:
+      primarytype: 'block'
+      uuid: '859ac215-3d99-4e52-81e8-cdb6cc3ab489'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.563+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A TikTok spokesperson said after the ruling that the company plans
         to take its case to the Supreme Court, "which has an established historical
-        record of protecting Americans'' right to free speech."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a33b4f9-63a7-48ba-a93d-ff0cfc0ec6c3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.563+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under the law, TikTok will be banned unless ByteDance divests it by
+        record of protecting Americans' right to free speech."'
+    section5:
+      primarytype: 'block'
+      uuid: '3a33b4f9-63a7-48ba-a93d-ff0cfc0ec6c3'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.563+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Under the law, TikTok will be banned unless ByteDance divests it by
         Jan. 19. The law also gives the U.S. government sweeping powers to ban other
-        foreign-owned apps that could raise concerns about collection of Americans''
+        foreign-owned apps that could raise concerns about collection of Americans'
         data.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ae23253-f9d2-417a-ab20-39b9a0473a75'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.712+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.564+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.712+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. Justice Department argues "continued Chinese control of the
+    section6:
+      primarytype: 'block'
+      uuid: '0ae23253-f9d2-417a-ab20-39b9a0473a75'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.712+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.564+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.712+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. Justice Department argues "continued Chinese control of the
         TikTok application poses a continuing threat to national security."'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e6767d5-e7e2-41ab-8e96-d62b9b225a27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.712+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.565+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.712+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok says the Justice Department has misstated the social media app’s
+    section7:
+      primarytype: 'block'
+      uuid: '9e6767d5-e7e2-41ab-8e96-d62b9b225a27'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.712+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.565+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.712+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok says the Justice Department has misstated the social media app’s
         ties to China, arguing its content recommendation engine and user data are
         stored in the U.S. on cloud servers operated by Oracle ORCL.N while content
         moderation decisions that affect U.S. users are made in the United States.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '54b119df-8fb4-4a42-97b9-faa6df4f1b79'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.713+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.565+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The decision - unless the Supreme Court reverses it - puts TikTok’s
+    section8:
+      primarytype: 'block'
+      uuid: '54b119df-8fb4-4a42-97b9-faa6df4f1b79'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.713+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.565+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The decision - unless the Supreme Court reverses it - puts TikTok’s
         fate first in the hands of Democratic President Joe Biden on whether to grant
         a 90-day extension of the Jan. 19 deadline to force a sale, and then of Republican
         President-elect Donald Trump, who takes office on Jan. 20.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2131bd70-79e2-4cc2-a122-98bfe61068f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.713+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.566+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump, who unsuccessfully tried to ban TikTok during his first term
+    section9:
+      primarytype: 'block'
+      uuid: '2131bd70-79e2-4cc2-a122-98bfe61068f8'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.713+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.566+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump, who unsuccessfully tried to ban TikTok during his first term
         in 2020, said before the November presidential election he would not allow
         the ban on TikTok.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7476c8b4-c6c8-4a75-8e1d-f48807ff6661'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.714+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.566+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.714+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Also on Friday, the chair and top Democrat on a U.S. House of Representatives
+    section10:
+      primarytype: 'block'
+      uuid: '7476c8b4-c6c8-4a75-8e1d-f48807ff6661'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.714+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.566+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.714+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Also on Friday, the chair and top Democrat on a U.S. House of Representatives
         committee on China told the CEOs of Google-parent AlphabetGOOGL.Oand AppleAAPL.
         Other must be ready to remove TikTok from their U.S. app stores on Jan. 19.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ede55db-2195-4990-ba4b-162f4b155da6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:49:55.714+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:59.567+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:49:55.714+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by David Shepardson and Kanishka Singh in Washington;
+    section11:
+      primarytype: 'block'
+      uuid: '2ede55db-2195-4990-ba4b-162f4b155da6'
+      activationstatus: true
+      created: 2024-12-14T12:49:55.714+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:59.567+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:49:55.714+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by David Shepardson and Kanishka Singh in Washington;
         editing by Chris Sanders, David Gregorio and Diane Craft)</em></p>'
-  'amihan-shear-line-dumping-saturday-rains':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T12:53:50.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f625bc6f-1c1b-4e8d-a5c2-88ef20e61034'
-    'lead': 'Two weather systems are triggering rains in some parts of the country,
+  'START HERE----->amihan-shear-line-dumping-saturday-rains':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T12:53:50.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f625bc6f-1c1b-4e8d-a5c2-88ef20e61034'
+    lead: 'Two weather systems are triggering rains in some parts of the country,
       the Philippine Atmospheric, Geophysical and Astronomical Services Administration
       (PAGASA) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T12:56:22.549+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:06:42.468+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:05.020+08:00
-    'mgnl:lastModified': 2024-12-14T12:58:02.056+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PAGASA', 'Amihan']
-    'stories': []
-    'template': '1'
-    'title': 'Amihan, shear line dumping rains in parts of PH - PAGASA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73aa39a8-048c-483d-81ae-55d3d3fcc651'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.575+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.470+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.052+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Two weather systems
+    activationstatus: true
+    created: 2024-12-14T12:56:22.549+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:06:42.468+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:05.020+08:00
+    lastmodified: 2024-12-14T12:58:02.056+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Amihan, shear line dumping rains in parts of PH - PAGASA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '73aa39a8-048c-483d-81ae-55d3d3fcc651'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.575+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.470+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.052+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Two weather systems
         are triggering rains in some parts of the country, the Philippine Atmospheric,
         Geophysical and Astronomical Services Administration (PAGASA) said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c3d7d1d-85f3-4ce1-a9a2-9db349cf31d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.575+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.471+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.052+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The weather bureau said the shear line is dumping scattered rains and
+    section1:
+      primarytype: 'block'
+      uuid: '9c3d7d1d-85f3-4ce1-a9a2-9db349cf31d3'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.575+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.471+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.052+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The weather bureau said the shear line is dumping scattered rains and
         isolated thunderstorms over the Bicol region and Quezon.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19e23501-c496-46de-ac07-11a61a131c8e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.576+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.472+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.053+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Forecasters warned of possible flooding and landslides during moderate
+    section2:
+      primarytype: 'block'
+      uuid: '19e23501-c496-46de-ac07-11a61a131c8e'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.576+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.472+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.053+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Forecasters warned of possible flooding and landslides during moderate
         to heavy rains.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '594d3724-cb0d-42c7-8b0c-68a3026398de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.576+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.473+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.053+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Up north, cloudy skies and rains may persist over Cagayan Valley, Apayao,
+    section3:
+      primarytype: 'block'
+      uuid: '594d3724-cb0d-42c7-8b0c-68a3026398de'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.576+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.473+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.053+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Up north, cloudy skies and rains may persist over Cagayan Valley, Apayao,
         Kalinga, Mountain province, Ifugao, and Aurora due to the northeast monsoon,
         locally known as amihan.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f4ee896-018a-4a93-8653-3656a2d6da05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.576+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.473+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.054+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'PAGASA said it is also monitoring cloud clusters outside the Philippine
+    section4:
+      primarytype: 'block'
+      uuid: '8f4ee896-018a-4a93-8653-3656a2d6da05'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.576+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.473+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.054+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'PAGASA said it is also monitoring cloud clusters outside the Philippine
         Area of Responsibility, east of Mindanao.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7eeaf8ae-0bda-48ff-bfbc-236e28cea92b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T12:56:22.577+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:42.474+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T12:58:02.054+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, Metro Manila and the rest of the country may expect fair
+    section5:
+      primarytype: 'block'
+      uuid: '7eeaf8ae-0bda-48ff-bfbc-236e28cea92b'
+      activationstatus: true
+      created: 2024-12-14T12:56:22.577+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:42.474+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T12:58:02.054+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, Metro Manila and the rest of the country may expect fair
         weather with chances of isolated rains.</p>'
-  'philhealth-christmas-party-spending-claims':
-    'caption': 'Photo shows signage of PhilHealth logo. (File photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T15:31:54.000+08:00
-    'imagesource': 'jcr:7b546e04-92f8-4e72-a25a-4ded85c3ccfa'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '78509dd7-7d3d-4893-b4c4-cdcc84b8dd29'
-    'lead': 'The Philippine Health Insurance (PhilHealth) Corporation denied that
+  'START HERE----->philhealth-christmas-party-spending-claims':
+    caption: 'Photo shows signage of PhilHealth logo. (File photo)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T15:31:54.000+08:00
+    imagesource: '7b546e04-92f8-4e72-a25a-4ded85c3ccfa'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '78509dd7-7d3d-4893-b4c4-cdcc84b8dd29'
+    lead: 'The Philippine Health Insurance (PhilHealth) Corporation denied that
       it allocated P138 million for its Christmas party, following claims from a former
       health official of excessive spending for the occasion.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T15:37:06.349+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:06:31.933+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:05.150+08:00
-    'mgnl:lastModified': 2024-12-14T15:37:06.394+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PhilHealth', 'Tony-Leachon']
-    'stories': []
-    'template': '1'
-    'title': 'P138M for 2025 anniversary not for Christmas party- PhilHealth'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '33cc3305-3633-41de-a7be-7b6052e802f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.380+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.936+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.389+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Philippine Health
+    activationstatus: true
+    created: 2024-12-14T15:37:06.349+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:06:31.933+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:05.150+08:00
+    lastmodified: 2024-12-14T15:37:06.394+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'P138M for 2025 anniversary not for Christmas party- PhilHealth'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '33cc3305-3633-41de-a7be-7b6052e802f1'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.380+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.936+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.389+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Philippine Health
         Insurance (PhilHealth) Corporation denied that it allocated P138 million for
         its Christmas party, following claims from a former health official of excessive
         spending for the occasion.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc932386-fe5e-47cb-8c01-cf928da6a15f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.380+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.937+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.380+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement, the state health insurer said the breakdown of expenses
+    section1:
+      primarytype: 'block'
+      uuid: 'fc932386-fe5e-47cb-8c01-cf928da6a15f'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.380+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.937+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.380+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a statement, the state health insurer said the breakdown of expenses
         posted by Tony Leachon, ex-health special adviser for non-communicable diseases,
         are intended for their 30th celebration in 2025. The list includes budget
         allocations for coffee table books, special tokens, and building displays,
         among others.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a75d7df2-cab6-4fd9-992a-485c4d2d1a7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.381+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.938+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.381+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PhilHealth said the funds, which are not yet final, will be spent
+    section2:
+      primarytype: 'block'
+      uuid: 'a75d7df2-cab6-4fd9-992a-485c4d2d1a7d'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.381+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.938+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.381+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>PhilHealth said the funds, which are not yet final, will be spent
         for year-round activities nationwide.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34660f62-d674-4a58-969e-33ebdb259597'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.381+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.938+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.381+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The approved activities are reasonable, budgeted following existing
+    section3:
+      primarytype: 'block'
+      uuid: '34660f62-d674-4a58-969e-33ebdb259597'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.381+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.938+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.381+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The approved activities are reasonable, budgeted following existing
         limits set by the Government, and will be procured under RA 9184. These activities
         aim to mount a meaningful observance of this milestone year, and will be leveraged
         to further engage our members and stakeholders to drum up interest and awareness
         on the many reforms that the Corporation is pursuing especially on the enhancement
         of the benefit packages as envisioned in the Universal Health Care law,” it
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7066483c-1d69-43cb-9466-e37d91125724'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.382+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.939+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.382+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Leachon earlier accused the health insurer of abusing public funds
+    section4:
+      primarytype: 'block'
+      uuid: '7066483c-1d69-43cb-9466-e37d91125724'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.382+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.939+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.382+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Leachon earlier accused the health insurer of abusing public funds
         and disobeying the president’s order to scale down Christmas party celebrations.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b38ea56-bb2a-4081-9f26-a40b28d817a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.382+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.940+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.382+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'PhilHealth said it is complying with the directive, saying it “ordered
+    section5:
+      primarytype: 'block'
+      uuid: '5b38ea56-bb2a-4081-9f26-a40b28d817a3'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.382+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.940+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.382+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'PhilHealth said it is complying with the directive, saying it “ordered
         all offices including regional offices to observe austerity measures in the
         conduct of such activities.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4aa8edc3-89aa-48e3-a801-4f671bd2541b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.383+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.940+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.383+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The committee has ordered the cancellation of some activities and
+    section6:
+      primarytype: 'block'
+      uuid: '4aa8edc3-89aa-48e3-a801-4f671bd2541b'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.383+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.940+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.383+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The committee has ordered the cancellation of some activities and
         the donation of savings generated to communities severely affected by the
         recent typhoons,” the health insurer said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78385074-bf79-48d3-8f25-4d4d953cdb49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.383+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.941+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.383+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Responding to PhilHealth’s statement, Leachon said the “staggering”
+    section7:
+      primarytype: 'block'
+      uuid: '78385074-bf79-48d3-8f25-4d4d953cdb49'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.383+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.941+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.383+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Responding to PhilHealth’s statement, Leachon said the “staggering”
         amount - whether it was for a Christmas party or for an anniversary celebration,
         is tone-deaf.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '321e8b6f-887a-4207-b927-301a5558739f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.384+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.384+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“While milestones deserve recognition, these celebrations must take
+    section8:
+      primarytype: 'block'
+      uuid: '321e8b6f-887a-4207-b927-301a5558739f'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.384+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.384+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“While milestones deserve recognition, these celebrations must take
         a backseat to the greater good of the Filipino people. Is it truly necessary
         to spend millions on events when those funds could be redirected to members
         who desperately and agonizingly wait in long queues for life-saving treatments?”
         he asked.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d07f0e1-dabd-43d8-9870-87dee0bd2962'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.384+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.384+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Early this week, the embattled health insurer was <strong><a href="https://www.newswatchplus.ph/news/2024/12/11/No-PhilHealth-subsidy-2025.html">denied</a></strong>
+    section9:
+      primarytype: 'block'
+      uuid: '2d07f0e1-dabd-43d8-9870-87dee0bd2962'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.384+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.384+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Early this week, the embattled health insurer was <strong><a href="https://www.newswatchplus.ph/news/2024/12/11/No-PhilHealth-subsidy-2025.html">denied</a></strong>
         its request for a subsidy in 2025, a decision some lawmakers argue may be
         unconstitutional.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24d09259-25de-434f-997b-2ac842a6ddc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T15:37:06.385+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:31.943+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T15:37:06.385+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PhilHealth has previously drawn public outrage for declaring ₱89.9
+    section10:
+      primarytype: 'block'
+      uuid: '24d09259-25de-434f-997b-2ac842a6ddc3'
+      activationstatus: true
+      created: 2024-12-14T15:37:06.385+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:31.943+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T15:37:06.385+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>PhilHealth has previously drawn public outrage for declaring ₱89.9
         billion of its funds as excess, allowing the Finance Department to have it
         reverted to the Treasury. The Supreme Court issued a temporary restraining
         order against the transfer of the remaining nearly ₱30 billion.</p>'
-  'sokor-president-impeached':
-    'author': 'Josh Smith and Ju-min Park, Reuters'
-    'caption': 'A person passes by placards with images of South Korean President
+  'START HERE----->sokor-president-impeached':
+    author: 'Josh Smith and Ju-min Park, Reuters'
+    caption: 'A person passes by placards with images of South Korean President
       Yoon Suk Yeol on the day of a rally calling for the impeachment of South Korean
       President Yoon Suk Yeol, who declared martial law, which was reversed hours
       later, near the National Assembly, in Seoul, South Korea, Dec. 9. (Kim Kyung-Hoon,
       Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-14T16:32:40.000+08:00
-    'imagesource': 'jcr:4fbfaedc-5244-4c9d-80f6-ea540d5beff6'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3ef1fe22-42a7-4fcc-8e98-70a8cf8c406d'
-    'lead': 'South Korea’s opposition-led parliament impeached President Yoon Suk
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-14T16:32:40.000+08:00
+    imagesource: '4fbfaedc-5244-4c9d-80f6-ea540d5beff6'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '3ef1fe22-42a7-4fcc-8e98-70a8cf8c406d'
+    lead: 'South Korea’s opposition-led parliament impeached President Yoon Suk
       Yeol on Saturday, voting to suspend him from his official duties over his short-lived
       attempt last week to impose martial law.Under the constitution Prime Minister
       Han Duck-soo, who was appointed by Yoon, becomes acting president.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-14T16:34:47.123+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:06:15.904+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:05.281+08:00
-    'mgnl:lastModified': 2024-12-14T16:34:47.170+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Yoon-Suk-Yeol']
-    'stories': []
-    'template': '1'
-    'title': 'South Korea lawmakers vote to impeach President Yoon over martial law
+    activationstatus: true
+    created: 2024-12-14T16:34:47.123+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:06:15.904+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:05.281+08:00
+    lastmodified: 2024-12-14T16:34:47.170+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea lawmakers vote to impeach President Yoon over martial law
       bid'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '984ddd79-2b60-4415-8958-2193d326eff8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.158+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.907+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.166+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Seoul, South Korea -</strong> South Korea’s opposition-led
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '984ddd79-2b60-4415-8958-2193d326eff8'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.158+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.907+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.166+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Seoul, South Korea -</strong> South Korea’s opposition-led
         parliament impeached President Yoon Suk Yeol on Saturday, voting to suspend
         him from his official duties over his short-lived attempt last week to impose
         martial law.Under the constitution Prime Minister Han Duck-soo, who was appointed
         by Yoon, becomes acting president.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36fe5130-1ee9-419a-8225-7ebee7104ed8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.158+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.908+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.158+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon is the second conservative president in a row to be impeached
+    section1:
+      primarytype: 'block'
+      uuid: '36fe5130-1ee9-419a-8225-7ebee7104ed8'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.158+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.908+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.158+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon is the second conservative president in a row to be impeached
         in South Korea. Park Geun-hye was removed from office in 2017.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19bdc601-46f5-4136-b1af-eec1bd53d9f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.159+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.908+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.159+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The motion was carried after some members of Yoon’s People Power Party
+    section2:
+      primarytype: 'block'
+      uuid: '19bdc601-46f5-4136-b1af-eec1bd53d9f7'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.159+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.908+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.159+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The motion was carried after some members of Yoon’s People Power Party
         joined the opposition parties, which control 192 seats in the 300-member national
         assembly, clearing the two-thirds threshold needed for impeachment.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c02e9cbb-5241-434a-8216-49c1e288c716'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.159+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.909+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.159+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The number of lawmakers supporting impeachment was 204, with 85 against,
+    section3:
+      primarytype: 'block'
+      uuid: 'c02e9cbb-5241-434a-8216-49c1e288c716'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.159+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.909+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.159+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The number of lawmakers supporting impeachment was 204, with 85 against,
         three abstentions and eight invalid ballots.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b084e36-beb0-4b34-84b8-8f16503d20e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.159+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.910+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.159+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Although suspended, Yoon remains in office. The Constitutional Court
+    section4:
+      primarytype: 'block'
+      uuid: '6b084e36-beb0-4b34-84b8-8f16503d20e4'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.159+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.910+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.159+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Although suspended, Yoon remains in office. The Constitutional Court
         will decide whether to remove him sometime in the next six months.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4020c5e2-e526-4d87-8a51-036af8c8fe93'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.160+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.910+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.160+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'If Yoon is removed from office, a snap election will be called.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1667902b-bf7e-442a-b50d-d25a623c89a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.160+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.911+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.160+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon shocked the nation late on Dec. 3 when he gave the military sweeping
+    section5:
+      primarytype: 'block'
+      uuid: '4020c5e2-e526-4d87-8a51-036af8c8fe93'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.160+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.910+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.160+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'If Yoon is removed from office, a snap election will be called.'
+    section6:
+      primarytype: 'block'
+      uuid: '1667902b-bf7e-442a-b50d-d25a623c89a6'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.160+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.911+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.160+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon shocked the nation late on Dec. 3 when he gave the military sweeping
         emergency powers in order to root out what he called "anti-state forces" and
         overcome obstructionist political opponents.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0181423-d9f7-4487-ad00-8e455a435a22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.161+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.911+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.161+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He later apologized to the nation but also defended his decision
+    section7:
+      primarytype: 'block'
+      uuid: 'd0181423-d9f7-4487-ad00-8e455a435a22'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.161+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.911+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.161+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>He later apologized to the nation but also defended his decision
         and resisted calls to resign ahead of the vote.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08a321b3-ab86-4c89-8e0c-1895d84d9410'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-14T16:34:47.161+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:06:15.912+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-14T16:34:47.161+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Josh Smith and Ju-min Park; Additional reporting
+    section8:
+      primarytype: 'block'
+      uuid: '08a321b3-ab86-4c89-8e0c-1895d84d9410'
+      activationstatus: true
+      created: 2024-12-14T16:34:47.161+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:06:15.912+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-14T16:34:47.161+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Josh Smith and Ju-min Park; Additional reporting
         by Hyunsu Yim, Jack Kim; Editing by William Mallard and Ed Davies)</em></p>'

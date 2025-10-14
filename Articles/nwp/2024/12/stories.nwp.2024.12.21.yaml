@@ -1,1696 +1,1696 @@
-'21':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'e83529a9-8eca-4772-bd92-4d11ed7007b2'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-12-21T09:48:15.925+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:33:24.156+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:30.217+08:00
-  'mgnl:lastModified': 2024-12-21T19:20:52.325+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'german-christmas-market-tragedy':
-    'author': 'Andrey Sychev and Tanya Wood, Reuters'
-    'caption': 'Emergency personnel work at a Christmas market after a car drove into
+section21:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'e83529a9-8eca-4772-bd92-4d11ed7007b2'
+  activationstatus: true
+  created: 2024-12-21T09:48:15.925+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-03-13T12:33:24.156+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:32:30.217+08:00
+  lastmodified: 2024-12-21T19:20:52.325+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->german-christmas-market-tragedy':
+    author: 'Andrey Sychev and Tanya Wood, Reuters'
+    caption: 'Emergency personnel work at a Christmas market after a car drove into
       a group of people, according to local media, in Magdeburg, Germany, December
       20, 2024. REUTERS/Axel Schmidt TPX IMAGES OF THE DAY'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T09:48:16.000+08:00
-    'imagesource': 'jcr:22aaaa55-9252-4834-952e-19d5470fafa8'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a596fa13-0a68-4699-88f4-e0b3d20a5280'
-    'lead': 'A driver rammed a car into a large crowd of revellers at a Christmas
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T09:48:16.000+08:00
+    imagesource: '22aaaa55-9252-4834-952e-19d5470fafa8'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a596fa13-0a68-4699-88f4-e0b3d20a5280'
+    lead: 'A driver rammed a car into a large crowd of revellers at a Christmas
       market in central Germany on Friday evening, killing at least two people and
       injuring more than 60 before he was arrested, authorities said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T09:50:20.434+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:08.474+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:30.460+08:00
-    'mgnl:lastModified': 2024-12-21T09:51:29.701+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Germany']
-    'stories': []
-    'template': '1'
-    'title': 'Driver kills at least two after ramming into crowd at German Christmas
+    activationstatus: true
+    created: 2024-12-21T09:50:20.434+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:08.474+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:32:30.460+08:00
+    lastmodified: 2024-12-21T09:51:29.701+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Driver kills at least two after ramming into crowd at German Christmas
       market'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15c08aa7-21d3-475e-9d7a-95c98415427b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.478+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.690+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters -</strong> A driver rammed a car into a large crowd
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '15c08aa7-21d3-475e-9d7a-95c98415427b'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.478+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.690+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters -</strong> A driver rammed a car into a large crowd
         of revellers at a Christmas market in central Germany on Friday evening, killing
         at least two people and injuring more than 60 before he was arrested, authorities
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '648eec4f-455e-404d-9d18-d6e56e640c3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.478+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.691+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'One of the dead was a young child, said Reiner Haseloff, premier of
+    section1:
+      primarytype: 'block'
+      uuid: '648eec4f-455e-404d-9d18-d6e56e640c3f'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.478+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.691+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'One of the dead was a young child, said Reiner Haseloff, premier of
         the state of Saxony-Anhalt. The incident took place in Magdeburg, the state
         capital, which is 150 kilometres (93 miles) west of Berlin.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '296aa46d-b6a2-48c9-9fbb-1859385ad2d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.479+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.691+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"It is a catastrophe for the city of Magdeburg, for the state and for
+    section2:
+      primarytype: 'block'
+      uuid: '296aa46d-b6a2-48c9-9fbb-1859385ad2d7'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.479+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.691+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"It is a catastrophe for the city of Magdeburg, for the state and for
         Germany in general," Haseloff said, adding that the death toll could rise
         given the severity of some of the injuries.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc4e2493-2ea8-43aa-9f5f-ecf78f77e551'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.548+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.480+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.692+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Haseloff described the attacker as a 50-year-old male doctor from Saudi
+    section3:
+      primarytype: 'block'
+      uuid: 'dc4e2493-2ea8-43aa-9f5f-ecf78f77e551'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.548+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.480+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.692+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Haseloff described the attacker as a 50-year-old male doctor from Saudi
         Arabia with permanent residency in Germany, where he had lived for almost
         two decades.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89e448bf-c81e-477d-b018-b744836c8f9d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.548+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.480+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.692+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"As things stand at the moment, we are talking about a lone offender,
+    section4:
+      primarytype: 'block'
+      uuid: '89e448bf-c81e-477d-b018-b744836c8f9d'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.548+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.480+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.692+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"As things stand at the moment, we are talking about a lone offender,
         which means that there is no further danger to the city because we were able
         to arrest him."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d5d34ae-6235-4ee3-b7d3-f61f44524de8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.549+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.481+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.693+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The motive was unclear. The suspect was not known to German authorities
+    section5:
+      primarytype: 'block'
+      uuid: '2d5d34ae-6235-4ee3-b7d3-f61f44524de8'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.549+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.481+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.693+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The motive was unclear. The suspect was not known to German authorities
         as an Islamist, according to local broadcaster MDR.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ab507381-517a-407f-8567-d6e5920c25f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.549+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.482+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.693+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Saudi Arabia’s foreign ministry condemned the attack.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98cc2c3b-9622-46b8-9005-22fb031f3b20'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.549+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.482+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.694+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Following the incident, police cleared an area surrounding the vehicle
+    section6:
+      primarytype: 'block'
+      uuid: 'ab507381-517a-407f-8567-d6e5920c25f4'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.549+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.482+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.693+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Saudi Arabia’s foreign ministry condemned the attack.'
+    section7:
+      primarytype: 'block'
+      uuid: '98cc2c3b-9622-46b8-9005-22fb031f3b20'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.549+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.482+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.694+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Following the incident, police cleared an area surrounding the vehicle
         to investigate a possible explosive device, local broadcaster MDR reported.
         It later cited police as saying that no such device had been found.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '328b9254-1466-4c2d-8c6b-eae2b3660f56'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.550+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.483+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.694+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A police operation was also under way in the town of Bernburg, south
+    section8:
+      primarytype: 'block'
+      uuid: '328b9254-1466-4c2d-8c6b-eae2b3660f56'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.550+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.483+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.694+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A police operation was also under way in the town of Bernburg, south
         of Magdeburg, where the suspect is believed to have lived, local newspaper
         Mitteldeutsche Zeitung reported.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c397d4a-99bf-4d76-bfec-22c5e15c5e61'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.550+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.484+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.695+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Police were not immediately available to comment on the reports of
+    section9:
+      primarytype: 'block'
+      uuid: '6c397d4a-99bf-4d76-bfec-22c5e15c5e61'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.550+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.484+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.695+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Police were not immediately available to comment on the reports of
         a suspicious item or the operation in Bernburg.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c50722a-10ba-49a9-8d69-85a723057a0d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.551+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.485+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.695+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'German Chancellor Olaf Scholz, who sent his thoughts to those affected
+    section10:
+      primarytype: 'block'
+      uuid: '3c50722a-10ba-49a9-8d69-85a723057a0d'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.551+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.485+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.695+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'German Chancellor Olaf Scholz, who sent his thoughts to those affected
         in a post on social media platform X, is expected to visit the scene on Saturday
         together with Interior Minister Nancy Faeser.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf817590-e72f-4620-a272-941d8d078469'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.551+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.485+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.696+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'As news of the attack broke, Elon Musk, the billionaire allied with
+    section11:
+      primarytype: 'block'
+      uuid: 'bf817590-e72f-4620-a272-941d8d078469'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.551+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.485+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.696+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'As news of the attack broke, Elon Musk, the billionaire allied with
         U.S. President-elect Donald Trump, criticized Scholz and called on him to
         resign.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee37f9ff-f121-456b-b9f4-ba428402acab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.552+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.486+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.696+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A video posted on social media from a position above the market shows
+    section12:
+      primarytype: 'block'
+      uuid: 'ee37f9ff-f121-456b-b9f4-ba428402acab'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.552+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.486+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.696+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A video posted on social media from a position above the market shows
         a car driving at speed through a crowd walking between two rows of market
         stalls. People can be seen knocked to the ground and running away. Reuters
         was able to verify the location, with the trees, outline and design of the
         buildings matching file and satellite imagery of the area.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ebcd9ba4-60ab-4267-8c0f-75b49862db61'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.552+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.487+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.697+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Footage from a local broadcaster showed people wrapped in blankets
+    section13:
+      primarytype: 'block'
+      uuid: 'ebcd9ba4-60ab-4267-8c0f-75b49862db61'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.552+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.487+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.697+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Footage from a local broadcaster showed people wrapped in blankets
         on the ground receiving care in the wake of the attack.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd351a971-1f19-4879-b271-1f8862319f1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.553+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.487+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.697+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Bild newspaper quoted a witness named only as Nadine saying she had
+    section14:
+      primarytype: 'block'
+      uuid: 'd351a971-1f19-4879-b271-1f8862319f1c'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.553+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.487+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.697+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Bild newspaper quoted a witness named only as Nadine saying she had
         been walking arm-in-arm with her boyfriend, Marco, when the car came hurtling
         towards them.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b32fcc2-097f-400e-a2de-03f400b45167'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.553+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.488+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.698+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"He was hit and ripped away from my side," Bild cited her as saying,
+    section15:
+      primarytype: 'block'
+      uuid: '5b32fcc2-097f-400e-a2de-03f400b45167'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.553+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.488+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.698+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"He was hit and ripped away from my side," Bild cited her as saying,
         adding that he had been injured on his leg and head and taken to hospital
         but she did not know where to find him.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1cb07651-d97f-4910-8fb1-77ddc57c4e70'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.554+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.489+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.699+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"The uncertainty is unbearable," she told Bild.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dfbc449f-007e-43a8-bc20-e2a86c582cb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.554+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.489+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.699+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Late last month, Faeser advised people to be vigilant at Christmas
+    section16:
+      primarytype: 'block'
+      uuid: '1cb07651-d97f-4910-8fb1-77ddc57c4e70'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.554+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.489+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.699+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>"The uncertainty is unbearable," she told Bild.</p>'
+    section17:
+      primarytype: 'block'
+      uuid: 'dfbc449f-007e-43a8-bc20-e2a86c582cb6'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.554+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.489+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.699+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Late last month, Faeser advised people to be vigilant at Christmas
         markets, which have been a particular focus of security services as a potential
         target for extremist attacks.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '477418e7-5218-436b-afc5-403326d6ff3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.555+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.490+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.700+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Eight years ago, Anis Amri, a failed Tunisian asylum seeker with
+    section18:
+      primarytype: 'block'
+      uuid: '477418e7-5218-436b-afc5-403326d6ff3f'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.555+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.490+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.700+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Eight years ago, Anis Amri, a failed Tunisian asylum seeker with
         Islamist links, rammed a truck into a crowded Christmas market in Berlin,
         killing 12 people and injuring dozens of others.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '18654252-5c03-439f-88a2-1751d7896530'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T09:50:20.555+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:08.490+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T09:51:29.700+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Additional reporting by Kirsti Knolle, Scot Stevenson and Madeline
+    section19:
+      primarytype: 'block'
+      uuid: '18654252-5c03-439f-88a2-1751d7896530'
+      activationstatus: true
+      created: 2024-12-21T09:50:20.555+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:08.490+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T09:51:29.700+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Additional reporting by Kirsti Knolle, Scot Stevenson and Madeline
         Chambers, Reporting by Andrey Sychev and Tanya Wood, writing by Rachel More,
-        Editing by Rosalba O''Brien)</em></p>'
-  'dec-21-weather-':
-    'caption': 'PAGASA’s satellite images as of 10 a.m., Dec. 21'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T10:22:06.000+08:00
-    'imagesource': 'jcr:a57c99a1-f3ea-4149-aa18-2b393cef7e23'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '0e3b5ee1-16e6-42fb-ae4c-73fbd22086d5'
-    'lead': 'A low pressure area (LPA) outside the weather disturbance monitoring
+        Editing by Rosalba O'Brien)</em></p>'
+  'START HERE----->dec-21-weather-':
+    caption: 'PAGASA’s satellite images as of 10 a.m., Dec. 21'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T10:22:06.000+08:00
+    imagesource: 'a57c99a1-f3ea-4149-aa18-2b393cef7e23'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '0e3b5ee1-16e6-42fb-ae4c-73fbd22086d5'
+    lead: 'A low pressure area (LPA) outside the weather disturbance monitoring
       zone has intensified into a tropical depression, the Philippine Atmospheric,
       Geophysical and Astronomical Services Administration (PAGASA) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T10:23:33.155+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:07.163+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:30.657+08:00
-    'mgnl:lastModified': 2024-12-21T18:16:16.101+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PAGASA']
-    'stories': []
-    'template': '1'
-    'title': 'LPA outside PAR intensifies into tropical cyclone, storm’s trough dumping
+    activationstatus: true
+    created: 2024-12-21T10:23:33.155+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:07.163+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:30.657+08:00
+    lastmodified: 2024-12-21T18:16:16.101+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LPA outside PAR intensifies into tropical cyclone, storm’s trough dumping
       rains - PAGASA'
-    'updated': 2024-12-21T18:16:10.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b91c302-fbb3-42c3-9a47-236fc56dcf66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.094+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.166+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.099+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> A low pressure area
+    updated: 2024-12-21T18:16:10.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5b91c302-fbb3-42c3-9a47-236fc56dcf66'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.094+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.166+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.099+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> A low pressure area
         (LPA) outside the weather disturbance monitoring zone has intensified into
         a tropical depression, the Philippine Atmospheric, Geophysical and Astronomical
         Services Administration (PAGASA) said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe7f9645-0ce5-4bbc-9f13-05d589eaa68e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.094+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.167+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.094+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Forecasters last spotted the storm southwest of southwestern Luzon.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '99a9e3a3-8df5-41cf-b22f-add064012afa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.094+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.168+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.094+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The weather bureau said there’s a low chance for the tropical depression
+    section1:
+      primarytype: 'block'
+      uuid: 'fe7f9645-0ce5-4bbc-9f13-05d589eaa68e'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.094+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.167+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.094+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Forecasters last spotted the storm southwest of southwestern Luzon.'
+    section2:
+      primarytype: 'block'
+      uuid: '99a9e3a3-8df5-41cf-b22f-add064012afa'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.094+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.168+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.094+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The weather bureau said there’s a low chance for the tropical depression
         to enter the Philippine Area of Responsibility.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad3625d7-8bd2-4490-b0d1-0f697a3d5b4a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.095+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.169+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.095+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'However, the storm’s trough is triggering scattered rains and thunderstorms
+    section3:
+      primarytype: 'block'
+      uuid: 'ad3625d7-8bd2-4490-b0d1-0f697a3d5b4a'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.095+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.169+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.095+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'However, the storm’s trough is triggering scattered rains and thunderstorms
         over Zamboanga Peninsula, Basilan, Sulu, and Tawi-Tawi.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32fb8afa-753f-4037-ad1b-58816951ea82'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.095+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.169+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.095+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On the other hand, moderate to heavy rains may persist over Calabarzon,
+    section4:
+      primarytype: 'block'
+      uuid: '32fb8afa-753f-4037-ad1b-58816951ea82'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.095+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.169+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.095+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On the other hand, moderate to heavy rains may persist over Calabarzon,
         parts of Mimaropa, Bicol Region, Visayas, and Dinagat islands due to the shear
         line or the convergence of cold and warm winds.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28e79a4a-338d-421d-98f2-23729477a559'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:16:16.096+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:07.170+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T18:16:16.096+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The northeast monsoon may also cause overcast skies and rains over
+    section5:
+      primarytype: 'block'
+      uuid: '28e79a4a-338d-421d-98f2-23729477a559'
+      activationstatus: true
+      created: 2024-12-21T18:16:16.096+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:07.170+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T18:16:16.096+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The northeast monsoon may also cause overcast skies and rains over
         Metro Manila, Cagayan Valley, and the Cordillera region.</p>'
-  'petition-to-disqualify-quiboloy-junked':
-    'caption': 'Religious leader Apollo Quiboloy at a Senate hearing in October for
+  'START HERE----->petition-to-disqualify-quiboloy-junked':
+    caption: 'Religious leader Apollo Quiboloy at a Senate hearing in October for
       his supposed abuses (NewsWatch Plus File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T11:49:13.000+08:00
-    'imagesource': 'jcr:d2a64e0c-0ac8-4488-9c9a-c1af88f444b8'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '953bc72a-eeda-4e2f-b998-dfe0f5fc9de5'
-    'lead': 'The Commission on Elections (Comelec) has junked the petition to disqualify
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T11:49:13.000+08:00
+    imagesource: 'd2a64e0c-0ac8-4488-9c9a-c1af88f444b8'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '953bc72a-eeda-4e2f-b998-dfe0f5fc9de5'
+    lead: 'The Commission on Elections (Comelec) has junked the petition to disqualify
       detained religious leader and alleged sex offender Apollo Quiboloy from the
       senatorial race in 2025, citing the absence of a final decision on his criminal
       cases.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T11:52:32.168+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:05.940+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:30.794+08:00
-    'mgnl:lastModified': 2024-12-21T12:39:59.839+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Apollo-Quiboloy', 'Comelec']
-    'stories': []
-    'template': '1'
-    'title': 'Comelec junks petition to disqualify Quiboloy from senatorial race'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3d90149-8423-4c41-b4f5-fb75adc9d396'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.194+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.832+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Commission on Elections
+    activationstatus: true
+    created: 2024-12-21T11:52:32.168+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:05.940+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:30.794+08:00
+    lastmodified: 2024-12-21T12:39:59.839+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Comelec junks petition to disqualify Quiboloy from senatorial race'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a3d90149-8423-4c41-b4f5-fb75adc9d396'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.194+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.832+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Commission on Elections
         (Comelec) has junked the petition to disqualify detained religious leader
         and alleged sex offender Apollo Quiboloy from the senatorial race in 2025,
         citing the absence of a final decision on his criminal cases.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7aca6d91-760f-46d8-b39e-629f1e4f410f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.195+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.943+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.833+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Friday, Dec. 20, the poll body’s first division released its
+    section1:
+      primarytype: 'block'
+      uuid: '7aca6d91-760f-46d8-b39e-629f1e4f410f'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.195+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.943+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.833+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On Friday, Dec. 20, the poll body’s first division released its
         decision on a petition filed by senatorial aspirant Sonny Matula who asked
         Comelec to cancel Quiboloy’s certificate of candidacy and declare him as a
         nuisance candidate.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '872ebbd2-07e7-437a-a75f-6930bce59ddd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.195+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.944+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.833+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Matula said the religious leader’s nomination had no factual and legal
+    section2:
+      primarytype: 'block'
+      uuid: '872ebbd2-07e7-437a-a75f-6930bce59ddd'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.195+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.944+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.833+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Matula said the religious leader’s nomination had no factual and legal
         basis and was signed by an unauthorized individual, arguing that it’s equivalent
         to material misrepresentation. Quiboloy’s nomination was signed by a certain
         Mark Tolentino who was supposedly from the Workers’ and Peasants’ Party led
         by Matula.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f83db27e-3257-443b-a7fa-5a0851e8e79f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.195+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.944+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.834+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Comelec said the petitioner further attested that the detained televangelist
+    section3:
+      primarytype: 'block'
+      uuid: 'f83db27e-3257-443b-a7fa-5a0851e8e79f'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.195+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.944+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.834+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Comelec said the petitioner further attested that the detained televangelist
         must be declared a nuisance candidate, alleging that Quiboloy was only deflecting
         public attention from numerous cases filed against him.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37d4e926-a837-4f99-842a-dcb5a21a6876'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.196+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.945+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.834+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In response, Comelec said there is no legal basis to disqualify and
+    section4:
+      primarytype: 'block'
+      uuid: '37d4e926-a837-4f99-842a-dcb5a21a6876'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.196+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.945+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.834+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In response, Comelec said there is no legal basis to disqualify and
         declare Quiboloy as a nuisance candidate.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9898dde3-f46f-4f14-8695-cb777d0b7fea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.196+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.946+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.835+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Petitioner’s arguments that respondent should be disqualified because
+    section5:
+      primarytype: 'block'
+      uuid: '9898dde3-f46f-4f14-8695-cb777d0b7fea'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.196+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.946+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.835+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Petitioner’s arguments that respondent should be disqualified because
         there are several cases filed against him are devoid of merit…Such final decision
         is lacking in this case,” the poll body ruled.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '99c781db-a3bf-4b31-a7c7-9261a2ad1a32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.197+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.946+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.835+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“There is nothing in our prevailing laws and jurisprudence that bars
+    section6:
+      primarytype: 'block'
+      uuid: '99c781db-a3bf-4b31-a7c7-9261a2ad1a32'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.197+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.946+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.835+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“There is nothing in our prevailing laws and jurisprudence that bars
         an aspiring candidate from waging an electoral campaign during the pendency
         of a civil or criminal case,” it added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16c274a6-870e-4c93-967c-38f46d46ce23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.197+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.947+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.836+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Comelec also said the filing of an unauthorized certificate of acceptance
+    section7:
+      primarytype: 'block'
+      uuid: '16c274a6-870e-4c93-967c-38f46d46ce23'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.197+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.947+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.836+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Comelec also said the filing of an unauthorized certificate of acceptance
         and nomination is not a ground for disqualification.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e8e2f04-aae9-487b-b72d-2bdb0188d194'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.198+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.948+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.836+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“It could be determined that a petition to declare a candidate as a
+    section8:
+      primarytype: 'block'
+      uuid: '8e8e2f04-aae9-487b-b72d-2bdb0188d194'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.198+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.948+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.836+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“It could be determined that a petition to declare a candidate as a
         nuisance candidate cannot be combined with grounds for a separate remedy,
         otherwise the petition will be summarily dismissed,” the poll body added.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0daf7d39-d222-4a2a-88f3-16b9edcb90b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.198+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.948+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.837+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Quiboloy has been detained since September for cases related to human
+    section9:
+      primarytype: 'block'
+      uuid: '0daf7d39-d222-4a2a-88f3-16b9edcb90b1'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.198+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.948+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.837+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Quiboloy has been detained since September for cases related to human
         trafficking, sexual and child abuse, among others.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78e21fde-3390-4b17-88be-1bcf2b8d6de5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.199+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.949+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.837+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He is also wanted by the United States Federal Bureau of Investigation
+    section10:
+      primarytype: 'block'
+      uuid: '78e21fde-3390-4b17-88be-1bcf2b8d6de5'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.199+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.949+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.837+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>He is also wanted by the United States Federal Bureau of Investigation
         for labor and sex crimes.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '869eae41-4b1c-470c-8b8e-4263a4b427eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T11:52:32.199+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.949+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:39:59.838+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/6/14/timeline-apollo-quiboloy.html">TIMELINE:
+    section11:
+      primarytype: 'block'
+      uuid: '869eae41-4b1c-470c-8b8e-4263a4b427eb'
+      activationstatus: true
+      created: 2024-12-21T11:52:32.199+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.949+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:39:59.838+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/6/14/timeline-apollo-quiboloy.html">TIMELINE:
         Legal challenges hounding Pastor Apollo Quiboloy</a></strong></p>'
-  'gary-valenciano-concert-medical-condition':
-    'caption': 'Gary Valenciano performs for his two-night concert at the Araneta
+  'START HERE----->gary-valenciano-concert-medical-condition':
+    caption: 'Gary Valenciano performs for his two-night concert at the Araneta
       Coliseum on Friday, Dec. 20.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T12:26:20.000+08:00
-    'imagesource': 'jcr:ce61f71d-1de1-41ae-8631-8b0d77406fb6'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '27f3c517-3641-46a7-b97d-e451aeeaa73e'
-    'lead': 'Veteran singer Gary Valenciano had to cut his concert short on Friday,
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T12:26:20.000+08:00
+    imagesource: 'ce61f71d-1de1-41ae-8631-8b0d77406fb6'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '27f3c517-3641-46a7-b97d-e451aeeaa73e'
+    lead: 'Veteran singer Gary Valenciano had to cut his concert short on Friday,
       Dec. 20, after suffering from dehydration, his wife said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T12:29:04.876+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:05.233+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:30.939+08:00
-    'mgnl:lastModified': 2024-12-21T12:38:58.275+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['gary-valenciano']
-    'stories': []
-    'template': '1'
-    'title': 'Gary Valenciano cuts concert short due to dehydration, vital signs normal
+    activationstatus: true
+    created: 2024-12-21T12:29:04.876+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:05.233+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:30.939+08:00
+    lastmodified: 2024-12-21T12:38:58.275+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Gary Valenciano cuts concert short due to dehydration, vital signs normal
       - wife'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '492bbdae-ef48-496c-9cb3-fff90bd5e101'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.908+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.235+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.270+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Veteran singer Gary
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '492bbdae-ef48-496c-9cb3-fff90bd5e101'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.908+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.235+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.270+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Veteran singer Gary
         Valenciano had to cut his concert short on Friday, Dec. 20, after suffering
         from dehydration, his wife said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3f81979-776e-4004-8cee-575a8b622ccf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.909+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.236+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.270+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Valenciano held the first night of his concert “Mr. Pure Energy: One
+    section1:
+      primarytype: 'block'
+      uuid: 'c3f81979-776e-4004-8cee-575a8b622ccf'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.909+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.236+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.270+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Valenciano held the first night of his concert “Mr. Pure Energy: One
         More Time” at the Araneta Coliseum in Quezon City.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c26e9b3a-7a75-483f-80f6-7ab55bfc65b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.909+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.237+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.271+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a Facebook post, Angeli, the singer’s wife, said Valenciano ingested
+    section2:
+      primarytype: 'block'
+      uuid: 'c26e9b3a-7a75-483f-80f6-7ab55bfc65b9'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.909+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.237+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.271+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a Facebook post, Angeli, the singer’s wife, said Valenciano ingested
         something and suffered from vomiting two hours before his concert.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eac838de-9b16-46bd-83ed-39a165f5e9e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.909+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.237+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.271+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Despite health concerns, the seasoned performer pushed through with
+    section3:
+      primarytype: 'block'
+      uuid: 'eac838de-9b16-46bd-83ed-39a165f5e9e7'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.909+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.237+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.271+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Despite health concerns, the seasoned performer pushed through with
         the show and was able to perform a number of songs.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2cd0e87-2db7-4e7a-af3e-25938212d384'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.910+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.238+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.272+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“I don’t know if I can finish the show tonight. But what I want to
+    section4:
+      primarytype: 'block'
+      uuid: 'e2cd0e87-2db7-4e7a-af3e-25938212d384'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.910+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.238+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.272+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“I don’t know if I can finish the show tonight. But what I want to
         do is I want to do the songs that can speak into your hearts. It breaks my
         heart to know that we’ve prepared so much for all of you. But the body is
         saying be cautious Gary,” the singer said in a video posted at the Big Dome’s
         Facebook page.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '69ea8fa1-e4ac-4c17-9bf8-1568a30807b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.910+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.239+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.272+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an update on Saturday morning, the singer’s wife said Valenciano’s
+    section5:
+      primarytype: 'block'
+      uuid: '69ea8fa1-e4ac-4c17-9bf8-1568a30807b0'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.910+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.239+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.272+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In an update on Saturday morning, the singer’s wife said Valenciano’s
         vital signs are all good and he is now taking a rest.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3784dde7-04dd-4fff-b22a-58335406ade3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.911+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.239+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.273+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“He is ok. Just weak from all the throwing up - from the stage to the
+    section6:
+      primarytype: 'block'
+      uuid: '3784dde7-04dd-4fff-b22a-58335406ade3'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.911+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.239+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.273+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“He is ok. Just weak from all the throwing up - from the stage to the
         stretcher is what happened but he is ok now. Just weak,” Angeli said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb5290e1-877f-4632-8f58-da9d3c0ca343'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.911+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.273+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'She added they are still “praying for wisdom” if the singer will go
+    section7:
+      primarytype: 'block'
+      uuid: 'cb5290e1-877f-4632-8f58-da9d3c0ca343'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.911+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.273+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'She added they are still “praying for wisdom” if the singer will go
         on with the second night of the concert scheduled on Sunday, Dec. 22.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f68d8cc-4fc4-4eb5-92b5-b7186767eb63'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:29:04.912+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:05.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:38:58.273+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In 2018, the veteran singer survived an open heart surgery and was
+    section8:
+      primarytype: 'block'
+      uuid: '0f68d8cc-4fc4-4eb5-92b5-b7186767eb63'
+      activationstatus: true
+      created: 2024-12-21T12:29:04.912+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:05.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:38:58.273+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In 2018, the veteran singer survived an open heart surgery and was
         also treated for kidney cancer.</p>'
-  'biden-admin-on-transgender-ban-rule':
-    'author': 'Brad Brooks, Reuters'
-    'caption': 'US President Joe Biden leaves after delivering remarks from the Rose
+  'START HERE----->biden-admin-on-transgender-ban-rule':
+    author: 'Brad Brooks, Reuters'
+    caption: 'US President Joe Biden leaves after delivering remarks from the Rose
       Garden of the White House in Washington, US on Wednesday, Nov. 26. (Nathan Howard/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T12:32:42.000+08:00
-    'imagesource': 'jcr:12401cd0-9dad-4152-89f8-5324b59dc651'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6005357c-e68c-4a10-aa6f-d1a97f414ac1'
-    'lead': 'The Biden administration withdrew a proposed rule change that would have
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T12:32:42.000+08:00
+    imagesource: '12401cd0-9dad-4152-89f8-5324b59dc651'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6005357c-e68c-4a10-aa6f-d1a97f414ac1'
+    lead: 'The Biden administration withdrew a proposed rule change that would have
       prohibited schools from banning transgender athletes from teams matching their
       gender identities.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T12:35:20.190+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:04.840+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.096+08:00
-    'mgnl:lastModified': 2024-12-21T12:35:20.226+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Joe-Biden']
-    'stories': []
-    'template': '1'
-    'title': 'Biden administration withdraws proposed rule limiting transgender bans
+    activationstatus: true
+    created: 2024-12-21T12:35:20.190+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:04.840+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.096+08:00
+    lastmodified: 2024-12-21T12:35:20.226+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Biden administration withdraws proposed rule limiting transgender bans
       in sports'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec63c3cd-db63-4cec-970e-e1a795c29c7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.209+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.842+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.220+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters -</strong> The Biden administration on Friday withdrew
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'ec63c3cd-db63-4cec-970e-e1a795c29c7e'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.209+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.842+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.220+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters -</strong> The Biden administration on Friday withdrew
         a proposed rule change that would have prohibited schools from banning transgender
         athletes from teams matching their gender identities.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '190cfcb3-7c51-4188-9e7c-ef1d7349146b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.210+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.843+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.210+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration notified the public that it had withdrawn the proposed
+    section1:
+      primarytype: 'block'
+      uuid: '190cfcb3-7c51-4188-9e7c-ef1d7349146b'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.210+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.843+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.210+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The administration notified the public that it had withdrawn the proposed
         rule in the Federal Register.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a112ec2-67aa-4976-837d-fb58d2209bea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.210+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.844+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.210+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration had proposed the rule in April 2023, inviting the
+    section2:
+      primarytype: 'block'
+      uuid: '3a112ec2-67aa-4976-837d-fb58d2209bea'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.210+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.844+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.210+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The administration had proposed the rule in April 2023, inviting the
         public to comment. It said on Friday that it had received more than 150,000
         public replies.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '94dcb41f-8602-4ac9-98c8-ad0f3031e7fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.211+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.845+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.211+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Many of the comments were against the proposed rule, the administration
+    section3:
+      primarytype: 'block'
+      uuid: '94dcb41f-8602-4ac9-98c8-ad0f3031e7fd'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.211+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.845+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.211+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Many of the comments were against the proposed rule, the administration
         wrote in its Federal Register filing. That, along with multiple pending lawsuits
         related to gender identity and sports, led the administration "not to regulate
         on this issue at this time."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3fcd7fa5-0a38-4613-b014-75eebc7d5feb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.211+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.845+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.211+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Transgender rights have become a political hot button in recent years.
+    section4:
+      primarytype: 'block'
+      uuid: '3fcd7fa5-0a38-4613-b014-75eebc7d5feb'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.211+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.845+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.211+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Transgender rights have become a political hot button in recent years.
         Republicans at all levels campaigned strongly on the issue in November, with
         particular focus on transgender women participating in school sports. President-elect
         Donald Trump pledged during his campaign to restrict gender-affirming care
         and transgender sports participation.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e985af3-0e95-4c11-bc58-c9e5b57e71f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.212+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.846+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.212+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Biden proposal from 2023 would have offered flexibility to K-12
+    section5:
+      primarytype: 'block'
+      uuid: '9e985af3-0e95-4c11-bc58-c9e5b57e71f3'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.212+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.846+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.212+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Biden proposal from 2023 would have offered flexibility to K-12
         schools and universities to limit the participation of transgender students
         when including them could undermine "fairness in competition" or potentially
         lead to sports-related injuries.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1d3bb90-6531-453c-8775-cf658bc75b92'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.212+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.847+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.212+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The proposal would have made changes to Title IX, which prohibits sex
+    section6:
+      primarytype: 'block'
+      uuid: 'd1d3bb90-6531-453c-8775-cf658bc75b92'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.212+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.847+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.212+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The proposal would have made changes to Title IX, which prohibits sex
         discrimination at educational institutions that receive federal funding.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '06a58c0e-c754-459a-896e-cefb1e31a45a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.212+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.847+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.212+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Title IX, requiring schools to provide equal opportunities for women
+    section7:
+      primarytype: 'block'
+      uuid: '06a58c0e-c754-459a-896e-cefb1e31a45a'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.212+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.847+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.212+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Title IX, requiring schools to provide equal opportunities for women
         in U.S. education programs, has been credited with opening the door to more
         women in sports.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45f7622e-43f1-45af-9c58-10703fa2636f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.213+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.848+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.213+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Critics say transgender women who take part in women’s sports are
+    section8:
+      primarytype: 'block'
+      uuid: '45f7622e-43f1-45af-9c58-10703fa2636f'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.213+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.848+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.213+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Critics say transgender women who take part in women’s sports are
         often bigger and stronger than their cisgender opponents and have an unfair
         advantage.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7df6819-bf41-483c-a67a-09c3cd4c3d3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.213+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.848+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.213+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Earlier this year, the National Association of Intercollegiate Athletics
+    section9:
+      primarytype: 'block'
+      uuid: 'd7df6819-bf41-483c-a67a-09c3cd4c3d3f'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.213+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.848+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.213+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Earlier this year, the National Association of Intercollegiate Athletics
         banned transgender women from competing in women’s sports, a more hardline
         stance than other athletic bodies that allow trans athletes to compete based
         on testosterone levels.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d3f5f43-2571-4e44-b706-1c2e31b9b104'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.214+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.849+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.214+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. Supreme Court this month signaled its willingness to uphold
+    section10:
+      primarytype: 'block'
+      uuid: '5d3f5f43-2571-4e44-b706-1c2e31b9b104'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.214+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.849+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.214+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. Supreme Court this month signaled its willingness to uphold
         a Republican-backed ban in Tennessee on gender-affirming medical care for
         transgender minors.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8a679bb-57db-453f-832c-db86b0e83286'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T12:35:20.214+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.849+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T12:35:20.214+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Brad Brooks in Colorado; Editing by William Mallard)</em></p>'
-  'protests-on-south-korea-president-impeachment':
-    'author': 'Reuters'
-    'caption': 'People watch a TV screen, broadcasting South Korean President Yoon
+    section11:
+      primarytype: 'block'
+      uuid: 'b8a679bb-57db-453f-832c-db86b0e83286'
+      activationstatus: true
+      created: 2024-12-21T12:35:20.214+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.849+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T12:35:20.214+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Brad Brooks in Colorado; Editing by William Mallard)</em></p>'
+  'START HERE----->protests-on-south-korea-president-impeachment':
+    author: 'Reuters'
+    caption: 'People watch a TV screen, broadcasting South Korean President Yoon
       Suk Yeol delivering an address to the nation, at a railway station in Seoul,
       South Korea on Dec. 12. (Kim Hong-Ji/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T16:57:16.000+08:00
-    'imagesource': 'jcr:7f1ff31f-5bac-4e3a-ab2a-be25d7a6a718'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd1cf29d5-54dc-4fbf-a843-95e3e302c879'
-    'lead': 'Demonstrators supporting and opposing South Korean President Yoon Suk
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T16:57:16.000+08:00
+    imagesource: '7f1ff31f-5bac-4e3a-ab2a-be25d7a6a718'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'd1cf29d5-54dc-4fbf-a843-95e3e302c879'
+    lead: 'Demonstrators supporting and opposing South Korean President Yoon Suk
       Yeol held rival protests several hundred metres apart in Seoul on Saturday,
       a week after he was impeached over his short-lived declaration of martial law.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T16:59:02.538+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:04.406+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.247+08:00
-    'mgnl:lastModified': 2024-12-21T16:59:02.571+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['south-korea', 'Yoon-Suk-Yeol']
-    'stories': []
-    'template': '1'
-    'title': 'Rival protests over South Korea’s impeached President Yoon held in
+    activationstatus: true
+    created: 2024-12-21T16:59:02.538+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:04.406+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.247+08:00
+    lastmodified: 2024-12-21T16:59:02.571+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Rival protests over South Korea’s impeached President Yoon held in
       Seoul'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3aaafee3-205e-44c2-b332-3713de7b5bf0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.558+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.409+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.567+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Seoul, South Korea -</strong> Demonstrators supporting and
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3aaafee3-205e-44c2-b332-3713de7b5bf0'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.558+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.409+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.567+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Seoul, South Korea -</strong> Demonstrators supporting and
         opposing South Korean President Yoon Suk Yeol held rival protests several
         hundred metres apart in Seoul on Saturday, a week after he was impeached over
         his short-lived declaration of martial law.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '27e34bec-3a97-458e-aa73-bb7e28d341f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.558+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.410+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.558+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon’s presidential powers are suspended but he remains in office.
+    section1:
+      primarytype: 'block'
+      uuid: '27e34bec-3a97-458e-aa73-bb7e28d341f7'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.558+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.410+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.558+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon’s presidential powers are suspended but he remains in office.
         He has not complied with various summonses by authorities investigating whether
         martial law, which he declared late on Dec. 3 and rescinded hours later, constituted
         insurrection.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88d3f613-3981-4689-8804-e471ad87ecbe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.559+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.410+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.559+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He has also not responded to attempts to contact him by the Constitutional
+    section2:
+      primarytype: 'block'
+      uuid: '88d3f613-3981-4689-8804-e471ad87ecbe'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.559+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.410+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.559+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He has also not responded to attempts to contact him by the Constitutional
         Court, which decides whether to remove him from office or restore his presidential
         powers. The court plans to hold its first preparatory hearing on Friday.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9aa05796-8308-4f6e-a4f9-f8432befa795'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.559+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.411+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.559+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Saturday’s pro- and anti-Yoon protests were held in Gwanghwamun in
+    section3:
+      primarytype: 'block'
+      uuid: '9aa05796-8308-4f6e-a4f9-f8432befa795'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.559+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.411+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.559+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Saturday’s pro- and anti-Yoon protests were held in Gwanghwamun in
         the heart of the capital. There were no clashes as of 4 p.m. (0700 GMT)'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '541729e0-7ae6-466a-934a-a4be2dac3c21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.559+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.412+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.559+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tens of thousands of anti-Yoon protesters, dominated by people in their
+    section4:
+      primarytype: 'block'
+      uuid: '541729e0-7ae6-466a-934a-a4be2dac3c21'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.559+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.412+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.559+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tens of thousands of anti-Yoon protesters, dominated by people in their
         20s and 30s, gathered around 3 p.m., waving K-Pop light sticks and signs with
         sayings such as "Arrest! Imprison! Insurrection chief Yoon Suk Yeol" to catchy
         K-pop tunes.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1bc15eb-2048-42dc-adfa-8b1062092c24'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.560+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.413+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.560+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"I wanted to ask Yoon how he could do this to a democracy in the 21st
+    section5:
+      primarytype: 'block'
+      uuid: 'f1bc15eb-2048-42dc-adfa-8b1062092c24'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.560+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.413+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.560+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"I wanted to ask Yoon how he could do this to a democracy in the 21st
         century, and I think if he really has a conscience, he should step down,"
         said 27-year-old Cho Sung-hyo.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e6bd4d66-99f3-4b01-b06f-2e791a38580e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.560+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.414+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.560+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Several thousand pro-Yoon protesters, chiefly older and more conservative
+    section6:
+      primarytype: 'block'
+      uuid: 'e6bd4d66-99f3-4b01-b06f-2e791a38580e'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.560+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.414+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.560+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Several thousand pro-Yoon protesters, chiefly older and more conservative
         people opposing Yoon’s removal and supporting the a restoration of his powers,
         had gathered since around midday.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96002a7c-1f9c-4d3f-bf86-c5a96543c04f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.561+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.414+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.561+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"These rigged (parliamentary) elections eat away at this country, and
+    section7:
+      primarytype: 'block'
+      uuid: '96002a7c-1f9c-4d3f-bf86-c5a96543c04f'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.561+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.414+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.561+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"These rigged (parliamentary) elections eat away at this country, and
         at the core are socialist communist powers, so about 10 of us came together
         and said the same thing - we absolutely oppose impeachment," said Lee Young-su,
         a 62-year-old businessman.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c998fea-c2bd-4fa0-ad21-6e91eae86737'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.561+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.415+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.561+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yoon had cited claims of election hacking and "anti-state" pro-North
+    section8:
+      primarytype: 'block'
+      uuid: '0c998fea-c2bd-4fa0-ad21-6e91eae86737'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.561+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.415+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.561+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Yoon had cited claims of election hacking and "anti-state" pro-North
         Korean sympathisers as justification for imposing the martial law, which the
         National Election Commission has denied.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48f114f6-cb83-4956-bd8b-717a672dfd14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T16:59:02.562+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:04.415+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T16:59:02.562+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jisoo Kim, Joseph Campbell, Minwoo Park; Writing
+    section9:
+      primarytype: 'block'
+      uuid: '48f114f6-cb83-4956-bd8b-717a672dfd14'
+      activationstatus: true
+      created: 2024-12-21T16:59:02.562+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:04.415+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T16:59:02.562+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jisoo Kim, Joseph Campbell, Minwoo Park; Writing
         By Joyce Lee; Editing by William Mallard)</em></p>'
-  'naia-projection-holidays':
-    'caption': 'Passengers queue at the Ninoy Aquino International Airport (NewsWatch
+  'START HERE----->naia-projection-holidays':
+    caption: 'Passengers queue at the Ninoy Aquino International Airport (NewsWatch
       Plus File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T17:00:41.000+08:00
-    'imagesource': 'jcr:c06c2872-e492-4bf9-95d6-b9fb50d990fe'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8ef90905-e09d-4ccc-a0da-2fc71b4cdb6f'
-    'lead': 'Over 2.29 million passengers are expected to pass through the Ninoy Aquino
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T17:00:41.000+08:00
+    imagesource: 'c06c2872-e492-4bf9-95d6-b9fb50d990fe'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8ef90905-e09d-4ccc-a0da-2fc71b4cdb6f'
+    lead: 'Over 2.29 million passengers are expected to pass through the Ninoy Aquino
       International Airport from Dec. 20 to Jan. 3, the gateway’s private operator
       said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T17:04:05.745+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:03.518+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.415+08:00
-    'mgnl:lastModified': 2024-12-21T17:04:05.779+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['NAIA']
-    'stories': []
-    'template': '1'
-    'title': 'Nearly 2.30 million passengers expected at NAIA during holidays- operator'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ed35968-412f-4b44-b81c-02938b1869ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.769+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.520+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.776+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Over 2.29 million passengers
+    activationstatus: true
+    created: 2024-12-21T17:04:05.745+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:03.518+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.415+08:00
+    lastmodified: 2024-12-21T17:04:05.779+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Nearly 2.30 million passengers expected at NAIA during holidays- operator'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9ed35968-412f-4b44-b81c-02938b1869ce'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.769+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.520+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.776+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Over 2.29 million passengers
         are expected to pass through the Ninoy Aquino International Airport from Dec.
         20 to Jan. 3, the gateway’s private operator said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '425e7723-17a7-4239-8a5a-98196cb071cd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.769+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.521+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.769+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a press release, the New NAIA Infrastructure Corp. (NNIC) said the
+    section1:
+      primarytype: 'block'
+      uuid: '425e7723-17a7-4239-8a5a-98196cb071cd'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.769+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.521+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.769+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a press release, the New NAIA Infrastructure Corp. (NNIC) said the
         projection is an almost 11% increase compared to the same period last year.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b82dac7f-a8ad-4a9f-a11d-53d32bf9195d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.770+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.522+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.770+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The airport operator said it is ready for the travel surge and has
+    section2:
+      primarytype: 'block'
+      uuid: 'b82dac7f-a8ad-4a9f-a11d-53d32bf9195d'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.770+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.522+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.770+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The airport operator said it is ready for the travel surge and has
         coordinated with relevant government agencies to carry out additional measures
         such as boosting manpower and enhancing security protocols.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25369908-0708-4cfe-a1a1-3a299b752c47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.770+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.522+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.770+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'NNIC said it is also working closely with airline companies to ensure
+    section3:
+      primarytype: 'block'
+      uuid: '25369908-0708-4cfe-a1a1-3a299b752c47'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.770+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.522+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.770+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'NNIC said it is also working closely with airline companies to ensure
         that more check-in counters are operational earlier than usual to reduce queuing
         times during peak hours.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34731e08-0df7-4161-8e9c-b5b41aeb9680'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.770+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.770+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': ' “Christmas is a time for connecting with family, friends, and loved
+    section4:
+      primarytype: 'block'
+      uuid: '34731e08-0df7-4161-8e9c-b5b41aeb9680'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.770+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.770+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: ' “Christmas is a time for connecting with family, friends, and loved
         ones, and while this is one of the busiest seasons for NAIA, we are working
         hard to make the experience as safe and comfortable as possible for all passengers,”
         NNIC President Ramon Ang said in a press release.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1821dd9f-20e4-45b4-9882-2a4ead91ed65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.771+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.524+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.771+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The operator advises passengers to arrive at least 3 to 4 hours before
+    section5:
+      primarytype: 'block'
+      uuid: '1821dd9f-20e4-45b4-9882-2a4ead91ed65'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.771+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.524+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.771+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The operator advises passengers to arrive at least 3 to 4 hours before
         their flight to avoid inconvenience.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '514e5f0c-8faf-4eff-8546-de7a1e793355'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.771+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.771+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'NNIC took over NAIA’s maintenance and operations in September, in a
+    section6:
+      primarytype: 'block'
+      uuid: '514e5f0c-8faf-4eff-8546-de7a1e793355'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.771+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.771+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'NNIC took over NAIA’s maintenance and operations in September, in a
         bid to modernize the aging gateway.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '772062c3-30bb-45e4-8635-da04da798f23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:04:05.772+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:04:05.772+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>It has implemented some improvements since then such as expanding
+    section7:
+      primarytype: 'block'
+      uuid: '772062c3-30bb-45e4-8635-da04da798f23'
+      activationstatus: true
+      created: 2024-12-21T17:04:05.772+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:04:05.772+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>It has implemented some improvements since then such as expanding
         curbside areas, launching a centralized transport hub, and installing new
         air conditioning units.</p>'
-  'dec-21-2024-winter-solstice':
-    'caption': 'A view shows a breathtaking night sky (Canva)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T17:10:20.000+08:00
-    'imagesource': 'jcr:9d8db559-7c23-48ef-8f2e-43dc29b76b1b'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '434a312f-ae71-4e99-9cae-e3c1a0cd1ca9'
-    'lead': 'The country will experience the shortest day and longest night on Saturday,
+  'START HERE----->dec-21-2024-winter-solstice':
+    caption: 'A view shows a breathtaking night sky (Canva)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T17:10:20.000+08:00
+    imagesource: '9d8db559-7c23-48ef-8f2e-43dc29b76b1b'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '434a312f-ae71-4e99-9cae-e3c1a0cd1ca9'
+    lead: 'The country will experience the shortest day and longest night on Saturday,
       Dec. 21, the Philippine Atmospheric, Geophysical and Astronomical Services Administration
       (PAGASA) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T17:13:56.278+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:03.176+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.535+08:00
-    'mgnl:lastModified': 2024-12-21T17:14:35.714+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PAGASA', 'winter-solstice']
-    'stories': []
-    'template': '1'
-    'title': 'Shortest day and longest night on Dec. 21 - PAGASA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c20387b3-afb4-4417-b432-745e7bb45d8f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:13:56.308+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.179+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:14:35.712+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The country will experience
+    activationstatus: true
+    created: 2024-12-21T17:13:56.278+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:03.176+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.535+08:00
+    lastmodified: 2024-12-21T17:14:35.714+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Shortest day and longest night on Dec. 21 - PAGASA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c20387b3-afb4-4417-b432-745e7bb45d8f'
+      activationstatus: true
+      created: 2024-12-21T17:13:56.308+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.179+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:14:35.712+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The country will experience
         the shortest day and longest night on Saturday, Dec. 21, the Philippine Atmospheric,
         Geophysical and Astronomical Services Administration (PAGASA) said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b833dc12-6d89-4351-a478-bb5434334d88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:13:56.309+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.180+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:14:35.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dubbed as the winter solstice, the agency said the phenomenon will
+    section1:
+      primarytype: 'block'
+      uuid: 'b833dc12-6d89-4351-a478-bb5434334d88'
+      activationstatus: true
+      created: 2024-12-21T17:13:56.309+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.180+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:14:35.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Dubbed as the winter solstice, the agency said the phenomenon will
         occur at 5.21 p.m.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16cd51e7-d79b-456c-bb7d-ce470456c903'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:13:56.309+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.180+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:14:35.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“This day marks the shortest day and the longest night in the northern
+    section2:
+      primarytype: 'block'
+      uuid: '16cd51e7-d79b-456c-bb7d-ce470456c903'
+      activationstatus: true
+      created: 2024-12-21T17:13:56.309+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.180+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:14:35.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“This day marks the shortest day and the longest night in the northern
         hemisphere, when the Sun reaches its southernmost position in the sky, in
         the constellation of Capricornus at a declination of 23.5°S. Astronomers consider
         this day as the start of winter in the northern hemisphere, and summer in
         the southern hemisphere,” PAGASA said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8fe80d4e-2df4-4a1b-ab33-a89e4252191c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T17:13:56.310+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:03.181+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T17:14:35.714+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In 2023, the winter solstice was recorded on Dec. 22.</p>'
-  'zamboanga-shooting-comelec':
-    'caption': 'A car sustained a bullet hole after a shooting attack in Zamboanga
+    section3:
+      primarytype: 'block'
+      uuid: '8fe80d4e-2df4-4a1b-ab33-a89e4252191c'
+      activationstatus: true
+      created: 2024-12-21T17:13:56.310+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:03.181+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T17:14:35.714+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In 2023, the winter solstice was recorded on Dec. 22.</p>'
+  'START HERE----->zamboanga-shooting-comelec':
+    caption: 'A car sustained a bullet hole after a shooting attack in Zamboanga
       City on Saturday, Dec. 21 (Comelec)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T18:08:58.000+08:00
-    'imagesource': 'jcr:ed7f7404-4672-4ee7-9554-1044260b1dba'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9dfc967f-3f12-4c90-bac8-02511a441c07'
-    'lead': 'An election field supervisor in Sulu encountered a shooting attack in
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T18:08:58.000+08:00
+    imagesource: 'ed7f7404-4672-4ee7-9554-1044260b1dba'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9dfc967f-3f12-4c90-bac8-02511a441c07'
+    lead: 'An election field supervisor in Sulu encountered a shooting attack in
       Zamboanga City, resulting in the death of his close kin, the Commission on Elections
       (Comelec) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T18:12:01.587+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:02.910+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.689+08:00
-    'mgnl:lastModified': 2024-12-21T19:16:11.437+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['comelec', 'Zamboanga']
-    'stories': []
-    'template': '1'
-    'title': 'Election field supervisor ambushed in Zamboanga, officer’s close kin
+    activationstatus: true
+    created: 2024-12-21T18:12:01.587+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:02.910+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.689+08:00
+    lastmodified: 2024-12-21T19:16:11.437+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Election field supervisor ambushed in Zamboanga, officer’s close kin
       dies'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ce83c6e-b020-4db7-8d9a-ee8c2f8b0bc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.614+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.913+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.433+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> - An election field supervisor
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5ce83c6e-b020-4db7-8d9a-ee8c2f8b0bc1'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.614+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.913+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.433+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> - An election field supervisor
         in Sulu encountered a shooting attack in Zamboanga City, resulting in the
         death of his close kin, the Commission on Elections (Comelec) said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fccbf3d1-50d9-4dcd-b54d-c9ee4da154b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.615+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.914+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.433+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The victims were identified as Vidzfar Julie, provincial election supervisor
+    section1:
+      primarytype: 'block'
+      uuid: 'fccbf3d1-50d9-4dcd-b54d-c9ee4da154b1'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.615+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.914+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.433+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The victims were identified as Vidzfar Julie, provincial election supervisor
         at Jolo, Sulu and his brother Naser Amil Asiri.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a51b498b-0585-4095-af4f-e34477d946a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.615+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.914+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.434+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Julie was unharmed, but his brother succumbed after sustaining gunshot
+    section2:
+      primarytype: 'block'
+      uuid: 'a51b498b-0585-4095-af4f-e34477d946a3'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.615+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.914+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.434+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Julie was unharmed, but his brother succumbed after sustaining gunshot
         wounds in the head.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0a974f0-0ae8-470f-9264-3f91eeae567a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.616+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.915+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.434+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The incident occurred around 10 a.m. at Brgy. Sta. Maria in Zamboanga
+    section3:
+      primarytype: 'block'
+      uuid: 'e0a974f0-0ae8-470f-9264-3f91eeae567a'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.616+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.915+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.434+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The incident occurred around 10 a.m. at Brgy. Sta. Maria in Zamboanga
         City.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4806468a-02bb-4faa-8f04-5c74f7c2ec86'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.616+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.916+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.435+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Initial reports from the police showed the assailants were on board
+    section4:
+      primarytype: 'block'
+      uuid: '4806468a-02bb-4faa-8f04-5c74f7c2ec86'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.616+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.916+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.435+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Initial reports from the police showed the assailants were on board
         a single MC Honda Click color white, wearing black jacket, and a full-face
         helmet. Authorities said the two suspects fled the crime scene.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa0a157a-e760-456d-8c61-222a4df4610f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.617+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.916+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.435+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The motive for the crime remains unclear.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d044b36-f5af-425e-ac11-67af9071c91a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.617+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.917+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.435+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement, the poll body decried the violent incident and called
+    section5:
+      primarytype: 'block'
+      uuid: 'aa0a157a-e760-456d-8c61-222a4df4610f'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.617+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.916+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.435+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The motive for the crime remains unclear.'
+    section6:
+      primarytype: 'block'
+      uuid: '8d044b36-f5af-425e-ac11-67af9071c91a'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.617+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.917+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.435+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a statement, the poll body decried the violent incident and called
         for justice.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6266c115-5799-499f-ab6e-ab67be46ce8d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T18:12:01.617+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.917+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:16:11.436+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“No words are enough to condemn this treacherous act of violence
+    section7:
+      primarytype: 'block'
+      uuid: '6266c115-5799-499f-ab6e-ab67be46ce8d'
+      activationstatus: true
+      created: 2024-12-21T18:12:01.617+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.917+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:16:11.436+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“No words are enough to condemn this treacherous act of violence
         against our people. What is more gruesome and unforgivable is when a loved
         one is caught in the crossfire so to speak. We are not yet prepared to cry
         hopelessness but a call for immediate action from authorities is strongly
         demanded,” Comelec chairperson George Garcia said.</p>'
-  'pope-francis-on-gaza-airstrikes':
-    'author': 'Joshua McElwee, Reuters'
-    'caption': 'Pope Francis (Ciro de Luca/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-12-21T19:20:52.000+08:00
-    'imagesource': 'jcr:d1ac7e6e-5ebd-4d7d-bef3-3ea4c5ab0d11'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '91ce5291-7aee-448f-8a99-2f55a8d4955c'
-    'lead': 'Pope Francis on Saturday again condemned Israeli airstrikes in Gaza,
+  'START HERE----->pope-francis-on-gaza-airstrikes':
+    author: 'Joshua McElwee, Reuters'
+    caption: 'Pope Francis (Ciro de Luca/Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-12-21T19:20:52.000+08:00
+    imagesource: 'd1ac7e6e-5ebd-4d7d-bef3-3ea4c5ab0d11'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '91ce5291-7aee-448f-8a99-2f55a8d4955c'
+    lead: 'Pope Francis on Saturday again condemned Israeli airstrikes in Gaza,
       a day after an Israeli government minister publicly denounced the pontiff for
       suggesting the global community should study whether the military offensive
       there constitutes a genocide of the Palestinian people.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-12-21T19:22:52.876+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:11:02.278+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:32:31.856+08:00
-    'mgnl:lastModified': 2024-12-21T19:22:52.918+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Pope-Francis']
-    'stories': []
-    'template': '1'
-    'title': 'Pope calls Gaza airstrikes ''cruelty'' after Israeli minister’s criticism'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '42ed9842-1927-41a5-af3d-239998e9196c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.901+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.280+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.912+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Vatican City -</strong> Pope Francis on Saturday again condemned
+    activationstatus: true
+    created: 2024-12-21T19:22:52.876+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T13:11:02.278+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:32:31.856+08:00
+    lastmodified: 2024-12-21T19:22:52.918+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Pope calls Gaza airstrikes 'cruelty' after Israeli minister’s criticism'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '42ed9842-1927-41a5-af3d-239998e9196c'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.901+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.280+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.912+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Vatican City -</strong> Pope Francis on Saturday again condemned
         Israeli airstrikes in Gaza, a day after an Israeli government minister publicly
         denounced the pontiff for suggesting the global community should study whether
         the military offensive there constitutes a genocide of the Palestinian people.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d637a39-4f04-49bb-9e68-219409720938'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.902+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.281+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.902+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Francis opened his annual Christmas address to the Catholic cardinals
+    section1:
+      primarytype: 'block'
+      uuid: '6d637a39-4f04-49bb-9e68-219409720938'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.902+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.281+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.902+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Francis opened his annual Christmas address to the Catholic cardinals
         who lead the Vatican’s various departments with what appeared to be a reference
         to Israeli airstrikes on Friday that killed at least 25 Palestinians in Gaza.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4caed8c-3a45-45d1-a36a-506a6ad275df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.902+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.282+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.902+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Yesterday, children were bombed," said the pope. "This is cruelty.
+    section2:
+      primarytype: 'block'
+      uuid: 'f4caed8c-3a45-45d1-a36a-506a6ad275df'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.902+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.282+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.902+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Yesterday, children were bombed," said the pope. "This is cruelty.
         This is not war. I wanted to say this because it touches the heart."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd08433d7-2a79-4be5-859d-f501952f7999'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.902+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.282+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.902+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The pope, as leader of the 1.4-billion-member Roman Catholic Church,
+    section3:
+      primarytype: 'block'
+      uuid: 'd08433d7-2a79-4be5-859d-f501952f7999'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.902+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.282+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.902+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The pope, as leader of the 1.4-billion-member Roman Catholic Church,
         is usually careful about taking sides in conflicts, but he has recently been
         more outspoken about Israel’s military campaign against Palestinian militant
         group Hamas.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f603d50d-a580-4b2d-9b17-eb3b305651ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.903+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.283+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.903+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In book excerpts published last month, the pontiff said some international
+    section4:
+      primarytype: 'block'
+      uuid: 'f603d50d-a580-4b2d-9b17-eb3b305651ea'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.903+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.283+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.903+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In book excerpts published last month, the pontiff said some international
         experts said that "what is happening in Gaza has the characteristics of a
         genocide".'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82e06262-b19a-4ed6-acf4-ef661c3ceb28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.903+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.284+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.903+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israeli Minister of Diaspora Affairs Amichai Chikli sharply criticised
+    section5:
+      primarytype: 'block'
+      uuid: '82e06262-b19a-4ed6-acf4-ef661c3ceb28'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.903+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.284+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.903+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israeli Minister of Diaspora Affairs Amichai Chikli sharply criticised
         those comments in an unusual open letter published by Italian newspaper Il
         Foglio on Friday. Chikli said the pope’s remarks amounted to a "trivialisation"
         of the term genocide.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9099a46c-06ee-41b9-8ca8-d905ccb3ce2a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.904+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.285+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.904+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Francis also said on Saturday that the Catholic bishop of Jerusalem,
+    section6:
+      primarytype: 'block'
+      uuid: '9099a46c-06ee-41b9-8ca8-d905ccb3ce2a'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.904+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.285+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.904+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Francis also said on Saturday that the Catholic bishop of Jerusalem,
         known as a patriarch, had tried to enter the Gaza Strip on Friday to visit
         Catholics there, but was denied entry.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fbd68f30-0488-4dcc-a7ab-3d3cb99067d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.904+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.285+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.904+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The patriarch’s office told Reuters it was not able to comment on
+    section7:
+      primarytype: 'block'
+      uuid: 'fbd68f30-0488-4dcc-a7ab-3d3cb99067d8'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.904+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.285+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.904+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The patriarch’s office told Reuters it was not able to comment on
         the pope’s remarks about the patriarch being denied entry.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c5c0890-8880-4c01-b72a-2b90403530f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.905+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.286+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.905+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israeli officials were not immediately reachable for comment on Saturday,
+    section8:
+      primarytype: 'block'
+      uuid: '0c5c0890-8880-4c01-b72a-2b90403530f8'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.905+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.286+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.905+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israeli officials were not immediately reachable for comment on Saturday,
         the Jewish Sabbath, and the Israeli military did not immediately respond to
         a request for comment.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6538f86-55d6-4384-9045-27a09915cb0e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.905+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.287+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.905+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The war began when Hamas-led Palestinian militants attacked southern
+    section9:
+      primarytype: 'block'
+      uuid: 'c6538f86-55d6-4384-9045-27a09915cb0e'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.905+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.287+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.905+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The war began when Hamas-led Palestinian militants attacked southern
         Israeli communities on Oct. 7, 2023, killing 1,200 people, mostly civilians,
         and taking more than 250 hostages back to Gaza, according to Israeli authorities.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15dece79-05e3-4510-b887-bafac3b486c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.906+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.287+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.906+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel’s retaliatory campaign, which it says is aimed at eliminating
+    section10:
+      primarytype: 'block'
+      uuid: '15dece79-05e3-4510-b887-bafac3b486c8'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.906+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.287+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.906+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israel’s retaliatory campaign, which it says is aimed at eliminating
         Hamas, has killed more than 45,000 people, mostly civilians, according to
         authorities in the Hamas-run Gaza Strip. The campaign has displaced nearly
         the entire population and left much of the enclave in ruins.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49c6edd2-509a-4591-a37c-3a11a8ae60df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.906+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.288+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.906+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel says that at least a third of the dead have been militants and
+    section11:
+      primarytype: 'block'
+      uuid: '49c6edd2-509a-4591-a37c-3a11a8ae60df'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.906+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.288+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.906+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Israel says that at least a third of the dead have been militants and
         it says it tries to avoid harm to civilians but is battling militants who
         it accuses of embedding among the population in dense urban areas. Hamas rejects
         this.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11dcc80e-acb8-41bb-8ba9-ee4191e57eac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-12-21T19:22:52.907+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:11:02.288+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-12-21T19:22:52.907+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Joshua McElweeAdditional reporting by Maayan Lubell
+    section12:
+      primarytype: 'block'
+      uuid: '11dcc80e-acb8-41bb-8ba9-ee4191e57eac'
+      activationstatus: true
+      created: 2024-12-21T19:22:52.907+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T13:11:02.288+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-12-21T19:22:52.907+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Joshua McElweeAdditional reporting by Maayan Lubell
         in JerusalemEditing by Frances Kerry)</em></p>'
