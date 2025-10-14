@@ -1,340 +1,340 @@
-'2':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'c8385730-aae6-47e1-812a-b261b8601d31'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-02T17:27:08.584+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2024-07-12T14:32:29.057+08:00
-  'mgnl:lastActivatedBy': 'magnolia-ben'
-  'mgnl:lastModified': 2024-07-02T17:27:08.594+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'angara-new-deped-chief':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-02T17:27:08.000+08:00
-    'embedimage': 'jcr:07933bfd-6fec-4e54-b748-911ee344bb85'
-    'embedsource': '<iframe width="560" height="315" src="https://www.youtube.com/embed/vEKELmMqlZg?si=v-Fika9mRTh3yRO_"
+section2:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'c8385730-aae6-47e1-812a-b261b8601d31'
+  activationstatus: true
+  created: 2024-07-02T17:27:08.584+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2024-07-12T14:32:29.057+08:00
+  lastactivatedby: 'magnolia-ben'
+  lastmodified: 2024-07-02T17:27:08.594+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->angara-new-deped-chief':
+    author: 'Lance Mejico, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-02T17:27:08.000+08:00
+    embedimage: '07933bfd-6fec-4e54-b748-911ee344bb85'
+    embedsource: '<iframe width="560" height="315" src="https://www.youtube.com/embed/vEKELmMqlZg?si=v-Fika9mRTh3yRO_"
       title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-    'imagesource': 'jcr:07933bfd-6fec-4e54-b748-911ee344bb85'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8be9b396-f752-45da-9118-0d0653f407e9'
-    'lead': 'President Ferdinand Marcos Jr. has named Sen. Sonny Angara as the new
+    imagesource: '07933bfd-6fec-4e54-b748-911ee344bb85'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8be9b396-f752-45da-9118-0d0653f407e9'
+    lead: 'President Ferdinand Marcos Jr. has named Sen. Sonny Angara as the new
       education secretary, replacing Vice President Sara Duterte.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-02T17:30:47.065+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:29.403+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-10T15:32:20.407+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': ['education', 'deped', 'sonny-angara']
-    'stories': []
-    'template': '1'
-    'title': 'Sonny Angara is new DepEd chief'
-    'videoimage': '<iframe width="560" height="315" src="https://www.youtube.com/embed/zXmjWJp7xaE?si=hsxt6fShTyfI4BJi"
+    activationstatus: true
+    created: 2024-07-02T17:30:47.065+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-12T14:32:29.403+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-10T15:32:20.407+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Sonny Angara is new DepEd chief'
+    videoimage: '<iframe width="560" height="315" src="https://www.youtube.com/embed/zXmjWJp7xaE?si=hsxt6fShTyfI4BJi"
       title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'
-    'videosource': 'jcr:07933bfd-6fec-4e54-b748-911ee344bb85'
-    'visualType': 'video'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89d1e2e4-f379-4cbf-a99d-ae1426b9c860'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.086+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.404+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.394+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
+    videosource: '07933bfd-6fec-4e54-b748-911ee344bb85'
+    visualtype: 'video'
+    section0:
+      primarytype: 'block'
+      uuid: '89d1e2e4-f379-4cbf-a99d-ae1426b9c860'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.086+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.404+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.394+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
         Marcos Jr. has named Sen. Sonny Angara as the new education secretary, replacing
         Vice President Sara Duterte.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55898ec2-1030-4930-9a07-3ab018bf0c13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.086+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.404+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.394+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>The Presidential Communications Office (PCO) said on Tuesday the
+    section1:
+      primarytype: 'block'
+      uuid: '55898ec2-1030-4930-9a07-3ab018bf0c13'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.086+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.404+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.394+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>The Presidential Communications Office (PCO) said on Tuesday the
         president made the announcement during a Cabinet meeting.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '27361e41-d35d-4142-bfcd-74a940ab26b7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.087+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.405+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.395+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>“Sonny has agreed to take on the brief of the Department of Education,”
+    section2:
+      primarytype: 'block'
+      uuid: '27361e41-d35d-4142-bfcd-74a940ab26b7'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.087+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.405+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.395+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>“Sonny has agreed to take on the brief of the Department of Education,”
         Marcos was quoted as saying in a press release. The president earlier said
         appointing an education secretary was ‘harder’ than he thought.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2587386-4a02-4360-90dc-6de336d5cc27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.087+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.405+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.395+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Angara’s portfolio</strong></h2>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66d429fb-5ff3-4485-a345-d2bcafef09fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.088+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.406+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.396+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Angara has been a member of Congress for over two decades - as a
+    section3:
+      primarytype: 'block'
+      uuid: 'f2587386-4a02-4360-90dc-6de336d5cc27'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.087+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.405+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.395+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<h2><strong>Angara’s portfolio</strong></h2>'
+    section4:
+      primarytype: 'block'
+      uuid: '66d429fb-5ff3-4485-a345-d2bcafef09fb'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.088+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.406+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.396+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Angara has been a member of Congress for over two decades - as a
         senator since 2013 and previous to that the lone representative of Aurora
         province for nearly a decade.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17833f4e-3843-4090-b86f-bfbd169dcc18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.088+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.406+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.396+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'Angara was a key figure in the passage of the Universal Access to Tertiary
+    section5:
+      primarytype: 'block'
+      uuid: '17833f4e-3843-4090-b86f-bfbd169dcc18'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.088+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.406+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.396+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'Angara was a key figure in the passage of the Universal Access to Tertiary
         Quality Education law and the Basic Education Act, which established the K-12
         curriculum.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1d41b6f4-8e93-4bd8-9271-43c0adcbcf89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.089+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.406+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.397+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'He is also a commissioner of the Second Congressional Commission on
+    section6:
+      primarytype: 'block'
+      uuid: '1d41b6f4-8e93-4bd8-9271-43c0adcbcf89'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.089+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.406+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.397+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'He is also a commissioner of the Second Congressional Commission on
         Education, a body tasked to assess the education sector.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfa5a1a2-d27d-4374-8f3c-56b636b2b932'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.089+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.407+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.397+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'In a statement, Angara thanked Marcos for his trust to lead the education
+    section7:
+      primarytype: 'block'
+      uuid: 'cfa5a1a2-d27d-4374-8f3c-56b636b2b932'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.089+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.407+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.397+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'In a statement, Angara thanked Marcos for his trust to lead the education
         department.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c90360d2-7e04-47e1-bbc0-c312052cc396'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.090+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.407+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.398+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '“I am committed to working with all sectors of society, including my
+    section8:
+      primarytype: 'block'
+      uuid: 'c90360d2-7e04-47e1-bbc0-c312052cc396'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.090+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.407+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.398+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '“I am committed to working with all sectors of society, including my
         predecessor, Vice President Sara Duterte, to ensure that every Filipino child
         has access to quality education. I look forward to building upon her accomplishments,”
         the incoming DepEd chief said.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dcef6b9c-ee7f-42a3-95cb-f2283f6866d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.090+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.408+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.398+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'The agency also welcomed the senator’s appointment.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a491b576-96a7-45f4-9d93-f3a9099a1e6a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.091+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.408+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.399+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '“The DepEd community looks forward to working with the new leadership
+    section9:
+      primarytype: 'block'
+      uuid: 'dcef6b9c-ee7f-42a3-95cb-f2283f6866d2'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.090+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.408+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.398+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'The agency also welcomed the senator’s appointment.'
+    section10:
+      primarytype: 'block'
+      uuid: 'a491b576-96a7-45f4-9d93-f3a9099a1e6a'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.091+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.408+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.399+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '“The DepEd community looks forward to working with the new leadership
         as we continue our relentless pursuit towards improving the quality of basic
         education in the country,” it said in a statement.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e010a363-51ec-46cd-908e-bc574cf194ab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.091+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.408+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.399+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'Duterte’s resignation takes effect on July 19.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be23a94e-49c7-4634-a246-cbeefe53537a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.092+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.409+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.400+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>New chief, new challenges</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e7bddcd-2719-45ef-abf3-996a7df94b07'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.092+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.409+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.400+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>As the incoming education chief, Angara faces pressing challenges,
+    section11:
+      primarytype: 'block'
+      uuid: 'e010a363-51ec-46cd-908e-bc574cf194ab'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.091+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.408+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.399+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'Duterte’s resignation takes effect on July 19.'
+    section12:
+      primarytype: 'block'
+      uuid: 'be23a94e-49c7-4634-a246-cbeefe53537a'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.092+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.409+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.400+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<h2><strong>New chief, new challenges</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: '8e7bddcd-2719-45ef-abf3-996a7df94b07'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.092+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.409+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.400+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>As the incoming education chief, Angara faces pressing challenges,
         foremost of which is the so-called education crisis.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cef67dc5-9c94-4efa-b505-d8c0a90d6bdb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.093+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.410+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.401+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'Based on the 2022 Programme for International Student Assessment (PISA)
+    section14:
+      primarytype: 'block'
+      uuid: 'cef67dc5-9c94-4efa-b505-d8c0a90d6bdb'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.093+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.410+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.401+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'Based on the 2022 Programme for International Student Assessment (PISA)
         released in June, the Philippines was at the bottom two of the creative thinking
         test for 15-year-old students. The country also scored poorly in mathematics,
         science, and reading comprehension.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89140a76-7eea-40cb-afe4-dcc1d77445a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.093+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.410+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.402+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Education groups hope this could be addressed with the change in
+    section15:
+      primarytype: 'block'
+      uuid: '89140a76-7eea-40cb-afe4-dcc1d77445a0'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.093+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.410+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.402+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Education groups hope this could be addressed with the change in
         leadership.</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a449ea46-9a92-42aa-973e-d18965ce1eaf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.094+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.411+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.402+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>“While it is good that a new DepEd secretary has been named, we
+    section16:
+      primarytype: 'block'
+      uuid: 'a449ea46-9a92-42aa-973e-d18965ce1eaf'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.094+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.411+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.402+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>“While it is good that a new DepEd secretary has been named, we
         challenge Sen. Sonny Angara to hit the ground running and immediately address
         the education crisis in our country as well as the long-standing demands of
         teachers and education support personnel,” ACT Teachers party-list Rep. France
         Castro was quoted as saying in a statement.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3d91ff5-41ce-44f6-9653-8fe29940ed8d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.094+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.411+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.403+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'Angara’s appointment comes as the agency prepares for the opening of
+    section17:
+      primarytype: 'block'
+      uuid: 'f3d91ff5-41ce-44f6-9653-8fe29940ed8d'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.094+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.411+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.403+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'Angara’s appointment comes as the agency prepares for the opening of
         classes on July 29. The incoming academic calendar will be shorter as it reverts
         to the previous June-March school year in 2025-2026.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1f2d9001-2525-46a0-8e5a-276a3b557a74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.095+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.411+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.403+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'The DepEd will also carry out the first phase of the MATATAG curriculum
+    section18:
+      primarytype: 'block'
+      uuid: '1f2d9001-2525-46a0-8e5a-276a3b557a74'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.095+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.411+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.403+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'The DepEd will also carry out the first phase of the MATATAG curriculum
         crafted under Duterte’s leadership.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '04cf9b2a-37f2-40ff-a562-d8a452d068b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.095+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.412+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.404+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'In an interview ahead of his appointment, Angara laid out reforms needed
+    section19:
+      primarytype: 'block'
+      uuid: '04cf9b2a-37f2-40ff-a562-d8a452d068b8'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.095+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.412+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.404+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'In an interview ahead of his appointment, Angara laid out reforms needed
         in the education sector.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a62594c4-75dc-4b0a-9180-27fe5a4cfd03'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.096+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.412+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.404+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '“Kailangan iyong mga reporma edukasyon tulad ng kalidad ng edukasyon.
+    section20:
+      primarytype: 'block'
+      uuid: 'a62594c4-75dc-4b0a-9180-27fe5a4cfd03'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.096+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.412+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.404+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '“Kailangan iyong mga reporma edukasyon tulad ng kalidad ng edukasyon.
         Tapos iyong tinatawag na pagkukulang sa mga classroom o resource gaps. Sa
         silid aralan, textbooks. Kailangan bigyan ng lunas iyan,” said Angara.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2e0aa9d-10e4-4605-8559-5941422db292'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-02T17:30:47.096+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:29.413+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T15:32:20.405+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: We need educational reforms like providing quality
+    section21:
+      primarytype: 'block'
+      uuid: 'b2e0aa9d-10e4-4605-8559-5941422db292'
+      activationstatus: true
+      created: 2024-07-02T17:30:47.096+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T14:32:29.413+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T15:32:20.405+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>[Translation: We need educational reforms like providing quality
         education. Also, resource gaps such as classroom shortage and textbooks. We
         need to address these problems.]</p>'

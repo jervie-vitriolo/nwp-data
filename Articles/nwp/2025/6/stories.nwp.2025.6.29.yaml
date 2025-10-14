@@ -1,136 +1,136 @@
-'29':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'e3afdbb6-f266-4245-bd3a-f30b8948fe5c'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-06-27T08:11:08.733+08:00
-  'mgnl:createdBy': 'jham-nwp'
-  'mgnl:lastActivated': 2025-06-29T09:16:54.178+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.2'
-  'mgnl:lastActivatedVersionCreated': 2025-06-29T09:16:53.983+08:00
-  'mgnl:lastModified': 2025-06-29T17:35:33.364+08:00
-  'mgnl:lastModifiedBy': 'faith-nwp'
-  'Eala-falls-short-vs.-Joint-in-historic-Eastbourne-Open-final':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T09:16:57.000+08:00
-    'imagesource': 'jcr:255cbf21-4454-445d-911d-96722c745d8a'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '484b6189-5230-460d-9da3-901aa64a8790'
-    'lead': 'Filipino tennis ace Alex Eala fell short against Aussie player Maya Joint,
+section29:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'e3afdbb6-f266-4245-bd3a-f30b8948fe5c'
+  activationstatus: true
+  created: 2025-06-27T08:11:08.733+08:00
+  createdby: 'jham-nwp'
+  lastactivated: 2025-06-29T09:16:54.178+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.2'
+  lastactivatedversioncreated: 2025-06-29T09:16:53.983+08:00
+  lastmodified: 2025-06-29T17:35:33.364+08:00
+  lastmodifiedby: 'faith-nwp'
+  'START HERE----->Eala-falls-short-vs.-Joint-in-historic-Eastbourne-Open-final':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T09:16:57.000+08:00
+    imagesource: '255cbf21-4454-445d-911d-96722c745d8a'
+    primarytype: 'composition'
+    uuid: '484b6189-5230-460d-9da3-901aa64a8790'
+    lead: 'Filipino tennis ace Alex Eala fell short against Aussie player Maya Joint,
       6-4, 1-6, 7-6(10), in the WTA 250 Eastbourne Open on Saturday evening, June
       28 (Manila time).'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T09:18:41.902+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T11:16:09.491+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T11:16:09.071+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Eala falls short vs. Joint in historic Eastbourne Open final'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37e6883f-54e9-4905-b967-69b0e1cefbe5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.915+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.492+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.061+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Filipino tennis ace
+    activationstatus: true
+    created: 2025-06-29T09:18:41.902+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T11:16:09.491+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T11:16:09.071+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Eala falls short vs. Joint in historic Eastbourne Open final'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '37e6883f-54e9-4905-b967-69b0e1cefbe5'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.915+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.492+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.061+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Filipino tennis ace
         Alex Eala fell short against Aussie player Maya Joint, 6-4, 1-6, 7-6(10),
         in the WTA 250 Eastbourne Open on Saturday evening, June 28 (Manila time).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34fdb262-71cd-4227-8f45-8b34256b3e23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.915+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.492+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Eala’s heartbreak loss in the United Kingdom could have been her first
+    section1:
+      primarytype: 'block'
+      uuid: '34fdb262-71cd-4227-8f45-8b34256b3e23'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.915+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.492+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Eala’s heartbreak loss in the United Kingdom could have been her first
         Women’s Tennis Association (WTA) title, and a first for the Philippines.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '867db316-63ae-420e-b0d7-89550cf5fe49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.916+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.493+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“It’s a big deal for me and for my country too, because it’s historic.
+    section2:
+      primarytype: 'block'
+      uuid: '867db316-63ae-420e-b0d7-89550cf5fe49'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.916+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.493+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“It’s a big deal for me and for my country too, because it’s historic.
         It’s the first time any Filipina has done anything (like this),” she said
         during the awarding ceremony.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d2b888a-628f-4e82-8a3e-064d892c8610'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.916+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.493+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.063+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Eala bounced back to get hold of the second set and force a decider.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df905db0-2f51-4e25-8f99-fa10e05806aa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.917+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.493+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'In the third set’s tiebreak, Eala landed the first championship point
+    section3:
+      primarytype: 'block'
+      uuid: '4d2b888a-628f-4e82-8a3e-064d892c8610'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.916+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.493+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.063+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Eala bounced back to get hold of the second set and force a decider.'
+    section4:
+      primarytype: 'block'
+      uuid: 'df905db0-2f51-4e25-8f99-fa10e05806aa'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.917+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.493+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'In the third set’s tiebreak, Eala landed the first championship point
         at 6-5. However, she could not entirely pull away, blowing off four championship
         points.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e918861-84f8-4160-8f00-6b60f036697e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.917+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.494+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'At 10-10, Eala would lose the rally after passing the ball out of bounds.
+    section5:
+      primarytype: 'block'
+      uuid: '2e918861-84f8-4160-8f00-6b60f036697e'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.917+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.494+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'At 10-10, Eala would lose the rally after passing the ball out of bounds.
         With the score at 11-10 in favor of Joint, the Australian made a forceful
         serve and another strong shot to end the match.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73a5a5b9-7d25-40fd-ac0f-d99eeedb0220'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.917+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.494+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.065+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'The 19-year-old Joint collapsed on the grass after 2 hours and 26 minutes
+    section6:
+      primarytype: 'block'
+      uuid: '73a5a5b9-7d25-40fd-ac0f-d99eeedb0220'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.917+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.494+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.065+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'The 19-year-old Joint collapsed on the grass after 2 hours and 26 minutes
         of gripping play, while the 20-year-old Eala shed tears. The WTA said it was
         the youngest Eastbourne final by combined age since 1981.'
-    '7':
-      'contentWidth': '100%'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DLcvWAQPPdI/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section7:
+      contentwidth: '100%'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DLcvWAQPPdI/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -214,1377 +214,1377 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by Bongbong Marcos (@bongbongmarcos)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce70313d-57f6-4885-bdf2-66de1469088c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.918+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.494+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.065+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f748d156-b240-44ee-9a94-4a7232d0b849'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.918+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.495+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.066+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Ferdinand Marcos Jr. said on Instagram that Eala’s WTA 250
+      primarytype: 'block'
+      uuid: 'ce70313d-57f6-4885-bdf2-66de1469088c'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.918+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.494+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.065+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section8:
+      primarytype: 'block'
+      uuid: 'f748d156-b240-44ee-9a94-4a7232d0b849'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.918+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.495+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.066+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'President Ferdinand Marcos Jr. said on Instagram that Eala’s WTA 250
         singles final appearance was “already a victory for our country and for the
         millions of Filipinos who stand proudly behind you.”'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59267183-0405-4cef-b69a-a36782ad37e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.919+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.495+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.066+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“I guess that’s also why I’m so emotional, but you know, it’s only
+    section9:
+      primarytype: 'block'
+      uuid: '59267183-0405-4cef-b69a-a36782ad37e4'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.919+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.495+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.066+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“I guess that’s also why I’m so emotional, but you know, it’s only
         the first. I definitely will work hard to do more, Wimbledon is next week,”
         Eala said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52b514ca-3ddd-46c1-989c-8fe145a1c0a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.919+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.495+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'For her Wimbledon main draw debut in London, Eala will have an early
+    section10:
+      primarytype: 'block'
+      uuid: '52b514ca-3ddd-46c1-989c-8fe145a1c0a5'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.919+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.495+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'For her Wimbledon main draw debut in London, Eala will have an early
         test, facing World No. 17 and defending champion Barbora Krejcikova of the
         Czech Republic.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b9c44a2-2f27-4035-8f11-0a5009351e71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.920+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.496+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Even without the Eastbourne Open victory, Eala is already poised for
+    section11:
+      primarytype: 'block'
+      uuid: '3b9c44a2-2f27-4035-8f11-0a5009351e71'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.920+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.496+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Even without the Eastbourne Open victory, Eala is already poised for
         a new career high, jumping to No. 56 in the live world rankings.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eee58d25-8dad-45ec-9872-2d8cf242ed13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.920+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.496+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.068+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The tennis star currently sits at world No. 74.</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ee50b88-70f8-4f6e-962b-cece97105a0f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.921+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.496+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.068+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'In March, she had a dream run at the Miami Open to reach the semifinals,
+    section12:
+      primarytype: 'block'
+      uuid: 'eee58d25-8dad-45ec-9872-2d8cf242ed13'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.920+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.496+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.068+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The tennis star currently sits at world No. 74.</p>'
+    section13:
+      primarytype: 'block'
+      uuid: '1ee50b88-70f8-4f6e-962b-cece97105a0f'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.921+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.496+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.068+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'In March, she had a dream run at the Miami Open to reach the semifinals,
         where she lost to world No. 4 Jessica Pegula.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98589ee8-ee66-42fb-abbd-db6eb382e0bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.921+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.497+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.069+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'But before that loss, Eala mounted a streak of beating top players,
+    section14:
+      primarytype: 'block'
+      uuid: '98589ee8-ee66-42fb-abbd-db6eb382e0bb'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.921+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.497+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.069+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'But before that loss, Eala mounted a streak of beating top players,
         including former French Open champion Jelena Ostapenko, reigning Australian
         Open champion Madison Keys, and world No. 2 Iga Swiatek.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '06611cff-44b3-4479-a9a7-d317c8627186'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T09:18:41.922+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T11:16:09.497+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T11:16:09.070+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“It’s been a crazy year. I’m going to remember this week and this
+    section15:
+      primarytype: 'block'
+      uuid: '06611cff-44b3-4479-a9a7-d317c8627186'
+      activationstatus: true
+      created: 2025-06-29T09:18:41.922+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T11:16:09.497+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T11:16:09.070+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>“It’s been a crazy year. I’m going to remember this week and this
         moment forever,” Eala told the crowd at the Eastbourne Open tennis tournament,
         held at the Devonshire Park.</p>'
-  'US-Senate-Republicans-advance-Trump-bill-toward-passage':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T12:24:14.000+08:00
-    'imagesource': 'jcr:432b493b-4494-4c74-8630-b7cde5ff856c'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a9512719-998d-440b-88c4-03f17ef1be7d'
-    'lead': 'The Republican-controlled US Senate advanced President Donald Trump’s
+  'START HERE----->US-Senate-Republicans-advance-Trump-bill-toward-passage':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T12:24:14.000+08:00
+    imagesource: '432b493b-4494-4c74-8630-b7cde5ff856c'
+    primarytype: 'composition'
+    uuid: 'a9512719-998d-440b-88c4-03f17ef1be7d'
+    lead: 'The Republican-controlled US Senate advanced President Donald Trump’s
       sweeping tax-cut and spending bill in a key procedural vote on Saturday, raising
       the odds that lawmakers will be able to pass the legislation in coming days.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T12:26:11.023+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T12:28:20.032+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T12:28:19.854+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US Senate Republicans advance Trump bill toward passage'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7622b0e-1fc7-492c-accc-bd6a34e317a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:26:11.045+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:20.032+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:19.853+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> The Republican-controlled U.S. Senate
+    activationstatus: true
+    created: 2025-06-29T12:26:11.023+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T12:28:20.032+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T12:28:19.854+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US Senate Republicans advance Trump bill toward passage'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b7622b0e-1fc7-492c-accc-bd6a34e317a5'
+      activationstatus: true
+      created: 2025-06-29T12:26:11.045+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:20.032+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:19.853+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> The Republican-controlled U.S. Senate
         advanced President Donald Trump’s sweeping tax-cut and spending bill in a
         key procedural vote on Saturday, raising the odds that lawmakers will be able
         to pass the legislation in coming days.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2982c8ed-1760-4a2c-896f-1b3246f11249'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:26:11.046+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:20.033+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:19.853+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by David Morgan; Editing by Kim Coghill)</p>'
-  'Taiwan-VP-says-will-not-be-intimidated-after-Czech-says-China-planned-physical-intimidation':
-    'author': 'Jan Lopatka and Yimou Lee, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T12:26:14.000+08:00
-    'imagesource': 'jcr:5cf857eb-c6dc-4e00-905d-67d32485f925'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '443d1597-3715-4550-b564-b0a4d3bea566'
-    'lead': 'Taiwan’s Vice-President Hsiao Bi-khim said she will not be intimidated
+    section1:
+      primarytype: 'block'
+      uuid: '2982c8ed-1760-4a2c-896f-1b3246f11249'
+      activationstatus: true
+      created: 2025-06-29T12:26:11.046+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:20.033+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:19.853+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by David Morgan; Editing by Kim Coghill)</p>'
+  'START HERE----->Taiwan-VP-says-will-not-be-intimidated-after-Czech-says-China-planned-physical-intimidation':
+    author: 'Jan Lopatka and Yimou Lee, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T12:26:14.000+08:00
+    imagesource: '5cf857eb-c6dc-4e00-905d-67d32485f925'
+    primarytype: 'composition'
+    uuid: '443d1597-3715-4550-b564-b0a4d3bea566'
+    lead: 'Taiwan’s Vice-President Hsiao Bi-khim said she will not be intimidated
       by China after Czech military intelligence said Chinese diplomats and secret
       service followed Hsiao and planned to intimidate her physically when she visited
       Prague last year.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T12:28:09.901+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T12:28:10.348+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Taiwan VP says will not be intimidated after Czech says China planned
+    activationstatus: true
+    created: 2025-06-29T12:28:09.901+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T12:28:10.348+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T12:28:09.964+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Taiwan VP says will not be intimidated after Czech says China planned
       physical intimidation'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1cc4f060-73b7-4d3d-afaf-8f489760fea4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.914+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.349+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Taiwan’s Vice-President Hsiao Bi-khim
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1cc4f060-73b7-4d3d-afaf-8f489760fea4'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.914+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.349+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Taiwan’s Vice-President Hsiao Bi-khim
         said she will not be intimidated by China after Czech military intelligence
         said Chinese diplomats and secret service followed Hsiao and planned to intimidate
         her physically when she visited Prague last year.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73e0406f-33fe-462b-b58a-b6692a731890'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.914+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.350+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hsiao visited the Czech Republic in March 2024. Prague does not have
+    section1:
+      primarytype: 'block'
+      uuid: '73e0406f-33fe-462b-b58a-b6692a731890'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.914+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.350+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hsiao visited the Czech Republic in March 2024. Prague does not have
         official diplomatic ties with Taiwan but has fostered warm relations with
         the democratically-governed island, which China views as its own territory
         despite Taiwan’s rejection.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd694abe6-ef23-4b3e-9a7b-ef1fce4b1b63'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.914+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.351+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Czech media reported last year that a Chinese diplomat had run a red
+    section2:
+      primarytype: 'block'
+      uuid: 'd694abe6-ef23-4b3e-9a7b-ef1fce4b1b63'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.914+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.351+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Czech media reported last year that a Chinese diplomat had run a red
         light when following her car. Czech public radio news website irozhlas.cz
         said on Thursday that the Chinese had also planned to stage a demonstrative
         car crash.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fbbb3ac9-8d30-494b-8f29-b13398a5f62d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.915+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.352+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I had a great visit to Prague &amp; thank the Czech authorities for
+    section3:
+      primarytype: 'block'
+      uuid: 'fbbb3ac9-8d30-494b-8f29-b13398a5f62d'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.915+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.352+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I had a great visit to Prague &amp; thank the Czech authorities for
         their hospitality &amp; ensuring my safety. The CCP’s unlawful activities
         will NOT intimidate me from voicing Taiwan’s interests in the international
         community," Hsiao wrote in a post on X social media platform on Saturday,
         referring to the Chinese Communist Party. Her post was linked to the Reuters
         report on the incident.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17bc5408-402f-4a84-bad6-a7a19286ee98'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.915+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.353+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a separate post on X, Hsiao thanked global parliamentarians who
+    section4:
+      primarytype: 'block'
+      uuid: '17bc5408-402f-4a84-bad6-a7a19286ee98'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.915+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.353+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a separate post on X, Hsiao thanked global parliamentarians who
         have expressed solidarity against "violence and coercion."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49ffb4c4-0a16-4253-9e04-c63356d6b241'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.915+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.354+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Taiwan will not be isolated by intimidation," Hsiao wrote.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c494a388-9c09-4ec0-9560-fcfdbca4ac53'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.916+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.355+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Czech Military Intelligence spokesman said Chinese diplomats in Prague
+    section5:
+      primarytype: 'block'
+      uuid: '49ffb4c4-0a16-4253-9e04-c63356d6b241'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.915+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.354+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Taiwan will not be isolated by intimidation," Hsiao wrote.'
+    section6:
+      primarytype: 'block'
+      uuid: 'c494a388-9c09-4ec0-9560-fcfdbca4ac53'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.916+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.355+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Czech Military Intelligence spokesman said Chinese diplomats in Prague
         had taken actions that violated diplomatic rules.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb576e3b-7b7d-4d0c-a0fa-afb539d294c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.916+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.356+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"This consisted of physically following the vice-president, gathering
+    section7:
+      primarytype: 'block'
+      uuid: 'fb576e3b-7b7d-4d0c-a0fa-afb539d294c2'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.916+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.356+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"This consisted of physically following the vice-president, gathering
         information on her schedule and attempts to document her meetings with important
         representatives of the Czech political and public scene," spokesman Jan Pejsek
         said in emailed comments to Reuters.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79d6cf05-0533-42b5-a02f-f467dbb3b3cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.916+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.357+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We even recorded an attempt by the Chinese civil secret service to
+    section8:
+      primarytype: 'block'
+      uuid: '79d6cf05-0533-42b5-a02f-f467dbb3b3cf'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.916+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.357+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We even recorded an attempt by the Chinese civil secret service to
         create conditions to perform a demonstrative kinetic action against a protected
         person, which however did not go beyond the phase of preparation."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f9e6496-230f-4e0c-b83f-8df10f7c1b95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.917+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.358+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A spokesperson for China’s foreign ministry, commenting on the matter,
+    section9:
+      primarytype: 'block'
+      uuid: '0f9e6496-230f-4e0c-b83f-8df10f7c1b95'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.917+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.358+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A spokesperson for China’s foreign ministry, commenting on the matter,
         denied any wrongdoing by Chinese diplomats and also said the Czech Republic
         had interfered in China’s internal affairs by allowing Hsiao’s visit to
         go ahead.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'daf2d9df-b073-404b-9be6-ebe30b7f1a78'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.917+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.358+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Czech Foreign Ministry said it had summoned the Chinese ambassador
+    section10:
+      primarytype: 'block'
+      uuid: 'daf2d9df-b073-404b-9be6-ebe30b7f1a78'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.917+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.358+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Czech Foreign Ministry said it had summoned the Chinese ambassador
         over the incident at the time but did not comment further on Friday.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '647d8ca2-4e4c-49b7-ae6d-f6825008b23b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.918+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.359+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"This is the CCP’s criminality on display for the whole world to see.
-        This isn''t diplomacy, it’s coercion," the U.S. House of Representatives
+    section11:
+      primarytype: 'block'
+      uuid: '647d8ca2-4e4c-49b7-ae6d-f6825008b23b'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.918+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.359+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"This is the CCP’s criminality on display for the whole world to see.
+        This isn't diplomacy, it’s coercion," the U.S. House of Representatives
         Foreign Affairs Committee wrote on X.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7185b89d-a797-4beb-b098-d092e8cc8962'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.918+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.360+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>TAIWAN PROTESTS</strong></h3>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee3ef09c-2801-48dd-bdf2-805092bf9e17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.918+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.361+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Taiwan’s China-policy making Mainland Affairs Council said the Chinese
+    section12:
+      primarytype: 'block'
+      uuid: '7185b89d-a797-4beb-b098-d092e8cc8962'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.918+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.360+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>TAIWAN PROTESTS</strong></h3>'
+    section13:
+      primarytype: 'block'
+      uuid: 'ee3ef09c-2801-48dd-bdf2-805092bf9e17'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.918+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.361+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Taiwan’s China-policy making Mainland Affairs Council said the Chinese
         actions "seriously threatened the personal safety of Vice President Hsiao
         and her entourage".'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8be6b476-c2a1-4aff-9852-d64ea6131bfd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.919+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.362+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The Mainland Affairs Council today protested and strongly condemned
+    section14:
+      primarytype: 'block'
+      uuid: '8be6b476-c2a1-4aff-9852-d64ea6131bfd'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.919+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.362+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The Mainland Affairs Council today protested and strongly condemned
         the Chinese communist’s bad behaviour and demanded that the Chinese side
         should immediately explain and publicly apologise," it said.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a6c1770-c8f4-4cb2-9374-b8669559c2bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.919+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.363+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A senior Taiwan security official briefed on the matter told Reuters
+    section15:
+      primarytype: 'block'
+      uuid: '4a6c1770-c8f4-4cb2-9374-b8669559c2bf'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.919+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.363+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A senior Taiwan security official briefed on the matter told Reuters
         the incident was an example of "transnational repression" by China that the
         European Union is currently paying close attention to.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48e3d3de-7325-4113-a517-098827ff47fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.920+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.363+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"This is a problem that everyone should pay attention to," the official
+    section16:
+      primarytype: 'block'
+      uuid: '48e3d3de-7325-4113-a517-098827ff47fe'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.920+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.363+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"This is a problem that everyone should pay attention to," the official
         requesting anonymity said, adding many government officials around the world
         were threatened by China upon visits made by Taiwanese officials or politicians
         to their countries.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2aa9c78a-04e1-4680-b5aa-584ce4b11bc7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.920+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.364+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In Beijing, foreign ministry spokesman Guo Jiakun said: "Chinese diplomats
+    section17:
+      primarytype: 'block'
+      uuid: '2aa9c78a-04e1-4680-b5aa-584ce4b11bc7'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.920+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.364+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In Beijing, foreign ministry spokesman Guo Jiakun said: "Chinese diplomats
         have always abided by the laws and regulations of the countries in which they
         are stationed."'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0e3a6f34-8931-48f5-97cd-8b6ef969a6c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.920+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.365+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"China urges the parties concerned not to be provoked and exploited
+    section18:
+      primarytype: 'block'
+      uuid: '0e3a6f34-8931-48f5-97cd-8b6ef969a6c0'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.920+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.365+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"China urges the parties concerned not to be provoked and exploited
         by separatist forces for Taiwan independence, and to not make a fuss over
         nothing, engage in malicious speculation, and interfere with and undermine
         the relations between the two countries."'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3758f88-05c0-4c50-8091-a80f8c8a20b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.921+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.366+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hsiao assumed office, along with President Lai Ching-te, on May 20
+    section19:
+      primarytype: 'block'
+      uuid: 'f3758f88-05c0-4c50-8091-a80f8c8a20b4'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.921+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.366+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hsiao assumed office, along with President Lai Ching-te, on May 20
         last year.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '574b6f92-d7d6-4c75-a0b0-6d29cdf13698'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.921+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.367+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Czech relations with China have cooled in recent years. The Czechs
+    section20:
+      primarytype: 'block'
+      uuid: '574b6f92-d7d6-4c75-a0b0-6d29cdf13698'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.921+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.367+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Czech relations with China have cooled in recent years. The Czechs
         accused China in May of being behind a cyberattack on the foreign ministry.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'edf5e4cf-c546-42ea-99ff-3738f07d526a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.922+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.368+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Czech politicians have visited Taiwan and former Taiwan President Tsai
+    section21:
+      primarytype: 'block'
+      uuid: 'edf5e4cf-c546-42ea-99ff-3738f07d526a'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.922+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.368+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Czech politicians have visited Taiwan and former Taiwan President Tsai
         Ing-wen visited Prague last October.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0ff0609-a32d-42b0-bc1a-850d5874dc14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.922+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.368+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'China views separately governed Taiwan as its own territory and has
+    section22:
+      primarytype: 'block'
+      uuid: 'f0ff0609-a32d-42b0-bc1a-850d5874dc14'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.922+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.368+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'China views separately governed Taiwan as its own territory and has
         ramped up its military and political pressure in recent years. Taiwan says
         only its people can decide their future and vows to defend its freedom and
         democracy.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '268be0fb-46fd-4237-83e0-cdba4a7dbbf5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:28:09.923+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:28:10.369+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:28:09.964+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jan Lopatka in Prague, Yimou Lee and Ben Blanchard
+    section23:
+      primarytype: 'block'
+      uuid: '268be0fb-46fd-4237-83e0-cdba4a7dbbf5'
+      activationstatus: true
+      created: 2025-06-29T12:28:09.923+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:28:10.369+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:28:09.964+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jan Lopatka in Prague, Yimou Lee and Ben Blanchard
         in Taipei and Joe Cash in Beijing; Editing by Gareth Jones and Kim Coghill)</em></p>'
-  'Trump-slams-Israel-s-prosecutors-over-Netanyahu-corruption-trial':
-    'author': 'Ryan Patrick Jones, Mike Stone, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T12:28:33.000+08:00
-    'imagesource': 'jcr:477c379a-72cd-4e17-a8f0-10f8a649cc65'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '616dea6d-1f57-4c59-bd2b-eabb9725c266'
-    'lead': 'President Donald Trump on Saturday lashed out at prosecutors in Israel
+  'START HERE----->Trump-slams-Israel-s-prosecutors-over-Netanyahu-corruption-trial':
+    author: 'Ryan Patrick Jones, Mike Stone, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T12:28:33.000+08:00
+    imagesource: '477c379a-72cd-4e17-a8f0-10f8a649cc65'
+    primarytype: 'composition'
+    uuid: '616dea6d-1f57-4c59-bd2b-eabb9725c266'
+    lead: 'President Donald Trump on Saturday lashed out at prosecutors in Israel
       over the corruption trial that Israeli Prime Minister Benjamin Netanyahu has
       faced, saying Washington, having given billions of dollars worth of aid to Israel,
       was not going to "stand for this."'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T12:29:38.287+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T12:29:38.554+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump slams Israel’s prosecutors over Netanyahu corruption trial'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f41ea759-aba8-4da2-af10-583ed83f72db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.299+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.555+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> President Donald Trump on Saturday
+    activationstatus: true
+    created: 2025-06-29T12:29:38.287+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T12:29:38.554+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T12:29:38.325+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump slams Israel’s prosecutors over Netanyahu corruption trial'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f41ea759-aba8-4da2-af10-583ed83f72db'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.299+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.555+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> President Donald Trump on Saturday
         lashed out at prosecutors in Israel over the corruption trial that Israeli
         Prime Minister Benjamin Netanyahu has faced, saying Washington, having given
         billions of dollars worth of aid to Israel, was not going to "stand for this".</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd247e59b-bc4b-44b0-a4e4-4e3cbfc5a07f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.299+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.556+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Netanyahu was indicted in 2019 in Israel on charges of bribery, fraud
+    section1:
+      primarytype: 'block'
+      uuid: 'd247e59b-bc4b-44b0-a4e4-4e3cbfc5a07f'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.299+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.556+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Netanyahu was indicted in 2019 in Israel on charges of bribery, fraud
         and breach of trust - all of which he denies. The trial began in 2020 and
         involves three criminal cases.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5041288-d56a-428e-ba28-9a9ab6465d0a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.299+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.557+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It is INSANITY doing what the out-of-control prosecutors are doing
+    section2:
+      primarytype: 'block'
+      uuid: 'f5041288-d56a-428e-ba28-9a9ab6465d0a'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.299+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.557+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It is INSANITY doing what the out-of-control prosecutors are doing
         to Bibi Netanyahu," Trump said in a Truth Social post, adding that the judicial
         process was going to interfere with Netanyahu’s ability to conduct talks
         with Palestinian militants Hamas, and Iran.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '366d7377-433a-41f6-95a0-7b12acc4e031'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.300+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.558+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s second post over the course of a few days defending Netanyahu
+    section3:
+      primarytype: 'block'
+      uuid: '366d7377-433a-41f6-95a0-7b12acc4e031'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.300+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.558+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump’s second post over the course of a few days defending Netanyahu
         and calling for the cancellation of the trial went a step further to tie Israel’s
         legal action to U.S. aid.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5e23a9f6-3a07-4b2d-af30-38a74cd2c890'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.300+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.559+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The United States of America spends Billions of Dollar [sic] a year,
+    section4:
+      primarytype: 'block'
+      uuid: '5e23a9f6-3a07-4b2d-af30-38a74cd2c890'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.300+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.559+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The United States of America spends Billions of Dollar [sic] a year,
         far more than on any other Nation, protecting and supporting Israel. We are
         not going to stand for this," Trump said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e531e20-37d8-4d0b-aae9-5200046c9d9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.300+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.560+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Netanyahu "right now" was in the process of negotiating a deal with
+    section5:
+      primarytype: 'block'
+      uuid: '1e531e20-37d8-4d0b-aae9-5200046c9d9f'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.300+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.560+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Netanyahu "right now" was in the process of negotiating a deal with
         Hamas, Trump said, without giving further details. On Friday, the Republican
         president told reporters that he believes a ceasefire is close.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '20131b8f-a625-41c8-accf-ed4b45d8927b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.301+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.561+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hamas has said it is willing to free remaining hostages in Gaza under
+    section6:
+      primarytype: 'block'
+      uuid: '20131b8f-a625-41c8-accf-ed4b45d8927b'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.301+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.561+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hamas has said it is willing to free remaining hostages in Gaza under
         any deal to end the war, while Israel says it can only end if Hamas is disarmed
         and dismantled. Hamas refuses to lay down its arms.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a639e984-48e5-472a-8ec2-7bbd6684e903'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.301+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.562+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Interest in resolving the Gaza conflict has heightened in the wake
+    section7:
+      primarytype: 'block'
+      uuid: 'a639e984-48e5-472a-8ec2-7bbd6684e903'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.301+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.562+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Interest in resolving the Gaza conflict has heightened in the wake
         of the U.S. and Israeli bombing of Iran’s nuclear facilities. A ceasefire
         to the 12-day Israel-Iran conflict went into effect early this week.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b34acfd-c4d5-49d5-8d84-b121c1d226a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T12:29:38.301+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T12:29:38.563+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T12:29:38.325+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Ryan Patrick Jones and Mike Stone, Editing by
+    section8:
+      primarytype: 'block'
+      uuid: '5b34acfd-c4d5-49d5-8d84-b121c1d226a6'
+      activationstatus: true
+      created: 2025-06-29T12:29:38.301+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T12:29:38.563+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T12:29:38.325+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Ryan Patrick Jones and Mike Stone, Editing by
         Humeyra Pamuk, Sandra Maler and Chizu Nomiyama )</em></p>'
-  'South-Korea-s-Lee-nominates-new-finance--industry-ministers':
-    'author': 'Ju-min Park, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T14:38:21.000+08:00
-    'imagesource': 'jcr:8af3d298-d307-4344-9aa9-b957b093d81e'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd3ddae9c-e73b-4db2-acc0-e67e4601fa8f'
-    'lead': 'South Korea President Lee Jae Myung has nominated a former vice finance
+  'START HERE----->South-Korea-s-Lee-nominates-new-finance--industry-ministers':
+    author: 'Ju-min Park, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T14:38:21.000+08:00
+    imagesource: '8af3d298-d307-4344-9aa9-b957b093d81e'
+    primarytype: 'composition'
+    uuid: 'd3ddae9c-e73b-4db2-acc0-e67e4601fa8f'
+    lead: 'South Korea President Lee Jae Myung has nominated a former vice finance
       minister, Koo Yoon-cheol, to be finance minister, his office said on Sunday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T14:39:24.980+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T14:39:25.208+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T14:39:25.022+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'South Korea’s Lee nominates new finance, industry ministers'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5f693c7-24e4-4492-bc64-9e8de21e946c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:39:25.006+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:39:25.209+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:39:25.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> South Korea President Lee Jae Myung
+    activationstatus: true
+    created: 2025-06-29T14:39:24.980+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T14:39:25.208+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T14:39:25.022+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea’s Lee nominates new finance, industry ministers'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c5f693c7-24e4-4492-bc64-9e8de21e946c'
+      activationstatus: true
+      created: 2025-06-29T14:39:25.006+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:39:25.209+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:39:25.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> South Korea President Lee Jae Myung
         has nominated a former vice finance minister, Koo Yoon-cheol, to be finance
         minister, his office said on Sunday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ca26f79-916c-4426-bc00-2ce9f88f2659'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:39:25.006+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:39:25.210+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:39:25.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Among other ministerial positions, Lee also named Kim Jung-kwan, president
+    section1:
+      primarytype: 'block'
+      uuid: '4ca26f79-916c-4426-bc00-2ce9f88f2659'
+      activationstatus: true
+      created: 2025-06-29T14:39:25.006+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:39:25.210+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:39:25.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Among other ministerial positions, Lee also named Kim Jung-kwan, president
         of Doosan Enerbility and a veteran bureaucrat in the energy sector, to be
         industry minister, his office said.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '26f9aaa6-3b6e-40a4-9490-dd646778e9ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:39:25.006+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:39:25.211+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:39:25.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by Ju-min Park;Editing by William Mallard)</p>'
-  'Iran-says-71-killed-in-Israeli-strike-on-Evin-Prison':
-    'author': 'Reuters Dubai Newsroom'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T14:39:33.000+08:00
-    'imagesource': 'jcr:68b76f97-07ea-4a5d-972b-564352872391'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '0f0276d8-27da-4925-8a3d-3f88834957cf'
-    'lead': 'Israel’s attack on the Evin Prison in Iran’s capital Tehran on June
+    section2:
+      primarytype: 'block'
+      uuid: '26f9aaa6-3b6e-40a4-9490-dd646778e9ae'
+      activationstatus: true
+      created: 2025-06-29T14:39:25.006+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:39:25.211+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:39:25.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by Ju-min Park;Editing by William Mallard)</p>'
+  'START HERE----->Iran-says-71-killed-in-Israeli-strike-on-Evin-Prison':
+    author: 'Reuters Dubai Newsroom'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T14:39:33.000+08:00
+    imagesource: '68b76f97-07ea-4a5d-972b-564352872391'
+    primarytype: 'composition'
+    uuid: '0f0276d8-27da-4925-8a3d-3f88834957cf'
+    lead: 'Israel’s attack on the Evin Prison in Iran’s capital Tehran on June
       23 killed 71 people, Iranian judiciary spokesperson Asghar Jahangir said on
       Sunday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T14:40:36.185+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T14:40:36.424+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Iran says 71 killed in Israeli strike on Evin Prison'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb2d8ba0-fd29-4320-ab28-e1c5a5370577'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.197+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.425+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Israel’s attack on the Evin Prison
+    activationstatus: true
+    created: 2025-06-29T14:40:36.185+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T14:40:36.424+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T14:40:36.215+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Iran says 71 killed in Israeli strike on Evin Prison'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'eb2d8ba0-fd29-4320-ab28-e1c5a5370577'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.197+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.425+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Israel’s attack on the Evin Prison
         in Iran’s capital Tehran on June 23 killed 71 people, Iranian judiciary spokesperson
         Asghar Jahangir said on Sunday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c16eaeb-3017-49be-a17c-e671e9bebb3d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.197+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.426+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'At the end of an air war with Iran, Israel struck Tehran’s most notorious
+    section1:
+      primarytype: 'block'
+      uuid: '5c16eaeb-3017-49be-a17c-e671e9bebb3d'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.197+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.426+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'At the end of an air war with Iran, Israel struck Tehran’s most notorious
         jail for political prisoners, in a demonstration that it was expanding its
         targets beyond military and nuclear sites to aim at symbols of Iran’s ruling
         system.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f05dc29-3bc3-42af-920a-41ecd5a34621'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.197+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.427+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“In the attack on Evin prison, 71 people were martyred including administrative
+    section2:
+      primarytype: 'block'
+      uuid: '8f05dc29-3bc3-42af-920a-41ecd5a34621'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.197+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.427+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“In the attack on Evin prison, 71 people were martyred including administrative
         staff, youth doing their military service, detainees, family members of detainees
         who were visiting them and neighbours who lived in the prison’s vicinity,”
         Jahangir said in remarks carried on the judiciary’s news outlet Mizan.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a55a1329-264c-44f5-bfc6-6621d7d3c26f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.198+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Jahangir had previously said that part of Evin prison’s administrative
+    section3:
+      primarytype: 'block'
+      uuid: 'a55a1329-264c-44f5-bfc6-6621d7d3c26f'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.198+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Jahangir had previously said that part of Evin prison’s administrative
         building had been damaged in the attack and people were killed and injured.
         The judiciary added that remaining detainees had been transferred to other
         prisons in Tehran province.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2918b510-0975-4dac-ac74-ba583d1c67b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.198+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Evin prison holds a number of foreign nationals, including two French
+    section4:
+      primarytype: 'block'
+      uuid: '2918b510-0975-4dac-ac74-ba583d1c67b4'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.198+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Evin prison holds a number of foreign nationals, including two French
         citizens detained for three years.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a6c1aa4-9ba6-4a86-a02d-f57504803994'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.198+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.430+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The strike targeting Evin prison in Tehran, put our citizens Cecile
+    section5:
+      primarytype: 'block'
+      uuid: '5a6c1aa4-9ba6-4a86-a02d-f57504803994'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.198+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.430+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The strike targeting Evin prison in Tehran, put our citizens Cecile
         Kohler and Jacques Paris in danger. It is unacceptable," France’s Foreign
         Minister Jean-Noel Barrot had said on social media X after the attack.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50087dbe-fd71-43a7-8a2c-dc71f453829e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T14:40:36.199+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T14:40:36.431+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T14:40:36.215+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Dubai Newsroom; Editing by Kim Coghill)</em></p>'
-  'US-plan-for-ammo-factory-in-Subic-slammed':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T15:32:58.000+08:00
-    'imagesource': 'jcr:091813d6-122f-4f23-ac3b-d4341bdfcf98'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3039c683-cbe5-45ca-9bfb-7918667e25b9'
-    'lead': 'A former lawmaker strongly denounced the United States’ reported plan
+    section6:
+      primarytype: 'block'
+      uuid: '50087dbe-fd71-43a7-8a2c-dc71f453829e'
+      activationstatus: true
+      created: 2025-06-29T14:40:36.199+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T14:40:36.431+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T14:40:36.215+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Dubai Newsroom; Editing by Kim Coghill)</em></p>'
+  'START HERE----->US-plan-for-ammo-factory-in-Subic-slammed':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T15:32:58.000+08:00
+    imagesource: '091813d6-122f-4f23-ac3b-d4341bdfcf98'
+    primarytype: 'composition'
+    uuid: '3039c683-cbe5-45ca-9bfb-7918667e25b9'
+    lead: 'A former lawmaker strongly denounced the United States’ reported plan
       to establish an ammunition factory and storage facility at the former American
       naval base in Subic Bay.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T15:35:58.618+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T15:35:58.889+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US plan for ammo factory in Subic slammed'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4dae5c9-5bbf-4ea8-b595-8da5465655a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.630+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.890+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> A former lawmaker strongly
+    activationstatus: true
+    created: 2025-06-29T15:35:58.618+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T15:35:58.889+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T15:35:58.656+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US plan for ammo factory in Subic slammed'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a4dae5c9-5bbf-4ea8-b595-8da5465655a0'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.630+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.890+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> A former lawmaker strongly
         denounced the United States’ reported plan to establish an ammunition factory
         and storage facility at the former American naval base in Subic Bay.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9cbefcdd-4005-4f1e-9b5e-3f050f0e374b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.630+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.891+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This comes as the US House committee on appropriations ordered several
+    section1:
+      primarytype: 'block'
+      uuid: '9cbefcdd-4005-4f1e-9b5e-3f050f0e374b'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.630+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.891+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This comes as the US House committee on appropriations ordered several
         departments to assess “the feasibility of establishing a joint ammunition
         manufacturing and storage facility” at the former US Subic Bay Naval Base.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb5bd665-8e03-45da-8182-144d6af09997'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.630+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.892+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In its report dated June 16, the panel cited “the lack of a forward-staged
+    section2:
+      primarytype: 'block'
+      uuid: 'fb5bd665-8e03-45da-8182-144d6af09997'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.630+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.892+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In its report dated June 16, the panel cited “the lack of a forward-staged
         ammunition manufacturing” in the Indo-Pacific region as its reason.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96cc2016-07f3-4cf5-b741-4f33889aae55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.893+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In response, former Bayan Muna Rep. Carlos Isagani Zarate warned that
+    section3:
+      primarytype: 'block'
+      uuid: '96cc2016-07f3-4cf5-b741-4f33889aae55'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.893+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In response, former Bayan Muna Rep. Carlos Isagani Zarate warned that
         the move could be a “magnet for conflict.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aca4c1b6-14a8-42b2-b80f-b98c2e461392'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.894+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Zarate said that allowing the US to make such a move tramples on Philippine
+    section4:
+      primarytype: 'block'
+      uuid: 'aca4c1b6-14a8-42b2-b80f-b98c2e461392'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.894+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Zarate said that allowing the US to make such a move tramples on Philippine
         sovereignty and would “dangerously turn the country into a potential military
         target.”'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36755087-874e-443b-8be4-c4b881acabe9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.895+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Allowing the US to build an ammunition factory and depot in Subic
+    section5:
+      primarytype: 'block'
+      uuid: '36755087-874e-443b-8be4-c4b881acabe9'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.895+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Allowing the US to build an ammunition factory and depot in Subic
         is a direct affront to our national sovereignty and independence. It will
         not serve the interest of Filipinos, but will rather make our country a pawn
         and a battleground for superpower conflicts,” Zarate said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f79e4fa3-c47b-4b54-81f6-ffefa7be6837'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.896+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"What the US wants is not to help us, but to use our land as a forward
+    section6:
+      primarytype: 'block'
+      uuid: 'f79e4fa3-c47b-4b54-81f6-ffefa7be6837'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.896+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"What the US wants is not to help us, but to use our land as a forward
         operating base for its own imperial interests in the region,” he added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5e827b2-7d76-4efc-9025-200bea9d3cd2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:35:58.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:35:58.897+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:35:58.656+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The ex-solon challenged the Marcos administration to “truly assert
+    section7:
+      primarytype: 'block'
+      uuid: 'e5e827b2-7d76-4efc-9025-200bea9d3cd2'
+      activationstatus: true
+      created: 2025-06-29T15:35:58.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:35:58.897+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:35:58.656+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The ex-solon challenged the Marcos administration to “truly assert
         an independent foreign policy” and not “again bow down to US dictates at the
         expense of our people’s security and sovereignty.”</p>'
-  'Public-bicam-deliberations-should-not-be--mere-photo-ops----ACT-Teachers':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T15:36:02.000+08:00
-    'imagesource': 'jcr:2b4c744e-4ea9-4dbd-ad68-ecdc61f342e1'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '112bd1a3-d2f3-47d1-ab12-9c76c97cbf81'
-    'lead': 'The lawmakers urged that this commitment must translate into “genuine
+  'START HERE----->Public-bicam-deliberations-should-not-be--mere-photo-ops----ACT-Teachers':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T15:36:02.000+08:00
+    imagesource: '2b4c744e-4ea9-4dbd-ad68-ecdc61f342e1'
+    primarytype: 'composition'
+    uuid: '112bd1a3-d2f3-47d1-ab12-9c76c97cbf81'
+    lead: 'The lawmakers urged that this commitment must translate into “genuine
       openness and accountability,” and not just serve as a “photo opportunity” as
       experienced in previous years.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T15:38:42.797+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T15:38:43.214+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Public bicam deliberations should not be ‘mere photo ops’ — ACT Teachers'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f43df910-583b-448d-b344-740758560efb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.837+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.215+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - ACT Teachers party-list representatives
+    activationstatus: true
+    created: 2025-06-29T15:38:42.797+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T15:38:43.214+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T15:38:42.873+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Public bicam deliberations should not be ‘mere photo ops’ — ACT Teachers'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f43df910-583b-448d-b344-740758560efb'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.837+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.215+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - ACT Teachers party-list representatives
         proposed live public access to proceedings and disclosure of changes during
         the next bicameral conference committee budget deliberations, supporting House
         Speaker Martin Romualdez’ call for transparency.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a343344-e760-427b-a02d-50603dcfa7fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.838+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.216+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement on Sunday, June 29, outgoing House Deputy Minority Leader
+    section1:
+      primarytype: 'block'
+      uuid: '3a343344-e760-427b-a02d-50603dcfa7fe'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.838+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.216+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a statement on Sunday, June 29, outgoing House Deputy Minority Leader
         Rep. France Castro and ACT Teachers Party-list Rep.-elect Antonio Tinio welcomed
         the call to publicize the bicam proceedings.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4832b52-801b-4081-b361-203b8d5eeb4a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.838+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.217+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'However, the solons urged that this commitment must translate into
+    section2:
+      primarytype: 'block'
+      uuid: 'd4832b52-801b-4081-b361-203b8d5eeb4a'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.838+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.217+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'However, the solons urged that this commitment must translate into
         “genuine openness and accountability,” and not just serve as a “photo opportunity”
         as experienced in previous years.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9d82b77e-f167-4db4-9a6c-73f7d4cbef23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.838+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.217+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Transparency in the budget process is crucial to restoring public
+    section3:
+      primarytype: 'block'
+      uuid: '9d82b77e-f167-4db4-9a6c-73f7d4cbef23'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.838+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.217+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Transparency in the budget process is crucial to restoring public
         trust, ensuring that every peso is spent for the welfare of the people, not
         for pork barrel or political patronage,” Castro said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b7ee405-3058-4970-abbd-702ff00c019b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.839+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.218+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmakers aired several proposals for “genuine openness” during
+    section4:
+      primarytype: 'block'
+      uuid: '4b7ee405-3058-4970-abbd-702ff00c019b'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.839+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.218+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The lawmakers aired several proposals for “genuine openness” during
         the proceedings:'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '874ef614-8e54-4303-b636-efbbbbd16296'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.839+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.219+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<ul><li><p>Live public access to all bicameral proceedings, with recordings
+    section5:
+      primarytype: 'block'
+      uuid: '874ef614-8e54-4303-b636-efbbbbd16296'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.839+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.219+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<ul><li><p>Live public access to all bicameral proceedings, with recordings
         and minutes published in full</p></li></ul>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ade93f3d-39a9-41d1-8f47-105808e97c3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.839+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.220+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<ul><li><p>Detailed disclosure of all amendments, including authors
+    section6:
+      primarytype: 'block'
+      uuid: 'ade93f3d-39a9-41d1-8f47-105808e97c3f'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.839+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.220+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<ul><li><p>Detailed disclosure of all amendments, including authors
         and justifications</p></li></ul>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4908ce24-4acf-475b-8297-607a884b1604'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.840+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.221+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<ul><li>Timely publication of bicam reports before ratification, allowing
+    section7:
+      primarytype: 'block'
+      uuid: '4908ce24-4acf-475b-8297-607a884b1604'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.840+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.221+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<ul><li>Timely publication of bicam reports before ratification, allowing
         the public and civil society to scrutinize changes</li></ul>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2980bf8-fc6e-415e-9c95-95bfc9bc9342'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.840+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.222+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<ul><li>Inclusion of representatives from affected sectors as observers
+    section8:
+      primarytype: 'block'
+      uuid: 'b2980bf8-fc6e-415e-9c95-95bfc9bc9342'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.840+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.222+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<ul><li>Inclusion of representatives from affected sectors as observers
         in bicameral meetings</li></ul>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72eb1b0c-5b93-4b19-8cce-5934906000c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.841+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.223+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We call on the House leadership to institutionalize these reforms,
+    section9:
+      primarytype: 'block'
+      uuid: '72eb1b0c-5b93-4b19-8cce-5934906000c6'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.841+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.223+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We call on the House leadership to institutionalize these reforms,
         not just for this budget but for all legislation,” Castro said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0db8a3fb-ec72-4494-806c-4a7fb10b5576'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.841+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.223+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'During budget deliberations, the Senate and the House of Representatives
+    section10:
+      primarytype: 'block'
+      uuid: '0db8a3fb-ec72-4494-806c-4a7fb10b5576'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.841+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.223+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'During budget deliberations, the Senate and the House of Representatives
         scrutinize the national fund separately. Once approved, a bicameral conference
         committee is then formed to reconcile the differences in the two chambers’
         versions.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8997df2e-8d39-4717-a6ef-0945e3e92f74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.842+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.224+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Senate and House’s discussions are streamed online but not the
+    section11:
+      primarytype: 'block'
+      uuid: '8997df2e-8d39-4717-a6ef-0945e3e92f74'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.842+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.224+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Senate and House’s discussions are streamed online but not the
         bicameral deliberations.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c00c6103-8ee1-491e-aad8-1bfb0b3e1106'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T15:38:42.842+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T15:38:43.225+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T15:38:42.873+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Last year, the Makabayan bloc <a href="https://www.newswatchplus.ph/news/nwp/2024/11/12/makabayan-bicam-budget-public-access.html"><strong>filed
+    section12:
+      primarytype: 'block'
+      uuid: 'c00c6103-8ee1-491e-aad8-1bfb0b3e1106'
+      activationstatus: true
+      created: 2025-06-29T15:38:42.842+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T15:38:43.225+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T15:38:42.873+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Last year, the Makabayan bloc <a href="https://www.newswatchplus.ph/news/nwp/2024/11/12/makabayan-bicam-budget-public-access.html"><strong>filed
         a resolution</strong></a> to open the bicam to the public, instead of being
         limited to designated lawmakers.</p>'
-  'North-Korea-opens-landmark-coastal-Wonsan-tourist-zone':
-    'author': 'Ju-min Park, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-29T17:35:33.000+08:00
-    'imagesource': 'jcr:60324c14-a133-4812-b918-b8cd1d582f16'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '2ad329e5-788c-4c72-8d62-83508242be28'
-    'lead': 'North Korea has completed construction of a massive tourist zone on its
+  'START HERE----->North-Korea-opens-landmark-coastal-Wonsan-tourist-zone':
+    author: 'Ju-min Park, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-29T17:35:33.000+08:00
+    imagesource: '60324c14-a133-4812-b918-b8cd1d582f16'
+    primarytype: 'composition'
+    uuid: '2ad329e5-788c-4c72-8d62-83508242be28'
+    lead: 'North Korea has completed construction of a massive tourist zone on its
       east coast, a key project driven by leader Kim Jong Un for years to promote
       tourism.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-29T17:41:07.834+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-29T17:41:08.141+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'North Korea opens landmark coastal Wonsan tourist zone'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88b1acfa-16a4-4646-b08f-b128c3c03293'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.846+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.142+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> c</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3e07542-c880-4ea4-bae8-094c201cd8d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.847+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.143+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'With "great satisfaction", Kim attended an inaugural ceremony for the
+    activationstatus: true
+    created: 2025-06-29T17:41:07.834+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-29T17:41:08.141+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-29T17:41:07.877+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'North Korea opens landmark coastal Wonsan tourist zone'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '88b1acfa-16a4-4646-b08f-b128c3c03293'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.846+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.142+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> c</p>'
+    section1:
+      primarytype: 'block'
+      uuid: 'f3e07542-c880-4ea4-bae8-094c201cd8d4'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.847+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.143+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'With "great satisfaction", Kim attended an inaugural ceremony for the
         Wonsan Kalma coastal tourist area that could accommodate about 20,000 visitors
         and said the country would build more large-scale tourist zones swiftly, KCNA
         news agency said.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '02477344-2b30-4bfe-b627-516d41dabee1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.847+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.144+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kim has been rebuilding the seaside city of Wonsan, a vacation destination
+    section2:
+      primarytype: 'block'
+      uuid: '02477344-2b30-4bfe-b627-516d41dabee1'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.847+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.144+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Kim has been rebuilding the seaside city of Wonsan, a vacation destination
         for locals, to turn it into a billion-dollar tourist hotspot. Development
         plans for Wonsan have mushroomed since they were first announced in 2014.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2936f9a-eb59-4332-8c54-1845165cd9d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.847+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.145+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'However, while tourism is one of a narrow range of cash sources for
+    section3:
+      primarytype: 'block'
+      uuid: 'b2936f9a-eb59-4332-8c54-1845165cd9d9'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.847+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.145+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'However, while tourism is one of a narrow range of cash sources for
         North Korea not targeted by United Nations sanctions, the reclusive state
         did not have a major foreign partner for the Wonsan project against the backdrop
         of sanctions over its weapons programmes.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24af9a4a-1c9e-4044-9e33-ba962e9dd981'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.848+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.146+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The tourist zone will open for domestic guests from July 1, KCNA said,
+    section4:
+      primarytype: 'block'
+      uuid: '24af9a4a-1c9e-4044-9e33-ba962e9dd981'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.848+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.146+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The tourist zone will open for domestic guests from July 1, KCNA said,
         without mentioning foreign tourists.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f24f84e3-70d6-49c6-9378-1fac4faff5ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.848+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.147+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Korea sealed its borders in 2020 at the start of the pandemic
+    section5:
+      primarytype: 'block'
+      uuid: 'f24f84e3-70d6-49c6-9378-1fac4faff5ad'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.848+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.147+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'North Korea sealed its borders in 2020 at the start of the pandemic
         but has been slowly lifting restrictions since 2023.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4514a2e-3c5e-42c2-ad81-88d6539d1bd2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.848+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.148+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'It has allowed Russian tourist groups into the country but its capital
+    section6:
+      primarytype: 'block'
+      uuid: 'b4514a2e-3c5e-42c2-ad81-88d6539d1bd2'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.848+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.148+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'It has allowed Russian tourist groups into the country but its capital
         and other parts of the country remain closed to regular tourism, though in
         April it held a marathon event hosting foreign runners.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc81d166-8b42-4df5-b582-108ae50ae052'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.849+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.149+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Moscow and Pyongyang, both economically and politically isolated, have
+    section7:
+      primarytype: 'block'
+      uuid: 'bc81d166-8b42-4df5-b582-108ae50ae052'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.849+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.149+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Moscow and Pyongyang, both economically and politically isolated, have
         drawn closer as North Korea has deployed thousands of troops and supplied
         ammunition, artillery and missiles for Russia’s Ukraine war.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f51c355c-81fd-45a4-bd9b-b63a28c1ad1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.849+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.149+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Russian ambassador to North Korea and embassy staff were invited
+    section8:
+      primarytype: 'block'
+      uuid: 'f51c355c-81fd-45a4-bd9b-b63a28c1ad1d'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.849+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.149+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Russian ambassador to North Korea and embassy staff were invited
         as special guests for the Wonsan ceremony, according to KCNA.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '39684dc5-0a05-4b33-afb2-219c02bd672a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.849+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.150+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two countries have agreed to expand cooperation on tourism, restarting
+    section9:
+      primarytype: 'block'
+      uuid: '39684dc5-0a05-4b33-afb2-219c02bd672a'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.849+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.150+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The two countries have agreed to expand cooperation on tourism, restarting
         a direct passenger train service between their capitals for the first time
         since 2020.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80951af3-4501-4099-8af8-c8317ce579a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.850+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.151+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Kim Jong Un expressed belief that the wave of the happiness to be
+    section10:
+      primarytype: 'block'
+      uuid: '80951af3-4501-4099-8af8-c8317ce579a8'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.850+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.151+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Kim Jong Un expressed belief that the wave of the happiness to be
         raised in the Wonsan Kalma coastal tourist area would enhance its attractive
         name as a world-level tourist cultural resort", KCNA said.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9837cf48-862f-4630-a21a-044960f2921b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-29T17:41:07.850+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-29T17:41:08.152+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-29T17:41:07.877+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Ju-min Park; Editing by Sonali Paul)</em></p>'
+    section11:
+      primarytype: 'block'
+      uuid: '9837cf48-862f-4630-a21a-044960f2921b'
+      activationstatus: true
+      created: 2025-06-29T17:41:07.850+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-29T17:41:08.152+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-29T17:41:07.877+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Ju-min Park; Editing by Sonali Paul)</em></p>'

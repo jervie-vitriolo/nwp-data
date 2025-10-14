@@ -1,1886 +1,1886 @@
-'13':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '49ca4c10-e767-4f5d-8ebe-4df4da45350b'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-13T11:46:21.317+08:00
-  'mgnl:createdBy': 'jelo-nwp'
-  'mgnl:lastActivated': 2024-07-13T11:52:01.010+08:00
-  'mgnl:lastActivatedBy': 'jelo-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2024-07-13T11:52:00.827+08:00
-  'mgnl:lastModified': 2024-07-13T17:32:31.705+08:00
-  'mgnl:lastModifiedBy': 'jelo-nwp'
-  'senate-arrest-order-alice-guo':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T11:46:21.000+08:00
-    'imagesource': 'jcr:62fed78c-34fa-42da-8b15-62f9f3323291'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b89ffa48-1a6c-4a56-a878-8fa0b5fdb3dc'
-    'lead': 'The Senate has issued an arrest order against suspended Bamban, Tarlac
+section13:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '49ca4c10-e767-4f5d-8ebe-4df4da45350b'
+  activationstatus: true
+  created: 2024-07-13T11:46:21.317+08:00
+  createdby: 'jelo-nwp'
+  lastactivated: 2024-07-13T11:52:01.010+08:00
+  lastactivatedby: 'jelo-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2024-07-13T11:52:00.827+08:00
+  lastmodified: 2024-07-13T17:32:31.705+08:00
+  lastmodifiedby: 'jelo-nwp'
+  'START HERE----->senate-arrest-order-alice-guo':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T11:46:21.000+08:00
+    imagesource: '62fed78c-34fa-42da-8b15-62f9f3323291'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b89ffa48-1a6c-4a56-a878-8fa0b5fdb3dc'
+    lead: 'The Senate has issued an arrest order against suspended Bamban, Tarlac
       Mayor Alice Guo for snubbing committee hearings on illegal gaming operations
       in her town.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T11:51:22.929+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T14:14:15.130+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T14:14:14.798+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['POGO', 'Alice-Guo']
-    'stories': []
-    'template': '1'
-    'title': 'Senate orders arrest of Bamban Mayor Guo'
-    'updated': 2024-07-13T14:10:53.000+08:00
-    'visualType': 'image'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa7be082-c330-4f8b-b62e-eec3fc6de26d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.779+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.130+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.779+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The Senate has issued
+    activationstatus: true
+    created: 2024-07-13T11:51:22.929+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T14:14:15.130+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T14:14:14.798+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Senate orders arrest of Bamban Mayor Guo'
+    updated: 2024-07-13T14:10:53.000+08:00
+    visualtype: 'image'
+    section10:
+      primarytype: 'block'
+      uuid: 'fa7be082-c330-4f8b-b62e-eec3fc6de26d'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.779+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.130+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.779+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The Senate has issued
         an arrest order against suspended Bamban, Tarlac Mayor Alice Guo for snubbing
         committee hearings on illegal gaming operations in her town.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6058c79-4dc8-41f0-8faf-c51053fddd86'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.780+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.131+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.780+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Senate committee on women, children, family relations and gender
+    section11:
+      primarytype: 'block'
+      uuid: 'b6058c79-4dc8-41f0-8faf-c51053fddd86'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.780+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.131+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.780+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Senate committee on women, children, family relations and gender
         equality released the copy of the order on Saturday, July 13, or three days
         after Guo and several others were <a href="https://www.newswatchplus.ph/news/2024/7/11/senate-arrest-warrant-alice-guo.html">cited
         in contempt</a> for their absence despite due notices. The arrest order was
         issued on July 11.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7f18efc-d13e-449a-af6e-8888f3833952'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.780+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.132+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.780+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It also directed the sergeant-at-arms to carry out the order within\
+    section12:
+      primarytype: 'block'
+      uuid: 'd7f18efc-d13e-449a-af6e-8888f3833952'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.780+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.132+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.780+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It also directed the sergeant-at-arms to carry out the order within\
         \ 24 hours. \r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6181c009-3cea-4bdb-a612-2d9f2fd44a27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.781+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.133+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.781+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The order stated that Guo’s absence was “delaying, impeding, and obstructing”\
+    section13:
+      primarytype: 'block'
+      uuid: '6181c009-3cea-4bdb-a612-2d9f2fd44a27'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.781+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.133+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.781+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The order stated that Guo’s absence was “delaying, impeding, and obstructing”\
         \ the inquiry. It added that the mayor will be “detained at the Office of\
         \ the Sergeant-at-Arms until such time that she will appear and testify in\
         \ the committee, or otherwise purges herself of that contempt.”\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '273ca5cb-cead-4504-93b1-6f9cf62ef6d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.781+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.135+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.781+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In Wednesday’s hearing, Sen. Risa Hontiveros, who leads the investigation\
+    section14:
+      primarytype: 'block'
+      uuid: '273ca5cb-cead-4504-93b1-6f9cf62ef6d1'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.781+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.135+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.781+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In Wednesday’s hearing, Sen. Risa Hontiveros, who leads the investigation\
         \ on illegal Philippine Offshore Gaming Operators (POGOs), approved the motions\
         \ for contempt citation and arrest warrant against Guo, pending Senate President\
         \ Chiz Escudero's signature.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc36f015-61b8-43df-a381-67dd541c3b90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.782+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.136+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.782+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“The issuance of the arrest order is only the first step to making\
+    section15:
+      primarytype: 'block'
+      uuid: 'bc36f015-61b8-43df-a381-67dd541c3b90'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.782+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.136+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.782+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“The issuance of the arrest order is only the first step to making\
         \ Mayor Alice Guo or Guo Hua Ping accountable to our laws,” Hontiveros said\
         \ in a statement on Saturday. \r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b52c21b-6e2d-41d6-96d1-f6b2c4063911'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.782+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.137+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.782+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Guo sought the Supreme Court’s intervention on Wednesday in a petition\
+    section16:
+      primarytype: 'block'
+      uuid: '4b52c21b-6e2d-41d6-96d1-f6b2c4063911'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.782+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.137+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.782+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Guo sought the Supreme Court’s intervention on Wednesday in a petition\
         \ for certiorari, or a review of the issue, to nullify the Senate subpoena.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32568eda-1bf7-47bd-bbdc-9899bbb31ef5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.782+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.138+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.782+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Aside from alleged involvement in the raided POGO hub, the Senate probe\
+    section17:
+      primarytype: 'block'
+      uuid: '32568eda-1bf7-47bd-bbdc-9899bbb31ef5'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.782+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.138+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.782+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Aside from alleged involvement in the raided POGO hub, the Senate probe\
         \ has highlighted questions on the embattled mayor’s citizenship.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78a27fa1-11d9-4592-a00e-715e98a80ecb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.783+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.139+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.783+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Amid the controversy, Guo had a <a href="https://web.facebook.com/AliceLealGuo/posts/pfbid02ygwXUKrHaH3JrwwnqV1MG117ovjgJTAPsbDDig3EMrfVdrpyQkXcip88vk78GyWPl?_rdc=1&amp;_rdr">lengthy
+    section18:
+      primarytype: 'block'
+      uuid: '78a27fa1-11d9-4592-a00e-715e98a80ecb'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.783+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.139+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.783+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Amid the controversy, Guo had a <a href="https://web.facebook.com/AliceLealGuo/posts/pfbid02ygwXUKrHaH3JrwwnqV1MG117ovjgJTAPsbDDig3EMrfVdrpyQkXcip88vk78GyWPl?_rdc=1&amp;_rdr">lengthy
         post on Facebook</a> on Friday to express gratitude to supporters and the
         people of Bamban town in Tarlac.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51dbf4c4-4e16-49b2-b391-86052ce7280d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.783+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.140+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.783+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Ako po ay isang Filipino. At may malaking puso for Bamban at mahal\
+    section19:
+      primarytype: 'block'
+      uuid: '51dbf4c4-4e16-49b2-b391-86052ce7280d'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.783+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.140+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.783+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Ako po ay isang Filipino. At may malaking puso for Bamban at mahal\
         \ na mahal ko ang Pilipinas,\" she wrote.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c8d9056-7b67-48cb-a909-7e90ab663ed5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.784+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.141+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.784+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: I'm a Filipino. I have a big heart for Bamban and I love\
+    section20:
+      primarytype: 'block'
+      uuid: '2c8d9056-7b67-48cb-a909-7e90ab663ed5'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.784+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.141+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.784+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: I'm a Filipino. I have a big heart for Bamban and I love\
         \ the Philippines.]\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7f5bf7b-25d3-4e83-963b-d6a6a6b61881'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.784+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.142+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.784+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Court of Appeals on Thursday granted the Anti-Money Laundering
+    section21:
+      primarytype: 'block'
+      uuid: 'b7f5bf7b-25d3-4e83-963b-d6a6a6b61881'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.784+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.142+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.784+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Court of Appeals on Thursday granted the Anti-Money Laundering
         Council petition for a freeze order on the 36 bank accounts under Guo’s name,
         as well as her 12 landholdings, 12 motor vehicles, and one helicopter.</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'acba435c-05f6-4a85-8490-dc2a50e3e79f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:14:14.785+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.143+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.785+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/7/12/alice-guo-bank-accounts.html">Sen.
+    section22:
+      primarytype: 'block'
+      uuid: 'acba435c-05f6-4a85-8490-dc2a50e3e79f'
+      activationstatus: true
+      created: 2024-07-13T14:14:14.785+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.143+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.785+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/7/12/alice-guo-bank-accounts.html">Sen.
         Sherwin Gatchalian</a> has raised concerns about a possible conspiracy between
         suspended Guo and several banks.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10b595a9-7f90-40da-8008-0f8aaa2b3521'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T11:51:23.017+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:14:15.144+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:14:14.796+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>With reports from NewsWatch Plus Senior Correspondent Eimor
+    section9:
+      primarytype: 'block'
+      uuid: '10b595a9-7f90-40da-8008-0f8aaa2b3521'
+      activationstatus: true
+      created: 2024-07-13T11:51:23.017+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:14:15.144+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:14:14.796+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>With reports from NewsWatch Plus Senior Correspondent Eimor
         Santos</em></p>'
-  'pagasa-la-nina-alert':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T13:46:05.000+08:00
-    'imagesource': 'jcr:4e8cb462-c555-44bb-9d35-6adf546491a2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c94fa475-ddee-4526-8fab-6c4298543070'
-    'lead': 'Government meteorologists have issued a La Niña alert as they see higher
+  'START HERE----->pagasa-la-nina-alert':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T13:46:05.000+08:00
+    imagesource: '4e8cb462-c555-44bb-9d35-6adf546491a2'
+    primarytype: 'composition'
+    uuid: 'c94fa475-ddee-4526-8fab-6c4298543070'
+    lead: 'Government meteorologists have issued a La Niña alert as they see higher
       chances of the weather phenomenon developing as early as August.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T13:59:33.307+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T14:42:40.178+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T14:42:39.954+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['PAGASA', 'La-Ni-a']
-    'stories': []
-    'template': '1'
-    'title': 'PAGASA raises La Niña alert'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c24ef82-0d78-4c3a-acc0-b9a57b42be32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.375+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.951+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Government meteorologists
+    activationstatus: true
+    created: 2024-07-13T13:59:33.307+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T14:42:40.178+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T14:42:39.954+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PAGASA raises La Niña alert'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7c24ef82-0d78-4c3a-acc0-b9a57b42be32'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.375+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.951+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Government meteorologists
         have issued a La Niña alert as they see higher chances of the weather phenomenon
         developing as early as August.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e36c2e7-aa92-4e33-aa67-b4987c63b4fa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.375+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.951+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In an advisory on Friday, July 12, the Philippine Atmospheric, Geophysical
+    section1:
+      primarytype: 'block'
+      uuid: '9e36c2e7-aa92-4e33-aa67-b4987c63b4fa'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.375+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.951+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>In an advisory on Friday, July 12, the Philippine Atmospheric, Geophysical
         and Astronomical Services Administration (PAGASA) said climate models combined
         with expert assessment suggest a 70% chance of La Niña forming between August
         to October.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc55e6af-4fe1-43c8-83aa-bf877869d0a7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.376+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.952+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It reversed its earlier forecast that the onset of above-normal rainfall\
+    section2:
+      primarytype: 'block'
+      uuid: 'dc55e6af-4fe1-43c8-83aa-bf877869d0a7'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.376+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.952+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It reversed its earlier forecast that the onset of above-normal rainfall\
         \ and stronger tropical cyclones may be delayed between October to December.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ee3ce44-2cfa-4e47-beea-ef0b302df9d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.376+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.952+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "PAGASA said the climate pattern would likely persist until the first\
+    section3:
+      primarytype: 'block'
+      uuid: '9ee3ce44-2cfa-4e47-beea-ef0b302df9d2'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.376+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.952+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "PAGASA said the climate pattern would likely persist until the first\
         \ quarter of 2025. \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a0b552a-229b-46f5-b3da-84973bc65f92'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.376+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.953+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>La Niña is a natural phenomenon characterized by “unusually cooler
+    section4:
+      primarytype: 'block'
+      uuid: '9a0b552a-229b-46f5-b3da-84973bc65f92'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.376+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.953+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>La Niña is a natural phenomenon characterized by “unusually cooler
         than average” sea surface temperatures at the central and eastern equatorial
         Pacific.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '943ca471-1ee5-443e-a8d5-5aa5dd598015'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.377+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.953+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The combined excessive rainfall and stronger storms could cause flooding\
+    section5:
+      primarytype: 'block'
+      uuid: '943ca471-1ee5-443e-a8d5-5aa5dd598015'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.377+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.953+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The combined excessive rainfall and stronger storms could cause flooding\
         \ and landslides in some areas. \r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f546a6ae-1c77-48d1-857b-b564d3f66fae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T13:59:33.377+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:42:40.181+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:42:39.953+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>La Niña is one of the two cycles of what scientists call the El
+    section6:
+      primarytype: 'block'
+      uuid: 'f546a6ae-1c77-48d1-857b-b564d3f66fae'
+      activationstatus: true
+      created: 2024-07-13T13:59:33.377+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:42:40.181+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:42:39.953+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>La Niña is one of the two cycles of what scientists call the El
         Niño-Southern Oscillation (ENSO). The other one is El Niño, which caused drought
         in many areas of the country. Currently, ENSO-neutral conditions are present
         in the tropical Pacific.</p>'
-  'pulse-asia-survey-inflation-sona':
-    'caption': 'Vulnerable sectors line up to buy cheaper rice under the government''s
+  'START HERE----->pulse-asia-survey-inflation-sona':
+    caption: 'Vulnerable sectors line up to buy cheaper rice under the government's
       "P29" rice program in selected Kadiwa stores.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T14:00:42.000+08:00
-    'imagesource': 'jcr:3c52789d-e20e-4e4d-a9f9-e74875203c6e'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a404fa23-e238-44a6-b8d1-2d251378d34e'
-    'lead': 'Most Filipinos want to hear President Marcos’ plan to address rising
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T14:00:42.000+08:00
+    imagesource: '3c52789d-e20e-4e4d-a9f9-e74875203c6e'
+    primarytype: 'composition'
+    uuid: 'a404fa23-e238-44a6-b8d1-2d251378d34e'
+    lead: 'Most Filipinos want to hear President Marcos’ plan to address rising
       prices of goods and services in his upcoming SONA, the sentiment reflected in
       a recent poll that showed strong disapproval of government efforts to rein in
       inflation.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T14:04:45.523+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T16:33:20.014+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T16:33:19.783+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['SONA-2024', 'Inflation', 'Pulse-Asia', 'President-Ferdinand-Marcos-Jr.']
-    'stories': []
-    'template': '1'
-    'title': 'Filipinos want inflation addressed in SONA, poll shows'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1c91c16-9f7e-4e1c-859b-677a75de5d46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.015+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.778+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Most Filipinos want
+    activationstatus: true
+    created: 2024-07-13T14:04:45.523+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T16:33:20.014+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T16:33:19.783+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Filipinos want inflation addressed in SONA, poll shows'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c1c91c16-9f7e-4e1c-859b-677a75de5d46'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.015+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.778+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Most Filipinos want
         to hear President Ferdinand Marcos Jr.’s plan to address rising prices of
         goods and services when he gives his annual report to the nation in over a
         week, according to a non-commissioned survey.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '02285ef0-5799-41d4-b3b2-4a6a904018ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.015+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.778+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>A <a href="https://pulseasia.ph/updates/june-2024-nationwide-survey-on-national-concerns-and-the-presidents-state-of-the-nation-address-sona/">Pulse
+    section1:
+      primarytype: 'block'
+      uuid: '02285ef0-5799-41d4-b3b2-4a6a904018ef'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.015+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.778+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>A <a href="https://pulseasia.ph/updates/june-2024-nationwide-survey-on-national-concerns-and-the-presidents-state-of-the-nation-address-sona/">Pulse
         Asia survey</a> released on Friday, July 12, showed that most Filipinos (57%)
         identified “controlling inflation” as the top issue that should be discussed
         or mentioned in his up and coming State of the Nation Address (SONA) on July
         22.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '823600fb-f8a1-4c07-9ad9-b0a5c2590e68'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.779+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The poll found that the sentiment was shared across geographical areas\
+    section2:
+      primarytype: 'block'
+      uuid: '823600fb-f8a1-4c07-9ad9-b0a5c2590e68'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.779+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The poll found that the sentiment was shared across geographical areas\
         \ and among lower socioeconomic classes.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b3390d8-9523-4714-8daa-7bfee64e68cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.779+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Improving the national economy” and “creating more jobs or livelihood”\
+    section3:
+      primarytype: 'block'
+      uuid: '9b3390d8-9523-4714-8daa-7bfee64e68cf'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.779+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Improving the national economy” and “creating more jobs or livelihood”\
         \ were the second and third on the list.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2602756c-614c-422f-ab17-3556fe8dd767'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.780+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The survey said 72% or seven in 10 Filipinos believed managing inflation\
+    section4:
+      primarytype: 'block'
+      uuid: '2602756c-614c-422f-ab17-3556fe8dd767'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.780+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The survey said 72% or seven in 10 Filipinos believed managing inflation\
         \ should be the most urgent national concern. Wage increase, poverty reduction,\
         \ and job creation were next, it added.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '33229003-d561-42c9-bf51-e53fc1de4df7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.609+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.780+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Pulse Asia recorded a 76% disapproval score on the administration’\
+    section5:
+      primarytype: 'block'
+      uuid: '33229003-d561-42c9-bf51-e53fc1de4df7'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.609+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.780+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Pulse Asia recorded a 76% disapproval score on the administration’\
         s steps to temper prices of basic goods and services. Only 5% said otherwise.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65405d99-d58d-4254-b574-616c4db764c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.609+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.781+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The survey was conducted from June 17 to 24 among 2,400 people.
+    section6:
+      primarytype: 'block'
+      uuid: '65405d99-d58d-4254-b574-616c4db764c6'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.609+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.781+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The survey was conducted from June 17 to 24 among 2,400 people.
         Pulse Asia said the poll has a ±2% error margin.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b488e837-4cea-4aeb-952f-2b83a61527a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.610+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.781+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Philippine Statistics Authority reported that the inflation
+    section7:
+      primarytype: 'block'
+      uuid: 'b488e837-4cea-4aeb-952f-2b83a61527a8'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.610+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.781+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Philippine Statistics Authority reported that the inflation
         rate slowed to <a href="https://psa.gov.ph/price-indices/cpi-ir">3.7% in June</a>
         after four straight months of rising trend. Food inflation, however, continued
         to surge.&nbsp;</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '608b3a5a-eb56-4dbc-b2b9-afac48c9dd50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:04:45.610+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:33:20.018+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:33:19.781+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Marcos earlier told reporters his SONA would tackle issues including
+    section8:
+      primarytype: 'block'
+      uuid: '608b3a5a-eb56-4dbc-b2b9-afac48c9dd50'
+      activationstatus: true
+      created: 2024-07-13T14:04:45.610+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:33:20.018+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:33:19.781+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Marcos earlier told reporters his SONA would tackle issues including
         the economy, criminality, illegal drugs, and the “different threats that have
         been coming to us.”</p>'
-  'fuel-price-forecast':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T14:04:52.000+08:00
-    'imagesource': 'jcr:4e83f3db-8e2b-45f1-a162-31cbeb08155b'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '77ab64a6-027e-483f-ae01-fe5c9d78fcbb'
-    'lead': 'Fuel products are set to break the rising price trend next week, the
+  'START HERE----->fuel-price-forecast':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T14:04:52.000+08:00
+    imagesource: '4e83f3db-8e2b-45f1-a162-31cbeb08155b'
+    primarytype: 'composition'
+    uuid: '77ab64a6-027e-483f-ae01-fe5c9d78fcbb'
+    lead: 'Fuel products are set to break the rising price trend next week, the
       Department of Energy (DOE) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T14:06:41.330+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T14:36:51.501+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T14:36:51.331+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['diesel', 'Fuel-price-forecast', 'gasoline', 'kerosene']
-    'stories': []
-    'template': '1'
-    'title': 'Motorists to get a break from rising fuel prices next week'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4ca19c4-e94d-40a5-a04c-67b4b2cea671'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:06:41.375+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:36:51.502+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:36:51.329+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Fuel products are set
+    activationstatus: true
+    created: 2024-07-13T14:06:41.330+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T14:36:51.501+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T14:36:51.331+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Motorists to get a break from rising fuel prices next week'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f4ca19c4-e94d-40a5-a04c-67b4b2cea671'
+      activationstatus: true
+      created: 2024-07-13T14:06:41.375+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:36:51.502+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:36:51.329+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Fuel products are set
         to break the rising price trend next week, the Department of Energy (DOE)
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c10cd53b-ca37-4aa5-a71f-39afea6607fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:06:41.376+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:36:51.503+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:36:51.329+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a message to NewsWatch Plus on Friday, July 13, the DOE said per-liter\
+    section1:
+      primarytype: 'block'
+      uuid: 'c10cd53b-ca37-4aa5-a71f-39afea6607fb'
+      activationstatus: true
+      created: 2024-07-13T14:06:41.376+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:36:51.503+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:36:51.329+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a message to NewsWatch Plus on Friday, July 13, the DOE said per-liter\
         \ prices for gasoline may go down by ₱0.70 to ₱0.90.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cded99a-0b81-4489-8ecc-f28e5a811a98'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:06:41.376+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:36:51.504+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:36:51.330+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Diesel and kerosene prices may decline by ₱1 to ₱1.15 per liter, according\
+    section2:
+      primarytype: 'block'
+      uuid: '4cded99a-0b81-4489-8ecc-f28e5a811a98'
+      activationstatus: true
+      created: 2024-07-13T14:06:41.376+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:36:51.504+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:36:51.330+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Diesel and kerosene prices may decline by ₱1 to ₱1.15 per liter, according\
         \ to the agency’s estimated adjustments based on the global market trade.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57f9ceb8-5038-4eb8-a8ee-d5699ab49d5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T14:06:41.377+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T14:36:51.505+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T14:36:51.330+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "As of July 9, the DOE said the year-to-date net increase of gasoline\
+    section3:
+      primarytype: 'block'
+      uuid: '57f9ceb8-5038-4eb8-a8ee-d5699ab49d5d'
+      activationstatus: true
+      created: 2024-07-13T14:06:41.377+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T14:36:51.505+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T14:36:51.330+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "As of July 9, the DOE said the year-to-date net increase of gasoline\
         \ is ₱10.85 per liter, ₱9.05 per liter for diesel, and ₱2.35 per liter for\
         \ kerosene.\r"
-  'israel-palestinians-gaza-city-district':
-    'author': 'Wafaa Shurafa, Associated Press'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T16:49:55.000+08:00
-    'imagesource': 'jcr:f62a36eb-b25e-428d-bad5-8cef9e990088'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '140380e7-306d-413e-814d-f8490f2ba65d'
-    'lead': 'Civil defense workers on Friday dug bodies out of collapsed buildings
+  'START HERE----->israel-palestinians-gaza-city-district':
+    author: 'Wafaa Shurafa, Associated Press'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T16:49:55.000+08:00
+    imagesource: 'f62a36eb-b25e-428d-bad5-8cef9e990088'
+    primarytype: 'composition'
+    uuid: '140380e7-306d-413e-814d-f8490f2ba65d'
+    lead: 'Civil defense workers on Friday dug bodies out of collapsed buildings
       and pulled them off rubble-covered streets, as they collected dozens of Palestinians
       killed this week by an Israeli assault in a district of Gaza City.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T16:54:07.972+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T16:54:08.598+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T16:54:08.196+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Gaza', 'Global-Watch', 'Israel', 'Palestine']
-    'stories': []
-    'template': '1'
-    'title': 'Emergency workers uncover dozens of bodies in a Gaza City district after
+    activationstatus: true
+    created: 2024-07-13T16:54:07.972+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T16:54:08.598+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T16:54:08.196+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Emergency workers uncover dozens of bodies in a Gaza City district after
       Israeli assault'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4554590f-bd66-42ab-9129-c582a5a65faa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.158+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.599+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.185+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>DEIR AL-BALAH, Gaza Strip (AP) —</strong> Civil defense
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4554590f-bd66-42ab-9129-c582a5a65faa'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.158+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.599+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.185+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>DEIR AL-BALAH, Gaza Strip (AP) —</strong> Civil defense
         workers on Friday dug bodies out of collapsed buildings and pulled them off
         rubble-covered streets, as they collected dozens of Palestinians killed this
         week by an Israeli assault in a district of Gaza City.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca3d67d6-9cf4-4a69-bfc9-0e8907e06299'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.159+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.600+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.159+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The discovery of the bodies came after Israeli troops reportedly pulled\
+    section1:
+      primarytype: 'block'
+      uuid: 'ca3d67d6-9cf4-4a69-bfc9-0e8907e06299'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.159+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.600+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.159+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The discovery of the bodies came after Israeli troops reportedly pulled\
         \ out of parts of the Tal al-Hawa and Sinaah neighborhoods following days\
         \ of bombardment and fighting there. The Israeli military launched an incursion\
         \ into the districts earlier this week to fight what it said were Hamas militants\
         \ who had regrouped.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cddf18fd-c392-4be9-9cef-db1c1f47b7ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.159+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.601+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.159+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The grisly scenes of the dead underscored the horrifying cycle nine\
+    section2:
+      primarytype: 'block'
+      uuid: 'cddf18fd-c392-4be9-9cef-db1c1f47b7ec'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.159+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.601+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.159+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The grisly scenes of the dead underscored the horrifying cycle nine\
         \ months into the Gaza war.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e901ce36-4776-4a9b-b1f1-bdd2c0b4c352'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.160+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.602+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.160+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "After invading nearly every urban area across the tiny territory since\
+    section3:
+      primarytype: 'block'
+      uuid: 'e901ce36-4776-4a9b-b1f1-bdd2c0b4c352'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.160+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.602+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.160+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "After invading nearly every urban area across the tiny territory since\
         \ October, Israeli forces are now repeatedly re-invading parts as Hamas shifts\
         \ and maintains capabilities. Palestinians are forced to flee over and over\
         \ to escape the changing offensives – or to remain in place and face death.\
         \ Cease-fire negotiations push ahead, nearing but never reaching a deal.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82960385-9af8-4541-8d76-26cd52d247bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.160+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.603+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.160+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Videos circulating on social media showed civil defense workers wrapping\
+    section4:
+      primarytype: 'block'
+      uuid: '82960385-9af8-4541-8d76-26cd52d247bf'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.160+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.603+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.160+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Videos circulating on social media showed civil defense workers wrapping\
         \ bodies, including several women, in blankets on the rubble-strewn streets\
         \ of Tal al-Hawa and Sinaah. A hand poked out of the smashed concrete where\
         \ workers dug into a collapsed building. Other video showed burned-out buildings.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fd8522a-2287-46dc-99e6-233ac75690cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.160+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.604+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.160+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "About 60 bodies have been found so far, including entire families who\
+    section5:
+      primarytype: 'block'
+      uuid: '4fd8522a-2287-46dc-99e6-233ac75690cc'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.160+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.604+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.160+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "About 60 bodies have been found so far, including entire families who\
         \ appeared to have been killed by artillery fire and airstrikes as they tried\
         \ to flee, said Mahmoud Bassal, the director of civil defense in Gaza. Some\
         \ bodies had been partially devoured by dogs, others burned inside homes and\
         \ others remained unreachable in rubble, he said.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3848d851-3095-49a1-9505-23832eb10eae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.161+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.605+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.161+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The director of nearby Al-Ahli Hospital, Fadel Naem, said at least\
+    section6:
+      primarytype: 'block'
+      uuid: '3848d851-3095-49a1-9505-23832eb10eae'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.161+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.605+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.161+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The director of nearby Al-Ahli Hospital, Fadel Naem, said at least\
         \ 40 bodies found in the districts had been brought to the facility, though\
         \ he didn't have a precise number.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '071fb56f-3131-4a93-9a47-4a46c1f465e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.161+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.606+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.161+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Israeli military said it could not comment on the discovery of\
+    section7:
+      primarytype: 'block'
+      uuid: '071fb56f-3131-4a93-9a47-4a46c1f465e7'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.161+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.606+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.161+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Israeli military said it could not comment on the discovery of\
         \ the bodies.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7834e0bb-dc1e-4f72-b301-6a7ded21afec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.162+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.607+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.162+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Israel's assault on the district began after it issued an evacuation\
+    section8:
+      primarytype: 'block'
+      uuid: '7834e0bb-dc1e-4f72-b301-6a7ded21afec'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.162+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.607+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.162+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Israel's assault on the district began after it issued an evacuation\
         \ order for the area on Monday. In a statement Friday, the military said its\
         \ troops targeted the abandoned headquarters of the U.N. agency for Palestinian\
         \ refugees, known as UNRWA, where it said Hamas had set up operations.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '788b9ac9-732e-43c4-8713-1636c3a12fd6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.162+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.608+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.162+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "UNRWA left the compound in October, early in the war. The military\
+    section9:
+      primarytype: 'block'
+      uuid: '788b9ac9-732e-43c4-8713-1636c3a12fd6'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.162+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.608+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.162+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "UNRWA left the compound in October, early in the war. The military\
         \ said Friday that troops had battled Hamas and Islamic Jihad fighters in\
         \ the compound and discovered material for building drones and stashes of\
         \ weapons. It issued photos of some of the discovered material, though the\
         \ claims could not be independently confirmed.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd90a39a8-f97a-47b7-b314-8e0911faf8e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.163+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.609+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.163+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "On Friday, troops had withdrawn from most of the area, but snipers\
+    section10:
+      primarytype: 'block'
+      uuid: 'd90a39a8-f97a-47b7-b314-8e0911faf8e6'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.163+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.609+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.163+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "On Friday, troops had withdrawn from most of the area, but snipers\
         \ and drones continued to open fire, said Salem Elrayyes, a resident who fled\
         \ months ago to the south but spoke to family members still in the neighborhood.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb7348ff-f687-4674-9d8c-0b92b602c304'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.163+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.610+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.163+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He said that during the days of the offensive, troops set fire to many\
+    section11:
+      primarytype: 'block'
+      uuid: 'cb7348ff-f687-4674-9d8c-0b92b602c304'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.163+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.610+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.163+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He said that during the days of the offensive, troops set fire to many\
         \ homes — including that of one of his uncles — and carried out wide-scale\
         \ arrests, taking people for interrogation inside the UNRWA compound. At least\
         \ 11 of his relatives were detained, he said.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7062aa03-68c2-482e-9c52-96f475947b12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.164+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.611+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.164+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Two were released after being severely beaten, while the rest are still\
+    section12:
+      primarytype: 'block'
+      uuid: '7062aa03-68c2-482e-9c52-96f475947b12'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.164+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.611+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.164+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Two were released after being severely beaten, while the rest are still\
         \ missing. His family was searching for other relatives still unaccounted\
         \ for — \"some may be detained, and some may have lost communication. Others\
         \ may be killed,\" Elrayyes said.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d396677-9b8b-4c57-b612-a92ea032ff70'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.164+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.612+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.164+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "A day earlier, civil defense workers said they found dozens of bodies\
+    section13:
+      primarytype: 'block'
+      uuid: '6d396677-9b8b-4c57-b612-a92ea032ff70'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.164+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.612+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.164+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "A day earlier, civil defense workers said they found dozens of bodies\
         \ in Shijaiyah, another Gaza City district from which Israeli troops withdrew\
         \ in recent days after a two-week offensive.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c29bd0ae-2c6e-4aaa-bba0-2ccf0125098e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.165+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.613+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.165+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Most of the population of Gaza City and the surrounding areas in the\
+    section14:
+      primarytype: 'block'
+      uuid: 'c29bd0ae-2c6e-4aaa-bba0-2ccf0125098e'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.165+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.613+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.165+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Most of the population of Gaza City and the surrounding areas in the\
         \ north fled earlier in the war. But the U.N. estimates that some 300,000\
         \ people remain in the north. With each new assault, people often flee to\
         \ other parts of the north, since so far Israel has not allowed those who\
         \ flee south to return to the north.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46b76a32-68e3-452a-85f2-307328674521'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.165+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.614+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.165+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "An airstrike early Friday hit an aid warehouse in Muwasi, part of an\
+    section15:
+      primarytype: 'block'
+      uuid: '46b76a32-68e3-452a-85f2-307328674521'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.165+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.614+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.165+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "An airstrike early Friday hit an aid warehouse in Muwasi, part of an\
         \ Israeli-declared \"humanitarian safe zone\" covering parts of south and\
         \ central Gaza, a U.K.-based aid group Al-Khair Foundation said. Imam Qasim\
         \ Rashid Ahmad, the group's director in London, said one of its staffers,\
         \ an engineer, was killed in the strike along with three staffers from other\
         \ humanitarian groups using the warehouse.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41391b2a-c507-4fc8-97ea-83b89d435d83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.166+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.615+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.166+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Israeli military said Husam Mansour, the Al-Khair Foundation member\
+    section16:
+      primarytype: 'block'
+      uuid: '41391b2a-c507-4fc8-97ea-83b89d435d83'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.166+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.615+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.166+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Israeli military said Husam Mansour, the Al-Khair Foundation member\
         \ who was killed, was in fact a senior Hamas militant. Israel said he used\
         \ his position with the humanitarian group to raise money for Hamas.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '40d0e057-a276-4295-b0eb-5ca252dad9eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.166+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.616+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.166+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Israel launched its campaign in Gaza after Hamas' Oct. 7 attack in\
+    section17:
+      primarytype: 'block'
+      uuid: '40d0e057-a276-4295-b0eb-5ca252dad9eb'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.166+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.616+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.166+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Israel launched its campaign in Gaza after Hamas' Oct. 7 attack in\
         \ which militants stormed into southern Israel, killed some 1,200 people —\
         \ mostly civilians — and abducted about 250.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e3d673a6-ea60-4cb3-8443-8ea247f641ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.167+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.617+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.167+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Since then, Israeli ground offensives and bombardments have killed\
+    section18:
+      primarytype: 'block'
+      uuid: 'e3d673a6-ea60-4cb3-8443-8ea247f641ee'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.167+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.617+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.167+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Since then, Israeli ground offensives and bombardments have killed\
         \ more than 38,300 people in Gaza and wounded more than 88,000, according\
         \ to the territory's Health Ministry. The ministry does not distinguish between\
         \ combatants and civilians in its count. More than 80% of Gaza's 2.3 million\
         \ people have been driven from their homes, and most are now crowded into\
         \ squalid tent camps, facing widespread hunger.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bcd74488-ffd9-4ac8-9e49-ccbc5df4f62b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.167+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.618+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.167+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Meanwhile in Cairo, U.S., Egyptian and Qatari mediators continued to\
+    section19:
+      primarytype: 'block'
+      uuid: 'bcd74488-ffd9-4ac8-9e49-ccbc5df4f62b'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.167+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.618+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.167+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Meanwhile in Cairo, U.S., Egyptian and Qatari mediators continued to\
         \ push to narrow gaps between Israel and Hamas over a proposed deal for a\
         \ three-phase cease-fire and hostage release plan in Gaza.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '211fe692-6c6c-4011-9fdd-3883812bde40'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.168+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.619+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.168+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The U.S.-backed proposal calls for an initial cease-fire with a limited\
+    section20:
+      primarytype: 'block'
+      uuid: '211fe692-6c6c-4011-9fdd-3883812bde40'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.168+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.619+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.168+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The U.S.-backed proposal calls for an initial cease-fire with a limited\
         \ hostage release and the withdrawal of Israeli troops from populated areas\
         \ in Gaza. At the same time, the two sides will negotiate the terms of the\
         \ second phase. Phase two is supposed to bring a full hostage release in return\
         \ for a permanent cease-fire and complete Israeli withdrawal from Gaza.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3aa71351-69ae-481d-9d0e-af612fbb16d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.168+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.620+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.168+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "But obstacles remain.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c88f672a-fab3-4550-90ef-333419f4381b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.169+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.621+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.169+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Prime Minister Benjamin Netanyahu has said Israel won't agree to any\
+    section21:
+      primarytype: 'block'
+      uuid: '3aa71351-69ae-481d-9d0e-af612fbb16d9'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.168+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.620+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.168+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "But obstacles remain.\r"
+    section22:
+      primarytype: 'block'
+      uuid: 'c88f672a-fab3-4550-90ef-333419f4381b'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.169+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.621+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.169+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Prime Minister Benjamin Netanyahu has said Israel won't agree to any\
         \ deal that would prevent it from resuming its military campaign until Hamas\
         \ is eliminated. On Thursday, he indicated that Israel intends to keep a hold\
         \ of the Rafah border crossing with Egypt, which would contradict a full withdrawal\
         \ from Gaza.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3ce5694-8853-4dd2-a3d8-158721f6ef32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.170+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.622+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.170+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas dropped its demand that Israel commit ahead of time to reach\
+    section23:
+      primarytype: 'block'
+      uuid: 'c3ce5694-8853-4dd2-a3d8-158721f6ef32'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.170+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.622+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.170+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas dropped its demand that Israel commit ahead of time to reach\
         \ a permanent cease-fire. But a Hamas political official told The Associated\
         \ Press that the group still wants written guarantees from the mediators that\
         \ negotiations will continue until a permanent cease-fire is reached.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5569205b-a263-4ddd-8a59-08bb46091270'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.170+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.170+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Otherwise, \"Netanyahu can stop the negotiations and thus resume the\
+    section24:
+      primarytype: 'block'
+      uuid: '5569205b-a263-4ddd-8a59-08bb46091270'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.170+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.170+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Otherwise, \"Netanyahu can stop the negotiations and thus resume the\
         \ aggression\" at any time, said Ahmed Abdul-Hadi, the head of Hamas' political\
         \ office in Lebanon.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb421661-7a43-4287-b06f-908d99697821'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.171+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.171+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Abdul-Hadi also said that Hamas does not expect to resume its role\
+    section25:
+      primarytype: 'block'
+      uuid: 'fb421661-7a43-4287-b06f-908d99697821'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.171+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.171+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Abdul-Hadi also said that Hamas does not expect to resume its role\
         \ as the sole ruling party in Gaza after the war but wants to see a Palestinian\
         \ government of technocrats.\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fdc9b341-abe0-45f5-a6b3-2a71bb16a313'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.171+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.625+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.171+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"We do not want to rule Gaza alone again in the next phase,\" he said.\
+    section26:
+      primarytype: 'block'
+      uuid: 'fdc9b341-abe0-45f5-a6b3-2a71bb16a313'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.171+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.625+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.171+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"We do not want to rule Gaza alone again in the next phase,\" he said.\
         \ Israeli officials have suggested they will demand Hamas' removal in the\
         \ talks for the second phase.\r"
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9fbd4266-a0ef-4f8f-8fb0-2a846369bcaa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.172+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.626+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.172+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Netanyahu is under growing pressure both domestically and internationally.\
+    section27:
+      primarytype: 'block'
+      uuid: '9fbd4266-a0ef-4f8f-8fb0-2a846369bcaa'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.172+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.626+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.172+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Netanyahu is under growing pressure both domestically and internationally.\
         \ Relatives of hostages are marching to Jerusalem to demand a deal and the\
         \ release of their loved ones as Israeli politicians, including Defense Minister\
         \ Yoav Gallant, call for a broad government investigation into the conduct\
         \ of Israel's leaders.\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4e01bc8-099a-4a55-ad9b-cfd259accfc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.173+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.627+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.173+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "A risk of regional escalation remains. Israel's military said Friday\
+    section28:
+      primarytype: 'block'
+      uuid: 'c4e01bc8-099a-4a55-ad9b-cfd259accfc1'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.173+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.627+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.173+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "A risk of regional escalation remains. Israel's military said Friday\
         \ that one of its soldiers was killed in northern Israel, where the Lebanese\
         \ militant group Hezbollah and Israel continue to trade border fire.\r"
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b858e24f-ea8d-41ea-a999-52cd858d4a1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T16:54:08.173+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T16:54:08.628+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T16:54:08.173+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>Associated Press writers Abby Sewell and Sarah El Deeb in Beirut,
+    section29:
+      primarytype: 'block'
+      uuid: 'b858e24f-ea8d-41ea-a999-52cd858d4a1d'
+      activationstatus: true
+      created: 2024-07-13T16:54:08.173+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T16:54:08.628+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T16:54:08.173+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>Associated Press writers Abby Sewell and Sarah El Deeb in Beirut,
         Sam Metz in Rabat, Morocco, and Jack Jeffery in Ramallah, West Bank, contributed
         to this report.</em></p>'
-  'ecuador-instigators-assassination-fernando-villavicencio':
-    'author': 'Associated Press'
-    'caption': 'The coffin that contains the remains of slain presidential candidate
+  'START HERE----->ecuador-instigators-assassination-fernando-villavicencio':
+    author: 'Associated Press'
+    caption: 'The coffin that contains the remains of slain presidential candidate
       Fernando Villavicencio arrives to the Camposanto Monteolivo cemeter, in Quito,
       Ecuador, Aug. 11, 2023, after the 59-year-old was fatally shot at a political
       rally. The trial against five defendants as alleged perpetrators and accomplices
       of the murder of the Villavicencio entered its final stage on Friday, July 12,
       2024. (AP Photo/Carlos Noriega, File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T17:08:16.000+08:00
-    'imagesource': 'jcr:499d0059-12f4-4058-825e-a6da595d767b'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '08b95aa6-ce7a-4338-8177-0d2f139ceac2'
-    'lead': 'The two instigators of the 2023 assassination of Ecuadorian presidential
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T17:08:16.000+08:00
+    imagesource: '499d0059-12f4-4058-825e-a6da595d767b'
+    primarytype: 'composition'
+    uuid: '08b95aa6-ce7a-4338-8177-0d2f139ceac2'
+    lead: 'The two instigators of the 2023 assassination of Ecuadorian presidential
       candidate Fernando Villavicencio were sentenced on Friday to 34 years and eight
       months in prison.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T17:10:58.683+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T17:12:44.916+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T17:12:44.677+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Ecuador', 'Fernando-Villavicencio', 'Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Convicted instigators in murder of Ecuador presidential candidate get
+    activationstatus: true
+    created: 2024-07-13T17:10:58.683+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T17:12:44.916+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T17:12:44.677+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Convicted instigators in murder of Ecuador presidential candidate get
       34-year prison sentences'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98967e53-de06-4103-94c7-f994a4fb14e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.774+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.917+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.672+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>QUITO, Ecuador (AP) —</strong> The two instigators of the
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '98967e53-de06-4103-94c7-f994a4fb14e8'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.774+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.917+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.672+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>QUITO, Ecuador (AP) —</strong> The two instigators of the
         2023 assassination of Ecuadorian presidential candidate Fernando Villavicencio
         were sentenced on Friday to 34 years and eight months in prison.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6880d49b-9c6c-4590-87b6-f9427e4a6755'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.774+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.919+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.672+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Three accomplices were sentenced to 12 years in prison. The Prosecutor's\
+    section1:
+      primarytype: 'block'
+      uuid: '6880d49b-9c6c-4590-87b6-f9427e4a6755'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.774+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.919+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.672+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Three accomplices were sentenced to 12 years in prison. The Prosecutor's\
         \ Office had requested the maximum sentence for the five defendants.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0e7dc40e-b7f4-4e50-979a-14e514fc934d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.775+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.920+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.673+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The sentences for the man and woman convicted of instigating the murder\
+    section2:
+      primarytype: 'block'
+      uuid: '0e7dc40e-b7f4-4e50-979a-14e514fc934d'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.775+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.920+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.673+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The sentences for the man and woman convicted of instigating the murder\
         \ included a fine of $460,000 and a compensation payment of $100,000 by each\
         \ to the politician's family. The other three defendants were each fined $156,400\
         \ and ordered to pay $33,000 to the family.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f979c0e5-0e80-4bf2-bd23-843b1c84990a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.775+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.921+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.673+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Villavicencio, 59, was killed by gunmen on motorcycles last Aug. 9\
+    section3:
+      primarytype: 'block'
+      uuid: 'f979c0e5-0e80-4bf2-bd23-843b1c84990a'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.775+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.921+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.673+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Villavicencio, 59, was killed by gunmen on motorcycles last Aug. 9\
         \ as he left a school in Ecuador's capital, Quito, after a campaign rally.\
         \ Thirteen people were injured.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '121523eb-20c1-46ab-aab3-18325aec4aa3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.776+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.922+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.674+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The candidate had previously reported receiving threats, but authorities\
+    section4:
+      primarytype: 'block'
+      uuid: '121523eb-20c1-46ab-aab3-18325aec4aa3'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.776+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.922+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.674+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The candidate had previously reported receiving threats, but authorities\
         \ have never said anything about the motive for the killing.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '18860393-3585-4d65-bddf-fb29ac93b1f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.776+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.923+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.674+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "As the judges announced the sentence, family and friends of Villavicencio\
+    section5:
+      primarytype: 'block'
+      uuid: '18860393-3585-4d65-bddf-fb29ac93b1f0'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.776+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.923+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.674+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "As the judges announced the sentence, family and friends of Villavicencio\
         \ demonstrated in the capital, Quito, carrying posters, his photographs and\
         \ flags in calling for justice and prison for all those responsible.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e1d2b79-7dc4-4d60-b2b6-6d02bc7e35d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.776+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.924+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.675+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "According to the prosecutor's office, one of the instigators, Carlos\
+    section6:
+      primarytype: 'block'
+      uuid: '2e1d2b79-7dc4-4d60-b2b6-6d02bc7e35d3'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.776+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.924+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.675+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "According to the prosecutor's office, one of the instigators, Carlos\
         \ Angulo, alias \"Invisible,\" coordinated the murder from a prison where\
         \ he was held in Ecuador and gave instructions by videoconference to another\
         \ person for the execution, which was recorded in their cellphones. The latter\
         \ has not been tried.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d9ed2a6-52b4-433a-8562-6c182ce63003'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.777+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.925+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.675+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Laura Castillo, the other instigator, was described as being in charge\
+    section7:
+      primarytype: 'block'
+      uuid: '3d9ed2a6-52b4-433a-8562-6c182ce63003'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.777+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.925+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.675+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Laura Castillo, the other instigator, was described as being in charge\
         \ of providing the gunmen with logistical elements including motorcycles and\
         \ money.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3a5e38a-93f2-4a82-af55-ce7c99b95b58'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.777+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.925+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.675+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The three accomplices — Erick Ramírez, Víctor Flores and Alexandra\
+    section8:
+      primarytype: 'block'
+      uuid: 'f3a5e38a-93f2-4a82-af55-ce7c99b95b58'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.777+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.925+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.675+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The three accomplices — Erick Ramírez, Víctor Flores and Alexandra\
         \ Chimbo — were in charge of alerting the actual killers of the victim's movements,\
         \ prosecutors said.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f34f24ff-93e8-4eb4-8b09-7a9aa80af6c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:10:58.778+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:12:44.926+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:12:44.676+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "A total of 13 people were accused in the case, including several Colombians\
+    section9:
+      primarytype: 'block'
+      uuid: 'f34f24ff-93e8-4eb4-8b09-7a9aa80af6c8'
+      activationstatus: true
+      created: 2024-07-13T17:10:58.778+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:12:44.926+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:12:44.676+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "A total of 13 people were accused in the case, including several Colombians\
         \ who after being arrested were murdered last October in prisons in Guayaquil\
         \ and Quito where they were being held during the investigation.\r"
-  'argentina-designates-hamas-terrorist-organization':
-    'author': 'Associated Press'
-    'caption': 'Women touch a board with the names of people who died in the 1994
+  'START HERE----->argentina-designates-hamas-terrorist-organization':
+    author: 'Associated Press'
+    caption: 'Women touch a board with the names of people who died in the 1994
       bombing of the AMIA Jewish community center, at the site of the attack in Buenos
       Aires, Argentina, Thursday, July 18, 2019. Ahead of the 30th anniversary of
-      the attack, President Javier Milei''s government sent Congress a bill to hold
+      the attack, President Javier Milei's government sent Congress a bill to hold
       the trial in absentia, which would allow the accused, fugitives, to be tried.
       (AP Photo/Natacha Pisarenko, File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T17:21:49.000+08:00
-    'imagesource': 'jcr:08754532-c1c9-45c6-a280-2e7f47e626ca'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8562e66b-1f10-4cbc-b12c-f56035ccad67'
-    'lead': 'Argentina designated Hamas a terrorist organization Friday and ordered
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T17:21:49.000+08:00
+    imagesource: '08754532-c1c9-45c6-a280-2e7f47e626ca'
+    primarytype: 'composition'
+    uuid: '8562e66b-1f10-4cbc-b12c-f56035ccad67'
+    lead: 'Argentina designated Hamas a terrorist organization Friday and ordered
       a freeze on the financial assets of the Palestinian group, a largely symbolic
       move as President Javier Milei seeks to align Argentina strongly with the U.S.
       and Israel.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T17:25:02.469+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T17:25:02.837+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T17:25:02.568+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Global-Watch', 'Argentina', 'Hamas']
-    'stories': []
-    'template': '1'
-    'title': 'Argentina designates Hamas a terrorist group in show of support for
+    activationstatus: true
+    created: 2024-07-13T17:25:02.469+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T17:25:02.837+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T17:25:02.568+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Argentina designates Hamas a terrorist group in show of support for
       Israel'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb37dd59-96c6-4bee-932a-f7448a1709d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.552+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.837+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.562+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>BUENOS AIRES, Argentina (AP) —</strong> Argentina designated
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'cb37dd59-96c6-4bee-932a-f7448a1709d8'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.552+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.837+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.562+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>BUENOS AIRES, Argentina (AP) —</strong> Argentina designated
         Hamas a terrorist organization Friday and ordered a freeze on the financial
         assets of the Palestinian group, a largely symbolic move as President Javier
         Milei seeks to align Argentina strongly with the U.S. and Israel.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ac247d1-f601-452c-894f-a543a659b799'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.553+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.839+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.553+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Announcing the decision, Milei's office cited the militant Palestinian\
+    section1:
+      primarytype: 'block'
+      uuid: '1ac247d1-f601-452c-894f-a543a659b799'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.553+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.839+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.553+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Announcing the decision, Milei's office cited the militant Palestinian\
         \ group's cross-border attack on Israel last Oct. 7 that killed some 1,200\
         \ people and took 250 others hostage, in the deadliest assault in Israel's\
         \ 76-year history.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7294dcbc-e475-410d-87ac-6c9c9fbc54be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.553+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.840+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.553+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The statement also mentioned Hamas' close ties to Iran, which Argentina\
+    section2:
+      primarytype: 'block'
+      uuid: '7294dcbc-e475-410d-87ac-6c9c9fbc54be'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.553+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.840+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.553+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The statement also mentioned Hamas' close ties to Iran, which Argentina\
         \ blames for two deadly militant attacks on Jewish sites in the country.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2b9bd002-45ab-45fd-b017-d4bd372e495c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.554+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.841+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.554+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The move comes just days before the 30th anniversary of one of those\
+    section3:
+      primarytype: 'block'
+      uuid: '2b9bd002-45ab-45fd-b017-d4bd372e495c'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.554+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.841+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.554+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The move comes just days before the 30th anniversary of one of those\
         \ attacks, the 1994 bombing of a Jewish community center in Buenos Aires.\
         \ It killed 85 people and wounded hundreds more in the worst such attack in\
         \ Argentina's modern history.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4f356d7-f64c-4515-847e-80fffd1c9f5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.554+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.842+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.554+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The other attack on the Israeli Embassy in Buenos Aires, in 1992, killed\
+    section4:
+      primarytype: 'block'
+      uuid: 'a4f356d7-f64c-4515-847e-80fffd1c9f5d'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.554+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.842+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.554+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The other attack on the Israeli Embassy in Buenos Aires, in 1992, killed\
         \ more than 20 people. Argentina's judiciary has accused members of Lebanon's\
         \ Iran-backed Hezbollah militant group of carrying out the two attacks.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90b91a71-7223-4b08-bb90-fd44c74e5082'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.555+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.843+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.555+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Friday's announcement professed Milei's \"unwavering commitment to\
+    section5:
+      primarytype: 'block'
+      uuid: '90b91a71-7223-4b08-bb90-fd44c74e5082'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.555+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.843+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.555+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Friday's announcement professed Milei's \"unwavering commitment to\
         \ recognizing terrorists for what they are,\" adding that \"it's the first\
         \ time that there is a political will to do so.\"\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6baba1ea-8c8b-4419-af6d-11bb1057823c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.555+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.844+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.555+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The U.S., European Union and several other countries long put a terrorist\
+    section6:
+      primarytype: 'block'
+      uuid: '6baba1ea-8c8b-4419-af6d-11bb1057823c'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.555+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.844+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.555+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The U.S., European Union and several other countries long put a terrorist\
         \ designation on Hamas, which ruled the Gaza Strip before its current war\
         \ with Israel.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a6d42aa-d02b-4a63-986a-59582e10586a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.555+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.845+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.555+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Previous left-leaning Peronist governments in Argentina, home to the\
+    section7:
+      primarytype: 'block'
+      uuid: '5a6d42aa-d02b-4a63-986a-59582e10586a'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.555+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.845+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.555+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Previous left-leaning Peronist governments in Argentina, home to the\
         \ largest Jewish community in Latin America, have maintained friendly ties\
         \ with Israel but also voiced support for Palestinian statehood.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '473f9823-9316-4b27-9a03-acd4699aaa09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.556+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.846+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.556+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Since coming into office in December, Milei has set himself apart from\
+    section8:
+      primarytype: 'block'
+      uuid: '473f9823-9316-4b27-9a03-acd4699aaa09'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.556+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.846+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.556+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Since coming into office in December, Milei has set himself apart from\
         \ even Israel's closest allies in his vocal support for Prime Minister Benjamin\
         \ Netanyahu. A huge swell in global pressure has left Israel deeply isolated\
         \ over its military campaign in Gaza, which has killed more than 38,000 Palestinians,\
         \ displaced over 80% of the territory's people and triggered a humanitarian\
         \ disaster.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '283faf84-c659-40aa-b63a-808188f1bf1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.556+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.847+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.556+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Argentina must once again align itself with Western civilization,\"\
+    section9:
+      primarytype: 'block'
+      uuid: '283faf84-c659-40aa-b63a-808188f1bf1d'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.556+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.847+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.556+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Argentina must once again align itself with Western civilization,\"\
         \ Milei's office said Friday.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a907e7b-e3a9-4ef1-86f0-558257aec479'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.557+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.848+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.557+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "For his first state visit as president earlier this year, Milei flew\
+    section10:
+      primarytype: 'block'
+      uuid: '8a907e7b-e3a9-4ef1-86f0-558257aec479'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.557+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.848+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.557+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "For his first state visit as president earlier this year, Milei flew\
         \ to Jerusalem in a show of support for the Israeli government and promised\
         \ to move his nation's embassy to the contested capital — drawing praise from\
         \ Netanyahu and ire from Hamas.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82ba3765-e833-43a5-b18e-0128cb2ab15d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:25:02.557+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:25:02.849+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:25:02.557+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Although raised a Roman Catholic, Milei says he has a deep spiritual
+    section11:
+      primarytype: 'block'
+      uuid: '82ba3765-e833-43a5-b18e-0128cb2ab15d'
+      activationstatus: true
+      created: 2024-07-13T17:25:02.557+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:25:02.849+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:25:02.557+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Although raised a Roman Catholic, Milei says he has a deep spiritual
         connection with Judaism.</p>'
-  'alec-baldwin-involuntary-manslaughter-case-dismissed':
-    'author': 'Morgan Lee and Andrew Dalton, Associated Press'
-    'caption': 'Actor Alec Baldwin reacts during his trial for involuntary manslaughter
+  'START HERE----->alec-baldwin-involuntary-manslaughter-case-dismissed':
+    author: 'Morgan Lee and Andrew Dalton, Associated Press'
+    caption: 'Actor Alec Baldwin reacts during his trial for involuntary manslaughter
       for the 2021 fatal shooting of cinematographer Halyna Hutchins during filming
       of the Western movie "Rust," Friday, July 12, 2024, at Santa Fe County District
       Court in Santa Fe, N.M. The judge threw out the case against Baldwin in the
       middle of his trial and said it cannot be filed again. (Ramsay de Give/Pool
       Photo via AP)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-13T17:32:31.000+08:00
-    'imagesource': 'jcr:ee1af329-f786-4219-812f-63ef32a8ee83'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1e67a6a7-d1c8-42e8-ab31-cb609dff9c34'
-    'lead': 'A New Mexico judge on Friday brought a sudden and stunning end to the
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-13T17:32:31.000+08:00
+    imagesource: 'ee1af329-f786-4219-812f-63ef32a8ee83'
+    primarytype: 'composition'
+    uuid: '1e67a6a7-d1c8-42e8-ab31-cb609dff9c34'
+    lead: 'A New Mexico judge on Friday brought a sudden and stunning end to the
       involuntary manslaughter case against Alec Baldwin, dismissing it in the middle
-      of the actor''s trial and saying it cannot be filed again.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-13T17:38:52.388+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-13T17:38:53.065+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-13T17:38:52.643+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Alec-Baldwin', 'Global-Watch', 'Showbiz-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Alec Baldwin weeps in court as judge announces involuntary manslaughter
+      of the actor's trial and saying it cannot be filed again.'
+    activationstatus: true
+    created: 2024-07-13T17:38:52.388+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-13T17:38:53.065+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-13T17:38:52.643+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Alec Baldwin weeps in court as judge announces involuntary manslaughter
       case is dismissed midtrial'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c473f05-7a75-4d7a-b496-95a664c37593'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.603+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.066+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.630+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>SANTA FE, N.M. (AP) —</strong> A New Mexico judge on Friday
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '2c473f05-7a75-4d7a-b496-95a664c37593'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.603+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.066+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.630+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>SANTA FE, N.M. (AP) —</strong> A New Mexico judge on Friday
         brought a sudden and stunning end to the involuntary manslaughter case against
-        Alec Baldwin, dismissing it in the middle of the actor''s trial and saying
+        Alec Baldwin, dismissing it in the middle of the actor's trial and saying
         it cannot be filed again.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73044878-e320-4549-adb3-0c09cd36e755'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.603+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.068+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.603+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Judge Mary Marlowe Sommer dismissed the case based on misconduct of\
+    section1:
+      primarytype: 'block'
+      uuid: '73044878-e320-4549-adb3-0c09cd36e755'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.603+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.068+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.603+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Judge Mary Marlowe Sommer dismissed the case based on misconduct of\
         \ police and prosecutors over the withholding of evidence from the defense\
         \ in the 2021 shooting of cinematographer Halyna Hutchins on the set of the\
         \ film \"Rust.\"\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad267369-2f4c-48bf-b93b-fee39aeda312'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.604+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.069+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.604+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Baldwin cried, hugged his two attorneys, gestured to the front of the\
+    section2:
+      primarytype: 'block'
+      uuid: 'ad267369-2f4c-48bf-b93b-fee39aeda312'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.604+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.069+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.604+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Baldwin cried, hugged his two attorneys, gestured to the front of the\
         \ court, then turned to hug his crying wife, Hilaria, the mother of seven\
         \ of his eight children, holding the embrace for 12 seconds. He climbed into\
         \ an SUV outside the Santa Fe County courthouse without speaking to the media.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ace06bd1-2e47-4410-8756-d3bc4f7c91f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.604+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.071+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.604+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"The late discovery of this evidence during trial has impeded the\
+    section3:
+      primarytype: 'block'
+      uuid: 'ace06bd1-2e47-4410-8756-d3bc4f7c91f8'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.604+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.071+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.604+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"The late discovery of this evidence during trial has impeded the\
         \ effective use of evidence in such a way that it has impacted the fundamental\
         \ fairness of the proceedings,\" Marlowe Sommer said. \"If this conduct does\
         \ not rise to the level of bad faith it certainly comes so near to bad faith\
         \ to show signs of scorching.\"\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb29f6af-52e0-4a44-9173-77eeed4e1b26'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.604+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.072+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.604+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The case-ending evidence, revealed during testimony Thursday, was ammunition\
+    section4:
+      primarytype: 'block'
+      uuid: 'fb29f6af-52e0-4a44-9173-77eeed4e1b26'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.604+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.072+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.604+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The case-ending evidence, revealed during testimony Thursday, was ammunition\
         \ that was brought into the sheriff's office in March by a man who said it\
         \ could be related to Hutchins' killing. Prosecutors said they deemed the\
         \ ammo unrelated and unimportant, while Baldwin's lawyers alleged they \"\
         buried\" it and filed a motion to dismiss the case.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03057c6c-24c7-4dd3-b888-889615879487'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.605+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.074+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.605+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The judge's decision ends the criminal culpability of the 66-year-old\
+    section5:
+      primarytype: 'block'
+      uuid: '03057c6c-24c7-4dd3-b888-889615879487'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.605+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.074+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.605+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The judge's decision ends the criminal culpability of the 66-year-old\
         \ Baldwin after a nearly three-year saga that began when a revolver he was\
         \ pointing at Hutchins during a rehearsal went off, killing her and wounding\
         \ director Joel Souza.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65ef60ab-186f-4cf2-b15e-f70a8ad6596b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.605+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.075+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.605+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Our goal from the beginning was to seek justice for Halyna Hutchins,\"\
+    section6:
+      primarytype: 'block'
+      uuid: '65ef60ab-186f-4cf2-b15e-f70a8ad6596b'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.605+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.075+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.605+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Our goal from the beginning was to seek justice for Halyna Hutchins,\"\
         \ District Attorney Mary Carmack-Altwies said in a statement. \"We are disappointed\
         \ that the case did not get to the jury.\"\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b613988-9626-4914-b01a-b1551dbe893b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.606+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.076+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.606+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The career of the \"Hunt for Red October\" and \"30 Rock\" star and\
+    section7:
+      primarytype: 'block'
+      uuid: '3b613988-9626-4914-b01a-b1551dbe893b'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.606+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.076+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.606+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The career of the \"Hunt for Red October\" and \"30 Rock\" star and\
         \ frequent \"Saturday Night Live\" host — who has been a household name for\
         \ more than three decades — had been put into doubt, and he could have gotten\
         \ 18 months in prison if convicted. It's not clear what opportunities will\
         \ await him now, but he and his wife signed an agreement for a reality show\
         \ on their large family in June.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fc41fd5-35a2-40db-b6a5-977f723aeeb2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.606+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.078+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.606+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Baldwin and other producers still face civil lawsuits from Hutchins'\
+    section8:
+      primarytype: 'block'
+      uuid: '4fc41fd5-35a2-40db-b6a5-977f723aeeb2'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.606+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.078+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.606+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Baldwin and other producers still face civil lawsuits from Hutchins'\
         \ parents and sister, and from crew members. Hutchins' widower and young son\
         \ had agreed to settle their own lawsuit about a year after the shooting,\
         \ with the widower becoming an executive producer on the then-unfinished film.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a954c653-2883-4a1d-a6ee-bf4ced11482b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.606+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.079+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.606+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "But that settlement was reportedly in jeopardy before the trial, and\
+    section9:
+      primarytype: 'block'
+      uuid: 'a954c653-2883-4a1d-a6ee-bf4ced11482b'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.606+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.079+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.606+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "But that settlement was reportedly in jeopardy before the trial, and\
         \ the lawyer who filed it, Brian Panish, now said in a statement that \"we\
         \ look forward to presenting all the evidence to a jury and holding Mr. Baldwin\
         \ accountable for his actions in the senseless death of Halyna Hutchins.\"\
         \r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17b5508d-e578-4914-829c-284fb0b5a30a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.080+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.607+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Rust,\" an independent Western, was completed in Montana. It has\
+    section10:
+      primarytype: 'block'
+      uuid: '17b5508d-e578-4914-829c-284fb0b5a30a'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.080+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.607+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Rust,\" an independent Western, was completed in Montana. It has\
         \ not found a distributor or been seen by the public.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '21215430-6db2-43be-a514-dbd36d8369e1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.081+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.607+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Prosecutors did get one conviction for Hutchins' death: Hannah Gutierrez-Reed,\
+    section11:
+      primarytype: 'block'
+      uuid: '21215430-6db2-43be-a514-dbd36d8369e1'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.081+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.607+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Prosecutors did get one conviction for Hutchins' death: Hannah Gutierrez-Reed,\
         \ the film's armorer, was sentenced to 18 months in prison on an involuntary\
         \ manslaughter conviction.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '26894554-a256-4d3b-9c8a-c189c123edff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.082+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.608+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "She is appealing, and her attorney Jason Bowles said he would file\
+    section12:
+      primarytype: 'block'
+      uuid: '26894554-a256-4d3b-9c8a-c189c123edff'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.082+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.608+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "She is appealing, and her attorney Jason Bowles said he would file\
         \ a motion to dismiss his client's case on the same basis as Baldwin's.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b8839f1-863e-44ce-9b80-1554abd2b8fc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.083+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.608+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Marlowe Sommer put a pause on the trial earlier Friday and sent the\
+    section13:
+      primarytype: 'block'
+      uuid: '5b8839f1-863e-44ce-9b80-1554abd2b8fc'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.083+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.608+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Marlowe Sommer put a pause on the trial earlier Friday and sent the\
         \ jury home so she could hear testimony and arguments on the dismissal motion.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecdf6f65-2cf9-47c6-9c41-9e1cb7601262'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.609+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.085+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.609+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Troy Teske, a retired police officer and a close friend of Gutierrez-Reed's\
+    section14:
+      primarytype: 'block'
+      uuid: 'ecdf6f65-2cf9-47c6-9c41-9e1cb7601262'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.609+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.085+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.609+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Troy Teske, a retired police officer and a close friend of Gutierrez-Reed's\
         \ father Thell Reed, who is a gun coach and armorer on movies, was the person\
         \ who appeared with the ammunition on the same day the guilty verdict in her\
         \ case was read.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7443053e-f147-4825-8941-c5507a7be2a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.609+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.087+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.609+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Teske and the ammunition had been known to authorities since a few\
+    section15:
+      primarytype: 'block'
+      uuid: '7443053e-f147-4825-8941-c5507a7be2a3'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.609+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.087+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.609+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Teske and the ammunition had been known to authorities since a few\
         \ weeks after the shooting, but they determined it was not relevant.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ab7bf38f-f437-4104-bd38-6f721d25df7b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.610+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.088+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.610+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The evidence was collected but crucially was not put into the same\
+    section16:
+      primarytype: 'block'
+      uuid: 'ab7bf38f-f437-4104-bd38-6f721d25df7b'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.610+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.088+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.610+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The evidence was collected but crucially was not put into the same\
         \ file as the rest of the \"Rust\" case, and it was not presented to Baldwin's\
         \ team when they examined ballistics evidence in April.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38ee3ab9-27aa-4968-8296-e105cfe33d26'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.610+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.089+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.610+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The issue came up during defense questioning of crime scene technician\
+    section17:
+      primarytype: 'block'
+      uuid: '38ee3ab9-27aa-4968-8296-e105cfe33d26'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.610+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.089+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.610+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The issue came up during defense questioning of crime scene technician\
         \ Marissa Poppell, who acknowledged receiving the ammunition, a moment that\
         \ the judge watched on a police supervisor's body camera Friday.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dffc1e9f-d5f5-4ba4-b79a-d9f07b54db6d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.611+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.090+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.611+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Morrissey argued that the emergence of the evidence was part of an\
+    section18:
+      primarytype: 'block'
+      uuid: 'dffc1e9f-d5f5-4ba4-b79a-d9f07b54db6d'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.611+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.090+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.611+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Morrissey argued that the emergence of the evidence was part of an\
         \ attempt by Reed to shift blame away from his daughter.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef60bd70-a6fc-434a-b536-600b442309a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.611+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.091+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.611+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"This is a wild goose chase that has no evidentiary value whatsoever,\"\
+    section19:
+      primarytype: 'block'
+      uuid: 'ef60bd70-a6fc-434a-b536-600b442309a9'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.611+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.091+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.611+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"This is a wild goose chase that has no evidentiary value whatsoever,\"\
         \ Morrissey said. \"This is just a man trying to protect his daughter.\"\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b93a309a-1d46-44cd-98cc-241823916e1b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.612+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.092+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.612+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The evidence might not have mattered in Baldwin's case were it included.\
+    section20:
+      primarytype: 'block'
+      uuid: 'b93a309a-1d46-44cd-98cc-241823916e1b'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.612+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.092+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.612+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The evidence might not have mattered in Baldwin's case were it included.\
         \ The charges against him did not allege that he was responsible for the deadly\
         \ rounds being on set. But the defense's lack of access to it was deemed egregious\
         \ enough for a dismissal.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3edddcdf-7d95-4b1e-ad80-09c288d97c7c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.612+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.093+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.612+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The trial's other special prosecutor, Erlinda Ocampo Johnson, who delivered\
+    section21:
+      primarytype: 'block'
+      uuid: '3edddcdf-7d95-4b1e-ad80-09c288d97c7c'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.612+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.093+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.612+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The trial's other special prosecutor, Erlinda Ocampo Johnson, who delivered\
         \ the state's opening statement just two days ago, resigned from the case\
         \ Friday, a move that would have been stunning in itself were it not followed\
         \ moments later by the dismissal. Baldwin attorney Alex Spiro asked Morrissey\
         \ whether Johnson quit based on the evidence issues, and Morrissey said she\
         \ believed it was over the holding of the public hearing itself.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a238837-eb9d-4626-bbcd-d36e862256ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.613+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.094+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.613+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Morrissey said she respects the judge's decision but that there was\
+    section22:
+      primarytype: 'block'
+      uuid: '7a238837-eb9d-4626-bbcd-d36e862256ce'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.613+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.094+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.613+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Morrissey said she respects the judge's decision but that there was\
         \ no reason to believe the undisclosed evidence was related to the movie set.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78c80340-0159-4c6e-a0cb-9b9b1e1f72e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.613+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.095+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.613+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The trial was over after it had barely begun. Prosecutors had only\
+    section23:
+      primarytype: 'block'
+      uuid: '78c80340-0159-4c6e-a0cb-9b9b1e1f72e0'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.613+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.095+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.613+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The trial was over after it had barely begun. Prosecutors had only\
         \ started to make their case, and none of the eyewitnesses from the set had\
         \ testified yet.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5540b61-1f70-4c31-9a68-660010ea0238'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.614+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.096+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.614+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Baldwin's younger brother Stephen Baldwin and older sister Elizabeth\
+    section24:
+      primarytype: 'block'
+      uuid: 'c5540b61-1f70-4c31-9a68-660010ea0238'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.614+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.096+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.614+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Baldwin's younger brother Stephen Baldwin and older sister Elizabeth\
         \ Keuchler, both actors themselves, sat behind him in the gallery next to\
         \ his wife each day of the trial, which was streamed live by AP and Court\
         \ TV. Reporters from both coasts filled the small courtroom and patio outside.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a75eefd-aca5-46ca-8a7b-b4c2dd04aad6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.615+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.097+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.615+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The judge dealt a serious blow to the prosecution's case when on the\
+    section25:
+      primarytype: 'block'
+      uuid: '5a75eefd-aca5-46ca-8a7b-b4c2dd04aad6'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.615+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.097+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.615+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The judge dealt a serious blow to the prosecution's case when on the\
         \ eve of the trial on Monday when she ruled that Baldwin's role as a producer\
         \ on the film was not relevant and had to be left out.\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97a7c2b4-1874-486a-85c0-79c355991298'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.615+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.098+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.615+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Still, prosecutors forged ahead, painting Baldwin in their openings\
+    section26:
+      primarytype: 'block'
+      uuid: '97a7c2b4-1874-486a-85c0-79c355991298'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.615+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.098+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.615+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Still, prosecutors forged ahead, painting Baldwin in their openings\
         \ as a reckless performer who \"played make-believe\" while flouting basic\
         \ gun safety rules.\r"
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4b94a80-5f9d-48c1-808f-26eca7bce609'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.616+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.099+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.616+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Spiro, the defense lawyer, argued that his client did only what actors\
+    section27:
+      primarytype: 'block'
+      uuid: 'a4b94a80-5f9d-48c1-808f-26eca7bce609'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.616+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.099+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.616+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Spiro, the defense lawyer, argued that his client did only what actors\
         \ always do on the \"Rust\" set and that the necessary safety steps must be\
         \ taken before a gun reaches a performer's hand.\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3ecac193-fbe2-40d0-8367-faecec2022ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.616+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.100+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.616+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Baldwin was first charged with involuntary manslaughter along with\
+    section28:
+      primarytype: 'block'
+      uuid: '3ecac193-fbe2-40d0-8367-faecec2022ea'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.616+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.100+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.616+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Baldwin was first charged with involuntary manslaughter along with\
         \ Gutierrez-Reed in January 2023. The charges were dismissed a few months\
         \ later, but a new team of special prosecutors got a grand jury indictment\
         \ against the actor this year.\r"
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '177a0cfb-b2a7-4a61-a998-3c5eeae1a0fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.617+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.102+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.617+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The 16 jurors, including alternates, went home Friday thinking they\
+    section29:
+      primarytype: 'block'
+      uuid: '177a0cfb-b2a7-4a61-a998-3c5eeae1a0fd'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.617+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.102+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.617+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The 16 jurors, including alternates, went home Friday thinking they\
         \ would return Monday for one of the most high-profile trials in state history.\
         \ They were instead informed by the court that their service had ended.\r"
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fbf85f13-0aa0-4a13-90cb-eb2b42d49688'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-13T17:38:52.618+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-13T17:38:53.103+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-13T17:38:52.618+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>Dalton reported from Los Angeles.</em></p>'
+    section30:
+      primarytype: 'block'
+      uuid: 'fbf85f13-0aa0-4a13-90cb-eb2b42d49688'
+      activationstatus: true
+      created: 2024-07-13T17:38:52.618+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-13T17:38:53.103+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-13T17:38:52.618+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>Dalton reported from Los Angeles.</em></p>'

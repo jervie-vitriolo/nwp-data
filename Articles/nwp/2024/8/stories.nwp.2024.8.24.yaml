@@ -1,1467 +1,1467 @@
-'24':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'a1ebfc5d-0e0b-47b8-9ea3-c4a9bcd4b3b4'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-08-24T12:37:45.742+08:00
-  'mgnl:createdBy': 'jelo-nwp'
-  'mgnl:lastActivated': 2025-03-13T13:03:23.913+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:25.478+08:00
-  'mgnl:lastModified': 2024-08-24T19:19:16.548+08:00
-  'mgnl:lastModifiedBy': 'jelo-nwp'
-  'germany-solingen-stabbing-attack':
-    'author': 'Petra Wischgoll, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T12:37:54.000+08:00
-    'imagesource': 'jcr:e86347fb-39d3-4d65-b847-eae00d818138'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6dd2f68c-12ad-4e39-bae2-910e2046c346'
-    'lead': 'Three people were killed and four others seriously wounded in a stabbing
+section24:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'a1ebfc5d-0e0b-47b8-9ea3-c4a9bcd4b3b4'
+  activationstatus: true
+  created: 2024-08-24T12:37:45.742+08:00
+  createdby: 'jelo-nwp'
+  lastactivated: 2025-03-13T13:03:23.913+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T13:01:25.478+08:00
+  lastmodified: 2024-08-24T19:19:16.548+08:00
+  lastmodifiedby: 'jelo-nwp'
+  'START HERE----->germany-solingen-stabbing-attack':
+    author: 'Petra Wischgoll, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T12:37:54.000+08:00
+    imagesource: 'e86347fb-39d3-4d65-b847-eae00d818138'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6dd2f68c-12ad-4e39-bae2-910e2046c346'
+    lead: 'Three people were killed and four others seriously wounded in a stabbing
       attack at a festival on Friday night in the western German city of Solingen,
       police said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T12:40:10.440+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:11:03.514+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:25.614+08:00
-    'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Three dead after stabbing attack at festival in western Germany'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '281d604c-5cdc-4f9a-8e21-02f4dbbef90a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.513+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.517+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Solingen, Germany —</strong> Three people were killed and
+    activationstatus: true
+    created: 2024-08-24T12:40:10.440+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:11:03.514+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:25.614+08:00
+    lastmodified: 2024-08-24T12:55:09.498+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Three dead after stabbing attack at festival in western Germany'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '281d604c-5cdc-4f9a-8e21-02f4dbbef90a'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.513+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.517+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Solingen, Germany —</strong> Three people were killed and
         four others seriously wounded in a stabbing attack at a festival on Friday
         night, Aug. 23, in the western German city of Solingen, police said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0edf5d0e-e994-4c79-b571-98bdefaf9a36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.513+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.517+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f682d2eb-c08a-4ce5-9243-bb993cf6c71d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.514+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.518+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>They said that at around 10 p.m. (4 a.m., Saturday, Manila time)
+    section1:
+      primarytype: 'block'
+      uuid: '0edf5d0e-e994-4c79-b571-98bdefaf9a36'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.513+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.517+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: 'f682d2eb-c08a-4ce5-9243-bb993cf6c71d'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.514+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.518+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>They said that at around 10 p.m. (4 a.m., Saturday, Manila time)
         a single, unidentified man attacked multiple people and that the perpetrator
         was still at large.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ccf692ac-0678-40e1-b759-4ad0d1f13e42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.514+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.518+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8fbbcb8e-5542-4fd4-a18d-2d503f74a385'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.514+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.519+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"It tears my heart apart that there was an attack on our city. I have\
+    section3:
+      primarytype: 'block'
+      uuid: 'ccf692ac-0678-40e1-b759-4ad0d1f13e42'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.514+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.518+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section4:
+      primarytype: 'block'
+      uuid: '8fbbcb8e-5542-4fd4-a18d-2d503f74a385'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.514+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.519+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"It tears my heart apart that there was an attack on our city. I have\
         \ tears in my eyes when I think of those we have lost,\" Solingen Mayor Tim-Oliver\
         \ Kurzbach said in a statement. \"I pray for all those who are still fighting\
         \ for their lives.\"\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd69337bf-8a5f-4439-81ea-93d680f505ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.515+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.520+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d1ff2a1-918d-4b8c-884b-1042d3ee8ebb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.515+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.520+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Fatal stabbings and shootings in Germany are relatively uncommon.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5348f2a2-5e07-4baa-95c5-1222cb9dfadc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.516+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.521+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2adf562f-c4e5-4603-b7ff-7d68d76f5891'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.516+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.521+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The police said the attack occurred at a festival to honour the town’s\
+    section5:
+      primarytype: 'block'
+      uuid: 'd69337bf-8a5f-4439-81ea-93d680f505ec'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.515+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.520+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: '4d1ff2a1-918d-4b8c-884b-1042d3ee8ebb'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.515+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.520+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Fatal stabbings and shootings in Germany are relatively uncommon.\r"
+    section7:
+      primarytype: 'block'
+      uuid: '5348f2a2-5e07-4baa-95c5-1222cb9dfadc'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.516+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.521+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section8:
+      primarytype: 'block'
+      uuid: '2adf562f-c4e5-4603-b7ff-7d68d76f5891'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.516+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.521+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The police said the attack occurred at a festival to honour the town’s\
         \ 650th anniversary.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd329a20f-e40e-4070-b8b5-9eeaf4a44030'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.516+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.522+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0356f91a-4504-4dcc-afc7-f0289aeef7b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.517+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Solingen is in North Rhine-Westphalia state, Germany’s most populous\
+    section9:
+      primarytype: 'block'
+      uuid: 'd329a20f-e40e-4070-b8b5-9eeaf4a44030'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.516+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.522+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section10:
+      primarytype: 'block'
+      uuid: '0356f91a-4504-4dcc-afc7-f0289aeef7b9'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.517+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Solingen is in North Rhine-Westphalia state, Germany’s most populous\
         \ and bordering the Netherlands.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c638dfaf-3384-4c11-8fad-6d1d939f6d49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.517+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc4bbfc4-1df4-4d76-be12-915ec0188275'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.518+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.524+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The state’s interior minister, Herbert Reul, visited the scene, telling\
+    section11:
+      primarytype: 'block'
+      uuid: 'c638dfaf-3384-4c11-8fad-6d1d939f6d49'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.517+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section12:
+      primarytype: 'block'
+      uuid: 'bc4bbfc4-1df4-4d76-be12-915ec0188275'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.518+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.524+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The state’s interior minister, Herbert Reul, visited the scene, telling\
         \ reporters it was a targeted attack on human life but declining to speculate\
         \ on the motive.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c78d3f7-f745-40db-b1dd-de298eeee5e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.518+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0b8245cc-935b-4ab0-a4ad-a244bb78681d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.519+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The attack occurred at the Fronhof, the mayor’s statement said, a market\
+    section13:
+      primarytype: 'block'
+      uuid: '4c78d3f7-f745-40db-b1dd-de298eeee5e0'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.518+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section14:
+      primarytype: 'block'
+      uuid: '0b8245cc-935b-4ab0-a4ad-a244bb78681d'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.519+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The attack occurred at the Fronhof, the mayor’s statement said, a market\
         \ square where live bands were playing.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a972c0d1-1f28-4530-8f4d-6a3022d2cc34'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.519+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.526+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98d6b52d-30bb-4575-aab7-5654dc77e13c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.519+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.526+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The German government has been aiming to toughen rules on knives that\
+    section15:
+      primarytype: 'block'
+      uuid: 'a972c0d1-1f28-4530-8f4d-6a3022d2cc34'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.519+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.526+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section16:
+      primarytype: 'block'
+      uuid: '98d6b52d-30bb-4575-aab7-5654dc77e13c'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.519+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.526+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The German government has been aiming to toughen rules on knives that\
         \ can be carried in public by reducing the length allowed.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'db1793f3-c537-4c1a-8adc-22760cdcf91e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.520+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.527+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '921d8354-123e-4f7d-873d-1045d97b86f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.520+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.528+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In June, a 29-year-old policeman died after being stabbed in the German\
+    section17:
+      primarytype: 'block'
+      uuid: 'db1793f3-c537-4c1a-8adc-22760cdcf91e'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.520+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.527+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section18:
+      primarytype: 'block'
+      uuid: '921d8354-123e-4f7d-873d-1045d97b86f9'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.520+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.528+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In June, a 29-year-old policeman died after being stabbed in the German\
         \ city of Mannheim during an attack on a right-wing demonstration.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ae8f7265-458a-4b3f-9fce-3899a16d2a81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.521+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.528+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b4ae92d-f903-401b-b807-200aecae9a81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.521+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.529+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "There was a stabbing attack on a train in 2021, injuring several.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e509cd1b-e77e-4df9-bab9-c8e4df46e434'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.522+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.529+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16fd4ff2-8013-455b-bc0d-223b6c4e6d55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:40:10.522+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:03.530+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:55:09.498+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Petra Wischgoll, Thilo Schmuelgen, Thomas Seythal
+    section19:
+      primarytype: 'block'
+      uuid: 'ae8f7265-458a-4b3f-9fce-3899a16d2a81'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.521+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.528+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section20:
+      primarytype: 'block'
+      uuid: '9b4ae92d-f903-401b-b807-200aecae9a81'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.521+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.529+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "There was a stabbing attack on a train in 2021, injuring several.\r"
+    section21:
+      primarytype: 'block'
+      uuid: 'e509cd1b-e77e-4df9-bab9-c8e4df46e434'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.522+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.529+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section22:
+      primarytype: 'block'
+      uuid: '16fd4ff2-8013-455b-bc0d-223b6c4e6d55'
+      activationstatus: true
+      created: 2024-08-24T12:40:10.522+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:03.530+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:55:09.498+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Petra Wischgoll, Thilo Schmuelgen, Thomas Seythal
         and Tom Sims; Editing by Cynthia Osterman, Daniel Wallis and Sandra Maler)</em></p>'
-  'rfk-jr-ends-us-presidential-campaign':
-    'author': 'Ismail Shakil and Stephanie Kelly, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T12:40:44.000+08:00
-    'imagesource': 'jcr:d35e8639-ee94-4d17-8050-c54e9bd90f0a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3c307631-197b-4ac2-8b3b-281a3d217a13'
-    'lead': 'Independent US presidential candidate Robert F. Kennedy Jr. abandoned
+  'START HERE----->rfk-jr-ends-us-presidential-campaign':
+    author: 'Ismail Shakil and Stephanie Kelly, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T12:40:44.000+08:00
+    imagesource: 'd35e8639-ee94-4d17-8050-c54e9bd90f0a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '3c307631-197b-4ac2-8b3b-281a3d217a13'
+    lead: 'Independent US presidential candidate Robert F. Kennedy Jr. abandoned
       his campaign on Friday and endorsed Republican Donald Trump, ending a run that
       he began as a Democrat trading on one of the most famous names in American politics.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T12:44:27.676+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:11:02.021+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:25.932+08:00
-    'mgnl:lastModified': 2024-08-24T12:56:33.368+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['US-presidential-elections', 'Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'RFK Jr. ends US presidential campaign, endorses Trump'
-    'visualType': 'image'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f6b2fd4b-47f0-45dd-b00a-4a41afa4df11'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.722+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.023+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.333+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Reuters —</strong> Independent US presidential candidate
+    activationstatus: true
+    created: 2024-08-24T12:44:27.676+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:11:02.021+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:25.932+08:00
+    lastmodified: 2024-08-24T12:56:33.368+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'RFK Jr. ends US presidential campaign, endorses Trump'
+    visualtype: 'image'
+    section1:
+      primarytype: 'block'
+      uuid: 'f6b2fd4b-47f0-45dd-b00a-4a41afa4df11'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.722+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.023+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.333+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Reuters —</strong> Independent US presidential candidate
         Robert F. Kennedy Jr. abandoned his campaign on Friday, Aug. 23, and endorsed
         Republican Donald Trump, ending a run that he began as a Democrat trading
         on one of the most famous names in American politics.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ffb0755-df00-4932-b3ef-a3ece0f20ba8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.723+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.024+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.334+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dfa5812c-df4b-4b53-9105-b8ab77428008'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.723+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.025+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.335+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hours after announcing the endorsement in a press conference, Kennedy\
+    section2:
+      primarytype: 'block'
+      uuid: '0ffb0755-df00-4932-b3ef-a3ece0f20ba8'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.723+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.024+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.334+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section3:
+      primarytype: 'block'
+      uuid: 'dfa5812c-df4b-4b53-9105-b8ab77428008'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.723+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.025+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.335+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hours after announcing the endorsement in a press conference, Kennedy\
         \ joined Trump at a campaign event in Arizona, where the crowd cheered the\
         \ independent loudly.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3cbbf93-5d4c-44b4-81d5-ca3d0d4bc7a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.723+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.025+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.335+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd63ddce0-0770-4ee3-bb0f-686146d2e4c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.724+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.026+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.336+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"His candidacy has inspired millions and millions of Americans, raised\
+    section4:
+      primarytype: 'block'
+      uuid: 'c3cbbf93-5d4c-44b4-81d5-ca3d0d4bc7a6'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.723+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.025+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.335+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section5:
+      primarytype: 'block'
+      uuid: 'd63ddce0-0770-4ee3-bb0f-686146d2e4c0'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.724+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.026+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.336+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"His candidacy has inspired millions and millions of Americans, raised\
         \ critical issues that have been too long ignored in this country,\" Trump\
         \ said of Kennedy.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6778ddf-6087-4d78-8e18-0e78424ea0b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.724+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.027+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.337+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '123ac169-fc21-46a1-8f90-8df3db1e5064'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.725+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.027+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.337+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Strategists said it was unclear whether Kennedy’s endorsement would\
+    section6:
+      primarytype: 'block'
+      uuid: 'a6778ddf-6087-4d78-8e18-0e78424ea0b2'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.724+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.027+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.337+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section7:
+      primarytype: 'block'
+      uuid: '123ac169-fc21-46a1-8f90-8df3db1e5064'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.725+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.027+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.337+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Strategists said it was unclear whether Kennedy’s endorsement would\
         \ help Trump, who is in a tight contest with Democratic Vice President Kamala\
         \ Harris ahead of the Nov. 5 election.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca3545fc-300f-409a-bcef-eafcdefa8fb5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.725+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.028+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.338+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '446a9365-00ec-4574-8408-6dd0311a2460'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.725+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.029+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.339+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Kennedy, 70, told a news conference earlier that he met with Trump
+    section8:
+      primarytype: 'block'
+      uuid: 'ca3545fc-300f-409a-bcef-eafcdefa8fb5'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.725+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.028+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.338+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section9:
+      primarytype: 'block'
+      uuid: '446a9365-00ec-4574-8408-6dd0311a2460'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.725+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.029+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.339+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Kennedy, 70, told a news conference earlier that he met with Trump
         and his aides several times and learned they agreed on issues like border
         security, free speech and ending wars.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eafefdad-8e70-4ce3-80a1-fed1212d25d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.726+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.029+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.339+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f2015d5-748c-4dad-883e-6c3cb12e8961'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.726+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.030+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.340+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"There are still many issues and approaches on which we continue to\
+    section10:
+      primarytype: 'block'
+      uuid: 'eafefdad-8e70-4ce3-80a1-fed1212d25d4'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.726+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.029+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.339+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section11:
+      primarytype: 'block'
+      uuid: '7f2015d5-748c-4dad-883e-6c3cb12e8961'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.726+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.030+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.340+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"There are still many issues and approaches on which we continue to\
         \ have very serious differences. But we are aligned on other key issues,\"\
         \ he told reporters.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5ab9f8a-5f1a-40be-8a65-288a57ef082d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.727+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.031+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.341+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1e4e214-1656-4c7e-aa7a-10f278ea6fe0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.727+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.031+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.341+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He reiterated much of that when he joined Trump at the Arizona rally\
+    section12:
+      primarytype: 'block'
+      uuid: 'c5ab9f8a-5f1a-40be-8a65-288a57ef082d'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.727+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.031+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.341+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section13:
+      primarytype: 'block'
+      uuid: 'c1e4e214-1656-4c7e-aa7a-10f278ea6fe0'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.727+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.031+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.341+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He reiterated much of that when he joined Trump at the Arizona rally\
         \ and repeated positions on his core issues of combating chronic illness and\
         \ ridding the environment and food supply of hazardous chemicals.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4aecf63-d38e-458e-a30c-52bf34c4685a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.728+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.032+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.342+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d06e746-b3e3-49d1-b4e0-430b522b20a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.728+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.032+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.343+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With Kennedy on stage, the former president said that if he regained\
+    section14:
+      primarytype: 'block'
+      uuid: 'a4aecf63-d38e-458e-a30c-52bf34c4685a'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.728+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.032+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.342+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section15:
+      primarytype: 'block'
+      uuid: '4d06e746-b3e3-49d1-b4e0-430b522b20a5'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.728+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.032+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.343+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With Kennedy on stage, the former president said that if he regained\
         \ the White House, he would create a presidential commission on assassination\
         \ attempts and release files related to the assassination of President John\
         \ F. Kennedy in 1963.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31e57bd1-ac50-4af9-8022-303eef530049'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.729+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.033+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.343+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc97ac06-ee1b-4b85-8a4e-b4e2a4304a18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.729+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.034+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.344+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Robert Kennedy, known by his initials RFK Jr., said he would remove\
+    section16:
+      primarytype: 'block'
+      uuid: '31e57bd1-ac50-4af9-8022-303eef530049'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.729+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.033+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.343+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section17:
+      primarytype: 'block'
+      uuid: 'fc97ac06-ee1b-4b85-8a4e-b4e2a4304a18'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.729+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.034+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.344+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Robert Kennedy, known by his initials RFK Jr., said he would remove\
         \ his name from ballots in 10 battleground states likely to determine the\
         \ outcome of the election and remain as a candidate in other states.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52d265e9-a628-411b-9cc5-edb07c7b16f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.730+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.034+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.345+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba87f8c7-a97f-4e20-8b3f-d7d8a51ecd49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.730+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.035+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.345+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>An environmental lawyer, anti-vaccine activist and son and nephew
+    section18:
+      primarytype: 'block'
+      uuid: '52d265e9-a628-411b-9cc5-edb07c7b16f1'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.730+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.034+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.345+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section19:
+      primarytype: 'block'
+      uuid: 'ba87f8c7-a97f-4e20-8b3f-d7d8a51ecd49'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.730+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.035+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.345+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>An environmental lawyer, anti-vaccine activist and son and nephew
         of two titans of Democratic politics who were assassinated during the turbulent
         1960s, Kennedy entered the race in April 2023 as a challenger to US President
         Joe Biden for the Democratic nomination.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3cd9482f-17e1-42fa-8643-d8c473db26a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.731+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.036+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.346+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f060b57-3cfe-4606-9ef6-6422b4e6c7e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.731+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.036+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.347+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With some voters at the time turned off by both the aging Biden and\
+    section20:
+      primarytype: 'block'
+      uuid: '3cd9482f-17e1-42fa-8643-d8c473db26a4'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.731+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.036+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.346+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section21:
+      primarytype: 'block'
+      uuid: '0f060b57-3cfe-4606-9ef6-6422b4e6c7e8'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.731+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.036+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.347+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With some voters at the time turned off by both the aging Biden and\
         \ the legally embattled Trump, interest in Kennedy soared. He later decided\
         \ to run as an independent, and a November 2023 Reuters/Ipsos poll showed\
         \ Kennedy with 20% support in a three-way race with Biden and Trump.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbabe8bd-74e7-4b13-9d39-791441000772'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.732+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.037+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.347+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9a57ace-c750-4d60-af81-a6303e50071f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.732+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.038+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.348+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He ran a high-profile advertisement during the February 2024 Super\
+    section22:
+      primarytype: 'block'
+      uuid: 'cbabe8bd-74e7-4b13-9d39-791441000772'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.732+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.037+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.347+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section23:
+      primarytype: 'block'
+      uuid: 'a9a57ace-c750-4d60-af81-a6303e50071f'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.732+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.038+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.348+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He ran a high-profile advertisement during the February 2024 Super\
         \ Bowl that invoked his father, U.S. Senator Robert F. Kennedy, and uncle,\
         \ President Kennedy, and drew outrage from much of his high-profile family.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '430fe3f4-98e2-4b02-99a0-ac04c0d6cd29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.733+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.038+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.349+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c2cb2b94-9798-468d-960f-3e3c52a63b9e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.733+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.039+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.350+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "His sister Kerry Kennedy said on Friday that his decision to endorse\
+    section24:
+      primarytype: 'block'
+      uuid: '430fe3f4-98e2-4b02-99a0-ac04c0d6cd29'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.733+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.038+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.349+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section25:
+      primarytype: 'block'
+      uuid: 'c2cb2b94-9798-468d-960f-3e3c52a63b9e'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.733+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.039+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.350+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "His sister Kerry Kennedy said on Friday that his decision to endorse\
         \ Trump betrayed the family’s values. \"It is a sad ending to a sad story,\"\
         \ she said on social media.\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f224f9d9-c76d-4c3c-995f-f818488d635d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.734+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.039+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.350+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a669f4af-1dc5-4231-bdcb-88792630da2b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.734+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.040+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.351+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "For a time, both the Biden and Trump campaigns showed signs they were\
+    section26:
+      primarytype: 'block'
+      uuid: 'f224f9d9-c76d-4c3c-995f-f818488d635d'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.734+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.039+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.350+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section27:
+      primarytype: 'block'
+      uuid: 'a669f4af-1dc5-4231-bdcb-88792630da2b'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.734+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.040+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.351+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "For a time, both the Biden and Trump campaigns showed signs they were\
         \ worried that Kennedy could draw enough support to change the election outcome.\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c0ffef8-2dcd-439e-a9ee-b629c97ed649'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.735+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.041+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.352+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbfa2501-2107-422c-aa3f-5808a2671bb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.736+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.041+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.352+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>But as the race changed quickly in the last two months — with Trump
+    section28:
+      primarytype: 'block'
+      uuid: '6c0ffef8-2dcd-439e-a9ee-b629c97ed649'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.735+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.041+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.352+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section29:
+      primarytype: 'block'
+      uuid: 'bbfa2501-2107-422c-aa3f-5808a2671bb6'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.736+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.041+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.352+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>But as the race changed quickly in the last two months — with Trump
         surviving an assassination attempt and the 81-year-old Biden bowing to pressure
         from his own party and passing the campaign torch to Harris — voter interest
         in Kennedy waned.</p>'
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8323c79-8a0e-4a9e-a0ac-56547868773c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.736+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.042+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.353+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '31':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c20f2054-66ce-4562-bc81-fe16b39617b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.737+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.043+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.354+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "An Ipsos poll this month showed his national support had fallen to\
+    section30:
+      primarytype: 'block'
+      uuid: 'c8323c79-8a0e-4a9e-a0ac-56547868773c'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.736+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.042+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.353+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section31:
+      primarytype: 'block'
+      uuid: 'c20f2054-66ce-4562-bc81-fe16b39617b2'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.737+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.043+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.354+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "An Ipsos poll this month showed his national support had fallen to\
         \ 4%, a tiny number but one that could still be meaningful in a tight race\
         \ such as the current Trump-Harris matchup.\r"
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81951e1a-41f1-4c27-9daa-284fa1a512a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.737+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.043+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.354+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4862d83-aa01-4058-a297-335ce36834b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.738+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.044+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.355+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Democrats shrugged off Friday’s announcement.\r"
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5c3ebc1-44c9-49eb-be02-8e30169ecae7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.739+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.045+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.356+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1636ced-b364-4fcc-b942-83f90a163975'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.739+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.045+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.356+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Donald Trump isn’t earning an endorsement that’s going to help build\
+    section32:
+      primarytype: 'block'
+      uuid: '81951e1a-41f1-4c27-9daa-284fa1a512a2'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.737+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.043+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.354+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section33:
+      primarytype: 'block'
+      uuid: 'd4862d83-aa01-4058-a297-335ce36834b9'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.738+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.044+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.355+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Democrats shrugged off Friday’s announcement.\r"
+    section34:
+      primarytype: 'block'
+      uuid: 'a5c3ebc1-44c9-49eb-be02-8e30169ecae7'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.739+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.045+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.356+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section35:
+      primarytype: 'block'
+      uuid: 'b1636ced-b364-4fcc-b942-83f90a163975'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.739+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.045+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.356+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Donald Trump isn’t earning an endorsement that’s going to help build\
         \ support, he’s inheriting the baggage of a failed fringe candidate. Good\
         \ riddance,\" Democratic National Committee senior adviser Mary Beth Cahill\
         \ said in a statement.\r"
-    '36':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9efe3ea9-bd9c-4262-8d32-6bffa69c75ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.740+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.046+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.357+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '37':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cba9a97-fcd3-44a3-916c-d6fed9a34bff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.741+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.047+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.358+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Drexel University political science professor William Rosenberg said\
+    section36:
+      primarytype: 'block'
+      uuid: '9efe3ea9-bd9c-4262-8d32-6bffa69c75ea'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.740+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.046+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.357+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section37:
+      primarytype: 'block'
+      uuid: '4cba9a97-fcd3-44a3-916c-d6fed9a34bff'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.741+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.047+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.358+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Drexel University political science professor William Rosenberg said\
         \ the move was unlikely to have an impact on the race, given Kennedy’s low\
         \ poll numbers.\r"
-    '38':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '289e16f0-46e4-4d4f-a6f6-3c2704376001'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.742+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.047+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.358+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '39':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ddf0c0f-b3ce-42ef-ad6f-9aad9cba371e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.742+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.048+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.359+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Trump pollster Tony Fabrizio argued that more of Kennedy’s supporters\
+    section38:
+      primarytype: 'block'
+      uuid: '289e16f0-46e4-4d4f-a6f6-3c2704376001'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.742+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.047+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.358+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section39:
+      primarytype: 'block'
+      uuid: '2ddf0c0f-b3ce-42ef-ad6f-9aad9cba371e'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.742+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.048+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.359+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Trump pollster Tony Fabrizio argued that more of Kennedy’s supporters\
         \ would back Trump than Harris in battleground states. \"This is good news\
         \ for President Trump and his campaign,\" he wrote in a memo.\r"
-    '40':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3fa4541f-b6a9-4bb4-91a9-66233798dcfe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.743+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.048+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.360+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '41':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '01196458-fb3d-47c0-a9fe-eb31f1498a7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.744+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.049+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.360+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In exchange for endorsing Trump, Kennedy was hoping for a job in a\
+    section40:
+      primarytype: 'block'
+      uuid: '3fa4541f-b6a9-4bb4-91a9-66233798dcfe'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.743+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.048+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.360+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section41:
+      primarytype: 'block'
+      uuid: '01196458-fb3d-47c0-a9fe-eb31f1498a7f'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.744+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.049+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.360+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In exchange for endorsing Trump, Kennedy was hoping for a job in a\
         \ potential Trump administration, a super PAC supporting Kennedy told Reuters\
         \ on Wednesday.\r"
-    '42':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7498a256-1975-4319-b599-d2ca94127e93'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.744+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.050+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.361+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '43':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '676eb81e-069a-4ff9-ac5b-24645d6af63b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.745+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.050+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.362+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Kennedy painted himself as a political outsider. He told Reuters in\
+    section42:
+      primarytype: 'block'
+      uuid: '7498a256-1975-4319-b599-d2ca94127e93'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.744+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.050+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.361+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section43:
+      primarytype: 'block'
+      uuid: '676eb81e-069a-4ff9-ac5b-24645d6af63b'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.745+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.050+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.362+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Kennedy painted himself as a political outsider. He told Reuters in\
         \ an interview in March that if elected president he would repeal many provisions\
         \ of Biden’s signature Inflation Reduction Act and would seek to close down\
         \ the southern border to immigrants entering the U.S. illegally. He also offered\
         \ staunch support for Israel.\r"
-    '44':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1585749b-ed42-4e9f-9504-51e56505da36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.746+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.051+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.362+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '45':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd547be0f-ff32-4e4f-a2c1-cb767ad5352f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.747+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.052+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.363+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Bear, brain worms</strong></h2>'
-    '46':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2194574-8cc2-4c6e-9a01-742f4872940c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.747+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.052+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.364+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '47':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6649ea3f-a05e-4427-bb03-2dc3858493b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.748+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.053+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.364+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Kennedy said this month in a video posted online that he dumped a dead\
+    section44:
+      primarytype: 'block'
+      uuid: '1585749b-ed42-4e9f-9504-51e56505da36'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.746+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.051+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.362+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section45:
+      primarytype: 'block'
+      uuid: 'd547be0f-ff32-4e4f-a2c1-cb767ad5352f'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.747+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.052+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.363+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Bear, brain worms</strong></h2>'
+    section46:
+      primarytype: 'block'
+      uuid: 'd2194574-8cc2-4c6e-9a01-742f4872940c'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.747+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.052+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.364+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section47:
+      primarytype: 'block'
+      uuid: '6649ea3f-a05e-4427-bb03-2dc3858493b8'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.748+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.053+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.364+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Kennedy said this month in a video posted online that he dumped a dead\
         \ bear in New York City’s Central Park a decade ago and staged it to look\
         \ like a bike had hit it. He proclaimed he had \"so many skeletons in my closet\"\
         \ after a former family babysitter accused him of sexual assault. He denied\
         \ that a picture of him posing with the barbecued carcass of a large animal\
         \ belonged to a canine.\r"
-    '48':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c1c5a3b-b330-46c5-a58a-094908b6c809'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.749+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.054+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.365+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '49':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '09c1fc27-a2bb-4a62-9125-8396e8fe99cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.750+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.054+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.366+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "And then there was the brain worm. Kennedy’s campaign confirmed that\
+    section48:
+      primarytype: 'block'
+      uuid: '8c1c5a3b-b330-46c5-a58a-094908b6c809'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.749+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.054+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.365+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section49:
+      primarytype: 'block'
+      uuid: '09c1fc27-a2bb-4a62-9125-8396e8fe99cc'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.750+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.054+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.366+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "And then there was the brain worm. Kennedy’s campaign confirmed that\
         \ he had a parasite in his brain more than a decade ago, but has since fully\
         \ recovered, drawing widespread ridicule.\r"
-    '50':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44400a46-8192-49fe-8c9e-84b27815002c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.751+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.055+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.366+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '51':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0013cfe6-2829-4b18-9e23-b3f3351ce629'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T12:44:27.751+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:02.055+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T12:56:33.367+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Stephanie Kelly and Ismail Shakil; additional
+    section50:
+      primarytype: 'block'
+      uuid: '44400a46-8192-49fe-8c9e-84b27815002c'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.751+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.055+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.366+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section51:
+      primarytype: 'block'
+      uuid: '0013cfe6-2829-4b18-9e23-b3f3351ce629'
+      activationstatus: true
+      created: 2024-08-24T12:44:27.751+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:02.055+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T12:56:33.367+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Stephanie Kelly and Ismail Shakil; additional
         reporting by Gram Slattery, Kanishka Singh, Nathan Layne and Katharine Jackson;
         Editing by Andy Sullivan, Heather Timmons, Scott Malone, Jonathan Oatis and
         Cynthia Osterman)</em></p>'
-  'china-fires-flares-bfar-aircraft':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T14:57:50.000+08:00
-    'imagesource': 'jcr:6b8e8fd6-b51b-49dd-a9c6-79604e1d2faa'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9347ed80-c7f0-48b0-a552-5943d3596f62'
-    'lead': 'Another Philippine aircraft faced harassment as China fired flares at
+  'START HERE----->china-fires-flares-bfar-aircraft':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T14:57:50.000+08:00
+    imagesource: '6b8e8fd6-b51b-49dd-a9c6-79604e1d2faa'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9347ed80-c7f0-48b0-a552-5943d3596f62'
+    lead: 'Another Philippine aircraft faced harassment as China fired flares at
       a Bureau of Fisheries and Aquatic Resources (BFAR) plane patrolling over Zamora
       Reef near Pag-asa Island.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T14:59:53.513+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:11:00.848+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:26.182+08:00
-    'mgnl:lastModified': 2024-08-24T16:51:05.460+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'China fires flares at BFAR patrol plane near Pag-asa Island'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75c6ac36-4a48-49b5-900a-01e08a5cb3bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.866+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.851+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.453+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Another Philippine
+    activationstatus: true
+    created: 2024-08-24T14:59:53.513+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:11:00.848+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:26.182+08:00
+    lastmodified: 2024-08-24T16:51:05.460+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'China fires flares at BFAR patrol plane near Pag-asa Island'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '75c6ac36-4a48-49b5-900a-01e08a5cb3bf'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.866+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.851+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.453+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Another Philippine
         aircraft faced harassment as China fired flares at a Bureau of Fisheries and
         Aquatic Resources (BFAR) plane patrolling over Zamora Reef near Pag-asa Island.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6579cfc-1269-41f4-905c-e2e7c439a3f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.866+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.851+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.454+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a statement on Saturday, Aug. 24, the National Task Force for the\
+    section1:
+      primarytype: 'block'
+      uuid: 'c6579cfc-1269-41f4-905c-e2e7c439a3f1'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.866+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.851+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.454+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a statement on Saturday, Aug. 24, the National Task Force for the\
         \ West Philippine Sea (NTF-WPS) said the BFAR aircraft was conducting a maritime\
         \ domain awareness flight over Zamora Reef on Thursday, Aug. 22, when China\
         \ “launched flares from their militarized reclaimed island” in the reef.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8564faaf-a3bc-4769-8ad3-0695eae0ad0f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.867+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.852+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.454+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Zamora Reef, internationally known as Subi Reef, is within Pag-asa\
+    section2:
+      primarytype: 'block'
+      uuid: '8564faaf-a3bc-4769-8ad3-0695eae0ad0f'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.867+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.852+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.454+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Zamora Reef, internationally known as Subi Reef, is within Pag-asa\
         \ Island. The reef was seized by China in 1998 and has since been transformed\
         \ into a “fully functional military base.” \r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8709a571-ef18-4287-ab27-b9edbad47992'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.867+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.853+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.455+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“We firmly reiterate our call on the government of the People’s Republic\
+    section3:
+      primarytype: 'block'
+      uuid: '8709a571-ef18-4287-ab27-b9edbad47992'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.867+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.853+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.455+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“We firmly reiterate our call on the government of the People’s Republic\
         \ of China to immediately cease all provocative and dangerous actions that\
         \ threaten the safety of Philippine vessels and aircraft engaged in legitimate\
         \ and regular activities within Philippine territory and Exclusive Economic\
         \ Zone (EEZ) and the right of all vessels and aircraft exercising freedom\
         \ of navigation and overflight in the South China Sea,” the NTF-WPS said.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b5192446-7c8f-4a46-a7e7-e352aa92c547'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.867+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.854+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.455+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The NTF-WPS explained that BFAR’s Cessna 208B Grand Caravan was monitoring\
+    section4:
+      primarytype: 'block'
+      uuid: 'b5192446-7c8f-4a46-a7e7-e352aa92c547'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.867+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.854+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.455+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The NTF-WPS explained that BFAR’s Cessna 208B Grand Caravan was monitoring\
         \ and intercepting poachers encroaching on the country’s EEZ and the territorial\
         \ seas constituting the Kalayaan Island Group.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2dd2753-94dc-4d96-8e8d-1b2eb20f4860'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.868+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.854+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.456+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "China “unjustifiably deployed flares from Zamora Reef,” the task force\
+    section5:
+      primarytype: 'block'
+      uuid: 'e2dd2753-94dc-4d96-8e8d-1b2eb20f4860'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.868+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.854+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.456+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "China “unjustifiably deployed flares from Zamora Reef,” the task force\
         \ said, adding it was already the second incident of harassment the BFAR plane\
         \ faced.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc0ae250-415d-486d-81f0-0d69a9844bce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.868+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.855+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.456+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "According to the NTF-WPS, People’s Liberation Army Air Force (PLAAF)\
+    section6:
+      primarytype: 'block'
+      uuid: 'dc0ae250-415d-486d-81f0-0d69a9844bce'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.868+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.855+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.456+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "According to the NTF-WPS, People’s Liberation Army Air Force (PLAAF)\
         \ Chinese Fighter Jet 63270 on Aug. 19 “engaged in irresponsible and dangerous\
         \ maneuvers, deploying flares multiple times at a dangerously close distance\
         \ of approximately 15 meters” from the Philippine utility aircraft.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46a5e1cf-dac2-4023-81a7-244fcf01f6d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.869+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.856+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.457+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“The Chinese fighter jet was not provoked, yet its actions demonstrated\
+    section7:
+      primarytype: 'block'
+      uuid: '46a5e1cf-dac2-4023-81a7-244fcf01f6d4'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.869+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.856+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.457+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“The Chinese fighter jet was not provoked, yet its actions demonstrated\
         \ hazardous intent that jeopardized the safety of the personnel onboard the\
         \ BFAR aircraft,” the NTF-WPS said.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8dc1cf9-2fe9-475c-9560-b5de10e68078'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.869+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.856+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.457+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The task force said China’s actions “undermine regional peace and security.”\
+    section8:
+      primarytype: 'block'
+      uuid: 'a8dc1cf9-2fe9-475c-9560-b5de10e68078'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.869+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.856+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.457+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The task force said China’s actions “undermine regional peace and security.”\
         \r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f729d8d5-ec7e-4e49-8eeb-89b4f9604b22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.869+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.857+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.458+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“The Philippines remains steadfast in exercising its right to strengthen\
+    section9:
+      primarytype: 'block'
+      uuid: 'f729d8d5-ec7e-4e49-8eeb-89b4f9604b22'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.869+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.857+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.458+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“The Philippines remains steadfast in exercising its right to strengthen\
         \ maritime domain awareness within our sovereign territory, national airspace,\
         \ and EEZ, as well as in the high seas, in accordance with United Nations\
         \ Convention on the Law of the Sea (UNCLOS) and the 2016 Arbitral Award,”\
         \ it also said.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a275b7f-0aa8-4517-bb72-cf10ef4c6021'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.870+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.858+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.458+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>This was not the first act of intimidation within the country’s
+    section10:
+      primarytype: 'block'
+      uuid: '1a275b7f-0aa8-4517-bb72-cf10ef4c6021'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.870+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.858+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.458+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>This was not the first act of intimidation within the country’s
         airspace under the Marcos administration. The Armed Forces of the Philippines
         (AFP) said <a href="http://www.newswatchplus.ph/news/2024/8/10/afp-chinese-planes-bajo-de-masinloc.html">Chinese
         Air Force planes</a> “executed a dangerous maneuver” and “dropped flares”
         in the path of a Philippine Air Force aircraft conducting a routine maritime
         patrol over Bajo de Masinloc on Thursday, Aug. 8.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '706115ce-a9dd-414b-a57c-d1c6029829b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T16:50:10.870+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.858+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T16:51:05.459+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Beijing rejected the 2016 Arbitral Award that invalidated its sweeping\
+    section11:
+      primarytype: 'block'
+      uuid: '706115ce-a9dd-414b-a57c-d1c6029829b5'
+      activationstatus: true
+      created: 2024-08-24T16:50:10.870+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.858+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T16:51:05.459+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Beijing rejected the 2016 Arbitral Award that invalidated its sweeping\
         \ claims over the South China Sea.\r"
-  'man-dies-kojc-compound-quiboloy-manhunt':
-    'caption': 'Thousands of police troop to the compound of Kingdom in Jesus Christ
+  'START HERE----->man-dies-kojc-compound-quiboloy-manhunt':
+    caption: 'Thousands of police troop to the compound of Kingdom in Jesus Christ
       in Davao City in an attempt to serve the arrest warrant against KOJC founder
       Apollo Quiboloy on Saturday, Aug. 25. (Screengrab from Philippine News Agency)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T18:16:05.000+08:00
-    'imagesource': 'jcr:569252f5-b205-427e-947a-bdf939b64816'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6ceba009-eef2-4039-b00b-b8ab449fd715'
-    'lead': 'A 51-year-old male member of Kingdom of Jesus Christ (KOJC) died as police
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T18:16:05.000+08:00
+    imagesource: '569252f5-b205-427e-947a-bdf939b64816'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6ceba009-eef2-4039-b00b-b8ab449fd715'
+    lead: 'A 51-year-old male member of Kingdom of Jesus Christ (KOJC) died as police
       trooped to the religious group’s compound in Davao City, hoping to arrest KOJC
       founder Apollo Quiboloy and other co-accused on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T18:19:23.680+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:11:00.353+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:26.320+08:00
-    'mgnl:lastModified': 2024-08-25T12:08:27.117+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Apollo-Quiboloy', 'Kingdom-of-Jesus-Christ']
-    'stories': []
-    'template': '1'
-    'title': 'Man dies as police storm KOJC compound for Quiboloy manhunt'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0d545b2-4fc3-4dbe-a968-a29fcd6ab3c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.759+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.356+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.111+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> A 51-year-old male
+    activationstatus: true
+    created: 2024-08-24T18:19:23.680+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:11:00.353+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:26.320+08:00
+    lastmodified: 2024-08-25T12:08:27.117+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Man dies as police storm KOJC compound for Quiboloy manhunt'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c0d545b2-4fc3-4dbe-a968-a29fcd6ab3c2'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.759+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.356+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.111+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> A 51-year-old male
         member of Kingdom of Jesus Christ (KOJC) died as police trooped to the religious
         group’s compound in Davao City, hoping to arrest KOJC founder Apollo Quiboloy
         and other co-accused on Saturday, Aug. 24.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd38cd20d-b523-4668-9733-2ca4cf2ff533'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.759+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.356+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.111+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a statement, the Police Regional Office (PRO) of Davao region said\
+    section1:
+      primarytype: 'block'
+      uuid: 'd38cd20d-b523-4668-9733-2ca4cf2ff533'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.759+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.356+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.111+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a statement, the Police Regional Office (PRO) of Davao region said\
         \ it received a report that the male food vendor lost consciousness while\
         \ manning a KOJC watchtower as the police force conducted a “lawful execution\
         \ of warrants of arrest issued by multiple courts” against Quiboloy and four\
         \ co-accused individuals on early Saturday morning.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c331ead6-1be8-46c7-a464-99066c6cbd1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.760+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.357+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.112+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The controversial megachurch leader is facing abuse and human trafficking\
+    section2:
+      primarytype: 'block'
+      uuid: 'c331ead6-1be8-46c7-a464-99066c6cbd1c'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.760+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.357+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.112+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The controversial megachurch leader is facing abuse and human trafficking\
         \ cases in Davao and Pasig courts.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'abbf0e96-c9d1-424b-9063-e8aa3e767ac2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.760+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.358+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.112+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/6/14/timeline-apollo-quiboloy.html"><strong>TIMELINE:
+    section3:
+      primarytype: 'block'
+      uuid: 'abbf0e96-c9d1-424b-9063-e8aa3e767ac2'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.760+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.358+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.112+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/6/14/timeline-apollo-quiboloy.html"><strong>TIMELINE:
         Legal challenges hounding Pastor Apollo Quiboloy</strong></a>&nbsp;</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e75c8a3-d896-4368-85d5-08a3c0ba36f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.761+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.359+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.113+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The man, who had an underlying condition, was brought to the Southern\
+    section4:
+      primarytype: 'block'
+      uuid: '2e75c8a3-d896-4368-85d5-08a3c0ba36f7'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.761+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.359+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.113+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The man, who had an underlying condition, was brought to the Southern\
         \ Philippines Medical Center through a police ambulance but was declared dead\
         \ on arrival, the Davao police said.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1efc79e-bcf9-47a4-920f-abad10e6896d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.761+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.359+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.113+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "PMaj Catherine Dela Rey, the PRO-Davao spokesperson, said the man died\
+    section5:
+      primarytype: 'block'
+      uuid: 'f1efc79e-bcf9-47a4-920f-abad10e6896d'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.761+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.359+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.113+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "PMaj Catherine Dela Rey, the PRO-Davao spokesperson, said the man died\
         \ due to cardiac arrest, state media Philippine News Agency reported.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4486d35-1206-492f-a04b-14e7a8a6dddc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.761+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.360+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.114+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The PRO-Davao maintained its personnel “were simply fulfilling their\
+    section6:
+      primarytype: 'block'
+      uuid: 'a4486d35-1206-492f-a04b-14e7a8a6dddc'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.761+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.360+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.114+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The PRO-Davao maintained its personnel “were simply fulfilling their\
         \ duty in executing the Warrant of Arrest for Pastor Quiboloy, who has been\
         \ evading law enforcement,” and that the death of the KOJC member “was not\
         \ related to the ongoing implementation of the Warrant of Arrest.”\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32694f93-c47d-4218-a687-48dfaea92a51'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.762+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.361+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.114+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Dela Rey also confirmed to NewsWatch Plus that authorities will stay\
+    section7:
+      primarytype: 'block'
+      uuid: '32694f93-c47d-4218-a687-48dfaea92a51'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.762+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.361+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.114+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Dela Rey also confirmed to NewsWatch Plus that authorities will stay\
         \ in the KOJC compound until Quiboloy is arrested.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0524625-7885-4695-8358-7dd2b6b9c15d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.762+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.362+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.115+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Davao police swept the group’s compound in June as authorities searched\
+    section8:
+      primarytype: 'block'
+      uuid: 'e0524625-7885-4695-8358-7dd2b6b9c15d'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.762+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.362+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.115+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Davao police swept the group’s compound in June as authorities searched\
         \ for Quiboloy.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '692d2b63-14ec-4b81-9ee1-c6df92c88d0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.763+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.362+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.115+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.youtube.com/shorts/qwLSEoNaWGs">President Ferdinand
+    section9:
+      primarytype: 'block'
+      uuid: '692d2b63-14ec-4b81-9ee1-c6df92c88d0c'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.763+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.362+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.115+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.youtube.com/shorts/qwLSEoNaWGs">President Ferdinand
         Marcos Jr.</a> has urged fugitive Quiboloy to show up and face charges.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '399e550d-f4fb-4dd1-9b4d-9681d5d16de4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T18:19:23.763+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:11:00.362+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-25T12:08:27.116+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He is also wanted by the <a href="https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy">United
+    section10:
+      primarytype: 'block'
+      uuid: '399e550d-f4fb-4dd1-9b4d-9681d5d16de4'
+      activationstatus: true
+      created: 2024-08-24T18:19:23.763+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:11:00.362+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-25T12:08:27.116+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>He is also wanted by the <a href="https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy">United
         States Federal Bureau of Investigation</a> for his alleged participation in
         a labor trafficking scheme and sex trafficking, among others. <strong>— with
         reports from NewsWatch Plus correspondent Daniza Fernandez</strong></p>'
-  'doh-ph-asked-who-mpox-vaccines':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T19:05:04.000+08:00
-    'imagesource': 'jcr:74c4e46d-528e-4edc-a9a8-2ea5e4e80bc2'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b5edaddd-b13a-43b2-ad90-f5e93156658d'
-    'lead': 'The Department of Health (DOH) said world leaders have decided to deploy
+  'START HERE----->doh-ph-asked-who-mpox-vaccines':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T19:05:04.000+08:00
+    imagesource: '74c4e46d-528e-4edc-a9a8-2ea5e4e80bc2'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b5edaddd-b13a-43b2-ad90-f5e93156658d'
+    lead: 'The Department of Health (DOH) said world leaders have decided to deploy
       vaccines against mpox in Africa first to contain the current outbreak, but the
       Philippines is also already in line to receive doses.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T19:09:42.765+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:59.701+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:26.455+08:00
-    'mgnl:lastModified': 2024-08-24T19:16:41.109+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Department-of-Health', 'mpox']
-    'stories': []
-    'template': '1'
-    'title': 'DOH: PH has asked WHO for vaccines vs. mpox'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd56409d-4bf6-4b6b-8522-1e42c6612648'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.863+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.704+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.103+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The Department of Health
+    activationstatus: true
+    created: 2024-08-24T19:09:42.765+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:10:59.701+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:26.455+08:00
+    lastmodified: 2024-08-24T19:16:41.109+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'DOH: PH has asked WHO for vaccines vs. mpox'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bd56409d-4bf6-4b6b-8522-1e42c6612648'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.863+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.704+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.103+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The Department of Health
         (DOH) said world leaders have decided to deploy vaccines against mpox in Africa
         first to contain the current outbreak, but the Philippines is also already
         in line to receive doses.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbb68500-6b9b-4045-8dbe-78fbec67e436'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.863+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.704+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.104+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In an interview over Teleradyo Serbisyo on Saturday, Aug. 24, Health\
+    section1:
+      primarytype: 'block'
+      uuid: 'cbb68500-6b9b-4045-8dbe-78fbec67e436'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.863+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.704+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.104+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In an interview over Teleradyo Serbisyo on Saturday, Aug. 24, Health\
         \ Secretary Ted Herbosa said the World Health Organization (WHO) conducted\
         \ a briefing with member states for the international response in fighting\
         \ mpox. The new strain clade Ib of mpox is behind the ongoing upsurge in Africa.\r"
-    '2':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I briefed
+    section2:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I briefed
         <a href="https://twitter.com/WHO?ref_src=twsrc%5Etfw">@WHO</a> Member States
         today on the spread of <a href="https://twitter.com/hashtag/mpox?src=hash&amp;ref_src=twsrc%5Etfw">#mpox</a>,
         and steps WHO and partners are taking to respond globally and in Africa, where
@@ -1470,370 +1470,370 @@
         Adhanom Ghebreyesus (@DrTedros) <a href="https://twitter.com/DrTedros/status/1827012358109044998?ref_src=twsrc%5Etfw">August
         23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df180fbe-4d81-428f-b543-678e0abd149b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.864+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.705+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.104+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c63f191-8e8b-4836-a6df-8e3674efc8c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.864+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.706+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.105+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Yong current vaccine, ngayon di ako nakikipag-agawan kasi alam kong\
+      primarytype: 'block'
+      uuid: 'df180fbe-4d81-428f-b543-678e0abd149b'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.864+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.705+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.104+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section3:
+      primarytype: 'block'
+      uuid: '9c63f191-8e8b-4836-a6df-8e3674efc8c9'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.864+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.706+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.105+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Yong current vaccine, ngayon di ako nakikipag-agawan kasi alam kong\
         \ mas kailangan nila sa Africa. ‘Yon ‘yong discussion last night… ‘yong bakuna\
         \ na konti lang ibubuhos muna sa Africa sapagkat kailangan ma-contain yong\
         \ outbreak dun,” Herbosa said.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45fc6625-53fd-4fa1-b57b-6cf9cda9199f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.865+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.706+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.105+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: I’m not competing in getting the current vaccine because\
+    section4:
+      primarytype: 'block'
+      uuid: '45fc6625-53fd-4fa1-b57b-6cf9cda9199f'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.865+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.706+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.105+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: I’m not competing in getting the current vaccine because\
         \ I know Africa needs it more. Last night, the discussion was to pour the\
         \ stocks first to Africa to contain the outbreak.]\r"
-    '5':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ATM mpox
+    section5:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ATM mpox
         briefing by WHO <a href="https://t.co/VcayKilE6B">pic.twitter.com/VcayKilE6B</a></p>&mdash;
         Teddy Herbosa MD ❎ (@Teddybird) <a href="https://twitter.com/Teddybird/status/1826971012174659750?ref_src=twsrc%5Etfw">August
         23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd8f9d92-d3a9-4394-a540-d49841447b45'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.865+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.707+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.106+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48e8173d-612b-4a6a-b175-816e26a04a34'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.866+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.707+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.106+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Pero nanghingi na ako, I have about 2,000 doses coming from our share\
+      primarytype: 'block'
+      uuid: 'dd8f9d92-d3a9-4394-a540-d49841447b45'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.865+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.707+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.106+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section6:
+      primarytype: 'block'
+      uuid: '48e8173d-612b-4a6a-b175-816e26a04a34'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.866+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.707+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.106+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Pero nanghingi na ako, I have about 2,000 doses coming from our share\
         \ sa ASEAN (Association of Southeast Asian Nations) sa WHO and may proseso\
         \ ‘yan para maipasok,” he said.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46019ea3-6519-461a-a8ae-4c658065c042'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.866+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.708+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.107+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: But I already asked from the WHO. I have about 2,000\
+    section7:
+      primarytype: 'block'
+      uuid: '46019ea3-6519-461a-a8ae-4c658065c042'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.866+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.708+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.107+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: But I already asked from the WHO. I have about 2,000\
         \ doses coming from our share in the ASEAN from the WHO and there’s a process\
         \ to bring that into the country.]\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50254faa-06b7-4c54-addb-637e8e072fdc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.866+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.709+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.107+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Thailand is the first Asian country to record an infection of the more\
+    section8:
+      primarytype: 'block'
+      uuid: '50254faa-06b7-4c54-addb-637e8e072fdc'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.866+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.709+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.107+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Thailand is the first Asian country to record an infection of the more\
         \ infectious clade Ib.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ae6f645-22b8-4d7a-bfdf-6b11c5ae5c64'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.867+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.709+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.108+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The first mpox case this year in the Philippines and the country’s\
+    section9:
+      primarytype: 'block'
+      uuid: '5ae6f645-22b8-4d7a-bfdf-6b11c5ae5c64'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.867+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.709+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.108+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The first mpox case this year in the Philippines and the country’s\
         \ 10th case in total was caused by clade II, considered the “milder” strain\
         \ of the virus.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16745bd7-7b6b-4eac-b28c-7f8a75b7dd6f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.867+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.710+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.108+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The WHO said vaccines for smallpox may also used for mpox, but it also\
+    section10:
+      primarytype: 'block'
+      uuid: '16745bd7-7b6b-4eac-b28c-7f8a75b7dd6f'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.867+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.710+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.108+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The WHO said vaccines for smallpox may also used for mpox, but it also\
         \ urged mpox vaccine manufacturers to scale up production. \r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05247f6f-f877-488a-aa4b-2c1deab7325a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:09:42.868+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.710+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:16:41.109+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>WHO Director-General Tedros Adhanom Ghebreyesus said the Global
+    section11:
+      primarytype: 'block'
+      uuid: '05247f6f-f877-488a-aa4b-2c1deab7325a'
+      activationstatus: true
+      created: 2024-08-24T19:09:42.868+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.710+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:16:41.109+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>WHO Director-General Tedros Adhanom Ghebreyesus said the Global
         Mpox Strategic Preparedness and Response Plan needs “approximately US$135
         million over the next six months for the acute phase of the outbreak.”</p>'
-  'paocc-believes-guo-heading-to-golden-triangle':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-24T19:19:16.000+08:00
-    'imagesource': 'jcr:62fed78c-34fa-42da-8b15-62f9f3323291'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '911fa36d-22ca-448e-ad37-ed932354a57a'
-    'lead': 'Dismissed Bamban, Tarlac Mayor Alice Guo might be heading to the ''Golden
-      Triangle'' region in Southeast Asia, an official of the Presidential Anti-Organized
+  'START HERE----->paocc-believes-guo-heading-to-golden-triangle':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-24T19:19:16.000+08:00
+    imagesource: '62fed78c-34fa-42da-8b15-62f9f3323291'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '911fa36d-22ca-448e-ad37-ed932354a57a'
+    lead: 'Dismissed Bamban, Tarlac Mayor Alice Guo might be heading to the 'Golden
+      Triangle' region in Southeast Asia, an official of the Presidential Anti-Organized
       Crime Commission (PAOCC) said Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-24T19:25:36.562+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:59.153+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:01:26.630+08:00
-    'mgnl:lastModified': 2024-08-24T19:25:36.680+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Presidential-Anti-Organized-Crime-Commission', 'Alice-Guo']
-    'stories': []
-    'template': '1'
-    'title': 'PAOCC believes Alice Guo heading to ''Golden Triangle'''
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bcae4b55-87f4-4e82-839d-d31357058fe8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.663+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.156+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.674+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Dismissed Bamban, Tarlac
+    activationstatus: true
+    created: 2024-08-24T19:25:36.562+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T14:10:59.153+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:01:26.630+08:00
+    lastmodified: 2024-08-24T19:25:36.680+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PAOCC believes Alice Guo heading to 'Golden Triangle''
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bcae4b55-87f4-4e82-839d-d31357058fe8'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.663+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.156+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.674+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Dismissed Bamban, Tarlac
         Mayor Alice Guo might be heading to the “Golden Triangle” region in Southeast
         Asia, an official of the Presidential Anti-Organized Crime Commission (PAOCC)
         said Saturday, Aug. 24.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b07bb86b-216b-4b7a-8b89-1da85ba6b0d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.663+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.157+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.663+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“As far as the PAOCC is concerned, we’re confident that she’s trying\
+    section1:
+      primarytype: 'block'
+      uuid: 'b07bb86b-216b-4b7a-8b89-1da85ba6b0d9'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.663+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.157+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.663+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“As far as the PAOCC is concerned, we’re confident that she’s trying\
         \ to get into the Golden Triangle because the family, the Guo Family has business\
         \ interest, gambling interests in Cambodia,” PAOCC spokesperson Winston Casio\
         \ told a forum. “So, that would be the safest bet that we have as of this\
         \ moment.”\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0786d44-93ff-4617-b605-e4957da82efa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.663+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.157+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.663+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Golden Triangle comprises parts of Myanmar, Thailand, the Lao
+    section2:
+      primarytype: 'block'
+      uuid: 'd0786d44-93ff-4617-b605-e4957da82efa'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.663+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.157+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.663+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Golden Triangle comprises parts of Myanmar, Thailand, the Lao
         People’s Democratic Republic, and Vietnam. Cambodia, meanwhile, borders Thailand
         to the northwest, Laos to the north, Vietnam to the east, and has a coastline
         along the Gulf of Thailand to the southwest.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8dcbda6-5ee8-4397-a0dd-726258bf8f04'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.664+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.158+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.664+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“It depends where in the Golden Triangle she will land… So, the Golden\
+    section3:
+      primarytype: 'block'
+      uuid: 'b8dcbda6-5ee8-4397-a0dd-726258bf8f04'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.664+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.158+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.664+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“It depends where in the Golden Triangle she will land… So, the Golden\
         \ Triangle, those countries are very porous in boundaries as I imagined and\
         \ we know what the Golden Triangle entails when we talk about transnational\
         \ organized crime,” Casio explained.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c261719-0de0-4648-8da6-b2bf6dd8cf14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.664+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.159+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.664+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He also said China as Guo’s possible destination is out of the question\
+    section4:
+      primarytype: 'block'
+      uuid: '7c261719-0de0-4648-8da6-b2bf6dd8cf14'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.664+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.159+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.664+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He also said China as Guo’s possible destination is out of the question\
         \ as “she’s accused of a serious crime in the Philippines in relation to illegal\
         \ gambling – and we know how strict China is in relation to gambling in their\
         \ own territory.”\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7986d64b-6e60-4557-81d8-dd7df68c9a09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.664+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.159+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.664+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Aug. 19, Sen. Risa Hontiveros revealed that <a href="https://www.newswatchplus.ph/news/2024/8/19/alice-guo-no-longer-in-ph.html">Guo
+    section5:
+      primarytype: 'block'
+      uuid: '7986d64b-6e60-4557-81d8-dd7df68c9a09'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.664+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.159+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.664+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>On Aug. 19, Sen. Risa Hontiveros revealed that <a href="https://www.newswatchplus.ph/news/2024/8/19/alice-guo-no-longer-in-ph.html">Guo
         left the country undetected</a> on July 18. Hontiveros said the dismissed
         mayor went to Malaysia then to Singapore, before taking a cruise to Indonesia.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee57e392-a5d7-41c0-8c84-e2dd95056fc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.665+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.160+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.665+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/8/22/alice-guo-companions-detained.html">Her
+    section6:
+      primarytype: 'block'
+      uuid: 'ee57e392-a5d7-41c0-8c84-e2dd95056fc3'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.665+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.160+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.665+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/8/22/alice-guo-companions-detained.html">Her
         sister Shiela and business associate Cassandra Li Ong</a> were caught in Indonesia
         and have already returned to the Philippines.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '294dc5e5-4734-48bb-b9f7-b54111f94aa9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.665+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.161+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.665+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Bureau of Immigration said there was no record in their system\
+    section7:
+      primarytype: 'block'
+      uuid: '294dc5e5-4734-48bb-b9f7-b54111f94aa9'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.665+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.161+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.665+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Bureau of Immigration said there was no record in their system\
         \ that Guo, who has an immigration lookout bulletin order against her, exited\
         \ the country.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00df813f-c67e-40c5-8c1a-9961f4fe6615'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.666+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.162+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.666+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“And, this would not have happened if no private individuals or maybe\
+    section8:
+      primarytype: 'block'
+      uuid: '00df813f-c67e-40c5-8c1a-9961f4fe6615'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.666+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.162+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.666+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“And, this would not have happened if no private individuals or maybe\
         \ public officials have assisted her,” Casio said. “Kasi [Because] an operation\
         \ of that magnitude has so many moving parts, and to control an information\
         \ such as that would require a technical expertise that is not available to\
         \ just a simple private individual, so kinakailangan po ng malalimang imbestigasyon\
         \ dito [this needs a deep investigation].”\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '556e6718-e2ad-45ab-a2d5-970ca1d80366'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.666+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.162+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.666+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The <a href="https://www.newswatchplus.ph/news/2024/8/21/marcos-guo-exit.html">Office
+    section9:
+      primarytype: 'block'
+      uuid: '556e6718-e2ad-45ab-a2d5-970ca1d80366'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.666+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.162+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.666+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The <a href="https://www.newswatchplus.ph/news/2024/8/21/marcos-guo-exit.html">Office
         of the President</a> has ordered the Justice and Foreign Affairs Departments
         to cancel Guo’s passport as the scandal of her exit surfaced.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2dd06adf-1a68-422f-8b84-73378e655336'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.666+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.163+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.666+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "But the PAOCC spokesperson also cautioned against the cancellation\
+    section10:
+      primarytype: 'block'
+      uuid: '2dd06adf-1a68-422f-8b84-73378e655336'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.666+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.163+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.666+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "But the PAOCC spokesperson also cautioned against the cancellation\
         \ of Guo’s passport as her being stateless could also mean she would be protected\
         \ by the United Nations Commission for Refugees.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '71efe31f-2c49-4551-9ac7-583312b3b4a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.667+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.163+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.667+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Casio said there is still no red notice, or an international arrest\
+    section11:
+      primarytype: 'block'
+      uuid: '71efe31f-2c49-4551-9ac7-583312b3b4a2'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.667+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.163+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.667+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Casio said there is still no red notice, or an international arrest\
         \ warrant, from the International Criminal Police Organization (Interpol),\
         \ because the Philippines has not yet issued a warrant of arrest against Guo.\
         \ \r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cada202-358b-43db-8e78-e87e7a07723b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.667+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.164+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.667+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The qualified trafficking in person complaint filed before the Department\
+    section12:
+      primarytype: 'block'
+      uuid: '2cada202-358b-43db-8e78-e87e7a07723b'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.667+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.164+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.667+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The qualified trafficking in person complaint filed before the Department\
         \ of Justice is still pending resolution.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbd525bd-a49e-4524-94db-61be8d56028f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-24T19:25:36.668+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:59.164+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-24T19:25:36.668+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Senate has issued an arrest order against Guo for skipping committee
+    section13:
+      primarytype: 'block'
+      uuid: 'bbd525bd-a49e-4524-94db-61be8d56028f'
+      activationstatus: true
+      created: 2024-08-24T19:25:36.668+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T14:10:59.164+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-24T19:25:36.668+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Senate has issued an arrest order against Guo for skipping committee
         hearings. Guo was implicated in the illegal operations of a raided POGO hub
         in Bamban town. Her Chinese citizenship was spotlighted in the chamber’s inquiry.</p>'

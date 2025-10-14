@@ -1,2077 +1,2077 @@
-'20':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'f3109e59-0452-4ea7-8922-0b8c0676c9d9'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-10-20T09:35:21.430+08:00
-  'mgnl:createdBy': 'daniza-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:46:40.494+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:41.111+08:00
-  'mgnl:lastModified': 2024-10-20T18:07:19.140+08:00
-  'mgnl:lastModifiedBy': 'daniza-nwp'
-  'lpa-trough-luzon-visayas':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T09:35:21.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e2e5fcb2-3d70-4cc1-8e80-68091f4ee5c3'
-    'lead': 'Parts of Luzon and Visayas will have a rainy Sunday because of the trough
+section20:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'f3109e59-0452-4ea7-8922-0b8c0676c9d9'
+  activationstatus: true
+  created: 2024-10-20T09:35:21.430+08:00
+  createdby: 'daniza-nwp'
+  lastactivated: 2025-03-13T12:46:40.494+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:44:41.111+08:00
+  lastmodified: 2024-10-20T18:07:19.140+08:00
+  lastmodifiedby: 'daniza-nwp'
+  'START HERE----->lpa-trough-luzon-visayas':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T09:35:21.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'e2e5fcb2-3d70-4cc1-8e80-68091f4ee5c3'
+    lead: 'Parts of Luzon and Visayas will have a rainy Sunday because of the trough
       of a low pressure area, the state weather bureau said on Oct. 20.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T09:38:19.275+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:07.500+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:41.220+08:00
-    'mgnl:lastModified': 2024-10-20T09:38:19.296+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LPA trough to bring rains over parts of Luzon, Visayas'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '088636a0-4f7a-4591-9737-ee6ab72b050a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.288+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.502+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.288+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Parts of Luzon and
+    activationstatus: true
+    created: 2024-10-20T09:38:19.275+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:07.500+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:44:41.220+08:00
+    lastmodified: 2024-10-20T09:38:19.296+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LPA trough to bring rains over parts of Luzon, Visayas'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '088636a0-4f7a-4591-9737-ee6ab72b050a'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.288+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.502+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.288+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Parts of Luzon and
         Visayas will have a rainy Sunday because of the trough of a low pressure area
         (LPA), the Philippine Atmospheric, Geophysical and Astronomical Services Administration
         (PAGASA) said on Oct. 20.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5327766d-152a-46af-9a68-e3e72d350c37'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.288+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.503+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.288+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'As of 3 a.m., the LPA was 1,395 kilometers east of southeastern Luzon,
+    section1:
+      primarytype: 'block'
+      uuid: '5327766d-152a-46af-9a68-e3e72d350c37'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.288+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.503+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.288+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'As of 3 a.m., the LPA was 1,395 kilometers east of southeastern Luzon,
         still outside the Philippine Area of Responsibility. It may enter the country’s
         monitoring space by afternoon or evening and may intensify into a tropical
         cyclone.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a8f300d-2faa-4c7e-8ea9-77533859b5d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.289+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.504+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.289+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The LPA’s trough will cause overcast skies with scattered rains and
+    section2:
+      primarytype: 'block'
+      uuid: '8a8f300d-2faa-4c7e-8ea9-77533859b5d8'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.289+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.504+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.289+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The LPA’s trough will cause overcast skies with scattered rains and
         thunderstorms over Cagayan, Isabela, Aurora, and Quezon; and partly cloudy
         to cloudy skies over with isolated rain showers or thunderstorms over Eastern
         Visayas and Bicol Region.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1396e4f-9af0-43c5-be53-69f135135aff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.289+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.504+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.289+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the intertropical convergence zone – a belt of meeting trade
+    section3:
+      primarytype: 'block'
+      uuid: 'f1396e4f-9af0-43c5-be53-69f135135aff'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.289+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.504+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.289+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Meanwhile, the intertropical convergence zone – a belt of meeting trade
         winds and rising air – will bring cloudy skies with scattered rains and thunderstorms
         over Zamboanga Peninsula, Bangsamoro Autonomous Region in Muslim Mindanao,
         Sultan Kudarat, Sarangani, and Palawan.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc37913f-2ec3-4861-989c-98065a0784d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.289+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.505+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.289+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The rest of the country will have partly to cloudy skies with isolated
+    section4:
+      primarytype: 'block'
+      uuid: 'fc37913f-2ec3-4861-989c-98065a0784d8'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.289+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.505+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.289+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The rest of the country will have partly to cloudy skies with isolated
         rain showers or thunderstorms brought by localized thunderstorms.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5685979-acfe-46ba-8b85-716f4eabd3ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.290+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.505+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.290+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'PAGASA warned that flash floods or landslides are possible.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ef7995a-b8e6-40fe-9b8e-d93248335728'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T09:38:19.290+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.506+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T09:38:19.290+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Gale warning has not been raised. But PAGASA warned those venturing
+    section5:
+      primarytype: 'block'
+      uuid: 'a5685979-acfe-46ba-8b85-716f4eabd3ad'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.290+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.505+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.290+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'PAGASA warned that flash floods or landslides are possible.'
+    section6:
+      primarytype: 'block'
+      uuid: '1ef7995a-b8e6-40fe-9b8e-d93248335728'
+      activationstatus: true
+      created: 2024-10-20T09:38:19.290+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.506+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T09:38:19.290+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Gale warning has not been raised. But PAGASA warned those venturing
         out at sea in the coasts of Northern Luzon to take caution as waves are moderate
         to rough.</p>'
-  'israel-strike-gaza':
-    'author': 'Nidal al-Mughrabi, Reuters'
-    'caption': 'A Palestinian man inspects the site of an Israeli strike on a school
+  'START HERE----->israel-strike-gaza':
+    author: 'Nidal al-Mughrabi, Reuters'
+    caption: 'A Palestinian man inspects the site of an Israeli strike on a school
       sheltering displaced people, amid the ongoing Israel-Hamas conflict, at Beach
       refugee camp in Gaza City October 19, 2024. (Reuters/Mahmoud Issa)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T10:03:23.000+08:00
-    'imagesource': 'jcr:c7e95f76-d177-4e6f-8b81-6e4b8c9e4dc9'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ce0f188e-76db-41b9-8843-5aed17572ee4'
-    'lead': 'An Israeli airstrike that hit several houses and a multi-storey residential
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T10:03:23.000+08:00
+    imagesource: 'c7e95f76-d177-4e6f-8b81-6e4b8c9e4dc9'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ce0f188e-76db-41b9-8843-5aed17572ee4'
+    lead: 'An Israeli airstrike that hit several houses and a multi-storey residential
       building in Beit Lahiya town in northern Gaza caused dozens of casualties, doctors
       and officials said, with rescue operations still underway.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T10:10:44.237+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:07.213+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:41.524+08:00
-    'mgnl:lastModified': 2024-10-20T10:10:44.291+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Israeli strikes in northern Gaza cause scores of casualties, doctors
+    activationstatus: true
+    created: 2024-10-20T10:10:44.237+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:07.213+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:41.524+08:00
+    lastmodified: 2024-10-20T10:10:44.291+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Israeli strikes in northern Gaza cause scores of casualties, doctors
       say'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c7d5771-fa5a-4651-a86f-8fcecb625e0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.259+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.215+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.281+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Cairo, Egypt —</strong> An Israeli airstrike that hit several
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6c7d5771-fa5a-4651-a86f-8fcecb625e0c'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.259+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.215+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.281+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Cairo, Egypt —</strong> An Israeli airstrike that hit several
         houses and a multi-storey residential building in Beit Lahiya town in northern
         Gaza on Saturday caused dozens of casualties, doctors and officials said,
         with rescue operations still underway.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '825f381f-e581-43de-8044-703c37655117'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.260+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.216+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.260+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Hamas media office said at least 73 people had been killed in
+    section1:
+      primarytype: 'block'
+      uuid: '825f381f-e581-43de-8044-703c37655117'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.260+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.216+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.260+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Hamas media office said at least 73 people had been killed in
         the strike. No official casualty figures were immediately available from the
         health ministry however Medway Abbas, a senior health ministry official, said
         the figures were accurate.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59d0fd92-6e30-4fb7-a1b2-ef102ba5cd15'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.260+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.217+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.260+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Israeli military said it was looking into the incident but said
+    section2:
+      primarytype: 'block'
+      uuid: '59d0fd92-6e30-4fb7-a1b2-ef102ba5cd15'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.260+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.217+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.260+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Israeli military said it was looking into the incident but said
         the numbers issued by the Hamas media office were exaggerated. It said the
         figures did not align with its own information, the precise munitions used
         or the accuracy of the strike, which it said was directed at a Hamas target.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b1c2b5d-4915-4801-a4ad-c31f274d7b92'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.260+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.218+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.260+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Palestinian health officials said rescue operations were being hampered
+    section3:
+      primarytype: 'block'
+      uuid: '7b1c2b5d-4915-4801-a4ad-c31f274d7b92'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.260+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.218+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.260+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Palestinian health officials said rescue operations were being hampered
         by the cut-off of telecommunication and internet services for a second day.
         Earlier in the day, the Gaza health ministry said Israeli military strikes
         killed 35 Palestinians across the enclave.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fcf591a6-fa32-4899-b880-1f0e3e209652'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.261+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.218+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.261+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"This is a war of genocide and ethnic cleansing. The occupation
+    section4:
+      primarytype: 'block'
+      uuid: 'fcf591a6-fa32-4899-b880-1f0e3e209652'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.261+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.218+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.261+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"This is a war of genocide and ethnic cleansing. The occupation
         has conducted a horrifying massacre in Beit Lahiya," the Hamas media office
         said.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd93e844-9cba-41c0-9b9c-1097dc9dbcca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.261+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.219+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.261+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Residents and medics said Israeli forces had tightened their siege
+    section5:
+      primarytype: 'block'
+      uuid: 'dd93e844-9cba-41c0-9b9c-1097dc9dbcca'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.261+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.219+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.261+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Residents and medics said Israeli forces had tightened their siege
         on Jabalia, the largest of the enclave’s eight historic camps, which it encircled
         by also sending tanks to the nearby towns of Beit Hanoun and Beit Lahiya and
         issuing evacuation orders to residents.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73dc4eec-2824-4fd5-89e6-435252adde05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.262+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.220+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.262+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Israeli officials said evacuation orders were aimed at separating
+    section6:
+      primarytype: 'block'
+      uuid: '73dc4eec-2824-4fd5-89e6-435252adde05'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.262+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.220+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.262+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Israeli officials said evacuation orders were aimed at separating
         Hamas fighters from civilians and denied there was any systematic plan to
         clear civilians out of Jabalia or other northern areas.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22f74328-a621-4a1d-b261-a6c1ad3cfa21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.262+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.220+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.262+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In Jabalia, residents said Israeli forces besieged several shelters
+    section7:
+      primarytype: 'block'
+      uuid: '22f74328-a621-4a1d-b261-a6c1ad3cfa21'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.262+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.220+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.262+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In Jabalia, residents said Israeli forces besieged several shelters
         housing displaced families before they stormed them and detained dozens of
         men. Footage on social media, which Reuters could not immediately verify,
         showed dozens of Palestinian men sitting on the ground next to a tank, while
         others were led by a soldier to a gathering site.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '06855e46-0b83-4016-a114-70de0067ef63'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.263+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.221+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.263+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Residents and medical officials said Israeli forces were bombing
+    section8:
+      primarytype: 'block'
+      uuid: '06855e46-0b83-4016-a114-70de0067ef63'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.263+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.221+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.263+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Residents and medical officials said Israeli forces were bombing
         houses and besieging hospitals, preventing medical and food supplies from
         entering to force them to leave the camp.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9fa92be1-bdfe-48e2-951e-31c07203d566'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.263+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.222+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.263+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Health officials said they refused orders by the Israeli army to
+    section9:
+      primarytype: 'block'
+      uuid: '9fa92be1-bdfe-48e2-951e-31c07203d566'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.263+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.222+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.263+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Health officials said they refused orders by the Israeli army to
         evacuate the hospital or leave the patients, many in critical condition, unattended.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '683edff7-dcd2-47a9-a7a8-cb19016fdd65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.263+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.263+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Hospitals in northern Gaza suffer from stark shortages of medical
+    section10:
+      primarytype: 'block'
+      uuid: '683edff7-dcd2-47a9-a7a8-cb19016fdd65'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.263+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.263+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"Hospitals in northern Gaza suffer from stark shortages of medical
         supplies and manpower and are overwhelmed by the number of casualties," said
         Hussam Abu Safiya.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2eb681d2-5c16-4098-ad0c-9e3c3100329a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.264+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.264+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"We are now trying to decide who among the wounded we needed to attend
+    section11:
+      primarytype: 'block'
+      uuid: '2eb681d2-5c16-4098-ad0c-9e3c3100329a'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.264+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.264+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"We are now trying to decide who among the wounded we needed to attend
         to first, and several wounded died because we could not deal with them," he
         said.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ddd4cf8e-3e98-43e9-b02e-8d7af8e4de45'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.264+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.264+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Sinwar leaflets</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08dcda1e-2e6a-498c-8858-fa05756c6ea4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.265+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.225+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.265+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Earlier on Saturday, Israeli planes dropped leaflets over southern
+    section12:
+      primarytype: 'block'
+      uuid: 'ddd4cf8e-3e98-43e9-b02e-8d7af8e4de45'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.264+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.264+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<h2><strong>Sinwar leaflets</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: '08dcda1e-2e6a-498c-8858-fa05756c6ea4'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.265+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.225+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.265+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Earlier on Saturday, Israeli planes dropped leaflets over southern
         Gaza showing a picture of the dead Hamas chief Yahya Sinwar with the message
         "Hamas will no longer rule Gaza", echoing language used by Israeli Prime Minister
         Benjamin Netanyahu.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2b5a35d-21fb-47a5-9196-30732316e179'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.265+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.265+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The move came as Israeli military strikes killed at least 108 people
+    section14:
+      primarytype: 'block'
+      uuid: 'a2b5a35d-21fb-47a5-9196-30732316e179'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.265+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.265+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The move came as Israeli military strikes killed at least 108 people
         across the Gaza Strip on Saturday, Palestinian health officials said.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f83a7b8d-5a57-4657-b50d-92be42bc5a0b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.266+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.266+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Whoever drops the weapon and hands over the hostages will be allowed
+    section15:
+      primarytype: 'block'
+      uuid: 'f83a7b8d-5a57-4657-b50d-92be42bc5a0b'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.266+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.266+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Whoever drops the weapon and hands over the hostages will be allowed
         to leave and live in peace," read the leaflet, written in Arabic, according
         to residents of the southern city of Khan Younis and images circulating online.</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e683cc25-c219-4b20-921d-584315178c3d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.266+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.266+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The leaflet’s wording was from a statement by Netanyahu on Thursday
+    section16:
+      primarytype: 'block'
+      uuid: 'e683cc25-c219-4b20-921d-584315178c3d'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.266+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.266+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The leaflet’s wording was from a statement by Netanyahu on Thursday
         after Sinwar was killed by Israeli soldiers operating in Rafah, in the south
         near the Egyptian border, on Wednesday.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8395d0df-90c3-4e01-9af8-e78f21e86c06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.267+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.267+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Oct. 7 attack Sinwar planned on Israeli communities a year ago
+    section17:
+      primarytype: 'block'
+      uuid: '8395d0df-90c3-4e01-9af8-e78f21e86c06'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.267+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.267+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Oct. 7 attack Sinwar planned on Israeli communities a year ago
         killed around 1,200 people, with another 253 dragged back to Gaza as hostages,
         according to Israeli tallies.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9220ec4-037a-41d4-b199-cef963e2c3f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.267+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.267+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Israel’s subsequent war has devastated Gaza, killing more than
+    section18:
+      primarytype: 'block'
+      uuid: 'a9220ec4-037a-41d4-b199-cef963e2c3f2'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.267+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.267+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Israel’s subsequent war has devastated Gaza, killing more than
         42,500 Palestinians, with another 10,000 uncounted dead thought to lie under
         the rubble, Gaza health authorities say.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0156925b-b012-4438-8fdb-797b1c0b9a5b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.268+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.268+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the central Gaza Strip camp of Al-Maghzai, an Israeli strike
+    section19:
+      primarytype: 'block'
+      uuid: '0156925b-b012-4438-8fdb-797b1c0b9a5b'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.268+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.268+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In the central Gaza Strip camp of Al-Maghzai, an Israeli strike
         on a house killed 11 people, while another strike at the nearby camp of Nuseirat
         killed four others.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd645c791-4485-400b-aea9-f4dae59f8711'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.269+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.230+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.269+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Five other people were killed in two separate strikes in the south
+    section20:
+      primarytype: 'block'
+      uuid: 'd645c791-4485-400b-aea9-f4dae59f8711'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.269+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.230+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.269+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Five other people were killed in two separate strikes in the south
         Gaza cities of Khan Younis and Rafah, medics said, while seven Palestinians
         were killed in the Shati camp in the northern Gaza Strip.</p>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2a39a90-e008-48a3-8208-09dc3444785a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.269+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.230+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.269+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Later on Saturday, an Israeli strike killed three Palestinians in Nuseirat,
+    section21:
+      primarytype: 'block'
+      uuid: 'e2a39a90-e008-48a3-8208-09dc3444785a'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.269+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.230+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.269+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Later on Saturday, an Israeli strike killed three Palestinians in Nuseirat,
         medics said.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34ca6c4a-3694-4291-95bc-fd63c2a64b35'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.270+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.231+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.270+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Late on Friday, medics said 33 people, mostly women and children,
+    section22:
+      primarytype: 'block'
+      uuid: '34ca6c4a-3694-4291-95bc-fd63c2a64b35'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.270+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.231+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.270+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Late on Friday, medics said 33 people, mostly women and children,
         were killed and 85 others were wounded in Israeli strikes that destroyed at
         least three houses in Jabalia.</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1dabfa4e-59b9-4245-97a9-68ad1178c3e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.270+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.232+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.270+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Israeli military said it was unaware of that incident.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0c9e7ad-560e-4173-9cf5-dbf7275c9f6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.271+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.232+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.271+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>It said forces were continuing operations against Hamas across the
+    section23:
+      primarytype: 'block'
+      uuid: '1dabfa4e-59b9-4245-97a9-68ad1178c3e7'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.270+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.232+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.270+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Israeli military said it was unaware of that incident.'
+    section24:
+      primarytype: 'block'
+      uuid: 'f0c9e7ad-560e-4173-9cf5-dbf7275c9f6b'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.271+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.232+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.271+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>It said forces were continuing operations against Hamas across the
         enclave, killing several gunmen in Rafah and Jabalia and dismantling military
         infrastructure. Palestinian medics said five people were killed in Jabalia
         on Saturday.</p>'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2ade46d-4ad9-437e-b26e-f074ed80dc0a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:10:44.271+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:07.233+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:10:44.271+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting and writing by Nidal al-Mughrabi. Additional reporting
+    section25:
+      primarytype: 'block'
+      uuid: 'a2ade46d-4ad9-437e-b26e-f074ed80dc0a'
+      activationstatus: true
+      created: 2024-10-20T10:10:44.271+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:07.233+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:10:44.271+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting and writing by Nidal al-Mughrabi. Additional reporting
         by Ali Sawafta and Maayan Lubell, writing by Ahmed Tolba; Editing by Andrew
         Heavens, Marguerita Choy, Daniel Wallis and Alistair Bell)</em></p>'
-  'kamala-harris-usher-lizzo':
-    'author': 'Andrea Shalal, Steve Holland and Trevor Hunnicutt, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T10:12:14.000+08:00
-    'imagesource': 'jcr:a102b0a1-e49b-423a-8c3a-cd9d0624a359'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ed38340e-2f0d-4949-8111-57bc89a0a914'
-    'lead': 'Republican Donald Trump escalated his verbal attacks on Democrat Kamala
+  'START HERE----->kamala-harris-usher-lizzo':
+    author: 'Andrea Shalal, Steve Holland and Trevor Hunnicutt, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T10:12:14.000+08:00
+    imagesource: 'a102b0a1-e49b-423a-8c3a-cd9d0624a359'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ed38340e-2f0d-4949-8111-57bc89a0a914'
+    lead: 'Republican Donald Trump escalated his verbal attacks on Democrat Kamala
       Harris as the vice president turned to celebrities to generate enthusiasm for
       her campaign, with both candidates for U.S. president courting early voters.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T10:15:35.458+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:06.123+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:41.797+08:00
-    'mgnl:lastModified': 2024-10-20T10:15:35.504+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump steps up attacks on Harris; Usher, Lizzo add star power to Harris
+    activationstatus: true
+    created: 2024-10-20T10:15:35.458+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:06.123+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:41.797+08:00
+    lastmodified: 2024-10-20T10:15:35.504+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump steps up attacks on Harris; Usher, Lizzo add star power to Harris
       push'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd99d47a3-a429-45e2-9448-7d8a3eb938ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.473+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.125+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.473+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Atlanta/Latrobe, Pennsylvania&nbsp;—</strong> Republican
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd99d47a3-a429-45e2-9448-7d8a3eb938ea'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.473+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.125+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.473+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Atlanta/Latrobe, Pennsylvania&nbsp;—</strong> Republican
         Donald Trump escalated his verbal attacks on Democrat Kamala Harris on Saturday
         as the vice president turned to celebrities to generate enthusiasm for her
         campaign, with both candidates for U.S. president courting early voters.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66524843-49d5-4809-b291-998e952567fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.473+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.126+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.473+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Harris and Trump are essentially tied in the most competitive states
+    section1:
+      primarytype: 'block'
+      uuid: '66524843-49d5-4809-b291-998e952567fd'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.473+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.126+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.473+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Harris and Trump are essentially tied in the most competitive states
         and many Americans are voting early by mail or in person, with just 17 days
         until the Nov. 5 election.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f82808b-04f0-4930-91a8-d35be065d776'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.473+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.126+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.473+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday, Harris rallied supporters at a get-out-the-vote event
+    section2:
+      primarytype: 'block'
+      uuid: '9f82808b-04f0-4930-91a8-d35be065d776'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.473+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.126+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.473+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>On Saturday, Harris rallied supporters at a get-out-the-vote event
         in Detroit, Michigan, for the city’s first day of early voting, alongside
         Detroit-born rapper Lizzo, who said voting was crucial in a state where thin
         margins can determine elections.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3968af5c-3fd2-4270-8dc8-9b0839dbe34a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.474+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.127+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.474+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In Atlanta later, Harris appeared with pop singer Usher.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e20b9270-df1d-4443-8314-37d886f99af6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.474+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.128+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.474+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"This is the swing state of all swing states, so every single last
+    section3:
+      primarytype: 'block'
+      uuid: '3968af5c-3fd2-4270-8dc8-9b0839dbe34a'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.474+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.127+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.474+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In Atlanta later, Harris appeared with pop singer Usher.</p>'
+    section4:
+      primarytype: 'block'
+      uuid: 'e20b9270-df1d-4443-8314-37d886f99af6'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.474+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.128+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.474+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"This is the swing state of all swing states, so every single last
         vote here counts," Lizzo said. She rejected the argument by some that America
         was not ready for a woman president, saying, "It’s about damn time," riffing
         on one of her biggest hits.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e547e12-84d9-4df8-9508-1aa6efb01f1e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.475+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.128+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.475+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Votes in a handful of swing states, where candidates from both parties
+    section5:
+      primarytype: 'block'
+      uuid: '3e547e12-84d9-4df8-9508-1aa6efb01f1e'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.475+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.128+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.475+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Votes in a handful of swing states, where candidates from both parties
         have strong support and electoral results have been close in past cycles,
         are likely to decide the election.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37c03f81-9fee-4c1c-8c95-6b4a276e7159'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.475+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.129+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.475+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In Latrobe, Pennsylvania, Trump escalated his personal attacks on
+    section6:
+      primarytype: 'block'
+      uuid: '37c03f81-9fee-4c1c-8c95-6b4a276e7159'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.475+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.129+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.475+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In Latrobe, Pennsylvania, Trump escalated his personal attacks on
         Harris, a practice some of his advisers fear could alienate swing voters.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52f61e6d-3273-455a-8030-782ba28f69d0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.475+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.130+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.475+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump said Harris is further to the left than Democratic Senators Elizabeth
+    section7:
+      primarytype: 'block'
+      uuid: '52f61e6d-3273-455a-8030-782ba28f69d0'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.475+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.130+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.475+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Trump said Harris is further to the left than Democratic Senators Elizabeth
         Warren and Bernie Sanders.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b84de23b-0976-41b9-89e3-6b9663d96911'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.476+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.130+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.476+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“You have to tell Kamala Harris that you’ve had enough, that you just
+    section8:
+      primarytype: 'block'
+      uuid: 'b84de23b-0976-41b9-89e3-6b9663d96911'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.476+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.130+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.476+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“You have to tell Kamala Harris that you’ve had enough, that you just
         can’t take it anymore. We can’t stand you, you’re a shit vice president.”'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '27319ae6-2aba-4166-a104-6cefc5c27f01'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.476+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.131+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.476+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>As the crowd applauded, Trump added: “Kamala, you’re fired, get
-        the hell out of here, you''re fired.”</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1922ae34-eae8-40d8-a588-1d5112b3f414'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.477+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.132+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.477+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump had billed his Latrobe event as the start of his final argument
+    section9:
+      primarytype: 'block'
+      uuid: '27319ae6-2aba-4166-a104-6cefc5c27f01'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.476+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.131+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.476+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>As the crowd applauded, Trump added: “Kamala, you’re fired, get
+        the hell out of here, you're fired.”</p>'
+    section10:
+      primarytype: 'block'
+      uuid: '1922ae34-eae8-40d8-a588-1d5112b3f414'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.477+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.132+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.477+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Trump had billed his Latrobe event as the start of his final argument
         to voters but quickly went off script with a long story about hometown hero
         Arnold Palmer that included an off-color comment about the genitalia of the
         late golf legend.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c5021df-b545-4d3d-ba14-c041526f203c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.477+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.132+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.477+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"He took showers with the other pros, they came out of there and
-        said ''oh my God, that’s unbelievable,''" he said.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52e0203c-3f66-4304-8061-4a9de74af921'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.477+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.133+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.477+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Harris campaign quickly seized on the comments.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51788cbb-4411-4ac1-85f9-48c4360cc031'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.478+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.134+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.478+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Trump’s Pennsylvania closing argument is literal junk. In a Pennsylvania
-        rally speech his campaign team billed as ''the beginning of his closing argument
-        in the final stretch,'' Donald Trump focused on the issue most important to
+    section11:
+      primarytype: 'block'
+      uuid: '7c5021df-b545-4d3d-ba14-c041526f203c'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.477+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.132+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.477+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"He took showers with the other pros, they came out of there and
+        said 'oh my God, that’s unbelievable,'" he said.</p>'
+    section12:
+      primarytype: 'block'
+      uuid: '52e0203c-3f66-4304-8061-4a9de74af921'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.477+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.133+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.477+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Harris campaign quickly seized on the comments.'
+    section13:
+      primarytype: 'block'
+      uuid: '51788cbb-4411-4ac1-85f9-48c4360cc031'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.478+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.134+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.478+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"Trump’s Pennsylvania closing argument is literal junk. In a Pennsylvania
+        rally speech his campaign team billed as 'the beginning of his closing argument
+        in the final stretch,' Donald Trump focused on the issue most important to
         voters in this election: a deceased golfer’s … anatomy," the campaign said
         in a statement.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5fdccd8-858c-4405-8914-cef33722993c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.478+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.134+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.478+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In both Detroit and Atlanta, Harris urged her supporters to put in
+    section14:
+      primarytype: 'block'
+      uuid: 'e5fdccd8-858c-4405-8914-cef33722993c'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.478+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.134+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.478+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In both Detroit and Atlanta, Harris urged her supporters to put in
         an all-out effort to win.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c9696cc-806b-4fce-a2c2-b40039028012'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.479+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.135+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.479+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"On Election Day, we don''t want to have any regrets about what we
+    section15:
+      primarytype: 'block'
+      uuid: '6c9696cc-806b-4fce-a2c2-b40039028012'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.479+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.135+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.479+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"On Election Day, we don't want to have any regrets about what we
         could have done these next 17 days," she told about 300 voters who planned
         to march together to an early-voting site.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '167d7588-5e9e-4fa1-bcd5-6eb9390022d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.479+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.136+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.479+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>She said early voting had already set records in Georgia and North
+    section16:
+      primarytype: 'block'
+      uuid: '167d7588-5e9e-4fa1-bcd5-6eb9390022d6'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.479+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.136+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.479+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>She said early voting had already set records in Georgia and North
         Carolina, and challenged Detroit - a city known for producing musical recordings
         - to follow suit.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24df8bd6-14c2-4ebc-b8b0-798b58a16bbf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.479+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.136+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.479+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Harris'' next stop was Atlanta, Georgia, for a rally with another
+    section17:
+      primarytype: 'block'
+      uuid: '24df8bd6-14c2-4ebc-b8b0-798b58a16bbf'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.479+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.136+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.479+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Harris' next stop was Atlanta, Georgia, for a rally with another
         music icon, Usher, who took a break from a three-date concert tour in the
         southern city to urge voters to go door-to-door and enlist their neighbors
         and friends to vote.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '63fe4c5a-d4bf-4b2b-97ce-22c18978bee3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.480+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.137+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.480+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Every call matters. Every conversation matters. All of it makes a
+    section18:
+      primarytype: 'block'
+      uuid: '63fe4c5a-d4bf-4b2b-97ce-22c18978bee3'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.480+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.137+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.480+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Every call matters. Every conversation matters. All of it makes a
         difference in closing this race ... Everything that we do in the next 17 days
         will affect the future of our children, of our grandchildren, of the people
         who we love the most," he said.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90452f49-bfcd-4c79-969a-c8753975bedf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.480+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.138+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.480+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Harris, speaking before some 11,000 people at a music venue in Atlanta,
+    section19:
+      primarytype: 'block'
+      uuid: '90452f49-bfcd-4c79-969a-c8753975bedf'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.480+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.138+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.480+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Harris, speaking before some 11,000 people at a music venue in Atlanta,
         hammered Trump for a second straight day for cancelling events and for avoiding
         another presidential debate because of what she called "exhaustion."</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1fdab8f8-0585-4d9e-95c0-ad8e9ff02d07'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.481+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.138+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.481+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"When he does answer a question or speak at a rally, have you noticed
+    section20:
+      primarytype: 'block'
+      uuid: '1fdab8f8-0585-4d9e-95c0-ad8e9ff02d07'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.481+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.138+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.481+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"When he does answer a question or speak at a rally, have you noticed
         he tends to go off-script and ramble, and generally for the life of him, cannot
-        finish a thought?" she said. "He has called it ''the weave.'' But I think
+        finish a thought?" she said. "He has called it 'the weave.' But I think
         we here will call it nonsense."'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cee8da2a-2a09-4667-a064-0d48bbadadda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.481+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.139+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.481+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Harris will need strong results in the majority non-white cities
+    section21:
+      primarytype: 'block'
+      uuid: 'cee8da2a-2a09-4667-a064-0d48bbadadda'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.481+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.139+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.481+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Harris will need strong results in the majority non-white cities
         of Detroit and Atlanta and their surrounding suburbs to repeat President Joe
         Biden’s 2020 wins in Michigan and Georgia.</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a62a342-836d-4c64-89b0-3b0c572a0a6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.482+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.140+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.482+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Trump is seeking to take advantage of what he felt was an improved
+    section22:
+      primarytype: 'block'
+      uuid: '1a62a342-836d-4c64-89b0-3b0c572a0a6b'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.482+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.140+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.482+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Trump is seeking to take advantage of what he felt was an improved
         position for him in opinion polls that show a deadlocked race. Some voters
         already have mail-in ballots in the state, which is the biggest prize on Election
         Day among battleground states and could tip the 2024 race.</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76abd9eb-8140-4242-a00a-59bd51ca80d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.482+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.140+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.482+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Early voting also starts on Saturday in Nevada, where former President
+    section23:
+      primarytype: 'block'
+      uuid: '76abd9eb-8140-4242-a00a-59bd51ca80d4'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.482+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.140+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.482+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Early voting also starts on Saturday in Nevada, where former President
         Barack Obama plans to campaign for Harris in Las Vegas.</p>'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca702f8c-ac12-4575-ab56-d4739d427019'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.483+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.141+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.483+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Both 2024 candidates spent Friday in closely contested Michigan,
+    section24:
+      primarytype: 'block'
+      uuid: 'ca702f8c-ac12-4575-ab56-d4739d427019'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.483+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.141+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.483+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Both 2024 candidates spent Friday in closely contested Michigan,
         trading jabs about their fitness for office. Trump, 78, dismissed accusations
         from Harris that he was exhausted by the pace of the campaign’s closing days.
         Harris turns 60 on Sunday.</p>'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36f60fcb-d20b-4324-80e3-e64c7fe65083'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.483+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.141+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.483+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Trump said he had not canceled any events. But an Oct. 22 National
+    section25:
+      primarytype: 'block'
+      uuid: '36f60fcb-d20b-4324-80e3-e64c7fe65083'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.483+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.141+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.483+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Trump said he had not canceled any events. But an Oct. 22 National
         Rifle Association of America event in Savannah, Georgia, that he had planned
         to attend, was canceled, according to organizers.</p>'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0778a0eb-67c2-4509-acc1-882668a7fc75'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T10:15:35.484+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:06.142+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T10:15:35.484+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Steve Holland, Andrea Shalal and Trevor Hunnicutt;
+    section26:
+      primarytype: 'block'
+      uuid: '0778a0eb-67c2-4509-acc1-882668a7fc75'
+      activationstatus: true
+      created: 2024-10-20T10:15:35.484+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:06.142+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T10:15:35.484+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Steve Holland, Andrea Shalal and Trevor Hunnicutt;
         Writing by Trevor Hunnicutt; Editing by Rod Nickel, Alistair Bell and Stephen
         Coates)</em></p>'
-  'pamalakaya-galunggong-price':
-    'caption': 'Members of fishers group Pamalakaya inspected the market prices of
+  'START HERE----->pamalakaya-galunggong-price':
+    caption: 'Members of fishers group Pamalakaya inspected the market prices of
       round scads in San Fernando City, La Union. (Pamalakaya)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T11:12:34.000+08:00
-    'imagesource': 'jcr:14935ded-db8a-4564-97d4-82f5e7fa2cfd'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6781141f-f3f0-4117-a5f5-7fb39425a00f'
-    'lead': 'The price of round scad, locally called galunggong, remained around P200
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T11:12:34.000+08:00
+    imagesource: '14935ded-db8a-4564-97d4-82f5e7fa2cfd'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6781141f-f3f0-4117-a5f5-7fb39425a00f'
+    lead: 'The price of round scad, locally called galunggong, remained around P200
       per kilo despite an importation of 35,000 metric tons of the fish species this
       month, a fishers group said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T11:17:19.148+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:05.514+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:41.998+08:00
-    'mgnl:lastModified': 2024-10-20T11:17:19.171+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Galunggong price remains around P200/kilo despite importation – fishers
+    activationstatus: true
+    created: 2024-10-20T11:17:19.148+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:05.514+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:41.998+08:00
+    lastmodified: 2024-10-20T11:17:19.171+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Galunggong price remains around P200/kilo despite importation – fishers
       group'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5410da72-68f2-41d8-86b6-3b7295fd34f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.160+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.520+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.160+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The price of round
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5410da72-68f2-41d8-86b6-3b7295fd34f4'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.160+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.520+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.160+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The price of round
         scad, locally called galunggong, remained around P200 per kilo despite an
         importation of 35,000 metric tons of the fish species this month, a fishers
         group said on Sunday, Oct. 20.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f524ee7d-3968-40f5-81b5-182a5b90e9d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.161+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.521+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.161+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'La Union members of the Pambansang Lakas ng Kilusang Mamamalakaya ng
+    section1:
+      primarytype: 'block'
+      uuid: 'f524ee7d-3968-40f5-81b5-182a5b90e9d2'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.161+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.521+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.161+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'La Union members of the Pambansang Lakas ng Kilusang Mamamalakaya ng
         Pilipinas (Pamalakaya) inspected markets in San Fernando City to check the
         prices of galunggong.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9bcc0ad-50b4-4e61-a70c-cbee34629449'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.161+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.161+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Malinaw na walang katotohanan ang sinasabing bababa ang presyo ng
+    section2:
+      primarytype: 'block'
+      uuid: 'e9bcc0ad-50b4-4e61-a70c-cbee34629449'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.161+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.161+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Malinaw na walang katotohanan ang sinasabing bababa ang presyo ng
         isda sa pagpasok ng mga imported dahil mga komersyante pa rin naman ang nagtatakda
         ng presyo sa merkado,” Pamalakaya vice chairperson Ronnel Arambulo said in
         a statement.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ed1b70f-e012-49fa-9ba2-5824578e4baa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.161+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.161+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: It is clear that there is no truth to their claim that
+    section3:
+      primarytype: 'block'
+      uuid: '6ed1b70f-e012-49fa-9ba2-5824578e4baa'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.161+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.161+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: It is clear that there is no truth to their claim that
         prices of fish will go down when imported ones come in because merchants set
         the market price.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '630341ec-b0ea-4253-8000-4a68f09d4a38'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.162+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.524+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.162+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sa katunayan, ang presyo ng farm gate lamang ang higit na bumabagsak
+    section4:
+      primarytype: 'block'
+      uuid: '630341ec-b0ea-4253-8000-4a68f09d4a38'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.162+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.524+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.162+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Sa katunayan, ang presyo ng farm gate lamang ang higit na bumabagsak
         dahil ginagawang batayan ng mga trader ang mababang presyo ng mga imported
         at bilasang isda para baratin ang ating mga mangingisda,” he added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '61c7eb1a-4286-410f-b588-9d69e6d5d7cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.162+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.162+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: In fact, farm gate prices further drop because traders
+    section5:
+      primarytype: 'block'
+      uuid: '61c7eb1a-4286-410f-b588-9d69e6d5d7cf'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.162+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.162+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: In fact, farm gate prices further drop because traders
         use the low prices of imported stale fish to take advantage of our fishermen.]'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a59f2f80-a000-41e7-a0fb-a7b95f021f21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.162+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.162+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Pamalakaya said it is also monitoring the farmgate prices of fish in
+    section6:
+      primarytype: 'block'
+      uuid: 'a59f2f80-a000-41e7-a0fb-a7b95f021f21'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.162+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.162+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Pamalakaya said it is also monitoring the farmgate prices of fish in
         other provinces.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0ddd009-b047-4474-a9b5-df5f97542536'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.163+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.526+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.163+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Arambulo said both local fishers and consumers are on the losing end
+    section7:
+      primarytype: 'block'
+      uuid: 'd0ddd009-b047-4474-a9b5-df5f97542536'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.163+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.526+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.163+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Arambulo said both local fishers and consumers are on the losing end
         of the policy.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a21d26df-9872-4740-964a-bc4754d54e26'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.163+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.527+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.163+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group appealed again to stop import-liberalization policies that
+    section8:
+      primarytype: 'block'
+      uuid: 'a21d26df-9872-4740-964a-bc4754d54e26'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.163+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.527+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.163+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The group appealed again to stop import-liberalization policies that
         do not benefit local agriculture and fisheries production.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2090b12-6e96-4952-98b8-a0ae0fee3ca0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T11:17:19.163+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.527+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T11:17:19.163+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>NewsWatch Plus reached out to the Agriculture Department for a comment
+    section9:
+      primarytype: 'block'
+      uuid: 'e2090b12-6e96-4952-98b8-a0ae0fee3ca0'
+      activationstatus: true
+      created: 2024-10-20T11:17:19.163+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.527+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T11:17:19.163+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>NewsWatch Plus reached out to the Agriculture Department for a comment
         but has yet to receive a reply as of posting time.</p>'
-  'sara-duterte-baclaran-visit':
-    'caption': 'Vice President Sara Duterte buys street food outside Baclaran Church
+  'START HERE----->sara-duterte-baclaran-visit':
+    caption: 'Vice President Sara Duterte buys street food outside Baclaran Church
       and has a photo taken with a local. (Baclaran Tourism Official/Facebook)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T12:22:06.000+08:00
-    'imagesource': 'jcr:ec499951-f78a-4503-8b7a-57b0d799ceb1'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '394662c0-3d92-46b2-9e60-17325ccf1acf'
-    'lead': 'Vice President Sara Duterte took a personal trip to Baclaran in Parañaque
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T12:22:06.000+08:00
+    imagesource: 'ec499951-f78a-4503-8b7a-57b0d799ceb1'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '394662c0-3d92-46b2-9e60-17325ccf1acf'
+    lead: 'Vice President Sara Duterte took a personal trip to Baclaran in Parañaque
       City. She was seen buying street foods outside the Our Lady of Perpetual Help
       Church, where she attended mass.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T12:25:47.620+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:05.171+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.135+08:00
-    'mgnl:lastModified': 2024-10-20T12:26:54.568+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'VP Duterte visits Baclaran to pray, dine'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'abc5379c-64f0-442c-a0fc-277f6c15736f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.661+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.173+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.564+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Vice President Sara
+    activationstatus: true
+    created: 2024-10-20T12:25:47.620+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:05.171+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.135+08:00
+    lastmodified: 2024-10-20T12:26:54.568+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'VP Duterte visits Baclaran to pray, dine'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'abc5379c-64f0-442c-a0fc-277f6c15736f'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.661+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.173+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.564+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Vice President Sara
         Duterte took a personal trip to Baclaran in Parañaque City.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '173d94e7-55e2-423a-95c9-f09517c867ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.661+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.174+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.565+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Based on photos posted by the Baclaran Tourism Board she was seen donning
+    section1:
+      primarytype: 'block'
+      uuid: '173d94e7-55e2-423a-95c9-f09517c867ca'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.661+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.174+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.565+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Based on photos posted by the Baclaran Tourism Board she was seen donning
         a shirt and a striped bottom.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ffaccc1-9288-4e88-977c-22d7a3f2ea60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.661+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.175+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.565+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'She was seen buying street foods outside the Our Lady of Perpetual
+    section2:
+      primarytype: 'block'
+      uuid: '2ffaccc1-9288-4e88-977c-22d7a3f2ea60'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.661+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.175+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.565+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'She was seen buying street foods outside the Our Lady of Perpetual
         Help Church, where she attended mass.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '560ddd43-cb3c-44dc-bab3-438e87295fd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.662+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.175+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.565+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The vice president also had her photos taken with locals.'
-    '4':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbaclarantourismofficial%2Fposts%2Fpfbid0DkoFxqB2Yak5hw6mtjnKoc2m7cu6T2PXCPWhn7vVs3G4ersB3HGACTr1FYwjzTowl&show_text=true&width=500"
+    section3:
+      primarytype: 'block'
+      uuid: '560ddd43-cb3c-44dc-bab3-438e87295fd5'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.662+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.175+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.565+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The vice president also had her photos taken with locals.'
+    section4:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbaclarantourismofficial%2Fposts%2Fpfbid0DkoFxqB2Yak5hw6mtjnKoc2m7cu6T2PXCPWhn7vVs3G4ersB3HGACTr1FYwjzTowl&show_text=true&width=500"
         width="500" height="681" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e6c263aa-f54c-4405-b8a7-e807f88b4843'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.662+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.176+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.566+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'embedCode'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca51dd7b-316c-464c-9268-854aebcb7ecd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.663+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.177+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.566+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte’s visit took place hours after she held a press conference
+      primarytype: 'block'
+      uuid: 'e6c263aa-f54c-4405-b8a7-e807f88b4843'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.662+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.176+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.566+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'embedcode'
+    section5:
+      primarytype: 'block'
+      uuid: 'ca51dd7b-316c-464c-9268-854aebcb7ecd'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.663+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.177+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.566+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Duterte’s visit took place hours after she held a press conference
         on Friday, Oct. 18 where she criticized <a href="https://www.newswatchplus.ph/news/2024/10/18/marcos-doesnt-know-to-be-president.html">President
         Ferdinand Marcos Jr.</a></p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec85bcb4-6fae-4816-9f09-1d192cc6f2bd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.663+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.177+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.567+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'It was also a day after the House committee on good government and
+    section6:
+      primarytype: 'block'
+      uuid: 'ec85bcb4-6fae-4816-9f09-1d192cc6f2bd'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.663+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.177+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.567+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'It was also a day after the House committee on good government and
         public accountability’s inquiry on her P125-million confidential funds, which
         she skipped for the second consecutive time.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08e444cc-77dd-4635-a4b3-96dfa0dc64e5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T12:25:47.664+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:05.178+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T12:26:54.567+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/10/17/Lawmakers-question-OVP-spending-for-safe-houses.html">Lawmakers
+    section7:
+      primarytype: 'block'
+      uuid: '08e444cc-77dd-4635-a4b3-96dfa0dc64e5'
+      activationstatus: true
+      created: 2024-10-20T12:25:47.664+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:05.178+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T12:26:54.567+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/10/17/Lawmakers-question-OVP-spending-for-safe-houses.html">Lawmakers
         question ₱16-M OVP spending for safe houses</a></strong></p>'
-  'castro-comprehensive-probe-duterte-deped':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T13:11:14.000+08:00
-    'imagesource': 'jcr:c4b73994-fe89-47b4-87f1-453aedc625e3'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd8d884a2-4581-49d6-932b-2bd608aafbbb'
-    'lead': 'House Deputy Minority Leader Rep. France Castro is pushing for a comprehensive
+  'START HERE----->castro-comprehensive-probe-duterte-deped':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T13:11:14.000+08:00
+    imagesource: 'c4b73994-fe89-47b4-87f1-453aedc625e3'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'd8d884a2-4581-49d6-932b-2bd608aafbbb'
+    lead: 'House Deputy Minority Leader Rep. France Castro is pushing for a comprehensive
       inquiry into Vice President Sara Duterte’s supposed corrupt activities when
       she was education chief.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T13:17:26.363+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:04.644+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.319+08:00
-    'mgnl:lastModified': 2024-10-20T13:19:09.444+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'House leader pushes for ‘comprehensive’ probe into Duterte’s reported
+    activationstatus: true
+    created: 2024-10-20T13:17:26.363+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:04.644+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.319+08:00
+    lastmodified: 2024-10-20T13:19:09.444+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'House leader pushes for ‘comprehensive’ probe into Duterte’s reported
       corrupt acts'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c653c1b6-dd00-42c0-afd0-7cd324b99d91'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.389+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.654+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.370+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> House Deputy Minority
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c653c1b6-dd00-42c0-afd0-7cd324b99d91'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.389+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.654+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.370+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> House Deputy Minority
         Leader Rep. France Castro is pushing for a “comprehensive” inquiry into Vice
         President Sara Duterte’s supposed corrupt activities when she was education
         chief.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1aca491-3f45-478d-a8e1-d18cd8dcdf1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.389+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.655+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.371+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The representative of ACT Teachers’ expressed alarm after former
+    section1:
+      primarytype: 'block'
+      uuid: 'a1aca491-3f45-478d-a8e1-d18cd8dcdf1c'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.389+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.655+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.371+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The representative of ACT Teachers’ expressed alarm after former
         and sitting education officials claimed that they <a href="https://www.newswatchplus.ph/news/2024/10/17/deped-officials-extra-cash.html">received
         envelopes</a> with cash from then-Secretary Duterte’s office, without knowing
         its purpose.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f906716b-5bc2-4904-9aa1-175ddb92475b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.390+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.655+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.371+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/9/25/ex-deped-official-bares-extra-money.html">Ex-DepEd
+    section2:
+      primarytype: 'block'
+      uuid: 'f906716b-5bc2-4904-9aa1-175ddb92475b'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.390+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.655+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.371+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>READ:&nbsp;<a href="https://www.newswatchplus.ph/news/2024/9/25/ex-deped-official-bares-extra-money.html">Ex-DepEd
         official bares extra money; Duterte bucks claim</a></strong></p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1fc7bf3-80f7-4d8b-8aed-edd8d9a38264'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.390+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.656+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.372+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Such practices, if true, constitute a serious breach of public trust
+    section3:
+      primarytype: 'block'
+      uuid: 'e1fc7bf3-80f7-4d8b-8aed-edd8d9a38264'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.390+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.656+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.372+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Such practices, if true, constitute a serious breach of public trust
         and must be addressed with utmost urgency," Castro said in a statement on
         Sunday, Oct. 20.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23358bfe-c11f-4b13-bb40-63a51c081d22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.657+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.372+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“The education sector is already grappling with significant issues,
+    section4:
+      primarytype: 'block'
+      uuid: '23358bfe-c11f-4b13-bb40-63a51c081d22'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.657+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.372+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“The education sector is already grappling with significant issues,
         including the perennial shortage of classrooms. Instead of addressing these
         challenges, the alleged corruption further undermines the quality of education
         that Filipino students deserve," she added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4869f735-9849-465b-be0a-e2e95633ff8f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.657+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.372+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The alleged practice was revealed during the House committee on
+    section5:
+      primarytype: 'block'
+      uuid: '4869f735-9849-465b-be0a-e2e95633ff8f'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.657+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.372+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The alleged practice was revealed during the House committee on
         good government and public accountability’s inquiry into Duterte’s confidential
         funds, which already had three rounds of hearings.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef045ebb-c1c4-4bd0-8568-dd5e34069094'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.391+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.658+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.441+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Castro noted that a few aspects have only been discussed by the panel,
+    section6:
+      primarytype: 'block'
+      uuid: 'ef045ebb-c1c4-4bd0-8568-dd5e34069094'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.391+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.658+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.441+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Castro noted that a few aspects have only been discussed by the panel,
         demanding for its comprehensive probe. However, she said a separate investigation
         would be better if the committee would have limited deliberations.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecdad75c-ea32-4a20-8b9b-ef7b1d4e6724'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T13:17:26.392+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.658+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T13:19:09.442+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte, in a press briefing on Friday, argued that the government
+    section7:
+      primarytype: 'block'
+      uuid: 'ecdad75c-ea32-4a20-8b9b-ef7b1d4e6724'
+      activationstatus: true
+      created: 2024-10-20T13:17:26.392+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.658+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T13:19:09.442+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Duterte, in a press briefing on Friday, argued that the government
         spending of millions in a day for projects is <a href="https://www.newswatchplus.ph/news/2024/10/19/duterte-spending-millions-in-govt-not-surprising.html">not
         surprising</a>.</p>'
-  'nujp-abscbn-layoff':
-    'caption': 'Facade of media giant ABS-CBN. (File photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T14:30:33.000+08:00
-    'imagesource': 'jcr:12478912-18a3-42a1-b56d-1f5f40205e3a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '63ba5d7d-f942-494a-8abd-88608d4c9fed'
-    'lead': 'The National Union of Journalists of the Philippines lamented the “lack
+  'START HERE----->nujp-abscbn-layoff':
+    caption: 'Facade of media giant ABS-CBN. (File photo)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T14:30:33.000+08:00
+    imagesource: '12478912-18a3-42a1-b56d-1f5f40205e3a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '63ba5d7d-f942-494a-8abd-88608d4c9fed'
+    lead: 'The National Union of Journalists of the Philippines lamented the “lack
       of transparency” amid the layoff of about 100 workers of media giant ABS-CBN
       reportedly due to significant losses.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T14:35:25.086+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:04.334+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.481+08:00
-    'mgnl:lastModified': 2024-10-20T14:35:25.123+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Nat’l union of journalists laments ‘lack of transparency’ in ABS-CBN
+    activationstatus: true
+    created: 2024-10-20T14:35:25.086+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:04.334+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.481+08:00
+    lastmodified: 2024-10-20T14:35:25.123+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Nat’l union of journalists laments ‘lack of transparency’ in ABS-CBN
       layoff'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9539f7bc-01b9-4407-9976-1c5b925a46e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.111+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.337+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.119+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines — The National Union of Journalists of
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9539f7bc-01b9-4407-9976-1c5b925a46e0'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.111+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.337+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.119+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines — The National Union of Journalists of
         the Philippines (NUJP) lamented the “lack of transparency” amid the <a href="https://www.newswatchplus.ph/news/2024/10/17/ABS-CBN-EMPLOYEES-LAY-OFF.html">layoff</a>
         of about 100 workers of media giant ABS-CBN reportedly due to significant
         losses.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e4903204-c87a-4f7d-87bf-9adf8aa47ecb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.111+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.337+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.111+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement on Sunday, Oct. 20, the NUJP pointed out that the
+    section1:
+      primarytype: 'block'
+      uuid: 'e4903204-c87a-4f7d-87bf-9adf8aa47ecb'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.111+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.337+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.111+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a statement on Sunday, Oct. 20, the NUJP pointed out that the
         retrenchment means uncertainty for affected media workers, especially amid
         the rising costs of commodities.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a342501-f324-422d-9f09-2b7cf0c8b286'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.112+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.338+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.112+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“While seeking viability and survival is understandable, big media
+    section2:
+      primarytype: 'block'
+      uuid: '7a342501-f324-422d-9f09-2b7cf0c8b286'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.112+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.338+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.112+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“While seeking viability and survival is understandable, big media
         owners all too often prioritize profits, with employees bearing the brunt
         of, and being the last to know about, measures to reduce losses,” the NUJP
         said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5069a06b-1020-479e-9353-365b929c51b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.112+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.339+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.112+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“As has happened in similar job cuts across the industry, colleagues
+    section3:
+      primarytype: 'block'
+      uuid: '5069a06b-1020-479e-9353-365b929c51b4'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.112+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.339+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.112+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“As has happened in similar job cuts across the industry, colleagues
         had little warning about management decisions that potentially affect their
         lives, their livelihoods and their mental health. Although they are on the
         company’s payroll, media workers create value for the corporation and, at
         the very least, deserve more open communications and consultations about developments
         that could change the trajectories of their careers,” it continued.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88095536-be69-45e2-8418-11088751b262'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.113+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.339+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.113+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group also stressed the negative impact of the layoff to information
+    section4:
+      primarytype: 'block'
+      uuid: '88095536-be69-45e2-8418-11088751b262'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.113+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.339+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.113+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The group also stressed the negative impact of the layoff to information
         dissemination.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '451b1121-552a-4883-9db2-b90fa48d9189'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.113+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.340+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.113+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Reduction in media workers as the midterm polls near “impair discourse,
+    section5:
+      primarytype: 'block'
+      uuid: '451b1121-552a-4883-9db2-b90fa48d9189'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.113+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.340+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.113+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Reduction in media workers as the midterm polls near “impair discourse,
         the free flow of information, and the public’s right to know,” the NUJP said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4cb16d6-6c69-4bd7-9613-84b50c341528'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.113+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.113+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The layoff, the group said, may also result in unreported or underreported
+    section6:
+      primarytype: 'block'
+      uuid: 'f4cb16d6-6c69-4bd7-9613-84b50c341528'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.113+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.113+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The layoff, the group said, may also result in unreported or underreported
         issues outside Metro Manila.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '39edd1db-98d4-42e0-9e9d-40a07b2c5f27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.114+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.114+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The NUJP is ready to provide peer support, mental health services,
+    section7:
+      primarytype: 'block'
+      uuid: '39edd1db-98d4-42e0-9e9d-40a07b2c5f27'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.114+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.114+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The NUJP is ready to provide peer support, mental health services,
         and assistance in job hunting for retrenched workers.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19556623-3946-4b7d-8ab3-495d145f6ed9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.114+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.114+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group called on the public to support local media “by watching,
+    section8:
+      primarytype: 'block'
+      uuid: '19556623-3946-4b7d-8ab3-495d145f6ed9'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.114+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.114+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The group called on the public to support local media “by watching,
         reading, listening to and sharing” their stories or reports.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c7f2b118-1f12-4847-8d92-aca11c779072'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T14:35:25.115+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:04.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T14:35:25.115+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In 2020, around 11,000 ABS-CBN workers were laid off after the House
+    section9:
+      primarytype: 'block'
+      uuid: 'c7f2b118-1f12-4847-8d92-aca11c779072'
+      activationstatus: true
+      created: 2024-10-20T14:35:25.115+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:04.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T14:35:25.115+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In 2020, around 11,000 ABS-CBN workers were laid off after the House
         of Representatives did not renew its franchise.</p>'
-  'rodrigo-duterte-invited-quad-comm':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T16:44:48.000+08:00
-    'imagesource': 'jcr:5f2c2897-b078-45d0-aab1-450ec1a83861'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a919d2a4-0235-4cf2-9fdf-4ff0e6f631cb'
-    'lead': 'Former President Rodrigo Duterte has been invited to attend a House panel’s
+  'START HERE----->rodrigo-duterte-invited-quad-comm':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T16:44:48.000+08:00
+    imagesource: '5f2c2897-b078-45d0-aab1-450ec1a83861'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a919d2a4-0235-4cf2-9fdf-4ff0e6f631cb'
+    lead: 'Former President Rodrigo Duterte has been invited to attend a House panel’s
       inquiry on extrajudicial killings linked to his bloody war on drugs.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T16:47:38.072+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:03.940+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.632+08:00
-    'mgnl:lastModified': 2024-10-20T16:47:38.120+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Ex-Pres. Duterte invited in House inquiry on EJK'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '137d6b83-1050-48cc-9b96-35b51b44e126'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.108+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.116+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Former President Rodrigo
+    activationstatus: true
+    created: 2024-10-20T16:47:38.072+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:03.940+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.632+08:00
+    lastmodified: 2024-10-20T16:47:38.120+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Ex-Pres. Duterte invited in House inquiry on EJK'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '137d6b83-1050-48cc-9b96-35b51b44e126'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.108+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.116+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Former President Rodrigo
         Duterte has been invited to attend a House panel’s inquiry on extrajudicial
         killings linked to his bloody war on drugs.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90269acd-6072-4606-b0e9-4e5a427e8fd3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.109+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.943+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.109+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an Oct. 18 document shared with reporters, House quad committee
+    section1:
+      primarytype: 'block'
+      uuid: '90269acd-6072-4606-b0e9-4e5a427e8fd3'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.109+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.943+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.109+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In an Oct. 18 document shared with reporters, House quad committee
         chairperson Rep. Ace Barbers sent an invitation to Duterte to the panel’s
         next inquiry on Oct. 22.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd0cb870-a6e3-4db4-869f-3c85d6f086ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.109+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.943+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.109+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The joint panel is seeking the former president’s attendance to “provide
+    section2:
+      primarytype: 'block'
+      uuid: 'cd0cb870-a6e3-4db4-869f-3c85d6f086ec'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.109+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.943+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.109+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The joint panel is seeking the former president’s attendance to “provide
         valuable insights and shed light on the issues” which he has been implicated
         in.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a040091b-2635-484f-a6af-c72f837fcbbd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.109+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.944+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.109+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the previous quad committee hearing, retired police colonel Royina
+    section3:
+      primarytype: 'block'
+      uuid: 'a040091b-2635-484f-a6af-c72f837fcbbd'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.109+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.944+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.109+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In the previous quad committee hearing, retired police colonel Royina
         Garma claimed that a Davao model was used on a national scale when Duterte
         became president, in which <a href="https://www.newswatchplus.ph/news/2024/10/12/cops-in-drug-war-killing-rewarded-.html">killing
         a drug suspect is rewarded.</a></p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '68599210-8ee4-4c63-8543-bb2af27a21c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.110+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.944+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.110+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte however <a href="https://www.newswatchplus.ph/news/2024/10/19/duterte-denies-reward-system-drug-war.html">denied
+    section4:
+      primarytype: 'block'
+      uuid: '68599210-8ee4-4c63-8543-bb2af27a21c0'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.110+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.944+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.110+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Duterte however <a href="https://www.newswatchplus.ph/news/2024/10/19/duterte-denies-reward-system-drug-war.html">denied
         such a scheme</a>.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a94ea93d-25cd-4ff2-b04d-1060440cdd32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.110+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.945+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.110+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Progressive group <a href="https://www.newswatchplus.ph/news/2024/10/12/bayan-muna-on-drug-war-testimonies.html">Bayan
+    section5:
+      primarytype: 'block'
+      uuid: 'a94ea93d-25cd-4ff2-b04d-1060440cdd32'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.110+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.945+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.110+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Progressive group <a href="https://www.newswatchplus.ph/news/2024/10/12/bayan-muna-on-drug-war-testimonies.html">Bayan
         Muna</a> and National Union of Peoples’ Lawyers’ Kristina Conti called on
         Malacañang to submit the evidence gathered in the quad committee to the International
         Criminal Court (ICC).</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f43956a3-65f3-4b4d-81a2-909503858542'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.111+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.946+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.111+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/10/14/No-ICC-return-for-PH.html">No
+    section6:
+      primarytype: 'block'
+      uuid: 'f43956a3-65f3-4b4d-81a2-909503858542'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.111+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.946+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.111+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/10/14/No-ICC-return-for-PH.html">No
         ICC return for PH despite House quad comm findings - Malacañang</a></strong></p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2e16156-b76b-4d01-826a-b3bbd4b82a15'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.111+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.946+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.111+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The ICC is investigating Duterte and then-Philippine National Police
+    section7:
+      primarytype: 'block'
+      uuid: 'f2e16156-b76b-4d01-826a-b3bbd4b82a15'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.111+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.946+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.111+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The ICC is investigating Duterte and then-Philippine National Police
         chief and now Senator Bato dela Rosa for supposed crimes against humanity.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6624aa17-3ba4-4edb-96c0-0a80f0fd47b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T16:47:38.112+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.947+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T16:47:38.112+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
+    section8:
+      primarytype: 'block'
+      uuid: '6624aa17-3ba4-4edb-96c0-0a80f0fd47b9'
+      activationstatus: true
+      created: 2024-10-20T16:47:38.112+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.947+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T16:47:38.112+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Daniza Fernandez contributed to
         this report.</em></p>'
-  'marcos-congratulates-indonesian-president-':
-    'caption': 'President Ferdinand Marcos congratulates his Indonesian counterpart
+  'START HERE----->marcos-congratulates-indonesian-president-':
+    caption: 'President Ferdinand Marcos congratulates his Indonesian counterpart
       Prabowo Subianto and Vice President Gibran Rakabuming Raka during their inauguration.
       (Republic of Indonesia Presidential Secretariat)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T17:03:41.000+08:00
-    'imagesource': 'jcr:bc18c099-cd42-4eab-8d31-8b3260e27f40'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9a495fcc-9122-47df-85da-88e4df4c8e3f'
-    'lead': 'President Ferdinand Marcos Jr. congratulated new Indonesian President
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T17:03:41.000+08:00
+    imagesource: 'bc18c099-cd42-4eab-8d31-8b3260e27f40'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9a495fcc-9122-47df-85da-88e4df4c8e3f'
+    lead: 'President Ferdinand Marcos Jr. congratulated new Indonesian President
       Prabowo Subianto and Vice President Gibran Rakabuming Raka who were inaugurated
       in Jakarta.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T17:06:27.093+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:03.616+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.752+08:00
-    'mgnl:lastModified': 2024-10-20T17:06:27.192+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Marcos congratulates new Indonesian president, vice president'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ba70371-109e-4254-9bcc-37b247f394a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.184+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.618+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.189+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
+    activationstatus: true
+    created: 2024-10-20T17:06:27.093+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:03.616+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.752+08:00
+    lastmodified: 2024-10-20T17:06:27.192+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Marcos congratulates new Indonesian president, vice president'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6ba70371-109e-4254-9bcc-37b247f394a5'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.184+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.618+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.189+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
         Marcos Jr. congratulated the new top leaders of Indonesia on Sunday, Oct.
         20.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14145716-2fe0-4636-9e0f-f48ba033a331'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.184+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.619+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.184+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Indonesian President Prabowo Subianto and Vice President Gibran Rakabuming
+    section1:
+      primarytype: 'block'
+      uuid: '14145716-2fe0-4636-9e0f-f48ba033a331'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.184+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.619+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.184+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Indonesian President Prabowo Subianto and Vice President Gibran Rakabuming
         Raka were inaugurated in Jakarta.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f5f58a2-35a8-40de-bddf-4d5df6aee8e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.184+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.619+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.184+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“As a fellow founding member of the 𝘈𝘚𝘌𝘈𝘕 (Association of Southeast
-        Asian Nations), 𝘐𝘯𝘥𝘰𝘯𝘦𝘴𝘪𝘢 is one of the 𝘗𝘩𝘪𝘭𝘪𝘱𝘱𝘪𝘯𝘦𝘴''
+    section2:
+      primarytype: 'block'
+      uuid: '9f5f58a2-35a8-40de-bddf-4d5df6aee8e7'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.184+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.619+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.184+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“As a fellow founding member of the 𝘈𝘚𝘌𝘈𝘕 (Association of Southeast
+        Asian Nations), 𝘐𝘯𝘥𝘰𝘯𝘦𝘴𝘪𝘢 is one of the 𝘗𝘩𝘪𝘭𝘪𝘱𝘱𝘪𝘯𝘦𝘴'
         long standing partners and closest friends in the region,” Marcos said in
         an Instagram post.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a0d5119-0905-479c-9ee3-69ff99e4b517'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.185+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.185+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“I reaffirm our nation’s desire to further strengthen our bilateral
+    section3:
+      primarytype: 'block'
+      uuid: '7a0d5119-0905-479c-9ee3-69ff99e4b517'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.185+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.185+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“I reaffirm our nation’s desire to further strengthen our bilateral
         ties with Indonesia on this momentous occasion and in lieu of our diplomatic
         relations’ 75th anniversary in November,” he added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de92b4ea-1d60-450f-905d-88a1bdfa5808'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.185+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.185+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Marcos and First Lady Liza Araneta-Marcos <a href="https://www.newswatchplus.ph/news/2024/10/19/marcos-indonesia-prabowo-inauguration.html">flew
+    section4:
+      primarytype: 'block'
+      uuid: 'de92b4ea-1d60-450f-905d-88a1bdfa5808'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.185+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.185+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Marcos and First Lady Liza Araneta-Marcos <a href="https://www.newswatchplus.ph/news/2024/10/19/marcos-indonesia-prabowo-inauguration.html">flew
         to Jakarta</a> on Saturday for the inauguration. They were invited by former
         President Joko Widodo.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36df0838-3cd7-405f-946b-cb4a194e3248'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:06:27.186+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.621+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:06:27.186+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Last month, Prabowo visited the Philippines on his Southeast Asian
+    section5:
+      primarytype: 'block'
+      uuid: '36df0838-3cd7-405f-946b-cb4a194e3248'
+      activationstatus: true
+      created: 2024-10-20T17:06:27.186+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.621+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:06:27.186+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Last month, Prabowo visited the Philippines on his Southeast Asian
         tour.</p>'
-  'charo-santos-reservist':
-    'caption': 'Actress Charo Santos-Concio graduates from the Philippine Air Force
+  'START HERE----->charo-santos-reservist':
+    caption: 'Actress Charo Santos-Concio graduates from the Philippine Air Force
       Reservist Training on Oct. 19. (Charo Santos-Concio/Instagram)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T17:34:49.000+08:00
-    'imagesource': 'jcr:8632b390-ed83-42ab-b6e1-8f76717d773a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '2e110563-e000-4e3f-8578-d7a545372e6f'
-    'lead': 'Seasoned actress Charo Santos-Concio is now a reservist of the Philippine
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T17:34:49.000+08:00
+    imagesource: '8632b390-ed83-42ab-b6e1-8f76717d773a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '2e110563-e000-4e3f-8578-d7a545372e6f'
+    lead: 'Seasoned actress Charo Santos-Concio is now a reservist of the Philippine
       Air Force.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T17:36:30.734+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:03.313+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.865+08:00
-    'mgnl:lastModified': 2024-10-20T17:36:30.755+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Charo Santos-Concio now Air Force reservist'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '54633c83-d108-47dc-a2e6-45e31738790b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.746+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.315+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.746+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Seasoned actress Charo
+    activationstatus: true
+    created: 2024-10-20T17:36:30.734+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:03.313+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.865+08:00
+    lastmodified: 2024-10-20T17:36:30.755+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Charo Santos-Concio now Air Force reservist'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '54633c83-d108-47dc-a2e6-45e31738790b'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.746+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.315+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.746+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Seasoned actress Charo
         Santos-Concio is now a reservist of the Philippine Air Force (PAF).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '250f5402-be89-4f41-a416-5d17e8761bc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.747+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.316+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.747+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an Instagram post on Saturday, Oct. 19, Concio shared her new milestone
+    section1:
+      primarytype: 'block'
+      uuid: '250f5402-be89-4f41-a416-5d17e8761bc1'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.747+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.316+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.747+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In an Instagram post on Saturday, Oct. 19, Concio shared her new milestone
         – graduating from the “challenging” yet “rewarding” PAF Reservist Training.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0e1a2f5-e5db-44e1-a6bf-342062f44817'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.747+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.316+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.747+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“It’s never too late to start something new, to challenge yourself,
+    section2:
+      primarytype: 'block'
+      uuid: 'c0e1a2f5-e5db-44e1-a6bf-342062f44817'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.747+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.316+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.747+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“It’s never too late to start something new, to challenge yourself,
         and to keep on growing,” Concio wrote. “There were moments when I doubted
         myself, wondering if I could meet the demands, but I embraced every challenge,
         pushed forward, and found joy in each step of the process.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b15b463-ed33-4624-97a0-61be29411507'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.747+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.317+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.747+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Concio told her followers that “growth is always possible.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ece94904-0f81-4910-b17d-43c811e603c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.748+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.318+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.748+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Through this experience, I have discovered a deeper sense of purpose
+    section3:
+      primarytype: 'block'
+      uuid: '8b15b463-ed33-4624-97a0-61be29411507'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.747+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.317+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.747+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Concio told her followers that “growth is always possible.”'
+    section4:
+      primarytype: 'block'
+      uuid: 'ece94904-0f81-4910-b17d-43c811e603c8'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.748+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.318+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.748+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Through this experience, I have discovered a deeper sense of purpose
         and a renewed love for our country. Spending these past few weeks alongside
         my fellow reservists has been an honor, and I hope my story encourages you
         to pursue your passions, face your fears, and keep moving forward,” she added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7045140-179d-4164-b0dd-4ffecc193589'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.748+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.318+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.748+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a separate Instagram post, the former Maalaala Mo Kaya host said
+    section5:
+      primarytype: 'block'
+      uuid: 'a7045140-179d-4164-b0dd-4ffecc193589'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.748+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.318+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.748+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In a separate Instagram post, the former Maalaala Mo Kaya host said
         she is proud to wear both combat boots and pearls.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e3948e41-a448-478f-a704-afb0dbefa42b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.748+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.319+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.748+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The PAF Reservist Training allows an individual to get knowledge on
+    section6:
+      primarytype: 'block'
+      uuid: 'e3948e41-a448-478f-a704-afb0dbefa42b'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.748+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.319+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.748+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The PAF Reservist Training allows an individual to get knowledge on
         basic military and skills.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e71fbc11-ab12-4125-92d2-8319baa2de6a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T17:36:30.749+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:03.319+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T17:36:30.749+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The PAF Reserve Force is the “base for expansion” in times of war,
+    section7:
+      primarytype: 'block'
+      uuid: 'e71fbc11-ab12-4125-92d2-8319baa2de6a'
+      activationstatus: true
+      created: 2024-10-20T17:36:30.749+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:03.319+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T17:36:30.749+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The PAF Reserve Force is the “base for expansion” in times of war,
         invasion, rebellion, disasters, or calamities. They may also be tapped to
         assist in the government’s socio-economic development efforts.</p>'
-  'oct-21-weather-forecast':
-    'caption': 'A screenshot of state weather bureau PAGASA’s satellite image as of
+  'START HERE----->oct-21-weather-forecast':
+    caption: 'A screenshot of state weather bureau PAGASA’s satellite image as of
       2 p.m.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-10-20T18:07:19.000+08:00
-    'imagesource': 'jcr:67aac0ca-53c9-4849-a424-dab844bef3f7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '568a18f7-4def-40ad-84eb-e689c7d12f39'
-    'lead': 'The trough of a low pressure area will pour rains across the country
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-10-20T18:07:19.000+08:00
+    imagesource: '67aac0ca-53c9-4849-a424-dab844bef3f7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '568a18f7-4def-40ad-84eb-e689c7d12f39'
+    lead: 'The trough of a low pressure area will pour rains across the country
       on Monday, according to the state weather bureau. Defense Secretary Gibo Teodoro
       advised the public to prepare early ahead of the potential cyclone’s onslaught.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-10-20T18:12:24.024+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T14:10:02.780+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:44:42.991+08:00
-    'mgnl:lastModified': 2024-10-20T18:12:24.046+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LPA trough to pour rains over PH on Monday – PAGASA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5801615b-9db9-4b5d-b283-25ea9f9ab264'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.036+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.782+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.036+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The trough of a low
+    activationstatus: true
+    created: 2024-10-20T18:12:24.024+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T14:10:02.780+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:44:42.991+08:00
+    lastmodified: 2024-10-20T18:12:24.046+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LPA trough to pour rains over PH on Monday – PAGASA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5801615b-9db9-4b5d-b283-25ea9f9ab264'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.036+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.782+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.036+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The trough of a low
         pressure area (LPA) will pour rains across the country on Monday, according
         to the Philippine Atmospheric, Geophysical and Astronomical Services Administration
         (PAGASA).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '859d342d-9915-4e05-a343-1c17ad6ab2dc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.036+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.783+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.036+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Based on PAGASA’s 24-hour forecast released Sunday, 4 p.m., the LPA’s
+    section1:
+      primarytype: 'block'
+      uuid: '859d342d-9915-4e05-a343-1c17ad6ab2dc'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.036+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.783+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.036+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Based on PAGASA’s 24-hour forecast released Sunday, 4 p.m., the LPA’s
         trough will bring overcast skies with scattered rains and thunderstorms over
         Zamboanga Peninsula, Bangsamoro Autonomous Region in Muslim Mindanao, Soccsksargen,
         Bicol Region, Northern Samar, Palawan, Aurora, and Quezon.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e7142b1-52a2-491f-846f-e0638e79b2a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.037+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.784+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.037+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The rest of the archipelago will have partly cloudy to cloudy skies
+    section2:
+      primarytype: 'block'
+      uuid: '1e7142b1-52a2-491f-846f-e0638e79b2a4'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.037+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.784+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.037+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The rest of the archipelago will have partly cloudy to cloudy skies
         with isolated rain showers or thunderstorms.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82859859-cd88-4f70-a0a2-2bbeed59ca7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.037+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.784+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.037+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'PAGASA warned against potential flash floods or landslides.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85c3b39d-7ab2-4606-8263-1cf3338b0a30'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.037+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.785+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.037+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'As of 3 p.m., the LPA was spotted 1,450 kilometers east of southeastern
+    section3:
+      primarytype: 'block'
+      uuid: '82859859-cd88-4f70-a0a2-2bbeed59ca7f'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.037+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.784+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.037+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'PAGASA warned against potential flash floods or landslides.'
+    section4:
+      primarytype: 'block'
+      uuid: '85c3b39d-7ab2-4606-8263-1cf3338b0a30'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.037+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.785+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.037+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'As of 3 p.m., the LPA was spotted 1,450 kilometers east of southeastern
         Luzon, still outside the country’s monitoring zone.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44ca460c-2b30-4308-a87c-3164da7afdb9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.038+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.786+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.038+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>It may intensify into a tropical cyclone and enter the Philippine
+    section5:
+      primarytype: 'block'
+      uuid: '44ca460c-2b30-4308-a87c-3164da7afdb9'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.038+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.786+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.038+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>It may intensify into a tropical cyclone and enter the Philippine
         Area of Responsibility by Sunday evening or Monday. Once inside the monitoring
         area, it will have the local name “Kristine.”</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59cf3853-6ff6-4707-bdab-fb8ebbd23552'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.038+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.786+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.038+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, Defense Secretary Gibo Teodoro advised the public to
+    section6:
+      primarytype: 'block'
+      uuid: '59cf3853-6ff6-4707-bdab-fb8ebbd23552'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.038+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.786+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.038+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, Defense Secretary Gibo Teodoro advised the public to
         prepare early ahead of the cyclone’s onslaught.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d28a42c-61bb-42bc-b87f-e35696dfd935'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.038+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.787+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.038+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He also called on the Office of Civil Defense’s regional units to
+    section7:
+      primarytype: 'block'
+      uuid: '8d28a42c-61bb-42bc-b87f-e35696dfd935'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.038+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.787+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.038+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>He also called on the Office of Civil Defense’s regional units to
         roll out measures such as coordinating with local authorities for information
         dissemination and preparing evacuation plans</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '846c1e75-6b71-4d01-b103-3f46f36fe4de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-10-20T18:12:24.039+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T14:10:02.787+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-10-20T18:12:24.039+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Let us engage in proactive planning and stay informed with relevant
+    section8:
+      primarytype: 'block'
+      uuid: '846c1e75-6b71-4d01-b103-3f46f36fe4de'
+      activationstatus: true
+      created: 2024-10-20T18:12:24.039+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T14:10:02.787+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-10-20T18:12:24.039+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Let us engage in proactive planning and stay informed with relevant
         updates to ensure we are adequately prepared. We are collaborating closely
         with all concerned agencies to establish a comprehensive and cohesive action
         plan,” Teodoro said in a statement.</p>'

@@ -1,1834 +1,1834 @@
-'10':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'b20b4392-8e48-455e-a501-e7388955f8b0'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-10T10:06:50.537+08:00
-  'mgnl:createdBy': 'daniza-nwp'
-  'mgnl:lastActivated': 2024-07-12T14:32:15.684+08:00
-  'mgnl:lastActivatedBy': 'magnolia-ben'
-  'mgnl:lastModified': 2024-07-10T20:02:17.284+08:00
-  'mgnl:lastModifiedBy': 'michia-nwp'
-  'health-emergency-allowance-cautiously-welcomed':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-05T10:06:50.000+08:00
-    'imagesource': 'jcr:0eda6abf-09ec-467c-a008-b3cf48273cc4'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1ccc4a63-7510-4e6a-a3e3-9d7b92f9b717'
-    'lead': 'A health worker group cautiously welcomed on Friday, July 5, the government’s
+section10:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'b20b4392-8e48-455e-a501-e7388955f8b0'
+  activationstatus: true
+  created: 2024-07-10T10:06:50.537+08:00
+  createdby: 'daniza-nwp'
+  lastactivated: 2024-07-12T14:32:15.684+08:00
+  lastactivatedby: 'magnolia-ben'
+  lastmodified: 2024-07-10T20:02:17.284+08:00
+  lastmodifiedby: 'michia-nwp'
+  'START HERE----->health-emergency-allowance-cautiously-welcomed':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-05T10:06:50.000+08:00
+    imagesource: '0eda6abf-09ec-467c-a008-b3cf48273cc4'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '1ccc4a63-7510-4e6a-a3e3-9d7b92f9b717'
+    lead: 'A health worker group cautiously welcomed on Friday, July 5, the government’s
       release of unsettled arrears to compensate for their services at the height
       of the COVID-19 pandemic.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T10:09:10.290+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:17.998+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': ['health-workers', 'health-emergency-allowance']
-    'stories': []
-    'template': '1'
-    'title': 'Health worker group cautiously welcomes unsettled pandemic allowance'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25ab556d-2a03-47da-9d4c-10f5bc42e838'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.299+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.999+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> A health worker group
+    activationstatus: true
+    created: 2024-07-10T10:09:10.290+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2024-07-12T14:32:17.998+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-11T15:27:20.046+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Health worker group cautiously welcomes unsettled pandemic allowance'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '25ab556d-2a03-47da-9d4c-10f5bc42e838'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.299+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:17.999+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> A health worker group
         cautiously welcomed on Friday, July 5, the government’s release of unsettled
         arrears to compensate for their services at the height of the COVID-19 pandemic.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd915c3f9-c5ca-426c-b55e-a6bcbbb3d8e2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.299+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.999+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ronald Ignacio, United Private Hospitals Unions of the Philippines
+    section1:
+      primarytype: 'block'
+      uuid: 'd915c3f9-c5ca-426c-b55e-a6bcbbb3d8e2'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.299+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:17.999+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Ronald Ignacio, United Private Hospitals Unions of the Philippines
         spokesperson and a private hospital nurse, said health workers deserve to
         receive unpaid benefits that would help in their expenses.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9850be5d-0847-44fa-b456-15fe61aefb99'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.300+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.999+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“We always welcome the money that came from sa pinagpawisan namin [our
+    section2:
+      primarytype: 'block'
+      uuid: '9850be5d-0847-44fa-b456-15fe61aefb99'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.300+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:17.999+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“We always welcome the money that came from sa pinagpawisan namin [our
         hardships] during the pandemic,” Ignacio told Newswatch Plus.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '113bf82a-92ac-4373-a415-2b58fbf6c0b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.300+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.000+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said the government still owes him P9,000 for working during the
+    section3:
+      primarytype: 'block'
+      uuid: '113bf82a-92ac-4373-a415-2b58fbf6c0b8'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.300+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.000+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He said the government still owes him P9,000 for working during the
         pandemic, adding that other health workers even have higher claims. Ignacio
         himself was a COVID-19 patient in 2020.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '942133e2-c404-41a0-93c7-2688bddb0aa0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.301+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.000+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He noted, however, the timing of the release ahead of President Bongbong
+    section4:
+      primarytype: 'block'
+      uuid: '942133e2-c404-41a0-93c7-2688bddb0aa0'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.301+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.000+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He noted, however, the timing of the release ahead of President Bongbong
         Marcos’s third State of the Nation Address (SONA).'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa738ccc-3334-4087-a63a-c5b2a8606c27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.301+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.001+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Meron po kaming reservations about that du''n sa pagre-release nga
+    section5:
+      primarytype: 'block'
+      uuid: 'fa738ccc-3334-4087-a63a-c5b2a8606c27'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.301+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.001+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Meron po kaming reservations about that du'n sa pagre-release nga
         po baka lip service na naman po ito coming from these government agencies
-        as well as in preparation nga po du''n sa SONA para ma-i-report ng pangulo
+        as well as in preparation nga po du'n sa SONA para ma-i-report ng pangulo
         sa kanyang SONA na gaganapin sa July 22,” he said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76c4ee2c-bdaa-4475-9929-5587a59acbed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.301+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.001+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: We have reservations in the release as it may be another
+    section6:
+      primarytype: 'block'
+      uuid: '76c4ee2c-bdaa-4475-9929-5587a59acbed'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.301+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.001+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: We have reservations in the release as it may be another
         lip service from government agencies as well as preparations for the SONA.
         So, the president has something to report in his SONA on July 22.]'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ac370f2-c6e4-4397-9db5-43018fd9a5ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.302+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.002+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>‘Promise fulfilled’</strong></p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf3e0ec9-3896-460f-ac3b-ad43bd98b96b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.302+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.002+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Department of Budget and Management has released P27 billion to
+    section7:
+      primarytype: 'block'
+      uuid: '0ac370f2-c6e4-4397-9db5-43018fd9a5ae'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.302+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.002+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>‘Promise fulfilled’</strong></p>'
+    section8:
+      primarytype: 'block'
+      uuid: 'bf3e0ec9-3896-460f-ac3b-ad43bd98b96b'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.302+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.002+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Department of Budget and Management has released P27 billion to
         settle all unpaid health emergency allowance (HEA) of health care professionals
         during the COVID-19 pandemic.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd3a797a-0bfb-4f2a-8471-3ef93da39c38'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.302+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.002+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Department of Health (DOH) initially proposed the amount to be
+    section9:
+      primarytype: 'block'
+      uuid: 'dd3a797a-0bfb-4f2a-8471-3ef93da39c38'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.302+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.002+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Department of Health (DOH) initially proposed the amount to be
         included in its 2025 budget.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4c89312-457a-48b2-9f97-d8b581b52c52'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.303+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.003+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“This is a promise fulfilled. Kahit sa 2025 pa ito hinihiling ng DOH,
+    section10:
+      primarytype: 'block'
+      uuid: 'f4c89312-457a-48b2-9f97-d8b581b52c52'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.303+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.003+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“This is a promise fulfilled. Kahit sa 2025 pa ito hinihiling ng DOH,
         sinikap po ng DBM na mas maaga itong tuparin, dahil deserve po ito ng ating
         mga manggagawa sa health sector," Budget Secretary Amenah Pangandaman said
         in a statement.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6972bbe8-9fba-48a3-81a6-d0da04d93da1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.303+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.003+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Although the DOH asked for the amount for 2025, the DBM
+    section11:
+      primarytype: 'block'
+      uuid: '6972bbe8-9fba-48a3-81a6-d0da04d93da1'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.303+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.003+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: Although the DOH asked for the amount for 2025, the DBM
         aimed to fulfill it immediately because our workers in the health sector deserve
         it.]'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ed11fdd-d017-45e7-8c62-53dbe7ad1ad8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.304+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.003+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The DOH assured health workers that it would allocate the budget to
+    section12:
+      primarytype: 'block'
+      uuid: '5ed11fdd-d017-45e7-8c62-53dbe7ad1ad8'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.304+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.003+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The DOH assured health workers that it would allocate the budget to
         their centers for health development (CHD) right away, once the DBM has transferred
         the money to them.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd75dd8c7-bf98-4b4e-a6eb-05be48acea14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.304+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.004+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“The CHD will then facilitate the disbursement of HEA to the local
+    section13:
+      primarytype: 'block'
+      uuid: 'd75dd8c7-bf98-4b4e-a6eb-05be48acea14'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.304+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.004+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“The CHD will then facilitate the disbursement of HEA to the local
         government units and Private Health Facilities under their jurisdiction, subject
         to requirements such as liquidations from previous fund transfers and memorandum
         of agreement. The LGUs (local government units) and private hospitals will
         be in charge of finally giving the cash payment to the health workers,” DOH
         spokesperson Albert Domingo explained.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '743acb8c-4022-4f0f-8884-f59ec9bf2ecd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.304+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.004+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>‘Unfulfilled’ pledge</strong></p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a24f3775-c30f-4172-a3b3-0cbaed4ce3f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.305+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.005+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ignacio said he hopes the unpaid claims would be fully settled so that
+    section14:
+      primarytype: 'block'
+      uuid: '743acb8c-4022-4f0f-8884-f59ec9bf2ecd'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.304+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.004+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>‘Unfulfilled’ pledge</strong></p>'
+    section15:
+      primarytype: 'block'
+      uuid: 'a24f3775-c30f-4172-a3b3-0cbaed4ce3f3'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.305+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.005+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Ignacio said he hopes the unpaid claims would be fully settled so that
         workers can focus on other pending issues.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6281deaf-daf8-4f19-8d89-7aae4282410a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.305+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.005+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said health workers are counting on the president to fulfill his
+    section16:
+      primarytype: 'block'
+      uuid: '6281deaf-daf8-4f19-8d89-7aae4282410a'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.305+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.005+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He said health workers are counting on the president to fulfill his
         campaign promises.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b3e3cea-14c5-407a-8e69-a5e6cbf023c3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.306+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.005+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Pinanghawakan po namin ''yung mga salita po ninyong ''yun na magkakaroon
+    section17:
+      primarytype: 'block'
+      uuid: '3b3e3cea-14c5-407a-8e69-a5e6cbf023c3'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.306+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.005+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Pinanghawakan po namin 'yung mga salita po ninyong 'yun na magkakaroon
         ng pagbabago sa pamumuhay, working conditions, at pasahod po ng mga nurses
         particularly. Unfortunately, Sir PBBM (initials of the president), hindi pa
-        po namin nakikitaan ng katuparan po ''yung pangakong ''yun,” Ignacio lamented.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f38a31e-5f81-4961-81c7-b28ae4d2b689'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T10:09:10.306+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:18.006+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T15:27:20.046+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: We are holding onto your words that there will be
+        po namin nakikitaan ng katuparan po 'yung pangakong 'yun,” Ignacio lamented.'
+    section18:
+      primarytype: 'block'
+      uuid: '9f38a31e-5f81-4961-81c7-b28ae4d2b689'
+      activationstatus: true
+      created: 2024-07-10T10:09:10.306+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:18.006+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T15:27:20.046+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: We are holding onto your words that there will be
         changes in our way of living, working conditions, and the salary of nurses,
         particularly. Unfortunately, we have not seen the fulfillment of that promise.]</p>'
-  'jeepney-drivers-appeal-sona-2024':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-10T17:04:20.000+08:00
-    'imagesource': 'jcr:1cea7d27-720e-4f27-a121-0a289ec6f1c7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'fec172d1-1192-4cab-8340-f392522dc4e2'
-    'lead': 'Jeepney drivers without consolidated franchises have not been allowed
+  'START HERE----->jeepney-drivers-appeal-sona-2024':
+    author: 'Lance Mejico, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-10T17:04:20.000+08:00
+    imagesource: '1cea7d27-720e-4f27-a121-0a289ec6f1c7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'fec172d1-1192-4cab-8340-f392522dc4e2'
+    lead: 'Jeepney drivers without consolidated franchises have not been allowed
       on the road since May. In separate NewsWatch Plus interviews ahead of the third
       State of the Nation Address in July, they shared a common appeal to President
       Marcos: Do not leave us behind.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T17:10:57.350+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-12T17:52:33.172+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2024-07-12T17:52:32.443+08:00
-    'mgnl:lastModified': 2024-07-12T17:52:27.392+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '2'
-    'title': '‘Don’t leave us behind’: Jeepney drivers tell Marcos ahead of SONA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8835f85-1de3-4a0e-ac67-8f8583b13490'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.387+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.173+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.369+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Ahead of President
+    activationstatus: true
+    created: 2024-07-10T17:10:57.350+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-12T17:52:33.172+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2024-07-12T17:52:32.443+08:00
+    lastmodified: 2024-07-12T17:52:27.392+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '2'
+    title: '‘Don’t leave us behind’: Jeepney drivers tell Marcos ahead of SONA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd8835f85-1de3-4a0e-ac67-8f8583b13490'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.387+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.173+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.369+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Ahead of President
         Ferdinand Marcos Jr.’s third address to the nation, some jeepney drivers voiced
         their dismay over his campaign promise that no one would be left behind.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96c444ce-0b4c-4600-adde-63f93acc5e96'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.388+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.173+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.370+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>For Lito Ajeda who has been plying the Pasig-Quiapo route since
+    section1:
+      primarytype: 'block'
+      uuid: '96c444ce-0b4c-4600-adde-63f93acc5e96'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.388+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.173+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.370+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>For Lito Ajeda who has been plying the Pasig-Quiapo route since
         1989, his only source of income is from driving the jeepney. It helped him
         pay for the education of his two children, including his youngest son in 5th
         grade.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b9f50b4-95ac-48bd-ab54-1f166fb428d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.388+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.173+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.371+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lito did not consolidate his jeepney franchise citing expensive modernization
+    section2:
+      primarytype: 'block'
+      uuid: '3b9f50b4-95ac-48bd-ab54-1f166fb428d9'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.388+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.173+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.371+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lito did not consolidate his jeepney franchise citing expensive modernization
         and what he described as an ‘unfair’ cooperative system.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a9807c8-ee10-4f20-a02b-f91ef6a96366'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.389+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.173+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.371+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The public utility vehicle modernization plan requires a fixed daily
+    section3:
+      primarytype: 'block'
+      uuid: '5a9807c8-ee10-4f20-a02b-f91ef6a96366'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.389+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.173+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.371+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The public utility vehicle modernization plan requires a fixed daily
         rate with social security benefits for drivers from their cooperative. While
         the government believes this would organize public transport, some drivers
         say they would eventually earn less.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '987845c6-dc60-44ae-bc91-0bd0227d2120'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.389+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.174+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.372+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Kaya hindi rin naman ako sumama sa consolidation na iyan, magkano
+    section4:
+      primarytype: 'block'
+      uuid: '987845c6-dc60-44ae-bc91-0bd0227d2120'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.389+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.174+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.372+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Kaya hindi rin naman ako sumama sa consolidation na iyan, magkano
         ang ibibigay mo kaagad bente mil. Tapos magkakaroon ka ng buwan-buwan diyan.
         May butaw ka na. Samantalang hindi pa ako nakakabayad sa aking inutang na
         sasakyan. Paano mangyayayari niyan?” he said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f258ae3-4e34-4fc2-860f-711d8b44d1cd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.390+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.174+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.372+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(Translation: That’s why I didn’t consolidate my franchise. You’ll
+    section5:
+      primarytype: 'block'
+      uuid: '0f258ae3-4e34-4fc2-860f-711d8b44d1cd'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.390+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.174+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.372+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(Translation: That’s why I didn’t consolidate my franchise. You’ll
         pay the cooperative by how much, 20,000. Then there would be a monthly fee.
         And I haven’t even paid the loan for my vehicle. What happens to me then?)'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f638936-613f-40dd-b983-08937d35f672'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.390+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.174+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.373+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Fifty-two-year-old Merlito Obedoza has been on the road for three decades,
+    section6:
+      primarytype: 'block'
+      uuid: '8f638936-613f-40dd-b983-08937d35f672'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.390+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.174+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.373+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Fifty-two-year-old Merlito Obedoza has been on the road for three decades,
         and he fears suffering the same fate. He said only big corporations would
         benefit from the modern system and small drivers like him would be left behind.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57d2f932-afb3-48e2-aa52-de7fb58a73a7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.391+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.174+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.374+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Kung pupunta kami sa modernization, gagawin kaming suwelduhan. Lalo
+    section7:
+      primarytype: 'block'
+      uuid: '57d2f932-afb3-48e2-aa52-de7fb58a73a7'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.391+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.174+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.374+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Kung pupunta kami sa modernization, gagawin kaming suwelduhan. Lalo
         kaming pinahirapan. Sinong kikita, sila? Iyong humahawak ng kooperatiba,”
         Merlito said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78f5052c-d49e-471b-bd4a-4c8c68480bd4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.391+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.175+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.374+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(If we join the modernization, we will be paid monthly. It will
+    section8:
+      primarytype: 'block'
+      uuid: '78f5052c-d49e-471b-bd4a-4c8c68480bd4'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.391+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.175+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.374+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>(If we join the modernization, we will be paid monthly. It will
         be too heavy for us. Who will earn? Those who manage the cooperatives.)</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95715876-caa5-440a-afba-08ddb6259e74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.391+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.175+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.375+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On the average, drivers said they earn up to P2,000 daily depending
+    section9:
+      primarytype: 'block'
+      uuid: '95715876-caa5-440a-afba-08ddb6259e74'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.391+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.175+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.375+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On the average, drivers said they earn up to P2,000 daily depending
         on the work hours. Under a cooperative or a corporation, they claim they will
         only get up to P700 per day upon reaching a quota.</p>'
-    '10':
-      'image': 'jcr:d2af8989-1ad4-491c-9d5e-25afa1ad00c3'
-      'imageAltText': 'Jeepney drivers Merlito Obedoza (left) and Lito Ajeda (right)
+    section10:
+      image: 'd2af8989-1ad4-491c-9d5e-25afa1ad00c3'
+      imageAltText: 'Jeepney drivers Merlito Obedoza (left) and Lito Ajeda (right)
         sharing their plight with NewsWatch Plus.'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08a9a66a-f9ef-4685-9812-00dfb624b2db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.392+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.175+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.375+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'image'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31989cc2-0b1b-481a-a731-bd46c6bca381'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.393+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.175+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.376+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>‘Don’t leave us behind’</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c00f3ff4-09cc-43d3-95ee-bcc1e609466f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.393+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.175+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.377+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Merlito and Lito have been banned from their routes since May as their
+      primarytype: 'block'
+      uuid: '08a9a66a-f9ef-4685-9812-00dfb624b2db'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.392+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.175+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.375+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'image'
+    section11:
+      primarytype: 'block'
+      uuid: '31989cc2-0b1b-481a-a731-bd46c6bca381'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.393+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.175+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.376+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>‘Don’t leave us behind’</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: 'c00f3ff4-09cc-43d3-95ee-bcc1e609466f'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.393+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.175+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.377+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Merlito and Lito have been banned from their routes since May as their
         unconsolidated jeepneys are now classified as illegal.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd566f26d-2d50-4f62-bfcd-d8ea866a1440'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.394+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.176+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.377+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'With their livelihood in limbo, both share an appeal to Marcos: Do
+    section13:
+      primarytype: 'block'
+      uuid: 'd566f26d-2d50-4f62-bfcd-d8ea866a1440'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.394+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.176+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.377+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'With their livelihood in limbo, both share an appeal to Marcos: Do
         not leave us behind.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a98495a7-31df-481d-a25a-6dd277df1083'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.394+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.176+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.378+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lito said he voted for Marcos in 2022, and he hoped the president would
+    section14:
+      primarytype: 'block'
+      uuid: 'a98495a7-31df-481d-a25a-6dd277df1083'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.394+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.176+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.378+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lito said he voted for Marcos in 2022, and he hoped the president would
         fulfill his promise.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfb7ef1c-12ee-4580-843a-96a81d6f4f3e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.395+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.176+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.379+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sana naman pagbigyan ng pangulo, mahipo kami. Pakinggan iyong aming
+    section15:
+      primarytype: 'block'
+      uuid: 'cfb7ef1c-12ee-4580-843a-96a81d6f4f3e'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.395+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.176+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.379+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Sana naman pagbigyan ng pangulo, mahipo kami. Pakinggan iyong aming
         mga hinaing dito. Kasi ‘di ba iyong pangulo, nagsalita iyan. Bago mag-eleksyon.
         100 percent kaming mga drivers sa kanya kami bumoto eh gawa niyan. Tapos ngayon,
         iyan ang mangyayari?” Lito said.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc0c9089-4e1d-4630-9230-381aa63a950e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.395+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.176+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.379+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(Translation: I hope the president will listen to our pleas. He spoke
+    section16:
+      primarytype: 'block'
+      uuid: 'dc0c9089-4e1d-4630-9230-381aa63a950e'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.395+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.176+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.379+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(Translation: I hope the president will listen to our pleas. He spoke
         about this before the 2022 elections. One hundred percent of us drivers voted
         for him. But now, this is what’s happening?)'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5cacbed9-a365-413a-aab6-77cc223f30d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.396+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.176+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.380+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ang panawagan kay Pangulong Marcos, huwag mo naman kaming iwanan na
+    section17:
+      primarytype: 'block'
+      uuid: '5cacbed9-a365-413a-aab6-77cc223f30d3'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.396+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.176+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.380+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Ang panawagan kay Pangulong Marcos, huwag mo naman kaming iwanan na
         maliliit. ‘Di ba sinabi niya noon iyan. Walang maiiwan. Bakit ngayon parang
         kaming gustong alisan ng hanapbuhay?” said Merlito.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7eb2e496-9c52-411a-bfa1-8bd76c06347d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.396+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.177+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.381+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(Translation: My appeal to President Marcos, don’t leave the small
+    section18:
+      primarytype: 'block'
+      uuid: '7eb2e496-9c52-411a-bfa1-8bd76c06347d'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.396+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.177+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.381+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(Translation: My appeal to President Marcos, don’t leave the small
         drivers behind. He said it before, right? That no one will be left behind.
         Why does it look like he’s denying us our livelihood?)'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c631e76d-32f3-441b-b3c5-3c50e3cbb075'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.397+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.177+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.381+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In March 2023, Marcos vowed to review the modernization plan, saying
+    section19:
+      primarytype: 'block'
+      uuid: 'c631e76d-32f3-441b-b3c5-3c50e3cbb075'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.397+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.177+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.381+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In March 2023, Marcos vowed to review the modernization plan, saying
         he wanted to make sure no one becomes jobless because of the policy.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '703de4a9-be81-4b51-834b-90310f6755fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.397+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.177+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.382+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president extended the consolidation deadline twice. In April 2024,
+    section20:
+      primarytype: 'block'
+      uuid: '703de4a9-be81-4b51-834b-90310f6755fe'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.397+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.177+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.382+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The president extended the consolidation deadline twice. In April 2024,
         Marcos put his foot down - no more extension.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '39e3f8d8-5cad-4837-b43a-1fa02c41b039'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.398+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.177+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.382+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Where to go now?</strong></h2>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c2b042b-c4f0-4085-9f36-60aa541c21e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.399+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.178+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.383+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Lito and Merlito seemed resigned to their fate with the transport
+    section21:
+      primarytype: 'block'
+      uuid: '39e3f8d8-5cad-4837-b43a-1fa02c41b039'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.398+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.177+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.382+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Where to go now?</strong></h2>'
+    section22:
+      primarytype: 'block'
+      uuid: '6c2b042b-c4f0-4085-9f36-60aa541c21e6'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.399+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.178+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.383+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Lito and Merlito seemed resigned to their fate with the transport
         modernization facing them.</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3161a22c-a5ca-4145-91f2-1fd96af6549f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.399+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.178+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.384+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ang plano ko ay wala akong plano. Mawawala talaga ang hanapbuhay namin
+    section23:
+      primarytype: 'block'
+      uuid: '3161a22c-a5ca-4145-91f2-1fd96af6549f'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.399+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.178+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.384+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Ang plano ko ay wala akong plano. Mawawala talaga ang hanapbuhay namin
         kung hindi nila mababago iyan, kung hindi maibibigay ng pangulo iyong aming
         hinihingi na ibalik sa’min yung aming prangkisa,” he told NewsWatch Plus.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '699c4066-2b00-41d5-ac5a-2d028e350874'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.400+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.178+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.384+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(Translation: I have no plan. I’d really lose my livelihood if the
+    section24:
+      primarytype: 'block'
+      uuid: '699c4066-2b00-41d5-ac5a-2d028e350874'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.400+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.178+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.384+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(Translation: I have no plan. I’d really lose my livelihood if the
         policy remains unchanged, and if the president won’t be able to return our
         franchises.) '
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0edadfc0-8a4a-456f-9635-70a8e62eaa18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.400+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.178+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.385+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'While government-sponsored livelihood programs are available for unconsolidated
+    section25:
+      primarytype: 'block'
+      uuid: '0edadfc0-8a4a-456f-9635-70a8e62eaa18'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.400+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.178+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.385+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'While government-sponsored livelihood programs are available for unconsolidated
         drivers, the elderly like Lito worry their age can no longer take these jobs.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e600e15f-6690-4855-a338-5cff022d083d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.401+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.178+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.386+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Nagsubok nga ako mag-construction, hindi ko kaya…kasi hindi na kaya
+    section26:
+      primarytype: 'block'
+      uuid: 'e600e15f-6690-4855-a338-5cff022d083d'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.401+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.178+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.386+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Nagsubok nga ako mag-construction, hindi ko kaya…kasi hindi na kaya
         ng katawan. Ilang taon na, 54 na ako,” he said.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '68680751-6a8c-4e31-848e-9ec312a33760'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.402+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.179+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.386+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(I once tried construction work but I couldn''t do it. My body couldn’t
+    section27:
+      primarytype: 'block'
+      uuid: '68680751-6a8c-4e31-848e-9ec312a33760'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.402+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.179+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.386+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(I once tried construction work but I couldn't do it. My body couldn’t
         take it anymore. I’m already 54.)'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22271116-0a9a-4676-a6ca-4abdefd85cc8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.402+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.179+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.387+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Department of Transportation (DOTr) said PUV drivers may avail
+    section28:
+      primarytype: 'block'
+      uuid: '22271116-0a9a-4676-a6ca-4abdefd85cc8'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.402+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.179+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.387+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Department of Transportation (DOTr) said PUV drivers may avail
         of skills and entrepreneurship training offered by government agencies for
         alternative income sources.'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c1dadf7-fe1c-4371-9c88-2e6f48fc9f7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.403+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.179+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.387+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'For Merlito, he plans to use his unit for other means to earn.'
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '419eb129-a7c7-4ae4-aa0d-1b8db01c590d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.403+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.179+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.388+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Panghakot na lang siguro ng gulay sa probinsya. Iyon na lang ang naisip
+    section29:
+      primarytype: 'block'
+      uuid: '2c1dadf7-fe1c-4371-9c88-2e6f48fc9f7d'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.403+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.179+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.387+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'For Merlito, he plans to use his unit for other means to earn.'
+    section30:
+      primarytype: 'block'
+      uuid: '419eb129-a7c7-4ae4-aa0d-1b8db01c590d'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.403+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.179+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.388+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Panghakot na lang siguro ng gulay sa probinsya. Iyon na lang ang naisip
         kong paraan,” he told NewsWatch Plus.'
-    '31':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0bc0ac6c-2529-4faf-a565-483c3eacba5e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.404+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.179+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.389+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '(I’ll just use it to transport vegetables in the province. That’s the
+    section31:
+      primarytype: 'block'
+      uuid: '0bc0ac6c-2529-4faf-a565-483c3eacba5e'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.404+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.179+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.389+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '(I’ll just use it to transport vegetables in the province. That’s the
         only way I can think of now.)'
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e4eb970-51fc-4d02-84dd-1b1547624c09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.405+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.180+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.389+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>End of the road?</strong></h2>'
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89c0f104-38a2-4c03-94ac-edfe3969dff0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.406+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.180+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.390+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>While it seems the road ends for unconsolidated drivers, some cling
+    section32:
+      primarytype: 'block'
+      uuid: '7e4eb970-51fc-4d02-84dd-1b1547624c09'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.405+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.180+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.389+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>End of the road?</strong></h2>'
+    section33:
+      primarytype: 'block'
+      uuid: '89c0f104-38a2-4c03-94ac-edfe3969dff0'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.406+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.180+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.390+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>While it seems the road ends for unconsolidated drivers, some cling
         on to their one last lifeline: a temporary restraining order from the Supreme
         Court on the modernization program.</p>'
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81d3ccf5-993e-4be6-908f-ec8574c629bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.406+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.180+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.390+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On May 14, the Supreme Court ordered the DoTR and the Land Transportation
+    section34:
+      primarytype: 'block'
+      uuid: '81d3ccf5-993e-4be6-908f-ec8574c629bf'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.406+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.180+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.390+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On May 14, the Supreme Court ordered the DoTR and the Land Transportation
         and Franchising Regulatory Board to respond to the petition of some transport
         groups, seeking a stay order on PUV modernization.</p>'
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b0234795-e4e9-439e-b67d-224ae174ecd3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:10:57.407+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-12T17:52:33.180+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-12T17:52:27.391+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two agencies earlier asked the SC to dismiss the first petition
+    section35:
+      primarytype: 'block'
+      uuid: 'b0234795-e4e9-439e-b67d-224ae174ecd3'
+      activationstatus: true
+      created: 2024-07-10T17:10:57.407+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-12T17:52:33.180+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-12T17:52:27.391+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The two agencies earlier asked the SC to dismiss the first petition
         filed in December for lack of merit.'
-  'supreme-court-govt-comment-eo-62':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-10T17:39:39.000+08:00
-    'imagesource': 'jcr:2f235844-ceb7-4cd1-b526-5ec5952597a3'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8810a3bb-d813-4216-8355-46094e4f975a'
-    'lead': 'The Supreme Court has required President Marcos and other government
+  'START HERE----->supreme-court-govt-comment-eo-62':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-10T17:39:39.000+08:00
+    imagesource: '2f235844-ceb7-4cd1-b526-5ec5952597a3'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8810a3bb-d813-4216-8355-46094e4f975a'
+    lead: 'The Supreme Court has required President Marcos and other government
       officials to comment on the petition challenging the constitutionality of an
       executive order that reduced rice tariff from 35% to 15%.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T17:45:14.803+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:17.122+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-10T17:45:14.980+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['rice-importation', 'EO-62', 'Supreme-Court', 'Ferdinand-Marcos-Jr.','SINAG']
-    'stories': []
-    'template': '1'
-    'title': 'SC tells Marcos to comment on rice tariff EO petition'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b1b2c99-ad62-47fe-b8c2-34bcefea4e57'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.967+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.123+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.975+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The Supreme Court ordered
+    activationstatus: true
+    created: 2024-07-10T17:45:14.803+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-12T14:32:17.122+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-10T17:45:14.980+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'SC tells Marcos to comment on rice tariff EO petition'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3b1b2c99-ad62-47fe-b8c2-34bcefea4e57'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.967+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.123+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.975+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The Supreme Court ordered
         President Ferdinand Marcos Jr. and other government officials to comment on
         the petition challenging the constitutionality of Executive Order (EO) 62,
         which reduced rice tariff from 35% to 15%.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '783108e1-f47a-4b00-abce-b20209f50c89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.968+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.123+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.968+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a press briefer on Wednesday, July 10, the SC said it required Marcos,\
+    section1:
+      primarytype: 'block'
+      uuid: '783108e1-f47a-4b00-abce-b20209f50c89'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.968+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.123+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.968+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a press briefer on Wednesday, July 10, the SC said it required Marcos,\
         \ Executive Secretary Lucas Bersamin, National Economic and Development Authority\
         \ Secretary Arsenio Balisacan, and Tariff Commission Chairperson Marilou Mendoza\
         \ to file the comments within 10 days. \r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e71c04af-4051-4552-bad0-15297032c339'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.968+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.124+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.968+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The court did not act on the petition to issue a temporary restraining\
+    section2:
+      primarytype: 'block'
+      uuid: 'e71c04af-4051-4552-bad0-15297032c339'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.968+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.124+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.968+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The court did not act on the petition to issue a temporary restraining\
         \ order (TRO) on EO 62 sought by Samahang Industriya ng Agrikultura and other\
         \ agricultural groups.  \r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17a565c5-5926-45cc-90ef-7150dab47fa6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.969+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.124+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.969+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The petitioners also asked the SC to declare the EO null, void and\
+    section3:
+      primarytype: 'block'
+      uuid: '17a565c5-5926-45cc-90ef-7150dab47fa6'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.969+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.124+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.969+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The petitioners also asked the SC to declare the EO null, void and\
         \ unconstitutional. \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c0b2c2b-36ee-4cf4-a7e5-d83de80b5202'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.969+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.124+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.969+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "They said, “none of the mandated consultation[s]/hearings/investigations\
+    section4:
+      primarytype: 'block'
+      uuid: '0c0b2c2b-36ee-4cf4-a7e5-d83de80b5202'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.969+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.124+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.969+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "They said, “none of the mandated consultation[s]/hearings/investigations\
         \ were ever held specifically for the purpose of further lowering the tariff\
         \ of rice and other agricultural produce.” \r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e220e549-377a-450a-856c-a845756493a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.969+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.125+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.969+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "EO 62 “violates the state policy to develop a self-reliant and independent\
+    section5:
+      primarytype: 'block'
+      uuid: 'e220e549-377a-450a-856c-a845756493a4'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.969+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.125+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.969+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "EO 62 “violates the state policy to develop a self-reliant and independent\
         \ national economy effectively controlled by Filipinos and it violates the\
         \ constitutional mandate to protect our farmers from unfair competition and\
         \ trade practices,” the petitioners said. \r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08e558f3-4224-4804-b56b-265a0dc8fd85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.970+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.125+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.970+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The rice tariff cut took effect on <a href="https://pco.gov.ph/news_releases/pbbms-eo-62-on-tariff-reduction-to-lower-rice-prices-by-p6-00-p7-00-da/">July
+    section6:
+      primarytype: 'block'
+      uuid: '08e558f3-4224-4804-b56b-265a0dc8fd85'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.970+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.125+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.970+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The rice tariff cut took effect on <a href="https://pco.gov.ph/news_releases/pbbms-eo-62-on-tariff-reduction-to-lower-rice-prices-by-p6-00-p7-00-da/">July
         6</a>.&nbsp;</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '237bcc5c-918a-406b-bf66-e4664e9df519'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.970+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.125+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.970+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Agriculture spokesperson Arnel de Mesa earlier told reporters that
+    section7:
+      primarytype: 'block'
+      uuid: '237bcc5c-918a-406b-bf66-e4664e9df519'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.970+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.125+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.970+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Agriculture spokesperson Arnel de Mesa earlier told reporters that
         a TRO could cause “hesitation delay” among importers, possibly affecting rice
         stocks.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dddf7730-d7eb-4be7-976c-f284e67f7a9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T17:45:14.971+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:17.126+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-10T17:45:14.971+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Finance Secretary Ralph Recto said the reduction of tariff on imported
+    section8:
+      primarytype: 'block'
+      uuid: 'dddf7730-d7eb-4be7-976c-f284e67f7a9b'
+      activationstatus: true
+      created: 2024-07-10T17:45:14.971+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-12T14:32:17.126+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-10T17:45:14.971+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Finance Secretary Ralph Recto said the reduction of tariff on imported
         rice could lower rice prices to <a href="https://www.dof.gov.ph/recto-govt-to-do-everything-within-its-power-to-ensure-that-the-next-generation-of-filipinos-does-not-inherit-todays-challenges/">below
         ₱50</a> “as early as August.”&nbsp;</p>'
-  'sea-change-8th-year-of-arbitral-award':
-    'author': 'Tristan Nodalo, NewsWatch Plus '
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-10T18:08:22.000+08:00
-    'image': 'jcr:39207cfc-c18e-4178-b16a-dadfa9521ee7'
-    'imagesource': 'jcr:ef33d5d6-a539-49a3-b05b-b6e08d862f0a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '29237146-d972-4948-b8a8-fc4f02870f9f'
-    'lead': 'The country’s policy in the West Philippine Sea is anchored on the United
+  'START HERE----->sea-change-8th-year-of-arbitral-award':
+    author: 'Tristan Nodalo, NewsWatch Plus '
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-10T18:08:22.000+08:00
+    image: '39207cfc-c18e-4178-b16a-dadfa9521ee7'
+    imagesource: 'ef33d5d6-a539-49a3-b05b-b6e08d862f0a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '29237146-d972-4948-b8a8-fc4f02870f9f'
+    lead: 'The country’s policy in the West Philippine Sea is anchored on the United
       Nations Convention on the Law of the Sea (UNCLOS) and the binding 2016 arbitral
       award.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T18:17:54.661+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:16.887+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-12T12:54:50.193+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['arbitral-ruling', 'Philippines', 'China', 'South-China-Sea', 'West-Philippine-Sea']
-    'stories': []
-    'template': '2'
-    'title': 'Sea change: 8th year of arbitral award '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '892c5364-1f2c-498d-8b87-d01a9117341a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.706+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.888+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.163+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>To sum up:</strong></p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'babf4199-8d92-4c38-9e08-17763778d698'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.706+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.888+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.164+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em><strong>+ Legal standoff in the South China Sea:</strong> President
+    activationstatus: true
+    created: 2024-07-10T18:17:54.661+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2024-07-12T14:32:16.887+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-12T12:54:50.193+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '2'
+    title: 'Sea change: 8th year of arbitral award '
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '892c5364-1f2c-498d-8b87-d01a9117341a'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.706+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.888+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.163+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>To sum up:</strong></p>'
+    section1:
+      primarytype: 'block'
+      uuid: 'babf4199-8d92-4c38-9e08-17763778d698'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.706+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.888+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.164+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em><strong>+ Legal standoff in the South China Sea:</strong> President
         Bongbong Marcos maintains a steadfast adherence to international law in defining
         maritime boundaries, in contrast to aggressive maneuvers by other nations
         in the region.</em></p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4ecd5cb-a248-4df6-91b3-d74ed7158729'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.707+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.888+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.164+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em><strong>+ Global backing grows:</strong> Support for the 2016
+    section2:
+      primarytype: 'block'
+      uuid: 'a4ecd5cb-a248-4df6-91b3-d74ed7158729'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.707+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.888+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.164+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em><strong>+ Global backing grows:</strong> Support for the 2016
         arbitral award has swelled to 27 nations, with countries like Australia and
         Germany standing firm on the need for a rules-based order and free navigation
         in the contentious South China Sea.</em></p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf18308b-6513-4174-87a1-c24be3ffdfc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.707+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.889+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.165+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em><strong>+ China''s defiant stance:</strong> Despite international
+    section3:
+      primarytype: 'block'
+      uuid: 'cf18308b-6513-4174-87a1-c24be3ffdfc3'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.707+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.889+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.165+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em><strong>+ China's defiant stance:</strong> Despite international
         consensus, China continues to reject the 2016 award, dismissing it as illegal
         and refusing to participate in arbitration, escalating tensions in the region.</em></p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e9c8625-7bd0-49ef-8298-bb245e28637d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.708+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.889+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.166+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The country’s policy
+    section4:
+      primarytype: 'block'
+      uuid: '8e9c8625-7bd0-49ef-8298-bb245e28637d'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.708+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.889+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.166+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The country’s policy
         in the West Philippine Sea is anchored on the United Nations Convention on
         the Law of the Sea (UNCLOS) and the binding 2016 arbitral award.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d9744c8-1ebd-4c99-a4ff-ef1fc9893d7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.708+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.889+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.166+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Eight years on, Manila marks July 2016 as the defining moment that
+    section5:
+      primarytype: 'block'
+      uuid: '7d9744c8-1ebd-4c99-a4ff-ef1fc9893d7e'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.708+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.889+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.166+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Eight years on, Manila marks July 2016 as the defining moment that
         affirmed to the community of nations that the rule of law prevails and peace
         and stability in the South China Sea could only be achieved through the rules-based
         order.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a91f8db-5c69-4537-a086-1a2c5a008a61'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.709+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.890+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.167+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'In his speech during the International Institute for Strategic Studies
+    section6:
+      primarytype: 'block'
+      uuid: '9a91f8db-5c69-4537-a086-1a2c5a008a61'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.709+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.890+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.167+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'In his speech during the International Institute for Strategic Studies
         Shangri-La Dialogue in Singapore on May 31, President Marcos said the Philippines
         has made a conscious effort “to align our definition of our territory and
         our maritime zones with what international law permits and recognizes”.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd5dafb2-68bc-4e9b-abd6-508b36c1db03'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.709+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.890+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.168+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“So, the lines that we draw on our waters are not derived from just
+    section7:
+      primarytype: 'block'
+      uuid: 'fd5dafb2-68bc-4e9b-abd6-508b36c1db03'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.709+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.890+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.168+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“So, the lines that we draw on our waters are not derived from just
         our imagination, but from international law,” said Marcos.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '929b1753-f515-4c2d-b26b-3a47eedb9df9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.710+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.890+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.168+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'He added that the country’s strategy in upholding rule of law is in
+    section8:
+      primarytype: 'block'
+      uuid: '929b1753-f515-4c2d-b26b-3a47eedb9df9'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.710+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.890+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.168+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'He added that the country’s strategy in upholding rule of law is in
         stark contrast to assertive actions by other countries through force, intimidation,
         and deception.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12ae21a6-b6e4-46c1-93b6-f2c96d00ce5a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.710+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.891+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.169+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'National Security Council Deputy Director General Jonathan Malaya said
+    section9:
+      primarytype: 'block'
+      uuid: '12ae21a6-b6e4-46c1-93b6-f2c96d00ce5a'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.710+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.891+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.169+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'National Security Council Deputy Director General Jonathan Malaya said
         in an interview that the Philippines has come a long way in terms of enforcing
         and asserting the arbitral award.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3a75171-6107-4cd6-8a73-51dabf8c3c9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.711+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.891+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.170+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“The Philippine government under the term of President Marcos sent
+    section10:
+      primarytype: 'block'
+      uuid: 'f3a75171-6107-4cd6-8a73-51dabf8c3c9b'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.711+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.891+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.170+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“The Philippine government under the term of President Marcos sent
         a clear message to the world that we will assert our rights, stand by the
         2016 arbitral ruling and the rules-based order,” said Malaya.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd6d42f2-0219-452e-ac19-08e23a628557'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.711+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.891+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.170+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>2016 arbitral award defined</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c7aff966-ff1c-427f-9ad2-9f06c8c7c929'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.712+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.891+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.171+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Department of Foreign Affairs said the arbitral award is a significant
+    section11:
+      primarytype: 'block'
+      uuid: 'fd6d42f2-0219-452e-ac19-08e23a628557'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.711+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.891+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.170+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>2016 arbitral award defined</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: 'c7aff966-ff1c-427f-9ad2-9f06c8c7c929'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.712+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.891+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.171+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Department of Foreign Affairs said the arbitral award is a significant
         contribution to international law and the interpretation and application of
         the UN Convention on the Law of the Sea (UNCLOS).</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '06c20953-d02e-4eee-8065-c13565381fc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.712+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.891+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.171+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“The award conclusively settled the issue of historic rights and maritime
+    section13:
+      primarytype: 'block'
+      uuid: '06c20953-d02e-4eee-8065-c13565381fc5'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.712+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.891+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.171+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“The award conclusively settled the issue of historic rights and maritime
         entitlements in the South China Sea. Claims to historic rights, or other sovereign
         rights or jurisdiction beyond the geographic and substantive limits of UNCLOS-provided
         maritime entitlements are without legal effect,” the DFA explained.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d391192-264e-4a17-98e6-9e7f75a4e773'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.713+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.172+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'The tribunal also ruled that historic claims over resources within
+    section14:
+      primarytype: 'block'
+      uuid: '3d391192-264e-4a17-98e6-9e7f75a4e773'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.713+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.172+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'The tribunal also ruled that historic claims over resources within
         the ‘nine-dash line’ had “no basis in law and is without legal effect”.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a15a46c9-3531-4520-b87f-6776d16d4bc4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.713+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.173+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The DFA said the ruling declared that Mischief Reef and Second Thomas
+    section15:
+      primarytype: 'block'
+      uuid: 'a15a46c9-3531-4520-b87f-6776d16d4bc4'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.713+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.173+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The DFA said the ruling declared that Mischief Reef and Second Thomas
         Shoal (Ayungin Shoal) are within the exclusive economic zone (EEZ) and continental
         shelf (CS) of the Philippines.</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b33d8f1-3626-4136-ab7d-0c3eee284234'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.714+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.173+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Growing support for the 2016 arbitral award</strong></h2>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f9a2ece-e2fe-406a-beee-08f7d348419d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.714+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.174+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'As of July 2024, the DFA told NewsWatch Plus that 27 countries support
+    section16:
+      primarytype: 'block'
+      uuid: '1b33d8f1-3626-4136-ab7d-0c3eee284234'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.714+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.173+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Growing support for the 2016 arbitral award</strong></h2>'
+    section17:
+      primarytype: 'block'
+      uuid: '5f9a2ece-e2fe-406a-beee-08f7d348419d'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.714+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.174+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'As of July 2024, the DFA told NewsWatch Plus that 27 countries support
         the award. These are Australia, Canada, Denmark, France, Germany, India, Ireland,
         Japan, Lithuania, Netherlands, New Zealand , Norway, Portugal, United States,
         United Kingdom, Austria, Belgium, Czechia, Finland, Greece, Italy, Poland,
         Romania, Slovakia, Spain, Sweden, and the Republic of Korea.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '581c9f63-0b84-4534-b5e1-e23eeab6c90b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.715+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.175+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“In terms of support from other governments, expressions of support
+    section18:
+      primarytype: 'block'
+      uuid: '581c9f63-0b84-4534-b5e1-e23eeab6c90b'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.715+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.175+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“In terms of support from other governments, expressions of support
         have grown over time. We have also received statements of support from 27
         countries, whether individually or as part of a group of states,” the DFA
         added.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac1ab5ae-f5f2-44ca-bb09-3469bfeb8318'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.715+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.892+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.175+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an exclusive interview with NewsWatch Plus, Australian Ambassador
+    section19:
+      primarytype: 'block'
+      uuid: 'ac1ab5ae-f5f2-44ca-bb09-3469bfeb8318'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.715+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.892+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.175+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'In an exclusive interview with NewsWatch Plus, Australian Ambassador
         to the Philippines HK Yu said Australia has been consistent on the South China
         Sea.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '53533092-19dc-4567-8b45-14ad295efd61'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.716+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.893+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.176+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“Rules-based order has to prevail when it comes to freedom of navigation
+    section20:
+      primarytype: 'block'
+      uuid: '53533092-19dc-4567-8b45-14ad295efd61'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.716+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.893+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.176+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“Rules-based order has to prevail when it comes to freedom of navigation
         and overflight that is in the interest of everyone in the world, in particular
         to the South China Sea,” she said.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '230bda29-da01-45c5-872b-4b8b4be5cf46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.716+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.893+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.177+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“It’s important that the South China Sea remains open to the global
+    section21:
+      primarytype: 'block'
+      uuid: '230bda29-da01-45c5-872b-4b8b4be5cf46'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.716+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.893+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.177+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“It’s important that the South China Sea remains open to the global
         community and it is ruled by UNCLOS. It makes very clear what is allowed and
-        what isn’t and it''s in everyone''s interest for the rule of law to prevail,”
+        what isn’t and it's in everyone's interest for the rule of law to prevail,”
         she added.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '977bf656-8099-4d6d-ba22-f8fdf2a07434'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.717+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.893+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.177+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Australian top diplomat in Manila also reiterated that her country
+    section22:
+      primarytype: 'block'
+      uuid: '977bf656-8099-4d6d-ba22-f8fdf2a07434'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.717+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.893+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.177+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'The Australian top diplomat in Manila also reiterated that her country
         is among the first nations to issue a statement of support and sound alarm
         over aggressive behaviors in the South China Sea.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83abe64c-9a77-407d-aabb-46117bb9d25a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.718+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.893+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.178+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“All the tweets that I have been issuing following the Marcos administration
+    section23:
+      primarytype: 'block'
+      uuid: '83abe64c-9a77-407d-aabb-46117bb9d25a'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.718+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.893+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.178+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“All the tweets that I have been issuing following the Marcos administration
         statements following the concerns that they have experienced in the South
         China Sea,” she added.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fec65637-be91-4bd8-be8b-95b6d32a05d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.718+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.894+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.178+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a separate interview with NewsWatch Plus, German Ambassador to the
+    section24:
+      primarytype: 'block'
+      uuid: 'fec65637-be91-4bd8-be8b-95b6d32a05d7'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.718+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.894+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.178+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'In a separate interview with NewsWatch Plus, German Ambassador to the
         Philippines Andreas Pffafernoshcke said Manila and Berlin are collaborating
         to safeguard international rules-based order.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6389fded-2b8d-40e6-820d-188948e9ecc1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.719+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.894+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.179+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“We are convinced that the rules-based international order is the basis
+    section25:
+      primarytype: 'block'
+      uuid: '6389fded-2b8d-40e6-820d-188948e9ecc1'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.719+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.894+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.179+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“We are convinced that the rules-based international order is the basis
         for a stable world, peaceful development,” he said.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c73139ca-4b96-43e2-8f73-41e8685378e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.719+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.894+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.180+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Pffafernoschke pointed to what concerns Germany in the West Philippine
+    section26:
+      primarytype: 'block'
+      uuid: 'c73139ca-4b96-43e2-8f73-41e8685378e4'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.719+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.894+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.180+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Pffafernoschke pointed to what concerns Germany in the West Philippine
         Sea.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ceb548de-6b4d-460e-9604-f14bf81dbb90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.720+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.895+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.180+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“Escalation of tensions is a big concern and we hope that there will
+    section27:
+      primarytype: 'block'
+      uuid: 'ceb548de-6b4d-460e-9604-f14bf81dbb90'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.720+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.895+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.180+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“Escalation of tensions is a big concern and we hope that there will
         be no further escalation of tensions,” he said.'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f73a5303-b7e4-4060-8c80-2c307db6e433'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.721+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.895+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.181+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'India has joined the list of countries also affirming the arbitral
+    section28:
+      primarytype: 'block'
+      uuid: 'f73a5303-b7e4-4060-8c80-2c307db6e433'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.721+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.895+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.181+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'India has joined the list of countries also affirming the arbitral
         award.'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4aa8e2e7-568d-47c9-8e23-2ae4c5417055'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.721+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.895+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.182+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“Countries have the responsibility to behave in a manner that contributes
+    section29:
+      primarytype: 'block'
+      uuid: '4aa8e2e7-568d-47c9-8e23-2ae4c5417055'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.721+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.895+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.182+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“Countries have the responsibility to behave in a manner that contributes
         to peace and stability and larger countries have larger responsibilities,”
         said former Indian Ambassador to the Philippines Shambhu Kumaran in an interview.'
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7774bed7-f05e-45f5-bae7-df53dcf705a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.722+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.895+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.182+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>The arbitral award and ways forward</strong></h2>'
-    '31':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f18c90e-a182-457c-adeb-6625a92a397f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.723+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.183+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The government recently welcomed the inclusion of portions of the
+    section30:
+      primarytype: 'block'
+      uuid: '7774bed7-f05e-45f5-bae7-df53dcf705a3'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.722+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.895+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.182+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>The arbitral award and ways forward</strong></h2>'
+    section31:
+      primarytype: 'block'
+      uuid: '2f18c90e-a182-457c-adeb-6625a92a397f'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.723+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.183+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The government recently welcomed the inclusion of portions of the
         arbitral award to the advisory opinion issued by the International Tribunal
         for the Law of the Sea (ITLOS) in response to the request made by the Commission
         of Small Island States on Climate Change and International Law in December
         2022.</p>'
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'add87c84-5d0f-4038-826e-43cd5055f578'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.723+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.184+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“This bolsters and reinforces the legitimacy of the final and binding
+    section32:
+      primarytype: 'block'
+      uuid: 'add87c84-5d0f-4038-826e-43cd5055f578'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.723+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.184+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“This bolsters and reinforces the legitimacy of the final and binding
         2016 arbitration award and its unassailable status as part of the corpus of
         international law,” the DFA said in a statement.'
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff231f46-8ad5-4743-88ac-67fc87bb738f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.724+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.184+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'This year, Manila has also filed a formal claim to the United Nations
+    section33:
+      primarytype: 'block'
+      uuid: 'ff231f46-8ad5-4743-88ac-67fc87bb738f'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.724+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.184+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'This year, Manila has also filed a formal claim to the United Nations
         (UN) to register its extended continental shelf (ECS) in the western Palawan
         region in the West Philippine Sea.'
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9fbc3c3b-4824-4a44-9f33-7fe693d24f28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.725+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.185+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'The DFA said that the submission is a declaration not only of the Philippines’
+    section34:
+      primarytype: 'block'
+      uuid: '9fbc3c3b-4824-4a44-9f33-7fe693d24f28'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.725+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.185+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'The DFA said that the submission is a declaration not only of the Philippines’
         maritime entitlements under the UN Convention on the Law of the Sea (UNCLOS)
         but also of Manila’s commitment to the responsible application of its processes.'
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9a982fb-26d0-4bef-b622-f60522b08480'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.726+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.186+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'If granted, this  would help the government secure Philippine sovereign
+    section35:
+      primarytype: 'block'
+      uuid: 'a9a982fb-26d0-4bef-b622-f60522b08480'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.726+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.186+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'If granted, this  would help the government secure Philippine sovereign
         rights and maritime jurisdictions in the West Philippine Sea since the arbitral
         ruling confirmed the country’s maritime entitlements.'
-    '36':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '93c80b36-d7f8-407f-9a40-41b53adc93e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.726+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.896+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.186+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Malaya said the government is weighing all options to further assert
+    section36:
+      primarytype: 'block'
+      uuid: '93c80b36-d7f8-407f-9a40-41b53adc93e6'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.726+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.896+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.186+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Malaya said the government is weighing all options to further assert
         the arbitral award including potential new cases.'
-    '37':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e58add2b-5e49-42ad-b4ad-291daee5f854'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.727+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.897+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.187+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“There are recommendations to file new arbitration cases against China
+    section37:
+      primarytype: 'block'
+      uuid: 'e58add2b-5e49-42ad-b4ad-291daee5f854'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.727+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.897+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.187+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“There are recommendations to file new arbitration cases against China
         and we are talking about it and it’s under discussions between the Justice
         Department and the Office of the Solicitor General ,” said Malaya.'
-    '38':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '753a35ea-3a1d-4e58-aa4a-042393096ed7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.728+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.897+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.188+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>China: Arbitral award is Illegal, null, void</strong></h2>'
-    '39':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f40f25a1-dc88-4416-b60a-796ec339c972'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.728+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.897+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.188+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'China maintains that the 2016 ruling is illegal and it will not recognize
+    section38:
+      primarytype: 'block'
+      uuid: '753a35ea-3a1d-4e58-aa4a-042393096ed7'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.728+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.897+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.188+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>China: Arbitral award is Illegal, null, void</strong></h2>'
+    section39:
+      primarytype: 'block'
+      uuid: 'f40f25a1-dc88-4416-b60a-796ec339c972'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.728+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.897+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.188+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'China maintains that the 2016 ruling is illegal and it will not recognize
         the decision.'
-    '40':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfac6886-4d64-4c9d-ba19-0d61d2c386d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.729+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.897+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.189+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '“China neither accepts nor participates in that arbitration, neither
+    section40:
+      primarytype: 'block'
+      uuid: 'cfac6886-4d64-4c9d-ba19-0d61d2c386d6'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.729+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.897+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.189+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '“China neither accepts nor participates in that arbitration, neither
         accepts nor recognizes the award, and will never accept any claim or action
         arising from the award,” Chinese Foreign Ministry Spokesperson Mao Ning said
         in a statement.'
-    '41':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '152bfee2-01f5-4f32-a2c7-054b9ae32687'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.730+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.897+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.189+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': 'Beijing even went as far as downplaying its significance.'
-    '42':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef509850-0d97-407d-bb00-22460151743e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.731+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.898+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.190+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '"The award does not constitute part of international law; instead it
+    section41:
+      primarytype: 'block'
+      uuid: '152bfee2-01f5-4f32-a2c7-054b9ae32687'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.730+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.897+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.189+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: 'Beijing even went as far as downplaying its significance.'
+    section42:
+      primarytype: 'block'
+      uuid: 'ef509850-0d97-407d-bb00-22460151743e'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.731+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.898+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.190+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '"The award does not constitute part of international law; instead it
         has had an adverse impact on the international rule of law. China neither
         accepts nor participates in that arbitration, neither accepts nor recognizes
         the award, and will never accept any claim or action arising from the award,”
         Mao added.'
-    '43':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51e5249f-6064-4bff-a6b8-a44ddc8fd397'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:17:54.732+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.898+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-12T12:54:50.191+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>As of June 18, the Philippines has filed over 160 diplomatic protests
+    section43:
+      primarytype: 'block'
+      uuid: '51e5249f-6064-4bff-a6b8-a44ddc8fd397'
+      activationstatus: true
+      created: 2024-07-10T18:17:54.732+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-12T14:32:16.898+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-12T12:54:50.191+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>As of June 18, the Philippines has filed over 160 diplomatic protests
         against China under the Marcos administration.</p>'
-  'qcpd-sona-2024':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-10T18:26:11.000+08:00
-    'imagesource': 'jcr:16fce30e-9d15-45fd-9037-2cfa3d7ce567'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8a22394d-1440-4355-afa1-9423c2f2f074'
-    'lead': 'Police will arrest protesters who will burn effigies during President
+  'START HERE----->qcpd-sona-2024':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-10T18:26:11.000+08:00
+    imagesource: '16fce30e-9d15-45fd-9037-2cfa3d7ce567'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8a22394d-1440-4355-afa1-9423c2f2f074'
+    lead: 'Police will arrest protesters who will burn effigies during President
       Bongbong Marcos’ third State of the Nation Address on July 22, the Quezon City
       Police District chief said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T18:30:59.662+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2024-07-12T14:32:16.242+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-07-11T18:15:15.399+08:00
-    'mgnl:lastModifiedBy': 'mis-support'
-    'mgnl:tags': ['SONA-2024', 'QCPD', 'Quezon-City-Police-District', 'Bongbong-Marcos','protest']
-    'stories': []
-    'template': '1'
-    'title': 'SONA countdown: Police warn arrest of effigy-burning protesters'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd998dfb-79ed-4264-8808-f96637430de7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.740+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.242+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.389+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> Police will arrest
+    activationstatus: true
+    created: 2024-07-10T18:30:59.662+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2024-07-12T14:32:16.242+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-07-11T18:15:15.399+08:00
+    lastmodifiedby: 'mis-support'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'SONA countdown: Police warn arrest of effigy-burning protesters'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fd998dfb-79ed-4264-8808-f96637430de7'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.740+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.242+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.389+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> Police will arrest
         protesters who will burn effigies during President Bongbong Marcos’ third
         State of the Nation Address (SONA) on July 22, the Quezon City Police District
         (QCPD) chief said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ea0d6e1-0bc6-404b-b1a3-da55471d4f17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.740+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.243+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.390+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "QCPD District Director Redrico Maranan said effigy burning is against\
+    section1:
+      primarytype: 'block'
+      uuid: '1ea0d6e1-0bc6-404b-b1a3-da55471d4f17'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.740+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.243+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.390+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "QCPD District Director Redrico Maranan said effigy burning is against\
         \ Batas Pambansa 880.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17715a57-9658-436f-b4c3-f6aee085892c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.741+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.243+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.391+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "“Meron tayong mga ipapatupad na security measures kaya nga tayo makikipag-dialogue\
+    section2:
+      primarytype: 'block'
+      uuid: '17715a57-9658-436f-b4c3-f6aee085892c'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.741+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.243+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.391+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "“Meron tayong mga ipapatupad na security measures kaya nga tayo makikipag-dialogue\
         \ sa mga leaders ng mga grupong gustong magsagawa ng aktibidad nang sa ganu’\
         n maipaliwanag natin sa kanila ‘yung security measures na ating ipatutupad,”\
         \ Maranan said on Wednesday, July 10.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a629553f-3a09-442d-a349-bb438f3e5268'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.741+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.244+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.391+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "[Translation: We will carry out security measures that’s why we will\
+    section3:
+      primarytype: 'block'
+      uuid: 'a629553f-3a09-442d-a349-bb438f3e5268'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.741+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.244+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.391+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "[Translation: We will carry out security measures that’s why we will\
         \ have a dialogue with leaders of groups who want to participate in the activity\
         \ so we can explain to them.]\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0da6f1ec-aabc-4656-b92c-461c0c96fdbf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.742+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.244+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.392+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "“‘Pag may nagsunog ng effigy, syempre huhulihin natin kung sino ‘yung\
+    section4:
+      primarytype: 'block'
+      uuid: '0da6f1ec-aabc-4656-b92c-461c0c96fdbf'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.742+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.244+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.392+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "“‘Pag may nagsunog ng effigy, syempre huhulihin natin kung sino ‘yung\
         \ nagsusunog at magpa-file tayo ng demanda,” he added.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfac2935-3d4f-415e-bf4d-665c316f8a7b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.742+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.244+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.393+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "[Translation: If someone burns an effigy, we will arrest them, and\
+    section5:
+      primarytype: 'block'
+      uuid: 'cfac2935-3d4f-415e-bf4d-665c316f8a7b'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.742+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.244+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.393+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "[Translation: If someone burns an effigy, we will arrest them, and\
         \ we will file a complaint.]\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1803e138-a64e-49d1-93b7-1878676e0159'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.743+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.245+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.394+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "Aside from effigy burning, firearms and deadly weapons are prohibited.\
+    section6:
+      primarytype: 'block'
+      uuid: '1803e138-a64e-49d1-93b7-1878676e0159'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.743+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.245+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.394+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "Aside from effigy burning, firearms and deadly weapons are prohibited.\
         \ Checkpoints will also be put up.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3633138c-f440-4161-8f99-e9b3ad7cdd9d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.743+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.245+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.394+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "The ban on carrying firearms and indulging in liquor will take effect\
+    section7:
+      primarytype: 'block'
+      uuid: '3633138c-f440-4161-8f99-e9b3ad7cdd9d'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.743+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.245+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.394+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "The ban on carrying firearms and indulging in liquor will take effect\
         \ on the eve of the SONA.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d393652-7b3e-4fb3-a56b-df0422102b21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.743+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.246+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.395+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "Maranan said around 6,000 police officers will be deployed on SONA\
+    section8:
+      primarytype: 'block'
+      uuid: '0d393652-7b3e-4fb3-a56b-df0422102b21'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.743+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.246+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.395+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "Maranan said around 6,000 police officers will be deployed on SONA\
         \ day, adding that the directive is for them to observe maximum tolerance.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7579e016-0c1e-4438-93dc-9d5051868869'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.744+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.246+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.396+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "“Ang borderline niyan ay kapag ‘yung mga nagra-rally nagsimula nang\
+    section9:
+      primarytype: 'block'
+      uuid: '7579e016-0c1e-4438-93dc-9d5051868869'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.744+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.246+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.396+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "“Ang borderline niyan ay kapag ‘yung mga nagra-rally nagsimula nang\
         \ lumabag sa mga umiiral na batas – nanggulo, nanakit, nanira ng mga personal\
         \ at government properties – we will effect arrest,” he said.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee59462e-7921-4634-a80c-373ff9c069b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.744+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.246+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.397+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': "[Translation: The borderline is when the protesters begin to violate\
+    section10:
+      primarytype: 'block'
+      uuid: 'ee59462e-7921-4634-a80c-373ff9c069b2'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.744+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.246+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.397+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: "[Translation: The borderline is when the protesters begin to violate\
         \ laws – start trouble, cause injury, and destroy personal and government\
         \ properties – we will effect arrest.]\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05969fca-8564-43dc-bf6e-964aee264e59'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T18:30:59.745+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2024-07-12T14:32:16.247+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-07-11T18:15:15.397+08:00
-      'mgnl:lastModifiedBy': 'mis-support'
-      'mgnl:type': 'text'
-      'text': '<p>Maranan said the police will be on alert despite the absence of
+    section11:
+      primarytype: 'block'
+      uuid: '05969fca-8564-43dc-bf6e-964aee264e59'
+      activationstatus: true
+      created: 2024-07-10T18:30:59.745+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2024-07-12T14:32:16.247+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-07-11T18:15:15.397+08:00
+      lastmodifiedby: 'mis-support'
+      type: 'text'
+      text: '<p>Maranan said the police will be on alert despite the absence of
         threat reports.</p>'
-  'Get-Bejeweled-and-Make-the-Whole-Place-Shimmer-with-these-5-Local-Brands':
-    'author': 'Michi Ancheta '
-    'categories': ['766f5732-6357-4601-a756-32d7e4983557']
-    'created': 2024-07-10T20:02:17.000+08:00
-    'imagesource': 'jcr:39229fa6-8689-4dff-a553-c402567f3184'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9b9c783a-f6e1-485f-ba5b-95b639cdda7e'
-    'lead': 'Looking to add some local flair to your jewelry collection? Make sure
+  'START HERE----->Get-Bejeweled-and-Make-the-Whole-Place-Shimmer-with-these-5-Local-Brands':
+    author: 'Michi Ancheta '
+    categories: '766f5732-6357-4601-a756-32d7e4983557'
+    created: 2024-07-10T20:02:17.000+08:00
+    imagesource: '39229fa6-8689-4dff-a553-c402567f3184'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9b9c783a-f6e1-485f-ba5b-95b639cdda7e'
+    lead: 'Looking to add some local flair to your jewelry collection? Make sure
       to check out these brands for that much-needed sparkle.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-10T20:11:44.134+08:00
-    'mgnl:createdBy': 'michia-nwp'
-    'mgnl:lastActivated': 2024-08-01T14:25:55.102+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-08-01T14:25:54.645+08:00
-    'mgnl:lastModifiedBy': 'michia-nwp'
-    'mgnl:tags': ['news-buzz']
-    'stories': []
-    'template': '1'
-    'title': 'Shine Bright with These 5 Local Brands'
-    'visualType': 'image'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1cd85c81-2516-41a9-8413-fab20dd6fc51'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.300+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.103+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.632+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>1. <a href="https://lily.ph/">Lily Jewelry</a></strong></p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ddbef153-1bf7-4c7a-a090-40f17bcf299e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.301+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.103+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.633+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Lily Jewelry offers a stunning collection of contemporary jewelry
+    activationstatus: true
+    created: 2024-07-10T20:11:44.134+08:00
+    createdby: 'michia-nwp'
+    lastactivated: 2024-08-01T14:25:55.102+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-08-01T14:25:54.645+08:00
+    lastmodifiedby: 'michia-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Shine Bright with These 5 Local Brands'
+    visualtype: 'image'
+    section1:
+      primarytype: 'block'
+      uuid: '1cd85c81-2516-41a9-8413-fab20dd6fc51'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.300+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.103+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.632+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>1. <a href="https://lily.ph/">Lily Jewelry</a></strong></p>'
+    section3:
+      primarytype: 'block'
+      uuid: 'ddbef153-1bf7-4c7a-a090-40f17bcf299e'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.301+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.103+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.633+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p>Lily Jewelry offers a stunning collection of contemporary jewelry
         pieces that are perfect for any occasion. Known for their intricate designs
         and high-quality materials, Lily Jewelry ensures that each piece is crafted
         with care and precision. Their customer service is top-notch, making shopping
         a breeze.</p>'
-    '28':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C598_t_vam_/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section28:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C598_t_vam_/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -1912,63 +1912,63 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by Lily (@lilyjewelry)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '880fd9f0-539a-497e-9774-4525eb158b59'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-01T13:40:57.609+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.103+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.633+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'embedCode'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2c90832-1790-46d5-98d0-c1dae42bc565'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.300+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.104+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.634+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>PULSE recommends:</strong> <em>The "Tong Tong” Drops in
+      primarytype: 'block'
+      uuid: '880fd9f0-539a-497e-9774-4525eb158b59'
+      activationstatus: true
+      created: 2024-08-01T13:40:57.609+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.103+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.633+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'embedcode'
+    section2:
+      primarytype: 'block'
+      uuid: 'a2c90832-1790-46d5-98d0-c1dae42bc565'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.300+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.104+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.634+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>PULSE recommends:</strong> <em>The "Tong Tong” Drops in
         Red</em> – Beautifully crafted earrings that pay homage to a classic and beloved
         Filipino folk song. A great conversation starter piece that adds a touch of
         whimsy and playfulness to any outfit.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6938e3c-3047-4d60-b60a-321c55f46d66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.301+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.104+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.635+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>2. <a href="https://sukijewelry.ph/">Suki Jewelry</a></strong></p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0f0ef4b-4b2f-4f78-b074-e4df49d6fedb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.302+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.104+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.635+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': "Suki Jewelry prides itself on creating unique, handcrafted pieces that\
+    section4:
+      primarytype: 'block'
+      uuid: 'b6938e3c-3047-4d60-b60a-321c55f46d66'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.301+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.104+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.635+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>2. <a href="https://sukijewelry.ph/">Suki Jewelry</a></strong></p>'
+    section5:
+      primarytype: 'block'
+      uuid: 'd0f0ef4b-4b2f-4f78-b074-e4df49d6fedb'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.302+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.104+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.635+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: "Suki Jewelry prides itself on creating unique, handcrafted pieces that\
         \ reflect the rich cultural heritage of the Philippines. Each piece is a work\
         \ of art, combining traditional craftsmanship with modern design. Suki Jewelry\
         \ is dedicated to sustainability, using ethically sourced materials.\r"
-    '29':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C9ZywVtS5qa/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section29:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C9ZywVtS5qa/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -2052,62 +2052,62 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by SUKI JEWELRY (@sukijewelry.ph)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '807b2f7d-918a-4756-ae29-96d5b77de4b3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-01T13:51:59.678+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.105+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.636+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'embedCode'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1993797c-9d27-4d35-a54f-fc80871be3b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.302+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.105+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.636+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PULSE recommends: The "Corazon Threaded" Earrings - These earrings
+      primarytype: 'block'
+      uuid: '807b2f7d-918a-4756-ae29-96d5b77de4b3'
+      activationstatus: true
+      created: 2024-08-01T13:51:59.678+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.105+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.636+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'embedcode'
+    section6:
+      primarytype: 'block'
+      uuid: '1993797c-9d27-4d35-a54f-fc80871be3b0'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.302+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.105+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.636+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p>PULSE recommends: The "Corazon Threaded" Earrings - These earrings
         are a perfect blend of tradition and modernity, featuring intricate patterns
         that pay homage to Filipino flora.&nbsp;</p>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74a33b69-bdf6-4794-9737-a7a89a3d7df3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-29T21:50:39.142+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.105+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.637+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>3. <a href="https://amamiph.com/">Amami</a></strong></p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7fd6fde-3f8e-49ad-aad9-6ea9d723458f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.304+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.106+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.637+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': "Amami offers a collection of jewelry that pays tribute to Filipino\
+    section27:
+      primarytype: 'block'
+      uuid: '74a33b69-bdf6-4794-9737-a7a89a3d7df3'
+      activationstatus: true
+      created: 2024-07-29T21:50:39.142+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.105+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.637+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>3. <a href="https://amamiph.com/">Amami</a></strong></p>'
+    section9:
+      primarytype: 'block'
+      uuid: 'd7fd6fde-3f8e-49ad-aad9-6ea9d723458f'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.304+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.106+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.637+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: "Amami offers a collection of jewelry that pays tribute to Filipino\
         \ heritage and craftsmanship. Their pieces are inspired by traditional designs,\
         \ reimagined for the modern wearer. Amami is committed to preserving and promoting\
         \ Filipino culture through their exquisite jewelry.\r"
-    '30':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C8a-Qp4ymUd/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section30:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C8a-Qp4ymUd/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -2191,62 +2191,62 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by 𝐀𝐌𝐀𝐌𝐈 Filipino Jewelry ✨ (@amami.ph)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce80cb72-92d1-4d58-8c9d-56acef409109'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-01T13:51:59.679+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.106+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.638+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'embedCode'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '86d0c9d4-c6b1-4693-aa13-4a6e63ef3bc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.304+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.106+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.639+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>PULSE recommends:</strong><em> "Estela Rosita Pearl Drops"</em>
+      primarytype: 'block'
+      uuid: 'ce80cb72-92d1-4d58-8c9d-56acef409109'
+      activationstatus: true
+      created: 2024-08-01T13:51:59.679+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.106+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.638+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'embedcode'
+    section10:
+      primarytype: 'block'
+      uuid: '86d0c9d4-c6b1-4693-aa13-4a6e63ef3bc5'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.304+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.106+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.639+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>PULSE recommends:</strong><em> "Estela Rosita Pearl Drops"</em>
         - These earrings are not only stunning but also carry a piece of history,
         making them a unique and cherished accessory.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b7e4121-8f7e-4e6b-9b10-564d8ab84e14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.305+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.107+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.639+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>4. <a href="https://dandyona.com/">Dandy Ona</a></strong></p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '69486044-051f-4d8b-b5ed-99315c9ac385'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.306+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.107+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.640+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': "Dandy Ona specializes in minimalist jewelry that exudes sophistication\
+    section11:
+      primarytype: 'block'
+      uuid: '5b7e4121-8f7e-4e6b-9b10-564d8ab84e14'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.305+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.107+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.639+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>4. <a href="https://dandyona.com/">Dandy Ona</a></strong></p>'
+    section13:
+      primarytype: 'block'
+      uuid: '69486044-051f-4d8b-b5ed-99315c9ac385'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.306+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.107+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.640+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: "Dandy Ona specializes in minimalist jewelry that exudes sophistication\
         \ and elegance. Their pieces are perfect for everyday wear and can easily\
         \ transition from day to night. With a focus on quality and craftsmanship,\
         \ Dandy Ona ensures that each piece is made to last.\r"
-    '31':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C98tNUJTMnO/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section31:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C98tNUJTMnO/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -2330,62 +2330,62 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by Dandy Ona (@dandyonajewelry)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ab1c4712-e465-4140-ab93-2163341d396c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-01T13:51:59.680+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.107+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.640+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'embedCode'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2055d3eb-c01f-4561-afe6-7f108854bc02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.306+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.108+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.641+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>PULSE recommends:</strong> <em>The "Universe Has Your Back"
+      primarytype: 'block'
+      uuid: 'ab1c4712-e465-4140-ab93-2163341d396c'
+      activationstatus: true
+      created: 2024-08-01T13:51:59.680+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.107+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.640+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'embedcode'
+    section14:
+      primarytype: 'block'
+      uuid: '2055d3eb-c01f-4561-afe6-7f108854bc02'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.306+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.108+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.641+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>PULSE recommends:</strong> <em>The "Universe Has Your Back"
         Ring</em> - A sleek and simple ring that offers a happy reminder to never
         give up hope for those days when you need it most.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2c589f2-2eb3-4f85-ba42-55db213d578a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.307+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.108+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.641+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>5. <a href="https://studiosunspell.com/">Studio Sunspell</a></strong></p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '679f9fae-8208-4ef8-8991-0febf8997afb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.308+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.108+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.642+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': "Studio Sunspell is known for its high-quality, water, sweat, and tarnish-resistant\
+    section15:
+      primarytype: 'block'
+      uuid: 'f2c589f2-2eb3-4f85-ba42-55db213d578a'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.307+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.108+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.641+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>5. <a href="https://studiosunspell.com/">Studio Sunspell</a></strong></p>'
+    section17:
+      primarytype: 'block'
+      uuid: '679f9fae-8208-4ef8-8991-0febf8997afb'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.308+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.108+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.642+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: "Studio Sunspell is known for its high-quality, water, sweat, and tarnish-resistant\
         \ jewelry, perfect for sun and sea lovers. Using durable stainless steel and\
         \ 18k gold PVD coating, their pieces are designed for everyday wear, ensuring\
         \ they remain beautiful and resistant to oxidation.\r"
-    '32':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C4SOo8KPT5f/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section32:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C4SOo8KPT5f/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -2469,28 +2469,28 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by Sunspell (@studiosunspell)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '47b4e68c-26bc-40fe-8684-a3794fca8136'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-01T13:51:59.682+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.108+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.643+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'embedCode'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ea98764-3d98-4101-bf8a-065e42cb5b1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-10T20:19:49.308+08:00
-      'mgnl:createdBy': 'michia-nwp'
-      'mgnl:lastActivated': 2024-08-01T14:25:55.109+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-08-01T14:25:54.643+08:00
-      'mgnl:lastModifiedBy': 'michia-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>PULSE recommends:</strong> <em>The "Cecil”</em> - A striking
+      primarytype: 'block'
+      uuid: '47b4e68c-26bc-40fe-8684-a3794fca8136'
+      activationstatus: true
+      created: 2024-08-01T13:51:59.682+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.108+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.643+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'embedcode'
+    section18:
+      primarytype: 'block'
+      uuid: '4ea98764-3d98-4101-bf8a-065e42cb5b1c'
+      activationstatus: true
+      created: 2024-07-10T20:19:49.308+08:00
+      createdby: 'michia-nwp'
+      lastactivated: 2024-08-01T14:25:55.109+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-08-01T14:25:54.643+08:00
+      lastmodifiedby: 'michia-nwp'
+      type: 'text'
+      text: '<p><strong>PULSE recommends:</strong> <em>The "Cecil”</em> - A striking
         necklace that can be worn day or night, perfect for the dainty ones.</p>'

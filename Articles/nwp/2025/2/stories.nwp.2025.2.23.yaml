@@ -1,1741 +1,1741 @@
-'23':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'c14f4300-2f87-4b2e-8027-1c4009883384'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-02-23T09:22:46.832+08:00
-  'mgnl:createdBy': 'jelo-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:23:50.174+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:06.343+08:00
-  'mgnl:lastModified': 2025-02-23T17:23:27.627+08:00
-  'mgnl:lastModifiedBy': 'jelo-nwp'
-  'pope-francis-critical-condition':
-    'author': 'Crispian Balmer, Reuters'
-    'caption': 'People pray outside the Gemelli Hospital where Pope Francis is admitted
+section23:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'c14f4300-2f87-4b2e-8027-1c4009883384'
+  activationstatus: true
+  created: 2025-02-23T09:22:46.832+08:00
+  createdby: 'jelo-nwp'
+  lastactivated: 2025-03-13T12:23:50.174+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:23:06.343+08:00
+  lastmodified: 2025-02-23T17:23:27.627+08:00
+  lastmodifiedby: 'jelo-nwp'
+  'START HERE----->pope-francis-critical-condition':
+    author: 'Crispian Balmer, Reuters'
+    caption: 'People pray outside the Gemelli Hospital where Pope Francis is admitted
       for treatment, in Rome, Italy, on Saturday, Feb. 22. (Ciro De Luca/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T09:22:54.000+08:00
-    'imagesource': 'jcr:1e6fbf76-1c49-47f4-b62f-b37c4c092356'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ebff1e44-124c-465f-a66f-40b21ed6a665'
-    'lead': 'The Vatican said on Saturday that Pope Francis'' health had deteriorated
-      over the past 24 hours and for the first time described his condition as ''critical,''
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T09:22:54.000+08:00
+    imagesource: '1e6fbf76-1c49-47f4-b62f-b37c4c092356'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ebff1e44-124c-465f-a66f-40b21ed6a665'
+    lead: 'The Vatican said on Saturday that Pope Francis' health had deteriorated
+      over the past 24 hours and for the first time described his condition as 'critical,'
       reporting he had needed supplemental oxygen and blood transfusions.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T09:23:46.209+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:09.720+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:06.482+08:00
-    'mgnl:lastModified': 2025-02-23T09:36:27.085+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Pope-Francis', 'Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Pope Francis in critical condition after health deteriorates, Vatican
+    activationstatus: true
+    created: 2025-02-23T09:23:46.209+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:09.720+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:06.482+08:00
+    lastmodified: 2025-02-23T09:36:27.085+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Pope Francis in critical condition after health deteriorates, Vatican
       says'
-    'visualType': 'image'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5c5fe97-a0de-4c62-82d9-6a972bcf25c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.234+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.723+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.077+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Vatican City -</strong> The Vatican said on Saturday, Feb.
-        22, that Pope Francis'' health had deteriorated over the past 24 hours and
+    visualtype: 'image'
+    section12:
+      primarytype: 'block'
+      uuid: 'c5c5fe97-a0de-4c62-82d9-6a972bcf25c7'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.234+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.723+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.077+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Vatican City -</strong> The Vatican said on Saturday, Feb.
+        22, that Pope Francis' health had deteriorated over the past 24 hours and
         for the first time described his condition as "critical," reporting he had
         needed supplemental oxygen and blood transfusions.</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2ffd67e-8a23-4a30-afa0-c3351e21ab83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.235+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.723+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.077+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The pope was admitted to Rome’s Gemelli hospital on Feb. 14 after
+    section13:
+      primarytype: 'block'
+      uuid: 'b2ffd67e-8a23-4a30-afa0-c3351e21ab83'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.235+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.723+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.077+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The pope was admitted to Rome’s Gemelli hospital on Feb. 14 after
         experiencing difficulty breathing for several days, and was subsequently diagnosed
         with pneumonia in both lungs.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8ec79e2-e203-48e1-afd0-019cc89431b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.235+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.724+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.078+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement on Saturday evening, the Vatican said the 88-year-old
+    section14:
+      primarytype: 'block'
+      uuid: 'd8ec79e2-e203-48e1-afd0-019cc89431b2'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.235+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.724+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.078+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>In a statement on Saturday evening, the Vatican said the 88-year-old
         Francis had suffered a "prolonged asthma-like respiratory crisis" during the
         morning that had required the administration of "high-flow oxygen."</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3452b5d4-1acc-4111-bcb3-a50981a7549c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.236+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.725+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.078+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"The Holy Father’s condition remains critical,\" the statement said.\
+    section15:
+      primarytype: 'block'
+      uuid: '3452b5d4-1acc-4111-bcb3-a50981a7549c'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.236+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.725+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.078+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"The Holy Father’s condition remains critical,\" the statement said.\
         \ \"The Pope is not out of danger.\"\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10836599-c1ca-4716-a307-ecf6cfd9cb9c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.236+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.726+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.079+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It added: \"The Holy Father remains alert and has spent the day in\
+    section16:
+      primarytype: 'block'
+      uuid: '10836599-c1ca-4716-a307-ecf6cfd9cb9c'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.236+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.726+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.079+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It added: \"The Holy Father remains alert and has spent the day in\
         \ a chair, though he is suffering more than yesterday. At the moment, the\
         \ prognosis remains guarded.\"\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1b04814-7803-4f23-baa4-41f962173a60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.237+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.726+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.079+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Besides the additional oxygen, the Vatican said he had also needed\
+    section17:
+      primarytype: 'block'
+      uuid: 'b1b04814-7803-4f23-baa4-41f962173a60'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.237+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.726+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.079+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Besides the additional oxygen, the Vatican said he had also needed\
         \ blood transfusions because tests showed he had a low platelet count, which\
         \ is associated with anaemia.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f965ab5-7d97-46b6-9af6-fba84ef41783'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.237+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.727+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.080+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>A US-based doctor said the Gemelli team was probably using the transfusions
+    section18:
+      primarytype: 'block'
+      uuid: '2f965ab5-7d97-46b6-9af6-fba84ef41783'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.237+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.727+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.080+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>A US-based doctor said the Gemelli team was probably using the transfusions
         to raise the pope’s levels of both red blood cells and platelets, which are
         small cell fragments in the blood that help form clots and stop or prevent
         bleeding.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ee56087-9879-4fa9-a447-fb20f3e5b8c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.238+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.727+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.080+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Dr. Andrea Vicini, a Jesuit priest and professor at Boston College,
+    section19:
+      primarytype: 'block'
+      uuid: '6ee56087-9879-4fa9-a447-fb20f3e5b8c6'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.238+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.727+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.080+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Dr. Andrea Vicini, a Jesuit priest and professor at Boston College,
         stressed he only knew of the pope’s case through the Vatican’s public statements.
         "It seems it is under control, but his body is showing signs of difficulty
         to overcome (the) situation," he said.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a3719c1-f90d-4bbc-b496-f238320200d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.238+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.728+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.081+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Out of sight</strong></h2>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9db418ca-fa61-47e1-922f-64f432c062bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.239+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.729+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.081+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Vatican announced earlier on Saturday that the pope would not appear\
+    section20:
+      primarytype: 'block'
+      uuid: '9a3719c1-f90d-4bbc-b496-f238320200d1'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.238+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.728+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.081+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Out of sight</strong></h2>'
+    section21:
+      primarytype: 'block'
+      uuid: '9db418ca-fa61-47e1-922f-64f432c062bb'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.239+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.729+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.081+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Vatican announced earlier on Saturday that the pope would not appear\
         \ in public on Sunday to lead prayer with pilgrims, the second consecutive\
         \ week he will have missed the event.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e4244229-2bcc-42ed-bc44-b5f4d1b1ea8c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.240+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.729+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.082+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It is believed to be the first time he has missed two consecutive Angelus\
+    section22:
+      primarytype: 'block'
+      uuid: 'e4244229-2bcc-42ed-bc44-b5f4d1b1ea8c'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.240+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.729+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.082+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It is believed to be the first time he has missed two consecutive Angelus\
         \ prayers for health reasons. After undergoing intestinal surgery in 2021,\
         \ he led the Angelus just one week later, and skipped one public Sunday prayer\
         \ in 2023 following another operation.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c693a84f-ca6a-43aa-9316-0ba015653a91'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.240+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.730+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.082+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Double pneumonia is a serious infection that can inflame and scar both\
+    section23:
+      primarytype: 'block'
+      uuid: 'c693a84f-ca6a-43aa-9316-0ba015653a91'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.240+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.730+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.082+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Double pneumonia is a serious infection that can inflame and scar both\
         \ lungs, making it difficult to breathe. The Vatican has described the pope’s\
         \ infection as \"complex,\" saying it is being caused by two or more micro-organisms.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96d82e90-51f5-4c86-8312-6ba7e71adcc9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.241+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.731+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.083+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a briefing on Friday, two of his doctors said the pope was highly\
+    section24:
+      primarytype: 'block'
+      uuid: '96d82e90-51f5-4c86-8312-6ba7e71adcc9'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.241+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.731+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.083+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a briefing on Friday, two of his doctors said the pope was highly\
         \ vulnerable due to his age and frailty.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0c13ed9-081e-4311-a22f-be1a56fe0ea3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.241+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.731+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.083+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Dr. Sergio Alfieri, a senior member of the Gemelli staff, said there
+    section25:
+      primarytype: 'block'
+      uuid: 'c0c13ed9-081e-4311-a22f-be1a56fe0ea3'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.241+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.731+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.083+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Dr. Sergio Alfieri, a senior member of the Gemelli staff, said there
         was a risk the lung infection could spread to his bloodstream and develop
         into sepsis, which "could be very difficult to overcome."</p>'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78c89959-bc7f-4e12-9b17-e3388e50a2ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.242+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.732+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.084+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Francis, who has been pope since 2013, has suffered bouts of ill
+    section26:
+      primarytype: 'block'
+      uuid: '78c89959-bc7f-4e12-9b17-e3388e50a2ef'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.242+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.732+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.084+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Francis, who has been pope since 2013, has suffered bouts of ill
         health in the past two years. He is particularly prone to lung infections
         because he developed pleurisy as a young adult and had part of one lung removed.</p>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '08b2507f-3804-4833-9d50-cd32849bd43b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T09:23:46.243+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.732+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T09:36:27.084+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Additional reporting by Joshua McElwee; Editing by Sharon Singleton,
+    section27:
+      primarytype: 'block'
+      uuid: '08b2507f-3804-4833-9d50-cd32849bd43b'
+      activationstatus: true
+      created: 2025-02-23T09:23:46.243+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.732+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T09:36:27.084+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>(Additional reporting by Joshua McElwee; Editing by Sharon Singleton,
         Bernadette Baum, Cynthia Osterman and Paul Simao)</em></p>'
-  'Gilas-Pilipinas-New-Zealand-FIBA-Asia-Cup-qualifiers-third-window':
-    'author': 'CJ Marquez, NewsWatch Plus'
-    'caption': 'Courtesy: FIBA Asia Cup'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T12:23:39.000+08:00
-    'credit': 'Courtesy: FIBA Asia Cup'
-    'imagesource': 'jcr:0aa2ca57-85aa-4838-bf1f-6b1f66ad28d1'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e48f6df9-6032-4f08-9b3d-410f84eef738'
-    'lead': 'Despite a promising start, Gilas Pilipinas was unable to secure the top
+  'START HERE----->Gilas-Pilipinas-New-Zealand-FIBA-Asia-Cup-qualifiers-third-window':
+    author: 'CJ Marquez, NewsWatch Plus'
+    caption: 'Courtesy: FIBA Asia Cup'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T12:23:39.000+08:00
+    credit: 'Courtesy: FIBA Asia Cup'
+    imagesource: '0aa2ca57-85aa-4838-bf1f-6b1f66ad28d1'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'e48f6df9-6032-4f08-9b3d-410f84eef738'
+    lead: 'Despite a promising start, Gilas Pilipinas was unable to secure the top
       seed in Group B of the FIBA Asia Cup 2025 qualifiers after suffering a blowout
       defeat against New Zealand.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T12:25:10.604+08:00
-    'mgnl:createdBy': 'cj-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:09.335+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:06.635+08:00
-    'mgnl:lastModified': 2025-02-23T12:25:10.625+08:00
-    'mgnl:lastModifiedBy': 'cj-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Gilas ends FIBA Asia Cup qualifiers with disappointing loss to New Zealand'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64b48010-085c-4fed-8975-ae4b486dc623'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.616+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.338+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.616+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Gilas Pilipinas ended
+    activationstatus: true
+    created: 2025-02-23T12:25:10.604+08:00
+    createdby: 'cj-nwp'
+    lastactivated: 2025-03-13T12:27:09.335+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:06.635+08:00
+    lastmodified: 2025-02-23T12:25:10.625+08:00
+    lastmodifiedby: 'cj-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Gilas ends FIBA Asia Cup qualifiers with disappointing loss to New Zealand'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '64b48010-085c-4fed-8975-ae4b486dc623'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.616+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.338+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.616+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Gilas Pilipinas ended
         its FIBA Asia Cup 2025 qualifiers campaign with an 87-70 loss to New Zealand
         on Sunday at the Spark Arena in Auckland.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '804016a5-5d39-4548-b8ea-d36dfb4b41ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.617+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.339+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.617+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Chris Newsome paced Gilas with 13 points on 50 percent shooting from
+    section1:
+      primarytype: 'block'
+      uuid: '804016a5-5d39-4548-b8ea-d36dfb4b41ea'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.617+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.339+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.617+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Chris Newsome paced Gilas with 13 points on 50 percent shooting from
         the field along with two assists.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b2a7744-504b-44cb-b9f6-03546ffc3fd4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.617+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.340+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.617+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Gilas struggled to keep in step with New Zealand as it trailed by 20
+    section2:
+      primarytype: 'block'
+      uuid: '9b2a7744-504b-44cb-b9f6-03546ffc3fd4'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.617+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.340+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.617+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Gilas struggled to keep in step with New Zealand as it trailed by 20
         big points at the halftime break.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '71d3f9e5-5627-420a-a43c-53f955098da7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.618+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.618+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'A second half rally by Gilas was not enough to erase the insurmountable
+    section3:
+      primarytype: 'block'
+      uuid: '71d3f9e5-5627-420a-a43c-53f955098da7'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.618+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.618+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'A second half rally by Gilas was not enough to erase the insurmountable
         lead that went as high as 28 points.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c172189-12b4-408d-b976-ad148df00877'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.618+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.618+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'New Zealand avenged its November window loss to Gilas with a rousing
+    section4:
+      primarytype: 'block'
+      uuid: '1c172189-12b4-408d-b976-ad148df00877'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.618+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.618+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'New Zealand avenged its November window loss to Gilas with a rousing
         home victory to hold a 5-1 win-loss record and secure the top seed in Group
         B.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb37fb1b-46b8-4657-8bd7-eec097207c22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.618+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.618+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Gilas, meanwhile, dropped both of its games in the third and final
+    section5:
+      primarytype: 'block'
+      uuid: 'eb37fb1b-46b8-4657-8bd7-eec097207c22'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.618+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.618+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Gilas, meanwhile, dropped both of its games in the third and final
         window to fall at 4-2 going into the FIBA Asia Cup 2025 happening in Jeddah,
         Saudi Arabia in August.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3a5539a-f650-476a-9e4d-9ee6a6e88831'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:25:10.619+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:25:10.619+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>June Mar Fajardo had 11 points and five rebounds, while Justin Brownlee
+    section6:
+      primarytype: 'block'
+      uuid: 'a3a5539a-f650-476a-9e4d-9ee6a6e88831'
+      activationstatus: true
+      created: 2025-02-23T12:25:10.619+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T12:27:09.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:25:10.619+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>June Mar Fajardo had 11 points and five rebounds, while Justin Brownlee
         chipped in 10 points and four rebounds for Gilas.</p>'
-  'ph-us-ties-remain-robust':
-    'author': 'Tristan Nodalo, NewsWatch Plus'
-    'caption': 'President Ferdinand Marcos Jr. shakes hands with INDOPACOM Commander
+  'START HERE----->ph-us-ties-remain-robust':
+    author: 'Tristan Nodalo, NewsWatch Plus'
+    caption: 'President Ferdinand Marcos Jr. shakes hands with INDOPACOM Commander
       Admiral Samuel Paparo during the 80th anniversary of the "Liberation of Manila"
       in Taguig City on Saturday, Feb. 22. (Presidential Communications Office)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T12:35:48.000+08:00
-    'imagesource': 'jcr:7cbccee1-47e5-40b5-93b7-ddd2ab6697e4'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c4306508-0703-45ad-a02c-7bd8693daa35'
-    'lead': 'President Ferdinand Marcos Jr. emphasized on Saturday that the relationship
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T12:35:48.000+08:00
+    imagesource: '7cbccee1-47e5-40b5-93b7-ddd2ab6697e4'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c4306508-0703-45ad-a02c-7bd8693daa35'
+    lead: 'President Ferdinand Marcos Jr. emphasized on Saturday that the relationship
       between the United States and the Philippines will remain strong and enduring.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T12:38:49.514+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:09.125+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:06.756+08:00
-    'mgnl:lastModified': 2025-02-23T12:46:25.966+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['United-States', 'Bongbong-Marcos']
-    'stories': []
-    'template': '1'
-    'title': 'PH, US ties to remain robust - Marcos'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de42afcf-3660-44ce-b5eb-c8079a54f042'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.598+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.127+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.961+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
+    activationstatus: true
+    created: 2025-02-23T12:38:49.514+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:09.125+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:06.756+08:00
+    lastmodified: 2025-02-23T12:46:25.966+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH, US ties to remain robust - Marcos'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'de42afcf-3660-44ce-b5eb-c8079a54f042'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.598+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.127+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.961+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
         Marcos Jr. emphasized on Saturday, Feb. 22, that the relationship between
         the United States and the Philippines will remain strong and enduring.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2915dc92-3a79-4a2d-9bce-7af7673afa00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.598+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.128+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.961+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He reiterated that this longstanding alliance plays a vital role in\
+    section1:
+      primarytype: 'block'
+      uuid: '2915dc92-3a79-4a2d-9bce-7af7673afa00'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.598+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.128+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.961+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He reiterated that this longstanding alliance plays a vital role in\
         \ preserving peace and stability in the Indo-Pacific region.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b93f8bf-90d5-4846-8cb6-f6ed0fc7047f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.599+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.128+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.962+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Whether we gather, as we do today, to remember the liberation of
+    section2:
+      primarytype: 'block'
+      uuid: '5b93f8bf-90d5-4846-8cb6-f6ed0fc7047f'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.599+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.128+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.962+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>"Whether we gather, as we do today, to remember the liberation of
         Manila some eighty years ago, or during joint military exercises as our armed
         forces will in a few weeks’ time for Balikatan, there is no doubt that our
         relationship is robust, with our two countries continuing to work together
         to address common challenges," Marcos said during his speech at the 80th anniversary
         of the "Liberation of Manila" at the Manila American Cemetery and Memorial
         in Taguig.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e84a7c1d-43aa-4942-b3f6-62443bc9530e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.599+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.129+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.962+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The president highlighted the importance of the deep bilateral ties\
+    section3:
+      primarytype: 'block'
+      uuid: 'e84a7c1d-43aa-4942-b3f6-62443bc9530e'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.599+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.129+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.962+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The president highlighted the importance of the deep bilateral ties\
         \ between the two nations, which span across national security and economic\
         \ prosperity.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d4cba56-2118-4881-995a-3a3b9e9b7a29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.599+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.130+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.963+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"In peace and in war, through natural disasters and pandemics, Philippine-US\
+    section4:
+      primarytype: 'block'
+      uuid: '2d4cba56-2118-4881-995a-3a3b9e9b7a29'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.599+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.130+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.963+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"In peace and in war, through natural disasters and pandemics, Philippine-US\
         \ relations are firmly anchored on the values and principles that we cherish\
         \ – peace, democracy, fairness, social progress, and justice,\" he added.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbccd6d0-094b-4ce7-8728-c18426913982'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.600+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.131+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.963+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "US Ambassador to the Philippines MaryKay Carlson also addressed the\
+    section5:
+      primarytype: 'block'
+      uuid: 'cbccd6d0-094b-4ce7-8728-c18426913982'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.600+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.131+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.963+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "US Ambassador to the Philippines MaryKay Carlson also addressed the\
         \ event, underscoring the significance of shared history and experiences in\
         \ strengthening Philippine-US relations.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85252e61-2316-4381-b558-ed69829bb99a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.600+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.132+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.964+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Our bilateral ties are stronger than ever as we work together today\
+    section6:
+      primarytype: 'block'
+      uuid: '85252e61-2316-4381-b558-ed69829bb99a'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.600+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.132+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.964+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Our bilateral ties are stronger than ever as we work together today\
         \ to address shared challenges ranging from maritime security and disaster\
         \ response to complex 21st-century concerns such as those we encounter in\
         \ the space and cyber domains,\" said Carlson.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8902979-e6a0-4120-a45b-1d9c8a50b370'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.601+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.132+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.964+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The envoy further emphasized the growing number of like-minded partners\
+    section7:
+      primarytype: 'block'
+      uuid: 'a8902979-e6a0-4120-a45b-1d9c8a50b370'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.601+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.132+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.964+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The envoy further emphasized the growing number of like-minded partners\
         \ in the region, noting their contribution to the shared vision for a free\
         \ and open Indo-Pacific.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0928da0-d985-47e2-98be-84b2f7bd8a9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T12:38:49.601+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:09.132+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T12:46:25.965+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"And we are encouraged by the growing number of likeminded partners
+    section8:
+      primarytype: 'block'
+      uuid: 'f0928da0-d985-47e2-98be-84b2f7bd8a9b'
+      activationstatus: true
+      created: 2025-02-23T12:38:49.601+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:09.132+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T12:46:25.965+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>"And we are encouraged by the growing number of likeminded partners
         who are playing key roles in our concerted effort to achieve our shared vision
         for a free and open Indo-Pacific and a world where democratic freedoms can
         flourish," she added.</p>'
-  'israel-postpones-release-palestinian-prisoners':
-    'author': 'James Mackenzie and Maayan Lubell, Reuters'
-    'caption': 'Israeli Prime Minister Benjamin Netanyahu attends a joint press conference
+  'START HERE----->israel-postpones-release-palestinian-prisoners':
+    author: 'James Mackenzie and Maayan Lubell, Reuters'
+    caption: 'Israeli Prime Minister Benjamin Netanyahu attends a joint press conference
       with US Secretary of State Marco Rubio at the Prime Minister’s office in Jerusalem,
       on Feb. 16. (Ohad Zwigenberg/Pool via Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T14:11:04.000+08:00
-    'imagesource': 'jcr:68b4d759-777b-40c2-9172-7d6c4ff1b584'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '659119c7-a60b-4caf-92bb-f85a8abc51b7'
-    'lead': 'Israel said on Sunday it was delaying the release of hundreds of Palestinian
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T14:11:04.000+08:00
+    imagesource: '68b4d759-777b-40c2-9172-7d6c4ff1b584'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '659119c7-a60b-4caf-92bb-f85a8abc51b7'
+    lead: 'Israel said on Sunday it was delaying the release of hundreds of Palestinian
       prisoners it had planned to free the day before until militant group Hamas met
       its conditions, underscoring the fragility of the Gaza ceasefire accord.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T14:15:36.471+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:08.848+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:06.954+08:00
-    'mgnl:lastModified': 2025-02-23T14:24:56.069+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Gaza', 'Hamas', 'Global-Watch', 'Israel']
-    'stories': []
-    'template': '1'
-    'title': 'Israel says it is postponing release of Palestinian prisoners'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dbb5f963-5d64-462f-9784-23adbdaa818d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.530+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.850+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.054+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Jerusalem, Israel -</strong>&nbsp;Israel said on Sunday,
+    activationstatus: true
+    created: 2025-02-23T14:15:36.471+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:08.848+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:06.954+08:00
+    lastmodified: 2025-02-23T14:24:56.069+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Israel says it is postponing release of Palestinian prisoners'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'dbb5f963-5d64-462f-9784-23adbdaa818d'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.530+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.850+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.054+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Jerusalem, Israel -</strong>&nbsp;Israel said on Sunday,
         Feb. 23, it was delaying the release of hundreds of Palestinian prisoners
         it had planned to free the day before until militant group Hamas met its conditions,
         underscoring the fragility of the Gaza ceasefire accord.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ec2d701-a6af-492c-8093-7d32613e83f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.531+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.851+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.055+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Israeli Prime Minister Benjamin Netanyahu’s office released a statement
+    section1:
+      primarytype: 'block'
+      uuid: '1ec2d701-a6af-492c-8093-7d32613e83f0'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.531+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.851+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.055+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Israeli Prime Minister Benjamin Netanyahu’s office released a statement
         in the early hours of Sunday saying that Israel was waiting to deliver the
         620 Palestinian prisoners and detainees "until the release of the next hostages
         has been assured, and without the humiliating ceremonies."</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90eabf55-af93-4a6c-82b0-ca76c3dac07d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.531+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.851+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.056+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>That was a reference to recent handovers by Hamas that UN officials
+    section2:
+      primarytype: 'block'
+      uuid: '90eabf55-af93-4a6c-82b0-ca76c3dac07d'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.531+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.851+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.056+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>That was a reference to recent handovers by Hamas that UN officials
         have said went against international law because they were not respectful.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd536066b-e0f6-4868-82bf-deb83d9888f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.531+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.852+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.056+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas has made hostages appear on stage in front of crowds and sometimes\
+    section3:
+      primarytype: 'block'
+      uuid: 'd536066b-e0f6-4868-82bf-deb83d9888f3'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.531+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.852+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.056+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas has made hostages appear on stage in front of crowds and sometimes\
         \ speak before they were handed over. Coffins with hostage remains have also\
         \ been carried through crowds.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75faa904-68b9-443b-8712-3edbd0a8089f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.532+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.853+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.057+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Israel’s announcement, which also accused Hamas of repeatedly violating\
+    section4:
+      primarytype: 'block'
+      uuid: '75faa904-68b9-443b-8712-3edbd0a8089f'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.532+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.853+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.057+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Israel’s announcement, which also accused Hamas of repeatedly violating\
         \ the month-old ceasefire, came after the Palestinian militant group on Saturday\
         \ handed over six hostages from Gaza as part of an exchange arranged under\
         \ the truce.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa37b9c3-f3d1-4a0b-b835-3f843223fcbb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.532+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.853+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.057+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The six hostages freed on Saturday were the last living Israeli captives\
+    section5:
+      primarytype: 'block'
+      uuid: 'fa37b9c3-f3d1-4a0b-b835-3f843223fcbb'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.532+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.853+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.057+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The six hostages freed on Saturday were the last living Israeli captives\
         \ due to be handed over during the first phase of the ceasefire. The bodies\
         \ of four dead Israeli hostages were to be released next week.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59a424fe-edde-4609-905d-93c53788069a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.533+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.854+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.058+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It was not clear if Israel wanted assurances on that release or other\
+    section6:
+      primarytype: 'block'
+      uuid: '59a424fe-edde-4609-905d-93c53788069a'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.533+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.854+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.058+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It was not clear if Israel wanted assurances on that release or other\
         \ hostage releases.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '01d153a1-0849-47ed-b0e3-4e31d23f3bfb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.533+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.855+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.058+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "After the six hostages arrived back in Israel, Hamas released a video\
+    section7:
+      primarytype: 'block'
+      uuid: '01d153a1-0849-47ed-b0e3-4e31d23f3bfb'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.533+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.855+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.058+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "After the six hostages arrived back in Israel, Hamas released a video\
         \ in which two other hostages, Eviatar David and Guy Gilboa-Dalal, were seen\
         \ watching one of the handovers earlier on Saturday.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd4dc41d-9b54-4e1f-acc1-37bfe7a0aa6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.534+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.855+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.059+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas spokesperson Abdul Latif Al-Qanou earlier accused Israel of violating\
+    section8:
+      primarytype: 'block'
+      uuid: 'bd4dc41d-9b54-4e1f-acc1-37bfe7a0aa6b'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.534+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.855+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.059+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas spokesperson Abdul Latif Al-Qanou earlier accused Israel of violating\
         \ the ceasefire as Saturday elapsed without the release of Palestinians as\
         \ planned.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91a53104-c14d-456a-b654-49fb3906f638'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.534+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.856+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.059+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Israel and Hamas have frequently accused each other of violations
+    section9:
+      primarytype: 'block'
+      uuid: '91a53104-c14d-456a-b654-49fb3906f638'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.534+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.856+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.059+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Israel and Hamas have frequently accused each other of violations
         since the ceasefire started on Jan. 19 but it has so far continued to hold.
         Hamas at one stage said it would stop handing over hostages because of alleged
         Israeli breaches.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22d19e3f-5272-4163-9011-6791817b9ad2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.534+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.857+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.060+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Israelis Eliya Cohen, 27, Omer Shem Tov, 22, and Omer Wenkert, 23,
-        all seized in Hamas'' Oct. 7, 2023, attack on Israel, were handed over on
+    section10:
+      primarytype: 'block'
+      uuid: '22d19e3f-5272-4163-9011-6791817b9ad2'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.534+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.857+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.060+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Israelis Eliya Cohen, 27, Omer Shem Tov, 22, and Omer Wenkert, 23,
+        all seized in Hamas' Oct. 7, 2023, attack on Israel, were handed over on
         Saturday in central Gaza to the Red Cross.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3abfcc02-e9bf-4b19-b311-84c59e277ce5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.535+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.857+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.061+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Dozens of militants stood guard in a crowd that had gathered to watch\
+    section11:
+      primarytype: 'block'
+      uuid: '3abfcc02-e9bf-4b19-b311-84c59e277ce5'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.535+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.857+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.061+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Dozens of militants stood guard in a crowd that had gathered to watch\
         \ the handover, as masked Hamas men armed with automatic rifles stood on each\
         \ side of the three men, who appeared thin and pale, as they were made to\
         \ wave from the stage.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66b90814-edb3-48d7-b6da-dc4278d61366'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.535+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.858+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.061+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Tal Shoham, 40, and Avera Mengistu, 39, were earlier released in southern\
+    section12:
+      primarytype: 'block'
+      uuid: '66b90814-edb3-48d7-b6da-dc4278d61366'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.535+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.858+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.061+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Tal Shoham, 40, and Avera Mengistu, 39, were earlier released in southern\
         \ Gaza.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '68ecad85-0f48-4c46-8a6c-14f1fe309d20'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.536+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.859+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas rejected criticism of the handover events on Saturday, describing\
+    section13:
+      primarytype: 'block'
+      uuid: '68ecad85-0f48-4c46-8a6c-14f1fe309d20'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.536+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.859+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas rejected criticism of the handover events on Saturday, describing\
         \ them as a solemn show of Palestinian unity. It handed over a sixth hostage,\
         \ Hisham Al-Sayed, a 36-year-old Arab citizen of Israel, to the Red Cross\
         \ in Gaza City without a public ceremony.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a406252-c319-4177-be4f-802105ebb1bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.536+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.859+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Al-Sayed and Mengistu had been held by Hamas since they entered Gaza\
+    section14:
+      primarytype: 'block'
+      uuid: '7a406252-c319-4177-be4f-802105ebb1bb'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.536+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.859+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Al-Sayed and Mengistu had been held by Hamas since they entered Gaza\
         \ of their own accord around a decade ago. Shoham was abducted from Kibbutz\
         \ Be'eri along with his wife and two children, who were freed in a brief truce\
         \ in November 2023.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a884996c-a325-4f82-ac9b-012f7d9d001c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.537+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.860+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.063+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Sixty-three more captives, less than half of whom are believed to be\
+    section15:
+      primarytype: 'block'
+      uuid: 'a884996c-a325-4f82-ac9b-012f7d9d001c'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.537+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.860+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.063+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Sixty-three more captives, less than half of whom are believed to be\
         \ alive, remain in Gaza and are due to be released under a three-phase ceasefire\
         \ deal mediated by Qatar and Egypt.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3628987-56c8-4224-9503-379b766f2200'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.537+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.861+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.063+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Shem Tov embraced his parents tightly, laughing and crying. \"How I\
+    section16:
+      primarytype: 'block'
+      uuid: 'c3628987-56c8-4224-9503-379b766f2200'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.537+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.861+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.063+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Shem Tov embraced his parents tightly, laughing and crying. \"How I\
         \ dreamt of this,\" he said in a video distributed by the Israeli military.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9abf2cc5-e24d-4d8f-908d-25555a590de9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.538+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.861+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Talks on next phase</strong></h2>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '62b097d2-6f12-46bb-82c1-152f04f8286d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.538+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.862+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The fragile truce in the war between Israel and Hamas militants was\
+    section17:
+      primarytype: 'block'
+      uuid: '9abf2cc5-e24d-4d8f-908d-25555a590de9'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.538+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.861+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Talks on next phase</strong></h2>'
+    section18:
+      primarytype: 'block'
+      uuid: '62b097d2-6f12-46bb-82c1-152f04f8286d'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.538+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.862+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The fragile truce in the war between Israel and Hamas militants was\
         \ also threatened by the misidentification of a body released on Thursday\
         \ as that of Shiri Bibas, who was kidnapped with her two young sons and her\
         \ husband in Hamas' 2023 attack.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f2f2f8d-f478-4412-9124-82aad4102c29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.539+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.863+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.065+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Late on Friday, Hamas handed over another body, which her family said\
+    section19:
+      primarytype: 'block'
+      uuid: '3f2f2f8d-f478-4412-9124-82aad4102c29'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.539+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.863+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.065+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Late on Friday, Hamas handed over another body, which her family said\
         \ had been confirmed to be hers.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a5cc6d2-4f24-45c0-b32f-1b2d4dd05d77'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.539+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.863+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.066+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The ceasefire has brought a pause in the fighting, but prospects of\
+    section20:
+      primarytype: 'block'
+      uuid: '4a5cc6d2-4f24-45c0-b32f-1b2d4dd05d77'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.539+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.863+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.066+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The ceasefire has brought a pause in the fighting, but prospects of\
         \ a definitive end to the war remain unclear.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba104405-fcf8-4acf-b216-71f2c13ba5ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.540+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.864+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.066+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Both sides have said they intend to start talks on a second stage,\
+    section21:
+      primarytype: 'block'
+      uuid: 'ba104405-fcf8-4acf-b216-71f2c13ba5ad'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.540+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.864+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.066+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Both sides have said they intend to start talks on a second stage,\
         \ which mediators say aims to agree the return of all remaining hostages and\
         \ the full withdrawal of Israeli troops.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73da0aa1-f240-465d-a7ac-8d069f8ac9cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.540+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.865+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The war started when Hamas-led militants launched a cross-border attack\
+    section22:
+      primarytype: 'block'
+      uuid: '73da0aa1-f240-465d-a7ac-8d069f8ac9cf'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.540+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.865+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The war started when Hamas-led militants launched a cross-border attack\
         \ on Israeli communities that killed 1,200 and took 251 hostages, according\
         \ to Israel.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2b6b6de-ae1e-41fd-ad9f-0498757c1370'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.541+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.865+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Israeli retaliatory offensive has killed at least 48,000 people,\
+    section23:
+      primarytype: 'block'
+      uuid: 'd2b6b6de-ae1e-41fd-ad9f-0498757c1370'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.541+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.865+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Israeli retaliatory offensive has killed at least 48,000 people,\
         \ the Palestinian health authorities say, and reduced much of the enclave\
         \ to rubble, leaving some hundreds of thousands in makeshift shelters and\
         \ dependent on aid trucks.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e6399dd-d59a-4c5b-b9db-22c64b780cb1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T14:15:36.542+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.866+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T14:24:56.068+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Additional reporting by Alexander Cornwell in Jerusalem, Ali
+    section24:
+      primarytype: 'block'
+      uuid: '3e6399dd-d59a-4c5b-b9db-22c64b780cb1'
+      activationstatus: true
+      created: 2025-02-23T14:15:36.542+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.866+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T14:24:56.068+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>(Additional reporting by Alexander Cornwell in Jerusalem, Ali
         Sawafta in Ramallah, Hatem Maher, Nidal al-Mughrabi and Jaida Taha in Cairo,
         Jana Choukeir in Dubai and Rami Amichay in Tel Aviv; Writing by James Mackenzie
         and Maayan Lubell; Editing by Cynthia Osterman)</em></p>'
-  'duterte-accuses-marcos-dicatorship':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'caption': 'Former president Rodrigo Duterte faces a committee hearing of the
+  'START HERE----->duterte-accuses-marcos-dicatorship':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    caption: 'Former president Rodrigo Duterte faces a committee hearing of the
       House of Representatives regarding his war on drugs campaign in November 2024.
       (House of Representatives/Facebook)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T17:00:35.000+08:00
-    'imagesource': 'jcr:f2aaf038-7023-40ed-98eb-a5a41e42450f'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '633095ed-bdfb-4b1c-b56d-3c19b3c81df7'
-    'lead': 'The Duterte and Marcos camps continued their word war after the former
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T17:00:35.000+08:00
+    imagesource: 'f2aaf038-7023-40ed-98eb-a5a41e42450f'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '633095ed-bdfb-4b1c-b56d-3c19b3c81df7'
+    lead: 'The Duterte and Marcos camps continued their word war after the former
       president accused the incumbent PH leader of ‘veering towards a dictatorship.’
       Palace defense: Duterte is a ‘one-man fake-news factory,’ whose administration
       had a ‘troubled past.’'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T17:08:08.243+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:08.304+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:07.189+08:00
-    'mgnl:lastModified': 2025-02-23T17:08:08.410+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Bongbong-Marcos', 'Rodrigo-Duterte']
-    'stories': []
-    'template': '1'
-    'title': 'Palace says Rodrigo Duterte a ‘fake-news factory,’ describes his administration
+    activationstatus: true
+    created: 2025-02-23T17:08:08.243+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:08.304+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:07.189+08:00
+    lastmodified: 2025-02-23T17:08:08.410+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Palace says Rodrigo Duterte a ‘fake-news factory,’ describes his administration
       as ‘troubled past’'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5a7343f-4f3e-4e2f-8b3c-478d5cc246ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.383+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.313+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.401+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Malacañang on Sunday,
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd5a7343f-4f3e-4e2f-8b3c-478d5cc246ca'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.383+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.313+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.401+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Malacañang on Sunday,
         Feb. 23, defended President Ferdinand Marcos Jr. from an accusation that he
         was “veering towards a dictatorship,” thrown by his predecessor Rodrigo Duterte
         amid an important campaign season for the senate.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '373ba966-1bbc-491c-972b-62542c83285f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.383+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.314+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.383+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Duterte issued the accusation during an indignation rally in Mandaue\
+    section1:
+      primarytype: 'block'
+      uuid: '373ba966-1bbc-491c-972b-62542c83285f'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.383+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.314+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.383+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Duterte issued the accusation during an indignation rally in Mandaue\
         \ City, Cebu on Saturday, where supporters said they were fighting against\
         \ “impeachment, corruption, oppression, illegal drugs, and criminality.”\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90fe77bf-9a3d-4140-8547-c14aac6c6a4f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.384+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.314+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.384+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Mr. Marcos is veering towards a dictatorship, mupusta, dili na manaog\
+    section2:
+      primarytype: 'block'
+      uuid: '90fe77bf-9a3d-4140-8547-c14aac6c6a4f'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.384+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.314+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.384+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Mr. Marcos is veering towards a dictatorship, mupusta, dili na manaog\
         \ pagkahuman sa iyang termino,” the former chief executive said. \r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '974cae90-4927-488f-a178-863db598b52b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.384+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.315+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.384+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Pareho na sa iyang tatay. Magkagubot na pud ta because ang iyang buhaton\
+    section3:
+      primarytype: 'block'
+      uuid: '974cae90-4927-488f-a178-863db598b52b'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.384+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.315+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.384+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Pareho na sa iyang tatay. Magkagubot na pud ta because ang iyang buhaton\
         \ mu-deklara ng martial law pareha sa iyang papa. Pag martial law, way election,\
         \ siya na pud,” Duterte said.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95351591-ea74-4c57-89a0-b2e9b49bf3a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.384+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.316+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.384+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: Mr. Marcos is veering towards a dictatorship. I will\
+    section4:
+      primarytype: 'block'
+      uuid: '95351591-ea74-4c57-89a0-b2e9b49bf3a9'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.384+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.316+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.384+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: Mr. Marcos is veering towards a dictatorship. I will\
         \ make a bet that he will not step down after his term. It will be like his\
         \ father. It will be chaos because he will declare martial law just like his\
         \ father. During martial law, there will be no elections, and he will be in\
         \ power.]\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17481c22-0c85-47c3-b304-61c4b60e8115'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.385+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.317+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.385+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Marcos’ father was the late President Ferdinand E. Marcos, who placed\
+    section5:
+      primarytype: 'block'
+      uuid: '17481c22-0c85-47c3-b304-61c4b60e8115'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.385+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.317+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.385+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Marcos’ father was the late President Ferdinand E. Marcos, who placed\
         \ the Philippines under martial law in 1972 for 14 years before being ousted\
         \ through the People Power Revolution in February 1986.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb15f2b5-d5a2-45e1-b2d2-d61f50c231f6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.385+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.317+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.385+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a scathing statement Sunday, the Palace said that Duterte’s “baseless\
+    section6:
+      primarytype: 'block'
+      uuid: 'cb15f2b5-d5a2-45e1-b2d2-d61f50c231f6'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.385+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.317+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.385+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a scathing statement Sunday, the Palace said that Duterte’s “baseless\
         \ and ridiculous statements” would be treated as “a tall tale from a man prone\
         \ to lying and to inventing hoaxes.” \r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f432fcb-bba2-49ef-a2c3-2f082a763461'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.386+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.318+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.386+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“This hoax is another budol [scam] emerging from a one-man fake-news\
+    section7:
+      primarytype: 'block'
+      uuid: '3f432fcb-bba2-49ef-a2c3-2f082a763461'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.386+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.318+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.386+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“This hoax is another budol [scam] emerging from a one-man fake-news\
         \ factory,” Executive Secretary Lucas Bersamin said.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46f2cbe4-4d00-4224-a9d2-bae76d93f22d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.386+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.319+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.386+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Bersamin said that the administration “will stay the course in upholding\
+    section8:
+      primarytype: 'block'
+      uuid: '46f2cbe4-4d00-4224-a9d2-bae76d93f22d'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.386+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.319+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.386+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Bersamin said that the administration “will stay the course in upholding\
         \ the Constitution,” adding that it would adhere to the rule of law and respect\
         \ people’s rights.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be719811-df3f-4dc6-9142-b9ce744c5ac1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.386+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.320+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.386+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd5a22c1-b276-4234-a7f2-d3d44879ec57'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.387+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.321+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.387+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d5ca477-a1cb-4248-829f-0abf65041339'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.387+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.322+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.387+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Another attack: Duterte’s administration oppressive</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef647c03-9aaa-4180-b535-4b58687932cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.388+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.322+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.388+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In the same statement, Bersamin also described Duterte’s presidency\
+    section9:
+      primarytype: 'block'
+      uuid: 'be719811-df3f-4dc6-9142-b9ce744c5ac1'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.386+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.320+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.386+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section10:
+      primarytype: 'block'
+      uuid: 'cd5a22c1-b276-4234-a7f2-d3d44879ec57'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.387+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.321+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.387+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section11:
+      primarytype: 'block'
+      uuid: '6d5ca477-a1cb-4248-829f-0abf65041339'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.387+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.322+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.387+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Another attack: Duterte’s administration oppressive</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: 'ef647c03-9aaa-4180-b535-4b58687932cf'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.388+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.322+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.388+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In the same statement, Bersamin also described Duterte’s presidency\
         \ from 2016 to 2022 as a “troubled past.”\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85c9e977-6fb2-444b-8d18-e207c2856fe5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.388+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.323+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.388+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“We will not backslide into the oppressive ways of the previous administration,\
+    section13:
+      primarytype: 'block'
+      uuid: '85c9e977-6fb2-444b-8d18-e207c2856fe5'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.388+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.323+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.388+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“We will not backslide into the oppressive ways of the previous administration,\
         \ when critics were jailed upon trumped-up charges and when kill orders were\
         \ publicly issued with glee and obeyed blindly,” the executive secretary said.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed49f383-e769-40d5-899c-5b0896e4a832'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.389+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.326+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.389+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“It is the leader of that troubled past who is depicting us as veering\
+    section14:
+      primarytype: 'block'
+      uuid: 'ed49f383-e769-40d5-899c-5b0896e4a832'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.389+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.326+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.389+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“It is the leader of that troubled past who is depicting us as veering\
         \ toward a system where anyone can be deprived of life, liberty, and property\
         \ without due process of law, as many had been on his mere say-so as a tyrant\
         \ who did not respect the rights of the people,” he added.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05b0d46d-d3c7-4828-9cac-c758343f79ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.389+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.326+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.389+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The rift between Marcos and Duterte, a tandem who once campaigned with\
+    section15:
+      primarytype: 'block'
+      uuid: '05b0d46d-d3c7-4828-9cac-c758343f79ef'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.389+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.326+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.389+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The rift between Marcos and Duterte, a tandem who once campaigned with\
         \ a call for unity, had been pronounced since 2024.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '402f9a96-3796-45a9-9416-903c1c03dccd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.390+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.327+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.390+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>During campaign sorties of the “<strong><a href="https://www.newswatchplus.ph/news/2025/2/12/alyansa-bagong-pilipinas-proclamation-rally.html">Alyansa
+    section16:
+      primarytype: 'block'
+      uuid: '402f9a96-3796-45a9-9416-903c1c03dccd'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.390+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.327+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.390+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>During campaign sorties of the “<strong><a href="https://www.newswatchplus.ph/news/2025/2/12/alyansa-bagong-pilipinas-proclamation-rally.html">Alyansa
         para sa Bagong Pilipinas</a></strong>,” Marcos consistently said that none
         from the administration slate had traces of blood from the drug war, or had
         praised China, and were enablers of crime and illegal offshore gaming operations,
         among other attacks on Duterte’s government.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '56bed9f1-67d7-4833-8f96-ddfc698622ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.390+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.328+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.390+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>For his part, Duterte continuously claimed Marcos of being a <strong><a
+    section17:
+      primarytype: 'block'
+      uuid: '56bed9f1-67d7-4833-8f96-ddfc698622ef'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.390+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.328+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.390+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>For his part, Duterte continuously claimed Marcos of being a <strong><a
         href="https://www.newswatchplus.ph/news/nwp/2025/2/14/duterte-calls-marcos-bangag-anew.html">drug
         addict</a></strong>. He said the senatorial bets of the Partido Demokratiko
         Pilipino would protect her daughter, Vice President Sara Duterte.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca28cdc9-8e7f-42db-895d-5751f00e857e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.391+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.328+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.391+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The <strong><a href="https://www.newswatchplus.ph/news/2025/2/5/house-sara-duterte-impeachment.html">House
+    section18:
+      primarytype: 'block'
+      uuid: 'ca28cdc9-8e7f-42db-895d-5751f00e857e'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.391+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.328+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.391+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The <strong><a href="https://www.newswatchplus.ph/news/2025/2/5/house-sara-duterte-impeachment.html">House
         of Representatives</a></strong> has impeached the vice president, but the
         Senate has yet to tackle the articles of impeachment due to the congressional
         break.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b0ff04b3-3885-40b9-8b24-b9b10ffe458c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.391+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.329+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.391+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Senate President Chiz Escudero had said the <strong><a href="https://www.newswatchplus.ph/news/2025/2/22/duterte-impeachment-trial-june-2-gatchalian.html">impeachment
+    section19:
+      primarytype: 'block'
+      uuid: 'b0ff04b3-3885-40b9-8b24-b9b10ffe458c'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.391+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.329+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.391+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Senate President Chiz Escudero had said the <strong><a href="https://www.newswatchplus.ph/news/2025/2/22/duterte-impeachment-trial-june-2-gatchalian.html">impeachment
         trial</a></strong> may begin after the State of the Nation Address in July
         — already at the start of the 20th Congress with the new batch of senators
         coming in to become judges.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cc26c94-d0c8-4dad-859d-161c77bfb3a1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:08:08.392+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:08.329+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:08:08.392+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The impeachment of Duterte was mainly based on her supposed assassination
+    section20:
+      primarytype: 'block'
+      uuid: '2cc26c94-d0c8-4dad-859d-161c77bfb3a1'
+      activationstatus: true
+      created: 2025-02-23T17:08:08.392+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:08.329+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:08:08.392+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The impeachment of Duterte was mainly based on her supposed assassination
         threats against the First Family and the House speaker, and her alleged misuse
         of confidential funds.</p>'
-  'osg-extension-budget-law-petition-comment':
-    'caption': 'The photo shows the Supreme Court located in Ermita, Manila. (Eric
+  'START HERE----->osg-extension-budget-law-petition-comment':
+    caption: 'The photo shows the Supreme Court located in Ermita, Manila. (Eric
       Bastillador/NewsWatch Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T17:09:52.000+08:00
-    'imagesource': 'jcr:917853fd-31b9-41f4-ad76-af6b127cae8a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '25360c89-6b4f-4b03-9670-122f67111681'
-    'lead': 'The Office of the Solicitor General (OSG) has asked the Supreme Court
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T17:09:52.000+08:00
+    imagesource: '917853fd-31b9-41f4-ad76-af6b127cae8a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '25360c89-6b4f-4b03-9670-122f67111681'
+    lead: 'The Office of the Solicitor General (OSG) has asked the Supreme Court
       for five more days to file its comment on the petition challenging the constitutionality
       of this year’s budget law.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T17:18:52.069+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:07.798+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:07.357+08:00
-    'mgnl:lastModified': 2025-02-23T17:18:52.143+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Office-of-the-Solicitor-General', 'Supreme-Court', '2025-budget']
-    'stories': []
-    'template': '1'
-    'title': 'OSG asks Supreme Court for extension to comment on budget law petition'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4df44b6-ca4d-4d33-978b-88d572687390'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.132+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.801+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.139+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Office of the Solicitor
+    activationstatus: true
+    created: 2025-02-23T17:18:52.069+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:07.798+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:07.357+08:00
+    lastmodified: 2025-02-23T17:18:52.143+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'OSG asks Supreme Court for extension to comment on budget law petition'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd4df44b6-ca4d-4d33-978b-88d572687390'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.132+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.801+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.139+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Office of the Solicitor
         General (OSG) has asked the Supreme Court for five more days to file its comment
         on the petition challenging the constitutionality of this year’s budget law.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b9dda063-07e8-463c-b75c-95bd2bf325a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.133+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.802+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.133+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The high court directed the Office of the President and Congress
+    section1:
+      primarytype: 'block'
+      uuid: 'b9dda063-07e8-463c-b75c-95bd2bf325a2'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.133+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.802+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.133+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The high court directed the Office of the President and Congress
         to comment on the petition for certiorari against the 2025 General Appropriations
         Act <strong><a href="https://www.newswatchplus.ph/news/2025/2/4/bersamin-congress-supreme-court-budget.html">within
         10 days</a></strong>.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b61dc0ca-1971-4edf-852a-30e4648f5781'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.133+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.803+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.133+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The OSG, the government’s lawyer, said it received the copies of the\
+    section2:
+      primarytype: 'block'
+      uuid: 'b61dc0ca-1971-4edf-852a-30e4648f5781'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.133+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.803+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.133+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The OSG, the government’s lawyer, said it received the copies of the\
         \ resolution on Feb. 12. The filing period lapsed on Saturday, Feb. 22.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bd5799d-df51-4e1c-9cbd-4d353d97af7b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.133+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.803+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.133+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Although the draft of the said comment has already been finished,\
+    section3:
+      primarytype: 'block'
+      uuid: '7bd5799d-df51-4e1c-9cbd-4d353d97af7b'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.133+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.803+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.133+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Although the draft of the said comment has already been finished,\
         \ it is still undergoing further revision and/or correction before it can\
         \ be filed,” the OSG said in its motion received by the high tribunal on Friday.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b050af85-47be-4efe-bfc6-65e01f8d063a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.134+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.804+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.134+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“The instant motion is not intended to delay the proceeding but solely\
+    section4:
+      primarytype: 'block'
+      uuid: 'b050af85-47be-4efe-bfc6-65e01f8d063a'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.134+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.804+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.134+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“The instant motion is not intended to delay the proceeding but solely\
         \ due to the foregoing reasons,” it said of its request to extend its filing\
         \ of a comment until Feb. 27.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95339452-6986-4c15-9817-af6856f8a349'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.134+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.805+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.134+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Supreme Court announced it set the oral arguments for the case\
+    section5:
+      primarytype: 'block'
+      uuid: '95339452-6986-4c15-9817-af6856f8a349'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.134+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.805+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.134+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Supreme Court announced it set the oral arguments for the case\
         \ on April 1 and the preliminary conference on Feb. 28.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3f088e3-b840-40d0-b5c8-ec36d299695a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.135+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.806+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.135+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Former Executive Secretary Vic Rodriguez, Davao City 3rd District
+    section6:
+      primarytype: 'block'
+      uuid: 'f3f088e3-b840-40d0-b5c8-ec36d299695a'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.135+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.806+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.135+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Former Executive Secretary Vic Rodriguez, Davao City 3rd District
         Rep. Isidro Ungab, and others filed <strong><a href="https://www.newswatchplus.ph/news/nwp/2025/1/28/rodriguez-ungab-budget-sc-petition.html">the
         petition</a></strong>, alleging that there were blank items in the bicameral
         conference committee report for the 2025 budget, among other supposed irregularities.&nbsp;</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81091589-263e-4c5a-8115-087392990a02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-23T17:18:52.135+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.806+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-23T17:18:52.135+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>President Ferdinand Marcos earlier said Solicitor General Menardo
+    section7:
+      primarytype: 'block'
+      uuid: '81091589-263e-4c5a-8115-087392990a02'
+      activationstatus: true
+      created: 2025-02-23T17:18:52.135+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.806+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-23T17:18:52.135+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>President Ferdinand Marcos earlier said Solicitor General Menardo
         Gueverra told him the administration is on “<strong><a href="http://https://www.newswatchplus.ph/news/nwp/2025/1/30/marcos-budget-constitutional-.html
         aaa">solid footing</a></strong>” with the constitutionality of the 2025 budget.</p>'
-  'pope-francis-health-update-sunday':
-    'author': 'Joshua McElwee, Reuters'
-    'caption': 'A file photo of Pope Francis (Ciro de Luca/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-23T17:23:27.000+08:00
-    'imagesource': 'jcr:d1ac7e6e-5ebd-4d7d-bef3-3ea4c5ab0d11'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a0c5a8d5-72c0-4139-b709-e830fd2fda09'
-    'lead': 'Pope Francis, battling double pneumonia, remains in a critical condition
-      for a second day running and has shown an ''initial, slight insufficiency''
+  'START HERE----->pope-francis-health-update-sunday':
+    author: 'Joshua McElwee, Reuters'
+    caption: 'A file photo of Pope Francis (Ciro de Luca/Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-23T17:23:27.000+08:00
+    imagesource: 'd1ac7e6e-5ebd-4d7d-bef3-3ea4c5ab0d11'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a0c5a8d5-72c0-4139-b709-e830fd2fda09'
+    lead: 'Pope Francis, battling double pneumonia, remains in a critical condition
+      for a second day running and has shown an 'initial, slight insufficiency'
       in his kidney function, the Vatican said on Sunday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-23T17:26:25.428+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:27:07.519+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:23:07.555+08:00
-    'mgnl:lastModified': 2025-02-24T09:14:53.265+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Pope-Francis', 'Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Pope Francis remains critical and has ''slight'' kidney issue, Vatican
+    activationstatus: true
+    created: 2025-02-23T17:26:25.428+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T12:27:07.519+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:23:07.555+08:00
+    lastmodified: 2025-02-24T09:14:53.265+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Pope Francis remains critical and has 'slight' kidney issue, Vatican
       says'
-    'updated': 2025-02-24T09:11:21.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '518c99bc-00e1-46d0-8a70-8d5e0b8c92c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.435+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.521+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.251+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Vatican City -</strong>&nbsp;Pope Francis, battling double
+    updated: 2025-02-24T09:11:21.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '518c99bc-00e1-46d0-8a70-8d5e0b8c92c1'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.435+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.521+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.251+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Vatican City -</strong>&nbsp;Pope Francis, battling double
         pneumonia, remains in a critical condition for a second day running and has
         shown an "initial, slight insufficiency" in his kidney function, the Vatican
         said on Sunday, Feb. 23.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81f1a2d1-292d-4c72-8cc4-39cfefc9fcb4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.436+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.522+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.251+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The prognosis for the 88-year-old pope, who required a transfusion
+    section1:
+      primarytype: 'block'
+      uuid: '81f1a2d1-292d-4c72-8cc4-39cfefc9fcb4'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.436+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.522+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.251+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The prognosis for the 88-year-old pope, who required a transfusion
         of two units of blood on Saturday after experiencing a "prolonged asthma-like
         respiratory crisis," remains "guarded," according to the latest medical update.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7fca5d0d-aeb0-462e-964c-e24f0232dc64'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.436+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.523+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.252+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Francis was admitted to Rome’s Gemelli hospital on February 14. The\
+    section2:
+      primarytype: 'block'
+      uuid: '7fca5d0d-aeb0-462e-964c-e24f0232dc64'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.436+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.523+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.252+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Francis was admitted to Rome’s Gemelli hospital on February 14. The\
         \ Vatican first described his condition as critical on Saturday.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac499d86-872c-4f2d-aa9f-e19058295df8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.437+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.524+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.253+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"The condition of the Holy Father remains critical; however, since\
+    section3:
+      primarytype: 'block'
+      uuid: 'ac499d86-872c-4f2d-aa9f-e19058295df8'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.437+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.524+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.253+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"The condition of the Holy Father remains critical; however, since\
         \ last night he has not experienced further respiratory crises,\" the Vatican\
         \ said on Sunday.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38b5fa39-cf59-46cc-b447-37cb8010af12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.437+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.253+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Blood tests also indicated \"an initial, slight renal insufficiency,\
+    section4:
+      primarytype: 'block'
+      uuid: '38b5fa39-cf59-46cc-b447-37cb8010af12'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.437+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.253+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Blood tests also indicated \"an initial, slight renal insufficiency,\
         \ which is currently under control,\" it said, referring to the functioning\
         \ of the kidneys, which filter waste products in the blood.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbe7d51e-68c3-4ff8-8e03-147e703e22f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.437+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.525+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.254+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"The complexity of the clinical picture, and the necessary wait for\
+    section5:
+      primarytype: 'block'
+      uuid: 'bbe7d51e-68c3-4ff8-8e03-147e703e22f2'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.437+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.525+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.254+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"The complexity of the clinical picture, and the necessary wait for\
         \ the pharmacological therapies to show some effect, require that the prognosis\
         \ remains guarded,\" said the statement.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1de08b47-8afb-4538-98bd-e50bb892e9b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.438+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.526+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.254+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The statement described the pope as \"alert and well-oriented\" and\
+    section6:
+      primarytype: 'block'
+      uuid: '1de08b47-8afb-4538-98bd-e50bb892e9b9'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.438+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.526+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.254+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The statement described the pope as \"alert and well-oriented\" and\
         \ said he was receiving \"high-flow oxygen therapy\" through a tube under\
         \ his nose.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6400858-23ee-4822-9b89-73527578ba6a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.438+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.527+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.255+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Double pneumonia is a serious infection that can inflame and scar
+    section7:
+      primarytype: 'block'
+      uuid: 'b6400858-23ee-4822-9b89-73527578ba6a'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.438+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.527+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.255+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Double pneumonia is a serious infection that can inflame and scar
         both lungs, making it difficult to breathe. The Vatican has described the
         pope’s infection as "complex," saying it is being caused by two or more microorganisms.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6117dd5-d5c7-44af-86a3-92328f85baca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.439+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.527+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.256+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Francis, who has been pope since 2013, has suffered bouts of ill health\
+    section8:
+      primarytype: 'block'
+      uuid: 'c6117dd5-d5c7-44af-86a3-92328f85baca'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.439+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.527+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.256+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Francis, who has been pope since 2013, has suffered bouts of ill health\
         \ in the past two years. He is particularly prone to lung infections because\
         \ he developed pleurisy as a young adult and had part of one lung removed.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '800f4929-81cc-4dc4-a496-aa34731ec2ff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.439+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.528+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.256+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Vatican said on Saturday the pope had needed the blood transfusions\
+    section9:
+      primarytype: 'block'
+      uuid: '800f4929-81cc-4dc4-a496-aa34731ec2ff'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.439+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.528+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.256+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Vatican said on Saturday the pope had needed the blood transfusions\
         \ because tests showed he had a low platelet count, which is associated with\
         \ anaemia. Platelets are cell fragments in the blood that form clots and stop\
         \ or prevent bleeding.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8c3b186-74d1-411d-bdf2-a45e6577c16a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.439+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.529+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.257+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "On Sunday, the Vatican said the transfusion had shown benefit and resulted\
+    section10:
+      primarytype: 'block'
+      uuid: 'b8c3b186-74d1-411d-bdf2-a45e6577c16a'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.439+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.529+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.257+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "On Sunday, the Vatican said the transfusion had shown benefit and resulted\
         \ in an increase in the pope’s levels of haemoglobin, a protein that helps\
         \ carry oxygen in the body.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83647612-0433-404e-8b9e-6079ff66d719'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.440+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.529+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.257+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "It also said his platelet levels had remained stable.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '461c5dca-55b0-4aae-89e5-4c015d54ff55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.440+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.530+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.258+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Pilgrims pray for pope</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22d72259-33f3-4a0f-b32d-1119aa42f99e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.441+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.531+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.258+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Near the Vatican, pilgrims expressed concern for the pope.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2456c9c-a34a-4f89-b6ec-8cc8229d2297'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.441+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.532+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.259+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"I am very, very sad,\" said Elvira Romana, from Italy. \"I don't\
+    section11:
+      primarytype: 'block'
+      uuid: '83647612-0433-404e-8b9e-6079ff66d719'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.440+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.529+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.257+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "It also said his platelet levels had remained stable.\r"
+    section12:
+      primarytype: 'block'
+      uuid: '461c5dca-55b0-4aae-89e5-4c015d54ff55'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.440+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.530+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.258+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Pilgrims pray for pope</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: '22d72259-33f3-4a0f-b32d-1119aa42f99e'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.441+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.531+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.258+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Near the Vatican, pilgrims expressed concern for the pope.\r"
+    section14:
+      primarytype: 'block'
+      uuid: 'e2456c9c-a34a-4f89-b6ec-8cc8229d2297'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.441+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.532+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.259+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"I am very, very sad,\" said Elvira Romana, from Italy. \"I don't\
         \ know how you can continue normally at this moment.\"\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7386f9ac-67f8-4442-b4b8-48f1fef8e635'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.442+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.532+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.259+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Matteo Licari, from Sardinia, said he was "extremely worried." "Let’s
+    section15:
+      primarytype: 'block'
+      uuid: '7386f9ac-67f8-4442-b4b8-48f1fef8e635'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.442+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.532+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.259+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Matteo Licari, from Sardinia, said he was "extremely worried." "Let’s
         hope he can keep living," said Licari. "We are waiting for him to come back
         here."</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6cc05e1-9921-4c65-8804-5dd2096e5cbb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.442+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.533+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.260+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Outside Gemelli hospital, people gathered to pray near a statue of\
+    section16:
+      primarytype: 'block'
+      uuid: 'c6cc05e1-9921-4c65-8804-5dd2096e5cbb'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.442+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.533+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.260+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Outside Gemelli hospital, people gathered to pray near a statue of\
         \ the late Pope John Paul II, who was treated at the facility many times during\
         \ his long papacy.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce745fc8-a37c-4d41-a4e5-1fde3827e87c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.443+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.534+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.260+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "People left flowers and notes for Francis, and lit candles at the base\
+    section17:
+      primarytype: 'block'
+      uuid: 'ce745fc8-a37c-4d41-a4e5-1fde3827e87c'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.443+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.534+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.260+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "People left flowers and notes for Francis, and lit candles at the base\
         \ of the late pope’s memorial.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f010a5a-64bc-4d5d-94cf-6c3403b5e792'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.443+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.535+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.261+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a written message for his usual Sunday prayer in St. Peter’s Square,\
+    section18:
+      primarytype: 'block'
+      uuid: '3f010a5a-64bc-4d5d-94cf-6c3403b5e792'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.443+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.535+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.261+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a written message for his usual Sunday prayer in St. Peter’s Square,\
         \ which the pope was unable to read out for a second consecutive week, Francis\
         \ said he was continuing \"confidently\" with his treatment in hospital. He\
         \ thanked his doctors and people who have sent him messages of support.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '84182ce2-e826-4c05-a7bb-17d847c9c78e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.444+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.535+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.262+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Archbishop Rino Fisichella, a senior Vatican official, told participants
+    section19:
+      primarytype: 'block'
+      uuid: '84182ce2-e826-4c05-a7bb-17d847c9c78e'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.444+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.535+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.262+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Archbishop Rino Fisichella, a senior Vatican official, told participants
         at a Mass in St. Peter’s Basilica on Sunday morning they should make their
         prayers for Francis "stronger and more intense."</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c822b9f6-6a3f-4dbb-a821-54dfd6ff6e5b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.444+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.536+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.262+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Diocese of Rome, which the pope leads, held a special Mass on
+    section20:
+      primarytype: 'block'
+      uuid: 'c822b9f6-6a3f-4dbb-a821-54dfd6ff6e5b'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.444+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.536+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.262+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Diocese of Rome, which the pope leads, held a special Mass on
         Sunday evening to pray for Francis, so that he will have "the strength necessary
         to get through this moment of trial."</p>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ccd9ac1-f41f-44d3-b4f9-5d85b94d7c21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.445+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.537+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.263+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "On Friday, two of his doctors said the pope was highly vulnerable because\
+    section21:
+      primarytype: 'block'
+      uuid: '6ccd9ac1-f41f-44d3-b4f9-5d85b94d7c21'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.445+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.537+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.263+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "On Friday, two of his doctors said the pope was highly vulnerable because\
         \ of his age and general frailty.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad4e87b4-297e-4c70-a985-df0ff1eac903'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.446+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.537+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.263+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Dr. Sergio Alfieri, a senior member of the Gemelli staff, said there
+    section22:
+      primarytype: 'block'
+      uuid: 'ad4e87b4-297e-4c70-a985-df0ff1eac903'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.446+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.537+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.263+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Dr. Sergio Alfieri, a senior member of the Gemelli staff, said there
         was a risk the lung infection could spread to his bloodstream and develop
         into sepsis, which "could be very difficult to overcome."</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '21bdbf8e-66af-48b4-a6df-401befb47f8d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-24T09:12:15.446+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:27:07.538+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-24T09:14:53.264+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Joshua McElwee and Crispian Balmer, additional
+    section23:
+      primarytype: 'block'
+      uuid: '21bdbf8e-66af-48b4-a6df-401befb47f8d'
+      activationstatus: true
+      created: 2025-02-24T09:12:15.446+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T12:27:07.538+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-24T09:14:53.264+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Joshua McElwee and Crispian Balmer, additional
         reporting by Claudia ChieppaEditing by David Goodman, William Maclean, Tomasz
         Janowski and Giles Elgood)</em></p>'

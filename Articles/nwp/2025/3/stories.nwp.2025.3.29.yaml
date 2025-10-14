@@ -1,1919 +1,1919 @@
-'29':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '5230474a-b0f0-4441-8b61-47b73d9fc6e4'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-03-29T09:18:08.741+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-03-29T09:18:18.595+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-03-29T09:18:18.384+08:00
-  'mgnl:lastModified': 2025-03-29T15:39:30.394+08:00
-  'mgnl:lastModifiedBy': 'faith-nwp'
-  'Colombian-authorities-arrest-former-drug-lord-Carlos-Lehder':
-    'author': 'Nelson Bocanegra, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T09:19:01.000+08:00
-    'imagesource': 'jcr:dd51930e-010f-4c42-9ffa-3d27c2e1e6ac'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '894373e9-9297-4fa0-8117-4f103bc2a473'
-    'lead': 'Carlos Lehder, former drug trafficker and one of the founding leaders
+section29:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '5230474a-b0f0-4441-8b61-47b73d9fc6e4'
+  activationstatus: true
+  created: 2025-03-29T09:18:08.741+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-03-29T09:18:18.595+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-03-29T09:18:18.384+08:00
+  lastmodified: 2025-03-29T15:39:30.394+08:00
+  lastmodifiedby: 'faith-nwp'
+  'START HERE----->Colombian-authorities-arrest-former-drug-lord-Carlos-Lehder':
+    author: 'Nelson Bocanegra, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T09:19:01.000+08:00
+    imagesource: 'dd51930e-010f-4c42-9ffa-3d27c2e1e6ac'
+    primarytype: 'composition'
+    uuid: '894373e9-9297-4fa0-8117-4f103bc2a473'
+    lead: 'Carlos Lehder, former drug trafficker and one of the founding leaders
       of the Medellin Cartel, was arrested on Friday by Colombian authorities upon
       his arrival from Germany on a warrant in the Latin American country.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T09:22:27.470+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T09:37:54.967+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T09:37:54.688+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Colombian authorities arrest former drug lord Carlos Lehder'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f737d73-111a-42ef-b111-0b3fe38d6624'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.478+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.967+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.685+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Carlos Lehder, former drug trafficker
+    activationstatus: true
+    created: 2025-03-29T09:22:27.470+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T09:37:54.967+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T09:37:54.688+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Colombian authorities arrest former drug lord Carlos Lehder'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7f737d73-111a-42ef-b111-0b3fe38d6624'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.478+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.967+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.685+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Carlos Lehder, former drug trafficker
         and one of the founding leaders of the Medellin Cartel, was arrested on Friday
         by Colombian authorities upon his arrival from Germany on a warrant in the
         Latin American country.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b22d8239-0b49-4785-9a1e-143ed56e4c7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.478+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.968+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.685+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lehder was sentenced to life plus 135 years in prison in 1988 after
+    section1:
+      primarytype: 'block'
+      uuid: 'b22d8239-0b49-4785-9a1e-143ed56e4c7e'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.478+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.968+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.685+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Lehder was sentenced to life plus 135 years in prison in 1988 after
         a Florida court convicted him of cocaine trafficking.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd94a3af-b9ca-4d36-8e47-1131c595903f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.478+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.968+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.686+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'His sentence was later reduced by 55 years after he testified against
+    section2:
+      primarytype: 'block'
+      uuid: 'bd94a3af-b9ca-4d36-8e47-1131c595903f'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.478+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.968+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.686+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'His sentence was later reduced by 55 years after he testified against
         former Panamanian dictator Manuel Noriega, and he was released in 2020 due
         to health issues.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0f815e5-934b-40b4-a4b1-f0c13837b3fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.479+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.969+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.686+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Lehder Rivas, who arrived in the country from Frankfurt, presented
+    section3:
+      primarytype: 'block'
+      uuid: 'c0f815e5-934b-40b4-a4b1-f0c13837b3fd'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.479+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.969+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.686+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Lehder Rivas, who arrived in the country from Frankfurt, presented
         in our information systems an arrest warrant in force," Colombia migration
         authorities said on X, adding that the former drug lord had been handed over
         to the police.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f56cc6a5-9e6a-4527-920d-67a0ad6a9c09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.479+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.969+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.686+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A video from the migration authority showed Lehder in a suit and tie
+    section4:
+      primarytype: 'block'
+      uuid: 'f56cc6a5-9e6a-4527-920d-67a0ad6a9c09'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.479+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.969+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.686+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A video from the migration authority showed Lehder in a suit and tie
         guarded by several agents.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '33b7cedb-d697-4c53-af07-1b1abeff5422'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:22:27.479+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:37:54.969+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:37:54.687+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by Nelson Bocanegra; Editing by Gerry Doyle)</p>'
-  'US-FDA-s-top-vaccine-official-Peter-Marks-steps-down--WSJ-reports':
-    'author': 'Chris Thomas, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T09:22:32.000+08:00
-    'imagesource': 'jcr:f3901647-12fd-4a2d-ab70-cf54fdadde1b'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd545478e-3579-4de9-ba8e-ff67899bcb52'
-    'lead': 'The US Food and Drug Administration’s top vaccine official, Peter Marks,
+    section5:
+      primarytype: 'block'
+      uuid: '33b7cedb-d697-4c53-af07-1b1abeff5422'
+      activationstatus: true
+      created: 2025-03-29T09:22:27.479+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:37:54.969+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:37:54.687+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by Nelson Bocanegra; Editing by Gerry Doyle)</p>'
+  'START HERE----->US-FDA-s-top-vaccine-official-Peter-Marks-steps-down--WSJ-reports':
+    author: 'Chris Thomas, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T09:22:32.000+08:00
+    imagesource: 'f3901647-12fd-4a2d-ab70-cf54fdadde1b'
+    primarytype: 'composition'
+    uuid: 'd545478e-3579-4de9-ba8e-ff67899bcb52'
+    lead: 'The US Food and Drug Administration’s top vaccine official, Peter Marks,
       has stepped down, the Wall Street Journal reported on Friday, citing people
       familiar with the matter.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T09:23:15.019+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T09:35:51.067+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T09:35:50.902+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US FDA’s top vaccine official Peter Marks steps down, WSJ reports'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ff2c19f-b1ae-4f85-841f-63eeaca3fd08'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:23:15.027+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:35:51.067+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:35:50.900+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> The U.S. Food and Drug Administration’s
+    activationstatus: true
+    created: 2025-03-29T09:23:15.019+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T09:35:51.067+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T09:35:50.902+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US FDA’s top vaccine official Peter Marks steps down, WSJ reports'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4ff2c19f-b1ae-4f85-841f-63eeaca3fd08'
+      activationstatus: true
+      created: 2025-03-29T09:23:15.027+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:35:51.067+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:35:50.900+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> The U.S. Food and Drug Administration’s
         top vaccine official, Peter Marks, has stepped down, the Wall Street Journal
         reported on Friday, citing people familiar with the matter.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '70b8798d-b929-4fc4-b294-2e0a4a4109cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:23:15.027+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:35:51.068+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:35:50.901+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by Chris Thomas in Bengaluru; Editing by Sandra Maler)</p>'
-  'Musk-s-xAI-buys-Musk-s-X-social-media-platform-for--33-billion':
-    'author': 'Greg Bensinger, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T09:23:18.000+08:00
-    'imagesource': 'jcr:a43f5db6-d4b4-429e-addc-839c24023627'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'fbc695fe-fcd4-46b0-b710-482b884392f4'
-    'lead': 'Elon Musk’s xAI artificial intelligence firm has acquired Musk’s X,
+    section1:
+      primarytype: 'block'
+      uuid: '70b8798d-b929-4fc4-b294-2e0a4a4109cb'
+      activationstatus: true
+      created: 2025-03-29T09:23:15.027+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:35:51.068+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:35:50.901+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by Chris Thomas in Bengaluru; Editing by Sandra Maler)</p>'
+  'START HERE----->Musk-s-xAI-buys-Musk-s-X-social-media-platform-for--33-billion':
+    author: 'Greg Bensinger, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T09:23:18.000+08:00
+    imagesource: 'a43f5db6-d4b4-429e-addc-839c24023627'
+    primarytype: 'composition'
+    uuid: 'fbc695fe-fcd4-46b0-b710-482b884392f4'
+    lead: 'Elon Musk’s xAI artificial intelligence firm has acquired Musk’s X,
       the social media outfit formerly known as Twitter for $33 billion, marking the
       latest twist in the billionaire’s rapid consolidation of power.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T09:24:12.614+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T09:28:58.295+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T09:28:57.801+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Musk’s xAI buys Musk’s X social media platform for $33 billion'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '821ec8c5-23a2-4163-bc56-6ec2816ed38f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.623+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.295+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.786+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Elon Musk’s xAI artificial intelligence
+    activationstatus: true
+    created: 2025-03-29T09:24:12.614+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T09:28:58.295+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T09:28:57.801+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Musk’s xAI buys Musk’s X social media platform for $33 billion'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '821ec8c5-23a2-4163-bc56-6ec2816ed38f'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.623+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.295+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.786+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Elon Musk’s xAI artificial intelligence
         firm has acquired Musk’s X, the social media outfit formerly known as Twitter
         for $33 billion, marking the latest twist in the billionaire’s rapid consolidation
         of power.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e2b1e3e-987e-4387-8f98-8843f51d211d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.623+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.296+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.786+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The all-stock deal announced on Friday combines two of Musk’s multiple
+    section1:
+      primarytype: 'block'
+      uuid: '2e2b1e3e-987e-4387-8f98-8843f51d211d'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.623+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.296+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.786+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The all-stock deal announced on Friday combines two of Musk’s multiple
         portfolio companies, which also include automaker Tesla and SpaceX, and potentially
         eases Musk’s ability to train his AI model known as Grok.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8abf5ff-7041-4856-b4ab-3b6f0a01f77b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.623+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.296+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.787+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk announced the transaction in a post on X, saying: "The combination
+    section2:
+      primarytype: 'block'
+      uuid: 'd8abf5ff-7041-4856-b4ab-3b6f0a01f77b'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.623+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.296+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.787+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk announced the transaction in a post on X, saying: "The combination
         values xAI at $80 billion and X at $33 billion ($45B less $12B debt)."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48eda0a9-757d-4af0-830a-d84d6527957d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.624+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.297+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.787+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"xAI and X’s futures are intertwined," he wrote. "Today, we officially
+    section3:
+      primarytype: 'block'
+      uuid: '48eda0a9-757d-4af0-830a-d84d6527957d'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.624+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.297+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.787+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"xAI and X’s futures are intertwined," he wrote. "Today, we officially
         take the step to combine the data, models, compute, distribution and talent."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2841a773-c751-43e2-bcf2-7dae949964ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.624+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.297+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.788+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Neither X nor xAI spokespersons immediately responded to requests for
+    section4:
+      primarytype: 'block'
+      uuid: '2841a773-c751-43e2-bcf2-7dae949964ae'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.624+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.297+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.788+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Neither X nor xAI spokespersons immediately responded to requests for
         comment. Much of the deal’s specifics remained unclear, such as how investors
         may be compensated, how X’s leaders would be integrated in the new firm or
         the prospect of regulatory scrutiny.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e4bde0a-b6e5-460c-9fc1-4092afb65d6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.624+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.297+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.789+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"This development feels surprising and somewhat unexpected," PP Foresight
+    section5:
+      primarytype: 'block'
+      uuid: '8e4bde0a-b6e5-460c-9fc1-4092afb65d6c'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.624+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.297+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.789+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"This development feels surprising and somewhat unexpected," PP Foresight
         analyst Paolo Pescatore said. "To a certain extent, it closes a chapter in
         the turbulent saga of X."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7fb8a3b6-25f4-4615-8ff0-d9775198597e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.625+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.789+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The choice of $45 billion is not a coincidence," said D.A. Davidson
+    section6:
+      primarytype: 'block'
+      uuid: '7fb8a3b6-25f4-4615-8ff0-d9775198597e'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.625+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.789+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The choice of $45 billion is not a coincidence," said D.A. Davidson
         &amp; Co. analyst Gil Luria. "It is $1 billion higher than the take-private
         transaction for Twitter in 2022" and he can share the value of the xAI business
         with Twitter co-investors.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '47a9e513-f48a-4e71-beca-ee5b6e325baf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.625+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.790+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk, the world’s wealthiest man, has also consolidated his power
+    section7:
+      primarytype: 'block'
+      uuid: '47a9e513-f48a-4e71-beca-ee5b6e325baf'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.625+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.790+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk, the world’s wealthiest man, has also consolidated his power
         in Washington, D.C. by overseeing the Trump administration’s cost-cutting
         efforts as head of the so-called Department of Government Efficiency, or DOGE.
         That has also put him in the position to potentially influence agencies that
         oversee his business dealings.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3bc1beab-6b83-4c22-aeca-47eb42b4eb81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.626+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.790+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'An investor in xAI, and now in the combined entity, told Reuters they
+    section8:
+      primarytype: 'block'
+      uuid: '3bc1beab-6b83-4c22-aeca-47eb42b4eb81'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.626+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.790+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'An investor in xAI, and now in the combined entity, told Reuters they
         were not surprised by the deal, viewing it as Musk consolidating his leadership
         and management at his own companies. The investor declined to be named.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '93b3dbb1-88b8-4bb3-bb3a-95afd92045ed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.626+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.791+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk did not ask investors for approval but told them that the two
+    section9:
+      primarytype: 'block'
+      uuid: '93b3dbb1-88b8-4bb3-bb3a-95afd92045ed'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.626+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.791+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk did not ask investors for approval but told them that the two
         companies had been collaborating closely and the integration will drive deeper
         integration with Grok.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e3ad9ba-99bd-4e36-9601-7ee0969db264'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.626+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.299+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.791+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>OPENAI RIVALRY</strong></p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89c199b3-1d42-4b91-b4f7-e16ec23a7b25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.627+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.299+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.792+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk’s xAI startup was launched less than two years ago and recently
+    section10:
+      primarytype: 'block'
+      uuid: '8e3ad9ba-99bd-4e36-9601-7ee0969db264'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.626+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.299+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.791+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>OPENAI RIVALRY</strong></p>'
+    section11:
+      primarytype: 'block'
+      uuid: '89c199b3-1d42-4b91-b4f7-e16ec23a7b25'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.627+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.299+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.792+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk’s xAI startup was launched less than two years ago and recently
         raised $10 billion in a funding round that valued the company at $75 billion,
         according to a media report.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a87e6c48-1152-403f-b37b-af25e4fd2a1f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.627+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.299+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.793+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In February, Musk, 53, made a $97.4 billion bid with a consortium for
+    section12:
+      primarytype: 'block'
+      uuid: 'a87e6c48-1152-403f-b37b-af25e4fd2a1f'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.627+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.299+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.793+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In February, Musk, 53, made a $97.4 billion bid with a consortium for
         the ChatGPT maker OpenAI, which was rejected, with OpenAI saying that the
         startup was not for sale. Musk co-founded OpenAI with CEO Sam Altman in 2015.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '440118ab-59cb-4dc0-8f5e-ff694f7634a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.628+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.300+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.793+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk competes directly with the popular OpenAI platform and has sued
+    section13:
+      primarytype: 'block'
+      uuid: '440118ab-59cb-4dc0-8f5e-ff694f7634a5'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.628+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.300+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.793+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk competes directly with the popular OpenAI platform and has sued
         in federal court in California to prevent his rival from converting from a
         non-profit to a for-profit business. A judge earlier this month denied Musk’s
         request for a preliminary injunction that would prevent the changeover.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8b5dfde-c0a3-4db3-962b-102eff09769c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.628+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.300+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.794+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The wide release of AI software has set off a flurry of investment
+    section14:
+      primarytype: 'block'
+      uuid: 'c8b5dfde-c0a3-4db3-962b-102eff09769c'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.628+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.300+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.794+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The wide release of AI software has set off a flurry of investment
         and competition in Silicon Valley. In an effort to be more efficient, companies
         are seeking ways to integrate the software into nearly every part of their
         operations.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8e722ac-1ea4-4059-8d9e-1deaf4ddc816'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.628+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.300+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.794+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'As competition in AI intensifies, xAI has been ramping up its data
+    section15:
+      primarytype: 'block'
+      uuid: 'c8e722ac-1ea4-4059-8d9e-1deaf4ddc816'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.628+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.300+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.794+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'As competition in AI intensifies, xAI has been ramping up its data
         center capacity to train more advanced models, and its supercomputer cluster
         in Memphis, Tennessee, called "Colossus," is touted as the largest in the
         world.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51df0727-8448-4073-b8e2-10612f1c0211'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.629+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.301+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.795+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'xAI introduced Grok-3, the latest iteration of its chatbot, in February,
+    section16:
+      primarytype: 'block'
+      uuid: '51df0727-8448-4073-b8e2-10612f1c0211'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.629+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.301+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.795+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'xAI introduced Grok-3, the latest iteration of its chatbot, in February,
         as it tries to compete with Chinese AI firm DeepSeek and Microsoft-backed
         OpenAI. The X platform can serve to further distribute xAI products, while
-        also providing a real-time feed of users'' musings, screenshots and other
+        also providing a real-time feed of users' musings, screenshots and other
         data.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df4a5de7-b197-483e-9a03-b37ecc44fb1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.629+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.301+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.795+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>TWITTER FREED</strong></p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6cebf8a7-6dc0-4f59-ac73-eb285c0a1e65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.630+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.302+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.796+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Musk clinched a deal in 2022 to buy X, then Twitter, for $44 billion,
+    section17:
+      primarytype: 'block'
+      uuid: 'df4a5de7-b197-483e-9a03-b37ecc44fb1c'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.629+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.301+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.795+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>TWITTER FREED</strong></p>'
+    section18:
+      primarytype: 'block'
+      uuid: '6cebf8a7-6dc0-4f59-ac73-eb285c0a1e65'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.630+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.302+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.796+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Musk clinched a deal in 2022 to buy X, then Twitter, for $44 billion,
         ending its run as a public company since its 2013 initial public offering,
         declaring that "the bird is freed" once the acquisition closed.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51029abc-8902-4a33-b641-01dae74ba11f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.630+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.302+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.797+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He gutted the company’s workforce after the acquisition, prompting
+    section19:
+      primarytype: 'block'
+      uuid: '51029abc-8902-4a33-b641-01dae74ba11f'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.630+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.302+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.797+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He gutted the company’s workforce after the acquisition, prompting
         advertisers to flee the platform and a rapid decline in revenue. Recently,
         brands have been returning to X as Musk’s influence grows in the Trump administration.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f8b17dd-c4c3-45b4-8db5-ea6f47baebe9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.302+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.797+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The seven banks that extended $13 billion in loans to Musk to buy X
+    section20:
+      primarytype: 'block'
+      uuid: '8f8b17dd-c4c3-45b4-8db5-ea6f47baebe9'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.302+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.797+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The seven banks that extended $13 billion in loans to Musk to buy X
         kept the debt on their books for two years until they could sell it all at
         once last month, according to a source familiar with the transactions.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57c9e35a-aff1-48ad-b3ed-f0f4fce6c97f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.303+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.798+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This was made possible after a surge in investor interest for exposure
+    section21:
+      primarytype: 'block'
+      uuid: '57c9e35a-aff1-48ad-b3ed-f0f4fce6c97f'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.303+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.798+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This was made possible after a surge in investor interest for exposure
         to AI companies along with X’s improved operating performance over the previous
         two quarters, among other factors, according to two people familiar with the
         matter.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '53053831-5489-4ecb-a009-15156979aa2d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.303+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.798+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'After the merger, investors who bought the debt from the banks will
+    section22:
+      primarytype: 'block'
+      uuid: '53053831-5489-4ecb-a009-15156979aa2d'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.303+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.798+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'After the merger, investors who bought the debt from the banks will
         profit, said Espen Robak, founder of Pluris Valuation Advisors, which specializes
         in illiquid assets. "For sure the debt is worth more now, if not fully paid
         off."'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10cf3b36-5928-4d0f-a8e4-9b1169f5cc90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.303+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.799+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Separately, a U.S. judge on Friday rejected a bid by Musk to dismiss
+    section23:
+      primarytype: 'block'
+      uuid: '10cf3b36-5928-4d0f-a8e4-9b1169f5cc90'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.303+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.799+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Separately, a U.S. judge on Friday rejected a bid by Musk to dismiss
         a lawsuit claiming he had defrauded former Twitter shareholders by waiting
         too long to disclose his initial investment in the company.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0acb18b-823b-49f9-ab4a-20081d8c5dc9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:24:12.633+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:28:58.304+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:28:57.800+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Greg Bensinger in San Francisco, Krystal Hu in
+    section24:
+      primarytype: 'block'
+      uuid: 'e0acb18b-823b-49f9-ab4a-20081d8c5dc9'
+      activationstatus: true
+      created: 2025-03-29T09:24:12.633+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:28:58.304+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:28:57.800+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Greg Bensinger in San Francisco, Krystal Hu in
         and Tatiana Bautzer in New York, Seher Dareen, Jaspreet Singh in Bengaluru,
         and Juby Babu in Mexico City; Editing by Pooja Desai, Sayantani Ghosh and
         Sandra Maler)</em></p>'
-  'Columbia-University-interim-president-steps-down-as-college-faces-upheaval':
-    'author': 'Kanishka Singh, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T09:24:19.000+08:00
-    'imagesource': 'jcr:24f84e7f-5c19-4b72-99bc-48d32dc527c7'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f2e97787-e435-4a4d-ac50-64da05fb0a93'
-    'lead': 'Columbia University’s interim president, Katrina Armstrong, has stepped
+  'START HERE----->Columbia-University-interim-president-steps-down-as-college-faces-upheaval':
+    author: 'Kanishka Singh, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T09:24:19.000+08:00
+    imagesource: '24f84e7f-5c19-4b72-99bc-48d32dc527c7'
+    primarytype: 'composition'
+    uuid: 'f2e97787-e435-4a4d-ac50-64da05fb0a93'
+    lead: 'Columbia University’s interim president, Katrina Armstrong, has stepped
       down, the college said, at a time when the New York-based institution is facing
       intense pressure from both the government and rights advocates over how it responds
       to last year’s Gaza protests.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T09:25:33.792+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T09:25:34.030+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Columbia University interim president steps down as college faces upheaval'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96b8ef3b-a3bb-4e34-b435-f1c2833fd70a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.804+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.031+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Columbia University’s interim president,
+    activationstatus: true
+    created: 2025-03-29T09:25:33.792+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T09:25:34.030+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T09:25:33.825+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Columbia University interim president steps down as college faces upheaval'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '96b8ef3b-a3bb-4e34-b435-f1c2833fd70a'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.804+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.031+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Columbia University’s interim president,
         Katrina Armstrong, has stepped down, the college said, at a time when the
         New York-based institution is facing intense pressure from both the government
         and rights advocates over how it responds to last year’s Gaza protests.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4366772f-ad7e-416f-b07e-b3a845feb559'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.804+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.032+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Armstrong is returning to lead the university’s Irving Medical Center,
+    section1:
+      primarytype: 'block'
+      uuid: '4366772f-ad7e-416f-b07e-b3a845feb559'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.804+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.032+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Armstrong is returning to lead the university’s Irving Medical Center,
         Columbia University said in a statement on Friday. It did not give a reason
         for the change.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '09d767ad-c678-45be-b108-f82a11769a83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.804+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.033+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Board of Trustees Co-Chair Claire Shipman has been appointed Acting
+    section2:
+      primarytype: 'block'
+      uuid: '09d767ad-c678-45be-b108-f82a11769a83'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.804+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.033+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Board of Trustees Co-Chair Claire Shipman has been appointed Acting
         President, effective immediately, and will serve until the Board completes
         its presidential search," it said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97f878f7-3a77-43ff-b697-4be86c57205e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.805+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.034+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration of President Donald Trump canceled $400 million
+    section3:
+      primarytype: 'block'
+      uuid: '97f878f7-3a77-43ff-b697-4be86c57205e'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.805+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.034+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The administration of President Donald Trump canceled $400 million
         in federal funding for Columbia, saying the university did not do enough to
         combat antisemitism and student safety amid last year’s campus protests over
         Israel’s war in Gaza.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7ee49b09-94f3-40bf-a623-75fc177b1d8c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.805+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.035+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Columbia last week agreed to make changes demanded by the Trump administration,
+    section4:
+      primarytype: 'block'
+      uuid: '7ee49b09-94f3-40bf-a623-75fc177b1d8c'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.805+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.035+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Columbia last week agreed to make changes demanded by the Trump administration,
         sparking anger from rights advocates, who called it an assault on free speech.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e214c5ad-7701-4997-902a-c590dc9c512d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.805+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.036+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a campus-wide email at the time, Armstrong wrote that the her priorities
+    section5:
+      primarytype: 'block'
+      uuid: 'e214c5ad-7701-4997-902a-c590dc9c512d'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.805+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.036+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a campus-wide email at the time, Armstrong wrote that the her priorities
         were "to advance our mission, ensure uninterrupted academic activities, and
         make every student, faculty, and staff member safe and welcome on our campus."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3bcfc1de-c5f4-4195-8437-c5c1200dec1a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.806+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.037+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Columbia was at the center of Gaza encampment protests in the summer
+    section6:
+      primarytype: 'block'
+      uuid: '3bcfc1de-c5f4-4195-8437-c5c1200dec1a'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.806+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.037+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Columbia was at the center of Gaza encampment protests in the summer
         of 2024 that spread around the United States. Protesters demanded an end to
         Israel’s military assault on Gaza and urged their colleges to divest from
         companies with ties to Israel.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b64f432-3ea3-4e95-b08e-6963d1d47e9c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:25:33.806+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:25:34.038+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:25:33.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Kanishka Singh in Washington; Editing by Sandra
-        Maler and Rosalba O''Brien)</em></p>'
-  'Myanmar-quake-deaths-predicted':
-    'author': 'Kay Johnson, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T09:25:39.000+08:00
-    'imagesource': 'jcr:ac614c72-720f-4eb4-84d5-2ae14622cc3e'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '2a74cc32-4d62-4299-9f0e-8eeb75b215b4'
-    'lead': 'Myanmar’s state-run MRTV put the death toll so far at at least 144 killed
+    section7:
+      primarytype: 'block'
+      uuid: '9b64f432-3ea3-4e95-b08e-6963d1d47e9c'
+      activationstatus: true
+      created: 2025-03-29T09:25:33.806+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:25:34.038+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:25:33.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Kanishka Singh in Washington; Editing by Sandra
+        Maler and Rosalba O'Brien)</em></p>'
+  'START HERE----->Myanmar-quake-deaths-predicted':
+    author: 'Kay Johnson, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T09:25:39.000+08:00
+    imagesource: 'ac614c72-720f-4eb4-84d5-2ae14622cc3e'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '2a74cc32-4d62-4299-9f0e-8eeb75b215b4'
+    lead: 'Myanmar’s state-run MRTV put the death toll so far at at least 144 killed
       and 732 injured.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T09:26:40.575+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T09:42:14.864+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T09:42:14.685+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'USGS analysis projects thousands of dead in Myanmar quake'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfee8bcb-fa31-43af-b0f6-301e9d325219'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:26:40.583+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:42:14.864+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:42:14.682+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> A United States government predictive
+    activationstatus: true
+    created: 2025-03-29T09:26:40.575+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T09:42:14.864+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T09:42:14.685+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'USGS analysis projects thousands of dead in Myanmar quake'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'cfee8bcb-fa31-43af-b0f6-301e9d325219'
+      activationstatus: true
+      created: 2025-03-29T09:26:40.583+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:42:14.864+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:42:14.682+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> A United States government predictive
         analysis based on the strength and depth of Friday’s earthquake in Myanmar
         estimated there could be thousands of deaths and severe economic loss, with
         the Sagaing and Meiktila regions worst hit.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa2e41e3-7669-4d18-8960-db25b0c73a10'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:26:40.584+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:42:14.865+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:42:14.683+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Overall, the population in this region resides in structures that
+    section1:
+      primarytype: 'block'
+      uuid: 'aa2e41e3-7669-4d18-8960-db25b0c73a10'
+      activationstatus: true
+      created: 2025-03-29T09:26:40.584+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:42:14.865+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:42:14.683+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>"Overall, the population in this region resides in structures that
         are vulnerable to earthquake shaking, though resistant structures exist,"
         the analysis said.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df85916b-af5d-4d5f-809f-0a66b96faca8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:26:40.584+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:42:14.865+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:42:14.683+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"High casualties and extensive damage are probable and the disaster
+    section2:
+      primarytype: 'block'
+      uuid: 'df85916b-af5d-4d5f-809f-0a66b96faca8'
+      activationstatus: true
+      created: 2025-03-29T09:26:40.584+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:42:14.865+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:42:14.683+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>"High casualties and extensive damage are probable and the disaster
         is likely widespread," it said.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85a7ef06-3420-466b-ac6c-02f8a463b813'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:26:40.584+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:42:14.865+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:42:14.683+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Myanmar’s state-run MRTV put the death toll so far at at least
+    section3:
+      primarytype: 'block'
+      uuid: '85a7ef06-3420-466b-ac6c-02f8a463b813'
+      activationstatus: true
+      created: 2025-03-29T09:26:40.584+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:42:14.865+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:42:14.683+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Myanmar’s state-run MRTV put the death toll so far at at least
         144 killed and 732 injured.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6a22b494-8c6f-4918-9532-b424fcf7f5ba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T09:26:40.585+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T09:42:14.866+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T09:42:14.684+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Writing by Kay Johnson; Editing by Kevin Liffey)</p>'
-  'Marcos-lauds-Alex-Eala-s-historic-run-in-Miami-Open':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T12:04:52.000+08:00
-    'imagesource': 'jcr:cc277799-1f8f-473d-947b-28d8e4eff9ea'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '51cd3047-1697-4138-b335-97ac8a9ee98c'
-    'lead': 'President Ferdinand Marcos Jr. on Saturday showered Filipino tennis sensation
+    section4:
+      primarytype: 'block'
+      uuid: '6a22b494-8c6f-4918-9532-b424fcf7f5ba'
+      activationstatus: true
+      created: 2025-03-29T09:26:40.585+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T09:42:14.866+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T09:42:14.684+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Writing by Kay Johnson; Editing by Kevin Liffey)</p>'
+  'START HERE----->Marcos-lauds-Alex-Eala-s-historic-run-in-Miami-Open':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T12:04:52.000+08:00
+    imagesource: 'cc277799-1f8f-473d-947b-28d8e4eff9ea'
+    primarytype: 'composition'
+    uuid: '51cd3047-1697-4138-b335-97ac8a9ee98c'
+    lead: 'President Ferdinand Marcos Jr. on Saturday showered Filipino tennis sensation
       Alex Eala with praise for her historic campaign at the Miami Open.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T12:06:03.944+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T12:06:04.172+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Marcos lauds Alex Eala’s historic run in Miami Open'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88786d3f-23e9-42b2-84d4-82be4909c78d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.956+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.173+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
+    activationstatus: true
+    created: 2025-03-29T12:06:03.944+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T12:06:04.172+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T12:06:03.983+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Marcos lauds Alex Eala’s historic run in Miami Open'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '88786d3f-23e9-42b2-84d4-82be4909c78d'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.956+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.173+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
         Marcos Jr. on Saturday showered Filipino tennis sensation Alex Eala with praise
         for her historic campaign at the Miami Open.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e381fe45-a031-480d-958d-7429578b4dbf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.956+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.174+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We are one with the entire nation in thanking Alex for her sacrifices
+    section1:
+      primarytype: 'block'
+      uuid: 'e381fe45-a031-480d-958d-7429578b4dbf'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.956+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.174+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We are one with the entire nation in thanking Alex for her sacrifices
         and hard work in her quest for glory and honor. I’m sure that the elusive
         championship title is within reach soon,” Marcos said in a statement.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '93579d12-86f6-4b01-8aa7-330946f64a13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.956+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.175+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president congratulated the 19-year-old wild card for her Cinderella
+    section2:
+      primarytype: 'block'
+      uuid: '93579d12-86f6-4b01-8aa7-330946f64a13'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.956+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.175+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The president congratulated the 19-year-old wild card for her Cinderella
         run which included wins over five-time Grand Slam champion and world no. 2
         Iga Swiatek, reigning Australian Open champion Madison Keys, and 2017 French
         Open winner Jelena Ostapenko.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8352861-ba76-4285-adbe-521cfb956f0d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.957+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.176+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Eala bowed to world no. 4 Jessica Peluga in their heated midnight semifinals
+    section3:
+      primarytype: 'block'
+      uuid: 'f8352861-ba76-4285-adbe-521cfb956f0d'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.957+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.176+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Eala bowed to world no. 4 Jessica Peluga in their heated midnight semifinals
         match, 6(3)-7, 7-5, 3-6, at the Hard Rock Stadium on Friday.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd098677-9786-44a7-ae15-5f91ea1dae0b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.957+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.177+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2025/3/28/Alex-Eala-ends-Miami-Open-semifinals-loss.html"><strong>READ:
+    section4:
+      primarytype: 'block'
+      uuid: 'cd098677-9786-44a7-ae15-5f91ea1dae0b'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.957+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.177+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2025/3/28/Alex-Eala-ends-Miami-Open-semifinals-loss.html"><strong>READ:
         Alex Eala’s dream run in Miami Open ends after semis loss</strong></a></p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc3dab17-a3f3-4461-81fa-3a60373e41d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.957+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.178+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marcos lauded Eala for her unprecedented feat which he called an inspiration
+    section5:
+      primarytype: 'block'
+      uuid: 'dc3dab17-a3f3-4461-81fa-3a60373e41d2'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.957+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.178+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Marcos lauded Eala for her unprecedented feat which he called an inspiration
         to Filipinos who have the “same grit and determination.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd966c55f-c58b-4ab8-bece-9b476e9eaa41'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.958+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Truly, what you did showed the whole world what a Filipino athlete
+    section6:
+      primarytype: 'block'
+      uuid: 'd966c55f-c58b-4ab8-bece-9b476e9eaa41'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.958+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Truly, what you did showed the whole world what a Filipino athlete
         is all about – determined, steadfast, and never the one to back away from
         any challenges,” Marcos said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2531290-9723-4b8b-9f98-4a4ae372fed3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.958+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Olympians EJ Obiena and Nesthy Petecio previously also praised the
+    section7:
+      primarytype: 'block'
+      uuid: 'a2531290-9723-4b8b-9f98-4a4ae372fed3'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.958+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Olympians EJ Obiena and Nesthy Petecio previously also praised the
         tennis ace for her sensational campaign and her well-fought semifinals match
         against Pegula.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0276ef61-2472-40b8-a0b3-c2d1d67ef932'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:06:03.958+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:06:04.181+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:06:03.983+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>World boxing champ Manny Pacquiao also lauded the tennis ace and
+    section8:
+      primarytype: 'block'
+      uuid: '0276ef61-2472-40b8-a0b3-c2d1d67ef932'
+      activationstatus: true
+      created: 2025-03-29T12:06:03.958+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:06:04.181+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:06:03.983+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>World boxing champ Manny Pacquiao also lauded the tennis ace and
         said Eala has the “heart of a true champion.”</p>'
-  'Heat-in-Dagupan-to-reach-46-C-on-Saturday':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T12:30:57.000+08:00
-    'imagesource': 'jcr:78799b5f-2038-42f8-ab9b-a27ea17611b3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '178559af-c90e-4e81-9c55-dae98bd0a0e5'
-    'lead': 'Intense heat is expected in Dagupan City in Pangasinan on Saturday, March
+  'START HERE----->Heat-in-Dagupan-to-reach-46-C-on-Saturday':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T12:30:57.000+08:00
+    imagesource: '78799b5f-2038-42f8-ab9b-a27ea17611b3'
+    primarytype: 'composition'
+    uuid: '178559af-c90e-4e81-9c55-dae98bd0a0e5'
+    lead: 'Intense heat is expected in Dagupan City in Pangasinan on Saturday, March
       29, as the weather bureau warns of dangerous heat index reaching 46°C.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T12:31:37.737+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T12:31:37.995+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Heat in Dagupan to reach 46°C on Saturday'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95dfa2b6-d8ad-4dd3-b54d-6bc8734506f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.757+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:37.995+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Intense heat is expected
+    activationstatus: true
+    created: 2025-03-29T12:31:37.737+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T12:31:37.995+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T12:31:37.778+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Heat in Dagupan to reach 46°C on Saturday'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '95dfa2b6-d8ad-4dd3-b54d-6bc8734506f9'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.757+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:37.995+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Intense heat is expected
         in Dagupan City in Pangasinan on Saturday, March 29, as the weather bureau
         warns of dangerous heat index reaching 46°C.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c54990a9-9646-4ab6-b56b-d1fd15a2023a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.757+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:37.997+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Philippine Atmospheric, Geophysical and Astronomical Services Administration’s
+    section1:
+      primarytype: 'block'
+      uuid: 'c54990a9-9646-4ab6-b56b-d1fd15a2023a'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.757+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:37.997+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Philippine Atmospheric, Geophysical and Astronomical Services Administration’s
         (Pagasa) forecast on Friday said the heat falls under the “danger” heat index
         category (42°C to 51°C).'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba136dec-2f2d-4f72-9022-0c6c89acfb4a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.758+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:37.998+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bureau warned that this level of heat could cause heat cramps and
+    section2:
+      primarytype: 'block'
+      uuid: 'ba136dec-2f2d-4f72-9022-0c6c89acfb4a'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.758+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:37.998+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The bureau warned that this level of heat could cause heat cramps and
         heat exhaustion while too much exposure to the sun can lead to heat stroke.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '844fd3a4-6862-443d-ae96-3326bb6da81a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.758+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:37.999+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dagupan City has been under the “danger” heat index level for six consecutive
+    section3:
+      primarytype: 'block'
+      uuid: '844fd3a4-6862-443d-ae96-3326bb6da81a'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.758+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:37.999+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Dagupan City has been under the “danger” heat index level for six consecutive
         days, with its highest heat index this week hitting 48°C.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '58fbbae4-4acd-44be-a934-4060a8683100'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.759+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:38.000+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Cotabato City, Maguindanao, and General Santos City, Cotabato, have
+    section4:
+      primarytype: 'block'
+      uuid: '58fbbae4-4acd-44be-a934-4060a8683100'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.759+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:38.000+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Cotabato City, Maguindanao, and General Santos City, Cotabato, have
         also been warned of intense heat at 42°C under the same index category.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44eb873d-5e50-49ab-b506-3064deac3550'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T12:31:37.759+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T12:31:38.001+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T12:31:37.778+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, “extreme caution” heat category (33°C to 41°C) is forecast
+    section5:
+      primarytype: 'block'
+      uuid: '44eb873d-5e50-49ab-b506-3064deac3550'
+      activationstatus: true
+      created: 2025-03-29T12:31:37.759+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T12:31:38.001+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T12:31:37.778+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, “extreme caution” heat category (33°C to 41°C) is forecast
         in several areas including Pasay City and Quezon City in Metro Manila.</p>'
-  'China-warns--stop-sowing-tension--amid-US-Defense-chief-s-PH-visit':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T13:01:48.000+08:00
-    'imagesource': 'jcr:caccf9e3-c94d-4569-a6c1-0dec97608eb7'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'cb19f85b-5793-486b-9124-79972db7e380'
-    'lead': 'Beijing on Saturday warned that the United States is “sowing tension”
+  'START HERE----->China-warns--stop-sowing-tension--amid-US-Defense-chief-s-PH-visit':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T13:01:48.000+08:00
+    imagesource: 'caccf9e3-c94d-4569-a6c1-0dec97608eb7'
+    primarytype: 'composition'
+    uuid: 'cb19f85b-5793-486b-9124-79972db7e380'
+    lead: 'Beijing on Saturday warned that the United States is “sowing tension”
       in the Asia Pacific by its continuous involvement in deploying additional military
       support in the West Philippine Sea.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T13:03:19.696+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T13:03:19.974+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'China warns ‘stop sowing tension’ amid US Defense chief’s PH visit'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '01042bfa-5c74-4a00-bf3d-f0dec6dfdb3c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.708+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.975+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Beijing on Saturday
+    activationstatus: true
+    created: 2025-03-29T13:03:19.696+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T13:03:19.974+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T13:03:19.735+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'China warns ‘stop sowing tension’ amid US Defense chief’s PH visit'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '01042bfa-5c74-4a00-bf3d-f0dec6dfdb3c'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.708+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.975+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Beijing on Saturday
         warned that the United States is “sowing tension” in the Asia Pacific by its
         continuous involvement in deploying additional military support in the West
         Philippine Sea.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'adb51b64-102e-4a21-80c9-21801e6a28df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.709+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.976+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a briefing, Chinese Foreign Ministry Spokesperson Guo Jiakun said
+    section1:
+      primarytype: 'block'
+      uuid: 'adb51b64-102e-4a21-80c9-21801e6a28df'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.709+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.976+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a briefing, Chinese Foreign Ministry Spokesperson Guo Jiakun said
         Washington-Manila ties should not “target or harm any third party.”'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51c71cee-6c51-417b-a3d4-2df662a35fa9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.709+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.977+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Stop sowing tension in the region and discord between its countries
+    section2:
+      primarytype: 'block'
+      uuid: '51c71cee-6c51-417b-a3d4-2df662a35fa9'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.709+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.977+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Stop sowing tension in the region and discord between its countries
         and stop being the disrupter and provocateur in the South China Sea,” the
         minister told the US.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00920620-2a96-408a-b9e7-7b73e9432fe8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.710+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.978+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We also call on the Philippines to stop creating instability with
+    section3:
+      primarytype: 'block'
+      uuid: '00920620-2a96-408a-b9e7-7b73e9432fe8'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.710+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.978+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We also call on the Philippines to stop creating instability with
         US backing, still less seek military confrontation,” he added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3383f0c5-b371-45a8-bd0f-0b527a3fbee3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.710+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.979+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This comes as US Defense Secretary Pete Hegseth underscored the Trump
+    section4:
+      primarytype: 'block'
+      uuid: '3383f0c5-b371-45a8-bd0f-0b527a3fbee3'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.710+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.979+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This comes as US Defense Secretary Pete Hegseth underscored the Trump
         administration’s ironclad commitment to the region during his courtesy call
         in Manila on Friday.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49534b09-62a4-4968-8602-242ce78ba81d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.710+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.980+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a joint statement with Defense Secretary “Gibo” Teodoro Jr., Hegseth
+    section5:
+      primarytype: 'block'
+      uuid: '49534b09-62a4-4968-8602-242ce78ba81d'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.710+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.980+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a joint statement with Defense Secretary “Gibo” Teodoro Jr., Hegseth
         said the US and the Philippines have agreed to “accelerate” its military ties.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2253e15d-71a3-4a32-84ab-3f6c5595abe4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.711+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.980+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both nations have agreed to hold bilateral military exercises in Batanes
+    section6:
+      primarytype: 'block'
+      uuid: '2253e15d-71a3-4a32-84ab-3f6c5595abe4'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.711+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.980+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Both nations have agreed to hold bilateral military exercises in Batanes
         to ramp up cooperation.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e81fbf85-348c-4dba-aef8-08e848cdce82'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.711+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.981+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Washington and Manila also greenlit the deployment of “additional advanced
+    section7:
+      primarytype: 'block'
+      uuid: 'e81fbf85-348c-4dba-aef8-08e848cdce82'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.711+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.981+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Washington and Manila also greenlit the deployment of “additional advanced
         capabilities” to the Philippines.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '108cabf0-b7ea-4f54-8853-47c3051cbaac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.711+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.982+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The military assets include NMESIS, a land-based anti-ship missile
+    section8:
+      primarytype: 'block'
+      uuid: '108cabf0-b7ea-4f54-8853-47c3051cbaac'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.711+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.982+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The military assets include NMESIS, a land-based anti-ship missile
         system for the US Marine Corps, and unmanned surface vehicles for the next
         Balikatan exercises.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6a84aebf-0723-4e58-b405-8d0b25a1c96b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T13:03:19.712+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T13:03:19.983+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T13:03:19.735+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Hegseth’s visit comes as Washington exempts $336 million (P19.4
+    section9:
+      primarytype: 'block'
+      uuid: '6a84aebf-0723-4e58-b405-8d0b25a1c96b'
+      activationstatus: true
+      created: 2025-03-29T13:03:19.712+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T13:03:19.983+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T13:03:19.735+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Hegseth’s visit comes as Washington exempts $336 million (P19.4
         billion) in security assistance to the Philippines from the 90-day aid freeze
         imposed by US President Donald Trump.</p>'
-  'Myanmar-quake-death-toll-hits-1-000-as-international-aid-starts-to-arrive':
-    'author': 'John Mair and Devjyot Ghoshal, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T14:28:37.000+08:00
-    'imagesource': 'jcr:ac614c72-720f-4eb4-84d5-2ae14622cc3e'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '79882a4b-ead0-43bb-942f-9095099ec980'
-    'lead': 'The death toll in Myanmar was 1,002, the military government said on
+  'START HERE----->Myanmar-quake-death-toll-hits-1-000-as-international-aid-starts-to-arrive':
+    author: 'John Mair and Devjyot Ghoshal, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T14:28:37.000+08:00
+    imagesource: 'ac614c72-720f-4eb4-84d5-2ae14622cc3e'
+    primarytype: 'composition'
+    uuid: '79882a4b-ead0-43bb-942f-9095099ec980'
+    lead: 'The death toll in Myanmar was 1,002, the military government said on
       Saturday, up sharply from initial state media reports of 144 dead on Friday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T14:31:18.231+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T14:31:18.687+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Myanmar quake death toll hits 1,000 as international aid starts to arrive'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c710e4c0-8932-4519-b6cc-12b648a05686'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.262+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.688+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Foreign rescue teams began flying into
+    activationstatus: true
+    created: 2025-03-29T14:31:18.231+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T14:31:18.687+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T14:31:18.324+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Myanmar quake death toll hits 1,000 as international aid starts to arrive'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c710e4c0-8932-4519-b6cc-12b648a05686'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.262+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.688+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Foreign rescue teams began flying into
         Myanmar on Saturday to aid the search for survivors from an earthquake that
         killed more than 1,000 people in the impoverished Southeast Asian nation crippling
         critical infrastructure amid a grinding civil war.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e593ddc-cb0e-4806-9d06-40d2a787ef7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.262+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.689+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The death toll in Myanmar was 1,002, the military government said on
+    section1:
+      primarytype: 'block'
+      uuid: '4e593ddc-cb0e-4806-9d06-40d2a787ef7e'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.262+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.689+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The death toll in Myanmar was 1,002, the military government said on
         Saturday, up sharply from initial state media reports of 144 dead on Friday.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb9ada38-57af-45b7-a2bf-cafd59480023'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.262+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.690+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'At least nine people were killed in neighbouring Thailand, where the
+    section2:
+      primarytype: 'block'
+      uuid: 'cb9ada38-57af-45b7-a2bf-cafd59480023'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.262+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.690+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'At least nine people were killed in neighbouring Thailand, where the
         7.7 magnitude quake rattled buildings and brought down a skyscraper under
         construction in the capital Bangkok, trapping 30 people under debris, with
         49 missing.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51057bd5-ba4f-40e4-b032-79ac3cdcfc62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.263+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.691+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. Geological Service’s predictive modelling estimated the death
+    section3:
+      primarytype: 'block'
+      uuid: '51057bd5-ba4f-40e4-b032-79ac3cdcfc62'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.263+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.691+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The U.S. Geological Service’s predictive modelling estimated the death
         toll could exceed 10,000 in Myanmar and that losses could exceed the country’s
         annual economic output.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bcd6ccc1-8656-4c11-afee-f84b47764386'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.263+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.692+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The quake damaged roads, bridges and buildings in Myanmar, according
+    section4:
+      primarytype: 'block'
+      uuid: 'bcd6ccc1-8656-4c11-afee-f84b47764386'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.263+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.692+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The quake damaged roads, bridges and buildings in Myanmar, according
         to the junta, whose top general made a rare call for international assistance
         on Friday.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a7b82f2-e00a-43cd-ad68-0ec7bbb7ffad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.264+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.693+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Search and rescue operations are currently being carried out in the
+    section5:
+      primarytype: 'block'
+      uuid: '7a7b82f2-e00a-43cd-ad68-0ec7bbb7ffad'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.264+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.693+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Search and rescue operations are currently being carried out in the
         affected areas," the junta said in a statement on state media on Saturday.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b06f538-8561-4e2d-bec6-5c569ae3f6aa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.264+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.693+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A Chinese rescue team arrived in Myanmar’s commercial capital of Yangon,
+    section6:
+      primarytype: 'block'
+      uuid: '8b06f538-8561-4e2d-bec6-5c569ae3f6aa'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.264+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.693+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A Chinese rescue team arrived in Myanmar’s commercial capital of Yangon,
         hundreds of kilometres from the hard-hit cities on Mandalay and Naypyitaw,
         the country’s purpose-built capital, where parts of a 1,000-bed hospital
         were damaged.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '393e2940-059f-4967-b3b2-8e9056f60dbc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.265+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.694+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>''DON''T THINK THERE''S ANY HOPE''</strong></p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d7c5030-3457-4d12-b9f4-20ce90dfd07e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.265+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.695+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Russia, India, Malaysia and Singapore were sending planeloads of relief
+    section7:
+      primarytype: 'block'
+      uuid: '393e2940-059f-4967-b3b2-8e9056f60dbc'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.265+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.694+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>'DON'T THINK THERE'S ANY HOPE'</strong></p>'
+    section8:
+      primarytype: 'block'
+      uuid: '4d7c5030-3457-4d12-b9f4-20ce90dfd07e'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.265+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.695+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Russia, India, Malaysia and Singapore were sending planeloads of relief
         supplies and personnel to Myanmar, which has been ravaged by a civil war after
         a 2021 military coup ousted an elected civilian government.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2a4dd47e-673b-41b2-ade1-24ef077f0ab4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.265+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.696+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We will continue to monitor the developments and more aid will follow,"
+    section9:
+      primarytype: 'block'
+      uuid: '2a4dd47e-673b-41b2-ade1-24ef077f0ab4'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.265+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.696+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We will continue to monitor the developments and more aid will follow,"
         said Indian Foreign Minister Subrahmanyam Jaishankar.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b88c712f-57a3-4f65-b35a-5255055b76c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.266+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.697+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'South Korea said it would provide an initial $2 million in humanitarian
+    section10:
+      primarytype: 'block'
+      uuid: 'b88c712f-57a3-4f65-b35a-5255055b76c7'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.266+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.697+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'South Korea said it would provide an initial $2 million in humanitarian
         aid to Myanmar through international organisations.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82437770-51cf-43a3-9420-2ad2daac2dc0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.266+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.698+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The United States, which has a testy relationship with the Myanmar
+    section11:
+      primarytype: 'block'
+      uuid: '82437770-51cf-43a3-9420-2ad2daac2dc0'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.266+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.698+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The United States, which has a testy relationship with the Myanmar
         military and has sanctioned its officials, including junta chief Min Aung
         Hlaing, has said it would provide some assistance.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f71ae8a-9e43-407b-946b-11975359fdad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.267+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.698+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The quake, which hit around lunchtime on Friday, impacted wide swathes
+    section12:
+      primarytype: 'block'
+      uuid: '5f71ae8a-9e43-407b-946b-11975359fdad'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.267+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.698+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The quake, which hit around lunchtime on Friday, impacted wide swathes
         of the country, from the central plains around Mandalay to the hills of Shan,
         parts of which are not completely under the junta’s control.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2acbac5-970c-485a-bb73-0bea3bbc5ae8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.267+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.699+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In Mandalay, Myanmar’s second-biggest city, residents and rescue workers
+    section13:
+      primarytype: 'block'
+      uuid: 'a2acbac5-970c-485a-bb73-0bea3bbc5ae8'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.267+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.699+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In Mandalay, Myanmar’s second-biggest city, residents and rescue workers
         scrambled to pull people out from under collapsed buildings, struggling with
         limited heavy machinery available to remove debris.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8195d764-fabd-4e1b-93c1-ee5f156936e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.268+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.700+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'After he was dragged out from under a wall by other residents, Htet
+    section14:
+      primarytype: 'block'
+      uuid: '8195d764-fabd-4e1b-93c1-ee5f156936e4'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.268+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.700+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'After he was dragged out from under a wall by other residents, Htet
         Min Oo, 25, said he tried to clear the rubble of a crumpled building himself
         to rescue his grandmother and two uncles - but eventually gave up.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2171b3c8-eee9-4528-993f-656781dd4976'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.268+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.701+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I don''t know if they are still alive under the debris," he told Reuters,
+    section15:
+      primarytype: 'block'
+      uuid: '2171b3c8-eee9-4528-993f-656781dd4976'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.268+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.701+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I don't know if they are still alive under the debris," he told Reuters,
         breaking into tears. "After so long, I don’t think there’s any hope."'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aff189e9-ac82-49e4-aecb-8d7de4d4f40c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.269+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.702+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>SEARCHING BANGKOK TOWER RUBBLE</strong></p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2aa91f06-17e4-4ffc-bde5-31d1455016f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.269+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.703+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Susan Hough, a scientist in the USGS’s Earthquake Hazards Program,
+    section16:
+      primarytype: 'block'
+      uuid: 'aff189e9-ac82-49e4-aecb-8d7de4d4f40c'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.269+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.702+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>SEARCHING BANGKOK TOWER RUBBLE</strong></p>'
+    section17:
+      primarytype: 'block'
+      uuid: '2aa91f06-17e4-4ffc-bde5-31d1455016f0'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.269+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.703+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Susan Hough, a scientist in the USGS’s Earthquake Hazards Program,
         told Reuters it was difficult to predict an earthquake’s death toll, for
         various reasons including timing.When a quake strikes during the daytime,
         as it did in Myanmar, "people are awake, they have their wits about them,
         they are better able to respond," she said.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f13518f-e10c-4184-ae3d-4f532f87f842'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.270+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.704+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In Bangkok, 1,000 km (620 miles) from the epicentre, a rescue mission
+    section18:
+      primarytype: 'block'
+      uuid: '4f13518f-e10c-4184-ae3d-4f532f87f842'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.270+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.704+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In Bangkok, 1,000 km (620 miles) from the epicentre, a rescue mission
         stepped up its efforts on Saturday to find construction workers trapped under
         the rubble of the collapsed 33-storey tower.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d4c07f7-d9a1-4a5a-a590-3da5acb27936'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.270+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.704+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Authorities used excavators, drones and search-and-rescue dogs to try
+    section19:
+      primarytype: 'block'
+      uuid: '7d4c07f7-d9a1-4a5a-a590-3da5acb27936'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.270+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.704+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Authorities used excavators, drones and search-and-rescue dogs to try
         to extricate the 30 people stuck, including at least 15 still showing signs
         of life.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1e7d537-95c4-4096-b7f4-687e669e5300'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.271+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.705+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We will do everything, we will not give up on saving lives, we will
+    section20:
+      primarytype: 'block'
+      uuid: 'e1e7d537-95c4-4096-b7f4-687e669e5300'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.271+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.705+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We will do everything, we will not give up on saving lives, we will
         use all resources," Bangkok Governor Chadchart Sittipunt said at the site.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b01b69e9-ed21-41cd-bd90-ade01372016f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.271+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.706+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'After the city ground to a halt on Friday, hundreds spent the night
+    section21:
+      primarytype: 'block'
+      uuid: 'b01b69e9-ed21-41cd-bd90-ade01372016f'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.271+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.706+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'After the city ground to a halt on Friday, hundreds spent the night
         in parks, but the situation was improving on Saturday, he said.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aaea97cb-fd85-4cf0-a28a-ca043286808d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.272+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.707+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Waanpetch Panta sat at the site of the collapsed building with her
+    section22:
+      primarytype: 'block'
+      uuid: 'aaea97cb-fd85-4cf0-a28a-ca043286808d'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.272+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.707+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Waanpetch Panta sat at the site of the collapsed building with her
         husband, watching the rescue operations and waiting for news of their 18-year-old
         daughter, who is among the missing.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df0a65a2-ed3f-464a-96c5-18dd94edcaf5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.272+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.708+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I prayed that my daughter was among those taken to the hospital already,"
+    section23:
+      primarytype: 'block'
+      uuid: 'df0a65a2-ed3f-464a-96c5-18dd94edcaf5'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.272+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.708+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I prayed that my daughter was among those taken to the hospital already,"
         she said, "All I can do is sit and wait like this."'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da6f1a3c-074b-4ddd-8d0f-5d3db0b44110'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:31:18.273+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:31:18.709+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:31:18.324+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Bangkok Bureau, Shoon Naing, Wa Lone and Heather
+    section24:
+      primarytype: 'block'
+      uuid: 'da6f1a3c-074b-4ddd-8d0f-5d3db0b44110'
+      activationstatus: true
+      created: 2025-03-29T14:31:18.273+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:31:18.709+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:31:18.324+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Bangkok Bureau, Shoon Naing, Wa Lone and Heather
         Timmons; Writing by John Mair and Devjyot Ghoshal; Editing by William Mallard)</em></p>'
-  'South-Korea-to-provide--2-million-in-initial-aid-to-quake-stricken-Myanmar':
-    'author': 'Jack Kim, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T14:31:23.000+08:00
-    'imagesource': 'jcr:3ac1bc49-c4e3-4f03-b3cb-5a08b58612bc'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '690d63c8-4fe1-4f38-978e-deaff2c1b337'
-    'lead': 'South Korea will provide $2 million to Myanmar in humanitarian aid through
+  'START HERE----->South-Korea-to-provide--2-million-in-initial-aid-to-quake-stricken-Myanmar':
+    author: 'Jack Kim, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T14:31:23.000+08:00
+    imagesource: '3ac1bc49-c4e3-4f03-b3cb-5a08b58612bc'
+    primarytype: 'composition'
+    uuid: '690d63c8-4fe1-4f38-978e-deaff2c1b337'
+    lead: 'South Korea will provide $2 million to Myanmar in humanitarian aid through
       international organizations in initial assistance to help the country respond
       to Friday’s earthquake, its foreign ministry said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T14:33:11.559+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T14:33:11.739+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T14:33:11.582+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'South Korea to provide $2 million in initial aid to quake-stricken Myanmar'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da59f761-7a77-4521-9c83-4e022cb9c79b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:33:11.570+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:33:11.740+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:33:11.582+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> South Korea will provide $2 million
+    activationstatus: true
+    created: 2025-03-29T14:33:11.559+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T14:33:11.739+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T14:33:11.582+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea to provide $2 million in initial aid to quake-stricken Myanmar'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'da59f761-7a77-4521-9c83-4e022cb9c79b'
+      activationstatus: true
+      created: 2025-03-29T14:33:11.570+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:33:11.740+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:33:11.582+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> South Korea will provide $2 million
         to Myanmar in humanitarian aid through international organizations in initial
         assistance to help the country respond to Friday’s earthquake, its foreign
         ministry said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '87f3e8cd-9460-4c5e-a666-12a61ed541fc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:33:11.570+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:33:11.741+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:33:11.582+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by Jack Kim; Editing by Edwina Gibbs)</p>'
-  'Nepal-investigates-deadly-violence-in-pro-monarchy-rally':
-    'author': 'Gopal Sharma, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T14:33:18.000+08:00
-    'imagesource': 'jcr:4a4f9491-3d8b-4506-bdcb-f015affd96f5'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5446001f-2706-4190-8366-ed9114e4958c'
-    'lead': 'Nepal’s government is investigating deadly violence that occurred during
+    section1:
+      primarytype: 'block'
+      uuid: '87f3e8cd-9460-4c5e-a666-12a61ed541fc'
+      activationstatus: true
+      created: 2025-03-29T14:33:11.570+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:33:11.741+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:33:11.582+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by Jack Kim; Editing by Edwina Gibbs)</p>'
+  'START HERE----->Nepal-investigates-deadly-violence-in-pro-monarchy-rally':
+    author: 'Gopal Sharma, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T14:33:18.000+08:00
+    imagesource: '4a4f9491-3d8b-4506-bdcb-f015affd96f5'
+    primarytype: 'composition'
+    uuid: '5446001f-2706-4190-8366-ed9114e4958c'
+    lead: 'Nepal’s government is investigating deadly violence that occurred during
       a rally by the supporters of the former king seeking the restoration of constitutional
       monarchy, a minister said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T14:36:41.105+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T14:36:41.370+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Nepal investigates deadly violence in pro-monarchy rally'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfacdb52-8d0f-483f-9c59-a639edcb03af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.117+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.371+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Nepal’s government is investigating
+    activationstatus: true
+    created: 2025-03-29T14:36:41.105+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T14:36:41.370+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T14:36:41.146+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Nepal investigates deadly violence in pro-monarchy rally'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'cfacdb52-8d0f-483f-9c59-a639edcb03af'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.117+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.371+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Nepal’s government is investigating
         deadly violence that occurred during a rally by the supporters of the former
         king seeking the restoration of constitutional monarchy, a minister said on
         Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c4ca6c4-90ca-4813-8d54-c4ccb67f6f88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.117+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.372+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Two people were killed on Friday and at least 112 injured, including
+    section1:
+      primarytype: 'block'
+      uuid: '4c4ca6c4-90ca-4813-8d54-c4ccb67f6f88'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.117+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.372+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Two people were killed on Friday and at least 112 injured, including
         77 security officials, authorities said, after police used force to stop the
         stone-throwing crowd from marching towards the parliament building in the
         capital Kathmandu.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92988c4c-b5b8-4034-af31-4ee8b02fc2ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.117+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.373+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Protesters vandalised homes, shops, a hospital, a political party office,
+    section2:
+      primarytype: 'block'
+      uuid: '92988c4c-b5b8-4034-af31-4ee8b02fc2ee'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.117+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.373+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Protesters vandalised homes, shops, a hospital, a political party office,
         vehicles and a shopping mall and snatched a weapon from the police, the authorities
         in the Himalayan nation said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2892a84c-1a3d-4b83-8090-74559f8593f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.118+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.374+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“This is sheer vandalism, arson, looting and anarchy. It cannot be
+    section3:
+      primarytype: 'block'
+      uuid: '2892a84c-1a3d-4b83-8090-74559f8593f8'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.118+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.374+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“This is sheer vandalism, arson, looting and anarchy. It cannot be
         a protest,” cabinet spokesman Prithvi Subba Gurung, the minister of communication
         and information technology, told Reuters.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8520c33c-36bf-44e8-b038-3c741a23c1cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.118+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.375+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rishiram Tiwari, Kathmandu’s chief district officer, said 105 protesters
+    section4:
+      primarytype: 'block'
+      uuid: '8520c33c-36bf-44e8-b038-3c741a23c1cf'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.118+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.375+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Rishiram Tiwari, Kathmandu’s chief district officer, said 105 protesters
         including some pro-monarchy leaders were taken into custody.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1fceb137-018e-44df-b13a-72cb77ac6b23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.118+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.376+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Nepal’s 239-year-old monarchy was abolished in 2008 by a specially
+    section5:
+      primarytype: 'block'
+      uuid: '1fceb137-018e-44df-b13a-72cb77ac6b23'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.118+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.376+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Nepal’s 239-year-old monarchy was abolished in 2008 by a specially
         elected assembly as part of a deal with Maoist former rebels, ending an insurgency
         that killed 17,000 people between 1996 and 2006.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ebe7eff2-8c4f-4453-9eb1-53a181f32494'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.119+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.377+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The last king, 77-year-old Gyanendra, lives as a commoner with his
+    section6:
+      primarytype: 'block'
+      uuid: 'ebe7eff2-8c4f-4453-9eb1-53a181f32494'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.119+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.377+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The last king, 77-year-old Gyanendra, lives as a commoner with his
         family in a private house in Kathmandu.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb3ede3b-653e-42a6-ae85-f8e4968cf395'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.119+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.378+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Political instability has rocked Nepal, one of the world’s poorest
+    section7:
+      primarytype: 'block'
+      uuid: 'cb3ede3b-653e-42a6-ae85-f8e4968cf395'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.119+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.378+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Political instability has rocked Nepal, one of the world’s poorest
         countries, with 14 governments since the abolition of the monarchy, hampering
         economic growth and discouraging investment.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac50919f-5de7-4e50-b940-0bad2122b1ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.120+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.378+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Public frustration has risen over the failure of successive governments
+    section8:
+      primarytype: 'block'
+      uuid: 'ac50919f-5de7-4e50-b940-0bad2122b1ce'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.120+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.378+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Public frustration has risen over the failure of successive governments
         to deliver on commitments to develop the economy of the country, a natural
         buffer between Asian giants China and India.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a15814cd-c8a6-418c-b69c-64829007b742'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T14:36:41.120+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T14:36:41.379+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T14:36:41.146+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Gopal Sharma; Editing by William Mallard)</em></p>'
-  'OFWs-funds-for-family-s-needs-will-make-up-for-loss-in--zero-remittance-week----Gatchalian':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-03-29T15:39:30.000+08:00
-    'imagesource': 'jcr:90807cc5-2d33-44fd-ae61-110e9a521239'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5ccbc67d-c14a-432d-840d-31737b03469c'
-    'lead': 'The need to fund their family’s expenses in the Philippines will eventually
+    section9:
+      primarytype: 'block'
+      uuid: 'a15814cd-c8a6-418c-b69c-64829007b742'
+      activationstatus: true
+      created: 2025-03-29T14:36:41.120+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T14:36:41.379+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T14:36:41.146+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Gopal Sharma; Editing by William Mallard)</em></p>'
+  'START HERE----->OFWs-funds-for-family-s-needs-will-make-up-for-loss-in--zero-remittance-week----Gatchalian':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-03-29T15:39:30.000+08:00
+    imagesource: '90807cc5-2d33-44fd-ae61-110e9a521239'
+    primarytype: 'composition'
+    uuid: '5ccbc67d-c14a-432d-840d-31737b03469c'
+    lead: 'The need to fund their family’s expenses in the Philippines will eventually
       push overseas Filipino workers (OFWs) to remit their earnings, making up for
       the possible loss from plans to suspend remittances in support for detained
       former President Rodrigo Duterte, Senator Win Gatchalian said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-03-29T15:41:59.212+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-03-29T15:41:59.521+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'OFWs funds for family’s needs will make up for loss in ‘zero-remittance
+    activationstatus: true
+    created: 2025-03-29T15:41:59.212+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-03-29T15:41:59.521+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-03-29T15:41:59.271+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'OFWs funds for family’s needs will make up for loss in ‘zero-remittance
       week’ — Gatchalian'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be83f49f-1fcf-43ab-85c1-bd2c4e1fe53d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.232+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.522+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - The need to fund their family’s expenses
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'be83f49f-1fcf-43ab-85c1-bd2c4e1fe53d'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.232+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.522+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - The need to fund their family’s expenses
         in the Philippines will eventually push overseas Filipino workers (OFWs) to
         remit their earnings, making up for the possible loss from plans to suspend
         remittances in support for detained former President Rodrigo Duterte, Senator
         Win Gatchalian said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c49277d7-f604-4562-8bf1-853d5488f5e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.233+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.523+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'According to Gatchalian, families of OFWs in the country rely on them
+    section1:
+      primarytype: 'block'
+      uuid: 'c49277d7-f604-4562-8bf1-853d5488f5e6'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.233+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.523+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'According to Gatchalian, families of OFWs in the country rely on them
         to provide for bills such as tuition fees and necessities such as medicine.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a99f8bf2-ccb6-4d6c-8ccf-c30b89e539f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.233+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.524+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“‘<em>Yung hindi nila in-remit, iri-remit rin nila. Mako-compensate
+    section2:
+      primarytype: 'block'
+      uuid: 'a99f8bf2-ccb6-4d6c-8ccf-c30b89e539f1'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.233+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.524+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“‘<em>Yung hindi nila in-remit, iri-remit rin nila. Mako-compensate
         rin dahil ‘yung mga remittance na ‘yun ay ginagamit sa pang-tuition fee, lalo
         na sa edukasyon</em>,” the senator said in an interview.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92d54e23-3a2b-4b76-a19f-3079ac38c1ab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.233+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.525+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>So, kung meron man isang linggong hindi mag-re-remit, tingin
+    section3:
+      primarytype: 'block'
+      uuid: '92d54e23-3a2b-4b76-a19f-3079ac38c1ab'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.233+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.525+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>So, kung meron man isang linggong hindi mag-re-remit, tingin
         ko makakompensate yan sa susunod na linggo o sa susunod na mga araw</em>,”
         he added.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4194f2bc-3e46-4bb2-8d81-c8915c7eb27f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.234+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.526+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: What they don’t remit, they will eventually remit. It
+    section4:
+      primarytype: 'block'
+      uuid: '4194f2bc-3e46-4bb2-8d81-c8915c7eb27f'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.234+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.526+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: What they don’t remit, they will eventually remit. It
         will also compensate, because those remittances are used for tuition fees,
         especially in education…So if there is a week of not remitting, I think that
         will be compensated in the following week or days.]'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e20a3b4-1f2e-4cbf-bf63-429c923bd5f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.234+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.527+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Gatchalian also said that proposals to cancel or also suspend the tax
+    section5:
+      primarytype: 'block'
+      uuid: '1e20a3b4-1f2e-4cbf-bf63-429c923bd5f0'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.234+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.527+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Gatchalian also said that proposals to cancel or also suspend the tax
         privileges of the OFWs for their protest should not be entertained.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '70d64c9a-a054-4078-bb88-b0d24e93b546'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.235+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.528+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Ang pinakamahalaga dito ay hayaan natin i-express nila ‘yung
+    section6:
+      primarytype: 'block'
+      uuid: '70d64c9a-a054-4078-bb88-b0d24e93b546'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.235+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.528+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Ang pinakamahalaga dito ay hayaan natin i-express nila ‘yung
         kanilang saluobin at kanilang emosyon at opinion. Lalo na opiniyon. Iba-iba
         talagang</em> <em>opiniyon natin</em>,” he said.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d90b630-600b-448e-acff-2ae2cbbf27dc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.235+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.529+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: The most important thing here is to let them express
+    section7:
+      primarytype: 'block'
+      uuid: '2d90b630-600b-448e-acff-2ae2cbbf27dc'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.235+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.529+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: The most important thing here is to let them express
         their feelings and their emotions and opinions. Especially opinion. We really
         have different opinions. ]'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d57c2bf-601a-46bd-be47-4cfe032632ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.236+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.530+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This comes days following reports of a “zero-remittance week” among
+    section8:
+      primarytype: 'block'
+      uuid: '7d57c2bf-601a-46bd-be47-4cfe032632ca'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.236+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.530+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This comes days following reports of a “zero-remittance week” among
         OFWs who support Duterte who is in custody of the International Criminal Court
         in The Hague, Netherlands for charges in relation to crimes against humanity
         linked to his drug war.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b6bc519-6900-4ffc-8dd5-62d5f4039a36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.236+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.531+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The plan to suspend remittances are in line with Duterte’s supporters’
+    section9:
+      primarytype: 'block'
+      uuid: '5b6bc519-6900-4ffc-8dd5-62d5f4039a36'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.236+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.531+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The plan to suspend remittances are in line with Duterte’s supporters’
         call for his return to the Philippines.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '02dd3157-8a95-40c7-bee2-640463987aa7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-03-29T15:41:59.236+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-03-29T15:41:59.531+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-03-29T15:41:59.271+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Palace earlier encouraged OFWs to <a href="https://www.newswatchplus.ph/news/2025/3/26/govt-reconsider-suspension-remittances.html"><strong>study</strong></a>
+    section10:
+      primarytype: 'block'
+      uuid: '02dd3157-8a95-40c7-bee2-640463987aa7'
+      activationstatus: true
+      created: 2025-03-29T15:41:59.236+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-03-29T15:41:59.531+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-03-29T15:41:59.271+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The Palace earlier encouraged OFWs to <a href="https://www.newswatchplus.ph/news/2025/3/26/govt-reconsider-suspension-remittances.html"><strong>study</strong></a>
         their plan, adding that the government is not stopping them from their form
         of protest.&nbsp;</p>'

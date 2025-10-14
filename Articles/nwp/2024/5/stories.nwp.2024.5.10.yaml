@@ -1,161 +1,161 @@
-'10':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'f5d492f1-3652-4a22-95e7-1e5c431d4ea4'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-05-10T18:34:13.654+08:00
-  'mgnl:createdBy': 'khoa'
-  'mgnl:lastActivated': 2024-07-11T18:58:22.412+08:00
-  'mgnl:lastActivatedBy': 'magnolia-ben'
-  'mgnl:lastModified': 2024-05-10T18:54:24.108+08:00
-  'mgnl:lastModifiedBy': 'khoa'
-  'Manila-s-New-Metro-Line-Set-to-Transform-Cityscape':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-05-10T18:34:13.000+08:00
-    'imagesource': 'jcr:6597872a-660c-4908-8ee6-29eb49d7a1ac'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f0c30267-52b3-4cab-b3d3-2333a5094cf3'
-    'lead': 'With the city’s rapid urbanization and increasing population, the new
+section10:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'f5d492f1-3652-4a22-95e7-1e5c431d4ea4'
+  activationstatus: true
+  created: 2024-05-10T18:34:13.654+08:00
+  createdby: 'khoa'
+  lastactivated: 2024-07-11T18:58:22.412+08:00
+  lastactivatedby: 'magnolia-ben'
+  lastmodified: 2024-05-10T18:54:24.108+08:00
+  lastmodifiedby: 'khoa'
+  'START HERE----->Manila-s-New-Metro-Line-Set-to-Transform-Cityscape':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-05-10T18:34:13.000+08:00
+    imagesource: '6597872a-660c-4908-8ee6-29eb49d7a1ac'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f0c30267-52b3-4cab-b3d3-2333a5094cf3'
+    lead: 'With the city’s rapid urbanization and increasing population, the new
       metro line promises to alleviate congestion and enhance connectivity across
       key areas.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-05-10T18:40:44.850+08:00
-    'mgnl:createdBy': 'khoa'
-    'mgnl:lastActivated': 2024-07-11T18:58:22.688+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-05-14T17:04:39.474+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Manila’s New Metro Line Set to Transform Cityscape'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3872396b-7770-4244-9429-b45d9d50b62d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:40:44.881+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.688+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-14T17:04:39.468+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>In a landmark move aimed at addressing the burgeoning transportation
+    activationstatus: true
+    created: 2024-05-10T18:40:44.850+08:00
+    createdby: 'khoa'
+    lastactivated: 2024-07-11T18:58:22.688+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-05-14T17:04:39.474+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Manila’s New Metro Line Set to Transform Cityscape'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3872396b-7770-4244-9429-b45d9d50b62d'
+      activationstatus: true
+      created: 2024-05-10T18:40:44.881+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.688+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-14T17:04:39.468+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>In a landmark move aimed at addressing the burgeoning transportation
         needs of the capital, Manila is all set to unveil its latest addition to the
         metro line network. This new line comes as a beacon of hope for commuters
         grappling with the perennial issue of traffic congestion in the city.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8f1f471-24b1-45cf-8614-e7a4dbe30ddd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:40:44.883+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.689+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-14T17:04:39.469+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'With urbanization on the rise and more people relying on public transport,
+    section1:
+      primarytype: 'block'
+      uuid: 'f8f1f471-24b1-45cf-8614-e7a4dbe30ddd'
+      activationstatus: true
+      created: 2024-05-10T18:40:44.883+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.689+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-14T17:04:39.469+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'With urbanization on the rise and more people relying on public transport,
         the expansion of the metro line is a timely intervention. The new line is
         strategically designed to link crucial areas of the city, making daily commutes
         more efficient and less time-consuming.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80620fb3-8291-4d89-8f67-c73a42d51995'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:40:44.883+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.689+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-14T17:04:39.469+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': 'Moreover, beyond the immediate benefits of easing traffic woes, the
+    section2:
+      primarytype: 'block'
+      uuid: '80620fb3-8291-4d89-8f67-c73a42d51995'
+      activationstatus: true
+      created: 2024-05-10T18:40:44.883+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.689+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-14T17:04:39.469+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: 'Moreover, beyond the immediate benefits of easing traffic woes, the
         metro line expansion holds the promise of boosting economic activity in Manila.
         By improving accessibility to commercial hubs and residential areas, it is
         expected to stimulate growth and enhance the overall vibrancy of the city.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f852182a-cae2-41ee-89e8-c0ab830188b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:40:44.884+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.690+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-14T17:04:39.470+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>The successful completion of this ambitious project underscores
+    section3:
+      primarytype: 'block'
+      uuid: 'f852182a-cae2-41ee-89e8-c0ab830188b8'
+      activationstatus: true
+      created: 2024-05-10T18:40:44.884+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.690+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-14T17:04:39.470+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>The successful completion of this ambitious project underscores
         the government’s commitment to enhancing infrastructure and fostering sustainable
         urban development. As Manila embraces this new phase of progress, anticipation
         runs high for the positive changes it will bring to the lives of its citizens
         and the city’s dynamic landscape.</p>'
-  'Vibrant-Celebrations--Children-Bring-Color-to-Sinulog-Festival-in-Cebu-City':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-05-10T18:50:13.000+08:00
-    'imagesource': 'jcr:f1063dad-08fa-4a4f-8536-68ae6184d233'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c20d34c8-bbd2-4ac9-b31a-f3eea9ebf548'
-    'lead': 'Amidst the lively atmosphere of the Sinulog Festival in Cebu City, a
+  'START HERE----->Vibrant-Celebrations--Children-Bring-Color-to-Sinulog-Festival-in-Cebu-City':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-05-10T18:50:13.000+08:00
+    imagesource: 'f1063dad-08fa-4a4f-8536-68ae6184d233'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c20d34c8-bbd2-4ac9-b31a-f3eea9ebf548'
+    lead: 'Amidst the lively atmosphere of the Sinulog Festival in Cebu City, a
       group of children adorned in colorful costumes captivates spectators with their
       energetic dance performances.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-05-10T18:50:58.992+08:00
-    'mgnl:createdBy': 'khoa'
-    'mgnl:lastActivated': 2024-07-11T18:58:22.573+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-05-14T17:04:24.396+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Vibrant Celebrations: Children Bring Color to Sinulog Festival in Cebu
+    activationstatus: true
+    created: 2024-05-10T18:50:58.992+08:00
+    createdby: 'khoa'
+    lastactivated: 2024-07-11T18:58:22.573+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-05-14T17:04:24.396+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Vibrant Celebrations: Children Bring Color to Sinulog Festival in Cebu
       City'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '495b91f2-5ff2-424b-a3a4-5f030be06fe6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:50:59.034+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.574+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-14T17:04:24.393+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-  'Magnolia-APAC-s-Commitment-to-Relationship-Centric-Business-in-Manila':
-    'categories': ['290033c0-cbb5-4422-80c5-83c54c89968a']
-    'created': 2024-05-10T18:54:24.000+08:00
-    'imagesource': 'jcr:35125060-15a9-422d-bd42-1509d7fd8fa2'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '18f9d386-84eb-4d4c-bfef-2172709b9802'
-    'lead': 'Don Lee, at the helm of Magnolia APAC, champions the belief that fostering
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '495b91f2-5ff2-424b-a3a4-5f030be06fe6'
+      activationstatus: true
+      created: 2024-05-10T18:50:59.034+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.574+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-14T17:04:24.393+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+  'START HERE----->Magnolia-APAC-s-Commitment-to-Relationship-Centric-Business-in-Manila':
+    categories: '290033c0-cbb5-4422-80c5-83c54c89968a'
+    created: 2024-05-10T18:54:24.000+08:00
+    imagesource: '35125060-15a9-422d-bd42-1509d7fd8fa2'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '18f9d386-84eb-4d4c-bfef-2172709b9802'
+    lead: 'Don Lee, at the helm of Magnolia APAC, champions the belief that fostering
       strong client relationships is the cornerstone of the company’s success, particularly
       in Manila’s dynamic business landscape.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-05-10T18:55:40.273+08:00
-    'mgnl:createdBy': 'khoa'
-    'mgnl:lastActivated': 2024-07-11T18:58:22.495+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-05-15T11:01:39.182+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Magnolia APAC’s Commitment to Relationship-Centric Business in Manila'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7656fd2-aef9-43d7-9395-d1ab6e4def7c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-10T18:55:40.357+08:00
-      'mgnl:createdBy': 'khoa'
-      'mgnl:lastActivated': 2024-07-11T18:58:22.495+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-15T11:01:39.179+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
+    activationstatus: true
+    created: 2024-05-10T18:55:40.273+08:00
+    createdby: 'khoa'
+    lastactivated: 2024-07-11T18:58:22.495+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-05-15T11:01:39.182+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Magnolia APAC’s Commitment to Relationship-Centric Business in Manila'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd7656fd2-aef9-43d7-9395-d1ab6e4def7c'
+      activationstatus: true
+      created: 2024-05-10T18:55:40.357+08:00
+      createdby: 'khoa'
+      lastactivated: 2024-07-11T18:58:22.495+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-15T11:01:39.179+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'

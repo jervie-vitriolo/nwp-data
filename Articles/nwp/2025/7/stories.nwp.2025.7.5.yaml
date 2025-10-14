@@ -1,2250 +1,2250 @@
-'5':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '16b73df0-0545-471d-8b77-f1c034d2a327'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-07-05T10:08:42.027+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-07-05T10:10:39.674+08:00
-  'mgnl:lastActivatedBy': 'lance-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-07-05T10:10:39.441+08:00
-  'mgnl:lastModified': 2025-07-05T18:05:18.835+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'trump-signs-tax-and-spending-bill-into-law':
-    'author': 'Trevor Hunnicutt, Reuters'
-    'caption': 'U.S. President Donald Trump signs a sweeping spending and tax legislation,
+section5:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '16b73df0-0545-471d-8b77-f1c034d2a327'
+  activationstatus: true
+  created: 2025-07-05T10:08:42.027+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-07-05T10:10:39.674+08:00
+  lastactivatedby: 'lance-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-07-05T10:10:39.441+08:00
+  lastmodified: 2025-07-05T18:05:18.835+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->trump-signs-tax-and-spending-bill-into-law':
+    author: 'Trevor Hunnicutt, Reuters'
+    caption: 'U.S. President Donald Trump signs a sweeping spending and tax legislation,
       known as the "One Big Beautiful Bill Act," during a picnic with military families
       to mark Independence Day, at the White House in Washington, D.C., U.S., July
       4, 2025. (Ken Cedeno/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T10:08:42.000+08:00
-    'imagesource': 'jcr:35c59cd9-b49c-49e5-8c78-41097e541952'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f87895dd-721c-4127-a86e-9fab57301552'
-    'lead': ' U.S. President Donald Trump signed into law a massive package of tax
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T10:08:42.000+08:00
+    imagesource: '35c59cd9-b49c-49e5-8c78-41097e541952'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f87895dd-721c-4127-a86e-9fab57301552'
+    lead: ' U.S. President Donald Trump signed into law a massive package of tax
       and spending cuts at the White House on Friday, staging an outdoor ceremony
       on the Fourth of July holiday that took on the air of a Trump political rally.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T10:10:34.022+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T10:10:49.685+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-07-05T10:10:49.277+08:00
-    'mgnl:lastModified': 2025-07-05T10:10:34.061+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump']
-    'stories': []
-    'template': '1'
-    'title': 'In July 4 ceremony, Trump signs tax and spending bill into law'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '93a47a05-0def-48a1-a86d-bb9909077ec2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.044+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.685+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.055+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, US -</strong> U.S. President Donald Trump signed
+    activationstatus: true
+    created: 2025-07-05T10:10:34.022+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T10:10:49.685+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-07-05T10:10:49.277+08:00
+    lastmodified: 2025-07-05T10:10:34.061+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'In July 4 ceremony, Trump signs tax and spending bill into law'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '93a47a05-0def-48a1-a86d-bb9909077ec2'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.044+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.685+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.055+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, US -</strong> U.S. President Donald Trump signed
         into law a massive package of tax and spending cuts at the White House on
         Friday, staging an outdoor ceremony on the Fourth of July holiday that took
         on the air of a Trump political rally.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f841d3e7-c8ae-4f89-8a76-a00e93495ec6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.045+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.686+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.045+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'With military jets flying overhead and hundreds of supporters in attendance,
+    section1:
+      primarytype: 'block'
+      uuid: 'f841d3e7-c8ae-4f89-8a76-a00e93495ec6'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.045+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.686+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.045+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'With military jets flying overhead and hundreds of supporters in attendance,
         Trump signed the bill one day after the Republican-controlled House of Representatives
         narrowly approved the signature legislation of the president’s second term.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb0f76f4-7a7d-4a79-bf7b-492fb951ae35'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.045+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.686+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.045+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bill, which will fund Trump’s immigration crackdown, make his
+    section2:
+      primarytype: 'block'
+      uuid: 'bb0f76f4-7a7d-4a79-bf7b-492fb951ae35'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.045+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.686+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.045+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The bill, which will fund Trump’s immigration crackdown, make his
         2017 tax cuts permanent, and is expected to knock millions of Americans off
         health insurance, was passed with a 218-214 vote after an emotional debate
         on the House floor.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e82b501-7519-446d-9fac-8fbe9bd972e5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.045+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.687+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.045+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"I''ve never seen people so happy in our country because of that, because
+    section3:
+      primarytype: 'block'
+      uuid: '3e82b501-7519-446d-9fac-8fbe9bd972e5'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.045+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.687+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.045+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"I've never seen people so happy in our country because of that, because
         so many different groups of people are being taken care of: the military,
         civilians of all types, jobs of all types," Trump said at the ceremony, thanking
         House Speaker Mike Johnson and Senate Majority Leader John Thune for leading
         the bill through the two houses of Congress.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c131b54-d26e-454d-8b93-2cfdddf79b5a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.046+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.687+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.046+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"So you have the biggest tax cut, the biggest spending cut, the largest
+    section4:
+      primarytype: 'block'
+      uuid: '1c131b54-d26e-454d-8b93-2cfdddf79b5a'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.046+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.687+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.046+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"So you have the biggest tax cut, the biggest spending cut, the largest
         border security investment in American history," Trump said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '27a1820c-9466-4ced-b689-d77440c5daf3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.046+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.688+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.046+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump scheduled the ceremony on the South Lawn of the White House for
+    section5:
+      primarytype: 'block'
+      uuid: '27a1820c-9466-4ced-b689-d77440c5daf3'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.046+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.688+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.046+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump scheduled the ceremony on the South Lawn of the White House for
         the July 4 Independence Day holiday, replete with a flyover by stealth bombers
         and fighter jets like those that took part in the recent U.S. strikes on nuclear
         facilities in Iran. Hundreds of Trump supporters attended, including White
         House aides, members of Congress, and military families.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8eaf9c3-2a38-4171-a8f4-5b460b1a026e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.047+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.689+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.047+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'After a speech that included boastful claims about the ascendance of
+    section6:
+      primarytype: 'block'
+      uuid: 'd8eaf9c3-2a38-4171-a8f4-5b460b1a026e'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.047+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.689+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.047+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'After a speech that included boastful claims about the ascendance of
         America on his watch, Trump signed the bill, posed for pictures with Republican
         congressional leaders and members of his cabinet, and waded through the crowd
         of happy supporters.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '77ef9f4e-5896-423e-8ef9-4ee8ee4eda25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.047+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.689+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.047+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bill’s passage amounts to a big win for Trump and his Republican
+    section7:
+      primarytype: 'block'
+      uuid: '77ef9f4e-5896-423e-8ef9-4ee8ee4eda25'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.047+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.689+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.047+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The bill’s passage amounts to a big win for Trump and his Republican
         allies, who have argued it will boost economic growth, while largely dismissing
         a nonpartisan analysis predicting it will add more than $3 trillion to the
         nation’s $36.2 trillion debt.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec7c95e0-d4cb-40f5-9024-244a366effd2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.048+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.690+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.048+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'While some lawmakers in Trump’s party expressed concerns over the
+    section8:
+      primarytype: 'block'
+      uuid: 'ec7c95e0-d4cb-40f5-9024-244a366effd2'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.048+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.690+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.048+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'While some lawmakers in Trump’s party expressed concerns over the
         bill’s price tag and its hit to healthcare programs, in the end just two
         of the House’s 220 Republicans voted against it, joining all 212 Democrats
         in opposition.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '07513e0d-4ed7-4515-8e24-36810eb65620'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.048+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.690+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.048+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The tense standoff over the bill included a record-long floor speech
+    section9:
+      primarytype: 'block'
+      uuid: '07513e0d-4ed7-4515-8e24-36810eb65620'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.048+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.690+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.048+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The tense standoff over the bill included a record-long floor speech
         by House Democratic Leader Hakeem Jeffries, who spoke for eight hours and
         46 minutes, blasting the bill as a giveaway to the wealthy that would strip
         low-income Americans of federally-backed health insurance and food aid benefits.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59a98253-04b3-4633-bb6b-14d065c65f1b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.049+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.691+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.049+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Democratic National Committee Chair Ken Martin predicted the law would
+    section10:
+      primarytype: 'block'
+      uuid: '59a98253-04b3-4633-bb6b-14d065c65f1b'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.049+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.691+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.049+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Democratic National Committee Chair Ken Martin predicted the law would
         cost Republicans votes in congressional elections in 2026.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd14c4ca5-78fb-459b-a1b7-09ae12f47ec5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.049+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.691+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.049+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Today, Donald Trump sealed the fate of the Republican Party, cementing
+    section11:
+      primarytype: 'block'
+      uuid: 'd14c4ca5-78fb-459b-a1b7-09ae12f47ec5'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.049+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.691+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.049+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Today, Donald Trump sealed the fate of the Republican Party, cementing
         them as the party for billionaires and special interests - not working families,"
         Martin said in a statement. "This legislation will hang around the necks of
         the GOP for years to come. This was a full betrayal of the American people.
         Today, we are putting Republicans on notice: you will lose your majority."'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83d32c3d-fe1d-44da-b02d-b362bed6345d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:10:34.050+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:10:49.692+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-05T10:10:34.050+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Trevor Hunnicutt and Timothy Gardner in Washington
+    section12:
+      primarytype: 'block'
+      uuid: '83d32c3d-fe1d-44da-b02d-b362bed6345d'
+      activationstatus: true
+      created: 2025-07-05T10:10:34.050+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:10:49.692+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-05T10:10:34.050+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Trevor Hunnicutt and Timothy Gardner in Washington
         and Andrea Shalal in Bridgewater, New Jersey; Writing by Daniel Trotta and
-        Nathan Layne; Editing by Chizu Nomiyama and Rosalba O''Brien)</em></p>'
-  'trump-and-zelenskiy-discuss-weapons-':
-    'author': 'Max Hunder and Doina Chiacu, Reuters'
-    'caption': 'U.S. President Donald Trump meets with Ukrainian President Volodymyr
+        Nathan Layne; Editing by Chizu Nomiyama and Rosalba O'Brien)</em></p>'
+  'START HERE----->trump-and-zelenskiy-discuss-weapons-':
+    author: 'Max Hunder and Doina Chiacu, Reuters'
+    caption: 'U.S. President Donald Trump meets with Ukrainian President Volodymyr
       Zelenskiy at the White House in Washington, D.C., U.S., February 28, 2025 (File
       photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T10:15:52.000+08:00
-    'imagesource': 'jcr:ce89e7e9-4e66-4d43-a341-e7deca52b02e'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '15bb4ee9-e718-4035-ad39-c6bb0663d41d'
-    'lead': 'Ukrainian President Volodymyr Zelenskiy said he discussed air defences
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T10:15:52.000+08:00
+    imagesource: 'ce89e7e9-4e66-4d43-a341-e7deca52b02e'
+    primarytype: 'composition'
+    uuid: '15bb4ee9-e718-4035-ad39-c6bb0663d41d'
+    lead: 'Ukrainian President Volodymyr Zelenskiy said he discussed air defences
       in a conversation with U.S. President Donald Trump on Friday, and agreed to
       work on increasing Kyiv’s capability to "defend the sky" as Russian attacks
       escalate.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T10:20:22.409+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T10:20:22.769+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T10:20:22.451+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'Russia-Ukraine-war', 'Vlodymyr-Zelenskiy']
-    'stories': []
-    'template': '1'
-    'title': 'Trump, Zelenskiy discuss weapons and escalating Russian strikes'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a1f919b-c0c2-4f79-835c-13037aa99f40'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.431+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.769+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.445+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Kyiv, Ukraine/Washington, US -</strong> Ukrainian President
+    activationstatus: true
+    created: 2025-07-05T10:20:22.409+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T10:20:22.769+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T10:20:22.451+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump, Zelenskiy discuss weapons and escalating Russian strikes'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3a1f919b-c0c2-4f79-835c-13037aa99f40'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.431+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.769+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.445+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Kyiv, Ukraine/Washington, US -</strong> Ukrainian President
         Volodymyr Zelenskiy said he discussed air defences in a conversation with
         U.S. President Donald Trump on Friday, and agreed to work on increasing Kyiv’s
         capability to "defend the sky" as Russian attacks escalate.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa8c6184-e9c9-4f1a-8785-648345994d06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.431+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.771+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.431+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He added in a message on Telegram that he discussed joint defence production,
+    section1:
+      primarytype: 'block'
+      uuid: 'fa8c6184-e9c9-4f1a-8785-648345994d06'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.431+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.771+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.431+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He added in a message on Telegram that he discussed joint defence production,
         as well as joint purchases and investments with the U.S. leader.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe60fea3-ab4b-43f7-82cb-0f1a8200bde8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.432+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.772+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.432+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ukraine has been asking Washington to sell it more Patriot missiles
+    section2:
+      primarytype: 'block'
+      uuid: 'fe60fea3-ab4b-43f7-82cb-0f1a8200bde8'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.432+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.772+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.432+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Ukraine has been asking Washington to sell it more Patriot missiles
         and systems that it sees as key to defending its cities from intensifying
         Russian air strikes.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65723f6a-cd5e-491f-9c58-bbd9c04161a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.432+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.773+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.432+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A decision by Washington to halt some shipments of weapons to Ukraine
+    section3:
+      primarytype: 'block'
+      uuid: '65723f6a-cd5e-491f-9c58-bbd9c04161a9'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.432+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.773+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.432+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A decision by Washington to halt some shipments of weapons to Ukraine
         prompted warnings by Kyiv that the move would weaken its ability to defend
         against Russia’s airstrikes and battlefield advances. Germany said it is
         in talks on buying Patriot air defence systems to bridge the gap.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4893f21c-06c3-465b-b6cc-039cf3f73f34'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.433+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.775+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.433+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'One source briefed on the call told Reuters they were optimistic that
+    section4:
+      primarytype: 'block'
+      uuid: '4893f21c-06c3-465b-b6cc-039cf3f73f34'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.433+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.775+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.433+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'One source briefed on the call told Reuters they were optimistic that
         supplies of Patriot missiles could resume after what they called a "very good"
         conversation between the presidents.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '238b9b9d-60a0-44b8-afc6-0a39571275bc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.433+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.433+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. outlet Axios reported, citing unnamed sources, that the call lasted
+    section5:
+      primarytype: 'block'
+      uuid: '238b9b9d-60a0-44b8-afc6-0a39571275bc'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.433+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.433+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. outlet Axios reported, citing unnamed sources, that the call lasted
         around 40 minutes, and that Trump told Zelenskiy he would check what U.S.
         weapons due to be sent to Ukraine, if any, had been put on hold.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a5bfc74-8ca9-4251-a71c-545c26bb3bdd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.434+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.777+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.434+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Zelenskiy, speaking later in his nightly video address, said he and
+    section6:
+      primarytype: 'block'
+      uuid: '9a5bfc74-8ca9-4251-a71c-545c26bb3bdd'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.434+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.777+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.434+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Zelenskiy, speaking later in his nightly video address, said he and
         Trump had agreed to "arrange a meeting between our teams to strengthen air
         defences.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a28be1b-e708-4493-8878-43d0fd97c9ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.434+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.778+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.434+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We had a very detailed discussion on joint production. We need it,
+    section7:
+      primarytype: 'block'
+      uuid: '3a28be1b-e708-4493-8878-43d0fd97c9ea'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.434+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.778+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.434+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We had a very detailed discussion on joint production. We need it,
         America needs it."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '42d11c77-1a8b-4866-94cd-edc299692359'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.435+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.779+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.435+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The conversation came a day after Trump said he had a disappointing
+    section8:
+      primarytype: 'block'
+      uuid: '42d11c77-1a8b-4866-94cd-edc299692359'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.435+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.779+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.435+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The conversation came a day after Trump said he had a disappointing
         call with Russian President Vladimir Putin.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bcccbeca-7c21-4222-b9b0-c40198b8b854'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.435+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.780+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.435+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Russia pummelled Kyiv with the largest drone attack of the war across
+    section9:
+      primarytype: 'block'
+      uuid: 'bcccbeca-7c21-4222-b9b0-c40198b8b854'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.435+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.780+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.435+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Russia pummelled Kyiv with the largest drone attack of the war across
         the capital, hours after Trump’s conversation with Putin on Thursday.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1a4f0ff-d556-498f-a3d5-304aa49426b3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.436+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.782+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.436+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Zelenskiy called the attack "deliberately massive and cynical."'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b537144-475c-41d6-8121-05d82d434e81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.436+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.783+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.436+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump spoke with German Chancellor Friedrich Merz on Thursday, according
+    section10:
+      primarytype: 'block'
+      uuid: 'b1a4f0ff-d556-498f-a3d5-304aa49426b3'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.436+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.782+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.436+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Zelenskiy called the attack "deliberately massive and cynical."'
+    section11:
+      primarytype: 'block'
+      uuid: '7b537144-475c-41d6-8121-05d82d434e81'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.436+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.783+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.436+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump spoke with German Chancellor Friedrich Merz on Thursday, according
         to Spiegel magazine, citing government sources. The two leaders discussed
         the situation in Ukraine, including strengthening its air defences, as well
         as trade issues, Spiegel reported on Friday.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9c93cb8-e1f8-4795-80ff-0b1c387e3407'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.437+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.784+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.437+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kyiv had previously received Patriot batteries and ammunition from
+    section12:
+      primarytype: 'block'
+      uuid: 'd9c93cb8-e1f8-4795-80ff-0b1c387e3407'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.437+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.784+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.437+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Kyiv had previously received Patriot batteries and ammunition from
         the U.S. in the form of aid under President Joe Biden.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd956bce-f65d-4f16-9c0e-e267b17e9454'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.437+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.785+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.437+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump criticised him for sending weapons to Ukraine without getting
+    section13:
+      primarytype: 'block'
+      uuid: 'bd956bce-f65d-4f16-9c0e-e267b17e9454'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.437+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.785+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.437+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump criticised him for sending weapons to Ukraine without getting
         anything in return, and since taking office has overseen a dramatic shake-up
         of relations with Kyiv.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fdb3eccd-e191-4199-a3c8-d454281202d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:20:22.438+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:20:22.786+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:20:22.438+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Doina Chiacu, Tim Gardner, Max Hunder and Frank
+    section14:
+      primarytype: 'block'
+      uuid: 'fdb3eccd-e191-4199-a3c8-d454281202d8'
+      activationstatus: true
+      created: 2025-07-05T10:20:22.438+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:20:22.786+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:20:22.438+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Doina Chiacu, Tim Gardner, Max Hunder and Frank
         Jack Daniel; Editing by Louise Heavens, Peter Graff, Sharon Singleton, Hugh
         Lawson and Ron Popeski)</em></p>'
-  'weather-update-july-5':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T10:55:56.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f175355a-d2a1-42f0-adf5-149b208f18ec'
-    'lead': 'The trough of tropical depression Bising that intensified into a tropical
+  'START HERE----->weather-update-july-5':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T10:55:56.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    primarytype: 'composition'
+    uuid: 'f175355a-d2a1-42f0-adf5-149b208f18ec'
+    lead: 'The trough of tropical depression Bising that intensified into a tropical
       storm on Friday night and the southwest monsoon are triggering rains across
       Luzon, the state weather bureau said on Saturday, July 5.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T10:58:38.529+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T10:58:38.776+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T10:58:38.569+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PAGASA', 'BisingPH']
-    'stories': []
-    'template': '1'
-    'title': 'Bising trough, southwest monsoon dump rains across Luzon'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ffab8e19-7cd6-4bd4-bda8-4cd05cc1fb4c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:58:38.563+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:58:38.777+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:58:38.567+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The trough of tropical
+    activationstatus: true
+    created: 2025-07-05T10:58:38.529+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T10:58:38.776+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T10:58:38.569+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Bising trough, southwest monsoon dump rains across Luzon'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'ffab8e19-7cd6-4bd4-bda8-4cd05cc1fb4c'
+      activationstatus: true
+      created: 2025-07-05T10:58:38.563+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:58:38.777+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:58:38.567+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The trough of tropical
         depression Bising that intensified into a tropical storm on Friday night and
         the southwest monsoon are triggering rains across Luzon, the state weather
         bureau said on Saturday, July 5.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7eb5b30c-fdd0-49b3-8f89-ed5286f8980f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:58:38.563+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:58:38.778+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:58:38.563+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In its 5 a.m. advisory, the  Philippine Atmospheric, Geophysical and
+    section1:
+      primarytype: 'block'
+      uuid: '7eb5b30c-fdd0-49b3-8f89-ed5286f8980f'
+      activationstatus: true
+      created: 2025-07-05T10:58:38.563+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:58:38.778+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:58:38.563+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In its 5 a.m. advisory, the  Philippine Atmospheric, Geophysical and
         Astronomical Services Administration said the extension of the tropical storm
         will cause cloudy skies and scattered rains over the Batanes and Babuyan islands.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '718cf7da-2c23-413a-b3fe-d0f6732ed393'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:58:38.563+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:58:38.779+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:58:38.563+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The weather bureau said Bising may re-enter the Philippine Area of
+    section2:
+      primarytype: 'block'
+      uuid: '718cf7da-2c23-413a-b3fe-d0f6732ed393'
+      activationstatus: true
+      created: 2025-07-05T10:58:38.563+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:58:38.779+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:58:38.563+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The weather bureau said Bising may re-enter the Philippine Area of
         Responsibility on Monday morning, July 7. The tropical storm left the country’s
         weather monitoring zone on Friday as a tropical depression.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6db224f0-83e3-4d13-a145-3b5eb5f23f8a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:58:38.564+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:58:38.781+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:58:38.564+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the southwest monsoon is bringing scattered rains over several
+    section3:
+      primarytype: 'block'
+      uuid: '6db224f0-83e3-4d13-a145-3b5eb5f23f8a'
+      activationstatus: true
+      created: 2025-07-05T10:58:38.564+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:58:38.781+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:58:38.564+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Meanwhile, the southwest monsoon is bringing scattered rains over several
         regions including Metro Manila, Ilocos Region, Cordillera, and Central Luzon.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05135441-b062-414e-997f-e8bd45d0baac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T10:58:38.564+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T10:58:38.782+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T10:58:38.564+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Residents are warned of possible flooding and landslides during moderate
+    section4:
+      primarytype: 'block'
+      uuid: '05135441-b062-414e-997f-e8bd45d0baac'
+      activationstatus: true
+      created: 2025-07-05T10:58:38.564+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T10:58:38.782+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T10:58:38.564+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Residents are warned of possible flooding and landslides during moderate
         to heavy rains.'
-  'san-juan-la-union-closed-july-5':
-    'caption': 'Travelers enjoy the beach in San Juan, La Union. (File photo/NewsWatch
+  'START HERE----->san-juan-la-union-closed-july-5':
+    caption: 'Travelers enjoy the beach in San Juan, La Union. (File photo/NewsWatch
       Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T12:26:55.000+08:00
-    'imagesource': 'jcr:81a81a29-6163-4bc3-ba6a-5c407d1f9642'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1a3b86ce-5903-4e5d-b1ad-3dd032c546e2'
-    'lead': 'Water-related activities are not allowed in San Juan, La Union dubbed
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T12:26:55.000+08:00
+    imagesource: '81a81a29-6163-4bc3-ba6a-5c407d1f9642'
+    primarytype: 'composition'
+    uuid: '1a3b86ce-5903-4e5d-b1ad-3dd032c546e2'
+    lead: 'Water-related activities are not allowed in San Juan, La Union dubbed
       the surfing capital of the north due to inclement weather on Saturday, July
       5, the municipal government said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T12:29:17.006+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T12:29:17.382+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T12:29:17.047+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['la-union', 'bising']
-    'stories': []
-    'template': '1'
-    'title': 'San Juan, La Union suspends beach activities amid inclement weather'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8434bb8f-bc97-49bf-a841-7b90d819fa8e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.038+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.383+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.044+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Water-related activities
+    activationstatus: true
+    created: 2025-07-05T12:29:17.006+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T12:29:17.382+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T12:29:17.047+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'San Juan, La Union suspends beach activities amid inclement weather'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8434bb8f-bc97-49bf-a841-7b90d819fa8e'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.038+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.383+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.044+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Water-related activities
         are not allowed in San Juan, La Union dubbed the surfing capital of the north
         due to inclement weather on Saturday, July 5, the municipal government said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e3bfd165-4dc6-45d1-b3ef-65d31c1cebf0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.038+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.384+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.038+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The local government released an executive order (EO) on Friday, July
+    section1:
+      primarytype: 'block'
+      uuid: 'e3bfd165-4dc6-45d1-b3ef-65d31c1cebf0'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.038+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.384+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.038+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The local government released an executive order (EO) on Friday, July
         4, ordering the closure of beaches in the area due to the impact of tropical
         storm Bising and the southwest monsoon.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec65d5a3-dfb1-43d4-8d14-cbe7b1816226'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.039+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.385+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.039+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The municipal government said the order was made to “ensure public
+    section2:
+      primarytype: 'block'
+      uuid: 'ec65d5a3-dfb1-43d4-8d14-cbe7b1816226'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.039+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.385+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.039+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The municipal government said the order was made to “ensure public
         safety and prevent any untoward incidents.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1608f95c-43ba-4cac-b7d7-b826a19b39c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.039+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.386+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.039+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“All barangay officials of the coastal barangays in the Municipality
+    section3:
+      primarytype: 'block'
+      uuid: '1608f95c-43ba-4cac-b7d7-b826a19b39c9'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.039+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.386+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.039+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“All barangay officials of the coastal barangays in the Municipality
         of San Juan, La Union, the Philippine Coast Guard, the Philippine National
         Police, the Municipal Disaster Risk Reduction and Management Office, and other
         law enforcement agencies are directed to ensure strict implementation of this
         order,” the EO read.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a432c61-d138-41c2-9c61-5410ada1e32e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.040+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.388+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.040+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The San Juan LGU said conditions will be assessed if water-related
+    section4:
+      primarytype: 'block'
+      uuid: '9a432c61-d138-41c2-9c61-5410ada1e32e'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.040+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.388+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.040+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The San Juan LGU said conditions will be assessed if water-related
         activities can be resumed on Sunday, July 6.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '072b0bd9-c60b-4f3b-b7ec-82d529175716'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T12:29:17.040+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T12:29:17.389+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T12:29:17.040+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The state weather bureau said Bising’s trough and the southwest
+    section5:
+      primarytype: 'block'
+      uuid: '072b0bd9-c60b-4f3b-b7ec-82d529175716'
+      activationstatus: true
+      created: 2025-07-05T12:29:17.040+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T12:29:17.389+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T12:29:17.040+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The state weather bureau said Bising’s trough and the southwest
         monsoon are dumping rains across Luzon. It noted that the tropical storm may
         re-enter the weather monitoring zone on Monday, July 7 and may exit on the
         same day.</p>'
-  'las-pi-as-solon-inquiry-into-villar-s-PrimeWater':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'caption': 'Logo of PrimeWater Infrastructure Corporation.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T14:03:27.000+08:00
-    'imagesource': 'jcr:ca3c823e-390b-4741-bfcb-cbcf87b51f0a'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '7c730e01-3370-482a-b3c7-3ca18194e07f'
-    'lead': 'The new lawmaker of Las Piñas City is seeking an inquiry into the operations
+  'START HERE----->las-pi-as-solon-inquiry-into-villar-s-PrimeWater':
+    author: 'Lance Mejico, NewsWatch Plus'
+    caption: 'Logo of PrimeWater Infrastructure Corporation.'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T14:03:27.000+08:00
+    imagesource: 'ca3c823e-390b-4741-bfcb-cbcf87b51f0a'
+    primarytype: 'composition'
+    uuid: '7c730e01-3370-482a-b3c7-3ca18194e07f'
+    lead: 'The new lawmaker of Las Piñas City is seeking an inquiry into the operations
       and joint venture deals of the Villar family-owned PrimeWater Infrastructure
       Corporation in the wake of mounting complaints from consumers covered by the
       company’s franchise.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T14:06:25.063+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T14:06:25.420+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T14:06:25.110+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Cynthia-Villar', 'Prime-Water', 'las-pi-as']
-    'stories': []
-    'template': '1'
-    'title': 'Las Piñas solon seeks inquiry into Villar’s PrimeWater ops, deals'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c02c5a4-2679-4f75-b84c-7af62945fdfd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.096+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.421+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.105+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The new lawmaker of
+    activationstatus: true
+    created: 2025-07-05T14:06:25.063+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T14:06:25.420+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T14:06:25.110+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Las Piñas solon seeks inquiry into Villar’s PrimeWater ops, deals'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3c02c5a4-2679-4f75-b84c-7af62945fdfd'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.096+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.421+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.105+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The new lawmaker of
         Las Piñas City is seeking an inquiry into the operations and joint venture
         deals of the Villar family-owned PrimeWater Infrastructure Corporation in
         the wake of mounting complaints from consumers covered by the company’s franchise.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecc7b82e-7126-444e-932a-39056840e9bd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.096+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.422+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.096+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In his Facebook post on Friday, July 4, Rep. Mark Anthony Santos identified
+    section1:
+      primarytype: 'block'
+      uuid: 'ecc7b82e-7126-444e-932a-39056840e9bd'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.096+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.422+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.096+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In his Facebook post on Friday, July 4, Rep. Mark Anthony Santos identified
         the PrimeWater probe as one of his priority resolutions in the 20th Congress.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e9324eb-dbc9-459d-b2f4-04f435a7f9bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.097+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.424+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.097+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmaker defeated former Sen. Cynthia Villar, who ran for a congressional
+    section2:
+      primarytype: 'block'
+      uuid: '1e9324eb-dbc9-459d-b2f4-04f435a7f9bf'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.097+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.424+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.097+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The lawmaker defeated former Sen. Cynthia Villar, who ran for a congressional
         seat in Las Pinas in the May 2025 elections, ending the family’s stronghold
         on the post for decades.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64841b7c-aee8-42fd-8f2f-f70cbc94298f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.097+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.425+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.097+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Santos said the resolution is a show of concern for his community amid
+    section3:
+      primarytype: 'block'
+      uuid: '64841b7c-aee8-42fd-8f2f-f70cbc94298f'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.097+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.425+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.097+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Santos said the resolution is a show of concern for his community amid
         the wave of complaints on the company’s water service.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a39a9316-fe71-4d20-a608-ca0e74909dba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.097+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.426+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.097+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ang ating adbokasiya ay malinaw: malasakit at serbisyo para sa bayan,
+    section4:
+      primarytype: 'block'
+      uuid: 'a39a9316-fe71-4d20-a608-ca0e74909dba'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.097+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.426+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.097+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Ang ating adbokasiya ay malinaw: malasakit at serbisyo para sa bayan,
         hindi para sa negosyo o pansariling interes,” he said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7f75b7d-f500-45b5-b8ff-5f3c62f08391'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.098+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.427+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.098+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Our advocacy is clear: compassion and service for the
+    section5:
+      primarytype: 'block'
+      uuid: 'b7f75b7d-f500-45b5-b8ff-5f3c62f08391'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.098+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.427+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.098+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '[Translation: Our advocacy is clear: compassion and service for the
         nation, not for business or personal interest.]'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '673e5e48-65d8-415e-8971-5a52559c2cb1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.098+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.098+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Malacañang previously initiated a review into PrimeWater’s performance.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9d4c3146-7da4-4474-8386-24fb98dcbb6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.099+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.099+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Friday, the Palace said the company’s joint venture agreements
+    section6:
+      primarytype: 'block'
+      uuid: '673e5e48-65d8-415e-8971-5a52559c2cb1'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.098+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.098+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Malacañang previously initiated a review into PrimeWater’s performance.'
+    section7:
+      primarytype: 'block'
+      uuid: '9d4c3146-7da4-4474-8386-24fb98dcbb6b'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.099+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.099+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On Friday, the Palace said the company’s joint venture agreements
         <strong><a href="https://www.newswatchplus.ph/news/2025/7/4/palace-primewater-probe-dpwh-mark-villar.html">surged</a></strong>
         in 2019 when the Local Water Utilities Administration (LWUA) was an attached
         agency of the Department of Public Works and Highways (DPWH), then led by
         Secretary turned Sen. Mark Villar, son of the former senator and her husband,
         former Speaker and Senate President Manny Villar.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d08a1a6-32c3-4353-b841-fdba440fe194'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.099+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.431+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.099+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'LWUA Administrator Jose Moises Salonga said their internal investigation
+    section8:
+      primarytype: 'block'
+      uuid: '2d08a1a6-32c3-4353-b841-fdba440fe194'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.099+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.431+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.099+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'LWUA Administrator Jose Moises Salonga said their internal investigation
         into these deals has been completed, including a historical review of how
         the agreements came about, including potential red flags.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca8bb068-773a-4b66-9bdf-8ffdde3025d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.100+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.432+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.100+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Aside from Santos, Zambales Rep. Jay Khonghun filed a resolution seeking
+    section9:
+      primarytype: 'block'
+      uuid: 'ca8bb068-773a-4b66-9bdf-8ffdde3025d1'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.100+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.432+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.100+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Aside from Santos, Zambales Rep. Jay Khonghun filed a resolution seeking
         a probe against the water company.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bd89700-373a-4898-ae2b-33af2ef6312c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:06:25.100+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:06:25.433+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:06:25.100+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In May, Sen. Risa Hontiveros also called for an investigation amid
+    section10:
+      primarytype: 'block'
+      uuid: '5bd89700-373a-4898-ae2b-33af2ef6312c'
+      activationstatus: true
+      created: 2025-07-05T14:06:25.100+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:06:25.433+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:06:25.100+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In May, Sen. Risa Hontiveros also called for an investigation amid
         a wave of complaints on the water service at the height of summer.</p>'
-  'texas-floods-july-5':
-    'author': 'Steve Gorman, Reuters'
-    'caption': 'First responders survey rising flood waters of the Guadalupe River
+  'START HERE----->texas-floods-july-5':
+    author: 'Steve Gorman, Reuters'
+    caption: 'First responders survey rising flood waters of the Guadalupe River
       after flash flooding in Kerr County, Texas, U.S. July 4, 2025 in a still image
       from video. (ABC Affiliate KSAT via Reuters) '
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T14:34:56.000+08:00
-    'imagesource': 'jcr:500436a1-80d7-4c32-922c-23b2d73e6e51'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'fb39818c-44eb-449a-b038-bf778ec99ca2'
-    'lead': 'Torrential rains unleashed flash floods along the Guadalupe River in
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T14:34:56.000+08:00
+    imagesource: '500436a1-80d7-4c32-922c-23b2d73e6e51'
+    primarytype: 'composition'
+    uuid: 'fb39818c-44eb-449a-b038-bf778ec99ca2'
+    lead: 'Torrential rains unleashed flash floods along the Guadalupe River in
       Texas on Friday, killing at least 24 people as rescue teams scrambled to save
       dozens of victims trapped by high water or reported missing in the disaster,
       local officials said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T14:37:47.492+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T14:37:47.997+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T14:37:47.551+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Texas']
-    'stories': []
-    'template': '1'
-    'title': 'At least 24 dead in Texas flash flooding; two dozen young campers missing'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b87bdada-9914-4b79-9194-1bce8d6d644e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.513+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:47.998+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.539+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Torrential rains unleashed flash floods
+    activationstatus: true
+    created: 2025-07-05T14:37:47.492+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T14:37:47.997+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T14:37:47.551+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'At least 24 dead in Texas flash flooding; two dozen young campers missing'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b87bdada-9914-4b79-9194-1bce8d6d644e'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.513+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:47.998+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.539+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Torrential rains unleashed flash floods
         along the Guadalupe River in Texas on Friday, killing at least 24 people as
         rescue teams scrambled to save dozens of victims trapped by high water or
         reported missing in the disaster, local officials said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '308c4add-aaaf-46ce-afe4-4907bb3e566e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.513+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:47.999+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.513+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Among the missing were 23 to 25 people listed as unaccounted for at
+    section1:
+      primarytype: 'block'
+      uuid: '308c4add-aaaf-46ce-afe4-4907bb3e566e'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.513+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:47.999+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.513+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Among the missing were 23 to 25 people listed as unaccounted for at
         an all-girls Christian summer camp located on the banks of the rain-engorged
         Guadalupe, authorities said.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '868c25f9-ccc1-4649-8309-ab81898ae40d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.514+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.000+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.514+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At a news conference late on Friday, almost 18 hours after the July
+    section2:
+      primarytype: 'block'
+      uuid: '868c25f9-ccc1-4649-8309-ab81898ae40d'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.514+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.000+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.514+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At a news conference late on Friday, almost 18 hours after the July
         Fourth crisis began, Texas Governor Greg Abbott said search-and-rescue operations
         would press on through the night and into Saturday.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4048d29a-525c-4de2-9b41-67e4c4304402'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.514+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.002+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.514+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Abbott said resources devoted to the effort would be "limitless."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3db45669-4d84-412a-90bd-89dfc2018bfe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.514+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.003+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.514+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Speaking to reporters aboard Air Force One at the end of a day of public
-        events, President Donald Trump said "we''ll take care of them," when asked
+    section3:
+      primarytype: 'block'
+      uuid: '4048d29a-525c-4de2-9b41-67e4c4304402'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.514+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.002+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.514+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Abbott said resources devoted to the effort would be "limitless."'
+    section4:
+      primarytype: 'block'
+      uuid: '3db45669-4d84-412a-90bd-89dfc2018bfe'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.514+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.003+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.514+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Speaking to reporters aboard Air Force One at the end of a day of public
+        events, President Donald Trump said "we'll take care of them," when asked
         about federal aid for the disaster.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '249ba92b-e2df-47bf-a721-ef0c5a410ec2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.515+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.004+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.515+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. National Weather Service declared a flash flood emergency
+    section5:
+      primarytype: 'block'
+      uuid: '249ba92b-e2df-47bf-a721-ef0c5a410ec2'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.515+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.004+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.515+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. National Weather Service declared a flash flood emergency
         for parts of Kerr County in south-central Texas Hill Country, about 65 miles
         (105 km) northwest of San Antonio, following thunderstorms that dumped as
         much as a foot of rain.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '71830a51-2d5f-465c-b0e3-8c26726bdbe9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.515+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.005+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.515+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dalton Rice, city manager for Kerrville, the county seat, told reporters
+    section6:
+      primarytype: 'block'
+      uuid: '71830a51-2d5f-465c-b0e3-8c26726bdbe9'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.515+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.005+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.515+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Dalton Rice, city manager for Kerrville, the county seat, told reporters
         the extreme flooding struck before dawn with little or no warning, precluding
         authorities from issuing advance evacuation orders as the Guadalupe swiftly
         rose above major flood stage.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b86d45e5-e5d5-4638-89a8-8050d64e4bd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.516+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.006+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.516+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This happened very quickly, over a very short period of time that
+    section7:
+      primarytype: 'block'
+      uuid: 'b86d45e5-e5d5-4638-89a8-8050d64e4bd5'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.516+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.006+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.516+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This happened very quickly, over a very short period of time that
         could not be predicted, even with radar," Rice said. "This happened within
         less than a two-hour span."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b92abf82-af00-4c1d-86ff-96c3147bcaf7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.516+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.007+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.516+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'State emergency management officials had warned as early as Thursday
+    section8:
+      primarytype: 'block'
+      uuid: 'b92abf82-af00-4c1d-86ff-96c3147bcaf7'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.516+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.007+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.516+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'State emergency management officials had warned as early as Thursday
         that west and central Texas faced heavy rains and flash flood threats "over
         the next couple days," citing National Weather Service forecasts ahead of
         the holiday weekend.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd631ca22-d5fb-4a85-817c-9cca3a095164'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.517+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.008+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.517+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But the weather forecasts in question "did not predict the amount of
+    section9:
+      primarytype: 'block'
+      uuid: 'd631ca22-d5fb-4a85-817c-9cca3a095164'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.517+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.008+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.517+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But the weather forecasts in question "did not predict the amount of
         rain that we saw," W. Nim Kidd, director of the Texas Division of Emergency
         Management, told a news conference on Friday night.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '703b4368-58ca-4464-baf3-2c15e26cfd0a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.517+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.009+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.517+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'July Fourth fireworks displays ended up being canceled in flood-stricken
+    section10:
+      primarytype: 'block'
+      uuid: '703b4368-58ca-4464-baf3-2c15e26cfd0a'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.517+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.009+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.517+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'July Fourth fireworks displays ended up being canceled in flood-stricken
         communities throughout the region, including Kerrville, where the waterfront
         site for Friday night’s planned U.S. Independence Day celebration was submerged
         by the rain-swollen river.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51b8465a-5a10-422f-ab40-26117687a1e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.518+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.010+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.518+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At Friday night’s briefing, Kerr County Sheriff Larry Leitha said
+    section11:
+      primarytype: 'block'
+      uuid: '51b8465a-5a10-422f-ab40-26117687a1e6'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.518+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.010+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.518+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At Friday night’s briefing, Kerr County Sheriff Larry Leitha said
         24 flood-related fatalities had been confirmed, up from 13 tallied earlier
         in the day.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'abdd3d6c-dc19-4365-aa70-8f98229d986d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.518+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.011+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.518+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'One more person found dead in neighboring Kendall County was not confirmed
+    section12:
+      primarytype: 'block'
+      uuid: 'abdd3d6c-dc19-4365-aa70-8f98229d986d'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.518+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.011+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.518+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'One more person found dead in neighboring Kendall County was not confirmed
         to be a flood-related casualty, Leitha said.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b540b47-f903-4af0-854c-01de40a36248'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.519+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.013+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.519+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Prayers for the missing</strong></h2>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b1b3940-1d70-4365-b234-458345599fed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.519+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.014+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.519+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lieutenant Governor Dan Patrick said on Friday afternoon that authorities
+    section13:
+      primarytype: 'block'
+      uuid: '6b540b47-f903-4af0-854c-01de40a36248'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.519+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.013+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.519+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Prayers for the missing</strong></h2>'
+    section14:
+      primarytype: 'block'
+      uuid: '9b1b3940-1d70-4365-b234-458345599fed'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.519+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.014+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.519+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lieutenant Governor Dan Patrick said on Friday afternoon that authorities
         were searching for 23 girls listed as missing from among more than 750 children
         at summer camp sites along the banks of the Guadalupe River when the area
         was inundated by floodwaters at around 4 a.m. local time.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e98380b-c345-42aa-aac2-46ef6dd77b47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.520+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.015+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.520+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The missing campers had all been attending Camp Mystic, a private Christian
+    section15:
+      primarytype: 'block'
+      uuid: '9e98380b-c345-42aa-aac2-46ef6dd77b47'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.520+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.015+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.520+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The missing campers had all been attending Camp Mystic, a private Christian
         summer camp for girls.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac92eefc-46a2-46db-9447-059f77b9afda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.520+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.520+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We''re praying for all those missing to be found alive," Patrick said.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '564ba3ef-34a3-414b-bde4-e345b28b9317'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.521+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.521+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It was not clear whether anyone unaccounted for might have ended up
+    section16:
+      primarytype: 'block'
+      uuid: 'ac92eefc-46a2-46db-9447-059f77b9afda'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.520+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.520+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We're praying for all those missing to be found alive," Patrick said.'
+    section17:
+      primarytype: 'block'
+      uuid: '564ba3ef-34a3-414b-bde4-e345b28b9317'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.521+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.521+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It was not clear whether anyone unaccounted for might have ended up
         among the deceased victims tallied countywide by the sheriff.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2275b21f-5c51-448b-b241-89cd950cdfe3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.521+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.018+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.521+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Otherwise, all other campers were safe, authorities said, with campers
+    section18:
+      primarytype: 'block'
+      uuid: '2275b21f-5c51-448b-b241-89cd950cdfe3'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.521+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.018+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.521+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Otherwise, all other campers were safe, authorities said, with campers
         being evacuated throughout the day.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb70a2fa-4494-4c4e-835e-b8eeb799c3ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.522+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.019+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.522+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Everybody is doing everything in their power to get these kids out,"
+    section19:
+      primarytype: 'block'
+      uuid: 'bb70a2fa-4494-4c4e-835e-b8eeb799c3ce'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.522+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.019+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.522+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Everybody is doing everything in their power to get these kids out,"
         Kerr County Judge Rob Kelly, the top local elected official, had said at a
         news briefing on the disaster hours earlier.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4421b031-de59-449d-92c4-a6ad63b802c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.522+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.020+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.522+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kelly said a number of scattered residential subdivisions, recreational
+    section20:
+      primarytype: 'block'
+      uuid: '4421b031-de59-449d-92c4-a6ad63b802c9'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.522+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.020+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.522+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Kelly said a number of scattered residential subdivisions, recreational
         vehicle parks and campgrounds were hit hard.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc9a7c88-6d1a-471b-bd95-2bfe518a7968'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.523+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.021+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.523+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Pressed by reporters why more precautions were not taken with stormy
+    section21:
+      primarytype: 'block'
+      uuid: 'fc9a7c88-6d1a-471b-bd95-2bfe518a7968'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.523+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.021+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.523+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Pressed by reporters why more precautions were not taken with stormy
         weather in the forecast, Kelly insisted a disaster of such magnitude was unforeseen.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '179fc36b-149d-4935-809b-5aed3fa8ba56'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.524+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.022+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.524+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We have floods all the time. This is the most dangerous river valley
+    section22:
+      primarytype: 'block'
+      uuid: '179fc36b-149d-4935-809b-5aed3fa8ba56'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.524+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.022+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.524+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We have floods all the time. This is the most dangerous river valley
         in the United States," Kelly said. "We had no reason to believe this was going
         to be anything like what’s happened here. None whatsoever."'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a7ac637-f5ed-4f9a-b9c5-1c244d0da7e1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.524+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.023+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.524+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an alert on Thursday, the Texas Division of Emergency Management
+    section23:
+      primarytype: 'block'
+      uuid: '8a7ac637-f5ed-4f9a-b9c5-1c244d0da7e1'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.524+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.023+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.524+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In an alert on Thursday, the Texas Division of Emergency Management
         said it had increased its readiness level and "activated additional state
         emergency response resources" as parts of west and central Texas braced "for
         continued heavy rainfall and flash flooding threats heading into the holiday
         weekend."'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a190311a-81ab-45b0-9780-3b0ffd36a378'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.525+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.024+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.525+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lieutenant Governor Patrick said the Guadalupe River had risen 26 feet
+    section24:
+      primarytype: 'block'
+      uuid: 'a190311a-81ab-45b0-9780-3b0ffd36a378'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.525+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.024+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.525+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lieutenant Governor Patrick said the Guadalupe River had risen 26 feet
         (8 m) in 45 minutes as heavy showers soaked the region.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b308e379-c6c2-4aaa-a886-30e563ca820f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.525+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.025+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.525+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'As of Friday night, emergency personnel had rescued or evacuated 237
+    section25:
+      primarytype: 'block'
+      uuid: 'b308e379-c6c2-4aaa-a886-30e563ca820f'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.525+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.025+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.525+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'As of Friday night, emergency personnel had rescued or evacuated 237
         people, including 167 by helicopter.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd8fddac-0d7e-4b0d-8185-d81fa6b91e50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.526+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.026+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.526+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'With additional rain forecast in the region, Patrick warned that an
+    section26:
+      primarytype: 'block'
+      uuid: 'dd8fddac-0d7e-4b0d-8185-d81fa6b91e50'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.526+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.026+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.526+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'With additional rain forecast in the region, Patrick warned that an
         ongoing threat for possible flash flooding extended from San Antonio to Waco
         for the next 24 to 48 hours.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '67b0653d-e6ed-480b-9ebc-f04355fb85a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.527+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.027+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.527+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday night, Governor Abbott signed a disaster declaration to hasten
+    section27:
+      primarytype: 'block'
+      uuid: '67b0653d-e6ed-480b-9ebc-f04355fb85a6'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.527+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.027+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.527+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Friday night, Governor Abbott signed a disaster declaration to hasten
         emergency assistance to Kerr and a cluster of additional counties hardest
         hit by the floods.'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb03a430-d61d-4d3c-9ba7-1634b3c7b440'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.527+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.029+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.527+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Personnel from the U.S. Coast Guard and the Federal Emergency Management
+    section28:
+      primarytype: 'block'
+      uuid: 'eb03a430-d61d-4d3c-9ba7-1634b3c7b440'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.527+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.029+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.527+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Personnel from the U.S. Coast Guard and the Federal Emergency Management
         Agency also were activated to assist local authorities in confronting the
         crisis, officials said.'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd70f3277-85a8-4755-ba01-573dd4121b78'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T14:37:47.528+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T14:37:48.030+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T14:37:47.528+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Writing and reporting by Steve Gorman in Los Angeles; Additional
+    section29:
+      primarytype: 'block'
+      uuid: 'd70f3277-85a8-4755-ba01-573dd4121b78'
+      activationstatus: true
+      created: 2025-07-05T14:37:47.528+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T14:37:48.030+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T14:37:47.528+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Writing and reporting by Steve Gorman in Los Angeles; Additional
         reporting by Ismail Shakil in Ottawa, Jasper Ward in Washington, Acharya Bhargav
         in Toronto, and Daniel Trotta in Carlsbad, California; Editing by Matthew
         Lewis and Tom Hogue)</em></p>'
-  'k3-medium-of-instruction-sy-2025-2026':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'caption': 'A teacher hands out a paper to her student inside the classroom. (File
+  'START HERE----->k3-medium-of-instruction-sy-2025-2026':
+    author: 'Lance Mejico, NewsWatch Plus'
+    caption: 'A teacher hands out a paper to her student inside the classroom. (File
       photo/NewsWatch Plus)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T15:39:54.000+08:00
-    'imagesource': 'jcr:40c60fd5-61a8-4b40-8f93-d287d472e83d'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '831755f3-73ec-4ed8-8bde-0e8a14ff1ff6'
-    'lead': 'Classes for Kindergarten to Grade 3 students will be taught in Filipino
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T15:39:54.000+08:00
+    imagesource: '40c60fd5-61a8-4b40-8f93-d287d472e83d'
+    primarytype: 'composition'
+    uuid: '831755f3-73ec-4ed8-8bde-0e8a14ff1ff6'
+    lead: 'Classes for Kindergarten to Grade 3 students will be taught in Filipino
       and English starting school year 2025-2026 in accordance with a law discontinuing
       the mother tongue as a medium of instruction, the Department of Education (DepEd)
       said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T15:43:02.238+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T15:43:02.615+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T15:43:02.294+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['mother-tongue', 'deped']
-    'stories': []
-    'template': '1'
-    'title': 'Kindergarten to Grade 3 classes to be taught in Filipino and English
+    activationstatus: true
+    created: 2025-07-05T15:43:02.238+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T15:43:02.615+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T15:43:02.294+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Kindergarten to Grade 3 classes to be taught in Filipino and English
       starting SY 2025-2026'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f1df387-bec6-49d4-a0c9-80e0dc7bed69'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.279+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.616+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.289+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Classes for Kindergarten
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8f1df387-bec6-49d4-a0c9-80e0dc7bed69'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.279+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.616+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.289+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Classes for Kindergarten
         to Grade 3 students will be taught in Filipino and English starting school
         year 2025-2026 in accordance with a <strong><a href="https://www.newswatchplus.ph/news/2024/10/12/no-more-mother-tongue-in-k-3.html">law
         discontinuing the mother tongue</a></strong> as a medium of instruction, the
         Department of Education (DepEd) said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44df1e09-e147-4650-b79b-ba3ca1768af8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.279+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.617+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.279+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a department order dated July 3, the agency cited Republic Act No.
+    section1:
+      primarytype: 'block'
+      uuid: '44df1e09-e147-4650-b79b-ba3ca1768af8'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.279+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.617+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.279+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a department order dated July 3, the agency cited Republic Act No.
         12027, which lapsed into law last year, in enforcing the policy.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79c24077-9e65-4954-a15a-69f4aa4a4a32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.280+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.619+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.280+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The MOI (medium of instruction) for Kindergarten to Grade 3 shall
+    section2:
+      primarytype: 'block'
+      uuid: '79c24077-9e65-4954-a15a-69f4aa4a4a32'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.280+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.619+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.280+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The MOI (medium of instruction) for Kindergarten to Grade 3 shall
         primarily be Filipino and English, including Filipino sign language for deaf
         and hard-of-hearing learners,” the order read.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f95425d-2c14-413f-9856-99b5c07f8541'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.280+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.620+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.280+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Regional languages shall serve as auxiliary media of instruction,
+    section3:
+      primarytype: 'block'
+      uuid: '7f95425d-2c14-413f-9856-99b5c07f8541'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.280+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.620+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.280+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Regional languages shall serve as auxiliary media of instruction,
         using translanguaging to support the transition of all types of learners from
         one language to another,” it added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f493a6e-8d29-4a7f-9530-5bebc3621d39'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.280+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.621+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.280+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'DepEd said schools and community learning centers may continue mother
+    section4:
+      primarytype: 'block'
+      uuid: '5f493a6e-8d29-4a7f-9530-5bebc3621d39'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.280+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.621+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.280+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'DepEd said schools and community learning centers may continue mother
         tongue as an instruction medium if the requirements under the law are met.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44ec3d51-8238-4d8e-a3bb-7d05b8044cc0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.281+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.622+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.281+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The measure said the mother-tongue education may be used in monolingual
+    section5:
+      primarytype: 'block'
+      uuid: '44ec3d51-8238-4d8e-a3bb-7d05b8044cc0'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.281+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.622+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.281+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The measure said the mother-tongue education may be used in monolingual
         classes under a number of conditions:'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0bf9ced8-3aab-425e-a88a-013e45a00003'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.281+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.281+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '+ An official orthography from the Komisyon sa Wikang Filipino'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9d79d837-20db-4c35-bf31-b7d0b1f8be86'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.282+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.282+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '+ Officially documented vocabulary such as glossary and dictionary,
+    section6:
+      primarytype: 'block'
+      uuid: '0bf9ced8-3aab-425e-a88a-013e45a00003'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.281+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.281+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '+ An official orthography from the Komisyon sa Wikang Filipino'
+    section7:
+      primarytype: 'block'
+      uuid: '9d79d837-20db-4c35-bf31-b7d0b1f8be86'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.282+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.282+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '+ Officially documented vocabulary such as glossary and dictionary,
         among others'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b90d57e5-3cc5-4ada-933c-1ad4ae7a1f31'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.282+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.625+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.282+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '+ Literature on languages and culture'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59f560ef-5e6f-4bb0-9720-08fbc74ae5b2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.283+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.626+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.283+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '+ Availability of teachers in school who speak or are trained to teach
+    section8:
+      primarytype: 'block'
+      uuid: 'b90d57e5-3cc5-4ada-933c-1ad4ae7a1f31'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.282+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.625+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.282+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '+ Literature on languages and culture'
+    section9:
+      primarytype: 'block'
+      uuid: '59f560ef-5e6f-4bb0-9720-08fbc74ae5b2'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.283+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.626+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.283+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '+ Availability of teachers in school who speak or are trained to teach
         the mother tongue'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eec6c0b7-4c5a-495c-96f4-c8eaa762e9ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.283+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.627+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.283+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The law previously met criticisms from several groups, saying the
+    section10:
+      primarytype: 'block'
+      uuid: 'eec6c0b7-4c5a-495c-96f4-c8eaa762e9ae'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.283+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.627+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.283+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The law previously met criticisms from several groups, saying the
         removal of the mother tongue for Kindergarten to Grade 3 learners is a “<strong><a
         href="https://www.newswatchplus.ph/news/2024/10/13/no-mother-tongue-backward-education.html">step
         backward</a></strong> from providing better quality education.”</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '866b5911-6040-4b3f-87c4-907021d74ce1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T15:43:02.284+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T15:43:02.629+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T15:43:02.284+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In its department order, DepEd said while the implementation of
+    section11:
+      primarytype: 'block'
+      uuid: '866b5911-6040-4b3f-87c4-907021d74ce1'
+      activationstatus: true
+      created: 2025-07-05T15:43:02.284+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T15:43:02.629+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T15:43:02.284+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In its department order, DepEd said while the implementation of
         mother-tongue based multilingual education yielded gains, the “broader rollout
         revealed limitations.”</p>'
-  'mark-villar-on-surge-of-primewater-deals':
-    'author': 'Lance Mejico, NewsWatch Plus'
-    'caption': 'From left to right: Communications Undersecretary Claire Castro, Sen.
+  'START HERE----->mark-villar-on-surge-of-primewater-deals':
+    author: 'Lance Mejico, NewsWatch Plus'
+    caption: 'From left to right: Communications Undersecretary Claire Castro, Sen.
       Mark Villar'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T16:32:54.000+08:00
-    'imagesource': 'jcr:cfcc72fb-f630-4a2e-9c3f-c49413c0566a'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f41260c7-1212-4653-8d08-4b482f752087'
-    'lead': 'Sen. Mark Villar denied on Saturday, July 5, any involvement in the joint
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T16:32:54.000+08:00
+    imagesource: 'cfcc72fb-f630-4a2e-9c3f-c49413c0566a'
+    primarytype: 'composition'
+    uuid: 'f41260c7-1212-4653-8d08-4b482f752087'
+    lead: 'Sen. Mark Villar denied on Saturday, July 5, any involvement in the joint
       venture deals of his family’s PrimeWater Infrastructure Corp., which the Palace
       said surged during his time as chief of the Department of Public Works and Highways
       (DPWH).'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T16:39:06.028+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T16:39:06.321+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T16:39:06.075+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Prime-Water', 'Mark-Villar']
-    'stories': []
-    'template': '1'
-    'title': 'Mark Villar denies hand on surge of PrimeWater joint venture deals'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1efe0482-6084-4022-9752-0d818cf73972'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.064+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.322+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.070+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Sen. Mark Villar denied
+    activationstatus: true
+    created: 2025-07-05T16:39:06.028+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T16:39:06.321+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T16:39:06.075+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Mark Villar denies hand on surge of PrimeWater joint venture deals'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1efe0482-6084-4022-9752-0d818cf73972'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.064+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.322+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.070+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Sen. Mark Villar denied
         on Saturday, July 5, any involvement in the joint venture deals of his family’s
         PrimeWater Infrastructure Corp., which the Palace said <strong><a href="https://www.newswatchplus.ph/news/2025/7/4/palace-primewater-probe-dpwh-mark-villar.html">surged</a></strong>
         during his time as chief of the Department of Public Works and Highways (DPWH).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '706ef8e0-0ab0-4c53-b2b1-c2f51fb93c0d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.064+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.323+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.064+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement, Villar said he has “no direct or indirect ownership
+    section1:
+      primarytype: 'block'
+      uuid: '706ef8e0-0ab0-4c53-b2b1-c2f51fb93c0d'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.064+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.323+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.064+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a statement, Villar said he has “no direct or indirect ownership
         or controlling interest” in the company.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '29d313e1-f86e-42ad-b68e-c1580cf40a3b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.064+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.325+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.064+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“During my tenure as Secretary of Public Works, I did not participate
+    section2:
+      primarytype: 'block'
+      uuid: '29d313e1-f86e-42ad-b68e-c1580cf40a3b'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.064+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.325+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.064+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“During my tenure as Secretary of Public Works, I did not participate
         in any capacity whatsoever in any transactions or potential transactions between
         PrimeWater and any of its partner districts,” he said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b79d71af-2ed1-407b-af8b-865b7ba157fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.065+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.326+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.065+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Villar added that his focus was to build “critical community infrastructure”
+    section3:
+      primarytype: 'block'
+      uuid: 'b79d71af-2ed1-407b-af8b-865b7ba157fe'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.065+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.326+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.065+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Villar added that his focus was to build “critical community infrastructure”
         as DPWH chief.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '263dd08d-7f4c-4a2d-96dc-257da4745fbe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.065+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.327+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.065+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, Malacañang said the surge in joint venture agreements involving
+    section4:
+      primarytype: 'block'
+      uuid: '263dd08d-7f4c-4a2d-96dc-257da4745fbe'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.065+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.327+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.065+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Friday, Malacañang said the surge in joint venture agreements involving
         PrimeWater happened when the Local Water Utilities Administration (LWUA) was
         an attached agency of the Department of Public Works and Highways (DPWH),
         then led by Villar.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '833e8784-7164-48ca-b3bd-9e4c696c169d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.066+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.328+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.066+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The son of former senators Cynthia and Manny Villar headed the agency
+    section5:
+      primarytype: 'block'
+      uuid: '833e8784-7164-48ca-b3bd-9e4c696c169d'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.066+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.328+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.066+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The son of former senators Cynthia and Manny Villar headed the agency
         from 2016 to 2021 under the Duterte administration.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d589484-4e4a-47f8-ac5e-27cc00d45913'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.066+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.329+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.066+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'LWUA Administrator Jose Moises Salonga said their internal investigation
+    section6:
+      primarytype: 'block'
+      uuid: '2d589484-4e4a-47f8-ac5e-27cc00d45913'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.066+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.329+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.066+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'LWUA Administrator Jose Moises Salonga said their internal investigation
         into PrimeWater deals has been completed, including a historical review of
         how the agreements came about, including potential red flags.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49a57fad-ae43-4937-8009-c6fc05d011c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T16:39:06.067+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T16:39:06.330+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T16:39:06.067+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>A number of lawmakers have sought an inquiry into the company’s
+    section7:
+      primarytype: 'block'
+      uuid: '49a57fad-ae43-4937-8009-c6fc05d011c2'
+      activationstatus: true
+      created: 2025-07-05T16:39:06.067+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T16:39:06.330+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T16:39:06.067+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>A number of lawmakers have sought an inquiry into the company’s
         operations and joint ventures in the wake of mounting complaints from consumers
         covered by its franchise.</p>'
-  'new-cbcp-president':
-    'caption': 'New CBCP President and Lipa Archbishop Gilbert Garcera (Archdiocese
+  'START HERE----->new-cbcp-president':
+    caption: 'New CBCP President and Lipa Archbishop Gilbert Garcera (Archdiocese
       of Lipa/Facebook)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T17:18:55.000+08:00
-    'imagesource': 'jcr:7c2d3ae2-a0bd-4d89-beb7-89b3262060db'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f3d2e882-6421-4422-b062-5df0969e9a63'
-    'lead': 'Catholic bishops elected Lipa Archbishop Gilbert Garcera as the new president
-      of the Catholic Bishops'' Conference of the Philippines (CBCP) on Saturday,
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T17:18:55.000+08:00
+    imagesource: '7c2d3ae2-a0bd-4d89-beb7-89b3262060db'
+    primarytype: 'composition'
+    uuid: 'f3d2e882-6421-4422-b062-5df0969e9a63'
+    lead: 'Catholic bishops elected Lipa Archbishop Gilbert Garcera as the new president
+      of the Catholic Bishops' Conference of the Philippines (CBCP) on Saturday,
       July 5.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T17:23:29.938+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T17:23:30.207+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T17:23:29.973+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['CBCP']
-    'stories': []
-    'template': '1'
-    'title': 'Lipa Archbishop Garcera is new CBCP president'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ddeff69d-c566-4121-9efb-92eec9ae002a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.964+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.208+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.970+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Catholic bishops elected
-        Lipa Archbishop Gilbert Garcera as the new president of the Catholic Bishops''
+    activationstatus: true
+    created: 2025-07-05T17:23:29.938+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T17:23:30.207+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T17:23:29.973+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Lipa Archbishop Garcera is new CBCP president'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'ddeff69d-c566-4121-9efb-92eec9ae002a'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.964+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.208+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.970+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Catholic bishops elected
+        Lipa Archbishop Gilbert Garcera as the new president of the Catholic Bishops'
         Conference of the Philippines (CBCP) on Saturday, July 5.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57aec822-93a7-40bd-8118-d01872e8dcb3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.964+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.210+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.964+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a news release, the CBCP said the election happened on the first
+    section1:
+      primarytype: 'block'
+      uuid: '57aec822-93a7-40bd-8118-d01872e8dcb3'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.964+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.210+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.964+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a news release, the CBCP said the election happened on the first
         day of the bishops’ 130th plenary assembly in Anda, Bohol.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '624d2804-0b9a-4d74-b67f-2eb98994dbd6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.965+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.211+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.965+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Garcera will succeed Kalookan Cardinal Pablo Virgilio David, whose
+    section2:
+      primarytype: 'block'
+      uuid: '624d2804-0b9a-4d74-b67f-2eb98994dbd6'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.965+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.211+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.965+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Garcera will succeed Kalookan Cardinal Pablo Virgilio David, whose
         second term will end in November. CBCP officials may be re-elected once, and
         serve two terms for a maximum of four years.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8727e7c1-2cb2-4499-bfa9-39743383621b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.965+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.212+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.965+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The new CBCP president has been the archbishop of Lipa, Batangas since
+    section3:
+      primarytype: 'block'
+      uuid: '8727e7c1-2cb2-4499-bfa9-39743383621b'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.965+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.212+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.965+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The new CBCP president has been the archbishop of Lipa, Batangas since
         2017.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a24a1802-031c-4e99-bed6-63bd5bdad14f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.966+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.213+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.966+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He was ordained priest for the Archdiocese of Caceres in 1983 and was
+    section4:
+      primarytype: 'block'
+      uuid: 'a24a1802-031c-4e99-bed6-63bd5bdad14f'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.966+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.213+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.966+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He was ordained priest for the Archdiocese of Caceres in 1983 and was
         appointed bishop of Daet, Camarines Norte in 2007.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0bb3f637-002c-44b8-9d74-25295b450e75'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.966+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.214+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.966+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'According to the CBCP, Garcera was one of the three Philippine bishops
+    section5:
+      primarytype: 'block'
+      uuid: '0bb3f637-002c-44b8-9d74-25295b450e75'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.966+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.214+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.966+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'According to the CBCP, Garcera was one of the three Philippine bishops
         who served as delegates to the Synod on the Family at the Vatican in 2014.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '889c3da6-f2a1-4b56-83b4-dd6943379a84'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:23:29.966+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:23:30.215+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:23:29.966+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Garcera, together with other newly-elected officials, will officially
+    section6:
+      primarytype: 'block'
+      uuid: '889c3da6-f2a1-4b56-83b4-dd6943379a84'
+      activationstatus: true
+      created: 2025-07-05T17:23:29.966+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:23:30.215+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:23:29.966+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Garcera, together with other newly-elected officials, will officially
         assume their post on Dec.1, 2025.</p>'
-  'nujp-on-palace-request-for-reporter-replacement':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T17:41:11.000+08:00
-    'imagesource': 'jcr:c0579e18-d183-44fa-9824-3d60e590eba7'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '0e052174-1f07-47a5-8fe8-99faae718cc4'
-    'lead': 'The National Union of Journalists of the Philippines (NUJP) has urged
+  'START HERE----->nujp-on-palace-request-for-reporter-replacement':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T17:41:11.000+08:00
+    imagesource: 'c0579e18-d183-44fa-9824-3d60e590eba7'
+    primarytype: 'composition'
+    uuid: '0e052174-1f07-47a5-8fe8-99faae718cc4'
+    lead: 'The National Union of Journalists of the Philippines (NUJP) has urged
       Malacañang to hold regular briefings with President Ferdinand Marcos Jr., instead
       of seeking to replace a reporter accused of breaching protocol.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T17:47:21.434+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T17:47:21.721+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T17:47:21.479+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['palace', 'NUJP']
-    'stories': []
-    'template': '1'
-    'title': 'NUJP to Palace: Hold regular Marcos briefings, not replace reporter
+    activationstatus: true
+    created: 2025-07-05T17:47:21.434+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T17:47:21.721+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T17:47:21.479+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'NUJP to Palace: Hold regular Marcos briefings, not replace reporter
       over protocol ‘breach’'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c65b57d7-a736-4ff4-b814-8d5d422147f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.468+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.721+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.475+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The National Union
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c65b57d7-a736-4ff4-b814-8d5d422147f3'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.468+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.721+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.475+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The National Union
         of Journalists of the Philippines (NUJP) has urged Malacañang to hold regular
         briefings with President Ferdinand Marcos Jr., instead of seeking to replace
         a reporter accused of breaching protocol.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c16661d6-b9e9-4db7-a0b9-f02dd7e41e5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.468+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.723+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.468+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement on Saturday, July 5, the NUJP backed the Malacañang
+    section1:
+      primarytype: 'block'
+      uuid: 'c16661d6-b9e9-4db7-a0b9-f02dd7e41e5d'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.468+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.723+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.468+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a statement on Saturday, July 5, the NUJP backed the Malacañang
         Press Corps (MPC), a group of accredited journalists covering the president,
         for opposing the Palace request.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55b8cb28-5d30-439f-a956-faf2836960db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.469+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.724+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.469+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The incident involved Eden Santos of news organization Net25, who was
+    section2:
+      primarytype: 'block'
+      uuid: '55b8cb28-5d30-439f-a956-faf2836960db'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.469+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.724+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.469+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The incident involved Eden Santos of news organization Net25, who was
         seen directly approaching Marcos in one of his engagements for a supposed
         interview.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f44c60f2-52ed-4349-95bb-ed55b4e8d855'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.469+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.725+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.469+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'MPC said on Friday that the Palace’s request for Santos to be replaced
+    section3:
+      primarytype: 'block'
+      uuid: 'f44c60f2-52ed-4349-95bb-ed55b4e8d855'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.469+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.725+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.469+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'MPC said on Friday that the Palace’s request for Santos to be replaced
         was a clear overreach of the office’s authority.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41bd1a30-e144-49a6-b7bf-7df2c63e9cad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.469+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.726+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.469+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'NUJP said the Palace should “look into why reporters would have to
+    section4:
+      primarytype: 'block'
+      uuid: '41bd1a30-e144-49a6-b7bf-7df2c63e9cad'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.469+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.726+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.469+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'NUJP said the Palace should “look into why reporters would have to
         resort to ambush interviews in the first place.”'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9af59d47-9021-44e5-81bc-024dca010af9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.470+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.470+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“It may be that they need more information than is given at briefings
+    section5:
+      primarytype: 'block'
+      uuid: '9af59d47-9021-44e5-81bc-024dca010af9'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.470+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.470+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“It may be that they need more information than is given at briefings
         or in advisories or that access to the President is often limited to managed
         press events and sit-down interviews with select journalists,” it said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a529ae66-43ef-40cd-923b-abd920a0889f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.470+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.470+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“In any case, it would be more productive for the PCO (Presidential
+    section6:
+      primarytype: 'block'
+      uuid: 'a529ae66-43ef-40cd-923b-abd920a0889f'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.470+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.470+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“In any case, it would be more productive for the PCO (Presidential
         Communications Office) to arrange regular press briefings or conversations
         with the President instead of trying to replace reporters whose questions
         and actions it may disagree with,” NUJP added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6ebbaba-855d-452c-a12d-041560cf1375'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:47:21.471+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:47:21.730+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:47:21.471+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Palace has yet to respond to the MPC.</p>'
-  'trump-to-talk-to-china-on-tiktok-deal':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T17:48:29.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b7913b19-c50f-4093-b945-5df9aa74322e'
-    'lead': 'U.S. President Donald Trump said on Friday he will start talking to China
+    section7:
+      primarytype: 'block'
+      uuid: 'b6ebbaba-855d-452c-a12d-041560cf1375'
+      activationstatus: true
+      created: 2025-07-05T17:47:21.471+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:47:21.730+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:47:21.471+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The Palace has yet to respond to the MPC.</p>'
+  'START HERE----->trump-to-talk-to-china-on-tiktok-deal':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T17:48:29.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: 'b7913b19-c50f-4093-b945-5df9aa74322e'
+    lead: 'U.S. President Donald Trump said on Friday he will start talking to China
       on Monday or Tuesday about a possible TikTok deal.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T17:50:33.156+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T17:50:33.427+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T17:50:33.188+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'TikTok']
-    'stories': []
-    'template': '1'
-    'title': 'Trump says US will start talks with China on TikTok deal this week'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd72a5b7-64d8-4f6d-94f1-e2076ae7e552'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.177+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.185+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> U.S. President Donald Trump said on
+    activationstatus: true
+    created: 2025-07-05T17:50:33.156+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T17:50:33.427+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T17:50:33.188+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump says US will start talks with China on TikTok deal this week'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fd72a5b7-64d8-4f6d-94f1-e2076ae7e552'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.177+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.185+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> U.S. President Donald Trump said on
         Friday he will start talking to China on Monday or Tuesday about a possible
         TikTok deal.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'febfb54c-48ca-45d6-9b7b-07f446e0c9d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.178+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.178+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said the United States "pretty much" has a deal on the sale of the
+    section1:
+      primarytype: 'block'
+      uuid: 'febfb54c-48ca-45d6-9b7b-07f446e0c9d6'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.178+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.178+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said the United States "pretty much" has a deal on the sale of the
         TikTok short-video app.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4df8d4f5-4e9b-4691-93dc-87e22974ca9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.179+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.430+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.179+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"I think we''re gonna start Monday or Tuesday...talking to China, perhaps
+    section2:
+      primarytype: 'block'
+      uuid: '4df8d4f5-4e9b-4691-93dc-87e22974ca9f'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.179+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.430+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.179+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"I think we're gonna start Monday or Tuesday...talking to China, perhaps
         President Xi or one of his representatives, but we would we pretty much have
         a deal," Trump told reporters on Air Force One.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '96e98d35-e2ee-4df6-9ebc-87294f6d4316'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.179+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.431+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.179+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Last month, Trump extended to September 17 a deadline for China-based
+    section3:
+      primarytype: 'block'
+      uuid: '96e98d35-e2ee-4df6-9ebc-87294f6d4316'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.179+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.431+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.179+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Last month, Trump extended to September 17 a deadline for China-based
         ByteDance to divest the U.S. assets of TikTok.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4888a2f-b41d-4f24-aeef-6d576b6b7d36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.179+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.432+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.179+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A deal had been in the works this spring to spin off TikTok’s U.S.
+    section4:
+      primarytype: 'block'
+      uuid: 'c4888a2f-b41d-4f24-aeef-6d576b6b7d36'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.179+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.432+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.179+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A deal had been in the works this spring to spin off TikTok’s U.S.
         operations into a new U.S.-based firm, majority-owned and operated by U.S.
         investors, but it was put on hold after China indicated it would not approve
         it following Trump’s announcements of steep tariffs on Chinese goods.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34870b9b-b560-40b7-a7f4-80b7b2b76645'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.180+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.433+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.180+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump said the United States will probably have to get a deal approved
+    section5:
+      primarytype: 'block'
+      uuid: '34870b9b-b560-40b7-a7f4-80b7b2b76645'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.180+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.433+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.180+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump said the United States will probably have to get a deal approved
         by China.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a6d3f10-4f8a-46cc-92eb-0649349cbddb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.180+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.434+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.180+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'When asked how confident he was that China would agree to a deal, he
-        said, "I''m not confident, but I think so. President Xi and I have a great
+    section6:
+      primarytype: 'block'
+      uuid: '1a6d3f10-4f8a-46cc-92eb-0649349cbddb'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.180+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.434+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.180+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'When asked how confident he was that China would agree to a deal, he
+        said, "I'm not confident, but I think so. President Xi and I have a great
         relationship, and I think it’s good for them. I think the deal is good for
         China and it’s good for us."'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0862d50-2b15-48bb-ac7c-d69b84b53dda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T17:50:33.181+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T17:50:33.435+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T17:50:33.181+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jasper Ward and Andrea Shalal; Editing by Tom
+    section7:
+      primarytype: 'block'
+      uuid: 'f0862d50-2b15-48bb-ac7c-d69b84b53dda'
+      activationstatus: true
+      created: 2025-07-05T17:50:33.181+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T17:50:33.435+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T17:50:33.181+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jasper Ward and Andrea Shalal; Editing by Tom
         Hogue and Shri Navaratnam)</em></p>'
-  'opec-speeds-up-oil-output-hikes':
-    'author': 'Alex Lawler, Maha El Dahan, Olesya Astakhova and Ahmad Ghaddar, Reuters'
-    'caption': 'A view of the logo of the Organization of the Petroleum Exporting
+  'START HERE----->opec-speeds-up-oil-output-hikes':
+    author: 'Alex Lawler, Maha El Dahan, Olesya Astakhova and Ahmad Ghaddar, Reuters'
+    caption: 'A view of the logo of the Organization of the Petroleum Exporting
       Countries (OPEC) outside their headquarters in Vienna, Austria, November 30,
       2023. (Leonhard Foeger/File Photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T17:59:07.000+08:00
-    'imagesource': 'jcr:36506840-ece6-4a85-87b5-b8b37c8a72df'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4daaf19f-bd95-47a7-a614-819afee27cd8'
-    'lead': 'OPEC+ agreed on Saturday to raise production by 548,000 barrels per day
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T17:59:07.000+08:00
+    imagesource: '36506840-ece6-4a85-87b5-b8b37c8a72df'
+    primarytype: 'composition'
+    uuid: '4daaf19f-bd95-47a7-a614-819afee27cd8'
+    lead: 'OPEC+ agreed on Saturday to raise production by 548,000 barrels per day
       in August, further accelerating output increases at its first meeting since
       oil prices jumped - and then retreated - following Israeli and U.S. attacks
       on Iran.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T18:05:14.005+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T18:05:14.322+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T18:05:14.040+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['OPEC-Plus']
-    'stories': []
-    'template': '1'
-    'title': 'OPEC+ speeds up oil output hikes, adds 548,000 bpd in August'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd75e6bb1-c998-4be2-873b-775820f8d4c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.025+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.323+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.035+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>London, England -</strong> OPEC+ agreed on Saturday to raise
+    activationstatus: true
+    created: 2025-07-05T18:05:14.005+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T18:05:14.322+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T18:05:14.040+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'OPEC+ speeds up oil output hikes, adds 548,000 bpd in August'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd75e6bb1-c998-4be2-873b-775820f8d4c5'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.025+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.323+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.035+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>London, England -</strong> OPEC+ agreed on Saturday to raise
         production by 548,000 barrels per day in August, further accelerating output
         increases at its first meeting since oil prices jumped - and then retreated
         - following Israeli and U.S. attacks on Iran.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b2fad04-bda2-434a-a176-5839ef68ddc8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.026+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.324+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.026+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group, which pumps about half of the world’s oil, has been curtailing
+    section1:
+      primarytype: 'block'
+      uuid: '3b2fad04-bda2-434a-a176-5839ef68ddc8'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.026+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.324+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.026+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The group, which pumps about half of the world’s oil, has been curtailing
         production since 2022 to support the market. But it has reversed course this
         year to regain market share and as U.S. President Donald Trump demanded the
         group pump more to help keep gasoline prices lower.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bedf7e7e-d341-4f5e-bf6c-f5220bd37d49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.026+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.325+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.026+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The production boost will come from eight members of the group - Saudi
+    section2:
+      primarytype: 'block'
+      uuid: 'bedf7e7e-d341-4f5e-bf6c-f5220bd37d49'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.026+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.325+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.026+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The production boost will come from eight members of the group - Saudi
         Arabia, Russia, the UAE, Kuwait, Oman, Iraq, Kazakhstan and Algeria. The eight
         started to unwind their most recent layer of cuts of 2.2 million bpd in April.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d1f8f72-17e8-4295-b6c0-31d15a673637'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.027+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.326+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.027+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The August increase represents a jump from monthly increases of 411,000
+    section3:
+      primarytype: 'block'
+      uuid: '7d1f8f72-17e8-4295-b6c0-31d15a673637'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.027+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.326+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.027+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The August increase represents a jump from monthly increases of 411,000
         bpd OPEC+ had approved for May, June and July, and 138,000 bpd in April.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0073bea-f812-4bcc-add7-5e2bba76afe7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.027+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.328+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.027+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OPEC+ cited a steady global economic outlook and healthy market fundamentals,
+    section4:
+      primarytype: 'block'
+      uuid: 'a0073bea-f812-4bcc-add7-5e2bba76afe7'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.027+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.328+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.027+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OPEC+ cited a steady global economic outlook and healthy market fundamentals,
         including low oil inventories, as reasons for releasing more oil.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b2f83fb-7ca4-4111-8774-b1be56e892d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.028+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.329+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.028+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The acceleration came after some OPEC+ members, such as Kazakhstan
+    section5:
+      primarytype: 'block'
+      uuid: '4b2f83fb-7ca4-4111-8774-b1be56e892d5'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.028+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.329+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.028+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The acceleration came after some OPEC+ members, such as Kazakhstan
         and Iraq, produced above their targets, angering other members that were sticking
         to cuts, sources have said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a1bdc78-2802-4ac0-86f0-0079058aec12'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.028+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.330+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.028+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kazakh output returned to growth last month and matched an all-time
+    section6:
+      primarytype: 'block'
+      uuid: '9a1bdc78-2802-4ac0-86f0-0079058aec12'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.028+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.330+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.028+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Kazakh output returned to growth last month and matched an all-time
         high.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dac5141c-8509-4ea6-bd38-a47c350ca135'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.029+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.331+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.029+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'OPEC+, which groups the Organization of the Petroleum Exporting Countries
+    section7:
+      primarytype: 'block'
+      uuid: 'dac5141c-8509-4ea6-bd38-a47c350ca135'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.029+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.331+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.029+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'OPEC+, which groups the Organization of the Petroleum Exporting Countries
         and allies led by Russia, wants to expand market share amid growing supplies
         from rival producers like the United States, sources have said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ef0ab3d-4e35-410d-9352-41f08bc6fb6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.029+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.332+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.029+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'With the August increase, OPEC+ will have released 1.918 million bpd
+    section8:
+      primarytype: 'block'
+      uuid: '1ef0ab3d-4e35-410d-9352-41f08bc6fb6c'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.029+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.332+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.029+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'With the August increase, OPEC+ will have released 1.918 million bpd
         since April, which leaves just 280,000 bpd to be released from the 2.2 million
         bpd cut. On top of that, OPEC+ allowed the UAE to increase output by 300,000
         bpd.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ef68dae-247c-4d66-8ca0-379dc3ff8bbd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.030+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.333+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.030+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The group still has in place other layers of cuts amounting to 3.66
+    section9:
+      primarytype: 'block'
+      uuid: '9ef68dae-247c-4d66-8ca0-379dc3ff8bbd'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.030+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.333+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.030+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The group still has in place other layers of cuts amounting to 3.66
         million bpd. The group of eight OPEC+ members will next meet on August 3.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b25cdde-477a-4ce3-9ed6-02d7c31b2ebe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:05:14.030+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:05:14.334+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:05:14.030+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by OPEC Newsroom. Writing by Dmitry Zhdannikov, Editing
+    section10:
+      primarytype: 'block'
+      uuid: '1b25cdde-477a-4ce3-9ed6-02d7c31b2ebe'
+      activationstatus: true
+      created: 2025-07-05T18:05:14.030+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:05:14.334+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:05:14.030+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by OPEC Newsroom. Writing by Dmitry Zhdannikov, Editing
         by Mark Potter)</em></p>'
-  'south-Korea-s-presidential-advisor-to-fly-to-washington-':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-05T18:05:18.000+08:00
-    'imagesource': 'jcr:3ac1bc49-c4e3-4f03-b3cb-5a08b58612bc'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a3a93d74-b21c-4c3b-b53d-a9bb367251ef'
-    'lead': 'South Korea’s presidential security advisor plans to visit Washington
+  'START HERE----->south-Korea-s-presidential-advisor-to-fly-to-washington-':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-05T18:05:18.000+08:00
+    imagesource: '3ac1bc49-c4e3-4f03-b3cb-5a08b58612bc'
+    primarytype: 'composition'
+    uuid: 'a3a93d74-b21c-4c3b-b53d-a9bb367251ef'
+    lead: 'South Korea’s presidential security advisor plans to visit Washington
       during July 6-8, his office said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-05T18:06:38.043+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-05T18:06:38.268+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-05T18:06:38.069+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['south-korea']
-    'stories': []
-    'template': '1'
-    'title': 'South Korea’s presidential advisor to fly to Washington ahead of tariff
+    activationstatus: true
+    created: 2025-07-05T18:06:38.043+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-05T18:06:38.268+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-05T18:06:38.069+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea’s presidential advisor to fly to Washington ahead of tariff
       deadline'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3634fd11-c267-4335-8d95-552428d30822'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:06:38.062+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:06:38.269+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:06:38.066+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Seoul, South Korea -</strong> South Korea’s presidential
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3634fd11-c267-4335-8d95-552428d30822'
+      activationstatus: true
+      created: 2025-07-05T18:06:38.062+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:06:38.269+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:06:38.066+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Seoul, South Korea -</strong> South Korea’s presidential
         security advisor plans to visit Washington during July 6-8, his office said
         on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9be65ac1-cc9e-4d52-aa4a-0bd250a8e7ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:06:38.062+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:06:38.270+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:06:38.062+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Wi Sung-lac, President Lee Jae Myung’s national security adviser,
+    section1:
+      primarytype: 'block'
+      uuid: '9be65ac1-cc9e-4d52-aa4a-0bd250a8e7ca'
+      activationstatus: true
+      created: 2025-07-05T18:06:38.062+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:06:38.270+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:06:38.062+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Wi Sung-lac, President Lee Jae Myung’s national security adviser,
         plans to "have in-depth discussions about all the pending issues between South
         Korea and the United States," the office said in a statement.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ede0abf3-21bd-48c2-9263-d2f06a099311'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:06:38.063+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:06:38.271+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:06:38.063+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'His visit comes as South Korea may seek an extension of the freeze
+    section2:
+      primarytype: 'block'
+      uuid: 'ede0abf3-21bd-48c2-9263-d2f06a099311'
+      activationstatus: true
+      created: 2025-07-05T18:06:38.063+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:06:38.271+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:06:38.063+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'His visit comes as South Korea may seek an extension of the freeze
         on U.S. tariffs that is set to expire within days. South Korea’s trade minister
         Yeo Han-koo on Friday flew to Washington for meetings with U.S. Trade Representative
         Jamieson Greer and other senior officials.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '645f0081-2599-48c4-8a7a-fc86660d67b3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:06:38.063+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:06:38.272+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:06:38.063+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Wi is also expected to discuss a possible summit between U.S. President
+    section3:
+      primarytype: 'block'
+      uuid: '645f0081-2599-48c4-8a7a-fc86660d67b3'
+      activationstatus: true
+      created: 2025-07-05T18:06:38.063+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:06:38.272+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:06:38.063+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Wi is also expected to discuss a possible summit between U.S. President
         Donald Trump and Lee, who took office last month.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bd9bc11-3260-42f1-94da-7fcf45bda54d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-05T18:06:38.063+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-05T18:06:38.273+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-05T18:06:38.063+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Hyunjoo JinEditing by Shri Navaratnam)</em></p>'
+    section4:
+      primarytype: 'block'
+      uuid: '5bd9bc11-3260-42f1-94da-7fcf45bda54d'
+      activationstatus: true
+      created: 2025-07-05T18:06:38.063+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-05T18:06:38.273+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-05T18:06:38.063+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Hyunjoo JinEditing by Shri Navaratnam)</em></p>'

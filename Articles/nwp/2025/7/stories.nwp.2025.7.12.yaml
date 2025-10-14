@@ -1,1967 +1,1967 @@
-'12':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'cfbfdd7f-ac38-4170-b6d2-d2fc5e3ce279'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-07-11T19:36:20.459+08:00
-  'mgnl:createdBy': 'jham-nwp'
-  'mgnl:lastActivated': 2025-07-12T10:23:27.640+08:00
-  'mgnl:lastActivatedBy': 'lance-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-07-12T10:23:27.493+08:00
-  'mgnl:lastModified': 2025-07-12T18:03:31.084+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'air-india-crash-pilot-confusion-over-engine-switch-movement':
-    'author': 'Allison Lampert, Aditya Kalra and Dan Catchpole, Reuters'
-    'caption': 'A tail of an Air India Boeing 787 Dreamliner plane that crashed is
+section12:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'cfbfdd7f-ac38-4170-b6d2-d2fc5e3ce279'
+  activationstatus: true
+  created: 2025-07-11T19:36:20.459+08:00
+  createdby: 'jham-nwp'
+  lastactivated: 2025-07-12T10:23:27.640+08:00
+  lastactivatedby: 'lance-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-07-12T10:23:27.493+08:00
+  lastmodified: 2025-07-12T18:03:31.084+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->air-india-crash-pilot-confusion-over-engine-switch-movement':
+    author: 'Allison Lampert, Aditya Kalra and Dan Catchpole, Reuters'
+    caption: 'A tail of an Air India Boeing 787 Dreamliner plane that crashed is
       seen stuck on a building after the incident in Ahmedabad, India, June 12, 2025.
       (Amit Dave/Reuters) '
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T10:20:26.000+08:00
-    'imagesource': 'jcr:5acb10dd-2eda-465a-8690-b8711c1844bd'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b9724175-fd07-4e34-b5d5-e792d20176c1'
-    'lead': 'A preliminary report depicted confusion in the cockpit shortly before
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T10:20:26.000+08:00
+    imagesource: '5acb10dd-2eda-465a-8690-b8711c1844bd'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b9724175-fd07-4e34-b5d5-e792d20176c1'
+    lead: 'A preliminary report depicted confusion in the cockpit shortly before
       an Air India jetliner crashed, killing 260 people last month, after the plane’s
       engine fuel cutoff switches almost simultaneously flipped, starving the engines
       of fuel.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T10:23:22.501+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T10:23:54.154+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-07-12T10:23:53.630+08:00
-    'mgnl:lastModified': 2025-07-12T10:23:22.575+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['air-india']
-    'stories': []
-    'template': '1'
-    'title': 'Air India crash report shows pilot confusion over engine switch movement'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1fb65fb-b24a-430e-878c-92a1b8dae76d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.540+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.155+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.564+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>New Delhi, India -</strong> A preliminary report depicted
+    activationstatus: true
+    created: 2025-07-12T10:23:22.501+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T10:23:54.154+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-07-12T10:23:53.630+08:00
+    lastmodified: 2025-07-12T10:23:22.575+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Air India crash report shows pilot confusion over engine switch movement'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd1fb65fb-b24a-430e-878c-92a1b8dae76d'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.540+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.155+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.564+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>New Delhi, India -</strong> A preliminary report depicted
         confusion in the cockpit shortly before an Air India jetliner crashed, killing
         260 people last month, after the plane’s engine fuel cutoff switches almost
         simultaneously flipped, starving the engines of fuel.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c38431f5-148d-4c04-8b89-126ebed88da8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.540+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.155+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.540+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Boeing BA.N 787 Dreamliner bound for London from the Indian city
+    section1:
+      primarytype: 'block'
+      uuid: 'c38431f5-148d-4c04-8b89-126ebed88da8'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.540+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.155+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.540+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Boeing BA.N 787 Dreamliner bound for London from the Indian city
         of Ahmedabad immediately began to lose thrust and sink down, according to
         the report on the world’s deadliest aviation accident in a decade released
         on Saturday by Indian accident investigators.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e622becd-0b17-45b9-aae4-6b1c738cf6f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.541+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.156+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.541+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The report by India’s Aircraft Accident Investigation Bureau (AAIB)
+    section2:
+      primarytype: 'block'
+      uuid: 'e622becd-0b17-45b9-aae4-6b1c738cf6f3'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.541+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.156+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.541+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The report by India’s Aircraft Accident Investigation Bureau (AAIB)
         about the June 12 crash shortly after takeoff raises fresh questions over
         the position of the critical engine fuel cutoff switches, while suggesting
         that Boeing and engine maker GE GE.N had no apparent responsibility for the
         accident.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f1a29a5-2c0b-48b1-bae9-9ff5b4df7aab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.541+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.156+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.541+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The crash is a challenge for Tata Group’s ambitious campaign to restore
+    section3:
+      primarytype: 'block'
+      uuid: '6f1a29a5-2c0b-48b1-bae9-9ff5b4df7aab'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.541+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.156+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.541+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The crash is a challenge for Tata Group’s ambitious campaign to restore
         Air India’s reputation and revamp its fleet, after taking the carrier over
         from the government in 2022.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbc66b26-1ac8-4573-83ba-6b7c2e3d0b48'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.542+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.157+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.542+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Almost immediately after the plane lifted off the ground, CCTV footage
+    section4:
+      primarytype: 'block'
+      uuid: 'cbc66b26-1ac8-4573-83ba-6b7c2e3d0b48'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.542+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.157+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.542+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Almost immediately after the plane lifted off the ground, CCTV footage
         shows a backup energy source called a ram air turbine had deployed, indicating
         a loss of power from the engines.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f6aab13-ad75-4cb0-b71d-6d0ffc20bc42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.542+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.158+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.542+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In the flight’s final moment, one pilot was heard on the cockpit voice
+    section5:
+      primarytype: 'block'
+      uuid: '4f6aab13-ad75-4cb0-b71d-6d0ffc20bc42'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.542+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.158+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.542+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In the flight’s final moment, one pilot was heard on the cockpit voice
         recorder asking the other why he cut off the fuel. "The other pilot responded
         that he did not do so," the report said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5d48118-c599-4cee-aebe-9cc72c7ded3d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.542+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.158+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.542+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It did not identify which remarks were made by the flight’s captain
+    section6:
+      primarytype: 'block'
+      uuid: 'f5d48118-c599-4cee-aebe-9cc72c7ded3d'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.542+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.158+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.542+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It did not identify which remarks were made by the flight’s captain
         and which by the first officer, nor which pilot transmitted "Mayday, Mayday,
         Mayday" just before the crash.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7692fb84-c74e-4533-90c3-8d5f2db6061a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.543+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.159+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.543+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The commanding pilot of the Air India plane was Sumeet Sabharwal, 56,
+    section7:
+      primarytype: 'block'
+      uuid: '7692fb84-c74e-4533-90c3-8d5f2db6061a'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.543+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.159+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.543+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The commanding pilot of the Air India plane was Sumeet Sabharwal, 56,
         who had a total flying experience of 15,638 hours and, according to the Indian
         government, was also an Air India instructor. His co-pilot was Clive Kunder,
         32, who had 3,403 hours of total experience.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec5bae0d-374e-482c-8f3c-3b07b0ac5692'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.543+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.159+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.543+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The fuel switches had almost simultaneously flipped from run to cutoff
+    section8:
+      primarytype: 'block'
+      uuid: 'ec5bae0d-374e-482c-8f3c-3b07b0ac5692'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.543+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.159+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.543+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The fuel switches had almost simultaneously flipped from run to cutoff
         just after takeoff. The preliminary report did not say how the switches could
         have flipped to the cutoff position during the flight.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df860aa1-952e-426a-85e7-59f971057033'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.544+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.160+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Experts have said a pilot would not be able to accidentally move the
+    section9:
+      primarytype: 'block'
+      uuid: 'df860aa1-952e-426a-85e7-59f971057033'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.544+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.160+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Experts have said a pilot would not be able to accidentally move the
         fuel switches.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8333f733-853c-4eca-9b4e-e66898827e00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.544+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.160+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"If they were moved because of a pilot, why?" asked U.S. aviation safety
+    section10:
+      primarytype: 'block'
+      uuid: '8333f733-853c-4eca-9b4e-e66898827e00'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.544+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.160+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"If they were moved because of a pilot, why?" asked U.S. aviation safety
         expert Anthony Brickhouse.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0daa1b84-7e9b-4138-9b84-0a3afe9fcf5a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.161+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The switches flipped a second apart, the report said, roughly the time
+    section11:
+      primarytype: 'block'
+      uuid: '0daa1b84-7e9b-4138-9b84-0a3afe9fcf5a'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.161+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The switches flipped a second apart, the report said, roughly the time
         it would take to shift one and then the other, according to U.S. aviation
         expert John Nance. He added that a pilot would normally never turn the switches
         off in flight, especially as the plane is starting to climb.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5500215e-b48b-4c69-9963-3f016322ab45'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.161+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Flipping to cutoff almost immediately cuts the engines. It is most
+    section12:
+      primarytype: 'block'
+      uuid: '5500215e-b48b-4c69-9963-3f016322ab45'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.161+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Flipping to cutoff almost immediately cuts the engines. It is most
         often used to turn engines off once a plane has arrived at its airport gate
         and in certain emergency situations, such as an engine fire. The report does
         not indicate there was any emergency requiring an engine cutoff.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf8caba3-6ec2-4078-81ac-ea8528cb0994'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.162+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At the crash site, both fuel switches were found in the run position
+    section13:
+      primarytype: 'block'
+      uuid: 'bf8caba3-6ec2-4078-81ac-ea8528cb0994'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.162+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At the crash site, both fuel switches were found in the run position
         and there had been indications of both engines relighting before the low-altitude
         crash, said the report, which was released around 1:30 a.m. IST on Saturday
         (2000 GMT on Friday).'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5342abd5-47e4-4b5a-95ef-c1d65fe1cce5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.546+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.162+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Air India acknowledged the report in a statement. The carrier said
+    section14:
+      primarytype: 'block'
+      uuid: '5342abd5-47e4-4b5a-95ef-c1d65fe1cce5'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.546+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.162+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Air India acknowledged the report in a statement. The carrier said
         it was cooperating with Indian authorities but declined further comment.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1501f9e2-f2a4-4754-a5bb-c200ce331b29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.546+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.163+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. National Transportation Safety Board thanked Indian officials
+    section15:
+      primarytype: 'block'
+      uuid: '1501f9e2-f2a4-4754-a5bb-c200ce331b29'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.546+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.163+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. National Transportation Safety Board thanked Indian officials
         for their cooperation in a statement and noted that there were no recommended
         actions in the report aimed at operators of Boeing 787 jets or the GE engines.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c6f091c-27d2-48cc-ac86-1db970e4eb71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.163+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. Federal Aviation Administration said its priority was to follow
+    section16:
+      primarytype: 'block'
+      uuid: '8c6f091c-27d2-48cc-ac86-1db970e4eb71'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.163+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. Federal Aviation Administration said its priority was to follow
         the facts where they lead and it was committed to promptly addressing any
         risks identified throughout the process.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32a2c25d-cc9f-4d68-bf09-348918cff267'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.164+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Boeing said it continued to support the investigation and its customer,
+    section17:
+      primarytype: 'block'
+      uuid: '32a2c25d-cc9f-4d68-bf09-348918cff267'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.164+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Boeing said it continued to support the investigation and its customer,
         Air India. GE Aerospace did not respond immediately to a request for comment.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '609168e6-667c-435a-8e21-d578c44f4e22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.548+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.164+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.548+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Crash probe</strong></h2>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ecf67d0-a485-427b-a324-a47f8bf668f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.548+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.165+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.548+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The AAIB, an office under India’s civil aviation ministry, is leading
+    section18:
+      primarytype: 'block'
+      uuid: '609168e6-667c-435a-8e21-d578c44f4e22'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.548+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.164+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.548+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Crash probe</strong></h2>'
+    section19:
+      primarytype: 'block'
+      uuid: '5ecf67d0-a485-427b-a324-a47f8bf668f2'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.548+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.165+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.548+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The AAIB, an office under India’s civil aviation ministry, is leading
         the probe into the crash, which killed all but one of the 242 people on board
         and 19 others on the ground.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0f5cbc8-4134-4e8c-b365-6cf71f44add1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.549+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.165+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.549+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Most air crashes are caused by multiple factors, with a preliminary
+    section20:
+      primarytype: 'block'
+      uuid: 'd0f5cbc8-4134-4e8c-b365-6cf71f44add1'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.549+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.165+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.549+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Most air crashes are caused by multiple factors, with a preliminary
         report due 30 days after the accident according to international rules, and
         a final report expected within a year.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a14abafc-1a69-4290-bbe0-ba414c5f0661'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.549+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.166+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.549+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The plane’s black boxes, combined cockpit voice recorders and flight
+    section21:
+      primarytype: 'block'
+      uuid: 'a14abafc-1a69-4290-bbe0-ba414c5f0661'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.549+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.166+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.549+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The plane’s black boxes, combined cockpit voice recorders and flight
         data recorders, were recovered in the days following the crash and later downloaded
         in India.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a303a5f-c123-45b1-b70b-8277ba5e143d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.550+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.166+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.550+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Black boxes provide crucial data such as altitude, airspeed and final
+    section22:
+      primarytype: 'block'
+      uuid: '8a303a5f-c123-45b1-b70b-8277ba5e143d'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.550+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.166+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.550+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Black boxes provide crucial data such as altitude, airspeed and final
         pilot conversations which help in narrowing down possible causes of the crash.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de35a220-1a1e-40d0-a180-6a996dbbde76'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.551+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.167+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.551+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Air India has been under intense scrutiny since the crash.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75a2bf3e-f5dd-4bdf-ab72-22233da0c7ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.551+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.167+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.551+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The European Union Aviation Safety Agency said it plans to investigate
+    section23:
+      primarytype: 'block'
+      uuid: 'de35a220-1a1e-40d0-a180-6a996dbbde76'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.551+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.167+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.551+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Air India has been under intense scrutiny since the crash.'
+    section24:
+      primarytype: 'block'
+      uuid: '75a2bf3e-f5dd-4bdf-ab72-22233da0c7ca'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.551+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.167+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.551+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The European Union Aviation Safety Agency said it plans to investigate
         its budget airline, Air India Express, after Reuters reported the carrier
         did not follow a directive to change engine parts of an Airbus A320 in a timely
         manner and falsified records to show compliance.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05ca6d17-4f4d-42f0-8c0f-52bf00bbe38f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.552+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.168+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.552+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'India’s aviation watchdog has also warned Air India for breaching
+    section25:
+      primarytype: 'block'
+      uuid: '05ca6d17-4f4d-42f0-8c0f-52bf00bbe38f'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.552+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.168+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.552+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'India’s aviation watchdog has also warned Air India for breaching
         rules for flying three Airbus planes with overdue checks on escape slides
         and in June warned it about "serious violations" of pilot duty timings.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55f24d4c-f973-403c-8b6d-3ee67a205df3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.552+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.169+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.552+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'India is banking on a boom in aviation to support wider development
+    section26:
+      primarytype: 'block'
+      uuid: '55f24d4c-f973-403c-8b6d-3ee67a205df3'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.552+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.169+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.552+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'India is banking on a boom in aviation to support wider development
         goals, with New Delhi saying it wants India to be a job-creating global aviation
         hub along the lines of Dubai, which currently handles much of the country’s
         international traffic.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0740a7c4-2d6f-44bd-9cd0-9d1e2104b3f5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:23:22.553+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:23:54.169+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-07-12T10:23:22.553+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Hritam Mukherjee and Gursimran Kaur in Bengaluru
+    section27:
+      primarytype: 'block'
+      uuid: '0740a7c4-2d6f-44bd-9cd0-9d1e2104b3f5'
+      activationstatus: true
+      created: 2025-07-12T10:23:22.553+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:23:54.169+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-07-12T10:23:22.553+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Hritam Mukherjee and Gursimran Kaur in Bengaluru
         and Aditya Kalra and Abhijith Ganapavaram in New Delhi and by Allison Lampert
         in Montreal, David Shepardson in Washington, Rajesh Kumar Singh in Chicago
         and Dan Catchpole in Seattle; Editing by Jamie Freed)</em></p>'
-  'us-state-department-fires-over-1000-workers':
-    'author': 'Humeyra Pamuk, Reuters'
-    'caption': 'U.S. President Donald Trump (File photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T10:33:05.000+08:00
-    'imagesource': 'jcr:0e25730d-cc13-49f5-99e6-29d1ab8c15d2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '44452288-014f-45df-bd1f-49d0ce38bb9b'
-    'lead': 'The State Department began firing more than 1,350 U.S.-based employees
+  'START HERE----->us-state-department-fires-over-1000-workers':
+    author: 'Humeyra Pamuk, Reuters'
+    caption: 'U.S. President Donald Trump (File photo/Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T10:33:05.000+08:00
+    imagesource: '0e25730d-cc13-49f5-99e6-29d1ab8c15d2'
+    primarytype: 'composition'
+    uuid: '44452288-014f-45df-bd1f-49d0ce38bb9b'
+    lead: 'The State Department began firing more than 1,350 U.S.-based employees
       on Friday as the administration of President Donald Trump presses ahead with
       an unprecedented overhaul of its diplomatic corps, a move critics say will undermine
       U.S. ability to defend and promote U.S. interests abroad.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T10:35:13.851+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T10:35:14.409+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T10:35:13.902+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump']
-    'stories': []
-    'template': '1'
-    'title': 'State Department starts firing more than 1,350 workers in Trump’s shake-up
+    activationstatus: true
+    created: 2025-07-12T10:35:13.851+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T10:35:14.409+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T10:35:13.902+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'State Department starts firing more than 1,350 workers in Trump’s shake-up
       of diplomatic corps'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e707f11-2398-4ae2-8408-69b71c05e86f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.875+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.410+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S. -</strong> The U.S. State Department began
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8e707f11-2398-4ae2-8408-69b71c05e86f'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.875+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.410+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S. -</strong> The U.S. State Department began
         firing more than 1,350 U.S.-based employees on Friday as the administration
         of President Donald Trump presses ahead with an unprecedented overhaul of
         its diplomatic corps, a move critics say will undermine U.S. ability to defend
         and promote U.S. interests abroad.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca611ff4-4aa0-4e09-b69c-5f6ee6161000'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.876+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.411+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.876+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The layoffs, which affect 1,107 civil service and 246 foreign service
+    section1:
+      primarytype: 'block'
+      uuid: 'ca611ff4-4aa0-4e09-b69c-5f6ee6161000'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.876+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.411+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.876+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The layoffs, which affect 1,107 civil service and 246 foreign service
         officers based in the United States, come at a time when Washington is grappling
         with multiple crises on the world stage: Russia’s war in Ukraine, the almost
         two-year-long Gaza conflict, and the Middle East on edge due to high tension
         between Israel and Iran.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '757c0ce2-34aa-4190-adf3-2af30f979dc8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.876+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.413+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.876+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The Department is streamlining domestic operations to focus on diplomatic
+    section2:
+      primarytype: 'block'
+      uuid: '757c0ce2-34aa-4190-adf3-2af30f979dc8'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.876+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.413+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.876+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The Department is streamlining domestic operations to focus on diplomatic
         priorities," an internal State Department notice that was sent to the workforce
         said. "Headcount reductions have been carefully tailored to affect non-core
         functions, duplicative or redundant offices, and offices where considerable
         efficiencies may be found," it added.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca127e9f-d409-45ac-bbe8-0c3365bc035f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.876+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.414+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.876+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The total reduction in the workforce will be nearly 3,000, including
+    section3:
+      primarytype: 'block'
+      uuid: 'ca127e9f-d409-45ac-bbe8-0c3365bc035f'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.876+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.414+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.876+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The total reduction in the workforce will be nearly 3,000, including
         the voluntary departures, according to the notice and a senior State Department
         official, out of the 18,000 employees based in the United States.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ab908be-6c6b-4397-bd7d-a249dada0cea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.877+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.415+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.877+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The move is the first step of a restructuring that Trump has sought
+    section4:
+      primarytype: 'block'
+      uuid: '1ab908be-6c6b-4397-bd7d-a249dada0cea'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.877+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.415+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.877+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The move is the first step of a restructuring that Trump has sought
         to ensure U.S. foreign policy is aligned with his "America First" agenda.
         Former diplomats and critics say the firing of foreign service officers risks
         America’s ability to counter the growing assertiveness from adversaries such
         as China and Russia.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ceb33ae-727d-45f2-8123-c89d28204b27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.877+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.417+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.877+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"President Trump and Secretary of State Rubio are once again making
+    section5:
+      primarytype: 'block'
+      uuid: '8ceb33ae-727d-45f2-8123-c89d28204b27'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.877+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.417+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.877+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"President Trump and Secretary of State Rubio are once again making
         America less safe and less secure," Democratic senator Tim Kaine from Virginia
         said in a statement.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b06cf423-6d8c-4d86-a5d0-a94a075efa19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.878+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.418+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.878+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This is one of the most ridiculous decisions that could possibly be
+    section6:
+      primarytype: 'block'
+      uuid: 'b06cf423-6d8c-4d86-a5d0-a94a075efa19'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.878+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.418+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.878+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This is one of the most ridiculous decisions that could possibly be
         made at a time when China is increasing its diplomatic footprint around the
         world and establishing an overseas network of military and transportation
         bases, Russia is continuing its years-long brutal assault of a sovereign country,
         and the Middle East is careening from crisis to crisis," Kaine said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe2bc6c5-5e64-4373-a386-0c6396db0bdf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.878+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.419+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.878+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dozens of State Department employees crowded the lobby of the agency’s
+    section7:
+      primarytype: 'block'
+      uuid: 'fe2bc6c5-5e64-4373-a386-0c6396db0bdf'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.878+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.419+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.878+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Dozens of State Department employees crowded the lobby of the agency’s
         headquarters in Washington holding an impromptu "clap-out" for their colleagues
         who have been fired. Dozens of people were crying, as they carried their belongings
         in boxes and hugged and bid farewell to friends and fellow workers.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9658cc60-1c65-4d1d-94c5-066651c391ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.878+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.420+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.878+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Outside, dozens of others were lined up continuing to clap and cheer
+    section8:
+      primarytype: 'block'
+      uuid: '9658cc60-1c65-4d1d-94c5-066651c391ce'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.878+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.420+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.878+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Outside, dozens of others were lined up continuing to clap and cheer
         for them with some holding banners that read, “Thank you America’s diplomats.”
         Democratic Senator Chris Van Hollen attended the demonstration.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc594ed4-155d-453f-931a-db51e709a025'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.879+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.421+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.879+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Several offices were set up inside the building for employees who are
+    section9:
+      primarytype: 'block'
+      uuid: 'dc594ed4-155d-453f-931a-db51e709a025'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.879+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.421+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.879+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Several offices were set up inside the building for employees who are
         being laid off to turn in their badges, laptops, telephones and other property
         owned by the agency.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e15ce7fb-b0d0-4be2-8ebd-10772115de74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.879+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.422+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.879+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The offices were marked by posters that read "Transition Day Out Processing".
+    section10:
+      primarytype: 'block'
+      uuid: 'e15ce7fb-b0d0-4be2-8ebd-10772115de74'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.879+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.422+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.879+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The offices were marked by posters that read "Transition Day Out Processing".
         One counter was labeled an "Outprocessing service center" with small bottles
         of water placed next to a box of tissue. Inside one office, cardboard boxes
         were visible.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd443a2db-02c1-4a82-9a2c-3d878f14ade1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.880+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.423+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.880+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A five-page "separation checklist" that was sent to workers who were
+    section11:
+      primarytype: 'block'
+      uuid: 'd443a2db-02c1-4a82-9a2c-3d878f14ade1'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.880+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.423+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.880+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A five-page "separation checklist" that was sent to workers who were
         fired on Friday and seen by Reuters tells the employees that they would lose
         access to the building and their emails at 5 p.m. EDT on Friday.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '825bf679-25c6-4ca6-b15b-6353610bd41a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.880+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.424+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.880+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Many members of a State Department office overseeing the U.S. resettlement
+    section12:
+      primarytype: 'block'
+      uuid: '825bf679-25c6-4ca6-b15b-6353610bd41a'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.880+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.424+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.880+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Many members of a State Department office overseeing the U.S. resettlement
         of Afghans who worked for the U.S. government during the 20-year war have
         also been terminated as part of the overhaul.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8dcc69bd-fa2f-4c0e-9132-8f6e820690df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.881+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.426+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.881+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>''Wrong signal''</strong></h2>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6625d3c-d520-41ea-9358-06bba96d4a43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.881+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.427+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.881+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump in February ordered Secretary of State Marco Rubio to revamp
+    section13:
+      primarytype: 'block'
+      uuid: '8dcc69bd-fa2f-4c0e-9132-8f6e820690df'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.881+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.426+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.881+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>'Wrong signal'</strong></h2>'
+    section14:
+      primarytype: 'block'
+      uuid: 'c6625d3c-d520-41ea-9358-06bba96d4a43'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.881+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.427+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.881+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump in February ordered Secretary of State Marco Rubio to revamp
         the foreign service to ensure that the Republican president’s foreign policy
         is "faithfully" implemented. He has also repeatedly pledged to "clean out
         the deep state" by firing bureaucrats that he deems disloyal.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '749bcbb5-455b-477e-99c1-f8e9a7ddebd0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.882+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.882+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The shake-up is part of an unprecedented push by Trump to shrink the
+    section15:
+      primarytype: 'block'
+      uuid: '749bcbb5-455b-477e-99c1-f8e9a7ddebd0'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.882+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.882+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The shake-up is part of an unprecedented push by Trump to shrink the
         federal bureaucracy and cut what he says is wasteful spending of taxpayer
         money. His administration dismantled the U.S. Agency for International Aid,
         Washington’s premier aid arm that distributed billions of dollars of assistance
         worldwide, and folded it under the State Department.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92f99996-1304-4b4a-aafb-e25fbdde3086'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.882+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.882+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rubio announced the plans for the State Department shake-up in April,
+    section16:
+      primarytype: 'block'
+      uuid: '92f99996-1304-4b4a-aafb-e25fbdde3086'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.882+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.882+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Rubio announced the plans for the State Department shake-up in April,
         saying the Department in its current form was "bloated, bureaucratic" and
         was not able to perform its mission "in this new era of great power competition."'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b254b7b9-807c-4980-a228-4d6ba0e461ba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.883+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.430+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.883+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He envisioned a structure that he said would give back the power to
+    section17:
+      primarytype: 'block'
+      uuid: 'b254b7b9-807c-4980-a228-4d6ba0e461ba'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.883+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.430+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.883+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He envisioned a structure that he said would give back the power to
         regional bureaus and embassies and get rid of programs and offices that do
         not align with America’s core interests.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb234c32-ac4e-4e5a-863a-5cf5d5aadd28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.883+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.431+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.883+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'That vision would see the elimination of the role of top official for
+    section18:
+      primarytype: 'block'
+      uuid: 'eb234c32-ac4e-4e5a-863a-5cf5d5aadd28'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.883+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.431+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.883+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'That vision would see the elimination of the role of top official for
         civilian security, democracy, and human rights and the closure of some offices
         that monitored war crimes and conflicts around the world.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a5aaf3e-e320-4ecc-87bf-a1aa0672663e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.884+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.432+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.884+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The reorganization had been expected to be largely concluded by July
+    section19:
+      primarytype: 'block'
+      uuid: '7a5aaf3e-e320-4ecc-87bf-a1aa0672663e'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.884+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.432+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.884+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The reorganization had been expected to be largely concluded by July
         1 but did not proceed as planned amid ongoing litigation, as the State Department
         waited for the U.S. Supreme Court to weigh in on the Trump administration’s
         bid to halt a judicial order blocking mass job cuts.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ab85485-88b3-4956-bc67-568ac43592bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.884+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.433+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.884+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Tuesday, the court cleared the way for the Trump administration
+    section20:
+      primarytype: 'block'
+      uuid: '4ab85485-88b3-4956-bc67-568ac43592bb'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.884+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.433+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.884+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Tuesday, the court cleared the way for the Trump administration
         to pursue the job cuts and the sweeping downsizing of numerous agencies. Since
         then, The White House Counsel’s Office and the Office of Personnel Management
         have been coordinating with federal agencies to ensure their plans comply
         with the law.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2ec79b6-eb8a-49df-b2ee-568d58f4dc89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T10:35:13.885+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T10:35:14.434+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T10:35:13.885+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Humeyra Pamuk; Editing by Chizu Nomiyama and Alistair
+    section21:
+      primarytype: 'block'
+      uuid: 'e2ec79b6-eb8a-49df-b2ee-568d58f4dc89'
+      activationstatus: true
+      created: 2025-07-12T10:35:13.885+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T10:35:14.434+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T10:35:13.885+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Humeyra Pamuk; Editing by Chizu Nomiyama and Alistair
         Bell)</em></p>'
-  'ph-govt-on-9th-anniversary-arbitral-win':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T12:26:39.000+08:00
-    'imagesource': 'jcr:2f3731ff-8402-4a77-ace3-d6456029e5d3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '885c9f98-392e-42b3-99d2-d8d72a0a433f'
-    'lead': 'The Philippine government renewed its commitment to protect the West
+  'START HERE----->ph-govt-on-9th-anniversary-arbitral-win':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T12:26:39.000+08:00
+    imagesource: '2f3731ff-8402-4a77-ace3-d6456029e5d3'
+    primarytype: 'composition'
+    uuid: '885c9f98-392e-42b3-99d2-d8d72a0a433f'
+    lead: 'The Philippine government renewed its commitment to protect the West
       Philippine Sea, as the country marked the ninth anniversary of the landmark
       2016 South China Sea arbitral ruling.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T12:28:34.699+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T12:28:35.043+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T12:28:34.743+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Gibo-Teodoro', 'Romeo-Brawner-Jr', 'West-Philippine-Sea', 'DFA']
-    'stories': []
-    'template': '1'
-    'title': '‘No compromise’: Gov’t vows commitment to protect WPS on 9th anniversary
+    activationstatus: true
+    created: 2025-07-12T12:28:34.699+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T12:28:35.043+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T12:28:34.743+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘No compromise’: Gov’t vows commitment to protect WPS on 9th anniversary
       of arbitral ruling'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '40cb8331-90bb-4928-93a3-df873baea92b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.731+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.044+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.739+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Philippine government
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '40cb8331-90bb-4928-93a3-df873baea92b'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.731+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.044+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.739+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Philippine government
         renewed its commitment to protect the West Philippine Sea, as the country
         marked the ninth anniversary of the landmark 2016 South China Sea arbitral
         ruling.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dece7a85-d36f-4aa1-9274-ff635bf6c3d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.732+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.045+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.732+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement on Saturday, July 12, AFP Chief Gen. Romeo Brawner said
+    section1:
+      primarytype: 'block'
+      uuid: 'dece7a85-d36f-4aa1-9274-ff635bf6c3d3'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.732+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.045+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.732+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a statement on Saturday, July 12, AFP Chief Gen. Romeo Brawner said
         safeguarding the country’s territorial waters symbolizes protection of “ our
         pride, our rights, and our children’s future.”'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8bf17eb9-01d9-4fb6-9027-b2fb9e71e0bc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.732+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.047+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.732+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“We do this quietly, steadily, and without fanfare because we believe
+    section2:
+      primarytype: 'block'
+      uuid: '8bf17eb9-01d9-4fb6-9027-b2fb9e71e0bc'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.732+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.047+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.732+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“We do this quietly, steadily, and without fanfare because we believe
         in service that speaks for itself. We do this because when it comes to our
         sovereignty, there is no compromise,” he said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2e434ed-d524-4a67-a459-3520f85c91b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.733+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.048+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.733+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“This mission is not just ours. It is shared with every Filipino. And
+    section3:
+      primarytype: 'block'
+      uuid: 'b2e434ed-d524-4a67-a459-3520f85c91b4'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.733+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.048+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.733+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“This mission is not just ours. It is shared with every Filipino. And
         we draw strength from your trust and support. Because when the Filipino people
         are united, we are unstoppable,” Brawner added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2afc5b0-e35d-495b-9efd-f082c68a28d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.733+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.049+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.733+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Defense Secretary Gibo Teodoro also honored the landmark ruling, describing
+    section4:
+      primarytype: 'block'
+      uuid: 'f2afc5b0-e35d-495b-9efd-f082c68a28d8'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.733+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.049+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.733+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Defense Secretary Gibo Teodoro also honored the landmark ruling, describing
         it as a reminder that the rule of law matters.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b37a01d8-1d5c-4e9c-9977-deaa3ec83e05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.733+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.050+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.733+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said defending the country’s sovereignty and jurisdiction is not
+    section5:
+      primarytype: 'block'
+      uuid: 'b37a01d8-1d5c-4e9c-9977-deaa3ec83e05'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.733+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.050+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.733+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said defending the country’s sovereignty and jurisdiction is not
         an act of provocation.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16697140-4287-48a6-8bbe-e9dabae67421'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.734+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.051+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.734+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“We continue to uphold the award because it reflects what is right
+    section6:
+      primarytype: 'block'
+      uuid: '16697140-4287-48a6-8bbe-e9dabae67421'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.734+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.051+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.734+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“We continue to uphold the award because it reflects what is right
         and just – not just for us, but for all coastal states whose rights must be
         respected under international law. No amount of pressure, reinterpretation,
         or power plays can erase that truth,” Teodoro said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52ce5a3c-9f59-4930-8bbe-bea71cd6f603'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.734+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.053+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.734+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement, the Department of Foreign Affairs said the historic
+    section7:
+      primarytype: 'block'
+      uuid: '52ce5a3c-9f59-4930-8bbe-bea71cd6f603'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.734+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.053+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.734+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a statement, the Department of Foreign Affairs said the historic
         ruling symbolizes “that the rule of law can be the great equalizer between
         and among nations, and serve as the bedrock of peace and stability for the
         international community.”'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0b89519-8b1b-4494-a633-d35226f65cb8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T12:28:34.735+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T12:28:35.054+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T12:28:34.735+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The DFA earlier said 27 countries are backing the Philippines’ arbitral
+    section8:
+      primarytype: 'block'
+      uuid: 'e0b89519-8b1b-4494-a633-d35226f65cb8'
+      activationstatus: true
+      created: 2025-07-12T12:28:34.735+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T12:28:35.054+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T12:28:34.735+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The DFA earlier said 27 countries are backing the Philippines’ arbitral
         win. These are Australia, Canada, Denmark, France, Germany, India, Ireland,
         Japan, Lithuania, Netherlands, New Zealand , Norway, Portugal, United States,
         United Kingdom, Austria, Belgium, Czechia, Finland, Greece, Italy, Poland,
         Romania, Slovakia, Spain, Sweden, and the Republic of Korea.'
-  'rubio-no-drama-us-japan-':
-    'author': 'Reuters'
-    'caption': 'U.S. Secretary of State Marco Rubio (File photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T15:33:06.000+08:00
-    'imagesource': 'jcr:d0bd7c34-d102-4304-82eb-cd08ace6eef1'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '001d2b1f-0da1-4881-91ad-d4fc8897bf4e'
-    'lead': 'U.S. Secretary of State Marco Rubio on Friday played down concerns about
+  'START HERE----->rubio-no-drama-us-japan-':
+    author: 'Reuters'
+    caption: 'U.S. Secretary of State Marco Rubio (File photo/Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T15:33:06.000+08:00
+    imagesource: 'd0bd7c34-d102-4304-82eb-cd08ace6eef1'
+    primarytype: 'composition'
+    uuid: '001d2b1f-0da1-4881-91ad-d4fc8897bf4e'
+    lead: 'U.S. Secretary of State Marco Rubio on Friday played down concerns about
       relations with key U.S. ally Japan, saying there is no "drama or division,"
       despite the Japanese prime minister speaking of the need for Tokyo to wean itself
       off U.S. dependence.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T15:35:04.116+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T15:35:04.615+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T15:35:04.156+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Japan', 'marco-rubio']
-    'stories': []
-    'template': '1'
-    'title': 'Rubio says no ''drama or division'' in US relations with Japan'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9712636f-4996-4e09-b746-7c68e1c698bd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.140+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.616+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.151+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> U.S. Secretary of State Marco Rubio
+    activationstatus: true
+    created: 2025-07-12T15:35:04.116+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T15:35:04.615+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T15:35:04.156+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Rubio says no 'drama or division' in US relations with Japan'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9712636f-4996-4e09-b746-7c68e1c698bd'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.140+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.616+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.151+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> U.S. Secretary of State Marco Rubio
         on Friday played down concerns about relations with key U.S. ally Japan, saying
         there is no "drama or division," despite the Japanese prime minister speaking
         of the need for Tokyo to wean itself off U.S. dependence.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be50a784-935d-40d8-ad02-431aaeb9ccce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.140+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.617+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.140+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In remarks to reporters, Rubio also disputed reports of U.S. pressure
+    section1:
+      primarytype: 'block'
+      uuid: 'be50a784-935d-40d8-ad02-431aaeb9ccce'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.140+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.617+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.140+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In remarks to reporters, Rubio also disputed reports of U.S. pressure
         on Japan to significantly increase its defense spending, saying that while
         Washington was "encouraging" Tokyo to invest in certain capabilities, this
         did not amount to a "demand."'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b583dcb-9976-43dd-9ef6-661cae550028'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.140+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.618+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.140+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s less to do with the amount of money and more to do about certain
+    section2:
+      primarytype: 'block'
+      uuid: '5b583dcb-9976-43dd-9ef6-661cae550028'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.140+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.618+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.140+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"It’s less to do with the amount of money and more to do about certain
         things they can do," he said after attending a regional meeting in Malaysia.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5624aa06-7d07-48de-9c4b-067fec4fee21'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.141+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.620+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.141+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Japanese media reported last month that the Trump administration was
+    section3:
+      primarytype: 'block'
+      uuid: '5624aa06-7d07-48de-9c4b-067fec4fee21'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.141+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.620+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.141+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Japanese media reported last month that the Trump administration was
         demanding that Japan and other Asian allies boost defense spending to 5% of
         GDP in line with demands on NATO members.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '401f7647-245e-400f-863b-41a3d0c4addf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.141+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.621+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.141+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A Financial Times report last month said Japan canceled an annual defense
+    section4:
+      primarytype: 'block'
+      uuid: '401f7647-245e-400f-863b-41a3d0c4addf'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.141+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.621+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.141+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A Financial Times report last month said Japan canceled an annual defense
         and foreign ministers meeting with the U.S. after it called on Tokyo to boost
         defense spending beyond what it requested earlier.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b9682ac9-2af0-47a6-8eea-4bdd7fcfadcd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.142+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.622+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.142+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Donald Trump further upset Japan this week by announcing
+    section5:
+      primarytype: 'block'
+      uuid: 'b9682ac9-2af0-47a6-8eea-4bdd7fcfadcd'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.142+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.622+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.142+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'President Donald Trump further upset Japan this week by announcing
         a 25% tariff on Japanese imports starting August 1 as part of his global tariff
         strategy.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7292d248-1a8c-4f8d-973d-430d8989598a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.142+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.142+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Thursday, Japanese Prime Minister Shigeru Ishiba said Japan needed
+    section6:
+      primarytype: 'block'
+      uuid: '7292d248-1a8c-4f8d-973d-430d8989598a'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.142+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.142+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Thursday, Japanese Prime Minister Shigeru Ishiba said Japan needed
         to wean itself from U.S. dependence in security, food, and energy.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba97fe80-57a8-40ba-ac95-caff8d541b66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.142+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.142+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Asked about Ishiba’s remarks, Rubio said the United States has "a
+    section7:
+      primarytype: 'block'
+      uuid: 'ba97fe80-57a8-40ba-ac95-caff8d541b66'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.142+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.142+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Asked about Ishiba’s remarks, Rubio said the United States has "a
         very strong and very good relationship with Japan, and that’s not going to
         change."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc81a611-cf1c-4cb4-98e1-01ebc64ef955'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.143+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.625+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.143+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Anyone who’s looking for, like, drama or division there ... shouldn''t
+    section8:
+      primarytype: 'block'
+      uuid: 'fc81a611-cf1c-4cb4-98e1-01ebc64ef955'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.143+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.625+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.143+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Anyone who’s looking for, like, drama or division there ... shouldn't
         be doing it because the truth of the matter is our relationship with Japan
         is very solid."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e355c00-e9c0-4a09-bcc4-f71da09c05d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.143+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.626+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.143+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said Ishiba’s comment should not be viewed negatively.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '61e3633d-f357-4d64-9a4b-bdac87ebe46a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.144+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.627+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.144+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The idea that Japan’s military would become more capable is not something
+    section9:
+      primarytype: 'block'
+      uuid: '4e355c00-e9c0-4a09-bcc4-f71da09c05d9'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.143+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.626+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.143+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said Ishiba’s comment should not be viewed negatively.'
+    section10:
+      primarytype: 'block'
+      uuid: '61e3633d-f357-4d64-9a4b-bdac87ebe46a'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.144+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.627+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.144+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The idea that Japan’s military would become more capable is not something
         we would be offended by; it’s something we would actually be encouraged by,"
         he said.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd6e77413-b69d-4351-9fe1-f33a271a42ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.144+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.628+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.144+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Christopher Johnstone, a former Biden White House official now with
+    section11:
+      primarytype: 'block'
+      uuid: 'd6e77413-b69d-4351-9fe1-f33a271a42ca'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.144+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.628+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.144+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Christopher Johnstone, a former Biden White House official now with
         the Asia Group consultancy, said trade frictions, pressure on defense spending,
         and uncertainty about U.S. defense commitments meant U.S.-Japan tensions were
         probably at their worst in a generation, but reducing Tokyo’s reliance on
         the U.S. was easier said than done.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa24a202-1a35-412d-9de2-9756cef07411'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.145+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.629+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.145+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"If the two countries reach a trade agreement by August 1, it could
+    section12:
+      primarytype: 'block'
+      uuid: 'fa24a202-1a35-412d-9de2-9756cef07411'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.145+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.629+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.145+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"If the two countries reach a trade agreement by August 1, it could
         fade," he said. "But Ishiba’s comments reflect sentiment that is real and
         widespread."'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8877e0b-c280-49d4-a796-8df9f14c5b16'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T15:35:04.145+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T15:35:04.630+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T15:35:04.145+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by David Brunnstrom and Daphne Psaledakis; Editing
+    section13:
+      primarytype: 'block'
+      uuid: 'f8877e0b-c280-49d4-a796-8df9f14c5b16'
+      activationstatus: true
+      created: 2025-07-12T15:35:04.145+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T15:35:04.630+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T15:35:04.145+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by David Brunnstrom and Daphne Psaledakis; Editing
         by Rod Nickel)</em></p>'
-  'lto-suspends-license-of-cherry-white':
-    'caption': 'A content creator was seen in a casual and lounging posture while
+  'START HERE----->lto-suspends-license-of-cherry-white':
+    caption: 'A content creator was seen in a casual and lounging posture while
       driving her car.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T16:37:36.000+08:00
-    'imagesource': 'jcr:c164ae4c-763a-4fc6-acec-3d6bcbfdbcc2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e3cca684-48c5-40dc-ad55-9584000f9eca'
-    'lead': 'The Land Transportation Office (LTO) suspended the driver’s license of
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T16:37:36.000+08:00
+    imagesource: 'c164ae4c-763a-4fc6-acec-3d6bcbfdbcc2'
+    primarytype: 'composition'
+    uuid: 'e3cca684-48c5-40dc-ad55-9584000f9eca'
+    lead: 'The Land Transportation Office (LTO) suspended the driver’s license of
       a content creator popularly known as “Cherry White” over irresponsible driving.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T16:40:39.139+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T16:40:39.585+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T16:40:39.189+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['LTO', 'Vince-Dizon']
-    'stories': []
-    'template': '1'
-    'title': 'LTO suspends license of popular content creator over ‘reckless’ driving'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '895cecd4-1646-41bf-b71b-f7253af06fa6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.179+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.586+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.185+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
+    activationstatus: true
+    created: 2025-07-12T16:40:39.139+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T16:40:39.585+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T16:40:39.189+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LTO suspends license of popular content creator over ‘reckless’ driving'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '895cecd4-1646-41bf-b71b-f7253af06fa6'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.179+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.586+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.185+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
         Office (LTO) suspended the driver’s license of a content creator popularly
         known as “Cherry White” over irresponsible driving.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5f601d3-eb6b-4d90-9c72-7049b0c2e651'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.180+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.587+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.180+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a video, White was seen seated in a casual and lounging posture
+    section1:
+      primarytype: 'block'
+      uuid: 'a5f601d3-eb6b-4d90-9c72-7049b0c2e651'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.180+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.587+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.180+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a video, White was seen seated in a casual and lounging posture
         with her leg raised onto the driver’s seat.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e994b0d-5948-4f7e-a7f9-096d9adef53b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.180+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.589+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.180+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The LTO said the temporary suspension of her license is for a period
+    section2:
+      primarytype: 'block'
+      uuid: '9e994b0d-5948-4f7e-a7f9-096d9adef53b'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.180+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.589+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.180+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The LTO said the temporary suspension of her license is for a period
         of 90 days.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb8fbf97-65fb-4ab2-9609-b0eeed6480df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.180+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.590+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.180+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The information we received was that this personality has a strong
+    section3:
+      primarytype: 'block'
+      uuid: 'eb8fbf97-65fb-4ab2-9609-b0eeed6480df'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.180+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.590+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.180+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The information we received was that this personality has a strong
         following on social media and the video showing her unsafe driving practice
         is dangerous since it could be misinterpreted that it is okay to do that,”
         acting LTO Chief Greg Pua said in a press release.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e7f2d995-83b5-4e98-a58e-2bd69bdbe331'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.181+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.591+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.181+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'White was also issued a show cause order to explain why “she should
+    section4:
+      primarytype: 'block'
+      uuid: 'e7f2d995-83b5-4e98-a58e-2bd69bdbe331'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.181+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.591+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.181+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'White was also issued a show cause order to explain why “she should
         not be held liable for being an improper person to operate a motor vehicle.”'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72c454e1-45f1-4f61-868e-987cc2eca5b7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.181+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.592+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.181+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Transportation Secretary Vince Dizon reiterated that the government
+    section5:
+      primarytype: 'block'
+      uuid: '72c454e1-45f1-4f61-868e-987cc2eca5b7'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.181+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.592+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.181+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Transportation Secretary Vince Dizon reiterated that the government
         will not let irresponsible drivers on the road, who can endanger the safety
         of other people.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '04a85ea5-5eb2-4043-88d9-6f8a2055bed3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.181+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.594+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.181+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Paulit-ulit na utos ng Pangulo na dapat ay ligtas ang kalsada para
+    section6:
+      primarytype: 'block'
+      uuid: '04a85ea5-5eb2-4043-88d9-6f8a2055bed3'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.181+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.594+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.181+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Paulit-ulit na utos ng Pangulo na dapat ay ligtas ang kalsada para
         sa lahat. Hindi natin tino-tolerate ang iresponsable at reckless na pagmamaneho,”
         he said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3ec9422-46a0-439b-90e0-82c62a274b88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T16:40:39.182+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T16:40:39.595+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T16:40:39.182+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: The President has repeatedly ordered that roads must
+    section7:
+      primarytype: 'block'
+      uuid: 'c3ec9422-46a0-439b-90e0-82c62a274b88'
+      activationstatus: true
+      created: 2025-07-12T16:40:39.182+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T16:40:39.595+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T16:40:39.182+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>[Translation: The President has repeatedly ordered that roads must
         be safe for everyone. We do not tolerate irresponsible and reckless driving.]</p>'
-  'chinese-vessels-off-mindoro-coast-july-12':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T17:30:48.000+08:00
-    'imagesource': 'jcr:9f820fc1-d837-4ecf-abbc-ab056e7364aa'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e1ada6be-0cd0-45dc-adbf-8921bd896e6a'
-    'lead': 'The Philippine Coast Guard (PCG) issued radio challenges to Chinese vessels
+  'START HERE----->chinese-vessels-off-mindoro-coast-july-12':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T17:30:48.000+08:00
+    imagesource: '9f820fc1-d837-4ecf-abbc-ab056e7364aa'
+    primarytype: 'composition'
+    uuid: 'e1ada6be-0cd0-45dc-adbf-8921bd896e6a'
+    lead: 'The Philippine Coast Guard (PCG) issued radio challenges to Chinese vessels
       spotted off the Mindoro coast on Saturday, July 12 - coinciding with the ninth
       anniversary of the 2016 arbitral ruling on the South China Sea.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T17:33:15.924+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T17:33:16.197+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T17:33:15.963+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['PCG']
-    'stories': []
-    'template': '1'
-    'title': 'On 9th anniversary of PH arbitral win, Chinese vessels spotted off PH
+    activationstatus: true
+    created: 2025-07-12T17:33:15.924+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T17:33:16.197+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T17:33:15.963+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'On 9th anniversary of PH arbitral win, Chinese vessels spotted off PH
       waters '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2357c56-09fb-4f16-9669-1f93b070cac2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.952+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.198+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.959+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Philippine Coast
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd2357c56-09fb-4f16-9669-1f93b070cac2'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.952+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.198+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.959+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Philippine Coast
         Guard (PCG) issued radio challenges to Chinese vessels spotted off the Mindoro
         coast on Saturday, July 12 - coinciding with the ninth anniversary of the
         2016 arbitral ruling on the South China Sea.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c519432e-a193-44f5-a789-488ad27aba8b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.953+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.199+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.953+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a press statement, the Coast Guard said it monitored People’s Liberation
+    section1:
+      primarytype: 'block'
+      uuid: 'c519432e-a193-44f5-a789-488ad27aba8b'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.953+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.199+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.953+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a press statement, the Coast Guard said it monitored People’s Liberation
         Army navy warships and a Chinese Coast Guard Vessel (CCG), about 69.31 nautical
         miles off Cabra Island, Occidental Mindoro.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72160d0f-b0d1-4944-85f3-562c26bcca90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.953+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.200+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.953+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The PCG said it established radio communication with the PLA Navy warship
+    section2:
+      primarytype: 'block'
+      uuid: '72160d0f-b0d1-4944-85f3-562c26bcca90'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.953+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.200+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.953+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The PCG said it established radio communication with the PLA Navy warship
         793 but it didn’t respond. Its escort vessel, CCG 4023 replied and asserted
         its jurisdiction over these waters.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '418f24a1-3586-4fbc-b829-b143426ff9c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.954+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.202+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.954+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Another PLA warship 164 later joined other Chinese vessels.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6641612-1172-470c-9360-726bf7e91681'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.954+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.203+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.954+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Additionally, it has been observed that PLA Navy warship 164 is conducting
+    section3:
+      primarytype: 'block'
+      uuid: '418f24a1-3586-4fbc-b829-b143426ff9c2'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.954+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.202+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.954+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Another PLA warship 164 later joined other Chinese vessels.'
+    section4:
+      primarytype: 'block'
+      uuid: 'b6641612-1172-470c-9360-726bf7e91681'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.954+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.203+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.954+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Additionally, it has been observed that PLA Navy warship 164 is conducting
         helicopter landing exercises on its flight deck, with continuous activity
         recorded throughout the morning,” the PCG noted.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f51d1b5-174f-411f-939f-710e9e18fb44'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.954+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.204+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.954+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The agency urged Beijing to “answer the radio communications from the
+    section5:
+      primarytype: 'block'
+      uuid: '7f51d1b5-174f-411f-939f-710e9e18fb44'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.954+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.204+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.954+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The agency urged Beijing to “answer the radio communications from the
         PCG, and desist from the conduct of unauthorized patrols or law enforcement-related
         activities in the Philippine exclusive economic zone.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a95d679f-80fb-4567-a21f-30550101aa9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.955+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.205+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.955+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday, government agencies renewed its commitment to <strong><a
+    section6:
+      primarytype: 'block'
+      uuid: 'a95d679f-80fb-4567-a21f-30550101aa9b'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.955+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.205+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.955+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>On Saturday, government agencies renewed its commitment to <strong><a
         href="https://www.newswatchplus.ph/news/2025/7/12/ph-govt-on-9th-anniversary-arbitral-win.html">uphold
         international law</a></strong>, with Defense chief Gilbert Teodoro saying
         that “no amount of pressure, reinterpretation, or power plays can erase the
         truth” behind the landmark ruling.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d388092-7acd-440d-a71d-e16c28a1a3fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:33:15.955+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:33:16.206+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:33:15.955+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>At least 27 countries have backed Manila in its historical arbitral
+    section7:
+      primarytype: 'block'
+      uuid: '5d388092-7acd-440d-a71d-e16c28a1a3fb'
+      activationstatus: true
+      created: 2025-07-12T17:33:15.955+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:33:16.206+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:33:15.955+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>At least 27 countries have backed Manila in its historical arbitral
         win.</p>'
-  'russia-north-korea-foreign-ministers-meeting':
-    'author': 'Reuters'
-    'caption': 'Russian Foreign Minister Sergei Lavrov and North Korean Foreign Minister
+  'START HERE----->russia-north-korea-foreign-ministers-meeting':
+    author: 'Reuters'
+    caption: 'Russian Foreign Minister Sergei Lavrov and North Korean Foreign Minister
       Choe Son Hui attend a signing ceremony in Wonsan, North Korea July 12, 2025.
       (Russian Foreign Ministry/Handout via Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T17:48:52.000+08:00
-    'imagesource': 'jcr:74a55eb7-0a9c-40f4-8f2d-c1dfa6cd75a3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'dd392926-217f-4693-a804-f4d63ee51eed'
-    'lead': 'Russian Foreign Minister Sergei Lavrov met with his North Korean counterpart
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T17:48:52.000+08:00
+    imagesource: '74a55eb7-0a9c-40f4-8f2d-c1dfa6cd75a3'
+    primarytype: 'composition'
+    uuid: 'dd392926-217f-4693-a804-f4d63ee51eed'
+    lead: 'Russian Foreign Minister Sergei Lavrov met with his North Korean counterpart
       in the coastal city of Wonsan on Saturday, during which Pyongyang reaffirmed
       its support for Russia’s military actions in Ukraine, the TASS state news agency
       reported.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T17:58:54.470+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T17:58:54.774+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T17:58:54.503+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['North-Korea', 'Russia']
-    'stories': []
-    'template': '1'
-    'title': 'Russia, North Korea foreign ministers meet, Pyongyang backs Ukraine
+    activationstatus: true
+    created: 2025-07-12T17:58:54.470+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T17:58:54.774+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T17:58:54.503+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Russia, North Korea foreign ministers meet, Pyongyang backs Ukraine
       war'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f6d1f420-a559-4981-92de-21a5ae033d25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.489+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.775+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.498+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Seoul, South Korea -</strong> Russian Foreign Minister Sergei
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f6d1f420-a559-4981-92de-21a5ae033d25'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.489+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.775+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.498+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Seoul, South Korea -</strong> Russian Foreign Minister Sergei
         Lavrov met with his North Korean counterpart in the coastal city of Wonsan
         on Saturday, during which Pyongyang reaffirmed its support for Russia’s military
         actions in Ukraine, the TASS state news agency reported.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4c28870-2632-4a73-bb8e-1f64db7d75cd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.490+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.490+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lavrov flew out of Malaysian capital Kuala Lumpur on Friday following
-        the ASEAN foreign ministers'' meeting, arriving the same day in Wonsan, North
+    section1:
+      primarytype: 'block'
+      uuid: 'a4c28870-2632-4a73-bb8e-1f64db7d75cd'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.490+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.490+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lavrov flew out of Malaysian capital Kuala Lumpur on Friday following
+        the ASEAN foreign ministers' meeting, arriving the same day in Wonsan, North
         Korea, home to a newly opened seaside resort but also known for its missile
         and naval facilities.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cba104e4-a65b-43be-91b6-f0f80edd234b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.490+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.777+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.490+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lavrov’s visit is the latest high-level meeting between the two countries
+    section2:
+      primarytype: 'block'
+      uuid: 'cba104e4-a65b-43be-91b6-f0f80edd234b'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.490+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.777+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.490+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Lavrov’s visit is the latest high-level meeting between the two countries
         as they upgrade their strategic cooperation to now include a mutual defence
         pact.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '187db774-e59f-4f0f-84cd-274da23bb18f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.491+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.779+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.491+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We exchanged views on the situation surrounding the Ukrainian crisis
+    section3:
+      primarytype: 'block'
+      uuid: '187db774-e59f-4f0f-84cd-274da23bb18f'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.491+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.779+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.491+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We exchanged views on the situation surrounding the Ukrainian crisis
         ... Our Korean friends confirmed their firm support for all the objectives
         of the special military operation, as well as for the actions of the Russian
         leadership and armed forces," TASS quoted Lavrov as saying.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1dd251f8-99e8-41cd-b4f6-d5db03b5fd17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.491+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.780+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.491+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The South Korean intelligence service has said North Korea may be preparing
+    section4:
+      primarytype: 'block'
+      uuid: '1dd251f8-99e8-41cd-b4f6-d5db03b5fd17'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.491+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.780+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.491+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The South Korean intelligence service has said North Korea may be preparing
         to deploy additional troops in July or August, after sending more than 10,000
         soldiers to fight with Russia in the war against Ukraine.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ea7be9e-3251-4e98-a835-3289ac1857e9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.491+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.781+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.491+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Korea has agreed to dispatch 6,000 military engineers and builders
+    section5:
+      primarytype: 'block'
+      uuid: '8ea7be9e-3251-4e98-a835-3289ac1857e9'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.491+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.781+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.491+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'North Korea has agreed to dispatch 6,000 military engineers and builders
         for reconstruction in Russia’s Kursk region, where Ukrainian forces launched
         a mass cross-border incursion nearly a year ago.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f55256be-8581-40d1-ba26-538ba6dce3bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.492+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.782+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.492+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Russian news agencies also reported Lavrov’s arrival and said after
+    section6:
+      primarytype: 'block'
+      uuid: 'f55256be-8581-40d1-ba26-538ba6dce3bf'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.492+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.782+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.492+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Russian news agencies also reported Lavrov’s arrival and said after
         North Korea he is expected to travel to China to attend the Shanghai Cooperation
         Organisation meeting, which is set to take place on Monday and Tuesday.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75b70cfb-1d07-464a-8c95-c28fc115b961'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.492+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.783+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.492+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TASS said the new Wonsan coastal resort could boost Russian tourism
+    section7:
+      primarytype: 'block'
+      uuid: '75b70cfb-1d07-464a-8c95-c28fc115b961'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.492+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.783+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.492+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TASS said the new Wonsan coastal resort could boost Russian tourism
         to North Korea, citing the resumption of direct trains from Moscow to Pyongyang
         and a project to build a bridge across the Tumen River forming part of the
         boundary between North Korea, China and Russia.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '893e87a9-2152-4a0b-acec-36e4514260c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.493+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.785+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.493+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TASS quoted Deputy Russian Foreign Minister Andrei Rudenko as saying
+    section8:
+      primarytype: 'block'
+      uuid: '893e87a9-2152-4a0b-acec-36e4514260c2'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.493+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.785+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.493+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TASS quoted Deputy Russian Foreign Minister Andrei Rudenko as saying
         more high-level delegations would visit North Korea later this year.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8cbea9a-fcec-46b5-957e-d5ca531114d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.493+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.786+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.493+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rudenko said the accord on strategic partnership "clearly meets the
+    section9:
+      primarytype: 'block'
+      uuid: 'f8cbea9a-fcec-46b5-957e-d5ca531114d6'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.493+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.786+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.493+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Rudenko said the accord on strategic partnership "clearly meets the
         changing needs over recent decades and strengthens traditionally friendly,
         good-neighbourly Russian-Korean relations to a qualitatively new level as
         allies."'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c56d47c7-893e-4109-ab74-85dbc1058527'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T17:58:54.493+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T17:58:54.787+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T17:58:54.493+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Heekyong Yang and Jack Kim; Additional reporting
+    section10:
+      primarytype: 'block'
+      uuid: 'c56d47c7-893e-4109-ab74-85dbc1058527'
+      activationstatus: true
+      created: 2025-07-12T17:58:54.493+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T17:58:54.787+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T17:58:54.493+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Heekyong Yang and Jack Kim; Additional reporting
         by Ron Popeski; Editing by Rod Nickel, Chris Reese and Tom Hogue)</em></p>'
-  'Trump-interest-in-russia-sanctions-raises-Ukraine-allies--hopes':
-    'author': 'Gram Slattery, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-07-12T18:03:31.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '345531d9-72b4-4dac-bd04-5dca1ad4dce0'
-    'lead': 'A bipartisan U.S. bill that would hit Russia with sanctions in a bid
+  'START HERE----->Trump-interest-in-russia-sanctions-raises-Ukraine-allies--hopes':
+    author: 'Gram Slattery, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-07-12T18:03:31.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: '345531d9-72b4-4dac-bd04-5dca1ad4dce0'
+    lead: 'A bipartisan U.S. bill that would hit Russia with sanctions in a bid
       to pressure Moscow into good-faith peace negotiations with Ukraine has gained
       momentum this week in Congress, but it still lacks the presidential push it
       needs to get over the finish line.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-07-12T18:05:51.170+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-07-12T18:05:51.609+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-07-12T18:05:51.233+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'Russia-Ukraine-war']
-    'stories': []
-    'template': '1'
-    'title': 'Trump interest in Russia sanctions raises Ukraine allies'' hopes - to
+    activationstatus: true
+    created: 2025-07-12T18:05:51.170+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-07-12T18:05:51.609+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-07-12T18:05:51.233+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump interest in Russia sanctions raises Ukraine allies' hopes - to
       a point'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd79a395-44a3-4aef-be4b-1cec2af3c0ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.203+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.610+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.224+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S. -</strong> A bipartisan U.S. bill that
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bd79a395-44a3-4aef-be4b-1cec2af3c0ee'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.203+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.610+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.224+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S. -</strong> A bipartisan U.S. bill that
         would hit Russia with sanctions in a bid to pressure Moscow into good-faith
         peace negotiations with Ukraine has gained momentum this week in Congress,
         but it still lacks the presidential push it needs to get over the finish line.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be36b94f-d101-4463-9e7f-f4d97e8f668e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.203+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.611+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.203+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Now, Ukraine’s supporters in Washington and Kyiv, who have for months
+    section1:
+      primarytype: 'block'
+      uuid: 'be36b94f-d101-4463-9e7f-f4d97e8f668e'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.203+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.611+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.203+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Now, Ukraine’s supporters in Washington and Kyiv, who have for months
         hoped for President Donald Trump to throw his weight behind the bill, are
         anxiously awaiting what the Republican president has said will be a "major
         statement" on Russia on Monday.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecf23692-cc57-4153-85d2-a2e7c7e3aebc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.204+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.612+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.204+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump, who vowed during his election campaign to end Russia’s invasion
+    section2:
+      primarytype: 'block'
+      uuid: 'ecf23692-cc57-4153-85d2-a2e7c7e3aebc'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.204+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.612+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.204+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump, who vowed during his election campaign to end Russia’s invasion
         of Ukraine, has given no details on what his planned announcement would entail,
         but over the past few weeks he has grown increasingly and publiclyfrustrated
         with Russian President Vladimir Putin over his reluctance to accept a ceasefire
         and the growing civilian death toll of Russian attacks.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf0da72e-7bfc-4d9a-9b0b-21177c21fb5f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.204+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.614+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.204+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Tuesday, Trump approved sending U.S. defensive weapons to Ukraine.
+    section3:
+      primarytype: 'block'
+      uuid: 'bf0da72e-7bfc-4d9a-9b0b-21177c21fb5f'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.204+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.614+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.204+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'On Tuesday, Trump approved sending U.S. defensive weapons to Ukraine.
         Two days later, he came closer than ever to endorsing the sanctions bill,
         although he has not yet signed off on the legislation’s text, according to
         a person with knowledge of his thinking.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '998ef182-4062-4b92-8eed-4443b05bc322'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.205+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.615+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.205+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Republican Senate Majority Leader John Thune told reporters earlier
+    section4:
+      primarytype: 'block'
+      uuid: '998ef182-4062-4b92-8eed-4443b05bc322'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.205+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.615+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.205+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Republican Senate Majority Leader John Thune told reporters earlier
         in the week that the Senate could vote on the bill this month.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8cd8541f-6fe0-482e-a31f-7c679d8ca9f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.205+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.616+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.205+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Mike Johnson, the top House Republican, has expressed similar optimism,
+    section5:
+      primarytype: 'block'
+      uuid: '8cd8541f-6fe0-482e-a31f-7c679d8ca9f4'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.205+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.616+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.205+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Mike Johnson, the top House Republican, has expressed similar optimism,
         while Republican Senator Lindsey Graham and Secretary of State Marco Rubio
         have privately told European diplomats that the bill will move imminently,
         according to a source with direct knowledge of the matter.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28065fa6-78bb-4e97-be5d-02f6f2ad9f7c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.205+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.617+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.205+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The Senate will move soon on a tough sanctions bill – not only against
+    section6:
+      primarytype: 'block'
+      uuid: '28065fa6-78bb-4e97-be5d-02f6f2ad9f7c'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.205+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.617+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.205+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The Senate will move soon on a tough sanctions bill – not only against
         Russia – but also against countries like China and India that buy Russian
         energy products that finance Putin’s war machine," Graham wrote on X on Tuesday.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac724116-b2c9-42fe-a3ee-c4673235c644'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.206+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.618+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.206+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Still, it was unclear if Trump had given up on pushing for diplomacy
+    section7:
+      primarytype: 'block'
+      uuid: 'ac724116-b2c9-42fe-a3ee-c4673235c644'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.206+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.618+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.206+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Still, it was unclear if Trump had given up on pushing for diplomacy
         with Russia. And the extensive veto power on sanctions that the White House
         is demanding could render the bill more symbolic than substantive, some supporters
         acknowledge.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19870c35-3dfb-4ba0-b8a8-473e5581f82c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.206+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.619+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.206+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Speaking to reporters in Kuala Lumpur on Friday following his second
+    section8:
+      primarytype: 'block'
+      uuid: '19870c35-3dfb-4ba0-b8a8-473e5581f82c'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.206+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.619+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.206+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Speaking to reporters in Kuala Lumpur on Friday following his second
         in-person meeting with Russian Foreign Sergei Lavrov, Rubio said "a new idea"
         was discussed that he would be taking back to Trump for further consultations.
         He declined to give further details.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91fecf8f-3b97-4434-89e2-4cf9d7226cb2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.207+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.620+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.207+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"That new concept is – this new approach is not something that automatically
+    section9:
+      primarytype: 'block'
+      uuid: '91fecf8f-3b97-4434-89e2-4cf9d7226cb2'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.207+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.620+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.207+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"That new concept is – this new approach is not something that automatically
         leads to peace, but it could potentially open the door to a path," Rubio said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '472c03c8-32f7-4e56-9a56-ae706c9441d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.207+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.622+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.207+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But he also reiterated Trump’s frustration over Moscow’s unwillingness
+    section10:
+      primarytype: 'block'
+      uuid: '472c03c8-32f7-4e56-9a56-ae706c9441d8'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.207+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.622+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.207+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But he also reiterated Trump’s frustration over Moscow’s unwillingness
         to be more flexible and said Americans had told the Russians weeks ago that
         a sanctions bill could well pass.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64a56e58-27de-4bd9-b588-d4ebf3748c43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.208+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.208+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Work ongoing</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eee61d3e-1541-4dda-8ec8-b66aa0933590'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.208+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.208+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bill, whose lead sponsors are Graham and Democratic Senator Richard
+    section11:
+      primarytype: 'block'
+      uuid: '64a56e58-27de-4bd9-b588-d4ebf3748c43'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.208+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.208+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Work ongoing</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: 'eee61d3e-1541-4dda-8ec8-b66aa0933590'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.208+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.208+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The bill, whose lead sponsors are Graham and Democratic Senator Richard
         Blumenthal, would levy extensive sanctions against various Russian individuals,
         government bodies and financial institutions.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ea80410a-c7ed-4e55-8bb9-0d8f1dd7aee1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.209+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.625+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.209+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It would also punish other countries that trade with Moscow, imposing
+    section13:
+      primarytype: 'block'
+      uuid: 'ea80410a-c7ed-4e55-8bb9-0d8f1dd7aee1'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.209+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.625+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.209+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It would also punish other countries that trade with Moscow, imposing
         500% tariffs on nations that buy Russian oil, gas, uranium and other exports.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e796ac5-977c-4a26-9c1e-75cd7509ae32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.209+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.626+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.209+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ukrainian President Volodymyr Zelenskiy has repeatedly urged Ukraine’s
+    section14:
+      primarytype: 'block'
+      uuid: '8e796ac5-977c-4a26-9c1e-75cd7509ae32'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.209+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.626+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.209+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Ukrainian President Volodymyr Zelenskiy has repeatedly urged Ukraine’s
         Western allies to impose tougher sanctions on Moscow to force the Kremlin
         to agree to a ceasefire as a step towards reaching an end to the war, now
         40 months old.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f604e74-4f30-4614-a71d-f04189670e47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.210+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.627+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.210+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Work on the bill has picked up pace over the last week, according to
+    section15:
+      primarytype: 'block'
+      uuid: '7f604e74-4f30-4614-a71d-f04189670e47'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.210+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.627+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.210+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Work on the bill has picked up pace over the last week, according to
         two U.S. officials.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83543aa7-e879-4060-ad11-a0f5604d9444'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.210+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.628+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.210+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'One person familiar with Trump’s thinking said the text still needs
+    section16:
+      primarytype: 'block'
+      uuid: '83543aa7-e879-4060-ad11-a0f5604d9444'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.210+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.628+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.210+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'One person familiar with Trump’s thinking said the text still needs
         work. The current version, that person said, does not give the president enough
         flexibility to carry out his foreign policy agenda independent of Congress.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17050b32-b23f-49cd-ba08-99c90f7dfefa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.211+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.629+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.211+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The White House was working with Congress and the bill’s sponsors
+    section17:
+      primarytype: 'block'
+      uuid: '17050b32-b23f-49cd-ba08-99c90f7dfefa'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.211+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.629+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.211+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The White House was working with Congress and the bill’s sponsors
         to ensure it would be "an enhancement to the president’s foreign policy objectives,"
         that person added.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '146b717d-fc34-4a7e-8e91-57f27f9a1b3a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.211+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.630+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.211+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'One person with knowledge of the drafting process said congressional
+    section18:
+      primarytype: 'block'
+      uuid: '146b717d-fc34-4a7e-8e91-57f27f9a1b3a'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.211+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.630+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.211+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'One person with knowledge of the drafting process said congressional
         staff had been ironing out technical issues in recent days, such as how to
         keep any sanctions from affecting the operations of the U.S. embassy in Moscow.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cfd70d7-83be-4ff8-a7f9-cc550e087ca8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.212+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.631+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.212+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A spokesperson for Graham told Reuters the bill would probably not
+    section19:
+      primarytype: 'block'
+      uuid: '4cfd70d7-83be-4ff8-a7f9-cc550e087ca8'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.212+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.631+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.212+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A spokesperson for Graham told Reuters the bill would probably not
         come to the floor until the week of July 21 at the earliest, due to other
         legislative priorities.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb4b61fe-d8c1-423e-bf70-1accd4500eb9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.212+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.632+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.212+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The House of Representatives, which will need to vote on the measure,
+    section20:
+      primarytype: 'block'
+      uuid: 'bb4b61fe-d8c1-423e-bf70-1accd4500eb9'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.212+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.632+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.212+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The House of Representatives, which will need to vote on the measure,
         leaves for August recess in two weeks, meaning floor time is at a premium.
         That is particularly true if a Trump request to slash $9.4 billion in spending
         on foreign aid and public broadcasting - which passed the House and is currently
         in the Senate - heads back to the House following any changes.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '56f74cd6-3910-4bcd-bbba-2f3073840688'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.213+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.633+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.213+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Some supporters of the bill acknowledge that the legislation is largely
+    section21:
+      primarytype: 'block'
+      uuid: '56f74cd6-3910-4bcd-bbba-2f3073840688'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.213+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.633+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.213+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Some supporters of the bill acknowledge that the legislation is largely
         symbolic, given that Trump would have broad authority to veto the sanctions,
         and in any case could simply issue sanctions from the executive branch if
         he wishes.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98fdc883-e0d8-4927-a9c4-5f10f26b28f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.213+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.635+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.213+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The president already has all these authorities," said one Republican
+    section22:
+      primarytype: 'block'
+      uuid: '98fdc883-e0d8-4927-a9c4-5f10f26b28f7'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.213+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.635+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.213+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The president already has all these authorities," said one Republican
         Senate staffer.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ded22f45-d39d-42b0-8d5c-ba502278fd80'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-07-12T18:05:51.214+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-07-12T18:05:51.636+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-07-12T18:05:51.214+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Gram SlatteryAdditional reporting by Patricia
-        ZengerleEditing by Humeyra Pamuk and Rosalba O''Brien)</em></p>'
+    section23:
+      primarytype: 'block'
+      uuid: 'ded22f45-d39d-42b0-8d5c-ba502278fd80'
+      activationstatus: true
+      created: 2025-07-12T18:05:51.214+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-07-12T18:05:51.636+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-07-12T18:05:51.214+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Gram SlatteryAdditional reporting by Patricia
+        ZengerleEditing by Humeyra Pamuk and Rosalba O'Brien)</em></p>'

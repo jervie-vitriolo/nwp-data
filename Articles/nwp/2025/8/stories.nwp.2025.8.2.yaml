@@ -1,1485 +1,1485 @@
-'2':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '2f66af82-7295-4ffd-9c94-e12fc3bb8d76'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-08-02T09:15:34.667+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-08-02T09:17:08.892+08:00
-  'mgnl:lastActivatedBy': 'lance-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-08-02T09:17:08.763+08:00
-  'mgnl:lastModified': 2025-08-02T15:15:07.320+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'trump-orders-nuclear-submarines-moved':
-    'author': 'Phil Stewart, Jonathan Landay and Ryan Patrick Jones, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T09:15:34.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c12745cc-ca46-4d30-a1a7-98a28296f10e'
-    'lead': 'U.S. President Donald Trump on Friday said he had ordered two nuclear
+section2:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '2f66af82-7295-4ffd-9c94-e12fc3bb8d76'
+  activationstatus: true
+  created: 2025-08-02T09:15:34.667+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-08-02T09:17:08.892+08:00
+  lastactivatedby: 'lance-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-08-02T09:17:08.763+08:00
+  lastmodified: 2025-08-02T15:15:07.320+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->trump-orders-nuclear-submarines-moved':
+    author: 'Phil Stewart, Jonathan Landay and Ryan Patrick Jones, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T09:15:34.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c12745cc-ca46-4d30-a1a7-98a28296f10e'
+    lead: 'U.S. President Donald Trump on Friday said he had ordered two nuclear
       submarines to be positioned in "the appropriate regions" in response to remarks
       from former Russian President Dmitry Medvedev about the risk of war between
       the nuclear-armed adversaries.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T09:17:03.850+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T09:17:15.878+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-08-02T09:17:15.394+08:00
-    'mgnl:lastModified': 2025-08-02T09:17:03.903+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump']
-    'stories': []
-    'template': '1'
-    'title': 'Trump orders nuclear submarines moved after Russian ''provocative statements'''
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81071911-7791-4ef4-95e2-8eb5df174ea0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.871+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.878+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S. -</strong> U.S. President Donald Trump
+    activationstatus: true
+    created: 2025-08-02T09:17:03.850+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T09:17:15.878+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-08-02T09:17:15.394+08:00
+    lastmodified: 2025-08-02T09:17:03.903+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump orders nuclear submarines moved after Russian 'provocative statements''
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '81071911-7791-4ef4-95e2-8eb5df174ea0'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.871+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.878+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S. -</strong> U.S. President Donald Trump
         on Friday said he had ordered two nuclear submarines to be positioned in "the
         appropriate regions" in response to remarks from former Russian President
         Dmitry Medvedev about the risk of war between the nuclear-armed adversaries.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5200bc6b-8cda-4603-9af6-6b08f983e66f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.872+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.878+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.872+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Security analysts called Trump’s move a rhetorical escalation with
+    section1:
+      primarytype: 'block'
+      uuid: '5200bc6b-8cda-4603-9af6-6b08f983e66f'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.872+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.878+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.872+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Security analysts called Trump’s move a rhetorical escalation with
         Moscow, but not necessarily a military one, given that the United States already
         has nuclear-powered submarines that are deployed and capable of striking Russia.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f5b13f8-0014-4d2c-aae9-b12db8b7b1d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.872+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.879+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.872+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Medvedev on Thursday said Trump should remember that Moscow possessed
+    section2:
+      primarytype: 'block'
+      uuid: '9f5b13f8-0014-4d2c-aae9-b12db8b7b1d4'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.872+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.879+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.872+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Medvedev on Thursday said Trump should remember that Moscow possessed
         Soviet-era nuclear strike capabilities of last resort, after Trump had told
         Medvedev to "watch his words."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2b5ea1cb-973a-46c1-89ff-4942112ac95e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.872+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.880+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.872+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Based on the highly provocative statements of the Former President
+    section3:
+      primarytype: 'block'
+      uuid: '2b5ea1cb-973a-46c1-89ff-4942112ac95e'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.872+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.880+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.872+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Based on the highly provocative statements of the Former President
         of Russia, Dmitry Medvedev ... I have ordered two Nuclear Submarines to be
         positioned in the appropriate regions, just in case these foolish and inflammatory
         statements are more than just that," Trump said in Friday’s social media
         post.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd94b0d99-e7d2-473c-98b1-184c5ee6d503'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.873+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.880+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.873+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He added: "Words are very important, and can often lead to unintended
+    section4:
+      primarytype: 'block'
+      uuid: 'd94b0d99-e7d2-473c-98b1-184c5ee6d503'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.873+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.880+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.873+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He added: "Words are very important, and can often lead to unintended
         consequences, I hope this will not be one of those instances."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '421d7130-50c3-46b4-b51c-3904df05a156'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.873+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.881+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.873+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Asked later by reporters why he ordered the submarine movement, Trump
-        said: "A threat was made by a former president of Russia, and we''re going
+    section5:
+      primarytype: 'block'
+      uuid: '421d7130-50c3-46b4-b51c-3904df05a156'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.873+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.881+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.873+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Asked later by reporters why he ordered the submarine movement, Trump
+        said: "A threat was made by a former president of Russia, and we're going
         to protect our people."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95c608dd-ad16-430b-99a9-ecb75ccce099'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.874+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.881+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.874+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. Navy and the Pentagon declined to comment about Trump’s remarks
+    section6:
+      primarytype: 'block'
+      uuid: '95c608dd-ad16-430b-99a9-ecb75ccce099'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.874+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.881+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.874+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. Navy and the Pentagon declined to comment about Trump’s remarks
         or on whether submarines had been moved. It is extremely rare for the U.S.
         military to discuss the deployment and location of U.S. submarines given their
         sensitive mission in nuclear deterrence.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b5f8c19f-366a-4fad-9bb1-53075c30332a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.874+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.882+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.874+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s comments came at a time of mounting tension between Washington
+    section7:
+      primarytype: 'block'
+      uuid: 'b5f8c19f-366a-4fad-9bb1-53075c30332a'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.874+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.882+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.874+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump’s comments came at a time of mounting tension between Washington
         and Moscow as Trump grows frustrated with what he sees as President Vladimir
         Putin’s failure to negotiate an end to his more than three-year-old invasion
         of Ukraine.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2004bdd3-4a50-411f-a4f6-cd76f9bfbad8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.874+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.882+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.874+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He did not specify what he meant by "nuclear submarines." U.S. military
+    section8:
+      primarytype: 'block'
+      uuid: '2004bdd3-4a50-411f-a4f6-cd76f9bfbad8'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.874+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.882+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.874+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He did not specify what he meant by "nuclear submarines." U.S. military
         submarines are nuclear-powered and can be armed with nuclear-tipped missiles,
         although not all are.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a21d1e81-5899-4814-80e8-cb926486f0b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.875+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.883+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.875+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But any talk by a U.S. president about potential nuclear military capabilities
+    section9:
+      primarytype: 'block'
+      uuid: 'a21d1e81-5899-4814-80e8-cb926486f0b6'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.875+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.883+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.875+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But any talk by a U.S. president about potential nuclear military capabilities
         raises concerns, the security experts said, noting that the United States
         has historically refrained from matching Russia’s nuclear-saber rattling
         given the risks surrounding the world’s most devastating weaponry.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a187ce5b-130e-4c43-9ec2-f96a654052e9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.875+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.883+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.875+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This is irresponsible and inadvisable," said Daryl Kimball, executive
+    section10:
+      primarytype: 'block'
+      uuid: 'a187ce5b-130e-4c43-9ec2-f96a654052e9'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.875+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.883+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.875+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This is irresponsible and inadvisable," said Daryl Kimball, executive
         director of the Arms Control Association advocacy group. "No leader or deputy
         leader should be threatening nuclear war, let alone in a juvenile manner on
         social media."'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b843a53c-49a7-49b3-ac10-53f2162ac557'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.876+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.884+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.876+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hans Kristensen of the Federation of American Scientists noted that
+    section11:
+      primarytype: 'block'
+      uuid: 'b843a53c-49a7-49b3-ac10-53f2162ac557'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.876+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.884+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.876+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Hans Kristensen of the Federation of American Scientists noted that
         U.S. nuclear submarines – part of the so-called nuclear triad with bombers
         and land-based missiles – were always positioned to launch nuclear-armed missiles
         at targets in Russia.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '596a7da8-b637-4e7f-9727-5fc53ec31e6a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.876+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.885+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.876+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The subs are always there all the time and don''t need to be moved
+    section12:
+      primarytype: 'block'
+      uuid: '596a7da8-b637-4e7f-9727-5fc53ec31e6a'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.876+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.885+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.876+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The subs are always there all the time and don't need to be moved
         into position," he said. "He grants Medvedev a response to these crazy statements."'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df979f78-0dd7-4267-8a5a-9bff9330b276'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.877+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.885+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.877+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The United States has a total of 14 Ohio Class nuclear-powered submarines,
+    section13:
+      primarytype: 'block'
+      uuid: 'df979f78-0dd7-4267-8a5a-9bff9330b276'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.877+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.885+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.877+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The United States has a total of 14 Ohio Class nuclear-powered submarines,
         each capable of carrying up to 24 Trident II D5 ballistic missiles that can
         deliver multiple thermonuclear warheads up to 4,600 miles.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83762062-94c1-4886-92c2-ecccffaf3f48'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.877+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.886+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.877+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Between 8 and 10 Ohio Class submarines are deployed at any one time,
+    section14:
+      primarytype: 'block'
+      uuid: '83762062-94c1-4886-92c2-ecccffaf3f48'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.877+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.886+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.877+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Between 8 and 10 Ohio Class submarines are deployed at any one time,
         according to the Nuclear Threat Initiative arms control group.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46941b28-281c-4746-a030-9c11ce007245'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.877+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.886+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.877+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>''Commitment trap''</strong></h2>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f497c7c-7238-473c-bdc1-dd6d88a47ffc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.878+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.887+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.878+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Medvedev, deputy chairman of Russia’s Security Council, has emerged
+    section15:
+      primarytype: 'block'
+      uuid: '46941b28-281c-4746-a030-9c11ce007245'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.877+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.886+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.877+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>'Commitment trap'</strong></h2>'
+    section16:
+      primarytype: 'block'
+      uuid: '9f497c7c-7238-473c-bdc1-dd6d88a47ffc'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.878+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.887+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.878+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Medvedev, deputy chairman of Russia’s Security Council, has emerged
         as one of the Kremlin’s most outspoken anti-Western hawks since Russia sent
         tens of thousands of troops into Ukraine in 2022. Kremlin critics deride him
         as an irresponsible loose cannon, though some Western diplomats say his statements
         illustrate the thinking in senior Kremlin policy-making circles.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4ed9daa-af11-4369-b1ef-82faf3460722'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.879+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.887+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.879+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. officials had told Reuters prior to Trump’s latest remarks that
+    section17:
+      primarytype: 'block'
+      uuid: 'b4ed9daa-af11-4369-b1ef-82faf3460722'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.879+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.887+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.879+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. officials had told Reuters prior to Trump’s latest remarks that
         Medvedev’s comments were not being taken as a serious threat, and it is unclear
         what drove Trump’s latest announcement beyond the public clash between the
         two on social media.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '18b1178a-d3d1-420a-a1ea-943243a57480'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.879+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.888+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.879+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump and Medvedev have traded taunts in recent days after Trump on
+    section18:
+      primarytype: 'block'
+      uuid: '18b1178a-d3d1-420a-a1ea-943243a57480'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.879+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.888+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.879+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump and Medvedev have traded taunts in recent days after Trump on
         Tuesday said Russia had "10 days from today" to agree to a ceasefire in Ukraine
         or be hit with tariffs.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0859d392-d84a-4921-89f7-2d32d273d9c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.880+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.888+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.880+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kristensen said that Trump was creating a "commitment trap" by fueling
+    section19:
+      primarytype: 'block'
+      uuid: '0859d392-d84a-4921-89f7-2d32d273d9c6'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.880+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.888+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.880+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Kristensen said that Trump was creating a "commitment trap" by fueling
         expectations that he could resort to nuclear weapons if tensions escalated
         further with Russia.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd262822-0143-4636-b86d-c94d401258ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.880+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.889+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.880+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Still, Evelyn Farkas, executive director of the McCain Institute and
+    section20:
+      primarytype: 'block'
+      uuid: 'dd262822-0143-4636-b86d-c94d401258ae'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.880+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.889+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.880+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Still, Evelyn Farkas, executive director of the McCain Institute and
         a former senior Pentagon official, played down the idea that this could lead
         to nuclear conflict.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8a07c8f-0eb6-44ef-8a12-f90c8cc22400'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.881+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.889+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.881+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s really signaling. It’s not the beginning of some nuclear confrontation
-        and nobody reads it as such. And I would imagine the Russians don''t either,"
+    section21:
+      primarytype: 'block'
+      uuid: 'a8a07c8f-0eb6-44ef-8a12-f90c8cc22400'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.881+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.889+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.881+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"It’s really signaling. It’s not the beginning of some nuclear confrontation
+        and nobody reads it as such. And I would imagine the Russians don't either,"
         she said.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7e51650-2c1c-451c-a9c6-856ba7f1d43f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.881+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.890+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.881+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'She added that Trump’s actions, however, were unlikely to get Russia
+    section22:
+      primarytype: 'block'
+      uuid: 'b7e51650-2c1c-451c-a9c6-856ba7f1d43f'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.881+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.890+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.881+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'She added that Trump’s actions, however, were unlikely to get Russia
         to change course in Ukraine.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '097a266e-8de5-4dda-bd80-4fda99505840'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.882+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.891+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.882+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Moscow, which has set out its own terms for peace in Ukraine, has given
+    section23:
+      primarytype: 'block'
+      uuid: '097a266e-8de5-4dda-bd80-4fda99505840'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.882+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.891+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.882+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Moscow, which has set out its own terms for peace in Ukraine, has given
         no indication that it will comply with Trump’s 10-day deadline of August
         8.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f20ea7ef-7079-4d64-b678-5ad63d7e4a3e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.882+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.891+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.882+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Putin said on Friday that Moscow hoped for more peace talks but that
+    section24:
+      primarytype: 'block'
+      uuid: 'f20ea7ef-7079-4d64-b678-5ad63d7e4a3e'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.882+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.891+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.882+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Putin said on Friday that Moscow hoped for more peace talks but that
         the momentum of the war was in its favor. He made no reference to the deadline.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd1305e4-7024-43a4-87f6-53c55c1cc58b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.883+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.892+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.883+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump, who in the past touted good relations with Putin, has expressed
+    section25:
+      primarytype: 'block'
+      uuid: 'cd1305e4-7024-43a4-87f6-53c55c1cc58b'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.883+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.892+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.883+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump, who in the past touted good relations with Putin, has expressed
         mounting frustration with the Russian leader, accusing him of "bullshit" and
         describing Russia’s latest attacks on Ukraine as disgusting.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36b168fc-a64a-41f9-a35b-aa19d7b8049e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:17:03.883+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:17:15.892+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-02T09:17:03.883+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Ryan Patrick Jones in Toronto, and Phil Stewart,
+    section26:
+      primarytype: 'block'
+      uuid: '36b168fc-a64a-41f9-a35b-aa19d7b8049e'
+      activationstatus: true
+      created: 2025-08-02T09:17:03.883+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:17:15.892+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-02T09:17:03.883+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Ryan Patrick Jones in Toronto, and Phil Stewart,
         Jonathan Landay, Mike Stone and Doina Chiacu in Washington; Editing by Rosalba
-        O''Brien)</em></p>'
-  'tesla-ordered-to-pay-in-fatal-autopilot-crash':
-    'author': 'Jonathan Stempel and Abhirup Roy, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T09:19:58.000+08:00
-    'imagesource': 'jcr:8461a009-4b67-4a0f-94f7-0d24db0663f9'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9af56aa7-aeb6-41bb-b061-189229ec8dc8'
-    'lead': 'A Florida jury on Friday found Tesla TSLA.O liable to pay $243 million
+        O'Brien)</em></p>'
+  'START HERE----->tesla-ordered-to-pay-in-fatal-autopilot-crash':
+    author: 'Jonathan Stempel and Abhirup Roy, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T09:19:58.000+08:00
+    imagesource: '8461a009-4b67-4a0f-94f7-0d24db0663f9'
+    primarytype: 'composition'
+    uuid: '9af56aa7-aeb6-41bb-b061-189229ec8dc8'
+    lead: 'A Florida jury on Friday found Tesla TSLA.O liable to pay $243 million
       to victims of a 2019 fatal crash of an Autopilot-equipped Model S, a verdict
       that could encourage more legal action against Elon Musk’s electric vehicle
       company.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T09:23:06.873+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T09:23:07.296+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T09:23:06.923+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Tesla', 'Elon-Musk']
-    'stories': []
-    'template': '1'
-    'title': 'Tesla ordered by Florida jury to pay $243 million in fatal Autopilot
+    activationstatus: true
+    created: 2025-08-02T09:23:06.873+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T09:23:07.296+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T09:23:06.923+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Tesla ordered by Florida jury to pay $243 million in fatal Autopilot
       crash'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '165f22ac-fcfa-4bc0-aad6-d2e17f89edcc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.890+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.297+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.913+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> A Florida jury on Friday found Tesla
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '165f22ac-fcfa-4bc0-aad6-d2e17f89edcc'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.890+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.297+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.913+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> A Florida jury on Friday found Tesla
         TSLA.O liable to pay $243 million to victims of a 2019 fatal crash of an Autopilot-equipped
         Model S, a verdict that could encourage more legal action against Elon Musk’s
         electric vehicle company.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7151a41-5656-4fbb-9554-b042db5ec198'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.891+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.891+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The verdict is a rare win for victims of accidents involving Autopilot.
+    section1:
+      primarytype: 'block'
+      uuid: 'b7151a41-5656-4fbb-9554-b042db5ec198'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.891+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.891+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The verdict is a rare win for victims of accidents involving Autopilot.
         Musk has been pushing to rapidly expand Tesla’s recently launched robotaxi
         business based on an advanced version of its driver assistance software.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22d2bad2-fdf3-445f-93c2-5258ae5e0f2f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.891+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.299+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.891+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tesla shares fell 1.8% on Friday, and are down 25% this year.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '443274ae-3b38-404a-831b-7363227f8b50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.892+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.301+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.892+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Jurors in Miami federal court awarded the estate of Naibel Benavides
+    section2:
+      primarytype: 'block'
+      uuid: '22d2bad2-fdf3-445f-93c2-5258ae5e0f2f'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.891+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.299+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.891+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tesla shares fell 1.8% on Friday, and are down 25% this year.'
+    section3:
+      primarytype: 'block'
+      uuid: '443274ae-3b38-404a-831b-7363227f8b50'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.892+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.301+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.892+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Jurors in Miami federal court awarded the estate of Naibel Benavides
         Leon, as well as her former boyfriend Dillon Angulo, $129 million in compensatory
         damages plus $200 million in punitive damages, according to a verdict sheet.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19275e72-4dc2-4605-99d0-7425f48b0adb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.892+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.302+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.892+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tesla was held liable for 33% of the compensatory damages, or $42.6
+    section4:
+      primarytype: 'block'
+      uuid: '19275e72-4dc2-4605-99d0-7425f48b0adb'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.892+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.302+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.892+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tesla was held liable for 33% of the compensatory damages, or $42.6
         million.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c884345-8eab-4f83-bbea-19183378f4bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.893+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.303+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Jurors found the driver George McGee liable for 67%, but he was not
+    section5:
+      primarytype: 'block'
+      uuid: '1c884345-8eab-4f83-bbea-19183378f4bf'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.893+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.303+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Jurors found the driver George McGee liable for 67%, but he was not
         a defendant and will not have to pay his share.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7626de51-276a-4723-8fbd-faecdf087697'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.893+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.304+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Tesla designed Autopilot only for controlled-access highways yet deliberately
+    section6:
+      primarytype: 'block'
+      uuid: '7626de51-276a-4723-8fbd-faecdf087697'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.893+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.304+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Tesla designed Autopilot only for controlled-access highways yet deliberately
         chose not to restrict drivers from using it elsewhere, alongside Elon Musk
         telling the world Autopilot drove better than humans," Brett Schreiber, a
         lawyer for the plaintiffs, said in a statement.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f1b8261-94ee-4dcd-b5a1-e804d9d085f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.893+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.305+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.893+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Today’s verdict represents justice for Naibel’s tragic death and
+    section7:
+      primarytype: 'block'
+      uuid: '0f1b8261-94ee-4dcd-b5a1-e804d9d085f3'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.893+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.305+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.893+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Today’s verdict represents justice for Naibel’s tragic death and
         Dillon’s lifelong injuries," he added.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'caae9067-3336-422d-94eb-a241260bc53d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.894+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.306+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tesla said it will appeal.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ea72029-ab86-4fdb-8b2f-a9c32d515a31'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.894+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.307+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.894+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Today’s verdict is wrong and only works to set back automotive safety
+    section8:
+      primarytype: 'block'
+      uuid: 'caae9067-3336-422d-94eb-a241260bc53d'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.894+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.306+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tesla said it will appeal.'
+    section9:
+      primarytype: 'block'
+      uuid: '6ea72029-ab86-4fdb-8b2f-a9c32d515a31'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.894+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.307+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.894+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Today’s verdict is wrong and only works to set back automotive safety
         and jeopardize Tesla’s and the entire industry’s efforts to develop and
         implement life-saving technology," the company said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e2e51b7-c199-4e12-8d1b-b160a9645e49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.895+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.308+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.895+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The plaintiffs had sought $345 million of damages. Their lawyers said
+    section10:
+      primarytype: 'block'
+      uuid: '4e2e51b7-c199-4e12-8d1b-b160a9645e49'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.895+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.308+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.895+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The plaintiffs had sought $345 million of damages. Their lawyers said
         the trial was the first involving the wrongful death of a third party resulting
         from Autopilot.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3fe91ca3-d365-4436-b8e8-43f8969c1240'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.895+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.309+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.895+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Impact on future cases</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '362d7428-6f1a-41be-8e7a-2012f8a1604d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.896+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.310+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.896+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tesla has faced many similar lawsuits over its vehicles'' self-driving
+    section11:
+      primarytype: 'block'
+      uuid: '3fe91ca3-d365-4436-b8e8-43f8969c1240'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.895+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.309+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.895+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Impact on future cases</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: '362d7428-6f1a-41be-8e7a-2012f8a1604d'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.896+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.310+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.896+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tesla has faced many similar lawsuits over its vehicles' self-driving
         capabilities, but they have been resolved or dismissed without getting to
         trial.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4166b77-1e71-4117-a3d9-fd4936ff2ecf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.896+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.312+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.896+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In June, a judge rejected Tesla’s bid to dismiss the Florida case.
+    section13:
+      primarytype: 'block'
+      uuid: 'a4166b77-1e71-4117-a3d9-fd4936ff2ecf'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.896+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.312+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.896+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In June, a judge rejected Tesla’s bid to dismiss the Florida case.
         Experts said Friday’s verdict may spur more lawsuits, and could make future
         settlements more costly.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '290d7ee1-700f-4e44-ae13-8dbb6cfd4ed7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.897+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.313+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.897+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s a big deal," said Alex Lemann, a law professor at Marquette
+    section14:
+      primarytype: 'block'
+      uuid: '290d7ee1-700f-4e44-ae13-8dbb6cfd4ed7'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.897+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.313+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.897+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"It’s a big deal," said Alex Lemann, a law professor at Marquette
         University. "This is the first time that Tesla has been hit with a judgment
         in one of the many, many fatalities that have happened as a result of its
         Autopilot technology."'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b52c727-96d7-4a5b-a5fd-1920aed9e74d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.897+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.314+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.897+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The verdict could also impede efforts by Musk, the world’s richest
+    section15:
+      primarytype: 'block'
+      uuid: '5b52c727-96d7-4a5b-a5fd-1920aed9e74d'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.897+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.314+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.897+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The verdict could also impede efforts by Musk, the world’s richest
         person, to convince investors that Tesla can become a leader in so-called
         autonomous driving for private vehicles as well as robotaxis it plans to start
         producing next year.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'feabcfde-91b9-4b3c-9a0a-472a81d5ba06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.898+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.315+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.898+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'As Tesla’s electric vehicle sales fall, much of its nearly $1 trillion
+    section16:
+      primarytype: 'block'
+      uuid: 'feabcfde-91b9-4b3c-9a0a-472a81d5ba06'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.898+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.315+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.898+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'As Tesla’s electric vehicle sales fall, much of its nearly $1 trillion
         market value hinges on Musk’s ability to pivot the company into robotics
         and artificial intelligence.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5749be46-d097-46ec-83d2-9f6cb5686857'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.898+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.316+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.898+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Driver’s role</strong></h2>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '986b0e4a-d372-4151-94f7-ac580de2c3ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.899+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.317+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.899+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The trial concerned an April 25, 2019 incident where George McGee drove
+    section17:
+      primarytype: 'block'
+      uuid: '5749be46-d097-46ec-83d2-9f6cb5686857'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.898+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.316+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.898+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Driver’s role</strong></h2>'
+    section18:
+      primarytype: 'block'
+      uuid: '986b0e4a-d372-4151-94f7-ac580de2c3ec'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.899+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.317+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.899+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The trial concerned an April 25, 2019 incident where George McGee drove
         his 2019 Model S at about 62 mph (100 kph) through an intersection into the
-        victims'' parked Chevrolet Tahoe as they were standing beside it on a shoulder.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fcb0eed0-7a30-4e18-99fa-5c04f7333403'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.899+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.318+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.899+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'McGee had reached down to pick up a cellphone he dropped on his car’s
+        victims' parked Chevrolet Tahoe as they were standing beside it on a shoulder.'
+    section19:
+      primarytype: 'block'
+      uuid: 'fcb0eed0-7a30-4e18-99fa-5c04f7333403'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.899+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.318+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.899+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'McGee had reached down to pick up a cellphone he dropped on his car’s
         floorboard and allegedly received no alerts as he ran a stop sign and stop
-        light before hitting the victims'' SUV.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3fb432a-2bad-4cce-abf6-77b812194dc9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.900+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.319+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.900+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Benavides Leon was allegedly thrown 75 feet (23 meters) to her death,
+        light before hitting the victims' SUV.'
+    section20:
+      primarytype: 'block'
+      uuid: 'a3fb432a-2bad-4cce-abf6-77b812194dc9'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.900+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.319+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.900+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Benavides Leon was allegedly thrown 75 feet (23 meters) to her death,
         while Angulo suffered serious injuries.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '154c87ff-3cd9-4069-a2c0-49bfecb1d083'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.900+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.320+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.900+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We have a driver who was acting less than perfectly, and yet the jury
+    section21:
+      primarytype: 'block'
+      uuid: '154c87ff-3cd9-4069-a2c0-49bfecb1d083'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.900+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.320+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.900+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We have a driver who was acting less than perfectly, and yet the jury
         still found Tesla contributed to the crash," said Philip Koopman, a Carnegie
         Mellon University engineering professor and expert in autonomous technology.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e33a4884-13ee-40be-8eaf-3d42265ad982'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.901+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.322+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.901+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The only way the jury could have possibly ruled against Tesla was
+    section22:
+      primarytype: 'block'
+      uuid: 'e33a4884-13ee-40be-8eaf-3d42265ad982'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.901+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.322+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.901+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The only way the jury could have possibly ruled against Tesla was
         by finding a defect with the Autopilot software," he added. "That’s a big
         deal."'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8866483b-1bd2-4aa4-8e61-f2fd0dc097de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.901+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.323+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.901+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tesla, in its statement, said McGee was entirely at fault.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '65c5b4c6-739a-463e-9631-0e88319d6961'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.902+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.324+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.902+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"To be clear, no car in 2019, and none today, would have prevented
+    section23:
+      primarytype: 'block'
+      uuid: '8866483b-1bd2-4aa4-8e61-f2fd0dc097de'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.901+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.323+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.901+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tesla, in its statement, said McGee was entirely at fault.'
+    section24:
+      primarytype: 'block'
+      uuid: '65c5b4c6-739a-463e-9631-0e88319d6961'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.902+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.324+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.902+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"To be clear, no car in 2019, and none today, would have prevented
         this crash," the company said. "This was never about Autopilot; it was a fiction
-        concocted by plaintiffs'' lawyers blaming the car when the driver - from day
+        concocted by plaintiffs' lawyers blaming the car when the driver - from day
         one - admitted and accepted responsibility."'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0749a576-0d7d-49b8-b084-e4c2d1e846f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T09:23:06.903+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T09:23:07.325+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T09:23:06.903+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jonathan Stempel and Abhirup Roy; Additional reporting
+    section25:
+      primarytype: 'block'
+      uuid: '0749a576-0d7d-49b8-b084-e4c2d1e846f2'
+      activationstatus: true
+      created: 2025-08-02T09:23:06.903+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T09:23:07.325+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T09:23:06.903+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jonathan Stempel and Abhirup Roy; Additional reporting
         by Tom Hals; Editing by David Gaffen, Sandra Maler and David Gregorio)</em></p>'
-  'fuel-price-hike-aug-5':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T10:18:23.000+08:00
-    'imagesource': 'jcr:32e05f39-7b09-4298-b0f7-6faeb5bf6913'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '686492bc-6db6-485f-88d3-aa6b58c8baf9'
-    'lead': 'Motorists may face hefty fuel price hikes on Tuesday, Aug. 5, the Department
+  'START HERE----->fuel-price-hike-aug-5':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T10:18:23.000+08:00
+    imagesource: '32e05f39-7b09-4298-b0f7-6faeb5bf6913'
+    primarytype: 'composition'
+    uuid: '686492bc-6db6-485f-88d3-aa6b58c8baf9'
+    lead: 'Motorists may face hefty fuel price hikes on Tuesday, Aug. 5, the Department
       of Energy (DOE) said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T10:19:49.021+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T10:19:49.255+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T10:19:49.054+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['fuel-price-hike']
-    'stories': []
-    'template': '1'
-    'title': 'Fuel price hike possible next week - DOE'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c736b503-6cba-4021-ae8c-aca2985b53ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.046+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.256+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.051+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Motorists may face
+    activationstatus: true
+    created: 2025-08-02T10:19:49.021+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T10:19:49.255+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T10:19:49.054+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Fuel price hike possible next week - DOE'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c736b503-6cba-4021-ae8c-aca2985b53ce'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.046+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.256+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.051+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Motorists may face
         hefty fuel price hikes on Tuesday, Aug. 5, the Department of Energy (DOE)
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b89ce525-b98e-42e3-a490-16b05e9121e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.046+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.258+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.046+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In its forecast, the agency said gasoline cost may increase by up to
+    section1:
+      primarytype: 'block'
+      uuid: 'b89ce525-b98e-42e3-a490-16b05e9121e7'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.046+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.258+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.046+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In its forecast, the agency said gasoline cost may increase by up to
         P1.50 per liter.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '21c63b74-7450-42dd-9744-cf724d0ddbc6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.047+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.259+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.047+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Per liter cost of diesel may rise by up to P1, and kerosene by P0.80
+    section2:
+      primarytype: 'block'
+      uuid: '21c63b74-7450-42dd-9744-cf724d0ddbc6'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.047+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.259+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.047+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Per liter cost of diesel may rise by up to P1, and kerosene by P0.80
         per liter.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03130038-6673-4688-a53a-6b8643784e38'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.047+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.260+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.047+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The potential adjustments mark the first price increase for August.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5be39289-f4ef-49c1-a208-4de4168aaa44'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.048+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.262+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.048+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The DOE cited renewed concerns on supply disruptions following US President
+    section3:
+      primarytype: 'block'
+      uuid: '03130038-6673-4688-a53a-6b8643784e38'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.047+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.260+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.047+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The potential adjustments mark the first price increase for August.'
+    section4:
+      primarytype: 'block'
+      uuid: '5be39289-f4ef-49c1-a208-4de4168aaa44'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.048+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.262+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.048+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The DOE cited renewed concerns on supply disruptions following US President
         Donald Trump’s sanction on Russian and Iranian oil, as well hopes of improved
         economic activity after the US and European Union deal.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1b87102-c208-4c9e-a721-943a0f73f8ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T10:19:49.048+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T10:19:49.263+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T10:19:49.048+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The country imports almost the entire fuel requirement.</p>'
-  'self-rated-poverty-june-2025':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T12:46:24.000+08:00
-    'imagesource': 'jcr:6338ea50-141e-443a-ab80-949756045118'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '166b7a55-399d-4185-b478-21741e78b33d'
-    'lead': 'Half of Filipino families considered themselves poor in the second quarter,
+    section5:
+      primarytype: 'block'
+      uuid: 'e1b87102-c208-4c9e-a721-943a0f73f8ec'
+      activationstatus: true
+      created: 2025-08-02T10:19:49.048+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T10:19:49.263+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T10:19:49.048+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The country imports almost the entire fuel requirement.</p>'
+  'START HERE----->self-rated-poverty-june-2025':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T12:46:24.000+08:00
+    imagesource: '6338ea50-141e-443a-ab80-949756045118'
+    primarytype: 'composition'
+    uuid: '166b7a55-399d-4185-b478-21741e78b33d'
+    lead: 'Half of Filipino families considered themselves poor in the second quarter,
       a non-commissioned study of the Social Weather Stations (SWS) showed.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T12:48:52.363+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T12:48:52.694+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T12:48:52.401+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['SWS']
-    'stories': []
-    'template': '1'
-    'title': 'Half of Filipino families feel poor in Q2 - SWS'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f6c774c6-624b-4a53-aee6-c7dd84525198'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.393+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.695+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.398+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Half of Filipino families
+    activationstatus: true
+    created: 2025-08-02T12:48:52.363+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T12:48:52.694+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T12:48:52.401+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Half of Filipino families feel poor in Q2 - SWS'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f6c774c6-624b-4a53-aee6-c7dd84525198'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.393+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.695+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.398+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Half of Filipino families
         considered themselves poor in the second quarter, a non-commissioned study
         of the Social Weather Stations (SWS) showed.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d4da295-8ece-47f6-a7d1-887a9e39a58d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.393+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.696+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.393+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Data from the pollster said 49% or at least 13.7 million families were
+    section1:
+      primarytype: 'block'
+      uuid: '3d4da295-8ece-47f6-a7d1-887a9e39a58d'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.393+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.696+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.393+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Data from the pollster said 49% or at least 13.7 million families were
         of the opinion in the survey held in June 2025.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'caa8981d-37af-4adb-a160-90d01f745f64'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.393+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.697+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.393+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The score was just a percentage point below from the survey in April,
+    section2:
+      primarytype: 'block'
+      uuid: 'caa8981d-37af-4adb-a160-90d01f745f64'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.393+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.697+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.393+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The score was just a percentage point below from the survey in April,
         almost unmoved, which showed 50% of families rating themselves poor.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e1c767d-a17d-4c39-8a48-71e1ee790b23'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.394+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.699+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.394+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'SWS said the highest self-poverty rate was in Mindanao at 69%, followed
+    section3:
+      primarytype: 'block'
+      uuid: '2e1c767d-a17d-4c39-8a48-71e1ee790b23'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.394+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.699+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.394+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'SWS said the highest self-poverty rate was in Mindanao at 69%, followed
         by Visayas 60%.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22d73d2d-caf1-4d5b-b9e3-fccc41fd99af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.394+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.700+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.394+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Balance Luzon and Metro Manila had 38% and 36%, respectively.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ae13a8b-c035-45e8-8c5d-c0cdc4002f81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.395+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.701+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.395+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, self-rated food poverty was unchanged at 41%. These are
+    section4:
+      primarytype: 'block'
+      uuid: '22d73d2d-caf1-4d5b-b9e3-fccc41fd99af'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.394+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.700+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.394+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Balance Luzon and Metro Manila had 38% and 36%, respectively.'
+    section5:
+      primarytype: 'block'
+      uuid: '4ae13a8b-c035-45e8-8c5d-c0cdc4002f81'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.395+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.701+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.395+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Meanwhile, self-rated food poverty was unchanged at 41%. These are
         respondents who rated themselves food poor, based on what their family eats.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a85f659-dea8-4f76-afa1-d0c493ef7f9c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T12:48:52.395+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T12:48:52.702+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T12:48:52.395+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>At least 1,200 people participated in the survey that had a ±3%
+    section6:
+      primarytype: 'block'
+      uuid: '8a85f659-dea8-4f76-afa1-d0c493ef7f9c'
+      activationstatus: true
+      created: 2025-08-02T12:48:52.395+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T12:48:52.702+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T12:48:52.395+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>At least 1,200 people participated in the survey that had a ±3%
         margin of error.</p>'
-  'trump-says-brazil-s-lula-can-call-him-anytime':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T14:02:52.000+08:00
-    'imagesource': 'jcr:0e25730d-cc13-49f5-99e6-29d1ab8c15d2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '070c7111-da87-4aef-bbe0-84afbc35a7f6'
-    'lead': 'U.S. President Donald Trump said on Friday that Brazilian President Luiz
+  'START HERE----->trump-says-brazil-s-lula-can-call-him-anytime':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T14:02:52.000+08:00
+    imagesource: '0e25730d-cc13-49f5-99e6-29d1ab8c15d2'
+    primarytype: 'composition'
+    uuid: '070c7111-da87-4aef-bbe0-84afbc35a7f6'
+    lead: 'U.S. President Donald Trump said on Friday that Brazilian President Luiz
       Inacio Lula da Silva can call him anytime to discuss tariffs and other friction
       between the countries.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T14:04:14.707+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T14:04:15.010+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T14:04:14.740+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['trump']
-    'stories': []
-    'template': '1'
-    'title': 'Trump says Brazil’s Lula can call him anytime'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf48be71-ee33-44cb-b4cf-59d22e2e71f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.729+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.011+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.736+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S./Brasilia, Brazil -</strong> &nbsp;U.S.
+    activationstatus: true
+    created: 2025-08-02T14:04:14.707+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T14:04:15.010+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T14:04:14.740+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump says Brazil’s Lula can call him anytime'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bf48be71-ee33-44cb-b4cf-59d22e2e71f2'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.729+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.011+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.736+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S./Brasilia, Brazil -</strong> &nbsp;U.S.
         President Donald Trump said on Friday that Brazilian President Luiz Inacio
         Lula da Silva can call him anytime to discuss tariffs and other friction between
         the countries.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9694a220-f7e6-45fa-983c-e14ad0fe690d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.729+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.012+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.729+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"He can talk to me anytime he wants," Trump said of Lula, speaking
+    section1:
+      primarytype: 'block'
+      uuid: '9694a220-f7e6-45fa-983c-e14ad0fe690d'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.729+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.012+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.729+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"He can talk to me anytime he wants," Trump said of Lula, speaking
         to reporters at the White House. He added he was fond of the Brazilian people
         but "the people running Brazil did the wrong thing."'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a477226-5d21-4dbe-bb09-9bab18f27df8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.730+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.013+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.730+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Later, speaking with reporters in Brasilia, Brazil Finance Minister
+    section2:
+      primarytype: 'block'
+      uuid: '7a477226-5d21-4dbe-bb09-9bab18f27df8'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.730+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.013+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.730+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Later, speaking with reporters in Brasilia, Brazil Finance Minister
         Fernando Haddad called Trump’s remarks "great," saying he is sure Lula feels
         the same, and would be willing to receive a call from the U.S. president.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e7989ed7-4bf1-40d5-b7eb-5c69f82a7785'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.730+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.014+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.730+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a post on his X account, Lula said Brazil has always been open to
+    section3:
+      primarytype: 'block'
+      uuid: 'e7989ed7-4bf1-40d5-b7eb-5c69f82a7785'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.730+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.014+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.730+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a post on his X account, Lula said Brazil has always been open to
         dialogue, although he did not mention Trump nor his earlier remarks.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '20144038-60c7-4581-a225-4794319997b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.731+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.731+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump slapped a 50% tariff on Brazil, with many exemptions, starting
+    section4:
+      primarytype: 'block'
+      uuid: '20144038-60c7-4581-a225-4794319997b5'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.731+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.731+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump slapped a 50% tariff on Brazil, with many exemptions, starting
         next week to fight what he has called a "witch hunt" against former President
         Jair Bolsonaro, who is on trial on charges of plotting a coup following his
         election loss in 2022.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45e53ae7-5f70-4427-b493-1fc00d86e844'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.731+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.731+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. also announced sanctions on a Brazilian Supreme Court justice
+    section5:
+      primarytype: 'block'
+      uuid: '45e53ae7-5f70-4427-b493-1fc00d86e844'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.731+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.731+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The U.S. also announced sanctions on a Brazilian Supreme Court justice
         who has been overseeing Bolsonaro’s trial. Lula has rejected both the sanctions
         and the tariffs, calling them "unjustifiable" and an "unacceptable" interference
         in Brazil’s justice system.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2513470-e1e2-4c4c-8ef2-548c182b5cd6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.731+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.018+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.731+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Haddad said his planned virtual meeting with U.S. Treasury Secretary
+    section6:
+      primarytype: 'block'
+      uuid: 'a2513470-e1e2-4c4c-8ef2-548c182b5cd6'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.731+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.018+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.731+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Haddad said his planned virtual meeting with U.S. Treasury Secretary
         Scott Bessent next week will pave the way for an eventual meeting between
         Lula and Trump, but noted such a move would require preparation.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbc6deac-1861-4fcc-af55-16d7cc10662a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.732+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.019+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.732+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Earlier this week, Haddad said Brazil needed assurance Lula would not
+    section7:
+      primarytype: 'block'
+      uuid: 'cbc6deac-1861-4fcc-af55-16d7cc10662a'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.732+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.019+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.732+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Earlier this week, Haddad said Brazil needed assurance Lula would not
         face the same treatment as Ukraine’s Volodymyr Zelenskiy, who came under
         fire from Trump and Vice President JD Vance during a heated exchange at the
         White House earlier this year.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6fe5e965-a6a6-470f-8e4a-f49ab49a2e01'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T14:04:14.732+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T14:04:15.020+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T14:04:14.732+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Nandita Bose, Trevor Hunnicutt and Victor Borges;
+    section8:
+      primarytype: 'block'
+      uuid: '6fe5e965-a6a6-470f-8e4a-f49ab49a2e01'
+      activationstatus: true
+      created: 2025-08-02T14:04:14.732+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T14:04:15.020+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T14:04:14.732+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Nandita Bose, Trevor Hunnicutt and Victor Borges;
         additional reporting by Andre Romani; Editing by Chris Reese)</em></p>'
-  'new-zealand-businesses-in-conservation-areas':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T15:01:34.000+08:00
-    'imagesource': 'jcr:ba311b3a-1c58-4d9d-b02b-88c7c17645f8'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'afba98cf-8261-4bef-981a-021e844ebfe1'
-    'lead': 'New Zealand will make it easier to run businesses in conservation zones
+  'START HERE----->new-zealand-businesses-in-conservation-areas':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T15:01:34.000+08:00
+    imagesource: 'ba311b3a-1c58-4d9d-b02b-88c7c17645f8'
+    primarytype: 'composition'
+    uuid: 'afba98cf-8261-4bef-981a-021e844ebfe1'
+    lead: 'New Zealand will make it easier to run businesses in conservation zones
       and charge foreign tourists to enter some areas in an effort to create jobs
       and increase economic growth, Prime Minister Christopher Luxon said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T15:03:29.903+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T15:03:30.208+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T15:03:29.942+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['New-Zealand']
-    'stories': []
-    'template': '1'
-    'title': 'New Zealand will make it easier to run businesses in conservation areas'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f03012bb-07b7-4249-814f-dc53bc4a340c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.930+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.209+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.938+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> New Zealand will make it easier to
+    activationstatus: true
+    created: 2025-08-02T15:03:29.903+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T15:03:30.208+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T15:03:29.942+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'New Zealand will make it easier to run businesses in conservation areas'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f03012bb-07b7-4249-814f-dc53bc4a340c'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.930+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.209+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.938+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> New Zealand will make it easier to
         run businesses in conservation zones and charge foreign tourists to enter
         some areas in an effort to create jobs and increase economic growth, Prime
         Minister Christopher Luxon said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd6d9898-f2a5-4d34-8922-436845aac593'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.931+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.210+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.931+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The decision by the centre-right government, elected in 2023, is part
+    section1:
+      primarytype: 'block'
+      uuid: 'fd6d9898-f2a5-4d34-8922-436845aac593'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.931+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.210+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.931+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The decision by the centre-right government, elected in 2023, is part
         of its efforts to boost New Zealand’s tourism industry and stimulate a limp
         economy.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '147d1e68-f04c-4e02-a36e-a4b9df2ac332'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.931+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.212+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.931+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It also comes at a time when people in countries around the world are
+    section2:
+      primarytype: 'block'
+      uuid: '147d1e68-f04c-4e02-a36e-a4b9df2ac332'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.931+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.212+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.931+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It also comes at a time when people in countries around the world are
         protesting what they see as excessive numbers of tourists.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f38eeb1-da1e-42ab-be17-ff6f1f46b9d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.932+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.213+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.932+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We''re going to fix the Conservation Act to unleash a fresh wave of
+    section3:
+      primarytype: 'block'
+      uuid: '6f38eeb1-da1e-42ab-be17-ff6f1f46b9d5'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.932+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.213+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.932+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We're going to fix the Conservation Act to unleash a fresh wave of
         concessions – like tourism, agriculture, and infrastructure, in locations
         where that makes sense," Luxon said in a statement.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57850bc7-60e7-4186-8fc4-b8e376f7c316'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.932+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.214+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.932+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Business activities from guided walks and skiing to livestock grazing
+    section4:
+      primarytype: 'block'
+      uuid: '57850bc7-60e7-4186-8fc4-b8e376f7c316'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.932+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.214+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.932+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Business activities from guided walks and skiing to livestock grazing
         and infrastructure construction already take place in conservation areas,
         but permission takes too much time and effort to obtain, he said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '449bd935-5bba-4cb1-b2e5-db12be05b5d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.932+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.215+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.932+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Unleashing economic growth on one-third of New Zealand’s land will
+    section5:
+      primarytype: 'block'
+      uuid: '449bd935-5bba-4cb1-b2e5-db12be05b5d3'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.932+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.215+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.932+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Unleashing economic growth on one-third of New Zealand’s land will
         create jobs and increase wages across the country," the statement said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '13eda225-b080-40eb-ac4b-74563e1327ff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.933+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.216+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.933+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Foreign visitors will also be charged between NZ$20 and NZ$40 ($12-$24)
+    section6:
+      primarytype: 'block'
+      uuid: '13eda225-b080-40eb-ac4b-74563e1327ff'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.933+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.216+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.933+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Foreign visitors will also be charged between NZ$20 and NZ$40 ($12-$24)
         to access some popular sites, while locals will continue to go free.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '838b70d0-c7e0-4688-9e17-95f38292ac1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.933+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.217+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.933+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Tourists make a massive contribution to our economy, and no one wants
+    section7:
+      primarytype: 'block'
+      uuid: '838b70d0-c7e0-4688-9e17-95f38292ac1d'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.933+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.217+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.933+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Tourists make a massive contribution to our economy, and no one wants
         that to change. But I have heard many times from friends visiting from overseas
         their shock that they can visit some of the most beautiful places in the world
         for free," said Conservation Minister Tama Potaka.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14698d82-9ce3-4aa8-8caa-75e4cde4ec4b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:03:29.934+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:03:30.219+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:03:29.934+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Peter Hobson in Canberra; Editing by William Mallard)</em></p>'
-  'trump-bid-diversity-research-funding-cuts-rejected':
-    'author': 'Nate Raymond, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-02T15:15:07.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5b3994e3-effa-47e9-90c6-43e9fb51d82c'
-    'lead': 'A federal judge on Friday rejected a bid by 16 Democratic-led states
+    section8:
+      primarytype: 'block'
+      uuid: '14698d82-9ce3-4aa8-8caa-75e4cde4ec4b'
+      activationstatus: true
+      created: 2025-08-02T15:03:29.934+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:03:30.219+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:03:29.934+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Peter Hobson in Canberra; Editing by William Mallard)</em></p>'
+  'START HERE----->trump-bid-diversity-research-funding-cuts-rejected':
+    author: 'Nate Raymond, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-02T15:15:07.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: '5b3994e3-effa-47e9-90c6-43e9fb51d82c'
+    lead: 'A federal judge on Friday rejected a bid by 16 Democratic-led states
       to force U.S. President Donald Trump’s administration to restore hundreds of
       millions of dollars of grants it canceled that support increasing diversity
       in science, technology, engineering and math fields.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-02T15:16:43.331+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-02T15:16:43.721+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-02T15:16:43.364+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump']
-    'stories': []
-    'template': '1'
-    'title': 'US judge rejects states'' bid to block Trump diversity research funding
+    activationstatus: true
+    created: 2025-08-02T15:16:43.331+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-02T15:16:43.721+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-02T15:16:43.364+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US judge rejects states' bid to block Trump diversity research funding
       cuts'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38270de1-159c-4bd1-8980-d25d2526494b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.350+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.722+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.359+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> A federal judge on Friday rejected
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '38270de1-159c-4bd1-8980-d25d2526494b'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.350+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.722+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.359+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> A federal judge on Friday rejected
         a bid by 16 Democratic-led states to force U.S. President Donald Trump’s
         administration to restore hundreds of millions of dollars of grants it canceled
         that support increasing diversity in science, technology, engineering and
         math fields.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2739d55-c9d0-418e-8944-783d34429aab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.350+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.723+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.350+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Democratic state attorneys general had urged U.S. District Judge John
+    section1:
+      primarytype: 'block'
+      uuid: 'd2739d55-c9d0-418e-8944-783d34429aab'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.350+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.723+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.350+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Democratic state attorneys general had urged U.S. District Judge John
         Cronan in Manhattan to block the National Science Foundation from canceling
         funding awarded to universities designed to increase the participation of
         women, minorities, and people in those fields, known collectively as STEM.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ecf82e95-3912-4913-a2d0-8e677996eaf5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.351+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.724+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.351+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'They had argued in a lawsuit filed in May that the Trump administration
+    section2:
+      primarytype: 'block'
+      uuid: 'ecf82e95-3912-4913-a2d0-8e677996eaf5'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.351+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.724+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.351+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'They had argued in a lawsuit filed in May that the Trump administration
         lacked the power to cap research funding and eliminate diversity programs
         provided by the NSF that were mandated by Congress and urged the judge to
         reverse grant terminations that began in April.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a828ca29-8f1e-49fd-9a1a-37073b27d219'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.351+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.726+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.351+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But Cronan, a Trump appointee, agreed with the administration that
+    section3:
+      primarytype: 'block'
+      uuid: 'a828ca29-8f1e-49fd-9a1a-37073b27d219'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.351+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.726+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.351+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But Cronan, a Trump appointee, agreed with the administration that
         a challenge to NSF’s already-completed grant terminations could not be pursued
         in his court but instead could only be taken up by the Court of Federal Claims,
         a specialist court that hears monetary claims against the U.S. government.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23623151-7de7-456f-a91e-b0625e336de0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.352+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.352+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said the states likewise failed to show a new NSF policy stating
+    section4:
+      primarytype: 'block'
+      uuid: '23623151-7de7-456f-a91e-b0625e336de0'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.352+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.352+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said the states likewise failed to show a new NSF policy stating
         that research "must aim to create opportunities for all Americans everywhere"
         and that research projects that preference "subgroups of people" do not reflect
         the agency’s priorities was inconsistent with the agency’s governing statute.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4bf2819-1630-4f58-bd55-f997cfcba48d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.352+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.352+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The same day that policy was posted in April, NSF began canceling grants
+    section5:
+      primarytype: 'block'
+      uuid: 'a4bf2819-1630-4f58-bd55-f997cfcba48d'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.352+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.352+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The same day that policy was posted in April, NSF began canceling grants
         that had been previously issued that touched on among other topics of diversity,
         equity and inclusion. Trump has sought to eliminate DEI from the government
         and society.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8e26d72-3a1d-435d-a52a-54e07c6f8e06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.352+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.729+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.352+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The states said the policy was inconsistent with the National Science
+    section6:
+      primarytype: 'block'
+      uuid: 'c8e26d72-3a1d-435d-a52a-54e07c6f8e06'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.352+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.729+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.352+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The states said the policy was inconsistent with the National Science
         Foundation Act’s mandate that the agency award grants "to increase the participation
         of underrepresented populations in STEM fields."'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9940f2a1-ab5e-4b44-a812-d5c8bd1d2dd3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.353+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.730+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.353+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But Cronan said NSF’s policy did not require it to cease supporting
+    section7:
+      primarytype: 'block'
+      uuid: '9940f2a1-ab5e-4b44-a812-d5c8bd1d2dd3'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.353+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.730+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.353+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But Cronan said NSF’s policy did not require it to cease supporting
         such projects and that it has in fact continued to fund a number of such projects,
         including at institutions within the plaintiff states.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9262534-4821-4700-9b11-ba707d4831bd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.353+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.731+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.353+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This evidence powerfully undermines Plaintiffs’ argument that the
+    section8:
+      primarytype: 'block'
+      uuid: 'd9262534-4821-4700-9b11-ba707d4831bd'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.353+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.731+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.353+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This evidence powerfully undermines Plaintiffs’ argument that the
         Priority Directive renders this class of projects categorically ineligible
         for funding," Cronan wrote.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bd79a4b-cb62-4369-8301-373ab4b4c9cd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.354+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.732+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.354+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'NSF declined to comment. A spokesperson for New York Attorney General
-        Letitia James'' office, which took the lead for the plaintiffs, said it is
+    section9:
+      primarytype: 'block'
+      uuid: '5bd79a4b-cb62-4369-8301-373ab4b4c9cd'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.354+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.732+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.354+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'NSF declined to comment. A spokesperson for New York Attorney General
+        Letitia James' office, which took the lead for the plaintiffs, said it is
         reviewing the decision.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'acde6886-3d91-4c80-a0e1-04306a86c7a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-02T15:16:43.354+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-02T15:16:43.734+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-02T15:16:43.354+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Nate Raymond in Boston; Editing by David Gregorio)</em></p>'
+    section10:
+      primarytype: 'block'
+      uuid: 'acde6886-3d91-4c80-a0e1-04306a86c7a2'
+      activationstatus: true
+      created: 2025-08-02T15:16:43.354+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-02T15:16:43.734+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-02T15:16:43.354+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Nate Raymond in Boston; Editing by David Gregorio)</em></p>'

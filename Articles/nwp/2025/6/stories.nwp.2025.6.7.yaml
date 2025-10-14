@@ -1,1160 +1,1160 @@
-'7':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'f5219c35-1899-466d-9f96-70405a954638'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-06-07T10:13:01.909+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-06-07T10:13:10.782+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-06-07T10:13:10.591+08:00
-  'mgnl:lastModified': 2025-06-07T16:11:55.342+08:00
-  'mgnl:lastModifiedBy': 'faith-nwp'
-  'South-Korea-President-Lee-to-attend-G7-summit--spokesperson-says':
-    'author': 'Jack Kim, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T10:13:18.000+08:00
-    'imagesource': 'jcr:d3f88a46-31fd-46cf-824c-ba7ee4f9e25f'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '7a0a75dc-d092-4394-b00f-39ce12847978'
-    'lead': 'South Korea’s new president, Lee Jae-myung, has been invited to the
+section7:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'f5219c35-1899-466d-9f96-70405a954638'
+  activationstatus: true
+  created: 2025-06-07T10:13:01.909+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-06-07T10:13:10.782+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-06-07T10:13:10.591+08:00
+  lastmodified: 2025-06-07T16:11:55.342+08:00
+  lastmodifiedby: 'faith-nwp'
+  'START HERE----->South-Korea-President-Lee-to-attend-G7-summit--spokesperson-says':
+    author: 'Jack Kim, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T10:13:18.000+08:00
+    imagesource: 'd3f88a46-31fd-46cf-824c-ba7ee4f9e25f'
+    primarytype: 'composition'
+    uuid: '7a0a75dc-d092-4394-b00f-39ce12847978'
+    lead: 'South Korea’s new president, Lee Jae-myung, has been invited to the
       mid-month summit of the Group of Seven nations and he plans to attend, a spokesperson
       for his office said on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T10:27:18.240+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T10:27:18.433+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T10:27:18.267+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'South Korea President Lee to attend G7 summit, spokesperson says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f96350c1-522b-4e5e-a2d3-8732a995167b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:27:18.251+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:27:18.433+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:27:18.267+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reuters) - South Korea’s new president, Lee Jae-myung, has been
+    activationstatus: true
+    created: 2025-06-07T10:27:18.240+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T10:27:18.433+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T10:27:18.267+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea President Lee to attend G7 summit, spokesperson says'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f96350c1-522b-4e5e-a2d3-8732a995167b'
+      activationstatus: true
+      created: 2025-06-07T10:27:18.251+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:27:18.433+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:27:18.267+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reuters) - South Korea’s new president, Lee Jae-myung, has been
         invited to the mid-month summit of the Group of Seven nations and he plans
         to attend, a spokesperson for his office said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2b3f572-3873-4776-8fca-0b239de36637'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:27:18.252+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:27:18.435+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:27:18.267+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jack Kim; Editing by William Mallard)</em></p>'
-  'North-Korea-internet-hit-by-a-major-outage--analyst-says':
-    'author': 'Jack Kim and Josh Smith, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T10:29:34.000+08:00
-    'imagesource': 'jcr:767ead80-dc06-4cab-af1e-1317f2bf18e1'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd0522ab8-c132-4542-90bb-88ce3238ce1c'
-    'lead': 'North Korea’s internet is experiencing a major outage on Saturday, said
+    section1:
+      primarytype: 'block'
+      uuid: 'b2b3f572-3873-4776-8fca-0b239de36637'
+      activationstatus: true
+      created: 2025-06-07T10:27:18.252+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:27:18.435+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:27:18.267+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jack Kim; Editing by William Mallard)</em></p>'
+  'START HERE----->North-Korea-internet-hit-by-a-major-outage--analyst-says':
+    author: 'Jack Kim and Josh Smith, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T10:29:34.000+08:00
+    imagesource: '767ead80-dc06-4cab-af1e-1317f2bf18e1'
+    primarytype: 'composition'
+    uuid: 'd0522ab8-c132-4542-90bb-88ce3238ce1c'
+    lead: 'North Korea’s internet is experiencing a major outage on Saturday, said
       a UK-based researcher, adding that the cause may be may be internal rather than
       a cyberattack.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T10:30:29.216+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T10:30:29.425+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'North Korea internet hit by a major outage, analyst says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ee15671-2618-4b2b-a8f3-f49b0ac05394'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.236+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.426+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reuters) - North Korea’s internet is experiencing a major outage
+    activationstatus: true
+    created: 2025-06-07T10:30:29.216+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T10:30:29.425+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T10:30:29.258+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'North Korea internet hit by a major outage, analyst says'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '2ee15671-2618-4b2b-a8f3-f49b0ac05394'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.236+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.426+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reuters) - North Korea’s internet is experiencing a major outage
         on Saturday, said a UK-based researcher, adding that the cause may be may
         be internal rather than a cyberattack.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fbda04fa-ce0c-41ab-987e-87b33d444113'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.236+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.427+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Korea’s main news web sites and its Foreign Ministry internet
+    section1:
+      primarytype: 'block'
+      uuid: 'fbda04fa-ce0c-41ab-987e-87b33d444113'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.236+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.427+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'North Korea’s main news web sites and its Foreign Ministry internet
         site were inaccessible on Saturday morning, according to checks by Reuters.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '788f7ca1-048c-45a1-a5e0-182754fbc30b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.237+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"A major outage is currently occurring on North Korea’s internet -
+    section2:
+      primarytype: 'block'
+      uuid: '788f7ca1-048c-45a1-a5e0-182754fbc30b'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.237+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"A major outage is currently occurring on North Korea’s internet -
         affecting all routes whether they come in via China or Russia," said Junade
         Ali, a U.K.-based researcher who monitors the North Korean internet.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e8a6913e-0e63-455e-93f6-c2c845b32d91'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.237+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'North Korea’s entire internet infrastructure is not showing up on
+    section3:
+      primarytype: 'block'
+      uuid: 'e8a6913e-0e63-455e-93f6-c2c845b32d91'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.237+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'North Korea’s entire internet infrastructure is not showing up on
         systems that can monitor internet activities, he said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c628e02-46a0-4929-82d0-48f6dd162451'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.238+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.430+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Hard to say if this is intentional or accidental - but seems like
+    section4:
+      primarytype: 'block'
+      uuid: '5c628e02-46a0-4929-82d0-48f6dd162451'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.238+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.430+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Hard to say if this is intentional or accidental - but seems like
         this is internal rather than an attack," he said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a92e3e1a-0040-43e4-a097-14e15147cdce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.238+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.431+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Officials at South Korea’s Police cyber terror response centre which
+    section5:
+      primarytype: 'block'
+      uuid: 'a92e3e1a-0040-43e4-a097-14e15147cdce'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.238+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.431+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Officials at South Korea’s Police cyber terror response centre which
         monitors North Korea’s cyber activities could not be reached for comment.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '259b46ce-1393-4f44-97a6-94421a90a92c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:30:29.238+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:30:29.432+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:30:29.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jack Kim and Josh Smith; Editing by Sandra Maler
+    section6:
+      primarytype: 'block'
+      uuid: '259b46ce-1393-4f44-97a6-94421a90a92c'
+      activationstatus: true
+      created: 2025-06-07T10:30:29.238+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:30:29.432+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:30:29.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jack Kim and Josh Smith; Editing by Sandra Maler
         and Edwina Gibbs)</em></p>'
-  'Trump-says-China-s-Xi-agreed-to-let-rare-earth-minerals-flow-to-US':
-    'author': 'Trevor Hunnicutt, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T10:30:33.000+08:00
-    'imagesource': 'jcr:031f45cf-d835-49b3-a7b2-d1863d8e2210'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1f2c601c-1389-447f-95c3-18c2b2b3be55'
-    'lead': 'US President Donald Trump said on Friday that Chinese President Xi Jinping
+  'START HERE----->Trump-says-China-s-Xi-agreed-to-let-rare-earth-minerals-flow-to-US':
+    author: 'Trevor Hunnicutt, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T10:30:33.000+08:00
+    imagesource: '031f45cf-d835-49b3-a7b2-d1863d8e2210'
+    primarytype: 'composition'
+    uuid: '1f2c601c-1389-447f-95c3-18c2b2b3be55'
+    lead: 'US President Donald Trump said on Friday that Chinese President Xi Jinping
       agreed to let rare earth minerals and magnets flow to the United States, a move
       that could lower tensions between the world’s biggest economies.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T10:32:31.619+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T10:32:31.932+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump says China’s Xi agreed to let rare earth minerals flow to US'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf01d9f0-0168-4b2d-9c15-128aa9c196ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.631+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.933+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> US President Donald Trump said on Friday
+    activationstatus: true
+    created: 2025-06-07T10:32:31.619+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T10:32:31.932+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T10:32:31.673+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump says China’s Xi agreed to let rare earth minerals flow to US'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'cf01d9f0-0168-4b2d-9c15-128aa9c196ee'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.631+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.933+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> US President Donald Trump said on Friday
         that Chinese President Xi Jinping agreed to let rare earth minerals and magnets
         flow to the United States, a move that could lower tensions between the world’s
         biggest economies.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '997f860a-175d-4c1e-9111-b34d2a1d896d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.934+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Asked by a reporter aboard Air Force One whether Xi had agreed to do
+    section1:
+      primarytype: 'block'
+      uuid: '997f860a-175d-4c1e-9111-b34d2a1d896d'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.934+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Asked by a reporter aboard Air Force One whether Xi had agreed to do
         so, Trump replied: "Yes, he did."'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f53f6b08-a437-4d6e-8ffc-060c19504b85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.935+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Chinese embassy in Washington did not immediately respond to a
+    section2:
+      primarytype: 'block'
+      uuid: 'f53f6b08-a437-4d6e-8ffc-060c19504b85'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.935+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Chinese embassy in Washington did not immediately respond to a
         request for comment.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c87f8507-52ec-4a1d-b02d-65c2043ac13f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.632+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.936+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s comment came one day after a rare call with Xi aimed at resolving
+    section3:
+      primarytype: 'block'
+      uuid: 'c87f8507-52ec-4a1d-b02d-65c2043ac13f'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.632+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.936+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump’s comment came one day after a rare call with Xi aimed at resolving
         trade tensions that have been brewing over the topic for weeks.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '38725e03-7d44-44ce-ab87-2805e7eee288'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.633+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.937+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'At that time, Trump said there had been "a very positive conclusion"
+    section4:
+      primarytype: 'block'
+      uuid: '38725e03-7d44-44ce-ab87-2805e7eee288'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.633+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.937+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'At that time, Trump said there had been "a very positive conclusion"
         to the talks, adding that "there should no longer be any questions respecting
         the complexity of Rare Earth products."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff89574c-bbb8-4104-be9d-3d45211db6f5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.633+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.938+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In another sign of easing tensions over the issue, China has granted
+    section5:
+      primarytype: 'block'
+      uuid: 'ff89574c-bbb8-4104-be9d-3d45211db6f5'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.633+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.938+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In another sign of easing tensions over the issue, China has granted
         temporary export licenses to rare-earth suppliers of the top three U.S. automakers,
         two sources familiar with the matter said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81de766c-1cce-43da-a1b1-710d01edd6af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.633+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.939+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. president’s top aides are set to meet their Chinese counterparts
+    section6:
+      primarytype: 'block'
+      uuid: '81de766c-1cce-43da-a1b1-710d01edd6af'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.633+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.939+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The U.S. president’s top aides are set to meet their Chinese counterparts
         in London on Monday for further talks.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef2be789-7c7e-46a9-bb77-3a25fef42c04'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.634+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We''re very far advanced on the China deal," Trump told reporters
+    section7:
+      primarytype: 'block'
+      uuid: 'ef2be789-7c7e-46a9-bb77-3a25fef42c04'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.634+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We're very far advanced on the China deal," Trump told reporters
         on Friday.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c83c9c7-06cb-4f32-9fdb-a8613eee9c5b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.634+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The countries struck an agreement on May 12 in Geneva, Switzerland,
+    section8:
+      primarytype: 'block'
+      uuid: '2c83c9c7-06cb-4f32-9fdb-a8613eee9c5b'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.634+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The countries struck an agreement on May 12 in Geneva, Switzerland,
         to roll back for 90 days most of the triple-digit, tit-for-tat tariffs they
         had placed on each other since Trump’s January inauguration. Financial markets
         that had worried about trade disruptions rallied on the news.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6a49aedc-11a6-40f9-a40a-f21475840871'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.634+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.941+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But China’s decision in April to suspend exports of a wide range of
+    section9:
+      primarytype: 'block'
+      uuid: '6a49aedc-11a6-40f9-a40a-f21475840871'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.634+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.941+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But China’s decision in April to suspend exports of a wide range of
         critical minerals and magnets has continued to disrupt supplies needed by
         automakers, computer chip manufacturers and military contractors around the
         world.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb36ea64-18bb-4cf0-957a-c86fa3ed4371'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.635+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.942+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump had accused China of violating the Geneva agreement and ordered
+    section10:
+      primarytype: 'block'
+      uuid: 'fb36ea64-18bb-4cf0-957a-c86fa3ed4371'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.635+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.942+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump had accused China of violating the Geneva agreement and ordered
         curbs on chip-design software and other shipments to China. Beijing rejected
         the claim and threatened counter measures.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23d81092-5139-4eb6-bfa5-acd17b7b5b45'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.635+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.943+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rare earths and other critical minerals are a source of leverage for
+    section11:
+      primarytype: 'block'
+      uuid: '23d81092-5139-4eb6-bfa5-acd17b7b5b45'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.635+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.943+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Rare earths and other critical minerals are a source of leverage for
         China as Trump could come under domestic political pressure if economic growth
         sags because companies cannot make mineral-powered products.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c15cfb93-7b8c-4b32-8b76-2a689a1dd9ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.636+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.944+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Since returning to the White House in January, Trump has repeatedly
+    section12:
+      primarytype: 'block'
+      uuid: 'c15cfb93-7b8c-4b32-8b76-2a689a1dd9ae'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.636+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.944+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Since returning to the White House in January, Trump has repeatedly
         threatened an array of punitive measures on trading partners, only to revoke
         some of them at the last minute. The on-again, off-again approach has baffled
         world leaders and spooked business executives.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0009e54-1e9e-4467-b9ed-aefcc5b427f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T10:32:31.636+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T10:32:31.945+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T10:32:31.673+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Trevor Hunnicutt; Editing by Leslie Adler and
+    section13:
+      primarytype: 'block'
+      uuid: 'c0009e54-1e9e-4467-b9ed-aefcc5b427f2'
+      activationstatus: true
+      created: 2025-06-07T10:32:31.636+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T10:32:31.945+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T10:32:31.673+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Trevor Hunnicutt; Editing by Leslie Adler and
         Edwina Gibbs)</em></p>'
-  '-Fulfill-your-duty---Groups-urge-Senate-to-proceed-with-Duterte-impeachment-trial':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T13:56:30.000+08:00
-    'imagesource': 'jcr:a03192c2-ce79-421e-afb7-105a1d34b485'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '265261d4-d70c-4716-8219-a6dd8261902d'
-    'lead': 'Several groups called for the Senate to proceed with the impeachment
+  'START HERE----->-Fulfill-your-duty---Groups-urge-Senate-to-proceed-with-Duterte-impeachment-trial':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T13:56:30.000+08:00
+    imagesource: 'a03192c2-ce79-421e-afb7-105a1d34b485'
+    primarytype: 'composition'
+    uuid: '265261d4-d70c-4716-8219-a6dd8261902d'
+    lead: 'Several groups called for the Senate to proceed with the impeachment
       trial of Vice President Sara Duterte amid delays and some talks of dismissing
       the case.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T13:58:34.989+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T13:58:35.330+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '‘Fulfill your duty’: Groups urge Senate to proceed with Duterte impeachment
+    activationstatus: true
+    created: 2025-06-07T13:58:34.989+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T13:58:35.330+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T13:58:35.061+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘Fulfill your duty’: Groups urge Senate to proceed with Duterte impeachment
       trial'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2a38bc5f-326e-4578-82bc-dd738d96c560'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.019+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.331+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Several groups called
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '2a38bc5f-326e-4578-82bc-dd738d96c560'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.019+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.331+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Several groups called
         for the Senate to proceed with the impeachment trial of Vice President Sara
         Duterte amid delays and some talks of dismissing the case.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a802cd3f-dbf5-404c-a35e-b3e14c2ece5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.332+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement on Saturday, the Ateneo School of Government said dispensing
+    section1:
+      primarytype: 'block'
+      uuid: 'a802cd3f-dbf5-404c-a35e-b3e14c2ece5d'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.332+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a statement on Saturday, the Ateneo School of Government said dispensing
         the case without a trial would be a “clear attempt to whitewash” the accusations
         against Duterte.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1845b95c-896b-45d7-b1ae-ac56f88c79ed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.334+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We call on the Senate to fulfill its Constitutional duty and to proceed
+    section2:
+      primarytype: 'block'
+      uuid: '1845b95c-896b-45d7-b1ae-ac56f88c79ed'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.334+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We call on the Senate to fulfill its Constitutional duty and to proceed
         with the impeachment trial of Vice President Sara Duterte,” it said. “We remind
         our Senators that they are public servants and their mandate is based on the
         people’s trust.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0edce269-80d9-41d3-a079-3f938821431f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.335+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Ateneo Human Rights Center also urged the Senate to “proceed forthwith
+    section3:
+      primarytype: 'block'
+      uuid: '0edce269-80d9-41d3-a079-3f938821431f'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.335+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Ateneo Human Rights Center also urged the Senate to “proceed forthwith
         - or without delay,” calling for an independent, fair, and fearless process.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79905861-b339-4def-920d-8ed8ca42eb0b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.021+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.336+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Philippine Political Science Association (PPSA) and a group of
+    section4:
+      primarytype: 'block'
+      uuid: '79905861-b339-4def-920d-8ed8ca42eb0b'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.021+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.336+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Philippine Political Science Association (PPSA) and a group of
         De La Salle University alumni made the same push in their respective statements
         released on Friday, June 6.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb2ce070-7dbd-4e91-9e05-5402e9ca4ad9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.021+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.337+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“An independent Senate must rise above political pressures and demonstrate
+    section5:
+      primarytype: 'block'
+      uuid: 'cb2ce070-7dbd-4e91-9e05-5402e9ca4ad9'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.021+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.337+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“An independent Senate must rise above political pressures and demonstrate
         its loyalty to democratic principles and the Filipino people,” the PPSA said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d85b683-21d4-4213-ae5a-d7217bd7e8ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.022+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.338+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“What we have witnessed thus far, however, is the opposite: an institution
+    section6:
+      primarytype: 'block'
+      uuid: '0d85b683-21d4-4213-ae5a-d7217bd7e8ec'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.022+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.338+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“What we have witnessed thus far, however, is the opposite: an institution
         that appears paralyzed and compromised,” it added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '55f7cb88-73f5-42f0-af69-3df47fe6e9a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.022+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.339+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Bagong Alyansang Makabayan (Bayan) and its allied organizations also
+    section7:
+      primarytype: 'block'
+      uuid: '55f7cb88-73f5-42f0-af69-3df47fe6e9a8'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.022+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.339+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Bagong Alyansang Makabayan (Bayan) and its allied organizations also
         said they are set to hold a protest on June 11 to demand that the Senate immediately
         proceed with the trial.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dfa66354-f119-4dea-b1a1-d28696caf9d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.022+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.340+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This cry follows the remark made by Senator Imee Marcos where she mentioned
+    section8:
+      primarytype: 'block'
+      uuid: 'dfa66354-f119-4dea-b1a1-d28696caf9d6'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.022+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.340+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This cry follows the remark made by Senator Imee Marcos where she mentioned
         efforts to dismiss the impeachment case are coming not only from Duterte allies
         but also from those tied to the administration.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8817e49-0a25-4538-83ea-8dc0d5189574'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.023+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.341+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senate President Francis “Chiz” Escudero earlier postponed the highly
+    section9:
+      primarytype: 'block'
+      uuid: 'a8817e49-0a25-4538-83ea-8dc0d5189574'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.023+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.341+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Senate President Francis “Chiz” Escudero earlier postponed the highly
         anticipated convening of the Senate as an impeachment court to June 11 from
         its initial June 2 date.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4de10bbc-33c9-419d-97b6-91e09a29841e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.023+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.341+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Since the Constitution mandates that impeachment proceedings must “forthwith”
+    section10:
+      primarytype: 'block'
+      uuid: '4de10bbc-33c9-419d-97b6-91e09a29841e'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.023+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.341+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Since the Constitution mandates that impeachment proceedings must “forthwith”
         proceed, calls mounted for the Senate to convene as an impeachment court during
         the congressional break. However, Senate leadership maintained that the Articles
         of Impeachment must first be formally read in open session.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '289b066e-4d77-4b43-a95d-251b777c9aed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.024+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.342+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'There is also ongoing debate over whether the impeachment trial can
+    section11:
+      primarytype: 'block'
+      uuid: '289b066e-4d77-4b43-a95d-251b777c9aed'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.024+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.342+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'There is also ongoing debate over whether the impeachment trial can
         carry over into the 20th Congress or if it will lapse with the sine die adjournment
         of the 19th Congress in June.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '497a69cd-4bb1-41e3-84bb-a709a979cc41'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.024+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.343+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Duterte is the first vice president to be impeached by the House of
+    section12:
+      primarytype: 'block'
+      uuid: '497a69cd-4bb1-41e3-84bb-a709a979cc41'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.024+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.343+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Duterte is the first vice president to be impeached by the House of
         Representatives, following an overwhelming vote of over 200 lawmakers on Feb.
         5, the last session day before the midterm election.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '445d084f-3044-49b1-8d18-ef4cffce958b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T13:58:35.025+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T13:58:35.344+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T13:58:35.061+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>She is facing charges related to her alleged misuse of confidential
+    section13:
+      primarytype: 'block'
+      uuid: '445d084f-3044-49b1-8d18-ef4cffce958b'
+      activationstatus: true
+      created: 2025-06-07T13:58:35.025+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T13:58:35.344+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T13:58:35.061+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>She is facing charges related to her alleged misuse of confidential
         funds and public threats against the President, the First Lady, and the Speaker
         of the House.</p>'
-  'LTO-launches-probe-on-160-clinics-issuing-fake-certificates-to-driver-s-license-applicants':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T14:05:56.000+08:00
-    'imagesource': 'jcr:14fcb7e0-5a5a-4c56-8886-190a79bc2759'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1916c955-46c9-4c98-b8ab-94ba9714cff5'
-    'lead': 'The Land Transportation Office (LTO) on Saturday, June 7, said it began
+  'START HERE----->LTO-launches-probe-on-160-clinics-issuing-fake-certificates-to-driver-s-license-applicants':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T14:05:56.000+08:00
+    imagesource: '14fcb7e0-5a5a-4c56-8886-190a79bc2759'
+    primarytype: 'composition'
+    uuid: '1916c955-46c9-4c98-b8ab-94ba9714cff5'
+    lead: 'The Land Transportation Office (LTO) on Saturday, June 7, said it began
       its investigation against 160 accredited medical clinics across the country
       over reports of anomalous issuance of medical certificates.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T14:08:02.579+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T14:08:02.841+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LTO launches probe on 160 clinics issuing fake certificates to driver’s
+    activationstatus: true
+    created: 2025-06-07T14:08:02.579+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T14:08:02.841+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T14:08:02.626+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LTO launches probe on 160 clinics issuing fake certificates to driver’s
       license applicants'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a62e009b-6d45-4040-aa4c-a1837578f89f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.597+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.841+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a62e009b-6d45-4040-aa4c-a1837578f89f'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.597+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.841+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
         Office (LTO) on Saturday, June 7, said it began its investigation against
         160 accredited medical clinics across the country over reports of anomalous
         issuance of medical certificates.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '990811e5-463e-496d-a9d2-0eda3b161eff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.597+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.843+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement, LTO Chief Vigor Mendoza II said the clinics under probe
+    section1:
+      primarytype: 'block'
+      uuid: '990811e5-463e-496d-a9d2-0eda3b161eff'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.597+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.843+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a statement, LTO Chief Vigor Mendoza II said the clinics under probe
         were issuing medical certificates despite not conducting the check up or necessary
         medical procedures on applicants.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6e8006b2-82b4-4d03-a874-66f347932069'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.598+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.844+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Malinaw na kahit hindi ka magpa-check up sa mga clinics na
+    section2:
+      primarytype: 'block'
+      uuid: '6e8006b2-82b4-4d03-a874-66f347932069'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.598+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.844+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Malinaw na kahit hindi ka magpa-check up sa mga clinics na
         ito, basta willing kang magbayad, ay maiisyuhan ka ng medical certificates.
         Hindi ito tama at tinitiyak natin na hahabulin namin ang mga ito,</em>” said
         Mendoza.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '607f47b5-c981-42bc-a562-43a5a798dad2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.598+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.845+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: It is clear that even if you do not get check ups at
+    section3:
+      primarytype: 'block'
+      uuid: '607f47b5-c981-42bc-a562-43a5a798dad2'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.598+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.845+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: It is clear that even if you do not get check ups at
         these clinics, as long as you are willing to pay, you will be issued medical
         certificates. This is not right and we assure that we will pursue these clinics.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be7274d0-5e1f-4275-8a53-ba7459e6f740'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.599+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.846+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The agency said those involved in the illegal non-appearance issuance
+    section4:
+      primarytype: 'block'
+      uuid: 'be7274d0-5e1f-4275-8a53-ba7459e6f740'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.599+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.846+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The agency said those involved in the illegal non-appearance issuance
         of medical certificates will face administrative and criminal charges if found
         guilty.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e388c0e3-220f-4d35-9736-528127760686'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.599+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.847+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'These individuals include the physicians who are signatories to the
+    section5:
+      primarytype: 'block'
+      uuid: 'e388c0e3-220f-4d35-9736-528127760686'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.599+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.847+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'These individuals include the physicians who are signatories to the
         non-appearance medical certificates.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cabe9169-1c9b-42f9-b832-ce104cc3a9b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.599+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.847+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under LTO guidelines, a medical certificate is a major requirement
+    section6:
+      primarytype: 'block'
+      uuid: 'cabe9169-1c9b-42f9-b832-ce104cc3a9b6'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.599+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.847+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Under LTO guidelines, a medical certificate is a major requirement
         to get a driver’s license.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc8fb32d-283d-44d8-8935-e08fc7a377b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.600+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.848+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Mendoza said the scheme of the medical clinics “clearly compromised
+    section7:
+      primarytype: 'block'
+      uuid: 'cc8fb32d-283d-44d8-8935-e08fc7a377b5'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.600+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.848+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Mendoza said the scheme of the medical clinics “clearly compromised
         road safety” since there is no actual check-up for driver’s license applicants.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ae1cd58-a294-48a6-b3f3-9bdf219a21c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T14:08:02.600+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T14:08:02.849+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T14:08:02.626+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>All the 160 accredited medical clinics nationwide will start receiving
+    section8:
+      primarytype: 'block'
+      uuid: '1ae1cd58-a294-48a6-b3f3-9bdf219a21c0'
+      activationstatus: true
+      created: 2025-06-07T14:08:02.600+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T14:08:02.849+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T14:08:02.626+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>All the 160 accredited medical clinics nationwide will start receiving
         show cause orders this week.</p>'
-  'PAGASA--LPA-to-strengthen-habagat-but-may-not-make-landfall':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T15:23:12.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '81dc9ba2-4d8e-4d86-804c-bb517cd7f10d'
-    'lead': 'The low pressure area (LPA) monitored east of the country may develop
+  'START HERE----->PAGASA--LPA-to-strengthen-habagat-but-may-not-make-landfall':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T15:23:12.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    primarytype: 'composition'
+    uuid: '81dc9ba2-4d8e-4d86-804c-bb517cd7f10d'
+    lead: 'The low pressure area (LPA) monitored east of the country may develop
       into a tropical cyclone and strengthen southwest monsoon winds in the next few
       days, the state weather bureau said on Saturday, June 7.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T15:24:01.616+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T15:24:01.871+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PAGASA: LPA to strengthen habagat but may not make landfall'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e53674bb-51e8-4811-9f4b-e1b9fd51ff89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.637+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.873+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The low pressure area
+    activationstatus: true
+    created: 2025-06-07T15:24:01.616+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T15:24:01.871+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T15:24:01.663+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PAGASA: LPA to strengthen habagat but may not make landfall'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e53674bb-51e8-4811-9f4b-e1b9fd51ff89'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.637+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.873+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The low pressure area
         (LPA) monitored east of the country may develop into a tropical cyclone and
         strengthen southwest monsoon winds in the next few days, the state weather
         bureau said on Saturday, June 7.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d9fe07c-0442-4d5d-9704-f084882ed081'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.637+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.874+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a 5 a.m. briefing, the Philippine Atmospheric, Geophysical and Astronomical
+    section1:
+      primarytype: 'block'
+      uuid: '6d9fe07c-0442-4d5d-9704-f084882ed081'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.637+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.874+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a 5 a.m. briefing, the Philippine Atmospheric, Geophysical and Astronomical
         Services Administration (PAGASA) said the LPA last spotted 240 kilometers
         east of Virac, Catanduanes has a “medium chance” of developing into a tropical
         cyclone.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72e59ac2-82c4-41b8-855d-d7529d62a599'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.638+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.876+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Kapag ito ay naging ganap na bagyo maaaring hindi tumama or
+    section2:
+      primarytype: 'block'
+      uuid: '72e59ac2-82c4-41b8-855d-d7529d62a599'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.638+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.876+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Kapag ito ay naging ganap na bagyo maaaring hindi tumama or
         maglandfall sa anumang bahagi ng bansa pero palalakasin nito ang habagat</em>,”
         Weather Specialist Grace Castañeda said.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e7e14e07-e998-44e7-b9c7-8dd6190ef1f5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.638+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.877+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: When it becomes a cyclone, it may not hit or make landfall
+    section3:
+      primarytype: 'block'
+      uuid: 'e7e14e07-e998-44e7-b9c7-8dd6190ef1f5'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.638+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.877+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: When it becomes a cyclone, it may not hit or make landfall
         in any part of the country but it will strengthen the southwest monsoon.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a28f678b-2b4d-466c-996b-570f383c5d2f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.639+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.878+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Once the LPA becomes a tropical depression, it will be called “Auring.”
+    section4:
+      primarytype: 'block'
+      uuid: 'a28f678b-2b4d-466c-996b-570f383c5d2f'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.639+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.878+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Once the LPA becomes a tropical depression, it will be called “Auring.”
         This would be the first cyclone for 2025.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '18e91cbc-3156-4427-89eb-0a99e4e69acf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.639+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.879+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Heavy rainfall is forecast over Quezon, Camarines Norte, Camarines
+    section5:
+      primarytype: 'block'
+      uuid: '18e91cbc-3156-4427-89eb-0a99e4e69acf'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.639+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.879+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Heavy rainfall is forecast over Quezon, Camarines Norte, Camarines
         Sur, Catanduanes, Albay, Sorsogon, Masbate, Northern Samar, and Eastern Samar
         due to the stronger southwest monsoon or habagat.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc553a85-a9cc-43fe-928d-3e8e6e7b5118'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:24:01.639+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:24:01.880+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:24:01.663+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PAGASA earlier said the LPA entered the Philippine Area of Responsibility
+    section6:
+      primarytype: 'block'
+      uuid: 'cc553a85-a9cc-43fe-928d-3e8e6e7b5118'
+      activationstatus: true
+      created: 2025-06-07T15:24:01.639+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:24:01.880+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:24:01.663+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>PAGASA earlier said the LPA entered the Philippine Area of Responsibility
         at 2 a.m. on Friday.</p>'
-  'Yulo-adds-floor-exercise-gold-medal-in-Asian-champs-haul':
-    'caption': 'File photo of Carlos Yulo from the Paris Olympics'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T15:47:19.000+08:00
-    'credit': 'File photo of Carlos Yulo from the Paris Olympics'
-    'imagesource': 'jcr:c473b1d1-cd2a-4fa8-a0b3-ad8f88696083'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c88063ea-2c91-41d4-ba65-dd08a18c4c76'
-    'lead': 'Bemedalled Filipino gymnast Carlos Yulo added another bling to his collection,
+  'START HERE----->Yulo-adds-floor-exercise-gold-medal-in-Asian-champs-haul':
+    caption: 'File photo of Carlos Yulo from the Paris Olympics'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T15:47:19.000+08:00
+    credit: 'File photo of Carlos Yulo from the Paris Olympics'
+    imagesource: 'c473b1d1-cd2a-4fa8-a0b3-ad8f88696083'
+    primarytype: 'composition'
+    uuid: 'c88063ea-2c91-41d4-ba65-dd08a18c4c76'
+    lead: 'Bemedalled Filipino gymnast Carlos Yulo added another bling to his collection,
       taking home the gold medal for the floor exercise event at the 2025 Artistic
       Gymnastics Asian Championships in Jecheon, South Korea on Saturday, June 7.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T15:49:51.990+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T15:57:14.314+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T15:57:14.066+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Yulo adds floor exercise gold medal in Asian champs haul'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8326f268-5d3a-4306-894a-8edcada4431a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.011+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.315+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.062+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Bemedalled Filipino
+    activationstatus: true
+    created: 2025-06-07T15:49:51.990+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T15:57:14.314+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T15:57:14.066+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Yulo adds floor exercise gold medal in Asian champs haul'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8326f268-5d3a-4306-894a-8edcada4431a'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.011+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.315+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.062+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Bemedalled Filipino
         gymnast Carlos Yulo added another bling to his collection, taking home the
         gold medal for the floor exercise event at the 2025 Artistic Gymnastics Asian
         Championships in Jecheon, South Korea on Saturday, June 7.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1037caae-371c-4b4e-996d-e33f0897ed1b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.011+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.316+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.062+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yulo garnered a 14.600 overall score for his finals routine to dominate
+    section1:
+      primarytype: 'block'
+      uuid: '1037caae-371c-4b4e-996d-e33f0897ed1b'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.011+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.316+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.062+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Yulo garnered a 14.600 overall score for his finals routine to dominate
         one of his pet events.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9530a83-b17e-47e1-80e6-572af1947918'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.012+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.318+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.063+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kazakhstan’s Karimi Milad and South Korea’s Moon Geonyoung scored 14.400
+    section2:
+      primarytype: 'block'
+      uuid: 'e9530a83-b17e-47e1-80e6-572af1947918'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.012+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.318+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.063+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Kazakhstan’s Karimi Milad and South Korea’s Moon Geonyoung scored 14.400
         and 14.033, respectively, to take home silver and bronze.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb59d0f1-7dc0-4282-a7b3-0dbd2e0a179c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.012+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.319+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.063+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The 25-year-old ace earlier bagged a bronze medal for the men’s all-around
+    section3:
+      primarytype: 'block'
+      uuid: 'cb59d0f1-7dc0-4282-a7b3-0dbd2e0a179c'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.012+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.319+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.063+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The 25-year-old ace earlier bagged a bronze medal for the men’s all-around
         event of the same championships.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9e240fc-173e-4415-876e-016e74adb952'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.012+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.320+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.064+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In that performance, Yulo ruled the floor exercise apparatus with 14.433
+    section4:
+      primarytype: 'block'
+      uuid: 'a9e240fc-173e-4415-876e-016e74adb952'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.012+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.320+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.064+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In that performance, Yulo ruled the floor exercise apparatus with 14.433
         points and a cumulative vault score of 14.4 points.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12c03875-c39b-44ab-9716-7e52691b783a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.013+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.321+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.064+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Yulo could still add to his medal haul as he competes in the rings
+    section5:
+      primarytype: 'block'
+      uuid: '12c03875-c39b-44ab-9716-7e52691b783a'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.013+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.321+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.064+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Yulo could still add to his medal haul as he competes in the rings
         event on Saturday and vault, parallel bars and horizontal bar on Sunday.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2224f50-6669-45d6-8b99-236488d7d019'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T15:49:52.013+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T15:57:14.322+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T15:57:14.065+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Yulo’s historic double-gold win at the Paris 2024 Summer Olympics
+    section6:
+      primarytype: 'block'
+      uuid: 'f2224f50-6669-45d6-8b99-236488d7d019'
+      activationstatus: true
+      created: 2025-06-07T15:49:52.013+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T15:57:14.322+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T15:57:14.065+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Yulo’s historic double-gold win at the Paris 2024 Summer Olympics
         was for his floor exercise and vault performances.</p>'
-  'PH-grants-visa-free-privileges-for-Indian-tourists':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-07T16:11:55.000+08:00
-    'imagesource': 'jcr:3d1f155d-06c2-4462-ab01-90860f46aa68'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e639b145-82cd-439f-aa5d-92bff01abadc'
-    'lead': 'The Department of Foreign Affairs (DFA) announced that the Philippines
+  'START HERE----->PH-grants-visa-free-privileges-for-Indian-tourists':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-07T16:11:55.000+08:00
+    imagesource: '3d1f155d-06c2-4462-ab01-90860f46aa68'
+    primarytype: 'composition'
+    uuid: 'e639b145-82cd-439f-aa5d-92bff01abadc'
+    lead: 'The Department of Foreign Affairs (DFA) announced that the Philippines
       has granted visa-free privileges for Indian tourists starting Sunday, June 8.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-07T16:13:30.943+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-07T16:31:58.723+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-07T16:31:58.475+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PH grants visa-free privileges for Indian tourists'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7ac6ecf1-e7ac-40c0-8010-88de3a085e8b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.461+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.724+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.471+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Department of Foreign
+    activationstatus: true
+    created: 2025-06-07T16:13:30.943+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-07T16:31:58.723+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-07T16:31:58.475+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH grants visa-free privileges for Indian tourists'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7ac6ecf1-e7ac-40c0-8010-88de3a085e8b'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.461+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.724+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.471+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Department of Foreign
         Affairs (DFA) announced that the Philippines has granted visa-free privileges
         for Indian tourists starting Sunday, June 8.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95e95b37-b70a-43d9-9d10-0cd15a424d0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.461+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.725+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.461+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an advisory on Saturday, June 7, the DFA said the move is in line
+    section1:
+      primarytype: 'block'
+      uuid: '95e95b37-b70a-43d9-9d10-0cd15a424d0c'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.461+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.725+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.461+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In an advisory on Saturday, June 7, the DFA said the move is in line
         with the department’s aim of enhancing tourism arrivals from India.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '09e2dedf-991d-490d-af69-259379b5ccc6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.462+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.462+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under the updated visa policies, Indian nationals may enter the country
+    section2:
+      primarytype: 'block'
+      uuid: '09e2dedf-991d-490d-af69-259379b5ccc6'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.462+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.462+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Under the updated visa policies, Indian nationals may enter the country
         without a visa for a non-extendible and non-convertible period of 14 days
         for tourism purposes.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c637f1a-0b70-4478-ae17-89c1e441930c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.462+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.462+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The tourist should be able to present a passport valid for at least
+    section3:
+      primarytype: 'block'
+      uuid: '3c637f1a-0b70-4478-ae17-89c1e441930c'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.462+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.462+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The tourist should be able to present a passport valid for at least
         six months beyond the contemplated stay, a confirmed hotel accommodation or
         booking, proof of financial capacity, and a return or onward ticket to the
         next country of destination.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '30c1d25c-9957-4127-b0ed-a3cbf82e9370'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.463+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.729+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.463+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'DFA said Indian nationals holding valid and current American, Japanese,
+    section4:
+      primarytype: 'block'
+      uuid: '30c1d25c-9957-4127-b0ed-a3cbf82e9370'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.463+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.729+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.463+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'DFA said Indian nationals holding valid and current American, Japanese,
         Australian, Canadian, Schengen, Singapore or United Kingdom (AJACSSUK) visas
         or residence permits may also enter the Philippines without a visa for a non-extendible
         period of 30 days for tourism.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ae5dae34-53b9-44dc-9b78-67099f0850a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.463+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.730+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.463+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'They should also be able to present a passport valid for at least six
+    section5:
+      primarytype: 'block'
+      uuid: 'ae5dae34-53b9-44dc-9b78-67099f0850a4'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.463+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.730+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.463+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'They should also be able to present a passport valid for at least six
         months beyond the contemplated stay and a return or onward ticket for their
         flight out of the country.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '30f2c05b-5e1a-47da-b2fe-3c12fe227c05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.464+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.732+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.464+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e5ac6c0c-77c4-4c51-8656-f42e95507369'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.464+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.733+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.464+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“The updated visa-free privileges for Indian nationals may be availed
+    section6:
+      primarytype: 'block'
+      uuid: '30f2c05b-5e1a-47da-b2fe-3c12fe227c05'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.464+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.732+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.464+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section7:
+      primarytype: 'block'
+      uuid: 'e5ac6c0c-77c4-4c51-8656-f42e95507369'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.464+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.733+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.464+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“The updated visa-free privileges for Indian nationals may be availed
         of at any Philippine port of entry, and are not convertible to a visa-based
         stay or other admission status categories,” the DFA advisory states.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c05f9a7a-ac58-4e96-854c-ad34d936fad8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.464+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.734+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.464+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Indian nationals must also not have any record with the Bureau of Immigration
+    section8:
+      primarytype: 'block'
+      uuid: 'c05f9a7a-ac58-4e96-854c-ad34d936fad8'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.464+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.734+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.464+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Indian nationals must also not have any record with the Bureau of Immigration
         in order to be admitted into the country without a visa.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec590618-55c1-44d4-a7f0-8ab18e0f0c24'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.465+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.735+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.465+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23ed2fdf-4855-4bf2-b0c7-de79f0e660eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-07T16:31:58.465+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-07T16:31:58.736+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-07T16:31:58.465+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, those transiting in the Philippines or entering the country
+    section9:
+      primarytype: 'block'
+      uuid: 'ec590618-55c1-44d4-a7f0-8ab18e0f0c24'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.465+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.735+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.465+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section10:
+      primarytype: 'block'
+      uuid: '23ed2fdf-4855-4bf2-b0c7-de79f0e660eb'
+      activationstatus: true
+      created: 2025-06-07T16:31:58.465+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-07T16:31:58.736+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-07T16:31:58.465+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Meanwhile, those transiting in the Philippines or entering the country
         for long-term visits and non-tourism activities are required to apply for
         an appropriate visa at a Philippine Embassy or Consulate in their country
         or origin, place of legal residence, or any country that requires entry visas

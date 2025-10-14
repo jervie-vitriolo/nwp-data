@@ -1,1614 +1,1614 @@
-'21':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '77c860ed-0ab1-493d-801a-2c49e555d34d'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-07-21T12:38:45.380+08:00
-  'mgnl:createdBy': 'jelo-nwp'
-  'mgnl:lastActivated': 2024-07-21T12:45:56.416+08:00
-  'mgnl:lastActivatedBy': 'jelo-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2024-07-21T12:45:56.263+08:00
-  'mgnl:lastModified': 2024-07-21T22:41:18.915+08:00
-  'mgnl:lastModifiedBy': 'tristan-nwp'
-  'carina-habagat-sunday':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T12:41:15.000+08:00
-    'imagesource': 'jcr:29efb856-8bf6-4f76-8bc6-138c33014226'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '72b63bd9-ba60-48ad-936e-7b2b0db29442'
-    'lead': 'PAGASA raised Signal No. 1 over the northeastern portion of Cagayan (Santa
+section21:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '77c860ed-0ab1-493d-801a-2c49e555d34d'
+  activationstatus: true
+  created: 2024-07-21T12:38:45.380+08:00
+  createdby: 'jelo-nwp'
+  lastactivated: 2024-07-21T12:45:56.416+08:00
+  lastactivatedby: 'jelo-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2024-07-21T12:45:56.263+08:00
+  lastmodified: 2024-07-21T22:41:18.915+08:00
+  lastmodifiedby: 'tristan-nwp'
+  'START HERE----->carina-habagat-sunday':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T12:41:15.000+08:00
+    imagesource: '29efb856-8bf6-4f76-8bc6-138c33014226'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '72b63bd9-ba60-48ad-936e-7b2b0db29442'
+    lead: 'PAGASA raised Signal No. 1 over the northeastern portion of Cagayan (Santa
       Ana). The bureau warns minimal to minor impacts due to strong winds may be experienced
       within the area.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T12:43:21.890+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-21T23:58:26.271+08:00
-    'mgnl:lastActivatedBy': 'jelo-nwp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2024-07-21T23:58:25.957+08:00
-    'mgnl:lastModified': 2024-07-21T23:56:00.704+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['PAGASA', 'habagat', 'CarinaPH']
-    'stories': []
-    'template': '1'
-    'title': '‘Carina’ becomes severe tropical storm'
-    'updated': 2024-07-21T23:54:05.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a90e4ac8-803c-4ea6-aa26-da2eb46ac49a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.692+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.271+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.692+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> “Carina” (international
+    activationstatus: true
+    created: 2024-07-21T12:43:21.890+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-21T23:58:26.271+08:00
+    lastactivatedby: 'jelo-nwp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2024-07-21T23:58:25.957+08:00
+    lastmodified: 2024-07-21T23:56:00.704+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘Carina’ becomes severe tropical storm'
+    updated: 2024-07-21T23:54:05.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a90e4ac8-803c-4ea6-aa26-da2eb46ac49a'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.692+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.271+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.692+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> “Carina” (international
         name: Gaemi) intensified into a severe tropical storm on Sunday evening July
         20, the Philippine Atmospheric, Geophysical and Astronomical Services Administration
         (PAGASA).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a457a0e6-4ab2-4b35-866e-bad69eae9f1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.692+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.272+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.692+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In an 11 p.m. bulletin, PAGASA raised Signal No. 1 over the northeastern\
+    section1:
+      primarytype: 'block'
+      uuid: 'a457a0e6-4ab2-4b35-866e-bad69eae9f1c'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.692+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.272+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.692+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In an 11 p.m. bulletin, PAGASA raised Signal No. 1 over the northeastern\
         \ portion of Cagayan (Santa Ana) due to “Carina”. Government meteorologists\
         \ warn minimal to minor impacts due to strong winds may be experienced within\
         \ the area.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b1660a2-9753-4470-aa7e-4638c8182a09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.692+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.272+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.692+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "According to PAGASA, heavy to intense rains are possible over the extreme\
+    section2:
+      primarytype: 'block'
+      uuid: '4b1660a2-9753-4470-aa7e-4638c8182a09'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.692+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.272+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.692+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "According to PAGASA, heavy to intense rains are possible over the extreme\
         \ northeastern portion of mainland Cagayan from Sunday night to Monday night.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd6f4b1c4-d70f-41e8-8d5d-3246ac460bca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.693+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.272+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.693+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Moderate to heavy rains are also expected over Babuyan Islands and\
+    section3:
+      primarytype: 'block'
+      uuid: 'd6f4b1c4-d70f-41e8-8d5d-3246ac460bca'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.693+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.272+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.693+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Moderate to heavy rains are also expected over Babuyan Islands and\
         \ the eastern portions of mainland Cagayan and Isabela.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe590be3-5344-4d1d-9d79-4c1f712b7c3c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.693+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.274+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.693+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Carina” would enhance the southwest monsoon, or habagat, that may
+    section4:
+      primarytype: 'block'
+      uuid: 'fe590be3-5344-4d1d-9d79-4c1f712b7c3c'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.693+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.274+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.693+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>“Carina” would enhance the southwest monsoon, or habagat, that may
         bring moderate to heavy rains over La Union, Pangasinan, Benguet, Zambales,
         Bataan, and Occidental Mindoro on Monday.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78a65a0d-1978-446d-9245-95525fcb3b5e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.693+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.274+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.693+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The enhanced habagat may also bring moderate to occasionally heavy\
+    section5:
+      primarytype: 'block'
+      uuid: '78a65a0d-1978-446d-9245-95525fcb3b5e'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.693+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.274+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.693+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The enhanced habagat may also bring moderate to occasionally heavy\
         \ rains over Metro Manila, Ilocos Norte, Ilocos Sur, Abra, Tarlac, Pampanga,\
         \ Bulacan, Nueva Ecija, Rizal, Cavite, Batangas, and Calamian Islands on Monday.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a9729a5-8d14-483f-9043-ff3103fff787'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.694+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.274+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.694+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Due to the strengthened habagat, strong to gale-force gusts are expected\
+    section6:
+      primarytype: 'block'
+      uuid: '3a9729a5-8d14-483f-9043-ff3103fff787'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.694+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.274+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.694+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Due to the strengthened habagat, strong to gale-force gusts are expected\
         \ over Mimaropa, Bicol Region, Western Visayas, Northern Samar, and the northern\
         \ portion of Samar (province) from Sunday night to Monday night.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c1c8cbb-b7fa-483d-a32b-f0e113a0a61c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.694+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.275+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.694+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Weather forecasters see “Carina” intensifying into a typhoon within\
+    section7:
+      primarytype: 'block'
+      uuid: '5c1c8cbb-b7fa-483d-a32b-f0e113a0a61c'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.694+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.275+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.694+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Weather forecasters see “Carina” intensifying into a typhoon within\
         \ 24 hours, before leaving the Philippine Area of Responsibility by Wednesday\
         \ night or early Thursday morning. PAGASA said rapid intensification is possible.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f4d809d-40b3-45fc-a55e-752eae2b76ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.695+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.275+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.695+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The tropical storm was last seen 385 kilometers (km) east of Casiguran,\
+    section8:
+      primarytype: 'block'
+      uuid: '6f4d809d-40b3-45fc-a55e-752eae2b76ce'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.695+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.275+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.695+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The tropical storm was last seen 385 kilometers (km) east of Casiguran,\
         \ Aurora. Track forecast shows the tropical cyclone would remain offshore.\
         \ \r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0d586db-caba-48e2-932c-0c9d67f56a52'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T23:56:00.695+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:58:26.275+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-21T23:56:00.695+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>It was packing maximum sustained winds of 95 km per hour (km/h)
+    section9:
+      primarytype: 'block'
+      uuid: 'e0d586db-caba-48e2-932c-0c9d67f56a52'
+      activationstatus: true
+      created: 2024-07-21T23:56:00.695+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:58:26.275+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-21T23:56:00.695+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>It was packing maximum sustained winds of 95 km per hour (km/h)
         near the center and gustiness of up to 115 km/h.</p>'
-  'list-sona-2024-protests':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T13:53:50.000+08:00
-    'imagesource': 'jcr:ba421c57-c656-4ef0-b8d3-cfe813ea9aff'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'bc221ae0-ae07-40f6-9418-9c9e0c886e8d'
-    'lead': 'A number of groups are scheduled to protest outside the Batasang Pambansa
+  'START HERE----->list-sona-2024-protests':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T13:53:50.000+08:00
+    imagesource: 'ba421c57-c656-4ef0-b8d3-cfe813ea9aff'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'bc221ae0-ae07-40f6-9418-9c9e0c886e8d'
+    lead: 'A number of groups are scheduled to protest outside the Batasang Pambansa
       in Quezon City on Monday against the State of the Nation Address (SONA).
 
 
       Here’s a running list of protest activities.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T14:23:08.899+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2024-07-21T14:23:23.114+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2024-07-21T14:23:22.596+08:00
-    'mgnl:lastModified': 2024-07-21T14:23:08.955+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['SONA-2024', 'protests', 'Ferdinand-Marcos-Jr.', 'bayan', 'SONA','Sara-Duterte', 'Bongbong-Marcos']
-    'stories': ['66a25327-5826-4657-936a-3ddb43fc7e8b']
-    'template': '1'
-    'title': 'LIST: Protest activities for SONA 2024'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'caa97bf3-4a0f-415f-83c4-a723e0353c45'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.927+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.114+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.947+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines –</strong> A number of groups
+    activationstatus: true
+    created: 2024-07-21T14:23:08.899+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2024-07-21T14:23:23.114+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2024-07-21T14:23:22.596+08:00
+    lastmodified: 2024-07-21T14:23:08.955+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: '66a25327-5826-4657-936a-3ddb43fc7e8b'
+    template: '1'
+    title: 'LIST: Protest activities for SONA 2024'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'caa97bf3-4a0f-415f-83c4-a723e0353c45'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.927+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.114+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.947+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines –</strong> A number of groups
         are scheduled to protest outside the Batasang Pambansa in Quezon City on Monday
         against the State of the Nation Address (SONA).</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a67e617f-2320-4f81-831e-b36bdd19f0ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.928+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.114+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.928+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Here’s a running list of protest activities:'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f9ed1ffb-3106-4acd-bce1-72cceec58334'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.928+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.115+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.928+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>People’ SONA</strong></h2>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '213da833-81f7-451b-945b-5a314369da6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.928+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.115+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.928+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At 2:30 p.m., the Bagong Alyansang Makabayan (BAYAN) along with several
+    section1:
+      primarytype: 'block'
+      uuid: 'a67e617f-2320-4f81-831e-b36bdd19f0ae'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.928+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.114+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.928+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Here’s a running list of protest activities:'
+    section2:
+      primarytype: 'block'
+      uuid: 'f9ed1ffb-3106-4acd-bce1-72cceec58334'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.928+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.115+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.928+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>People’ SONA</strong></h2>'
+    section3:
+      primarytype: 'block'
+      uuid: '213da833-81f7-451b-945b-5a314369da6b'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.928+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.115+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.928+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At 2:30 p.m., the Bagong Alyansang Makabayan (BAYAN) along with several
         progressive groups will hold the annual “People’s SONA”.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eeb9d41b-4b9d-450a-a257-8eaa0d1a58a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.929+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.115+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.929+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The program will tackle poverty, human rights violations, and the perceived
+    section4:
+      primarytype: 'block'
+      uuid: 'eeb9d41b-4b9d-450a-a257-8eaa0d1a58a9'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.929+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.115+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.929+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The program will tackle poverty, human rights violations, and the perceived
         rift between President Ferdinand Marcos Jr. and Vice President Sara Duterte.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95c8c3a5-b6b1-4270-9a36-b1909e49f1ed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.929+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.115+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.929+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'An effigy called “Umbagang Pilipinas” depicting the Marcos-Duterte
+    section5:
+      primarytype: 'block'
+      uuid: '95c8c3a5-b6b1-4270-9a36-b1909e49f1ed'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.929+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.115+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.929+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'An effigy called “Umbagang Pilipinas” depicting the Marcos-Duterte
         feud, will be burned at the event.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a9e384a-cadd-47b4-85dd-14bcc3581679'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.930+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.115+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.930+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Protesters will also toss a huge ball dubbed as “Binobolang Pilipinas”
+    section6:
+      primarytype: 'block'
+      uuid: '9a9e384a-cadd-47b4-85dd-14bcc3581679'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.930+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.115+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.930+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Protesters will also toss a huge ball dubbed as “Binobolang Pilipinas”
         to slam the  administration’s “Bagong Pilipinas” slogan.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '02decead-c4e8-484f-a993-f7fce1da301a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.930+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.116+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.930+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Build-up activities</strong></h2>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad9e5d27-fee7-425d-8641-b6275f4c3714'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.930+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.116+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.930+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Groups will also hold separate activities ahead of the main protest.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '252245d7-b27b-4b03-869c-34fa4926277b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.931+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.116+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.931+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At 6 a.m., the BAYAN Southern Tagalog chapter will conduct its “State
+    section7:
+      primarytype: 'block'
+      uuid: '02decead-c4e8-484f-a993-f7fce1da301a'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.930+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.116+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.930+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Build-up activities</strong></h2>'
+    section8:
+      primarytype: 'block'
+      uuid: 'ad9e5d27-fee7-425d-8641-b6275f4c3714'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.930+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.116+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.930+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Groups will also hold separate activities ahead of the main protest.'
+    section9:
+      primarytype: 'block'
+      uuid: '252245d7-b27b-4b03-869c-34fa4926277b'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.931+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.116+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.931+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At 6 a.m., the BAYAN Southern Tagalog chapter will conduct its “State
         of the Region Address” along the Diliman Doctors Hospital in Quezon City.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48303f62-7329-439b-8e8f-400e98cf4a50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.931+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.116+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.931+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Members of the National Wage Coalition Conduct will gather on Commonwealth
+    section10:
+      primarytype: 'block'
+      uuid: '48303f62-7329-439b-8e8f-400e98cf4a50'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.931+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.116+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.931+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Members of the National Wage Coalition Conduct will gather on Commonwealth
         Avenue at 7 a.m. and march to the Commission on Human Rights (CHR).'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc8cf60c-ccb8-4614-bd1c-13a4fc083c4f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.932+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.117+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.932+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'At 11 a.m., Gabriela will hold its “State of the Women Address” near
+    section11:
+      primarytype: 'block'
+      uuid: 'cc8cf60c-ccb8-4614-bd1c-13a4fc083c4f'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.932+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.117+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.932+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'At 11 a.m., Gabriela will hold its “State of the Women Address” near
         the Philippine Coconut Authority.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b16d376-2e2a-49a7-a687-c4c44b5d10d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.932+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.117+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.932+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Farmer’s group Kilusang Magbubukid ng Pilipinas (KMP) will join the
+    section12:
+      primarytype: 'block'
+      uuid: '4b16d376-2e2a-49a7-a687-c4c44b5d10d1'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.932+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.117+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.932+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Farmer’s group Kilusang Magbubukid ng Pilipinas (KMP) will join the
         gathering along CHR at 11:30 a.m.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e27c0c8-a54a-4757-a8a4-19aebc86d38a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.933+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.117+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.933+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Members of the Alliance of Concerned Teachers (ACT) will gather at
+    section13:
+      primarytype: 'block'
+      uuid: '7e27c0c8-a54a-4757-a8a4-19aebc86d38a'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.933+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.117+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.933+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Members of the Alliance of Concerned Teachers (ACT) will gather at
         the Quezon Memorial Circle at 11 a.m.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd416d307-1ac2-4efa-b9d9-68675efd1508'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.933+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.117+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.933+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, Transport group MANIBELA will hold its “State of the
+    section14:
+      primarytype: 'block'
+      uuid: 'd416d307-1ac2-4efa-b9d9-68675efd1508'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.933+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.117+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.933+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, Transport group MANIBELA will hold its “State of the
         Public Transport Address” in the afternoon. Mar Valbuena, the group’s chairperson,
         told NewsWatch Plus over 4,000 jeepney drivers and operators are expected
         to join in protests nationwide.</p>'
-    '15':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fteammanibela%2Fposts%2Fpfbid0WJA7giuHKkVzKcA3rN1SRgbrwzF2YnBVK3GuXvTrvzddrhZBPvUtzfirzgkMoZNCl&show_text=true&width=500"
+    section15:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fteammanibela%2Fposts%2Fpfbid0WJA7giuHKkVzKcA3rN1SRgbrwzF2YnBVK3GuXvTrvzddrhZBPvUtzfirzgkMoZNCl&show_text=true&width=500"
         width="500" height="638" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>
-
-        '
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3d9276a2-557a-4069-b587-fdbce452fa2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.934+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.118+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.934+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'embedCode'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a5b55ee-8f55-4e1d-b366-ffc093569b2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.934+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.118+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.934+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Outside NCR</strong></h2>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eee153e1-8a04-4db8-acdd-7fa5b2262f27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.935+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.118+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.935+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Progressive groups will also hold protest activities outside Metro
+'
+        
+      primarytype: 'block'
+      uuid: '3d9276a2-557a-4069-b587-fdbce452fa2c'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.934+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.118+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.934+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'embedcode'
+    section16:
+      primarytype: 'block'
+      uuid: '9a5b55ee-8f55-4e1d-b366-ffc093569b2c'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.934+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.118+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.934+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Outside NCR</strong></h2>'
+    section17:
+      primarytype: 'block'
+      uuid: 'eee153e1-8a04-4db8-acdd-7fa5b2262f27'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.935+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.118+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.935+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Progressive groups will also hold protest activities outside Metro
         Manila.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3eed791e-b845-4074-9cdf-58d427a239cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.935+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.119+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.935+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>BAYAN members will gather in Baguio, Cebu, and Davao.</p>'
-    '19':
-      'contentWidth': 'fit-content'
-      'embedCode': '
-
+    section18:
+      primarytype: 'block'
+      uuid: '3eed791e-b845-4074-9cdf-58d427a239cf'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.935+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.119+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.935+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>BAYAN members will gather in Baguio, Cebu, and Davao.</p>'
+    section19:
+      contentwidth: 'fit-content'
+      embedcode: '
+'
         <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBAYANPhilippines%2Fposts%2Fpfbid031W1HWswauM76mJECnoQrb6jZZGH2mRixS48DBa4m9RKx69mKaUqA4MhyR6zfscKsl&show_text=true&width=500"
         width="500" height="510" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>
-
-        '
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7098a117-fa7b-4cb4-9ac0-373a7f037ada'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.936+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.119+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.936+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'embedCode'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b03c1fa-d60f-465a-aa9d-5743351d31fc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.937+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.119+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.937+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The group’s international chapters are also set to convene in their
+'
+        
+      primarytype: 'block'
+      uuid: '7098a117-fa7b-4cb4-9ac0-373a7f037ada'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.936+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.119+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.936+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'embedcode'
+    section20:
+      primarytype: 'block'
+      uuid: '9b03c1fa-d60f-465a-aa9d-5743351d31fc'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.937+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.119+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.937+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>The group’s international chapters are also set to convene in their
         own protests on July 21.</p>'
-    '21':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBAYANPhilippines%2Fposts%2Fpfbid032KwzZrGeTZ5dfzWH1i8ARCT3peZkjGjyJKSRNALB5T72pEma15keqPPL8qFmM99al&show_text=true&width=500"
+    section21:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBAYANPhilippines%2Fposts%2Fpfbid032KwzZrGeTZ5dfzWH1i8ARCT3peZkjGjyJKSRNALB5T72pEma15keqPPL8qFmM99al&show_text=true&width=500"
         width="500" height="548" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76215e06-e210-48ac-a0c0-61bc7e2173db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.937+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.119+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.937+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'embedCode'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1eb1512-c4bb-4559-b5ae-5278dda7e728'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:23:08.938+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2024-07-21T14:23:23.119+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2024-07-21T14:23:08.938+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
+      primarytype: 'block'
+      uuid: '76215e06-e210-48ac-a0c0-61bc7e2173db'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.937+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.119+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.937+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'embedcode'
+    section22:
+      primarytype: 'block'
+      uuid: 'a1eb1512-c4bb-4559-b5ae-5278dda7e728'
+      activationstatus: true
+      created: 2024-07-21T14:23:08.938+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2024-07-21T14:23:23.119+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2024-07-21T14:23:08.938+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
         report.</em></p>'
-  'weather-july-22-sona-day':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T14:29:48.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '30f0fa87-e579-4caf-8981-9f9ac4b0c874'
-    'lead': 'Parts of the country, including Metro Manila, may expect rains on Monday,
+  'START HERE----->weather-july-22-sona-day':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T14:29:48.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    primarytype: 'composition'
+    uuid: '30f0fa87-e579-4caf-8981-9f9ac4b0c874'
+    lead: 'Parts of the country, including Metro Manila, may expect rains on Monday,
       July 22, when President Ferdinand Marcos Jr. will face the nation for his annual
       address.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T14:36:09.517+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-22T00:12:24.775+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-22T00:12:24.487+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['PAGASA', 'habagat', 'State-of-the-Nation-Address-2024', 'SONA2024','CarinaPH']
-    'stories': []
-    'template': '1'
-    'title': 'Rainy SONA day: Here’s the weather advisory for July 22'
-    'updated': 2024-07-22T00:07:15.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ce2ae1a-034c-4c1f-99e5-89dd01ba5459'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.605+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.482+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Parts of the country,
+    activationstatus: true
+    created: 2024-07-21T14:36:09.517+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-22T00:12:24.775+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-22T00:12:24.487+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Rainy SONA day: Here’s the weather advisory for July 22'
+    updated: 2024-07-22T00:07:15.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8ce2ae1a-034c-4c1f-99e5-89dd01ba5459'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.605+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.482+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Parts of the country,
         including Metro Manila, may expect rains on Monday, July 22, when President
         Ferdinand Marcos Jr. will face the nation for his annual address.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '730fbae2-857b-4953-929c-cc184ae59aca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.605+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.482+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In an 11 p.m. advisory on Sunday, July 21, the Philippine Atmospheric,
+    section1:
+      primarytype: 'block'
+      uuid: '730fbae2-857b-4953-929c-cc184ae59aca'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.605+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.482+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>In an 11 p.m. advisory on Sunday, July 21, the Philippine Atmospheric,
         Geophysical and Astronomical Services Administration (PAGASA) raised Signal
         No. 1 over the northeastern portion of Cagayan (Santa Ana) due to severe tropical
         storm Carina. Government meteorologists warn minimal to minor impacts due
         to strong winds may be experienced within the area.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc3b6e91-a32f-4ede-b406-52afb0abd4c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-22T00:12:24.473+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.777+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.482+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PAGASA said the southwest monsoon, or habagat, enhanced by tropical
+    section10:
+      primarytype: 'block'
+      uuid: 'fc3b6e91-a32f-4ede-b406-52afb0abd4c7'
+      activationstatus: true
+      created: 2024-07-22T00:12:24.473+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.777+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.482+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>PAGASA said the southwest monsoon, or habagat, enhanced by tropical
         storm Carina,&nbsp; may bring rains in the following areas:</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5167b38d-6fdc-4b20-834f-832014372991'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.606+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.777+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.483+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Possible moderate to heavy rains (50-100 mm) over La Union, Pangasinan,
+    section2:
+      primarytype: 'block'
+      uuid: '5167b38d-6fdc-4b20-834f-832014372991'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.606+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.777+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.483+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Possible moderate to heavy rains (50-100 mm) over La Union, Pangasinan,
         Benguet, Zambales, Bataan, and Occidental Mindoro</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85192b3b-c64b-4b82-93e3-071c841662d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.606+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.778+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.483+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Possible moderate to occasionally heavy rains (50-100 mm) over
+    section3:
+      primarytype: 'block'
+      uuid: '85192b3b-c64b-4b82-93e3-071c841662d4'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.606+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.778+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.483+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Possible moderate to occasionally heavy rains (50-100 mm) over
         Metro Manila, Ilocos Norte, Ilocos Sur, Abra, Tarlac, Pampanga, Bulacan, Nueva
         Ecija, Rizal, Cavite, Batangas, and Calamian Islands.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1d2f2fd-c337-4d9a-ac6e-0f195395641a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.778+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.484+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "PAGASA warned of flooding and landslides in high-risk areas.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ed9a110-fc3f-456c-adbf-cedb6cc36654'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.607+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.779+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.484+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The enhanced habagat may also bring strong to gale-force gusts over
+    section4:
+      primarytype: 'block'
+      uuid: 'c1d2f2fd-c337-4d9a-ac6e-0f195395641a'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.778+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.484+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "PAGASA warned of flooding and landslides in high-risk areas.\r"
+    section6:
+      primarytype: 'block'
+      uuid: '4ed9a110-fc3f-456c-adbf-cedb6cc36654'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.607+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.779+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.484+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The enhanced habagat may also bring strong to gale-force gusts over
         the following areas:</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19f052f3-e41f-4878-adb5-591782151bcd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T18:03:49.830+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.779+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.485+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Mimaropa, Bicol Region, Western Visayas, Northern Samar, and the
+    section9:
+      primarytype: 'block'
+      uuid: '19f052f3-e41f-4878-adb5-591782151bcd'
+      activationstatus: true
+      created: 2024-07-21T18:03:49.830+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.779+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.485+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Mimaropa, Bicol Region, Western Visayas, Northern Samar, and the
         northern portion of Samar (province) from Sunday night to Monday night.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10b45afb-ef51-4fd7-9e2f-e575960cdac1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.780+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.485+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Weather forecasters see “Carina” intensifying into a typhoon within
+    section7:
+      primarytype: 'block'
+      uuid: '10b45afb-ef51-4fd7-9e2f-e575960cdac1'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.780+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.485+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Weather forecasters see “Carina” intensifying into a typhoon within
         24 hours, before leaving the Philippine Area of Responsibility by Wednesday
         night or early Thursday morning. PAGASA said rapid intensification is possible.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49f93b8d-c51c-414c-abad-1b2e6724adb7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T14:36:09.608+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T00:12:24.780+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-22T00:12:24.486+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Track forecast shows the tropical cyclone would remain offshore.<strong>&nbsp;—
+    section8:
+      primarytype: 'block'
+      uuid: '49f93b8d-c51c-414c-abad-1b2e6724adb7'
+      activationstatus: true
+      created: 2024-07-21T14:36:09.608+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T00:12:24.780+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-22T00:12:24.486+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Track forecast shows the tropical cyclone would remain offshore.<strong>&nbsp;—
         J. R. Mantaring</strong></p>'
-  'canada-philippines-vfa-support':
-    'author': 'Tristan Nodalo, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T15:26:04.000+08:00
-    'imagesource': 'jcr:b9c52998-e738-4852-870c-00ba8229684e'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'cafd4de1-20fd-40ce-83cd-3105eae3dfce'
-    'lead': 'The proposed Visiting Forces Agreement (VFA) between the Philippines
+  'START HERE----->canada-philippines-vfa-support':
+    author: 'Tristan Nodalo, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T15:26:04.000+08:00
+    imagesource: 'b9c52998-e738-4852-870c-00ba8229684e'
+    primarytype: 'composition'
+    uuid: 'cafd4de1-20fd-40ce-83cd-3105eae3dfce'
+    lead: 'The proposed Visiting Forces Agreement (VFA) between the Philippines
       and Canada is gaining traction, with the Armed Forces of the Philippines (AFP),
       a Senate leader, and experts voicing their support.
-
-      '
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T15:29:45.825+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2024-07-21T15:29:46.222+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-21T15:29:45.879+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['vfa', 'canada', 'afp', 'philippines']
-    'stories': []
-    'template': '1'
-    'title': 'Planned PH-Canada VFA gains multi-sectoral support'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '002ed901-9424-4407-a18d-b075b2b92536'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.854+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.223+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.871+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines—</strong> The proposed Visiting
+'
+      
+    activationstatus: true
+    created: 2024-07-21T15:29:45.825+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2024-07-21T15:29:46.222+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-21T15:29:45.879+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Planned PH-Canada VFA gains multi-sectoral support'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '002ed901-9424-4407-a18d-b075b2b92536'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.854+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.223+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.871+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines—</strong> The proposed Visiting
         Forces Agreement (VFA) between the Philippines and Canada is gaining traction,
         with the Armed Forces of the Philippines (AFP), a Senate leader, and experts
         voicing their support.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '191f1126-742c-45b5-92fd-04178d2f7977'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.854+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.224+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.854+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Advocates highlight the agreement''s potential to enhance military
+    section1:
+      primarytype: 'block'
+      uuid: '191f1126-742c-45b5-92fd-04178d2f7977'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.854+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.224+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.854+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Advocates highlight the agreement's potential to enhance military
         cooperation, improve disaster response capabilities, and strengthen regional
         security ties.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a44ed1f-d62d-4b6e-a062-a16c9c159a33'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.855+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.225+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.855+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“The AFP welcomes such possibility.Details can very well be discussed
+    section2:
+      primarytype: 'block'
+      uuid: '1a44ed1f-d62d-4b6e-a062-a16c9c159a33'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.855+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.225+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.855+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“The AFP welcomes such possibility.Details can very well be discussed
         further by DFA,” said AFP spokesperson Col. Francel Margareth Padilla in her
         text message to NewsWatch Plus.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f0f040d-e586-429f-b266-06c8bb973bfd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.855+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.226+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.855+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senate Pro Tempore and Senate Committee on National Defense Chairperson
+    section3:
+      primarytype: 'block'
+      uuid: '6f0f040d-e586-429f-b266-06c8bb973bfd'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.855+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.226+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.855+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Senate Pro Tempore and Senate Committee on National Defense Chairperson
         Jinggoy Estrada said defense cooperation with another country is a welcome
         move “in the face of adversities on the defense front.” '
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f86f41a9-e16f-4faa-8f69-c7ea5cab932d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.856+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.227+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.856+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Collaboration through joint military exercises, training, capacity
+    section4:
+      primarytype: 'block'
+      uuid: 'f86f41a9-e16f-4faa-8f69-c7ea5cab932d'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.856+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.227+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.856+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Collaboration through joint military exercises, training, capacity
         building, emergency deployments, and security partnerships is crucial for
         addressing common vulnerabilities and ensuring regional security,” Estrada
         said in a statement.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b3ba325a-2308-4ccd-aa8d-88616639f814'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.856+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.228+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.856+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also called the PH-Canada VFA a “pivotal advancement.” '
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00862174-d055-4652-a283-9cff22618363'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.856+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.229+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.856+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Negotiating a Status of Visiting Forces Agreement (SOVFA) with the
+    section5:
+      primarytype: 'block'
+      uuid: 'b3ba325a-2308-4ccd-aa8d-88616639f814'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.856+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.228+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.856+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'He also called the PH-Canada VFA a “pivotal advancement.” '
+    section6:
+      primarytype: 'block'
+      uuid: '00862174-d055-4652-a283-9cff22618363'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.856+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.229+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.856+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Negotiating a Status of Visiting Forces Agreement (SOVFA) with the
         Canadian government represents a pivotal advancement. This accord will not
         only enhance our defense capabilities but also foster a deeper sense of camaraderie,”
         said Estrada.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9d67f56e-0900-4eea-b556-8415266eb24a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.857+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.230+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.857+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Philippine Ambassador to the United States Jose Manuel Romualdez backed
+    section7:
+      primarytype: 'block'
+      uuid: '9d67f56e-0900-4eea-b556-8415266eb24a'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.857+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.230+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.857+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Philippine Ambassador to the United States Jose Manuel Romualdez backed
         the PH-Canada VFA as the North American country is a like-minded partner for
         Manila.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc8aa7c3-567c-4743-bdff-3eeb208cffee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.857+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.231+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.857+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Yes [I welcome it], Canada is supportive of the Philippines,” said
+    section8:
+      primarytype: 'block'
+      uuid: 'bc8aa7c3-567c-4743-bdff-3eeb208cffee'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.857+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.231+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.857+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Yes [I welcome it], Canada is supportive of the Philippines,” said
         Romualdez in a text message'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1a5077c-4d3d-4edb-a580-88fcc5409cc8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.858+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.232+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.858+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manila is close to concluding negotiations for a military agreement
+    section9:
+      primarytype: 'block'
+      uuid: 'c1a5077c-4d3d-4edb-a580-88fcc5409cc8'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.858+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.232+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.858+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Manila is close to concluding negotiations for a military agreement
         with Ottawa.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05e2851d-bdf6-40a9-af9c-19e810c567c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.858+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.234+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.858+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an exclusive interview with NewsWatch Plus, Canadian Ambassador
+    section10:
+      primarytype: 'block'
+      uuid: '05e2851d-bdf6-40a9-af9c-19e810c567c2'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.858+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.234+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.858+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'In an exclusive interview with NewsWatch Plus, Canadian Ambassador
         to the Philippines David Hartman said negotiations are progressing smoothly
         for a SOVFA following the signing of a memorandum of understanding on defense
         cooperation earlier this year.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '88f818e4-5b3f-4370-9d5c-b56b8e530566'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.858+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.235+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.858+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“So we are exchanging draft text now with the Department of National
+    section11:
+      primarytype: 'block'
+      uuid: '88f818e4-5b3f-4370-9d5c-b56b8e530566'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.858+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.235+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.858+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“So we are exchanging draft text now with the Department of National
         Defense here between our Department of National Defense back in Canada. So
-        I''m very proud to highlight that the negotiations are moving along very quickly,”
+        I'm very proud to highlight that the negotiations are moving along very quickly,”
         said Hartman.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9a09b4b-92a1-4530-86b1-7b32396505f5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.859+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.236+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.859+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>What geopolitical experts are saying?</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f4e39b1-24ee-4a8b-90ec-f39b0f94953a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.859+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.237+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.859+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Geopolitical analyst and De La Salle University lecturer Don McLain
+    section12:
+      primarytype: 'block'
+      uuid: 'd9a09b4b-92a1-4530-86b1-7b32396505f5'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.859+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.236+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.859+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<h2><strong>What geopolitical experts are saying?</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: '0f4e39b1-24ee-4a8b-90ec-f39b0f94953a'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.859+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.237+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.859+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Geopolitical analyst and De La Salle University lecturer Don McLain
         Gill said Canada, like the Philippines, is “no stranger” to Chinese belligerence
         and provocations.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1dd5fd75-fb60-4111-828d-bea51e4fb638'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.860+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.238+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.860+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>He added that Canada’s growing defense partnership with the Philippines
+    section14:
+      primarytype: 'block'
+      uuid: '1dd5fd75-fb60-4111-828d-bea51e4fb638'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.860+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.238+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.860+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>He added that Canada’s growing defense partnership with the Philippines
         serves as an important pillar in enhancing its role as a contributor of security
         and stability in the Indo-Pacific.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1504acc1-a5d6-4775-834d-51317079a264'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.860+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.239+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.860+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“A VFA between both countries will likely enhance the scope, frequency
+    section15:
+      primarytype: 'block'
+      uuid: '1504acc1-a5d6-4775-834d-51317079a264'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.860+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.239+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.860+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“A VFA between both countries will likely enhance the scope, frequency
         and comprehensiveness of Philippines-Canada defense ties,” said Gill.</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9c24f73-ec65-4f2d-b186-4fd2ab533125'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.861+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.240+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.861+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>University of the Philippines Asian Center lecturer Aaron Jed Rabena
+    section16:
+      primarytype: 'block'
+      uuid: 'd9c24f73-ec65-4f2d-b186-4fd2ab533125'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.861+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.240+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.861+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>University of the Philippines Asian Center lecturer Aaron Jed Rabena
         said a VFA has been a template of the Marcos administration “to proliferate
         deeper defense partnerships as a way to help address the country’s security
         requirements”.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aca6afd7-ea89-4ca7-90cb-9593d05f526b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.861+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.240+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.861+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'International Relations expert Chester Cabalza said Canada as a great
+    section17:
+      primarytype: 'block'
+      uuid: 'aca6afd7-ea89-4ca7-90cb-9593d05f526b'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.861+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.240+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.861+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'International Relations expert Chester Cabalza said Canada as a great
         addition to the coalition of support for the Philippines.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1da0c442-d1e7-4a62-b698-1a90693ad2f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.862+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.241+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.862+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Their timely support for the advanced detection system in the WPS
+    section18:
+      primarytype: 'block'
+      uuid: '1da0c442-d1e7-4a62-b698-1a90693ad2f0'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.862+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.241+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.862+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“Their timely support for the advanced detection system in the WPS
         is an unselfish effort to boost our coast guard and military capability,”
         he said.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c1bafc7-4737-4204-bea6-0e42e99bcc4c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.862+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.242+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.862+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Political scientist Robin Michael Garcia said another VFA with a like-minded
+    section19:
+      primarytype: 'block'
+      uuid: '0c1bafc7-4737-4204-bea6-0e42e99bcc4c'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.862+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.242+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.862+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Political scientist Robin Michael Garcia said another VFA with a like-minded
         partner is a welcome development.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9545cf3-c2ba-4ade-b030-5cda610d46d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:29:45.863+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:29:46.243+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:29:45.863+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“A big step towards alliance diversification badly needed in light
+    section20:
+      primarytype: 'block'
+      uuid: 'e9545cf3-c2ba-4ade-b030-5cda610d46d6'
+      activationstatus: true
+      created: 2024-07-21T15:29:45.863+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:29:46.243+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:29:45.863+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“A big step towards alliance diversification badly needed in light
         of the uncertainty in the US elections and increased coercion from China,”
         he said.</p>'
-  'sona-protests-bayan':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T15:31:19.000+08:00
-    'imagesource': 'jcr:6b40c4f8-fa20-4a7e-83eb-d77fa9d3158a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '2fa53c93-3e57-4264-869d-1dd4a240c837'
-    'lead': 'The number of protesters will surpass last year’s gathering in response
+  'START HERE----->sona-protests-bayan':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T15:31:19.000+08:00
+    imagesource: '6b40c4f8-fa20-4a7e-83eb-d77fa9d3158a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '2fa53c93-3e57-4264-869d-1dd4a240c837'
+    lead: 'The number of protesters will surpass last year’s gathering in response
       to the State of the Nation Address (SONA) on Monday, July 22, a militant group
       said on Sunday.
-
-      '
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T15:34:19.376+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2024-07-21T15:35:32.341+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-21T15:35:32.051+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['protests', 'SONA2024']
-    'stories': []
-    'template': '1'
-    'title': 'Group expects 10,000 protesters vs. SONA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a466e3a7-ef9e-4709-a715-7e1c6217a59b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.399+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.341+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.046+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The number of protesters
+'
+      
+    activationstatus: true
+    created: 2024-07-21T15:34:19.376+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2024-07-21T15:35:32.341+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-21T15:35:32.051+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Group expects 10,000 protesters vs. SONA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a466e3a7-ef9e-4709-a715-7e1c6217a59b'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.399+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.341+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.046+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The number of protesters
         will surpass last year’s gathering in response to the State of the Nation
         Address (SONA) on Monday, July 22, a militant group said on Sunday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7662758-ab1e-4bfe-a201-89d8a47c3290'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.399+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.341+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.047+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Bagong Alyansang Makabayan (BAYAN) said more activities will
+    section1:
+      primarytype: 'block'
+      uuid: 'a7662758-ab1e-4bfe-a201-89d8a47c3290'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.399+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.341+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.047+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The Bagong Alyansang Makabayan (BAYAN) said more activities will
         be held in a number of venues in the country.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '706e3fa8-88cf-4c6b-b0b5-00afd4c43524'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.400+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.342+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.047+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In an interview with NewsWatch Plus, BAYAN Secretary-General Mong
+    section2:
+      primarytype: 'block'
+      uuid: '706e3fa8-88cf-4c6b-b0b5-00afd4c43524'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.400+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.342+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.047+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>In an interview with NewsWatch Plus, BAYAN Secretary-General Mong
         Palatino said the rallies target as much as 10,000 protesters.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf9796dd-5020-4d3a-ada4-0150536d5315'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.400+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.342+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.047+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“We want to surpass the 6,000 people we mobilized last year, and
+    section3:
+      primarytype: 'block'
+      uuid: 'bf9796dd-5020-4d3a-ada4-0150536d5315'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.400+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.342+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.047+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“We want to surpass the 6,000 people we mobilized last year, and
         we hope to reach 10,000 this year,” said Palatino.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc4bf055-56c5-479f-ad8f-20a1cea1dee9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.400+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.342+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.048+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Based on the group’s schedule, there will be a program for workers
+    section4:
+      primarytype: 'block'
+      uuid: 'fc4bf055-56c5-479f-ad8f-20a1cea1dee9'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.400+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.342+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.048+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Based on the group’s schedule, there will be a program for workers
         in the morning where BAYAN’s Southern Tagalog chapter will join.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc47f405-8157-4e71-b646-62d8d1d93617'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.401+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.343+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.048+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The main program has four segments, namely, economic conditions, foreign
+    section5:
+      primarytype: 'block'
+      uuid: 'dc47f405-8157-4e71-b646-62d8d1d93617'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.401+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.343+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.048+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The main program has four segments, namely, economic conditions, foreign
         policy, internal conflicts and reactionary actions, and calls for change.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '075b9349-3927-4cae-9269-a07b29f48eec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.401+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.343+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.049+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sa ‘Bagong Pilipinas, Pilipino laging naghihirap’ tapos paniningil
+    section6:
+      primarytype: 'block'
+      uuid: '075b9349-3927-4cae-9269-a07b29f48eec'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.401+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.343+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.049+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Sa ‘Bagong Pilipinas, Pilipino laging naghihirap’ tapos paniningil
         ‘yan sa Marcos government for the past two years. Sila ay nag-aaway sa kabila
         ng problema ng mga mamamayan, wala silang pakialam kung Pilipino ay naghihirap
         o nagugutom ang mga tao,” said Palatino, referring to the administration’s
         slogan.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf4ade28-48ec-4bca-a9f1-fac3c2fdd6a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.402+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.343+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.049+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: In the so-called New Philippines, Filipinos continue
+    section7:
+      primarytype: 'block'
+      uuid: 'bf4ade28-48ec-4bca-a9f1-fac3c2fdd6a9'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.402+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.343+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.049+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '[Translation: In the so-called New Philippines, Filipinos continue
         to suffer. This protest is a way to hold the Marcos government accountable
         for the past two years. Despite the problems faced by the citizens, they are
         busy fighting among themselves, showing no concern for the suffering or hunger
         of the Filipino people.]'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '67e40da8-1e69-4b72-af7d-a493bbc8f657'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.402+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.344+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.050+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'BAYAN said it has prepared two effigies for the People’s SONA activities.
+    section8:
+      primarytype: 'block'
+      uuid: '67e40da8-1e69-4b72-af7d-a493bbc8f657'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.402+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.344+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.050+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'BAYAN said it has prepared two effigies for the People’s SONA activities.
         One is a life-sized beach ball symbolizing the administration’s deception,
         and an effigy of people fighting, which it calls "Umbagang Pilipinas."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c8049375-41ae-4d6c-a907-c3cefb560550'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T15:34:19.403+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T15:35:32.344+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T15:35:32.050+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“This symbolizes their prioritization of foreign interests, constantly
+    section9:
+      primarytype: 'block'
+      uuid: 'c8049375-41ae-4d6c-a907-c3cefb560550'
+      activationstatus: true
+      created: 2024-07-21T15:34:19.403+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T15:35:32.344+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T15:35:32.050+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>“This symbolizes their prioritization of foreign interests, constantly
         aligning with foreign agendas. Solutions like the Maharlika Fund, charter
         change, and foreign military exercises show that the government is tone-deaf,
         indifferent, and insensitive to the plight of the nation because they are
         focused on internal conflicts, power struggles, and maneuvering for influence,”
         said Palatino.&nbsp;</p>'
-  'ph-china-rore-arrangement':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T19:07:12.000+08:00
-    'imagesource': 'jcr:2f3731ff-8402-4a77-ace3-d6456029e5d3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4a5f5b85-9a27-4a96-8afa-8228d2833deb'
-    'lead': 'The Philippines and China have agreed on a provisional arrangement for
+  'START HERE----->ph-china-rore-arrangement':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T19:07:12.000+08:00
+    imagesource: '2f3731ff-8402-4a77-ace3-d6456029e5d3'
+    primarytype: 'composition'
+    uuid: '4a5f5b85-9a27-4a96-8afa-8228d2833deb'
+    lead: 'The Philippines and China have agreed on a provisional arrangement for
       resupply and rotation missions to the Ayungin Shoal, the Department of Foreign
       Affairs announced on Sunday, July 21.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T19:10:17.350+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-21T21:01:15.705+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-21T21:01:15.419+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Philippines', 'China', 'RORE', 'Ayungin-Shoal', 'DFA', 'BRP-Sierra-Madre']
-    'stories': []
-    'template': '1'
-    'title': 'PH, China agree on resupply mission deal to Ayungin Shoal — DFA'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ed8c7f1-e0dd-4012-82aa-656c9092265d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.434+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.705+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.415+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The Philippines and
+    activationstatus: true
+    created: 2024-07-21T19:10:17.350+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-21T21:01:15.705+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-21T21:01:15.419+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH, China agree on resupply mission deal to Ayungin Shoal — DFA'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6ed8c7f1-e0dd-4012-82aa-656c9092265d'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.434+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.705+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.415+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The Philippines and
         China have agreed on a provisional arrangement for resupply and rotation missions
         to the Ayungin Shoal, the Department of Foreign Affairs announced on Sunday,
         July 21.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a52cb457-3d7d-44a0-8200-c4d9065fd745'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.435+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.706+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.415+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In a statement, the DFA said the understanding on the provisional arrangement\
+    section1:
+      primarytype: 'block'
+      uuid: 'a52cb457-3d7d-44a0-8200-c4d9065fd745'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.435+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.706+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.415+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In a statement, the DFA said the understanding on the provisional arrangement\
         \ came “after a series of consultations following the frank and constructive\
         \ discussions between the two sides during the 9th Bilateral Consultation\
         \ Mechanism (BCM) on the South China Sea in Manila on 2 July 2024.”\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ab8b86c-ca96-4e6e-b978-2a49886f6ea8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.435+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.707+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.416+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Both sides continue to recognize the need to de-escalate the situation\
+    section2:
+      primarytype: 'block'
+      uuid: '8ab8b86c-ca96-4e6e-b978-2a49886f6ea8'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.435+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.707+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.416+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Both sides continue to recognize the need to de-escalate the situation\
         \ in the South China Sea and manage differences through dialogue and consultation\
         \ and agree that the agreement will not prejudice each other’s positions in\
         \ the South China Sea,” the DFA added.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbbde487-6bf8-4e99-819d-d9eefa042f70'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.436+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.707+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.416+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The announcement came days after NewsWatch Plus learned about the
+    section3:
+      primarytype: 'block'
+      uuid: 'bbbde487-6bf8-4e99-819d-d9eefa042f70'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.436+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.707+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.416+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The announcement came days after NewsWatch Plus learned about the
         signing of the “<a href="https://www.newswatchplus.ph/news/2024/7/17/china-philippines-hotline-south-china-sea.html">Arrangement
         on Improving Philippines-China Maritime Communication Mechanisms</a>.” Such
         a deal would provide communication channels at the leaders level.&nbsp;</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ef832d1-1296-42ef-8e12-3d838bbc2a58'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.436+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.707+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.417+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Philippines intentionally ran aground BRP Sierra Madre on the Ayungin\
+    section4:
+      primarytype: 'block'
+      uuid: '2ef832d1-1296-42ef-8e12-3d838bbc2a58'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.436+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.707+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.417+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Philippines intentionally ran aground BRP Sierra Madre on the Ayungin\
         \ Shoal, internationally called the Second Thomas Shoal, to stake Manila's\
         \ territorial claim in the contested waterway. Filipino sailors are deployed\
         \ to the vessel.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd96dd570-5556-4ab3-aba4-be8631b0f1b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.436+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.708+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.417+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Tensions surround resupply and rotation missions of Philippine forces\
+    section5:
+      primarytype: 'block'
+      uuid: 'd96dd570-5556-4ab3-aba4-be8631b0f1b0'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.436+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.708+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.417+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Tensions surround resupply and rotation missions of Philippine forces\
         \ to the dilapidated tank amid increasing Chinese aggressions in the West\
         \ Philippine Sea. \r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bfe3e8c-ff41-41e3-b870-c7d667ee5cd0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T19:10:17.437+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T21:01:15.708+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T21:01:15.418+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus multiplatform producer Jelo Ritzhie Mantaring
+    section7:
+      primarytype: 'block'
+      uuid: '7bfe3e8c-ff41-41e3-b870-c7d667ee5cd0'
+      activationstatus: true
+      created: 2024-07-21T19:10:17.437+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T21:01:15.708+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T21:01:15.418+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus multiplatform producer Jelo Ritzhie Mantaring
         contributed to this report.</em></p>'
-  'marcos-sona-2024-protests-traffic-expectations':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'caption': 'President Bongbong Marcos at the Batasang Pambansa (Photo from Presidential
+  'START HERE----->marcos-sona-2024-protests-traffic-expectations':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    caption: 'President Bongbong Marcos at the Batasang Pambansa (Photo from Presidential
       Communications Office)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T20:37:53.000+08:00
-    'imagesource': 'jcr:1de8a5d7-5131-48e8-a425-d1ffa1e738b3'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e444d503-1e72-4ccb-9fb2-cecfff6d05da'
-    'lead': 'Brace for protests, security, traffic, and expectations for the third
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T20:37:53.000+08:00
+    imagesource: '1de8a5d7-5131-48e8-a425-d1ffa1e738b3'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'e444d503-1e72-4ccb-9fb2-cecfff6d05da'
+    lead: 'Brace for protests, security, traffic, and expectations for the third
       SONA of President Bongbong Marcos on Monday, July 22.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T20:51:18.764+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-22T11:49:47.887+08:00
-    'mgnl:lastActivatedBy': 'jelo-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2024-07-22T11:49:47.063+08:00
-    'mgnl:lastModified': 2024-07-22T11:48:11.082+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['President-Ferdinand-Marcos-Jr.', 'SONA', 'State-of-the-Nation-Address','Bongbong-Marcos', 'SONA2024']
-    'stories': []
-    'template': '1'
-    'title': 'SONA: What to expect on Marcos’ report to the nation'
-    'updated': 2024-07-22T11:43:01.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98cba59b-7822-421a-b6a9-291bc25b7246'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.995+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.887+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.056+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Filipinos on Monday,
+    activationstatus: true
+    created: 2024-07-21T20:51:18.764+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-22T11:49:47.887+08:00
+    lastactivatedby: 'jelo-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2024-07-22T11:49:47.063+08:00
+    lastmodified: 2024-07-22T11:48:11.082+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'SONA: What to expect on Marcos’ report to the nation'
+    updated: 2024-07-22T11:43:01.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '98cba59b-7822-421a-b6a9-291bc25b7246'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.995+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.887+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.056+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Filipinos on Monday,
         July 22, will listen in on the State of the Nation Address (SONA) of President
         Ferdinand Marcos Jr.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11f936a1-d993-49df-9d79-eece7c1ec41e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.995+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.887+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.057+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Marcos will address the nation for the third time amid declining approval\
+    section1:
+      primarytype: 'block'
+      uuid: '11f936a1-d993-49df-9d79-eece7c1ec41e'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.995+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.887+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.057+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Marcos will address the nation for the third time amid declining approval\
         \ and trust ratings and a record self-rated poverty score since 2008.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4b0198f-8d64-4b75-b5a2-c67318f2a43a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.995+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.888+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.057+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>WATCH: <a href="https://www.youtube.com/watch?v=u2aGuXlEeig">Kahirapan
+    section2:
+      primarytype: 'block'
+      uuid: 'd4b0198f-8d64-4b75-b5a2-c67318f2a43a'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.995+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.888+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.057+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>WATCH: <a href="https://www.youtube.com/watch?v=u2aGuXlEeig">Kahirapan
         at kalam ng sikmura | SONA 2024</a></strong></p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24b11842-56dd-40b6-aa4d-4f4e9a688449'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.996+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.888+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.058+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The president will present his plan for the final half of his presidency.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b005523-cd42-401e-8166-286f34b5199f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.996+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.888+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.059+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "NewsWatch Plus gives you the information you need regarding SONA 2024.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0828126f-8d9c-405a-b7ca-1e3eaa8b9b0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.996+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.888+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.059+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa74922b-a120-437e-ad9b-b5f4a4b8a18c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.997+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.888+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.060+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>What happens on July 22?</strong></h2>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80bb7fae-60e3-44b4-9d7b-550114e2a913'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.997+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.889+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.060+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The SONA is required under the 1987 Constitution. It happens on the\
+    section3:
+      primarytype: 'block'
+      uuid: '24b11842-56dd-40b6-aa4d-4f4e9a688449'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.996+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.888+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.058+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The president will present his plan for the final half of his presidency.\r"
+    section4:
+      primarytype: 'block'
+      uuid: '3b005523-cd42-401e-8166-286f34b5199f'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.996+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.888+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.059+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "NewsWatch Plus gives you the information you need regarding SONA 2024.\r"
+    section5:
+      primarytype: 'block'
+      uuid: '0828126f-8d9c-405a-b7ca-1e3eaa8b9b0c'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.996+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.888+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.059+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: 'fa74922b-a120-437e-ad9b-b5f4a4b8a18c'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.997+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.888+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.060+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>What happens on July 22?</strong></h2>'
+    section7:
+      primarytype: 'block'
+      uuid: '80bb7fae-60e3-44b4-9d7b-550114e2a913'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.997+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.889+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.060+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The SONA is required under the 1987 Constitution. It happens on the\
         \ fourth Monday of July (falling on July 22 this year).\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cef3cd6d-a9a5-4841-a05a-4b7e6123ba31'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.998+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.889+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.061+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Ahead of the speech, the House of Representatives and Senate will
+    section8:
+      primarytype: 'block'
+      uuid: 'cef3cd6d-a9a5-4841-a05a-4b7e6123ba31'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.998+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.889+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.061+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Ahead of the speech, the House of Representatives and Senate will
         convene separately on Monday morning to open the third regular session of
         the 19th Congress. Congress has been on a two-month break.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad79e1d6-6c04-4913-b098-a64643d20697'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.998+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.889+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/19/19th-Congress-priority-bills-SONA-.html">Here’s
+    section9:
+      primarytype: 'block'
+      uuid: 'ad79e1d6-6c04-4913-b098-a64643d20697'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.998+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.889+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/19/19th-Congress-priority-bills-SONA-.html">Here’s
         what the 19th Congress aims to accomplish in its last session</a></strong></p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7979a75b-eb4c-4ce7-84e8-aa14ecc7b07a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.999+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.890+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The two chambers will suspend the session towards midday and reconvene
+    section10:
+      primarytype: 'block'
+      uuid: '7979a75b-eb4c-4ce7-84e8-aa14ecc7b07a'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.999+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.890+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The two chambers will suspend the session towards midday and reconvene
         in a joint session at the Batasang Pambansa in Quezon City. Government officials,
         diplomats, other guests, and dignitaries will also attend the SONA. <a href="https://www.newswatchplus.ph/news/2024/7/11/Duterte-to-skip-SONA.html">Vice
         President Sara Duterte</a> earlier said she will be absent from the event,
         and that she has appointed herself as “designated survivor.”</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72a999cc-367a-40c7-bd8b-8ed20fe40460'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:18.999+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.890+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.063+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/12/PH-designated-survivor-bill.html">A
+    section11:
+      primarytype: 'block'
+      uuid: '72a999cc-367a-40c7-bd8b-8ed20fe40460'
+      activationstatus: true
+      created: 2024-07-21T20:51:18.999+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.890+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.063+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/7/12/PH-designated-survivor-bill.html">A
         ‘designated survivor’ for the Philippines</a></strong></p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3030a8be-32a3-4e91-a7c6-79edd62145b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.000+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.890+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Minutes before the speech, the president is expected to arrive by helicopter\
+    section12:
+      primarytype: 'block'
+      uuid: '3030a8be-32a3-4e91-a7c6-79edd62145b1'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.000+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.890+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Minutes before the speech, the president is expected to arrive by helicopter\
         \ or car at the Batasang Pambansa to be welcomed by the Senate president,\
         \ House speaker and the House Sergeant-At-Arms who will act as the main security\
         \ detail of the president. Congressional officials will be with the president\
         \ in a holding area, and will proceed to the session hall before the appointed\
         \ time under the Constitution.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6e4fa2ee-56c0-42c9-955f-2c9bed957bea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.000+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.890+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>At 4 p.m., Marcos will deliver his <a href="https://www.newswatchplus.ph/news/2024/7/17/Marcos-sona-speech-.html">address</a>
+    section13:
+      primarytype: 'block'
+      uuid: '6e4fa2ee-56c0-42c9-955f-2c9bed957bea'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.000+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.890+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>At 4 p.m., Marcos will deliver his <a href="https://www.newswatchplus.ph/news/2024/7/17/Marcos-sona-speech-.html">address</a>
         on the rostrum. Behind him will be House Speaker Martin Romualdez, the president’s
         cousin, and Senate President Chiz Escudero.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a235fa8f-a826-4b47-b0e9-83608acf18fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.000+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.890+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.065+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In his previous SONA, Marcos spoke for over an hour. He mentioned in\
+    section14:
+      primarytype: 'block'
+      uuid: 'a235fa8f-a826-4b47-b0e9-83608acf18fe'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.000+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.890+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.065+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In his previous SONA, Marcos spoke for over an hour. He mentioned in\
         \ broad strokes the progress made by his administration and the promises and\
         \ goals for the next year.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52e9c96f-6e00-4751-877d-b7751abf5949'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.001+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.891+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.065+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The government is spending around ₱20 million to hold the SONA.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '714fb425-7511-4c37-be5c-69d5ed3a2f61'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.001+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.891+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.066+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Quezon City government has suspended classes to give way for the\
+    section15:
+      primarytype: 'block'
+      uuid: '52e9c96f-6e00-4751-877d-b7751abf5949'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.001+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.891+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.065+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The government is spending around ₱20 million to hold the SONA.\r"
+    section16:
+      primarytype: 'block'
+      uuid: '714fb425-7511-4c37-be5c-69d5ed3a2f61'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.001+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.891+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.066+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Quezon City government has suspended classes to give way for the\
         \ event. \r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7dd6bc2-03e6-478c-beee-98803d0657ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.002+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.891+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e740e580-e437-424c-829c-25edf4e53d60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.002+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.891+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.067+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Protest activities</strong></h2>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '103653ea-f794-41f3-9530-f5e9bc7a0f67'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.003+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.891+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.068+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Ahead of the president’s speech, a number of groups will hold their\
+    section17:
+      primarytype: 'block'
+      uuid: 'b7dd6bc2-03e6-478c-beee-98803d0657ac'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.002+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.891+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section18:
+      primarytype: 'block'
+      uuid: 'e740e580-e437-424c-829c-25edf4e53d60'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.002+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.891+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.067+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Protest activities</strong></h2>'
+    section19:
+      primarytype: 'block'
+      uuid: '103653ea-f794-41f3-9530-f5e9bc7a0f67'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.003+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.891+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.068+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Ahead of the president’s speech, a number of groups will hold their\
         \ “People’s SONA” on Commonwealth Avenue near the Batasang Pambansa complex.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '856e180a-2dfb-4563-a4e7-b115db2d150d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.004+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.069+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/7/21/list-sona-2024-protests.html">LIST:
+    section20:
+      primarytype: 'block'
+      uuid: '856e180a-2dfb-4563-a4e7-b115db2d150d'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.004+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.069+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/7/21/list-sona-2024-protests.html">LIST:
         Protest activities for SONA 2024</a></p>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc0acd32-600d-4f03-a97b-3bc1ae13364e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.004+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.069+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2024/7/21/sona-protests-bayan.html">Bagong
+    section21:
+      primarytype: 'block'
+      uuid: 'cc0acd32-600d-4f03-a97b-3bc1ae13364e'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.004+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.069+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2024/7/21/sona-protests-bayan.html">Bagong
         Alyansa Makabayan</a> (Bayan), a coalition of progressive organizations, said
         chapter groups in Albay, Camarines Sur, Cebu City, and Davao City, as well
         as some international chapters, will also mount their own march and protests.</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe348d48-0571-4cbd-91d2-237a00237b53'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.005+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.070+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Among the highlights in the Metro Manila protest will be the burning\
+    section22:
+      primarytype: 'block'
+      uuid: 'fe348d48-0571-4cbd-91d2-237a00237b53'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.005+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.070+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Among the highlights in the Metro Manila protest will be the burning\
         \ of the “Umbagang Pilipinas” effigy and playing a prop called “Binobolang\
         \ Pilipinas.”\r"
-    '23':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">LOOK:
+    section23:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">LOOK:
         Activists of Bagong Alyansang Makabayan (Bayan) are finalizing one of their
         effigies called &quot;Umbagang Pilipinas&quot; for <a href="https://twitter.com/hashtag/SONA2024?src=hash&amp;ref_src=twsrc%5Etfw">#SONA2024</a>.
         It portrays the conflict between President Ferdinand Marcos Jr. and Vice President
@@ -1616,99 +1616,99 @@
         NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1814882645261885557?ref_src=twsrc%5Etfw">July
         21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15476aec-0066-40a2-910e-cb3b0c6bcaf5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.005+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.071+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4322e74-270e-4850-91bc-d31cb1bed719'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.006+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.072+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Transport group Manibela will also stage a rally calling for five-year
+      primarytype: 'block'
+      uuid: '15476aec-0066-40a2-910e-cb3b0c6bcaf5'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.005+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.071+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section24:
+      primarytype: 'block'
+      uuid: 'b4322e74-270e-4850-91bc-d31cb1bed719'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.006+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.072+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Transport group Manibela will also stage a rally calling for five-year
         franchises and other demands amid the public utility vehicle modernization
         program.</p>'
-    '37':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2e2eaae-2e0f-4e75-8785-60c45188687d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-22T11:43:05.459+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.892+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.072+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Philippine National Police (PNP) said they will file cases against
+    section37:
+      primarytype: 'block'
+      uuid: 'd2e2eaae-2e0f-4e75-8785-60c45188687d'
+      activationstatus: true
+      created: 2024-07-22T11:43:05.459+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.892+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.072+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The Philippine National Police (PNP) said they will file cases against
         rallyists who will hurt police officers during the protests.</p>'
-    '38':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1381c81d-f5f6-4c91-8e5b-fabe2edf244a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-22T11:43:05.460+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.893+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.073+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PNP chief Gen. Rommel Marbil on Monday said authorities will observe
+    section38:
+      primarytype: 'block'
+      uuid: '1381c81d-f5f6-4c91-8e5b-fabe2edf244a'
+      activationstatus: true
+      created: 2024-07-22T11:43:05.460+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.893+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.073+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>PNP chief Gen. Rommel Marbil on Monday said authorities will observe
         maximum tolerance, but added police officers are ready to defend themselves
         against aggression.</p>'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '334a13a0-75f4-40cd-80ad-e4ba1dba51c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.007+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.893+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.073+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1f3ce6d-4798-430d-bf7f-019504bebb90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.007+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.893+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.074+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Traffic and security</strong></h2>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2b77eb3-8542-4e89-a3de-54f68c3f6586'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.008+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.893+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.075+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Given the high-level event, the Metropolitan Manila Development Authority\
+    section25:
+      primarytype: 'block'
+      uuid: '334a13a0-75f4-40cd-80ad-e4ba1dba51c0'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.007+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.893+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.073+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section26:
+      primarytype: 'block'
+      uuid: 'c1f3ce6d-4798-430d-bf7f-019504bebb90'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.007+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.893+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.074+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Traffic and security</strong></h2>'
+    section27:
+      primarytype: 'block'
+      uuid: 'e2b77eb3-8542-4e89-a3de-54f68c3f6586'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.008+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.893+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.075+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Given the high-level event, the Metropolitan Manila Development Authority\
         \ (MMDA) will be closing to traffic the Batasan-IBP Road. Counterflow will\
         \ be allowed on the southbound side of Commonwealth Avenue. Motorists have\
         \ been advised to take alternate routes.\r"
-    '28':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LOOK:
+    section28:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LOOK:
         The MMDA advised motorists to take alternate routes on July 22 for SONA. A
         zipper lane on the southbound portions of Commonwealth Ave. will be opened,
         while the Batasan-IBP road will be closed to vehicular traffic at 8AM | <a
@@ -1717,491 +1717,491 @@
         NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1813454947125780979?ref_src=twsrc%5Etfw">July
         17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '721ef9bb-8ab5-4715-a461-9835a1d773d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.009+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.893+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.075+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '70e125d9-f2c9-4622-a5a5-128f6631d5d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.009+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.894+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.076+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The MMDA said it will deploy over 1,3000 personnel, including over\
+      primarytype: 'block'
+      uuid: '721ef9bb-8ab5-4715-a461-9835a1d773d8'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.009+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.893+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.075+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section29:
+      primarytype: 'block'
+      uuid: '70e125d9-f2c9-4622-a5a5-128f6631d5d5'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.009+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.894+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.076+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The MMDA said it will deploy over 1,3000 personnel, including over\
         \ 500 traffic enforcers along the Commonwealth IBP Road. \r"
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c55462f6-87e0-4222-bc3a-2dd048faea7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.010+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.894+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.076+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Over 22,700 police personnel will be deployed for the SONA. The National\
+    section30:
+      primarytype: 'block'
+      uuid: 'c55462f6-87e0-4222-bc3a-2dd048faea7d'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.010+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.894+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.076+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Over 22,700 police personnel will be deployed for the SONA. The National\
         \ Capital Region Police Office is also on full alert and has carried out a\
         \ gun ban in Metro Manila since Saturday, July 20.\r"
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5e43814-f3d6-4376-9fd9-fd55823154e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.011+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.894+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.077+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, the Armed Forces of the Philippines said it has provided
+    section32:
+      primarytype: 'block'
+      uuid: 'f5e43814-f3d6-4376-9fd9-fd55823154e7'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.011+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.894+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.077+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, the Armed Forces of the Philippines said it has provided
         around 500 personnel and two armored vehicles to support the police.</p>'
-    '39':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '132d1dd4-f473-42c3-ab0d-071c17fdf873'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-22T11:43:05.462+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.894+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.078+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The police and military said they have not monitored threats ahead\
+    section39:
+      primarytype: 'block'
+      uuid: '132d1dd4-f473-42c3-ab0d-071c17fdf873'
+      activationstatus: true
+      created: 2024-07-22T11:43:05.462+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.894+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.078+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The police and military said they have not monitored threats ahead\
         \ of the SONA. \r"
-    '40':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45fcd2a7-da05-4243-a607-5ce08cc98c38'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-22T11:43:05.463+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.894+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.078+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Ang ating [The] commander of the Presidential Security Command
+    section40:
+      primarytype: 'block'
+      uuid: '45fcd2a7-da05-4243-a607-5ce08cc98c38'
+      activationstatus: true
+      created: 2024-07-22T11:43:05.463+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.894+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.078+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>"Ang ating [The] commander of the Presidential Security Command
         also stated that they are ready to protect the president and other dignitaries
         in the conduct of the SONA today,” AFP spokesperson Col. Francel Margareth
         Padilla told NewsWatch Plus. <strong>— Daniza Fernandez</strong></p>'
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b960f20-3a48-4eaa-ae8e-7d1239d67352'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.012+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.895+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.079+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>---</p>'
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1b353d8-f68c-442c-a4eb-e2598f639751'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.013+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.895+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.079+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus will provide multi-platform coverage of the SONA,
+    section33:
+      primarytype: 'block'
+      uuid: '9b960f20-3a48-4eaa-ae8e-7d1239d67352'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.012+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.895+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.079+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>---</p>'
+    section34:
+      primarytype: 'block'
+      uuid: 'd1b353d8-f68c-442c-a4eb-e2598f639751'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.013+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.895+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.079+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus will provide multi-platform coverage of the SONA,
         available live across our different platforms.</em></p>'
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2098892d-51d5-4daa-be42-0b595f7a4127'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.013+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.895+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.080+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>Our team will highlight the pulse of the nation on pressing
+    section35:
+      primarytype: 'block'
+      uuid: '2098892d-51d5-4daa-be42-0b595f7a4127'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.013+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.895+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.080+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>Our team will highlight the pulse of the nation on pressing
         national concerns. Join us online and on-air for updates and fresh insights.</em></p>'
-    '36':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc4f6d6f-edb7-4b86-be05-e874da24d1c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T20:51:19.014+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-22T11:49:47.895+08:00
-      'mgnl:lastActivatedBy': 'jelo-nwp'
-      'mgnl:lastModified': 2024-07-22T11:48:11.081+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>Follow us on <a href="https://www.youtube.com/@NewsWatchPlusPH">YouTube</a>,
+    section36:
+      primarytype: 'block'
+      uuid: 'fc4f6d6f-edb7-4b86-be05-e874da24d1c7'
+      activationstatus: true
+      created: 2024-07-21T20:51:19.014+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-22T11:49:47.895+08:00
+      lastactivatedby: 'jelo-nwp'
+      lastmodified: 2024-07-22T11:48:11.081+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em>Follow us on <a href="https://www.youtube.com/@NewsWatchPlusPH">YouTube</a>,
         <a href="https://www.tiktok.com/@newswatchplusph">TikTok</a>, and <a href="https://x.com/newswatchplusph">X</a>
         @newswatchplusph.</em></p>'
-  'alex-eala-w100-vitoria-gasteiz':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T22:48:29.000+08:00
-    'imagesource': 'jcr:2890da50-953a-4149-a35e-313f4e35ef67'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'dcdedc6f-febd-47ff-972b-38415f14b7e7'
-    'lead': 'Filipino tennis sensation Alex Eala accomplished a rare feat by ruling
+  'START HERE----->alex-eala-w100-vitoria-gasteiz':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T22:48:29.000+08:00
+    imagesource: '2890da50-953a-4149-a35e-313f4e35ef67'
+    primarytype: 'composition'
+    uuid: 'dcdedc6f-febd-47ff-972b-38415f14b7e7'
+    lead: 'Filipino tennis sensation Alex Eala accomplished a rare feat by ruling
       the singles and doubles competition in the W100 Vitoria-Gasteiz championship
       in Spain on Sunday, July 21.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T22:56:56.396+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2024-07-21T23:05:03.952+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2024-07-21T23:05:03.737+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Alex-Eala', 'W100-Vitoria-Gasteiz', 'Sports-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Eala bags 5th ITF women’s singles title, doubles crown'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0b2222cd-3871-4de9-825c-778ebc5ec5c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.463+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.953+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.733+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Filipino tennis sensation
+    activationstatus: true
+    created: 2024-07-21T22:56:56.396+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2024-07-21T23:05:03.952+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2024-07-21T23:05:03.737+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Eala bags 5th ITF women’s singles title, doubles crown'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '0b2222cd-3871-4de9-825c-778ebc5ec5c0'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.463+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.953+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.733+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Filipino tennis sensation
         Alex Eala accomplished a rare feat by ruling the singles and doubles competition
         in the W100 Vitoria-Gasteiz championship in Spain on Sunday, July 21.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ea0fb298-f11e-40a2-b642-82f1a76c97c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.464+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.955+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.734+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Eala dominated Victoria Jimenez Kasinteva in straight sets, 6-4 6-4,\
+    section1:
+      primarytype: 'block'
+      uuid: 'ea0fb298-f11e-40a2-b642-82f1a76c97c5'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.464+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.955+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.734+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Eala dominated Victoria Jimenez Kasinteva in straight sets, 6-4 6-4,\
         \ to capture her fifth ITF women’s singles title.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b749ff80-2bb9-4512-becb-d55700a5eee5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.464+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.956+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.734+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "While she took the longer route with French partner Estelle Cascino\
+    section2:
+      primarytype: 'block'
+      uuid: 'b749ff80-2bb9-4512-becb-d55700a5eee5'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.464+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.956+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.734+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "While she took the longer route with French partner Estelle Cascino\
         \ in doubles play to win 6-3, 2-6, 10-4 against Lia Karatancheva of Bulgaria\
         \ and Diana Marcinkevica of Latvia.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2a41d0c-8058-4489-b62b-8993e3d7ddc2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.464+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.957+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.734+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The world number 155 Eala took a double break against Jimenez Kasinteva
+    section3:
+      primarytype: 'block'
+      uuid: 'd2a41d0c-8058-4489-b62b-8993e3d7ddc2'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.464+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.957+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.734+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>The world number 155 Eala took a double break against Jimenez Kasinteva
         in the opening set but dropped the eighth game, giving her opponent from Andorra
         a chance to recover. But Eala showed composure in the next two games to take
         the first set.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1e6917a-63c8-4c5b-b333-5b4cbdfa093e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.465+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.958+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.735+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the second set, Eala took care of business by breaking Jimenez
+    section4:
+      primarytype: 'block'
+      uuid: 'f1e6917a-63c8-4c5b-b333-5b4cbdfa093e'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.465+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.958+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.735+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>In the second set, Eala took care of business by breaking Jimenez
         Kasinteva thrice. Converting 63% of her first serve, the 19-year-old Eala
         showed poise all throughout the match.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2a7274a8-7c9e-4019-a139-7a063b343cc4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.465+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.959+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.735+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Eala last won an ITF women’s title back in August 2023, when she defeated\
+    section5:
+      primarytype: 'block'
+      uuid: '2a7274a8-7c9e-4019-a139-7a063b343cc4'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.465+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.959+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.735+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Eala last won an ITF women’s title back in August 2023, when she defeated\
         \ Arina Rodionova at the W25 Roehampton in London.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6efc894b-fe86-4817-a9b1-10dc28f24ff3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:56:56.466+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:05:03.959+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2024-07-21T23:05:03.736+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With the victory, Eala is expected to enter the top 150 for the first\
+    section6:
+      primarytype: 'block'
+      uuid: '6efc894b-fe86-4817-a9b1-10dc28f24ff3'
+      activationstatus: true
+      created: 2024-07-21T22:56:56.466+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2024-07-21T23:05:03.959+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2024-07-21T23:05:03.736+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With the victory, Eala is expected to enter the top 150 for the first\
         \ time in her career.\r"
-  'sona-fashion-red-carpet':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-07-21T22:41:19.000+08:00
-    'imagesource': 'jcr:245b4b47-2082-49a7-bbd8-6cc8ac28bb9a'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'bf2c5447-4a06-4e6b-8f62-34d0cf5376c4'
-    'lead': ' The stage is set again for the State of the Nation Address (SONA) red
+  'START HERE----->sona-fashion-red-carpet':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-07-21T22:41:19.000+08:00
+    imagesource: '245b4b47-2082-49a7-bbd8-6cc8ac28bb9a'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'bf2c5447-4a06-4e6b-8f62-34d0cf5376c4'
+    lead: ' The stage is set again for the State of the Nation Address (SONA) red
       carpet where Filipino fashion excellence will be displayed.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-07-21T22:58:45.679+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2024-07-21T23:15:14.643+08:00
-    'mgnl:lastActivatedBy': 'tristan-nwp'
-    'mgnl:lastActivatedVersion': '1.2'
-    'mgnl:lastActivatedVersionCreated': 2024-07-21T23:15:14.295+08:00
-    'mgnl:lastModified': 2024-07-21T23:07:00.924+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['sona2024', 'red-carpet', 'sona', 'fashion']
-    'stories': []
-    'template': '1'
-    'title': 'Fashion review: SONA red carpet'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c30cab00-e641-4535-af7f-bda43b4989cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.739+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.644+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.915+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> The stage is set again
+    activationstatus: true
+    created: 2024-07-21T22:58:45.679+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2024-07-21T23:15:14.643+08:00
+    lastactivatedby: 'tristan-nwp'
+    lastactivatedversion: '1.2'
+    lastactivatedversioncreated: 2024-07-21T23:15:14.295+08:00
+    lastmodified: 2024-07-21T23:07:00.924+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Fashion review: SONA red carpet'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c30cab00-e641-4535-af7f-bda43b4989cb'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.739+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.644+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.915+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> The stage is set again
         for the State of the Nation Address (SONA) red carpet where Filipino fashion
         excellence will be displayed.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '512d04c0-5e8c-4590-b9cd-829a73a76021'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.739+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.644+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.916+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Presidential Communications Office said on Sunday, July 21,
+    section1:
+      primarytype: 'block'
+      uuid: '512d04c0-5e8c-4590-b9cd-829a73a76021'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.739+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.644+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.916+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The Presidential Communications Office said on Sunday, July 21,
         that President Bongbong Marcos’s Barong is “a collaborative work of artisans
         from Lucban, Quezon, Taal, Batangas and Aklan.”</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1846eb9f-50eb-4895-a401-16158603f377'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.740+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.644+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.916+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Some lawmakers also shared a preview of what they will wear on July
+    section2:
+      primarytype: 'block'
+      uuid: '1846eb9f-50eb-4895-a401-16158603f377'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.740+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.644+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.916+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Some lawmakers also shared a preview of what they will wear on July
         22.</p>'
-    '3':
-      'image': 'jcr:bc850bff-f2b8-4a86-aec3-cee65b1efe09'
-      'imageCaption': 'Office of Senator Risa Hontiveros'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f14056f7-a4c6-412b-987c-563183fc8aec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.740+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.644+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.917+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'image'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7d7ed97-3386-47a2-afec-aff740c893eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.741+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.917+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senator Risa Hontiveros said she will be wearing a sleek interpretation
+    section3:
+      image: 'bc850bff-f2b8-4a86-aec3-cee65b1efe09'
+      imagecaption: 'Office of Senator Risa Hontiveros'
+      primarytype: 'block'
+      uuid: 'f14056f7-a4c6-412b-987c-563183fc8aec'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.740+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.644+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.917+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'image'
+    section4:
+      primarytype: 'block'
+      uuid: 'a7d7ed97-3386-47a2-afec-aff740c893eb'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.741+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.917+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Senator Risa Hontiveros said she will be wearing a sleek interpretation
         of the Baro’t Saya made of Piña designed by Joel Acebuche.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0b16ff4d-cc47-4cad-9996-d6516b0a26aa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.741+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.917+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hontiveros’ shoes will be from Zapateria Marikina and will use a handwoven
+    section5:
+      primarytype: 'block'
+      uuid: '0b16ff4d-cc47-4cad-9996-d6516b0a26aa'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.741+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.917+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Hontiveros’ shoes will be from Zapateria Marikina and will use a handwoven
         “tikog” purse.'
-    '6':
-      'image': 'jcr:8387c649-08cf-4787-b1fc-f8a973345481'
-      'imageCaption': 'Office of Senator Nancy Binay'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '714ea72d-e533-481e-8932-e2727454dd32'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.741+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.918+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'image'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eda33792-ef0c-4ddf-b5a4-5887d2967938'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.742+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.918+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senator Nancy Binay said she will grace the red carpet with an exquisite
+    section6:
+      image: '8387c649-08cf-4787-b1fc-f8a973345481'
+      imagecaption: 'Office of Senator Nancy Binay'
+      primarytype: 'block'
+      uuid: '714ea72d-e533-481e-8932-e2727454dd32'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.741+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.918+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'image'
+    section7:
+      primarytype: 'block'
+      uuid: 'eda33792-ef0c-4ddf-b5a4-5887d2967938'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.742+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.918+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Senator Nancy Binay said she will grace the red carpet with an exquisite
         all-piña “terno” by designer Randy Ortiz, meticulously handloom-woven by the
         master artisans of Aklan.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '07cf6f12-b6e7-47eb-a240-5aceb3a3d00e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.743+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.919+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The bodice captivates with its delicate “calado” patterns, vintage
+    section8:
+      primarytype: 'block'
+      uuid: '07cf6f12-b6e7-47eb-a240-5aceb3a3d00e'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.743+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.919+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The bodice captivates with its delicate “calado” patterns, vintage
         beadwork, and intricate dove-gray rose cutwork. The skirt is a vision of opulence,
         adorned with motifs of palay (rice stalks) rendered in grain-shaped pearl
         beads, and finished with a flourish of “calado” floral embroidery at the hemline.</p>'
-    '9':
-      'image': 'jcr:0b6eac86-e58a-4fbf-933d-0bfe60ef0b6b'
-      'imageCaption': 'Gabriela Women''s Party'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c6b3314-e752-430b-b284-f4fe4bd099c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.743+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.645+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.919+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'image'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41ec987e-63e4-42e9-8261-b9557fc5048c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.744+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.646+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.920+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Gabriela Women''s party-list Rep. Arlene Brosas said she will wear
+    section9:
+      image: '0b6eac86-e58a-4fbf-933d-0bfe60ef0b6b'
+      imagecaption: 'Gabriela Women's Party'
+      primarytype: 'block'
+      uuid: '0c6b3314-e752-430b-b284-f4fe4bd099c0'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.743+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.645+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.919+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'image'
+    section10:
+      primarytype: 'block'
+      uuid: '41ec987e-63e4-42e9-8261-b9557fc5048c'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.744+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.646+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.920+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Gabriela Women's party-list Rep. Arlene Brosas said she will wear
         a black Filipiniana gown designed by Francis Yu. The gown will feature an
         artwork “symbolizing Filipino women’s resistance to foreign military aggression.”</p>'
-    '11':
-      'image': 'jcr:1d6ea126-645d-4802-8842-0ef220a6e14d'
-      'imageCaption': 'ACT Teacher''s Party-list'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd91be8e0-2e1f-465c-804d-d6d2dc882c71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.744+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.646+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.920+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'image'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1cb01f9-1375-46fa-ba69-5e3fdb4eb3d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.745+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.646+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.921+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>ACT Teachers Rep.France Castro will highlight the call for salary
+    section11:
+      image: '1d6ea126-645d-4802-8842-0ef220a6e14d'
+      imagecaption: 'ACT Teacher's Party-list'
+      primarytype: 'block'
+      uuid: 'd91be8e0-2e1f-465c-804d-d6d2dc882c71'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.744+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.646+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.920+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'image'
+    section12:
+      primarytype: 'block'
+      uuid: 'd1cb01f9-1375-46fa-ba69-5e3fdb4eb3d5'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.745+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.646+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.921+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>ACT Teachers Rep.France Castro will highlight the call for salary
         increase for teachers and living wage for workers to address poverty in the
         country in her Francis Yu-made outfit.</p>'
-    '13':
-      'image': 'jcr:3cf56f68-76ee-4d46-9741-9ba5b03b864f'
-      'imageCaption': 'Kabataan Party-list'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bc3f72c-01fc-459d-aff8-0662408048fa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.745+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.646+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.921+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'image'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a144a0d3-1c9f-4c68-a86b-226ee8430b73'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.746+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.646+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.922+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Kabataan party-list Rep. Raoul Manuel will highlight the need for
+    section13:
+      image: '3cf56f68-76ee-4d46-9741-9ba5b03b864f'
+      imagecaption: 'Kabataan Party-list'
+      primarytype: 'block'
+      uuid: '5bc3f72c-01fc-459d-aff8-0662408048fa'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.745+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.646+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.921+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'image'
+    section14:
+      primarytype: 'block'
+      uuid: 'a144a0d3-1c9f-4c68-a86b-226ee8430b73'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.746+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.646+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.922+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Kabataan party-list Rep. Raoul Manuel will highlight the need for
         the youth to unite for the future amid warring factions and powers in his
         Barong featuring a mural of an alternative future envisioned by Filipino youth
         painted as a toga hood.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2b105a64-5f16-4866-a759-aa1e7eae651c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-07-21T22:58:45.746+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2024-07-21T23:15:14.647+08:00
-      'mgnl:lastActivatedBy': 'tristan-nwp'
-      'mgnl:lastModified': 2024-07-21T23:07:00.922+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'House Secretary-General Reginald Velasco previously told the media
+    section15:
+      primarytype: 'block'
+      uuid: '2b105a64-5f16-4866-a759-aa1e7eae651c'
+      activationstatus: true
+      created: 2024-07-21T22:58:45.746+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2024-07-21T23:15:14.647+08:00
+      lastactivatedby: 'tristan-nwp'
+      lastmodified: 2024-07-21T23:07:00.922+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'House Secretary-General Reginald Velasco previously told the media
         that guests wearing outfits containing protest, derogatory statements or illustrations
         will be prohibited from attending the SONA. - Tristan Nodalo'

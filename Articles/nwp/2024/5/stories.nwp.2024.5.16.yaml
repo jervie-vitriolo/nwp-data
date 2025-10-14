@@ -1,53 +1,53 @@
-'16':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'ae6dc7ca-bd5c-491e-8d97-6c11d7f88fe2'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-05-16T11:31:51.298+08:00
-  'mgnl:createdBy': 'magnolia'
-  'mgnl:lastActivated': 2024-07-11T18:58:11.973+08:00
-  'mgnl:lastActivatedBy': 'magnolia-ben'
-  'mgnl:lastModified': 2024-05-16T11:32:00.566+08:00
-  'mgnl:lastModifiedBy': 'magnolia'
-  'intermixing-english-and-filipino-languages':
-    'author': 'Lakan Umali'
-    'caption': 'The intermixing of English and Tagalog or of Philippine languages
+section16:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'ae6dc7ca-bd5c-491e-8d97-6c11d7f88fe2'
+  activationstatus: true
+  created: 2024-05-16T11:31:51.298+08:00
+  createdby: 'magnolia'
+  lastactivated: 2024-07-11T18:58:11.973+08:00
+  lastactivatedby: 'magnolia-ben'
+  lastmodified: 2024-05-16T11:32:00.566+08:00
+  lastmodifiedby: 'magnolia'
+  'START HERE----->intermixing-english-and-filipino-languages':
+    author: 'Lakan Umali'
+    caption: 'The intermixing of English and Tagalog or of Philippine languages
       with other Philippine languages is not something which should be avoided or
       frowned upon. It reflects life in a country with more than a hundred languages.
       Illustration by JL JAVIER'
-    'categories': ['3e7f7344-2f35-4c82-b6e7-82a5b52aabd4']
-    'created': 2022-07-26T17:17:33.000+08:00
-    'imagesource': 'jcr:2ed79a14-f94b-4060-8310-22bd68546fad'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1f28675f-3c59-4689-a447-aace8ea46e91'
-    'lead': 'The intermixing of English and Tagalog or of Philippine languages with
+    categories: '3e7f7344-2f35-4c82-b6e7-82a5b52aabd4'
+    created: 2022-07-26T17:17:33.000+08:00
+    imagesource: '2ed79a14-f94b-4060-8310-22bd68546fad'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '1f28675f-3c59-4689-a447-aace8ea46e91'
+    lead: 'The intermixing of English and Tagalog or of Philippine languages with
       other Philippine languages is not something which should be avoided or frowned
       upon. It reflects life in a country with more than a hundred languages.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-05-16T11:32:05.984+08:00
-    'mgnl:createdBy': 'magnolia'
-    'mgnl:lastActivated': 2024-07-11T18:58:12.739+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-05-16T11:34:00.319+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Englishes only, please: listening to the different voices of language'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a00ca67-f4e5-4db0-b7dd-c7f198da7a9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.739+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.295+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Cheryl Lu-Lien Tan’s funny and fascinating novel, “Sarong Party
+    activationstatus: true
+    created: 2024-05-16T11:32:05.984+08:00
+    createdby: 'magnolia'
+    lastactivated: 2024-07-11T18:58:12.739+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-05-16T11:34:00.319+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Englishes only, please: listening to the different voices of language'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4a00ca67-f4e5-4db0-b7dd-c7f198da7a9f'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.739+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.295+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Cheryl Lu-Lien Tan’s funny and fascinating novel, “Sarong Party
         Girls,” is written in Singlish — Singaporean English, a dialect of English
         which draws from English, Malay, Hokkien, and other languages spoken in Singapore.
         Focusing on Jazzy, a 20-something woman in Singapore laser-focused on finding
@@ -62,18 +62,18 @@
         The entire book is rooted in the melodies of a rapidly thrumming and changing
         Singapore, host to a multiplicity of languages and cultures that results in
         wonderful hybridities like Jazzy’s irresistible narrative voice.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fba567e1-4ca6-4cde-a4a6-6f2ee7d88be2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.740+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.297+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>“Sarong Party Girls” was one more reminder for me to unlearn outdated
+    section2:
+      primarytype: 'block'
+      uuid: 'fba567e1-4ca6-4cde-a4a6-6f2ee7d88be2'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.740+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.297+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>“Sarong Party Girls” was one more reminder for me to unlearn outdated
         notions about the “purity” of languages. Growing up, I had learned the proper
         way of speaking and writing involved a clear separation of languages. Mixing
         English and Tagalog was unacceptable. It was fine for informal situations
@@ -84,18 +84,18 @@
         be sullied by any non-English words, and the biggest roadblock to international
         competitiveness was the occasional “ano” or “diba” dropped in an arduously
         constructed English sentence.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a524549-3c03-41d6-993f-42b746f68abb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.741+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.298+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://news.abs-cbn.com/life/01/23/22/over-a-decade-later-venus-raj-answers-her-miss-universe-qa"
+    section4:
+      primarytype: 'block'
+      uuid: '8a524549-3c03-41d6-993f-42b746f68abb'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.741+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.298+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p><a href="https://news.abs-cbn.com/life/01/23/22/over-a-decade-later-venus-raj-answers-her-miss-universe-qa"
         target="_blank">In a recent interview</a>, former Miss Philippines Venus Raj
         confessed that she experienced some dismay at the online reactions to her
         “major, major” answer in the Miss Universe Q&amp;A. She felt she “fumbled”
@@ -113,18 +113,18 @@
         more than a hundred languages, where most inhabitants are bilingual or multilingual,
         where language is a living entity that changes to accommodate the distinct
         realities of its distinct speakers.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e00c908b-a72e-43b3-a0ed-c6981940c8f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.741+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.299+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Nicola Galloway and Heath Rose used the term <a href="https://www.researchgate.net/publication/282249471_Introducing_Global_Englishes"
+    section6:
+      primarytype: 'block'
+      uuid: 'e00c908b-a72e-43b3-a0ed-c6981940c8f3'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.741+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.299+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Nicola Galloway and Heath Rose used the term <a href="https://www.researchgate.net/publication/282249471_Introducing_Global_Englishes"
         target="_blank">“global Englishes”</a> to describe the development of English
         as a world language, and how its interactions with other languages lead to
         different forms of English. <a href="http://www.globalenglishes.com/world-englishes-samples.html"
@@ -139,47 +139,47 @@
         English as the only valid English ignores how Filipinos use English in a variety
         of settings, and play with it like any active speaker plays with the languages
         they speak.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3c820b7-ec27-4c4c-ad42-f237ed3243ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.742+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.300+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>
-
+    section7:
+      primarytype: 'block'
+      uuid: 'c3c820b7-ec27-4c4c-ad42-f237ed3243ae'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.742+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.300+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>
+'
         </p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52928e0f-1d15-4a35-b518-d158cadb7088'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.742+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.301+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>"We should adopt a descriptive, rather than a prescriptive
+    section1:
+      primarytype: 'block'
+      uuid: '52928e0f-1d15-4a35-b518-d158cadb7088'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.742+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.301+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<h2><strong>"We should adopt a descriptive, rather than a prescriptive
         or essentialist approach to understanding language... A descriptive perspective
         seeks to understand how different people and groups use languages in their
         own&nbsp;particular ways."</strong></h2><p> </p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1316f65f-1fd4-4c28-a356-a117f935339e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.743+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.301+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>We should adopt a descriptive, rather than a prescriptive or essentialist
+    section8:
+      primarytype: 'block'
+      uuid: '1316f65f-1fd4-4c28-a356-a117f935339e'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.743+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.301+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>We should adopt a descriptive, rather than a prescriptive or essentialist
         approach to understanding language. The latter perspective insists that there
         is only one, correct version of a language. It treats language as stagnant.
         Languages are separate entities, closed-off from each other. Language is a
@@ -189,32 +189,32 @@
         by a variety of factors: place, gender, class, religion, media, social groups,
         popular culture, the travel of people and products across borders, personal
         and cultural changes. And because the world changes, languages change as well.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4351e861-1f6f-4085-bf07-fc2b424e0bf0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.744+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.302+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>
-
+    section9:
+      primarytype: 'block'
+      uuid: '4351e861-1f6f-4085-bf07-fc2b424e0bf0'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.744+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.302+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>
+'
         </p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aca90fb8-abe0-4399-9163-68775968e05e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.744+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.303+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>The cross-pollination of languages also leads to wonderful experiments
+    section10:
+      primarytype: 'block'
+      uuid: 'aca90fb8-abe0-4399-9163-68775968e05e'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.744+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.303+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>The cross-pollination of languages also leads to wonderful experiments
         in speech and texts. “Valediction sa Hillcrest” by the late National Artist
         Rolando Tinio is written in a mix of English and Tagalog. The persona describes
         the dormitory corridor at his American university as a “[t]unnel yatang aabot
@@ -230,32 +230,32 @@
         who bad” which doesn’t make sense until one reads it as “cecilia hubo’t /
         hubad.” The title itself seems meaningless until one realizes it’s saying
         “Bulimia,” with the rest of the poem focusing on the eating disorder.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1e2cad8-e510-44fa-a9f5-d24f59edceb8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.745+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.304+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>
-
+    section11:
+      primarytype: 'block'
+      uuid: 'b1e2cad8-e510-44fa-a9f5-d24f59edceb8'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.745+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.304+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>
+'
         </p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ac6d6b10-bf98-4532-b207-5cd91ee68661'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.745+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.305+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Another noteworthy poet is Gerald Castillo Galindez, who wrote “Klaro
+    section12:
+      primarytype: 'block'
+      uuid: 'ac6d6b10-bf98-4532-b207-5cd91ee68661'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.745+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.305+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Another noteworthy poet is Gerald Castillo Galindez, who wrote “Klaro
         na Masyado,” a collection of poems written in <a href="https://cotabatoliteraryjournal.com/tag/gerald-galindez/"
         target="_blank">Tacurong</a> and Kabacan Tagalog, forms of Tagalog spoken
         in North Cotabato and Sultan Kudarat. Galindez’s poetry utilizes Tagalog,
@@ -268,32 +268,32 @@
         si Cobain at Bourdain, wala din nagwork, xet! / Pero ako? - Ako daw? / Perfect
         – sabi niya.” Such bold and lively literary creations would be impossible
         without the playing and weaving together of different languages.</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cc00051-36fc-4d59-9aa2-021fdf2aea01'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.746+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.306+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>
-
+    section13:
+      primarytype: 'block'
+      uuid: '4cc00051-36fc-4d59-9aa2-021fdf2aea01'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.746+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.306+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>
+'
         </p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0b62eec9-bfbf-44d3-a050-28ffa54e89d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:32:05.984+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.746+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:34:00.307+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>An old professor once told us that Latin was a fossilized language
+    section14:
+      primarytype: 'block'
+      uuid: '0b62eec9-bfbf-44d3-a050-28ffa54e89d8'
+      activationstatus: true
+      created: 2024-05-16T11:32:05.984+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.746+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:34:00.307+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>An old professor once told us that Latin was a fossilized language
         because, while one may become knowledgeable in it, no one grows up in an environment
         where one can naturally learn it. It’s fossilized because it can’t change.
         The mingling and shifting of languages is not just present in literary texts,
@@ -303,45 +303,45 @@
         are alive because they can change, because their speakers use them to make
         sense of the thrumming and changing world around them. To deny the fluidity
         of language is to deny the fluidity of life.</p>'
-  'rhuigi-villase-or-profile-rhude-bally':
-    'author': 'Juli Suazo'
-    'caption': 'Rhuigi Villaseñor — founder and creative director of luxury brand
+  'START HERE----->rhuigi-villase-or-profile-rhude-bally':
+    author: 'Juli Suazo'
+    caption: 'Rhuigi Villaseñor — founder and creative director of luxury brand
       RHUDE and creative director of Swiss brand Bally — credits his understanding
       of garments to his mother who sewed school uniforms and party clothes for him
       and his siblings. Photo by JL JAVIER'
-    'categories': ['8f576cb5-dd86-4f5c-a712-46d6a9d5ab95']
-    'created': 2022-05-11T18:33:20.000+08:00
-    'imagesource': 'jcr:40aba2ea-9a2a-4c3b-afda-5d7a5ed24adf'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f98cf384-bfd6-48bf-acf9-bac212180c10'
-    'lead': 'Rhuigi Villaseñor — founder and creative director of luxury brand RHUDE
+    categories: '8f576cb5-dd86-4f5c-a712-46d6a9d5ab95'
+    created: 2022-05-11T18:33:20.000+08:00
+    imagesource: '40aba2ea-9a2a-4c3b-afda-5d7a5ed24adf'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f98cf384-bfd6-48bf-acf9-bac212180c10'
+    lead: 'Rhuigi Villaseñor — founder and creative director of luxury brand RHUDE
       and creative director of Swiss brand Bally — credits his understanding of garments
       to his mother who sewed school uniforms and party clothes for him and his siblings.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-05-16T11:38:37.415+08:00
-    'mgnl:createdBy': 'magnolia'
-    'mgnl:lastActivated': 2024-07-11T18:58:12.459+08:00
-    'mgnl:lastActivatedBy': 'magnolia-ben'
-    'mgnl:lastModified': 2024-05-16T11:41:30.630+08:00
-    'mgnl:lastModifiedBy': 'magnolia'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Bally Creative Director Rhuigi Villaseñor on his life through clothes'
-    'visualType': 'image'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fece685a-82a0-429a-adca-26db6aed2804'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.460+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.594+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Without any formal training in fashion design, Rhuigi Villaseñor
+    activationstatus: true
+    created: 2024-05-16T11:38:37.415+08:00
+    createdby: 'magnolia'
+    lastactivated: 2024-07-11T18:58:12.459+08:00
+    lastactivatedby: 'magnolia-ben'
+    lastmodified: 2024-05-16T11:41:30.630+08:00
+    lastmodifiedby: 'magnolia'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Bally Creative Director Rhuigi Villaseñor on his life through clothes'
+    visualtype: 'image'
+    section1:
+      primarytype: 'block'
+      uuid: 'fece685a-82a0-429a-adca-26db6aed2804'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.460+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.594+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Without any formal training in fashion design, Rhuigi Villaseñor
         — founder and creative director of luxury brand Rhude (stylized as “RHUDE”)
         and newly appointed creative director of Swiss brand Bally — credits his understanding
         of garments to his mother who sewed school uniforms and party clothes for
@@ -349,51 +349,51 @@
         Frank Ocean, Justin Bieber, and ASAP Rocky, the label sits somewhere between
         high fashion and streetwear, combining American iconography with nostalgic
         references and luxury techniques, something that he will surely bring to Bally.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50b7e375-cf13-44c1-be1a-a39a36171d33'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.460+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.596+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Known for its incomparable craftsmanship and leather shoes, Bally
+    section2:
+      primarytype: 'block'
+      uuid: '50b7e375-cf13-44c1-be1a-a39a36171d33'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.460+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.596+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Known for its incomparable craftsmanship and leather shoes, Bally
         preserves its essence as Swiss shoemakers that combine heritage, artistry,
         and contemporary design. In the five years of operating without a creative
         director, the brand underwent a repositioning and returned to its roots as
         a discreet and accessible luxury. And with the addition of Villaseñor — a
         talented visionary who melds luxury with streetwear — Bally is set to reintroduce
         modern-day Swiss lifestyle to the luxury market.</p>'
-    '0':
-      'image': 'jcr:42d7b761-fce8-4134-b277-8bcd405b5939'
-      'imageCaption': 'With the addition of Villaseñor — a talented visionary who
+    section0:
+      image: '42d7b761-fce8-4134-b277-8bcd405b5939'
+      imagecaption: 'With the addition of Villaseñor — a talented visionary who
         melds luxury with streetwear — Bally is set to reintroduce modern-day Swiss
         lifestyle to the luxury market. Photo by JL JAVIER'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8850e0df-170e-45b5-b800-b0672702f66a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.461+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.597+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5b00b6d-8614-48a4-ac10-3f156bf09fcd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.461+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.598+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Villaseñor had a slower, more thoughtful evolution in his approach
+      primarytype: 'block'
+      uuid: '8850e0df-170e-45b5-b800-b0672702f66a'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.461+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.597+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section3:
+      primarytype: 'block'
+      uuid: 'd5b00b6d-8614-48a4-ac10-3f156bf09fcd'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.461+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.598+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Villaseñor had a slower, more thoughtful evolution in his approach
         to design at Rhude, which is known for its ready-to-wear clothing, footwear,
         and accessories. When he had first started his own brand, his thinking and
         decision-making process were lined with a diplomatic take. “I wanted to be
@@ -406,18 +406,18 @@
         natural and human it is to keep falling in love with the new and fall back
         in love with the old. And in a way, the beauty of the brand remains in how
         it has grown with its maker.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e4931de-5407-4069-8274-46b087ef5853'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.461+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.599+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>For Villaseñor, Rhude is the preservation of an open conversation.
+    section5:
+      primarytype: 'block'
+      uuid: '3e4931de-5407-4069-8274-46b087ef5853'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.461+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.599+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>For Villaseñor, Rhude is the preservation of an open conversation.
         The continuous churning of collections and releases means the 30-year-old
         designer is able to keep building the bridge between his consumers and his
         imagination. His work at Rhude is also woven with intimacy and reverence for
@@ -425,65 +425,65 @@
         named after his mother and girlfriend. “I’m building a fashion house here
         and most fashion houses have iconic names,” said Villaseñor. “So, I created
         items named after people who mean the most to me.”</p>'
-    '30':
-      'image': 'jcr:4940f430-30be-4f46-b9f2-74b93f48d8d5'
-      'imageCaption': 'From RHUDE FW2022. Photo courtesy of RHUDE'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9f472d6-82e3-4043-9d7f-23031a94fbe1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.462+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.600+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '4':
-      'image': 'jcr:90ea8d02-9f2b-4601-b8e9-d53fe9c465df'
-      'imageCaption': 'From RHUDE FW2022. Photo courtesy of RHUDE'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc6e6b2e-0860-4a1e-af6e-159f2bf55983'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.462+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.601+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '7':
-      'image': 'jcr:5f881894-2a40-4f07-a743-c02daa8c7e09'
-      'imageCaption': 'From RHUDE FW2022. Photo courtesy of RHUDE'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b9fe1cf-7f53-4205-a739-b79fbcc92d19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.462+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.602+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd281f5fc-911b-4e12-ba7a-53215f1356d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.463+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.603+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Included in his tight-knit circle is Jay-Z, a man who Villaseñor
+    section30:
+      image: '4940f430-30be-4f46-b9f2-74b93f48d8d5'
+      imagecaption: 'From RHUDE FW2022. Photo courtesy of RHUDE'
+      primarytype: 'block'
+      uuid: 'e9f472d6-82e3-4043-9d7f-23031a94fbe1'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.462+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.600+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section4:
+      image: '90ea8d02-9f2b-4601-b8e9-d53fe9c465df'
+      imagecaption: 'From RHUDE FW2022. Photo courtesy of RHUDE'
+      primarytype: 'block'
+      uuid: 'bc6e6b2e-0860-4a1e-af6e-159f2bf55983'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.462+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.601+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section7:
+      image: '5f881894-2a40-4f07-a743-c02daa8c7e09'
+      imagecaption: 'From RHUDE FW2022. Photo courtesy of RHUDE'
+      primarytype: 'block'
+      uuid: '5b9fe1cf-7f53-4205-a739-b79fbcc92d19'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.462+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.602+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section6:
+      primarytype: 'block'
+      uuid: 'd281f5fc-911b-4e12-ba7a-53215f1356d2'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.463+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.603+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Included in his tight-knit circle is Jay-Z, a man who Villaseñor
         considers as not only his mentor, but also his brother and biggest supporter.
         The 23-time Grammy award-winner is often spotted as the first to wear designs
         by Villaseñor, from his Puma trainer collaboration to Lakers-inspired Rhude
         hats. “It’s crazy though, the way the world works,” he said. “I listen to
         his albums to get me through [the] dark times of my life.”</p>'
-    '28':
-      'contentWidth': '100%'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXExku4P2kS/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section28:
+      contentwidth: '100%'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/CXExku4P2kS/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -568,138 +568,138 @@
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by Rhuigi Villaseñor® (@rhuigi)</a></p></div></blockquote> <script
         async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c876084-485f-4349-b428-f7b02f7f00d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.463+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.603+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'embedCode'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1810a243-0c60-475e-b1f9-457d49a639ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.463+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.604+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Seven years after putting up his own label, Villaseñor moved into
+      primarytype: 'block'
+      uuid: '8c876084-485f-4349-b428-f7b02f7f00d5'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.463+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.603+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'embedcode'
+    section8:
+      primarytype: 'block'
+      uuid: '1810a243-0c60-475e-b1f9-457d49a639ee'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.463+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.604+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Seven years after putting up his own label, Villaseñor moved into
         his new seat at Bally as its Creative Director.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '884f5c60-f5cc-499d-911b-f333b3a87aa7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.464+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.605+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Villaseñor’s admiration for the Swiss luxury house dates back to
+    section9:
+      primarytype: 'block'
+      uuid: '884f5c60-f5cc-499d-911b-f333b3a87aa7'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.464+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.605+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Villaseñor’s admiration for the Swiss luxury house dates back to
         his early childhood —- with articles of the brand worn from generation to
         generation. “My grandfather wore Bally, my dad wore Bally, and I stole my
         dad’s Bally [loafers] and wore it. I still wear it,” he said.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3c278ff-2cbc-4842-b7bb-0368d010bd1a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.464+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.606+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>His work at Bally is characterized by precision and a sense of structure
+    section10:
+      primarytype: 'block'
+      uuid: 'a3c278ff-2cbc-4842-b7bb-0368d010bd1a'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.464+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.606+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>His work at Bally is characterized by precision and a sense of structure
         as he renovates and re-structures the future of the Swiss luxury fashion house
         — designing clothes and accessories that can uncover heritage and re-tells
         the story of Switzerland. “I hope to talk about the craftsmanship, the beauty
         of the leather work and the Switzerland story, what I think the ultimate luxury
         is, you know?” said Villaseñor.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b5ede40e-b64c-4aa3-8520-0f1493f0ebfc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.464+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.607+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>His personal understanding of Bally, one of the world’s longstanding
+    section11:
+      primarytype: 'block'
+      uuid: 'b5ede40e-b64c-4aa3-8520-0f1493f0ebfc'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.464+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.607+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>His personal understanding of Bally, one of the world’s longstanding
         luxury brands, coupled with his imaginative and creative spirit steer his
         vision and direction for the brand. Working on his debut collection for Spring/Summer
         2023, the Manila-born creative director intends to invigorate and modernize
         the brand while remaining faithful to its longstanding traditions.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '139c913d-cfb5-4f56-98ad-1546ea88ec1b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.465+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.607+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>He equates his appointment at Bally as a mirror of hard work. “I
+    section12:
+      primarytype: 'block'
+      uuid: '139c913d-cfb5-4f56-98ad-1546ea88ec1b'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.465+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.607+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>He equates his appointment at Bally as a mirror of hard work. “I
         think it’s important not only to my people but to just minorities alone,”
         said Villaseñor. “These are the things that are super important to me: how
         do we get more colored people in places and how do I give that hope?”</p>'
-    '14':
-      'image': 'jcr:fac638de-7f9e-456b-affa-326cdb338032'
-      'imageCaption': 'Thinking long-term, Villaseñor hopes to push Bally to the forefront
+    section14:
+      image: 'fac638de-7f9e-456b-affa-326cdb338032'
+      imagecaption: 'Thinking long-term, Villaseñor hopes to push Bally to the forefront
         of the issues surrounding the next generation. “How can I use this platform
         to encourage kids to be part of something much larger than just a leather
         good?” Photo by JL JAVIER'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0083ada-f2eb-416f-b9ef-e87039889fff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.465+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.608+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7700db3-2273-4e3e-8cf8-21167ba70736'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.466+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.609+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Villaseñor’s recent decision to go on a trip back home to the Philippines
+      primarytype: 'block'
+      uuid: 'f0083ada-f2eb-416f-b9ef-e87039889fff'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.465+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.608+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section13:
+      primarytype: 'block'
+      uuid: 'd7700db3-2273-4e3e-8cf8-21167ba70736'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.466+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.609+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Villaseñor’s recent decision to go on a trip back home to the Philippines
         stems from a strong desire to work with local talent and to learn subcultures
         within his own heritage. He cites woven furniture makers as one of the many
         types of artists from different regions that he hopes to collaborate with
         through the Bally Foundation. “Now is [when] I have the opportunity to be
         the mirror and be the stage,” he said. “I don’t wanna be the talent, I wanna
         be the stage.”</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14a10135-df44-45a7-9bcc-271514c87369'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.466+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.610+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>His fascination with clothes starts with its implications and culture.
+    section17:
+      primarytype: 'block'
+      uuid: '14a10135-df44-45a7-9bcc-271514c87369'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.466+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.610+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>His fascination with clothes starts with its implications and culture.
         “I fell in love with clothes and I saw how much that was meaningful to culture.
         Streetwear was growing and growing and you had people re-interpreting the
         way fashion was,” said Villaseñor. Witnessing fashion in LLos Angeles unfold
@@ -707,103 +707,103 @@
         desire to start wearing clothes that documented a culture or period in time.
         “It was like, ‘Oh man, I gotta get some clothes but I don’t have the money
         for it,’” he said.</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e93ff7ee-0ceb-4433-b021-99b1927acabc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.467+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.611+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Villaseñor often got things done through a sheer force of will.
+    section19:
+      primarytype: 'block'
+      uuid: 'e93ff7ee-0ceb-4433-b021-99b1927acabc'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.467+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.611+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Villaseñor often got things done through a sheer force of will.
         “At that time, you kinda needed to make things work in capacity,” said Villaseñor.
         “I was like, ‘I’m gonna make it, I have to make it because by any means I
         have to help my parents and I have to help my younger brother and my younger
         sister at that time.’” Living an undocumented life in the United States distanced
         Villaseñor from any prospects of a job. “I still had to eat, I still had to
         figure [it] out, so I started selling clothes online.”’</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4774133-6990-481e-851d-9d70e7081e80'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.467+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.612+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Having left the Philippines at 11 years old, Rhuigi Villasenor’s
+    section22:
+      primarytype: 'block'
+      uuid: 'a4774133-6990-481e-851d-9d70e7081e80'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.467+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.612+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Having left the Philippines at 11 years old, Rhuigi Villasenor’s
         new life in the United States began at his aunt’s living room before his family
         relocated into a one-bedroom apartment. Seeing the United States through his
         eyes as a child, an understanding of America as a center for pop culture pushed
         him forward, at odds with language barriers. “I learned how to speak English
         and communicate with people through pop culture,” said Villaseñor. “I was
         consuming information as much as I could so I [could] have a proper conversation.”</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f691e8d-42dc-4a4d-940a-056a6563c13f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.468+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.612+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>While he coursed through American culture growing up, Villaseñor
+    section20:
+      primarytype: 'block'
+      uuid: '2f691e8d-42dc-4a4d-940a-056a6563c13f'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.468+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.612+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>While he coursed through American culture growing up, Villaseñor
         feels he remains culturally an islander. He likens his return to the Philippines
         last March to an exploration of his way of being. “It’s my travels, my ancestries
         and core beliefs that have been passed down and now it’s turning,” he said.
         “Because to me, it’s also a question of: what is all this for if I can’t keep
         the door open for people?”</p>'
-    '15':
-      'image': 'jcr:c55caefc-a514-4d1a-a058-699bedb322c4'
-      'imageCaption': '“My most Filipino trait… Ooh, oh my God, I just — soup. Soup,”
+    section15:
+      image: 'c55caefc-a514-4d1a-a058-699bedb322c4'
+      imagecaption: '“My most Filipino trait… Ooh, oh my God, I just — soup. Soup,”
         said Villaseñor. Photo by JL JAVIER'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ae914d07-485f-425e-90a1-7293e692d226'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.468+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.613+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'image'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92b9a0fc-cee5-4609-91a6-106d419fa4e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.468+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.614+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>And as he grows older, the stronger he feels drawn back to his roots.
+      primarytype: 'block'
+      uuid: 'ae914d07-485f-425e-90a1-7293e692d226'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.468+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.613+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'image'
+    section21:
+      primarytype: 'block'
+      uuid: '92b9a0fc-cee5-4609-91a6-106d419fa4e6'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.468+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.614+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>And as he grows older, the stronger he feels drawn back to his roots.
         “My most Filipino trait… Ooh, oh my God, I just — soup. Soup,” said Villaseñor.
         “If you ask me [what] my comfort food, they’ll know it’s soup. Even at like
         a Michelin-star restaurant, I’m always like, ‘Fuck I want soup.’” He revealed
         his soft spot for sinigang, bopis, and kare-kare. When he’s not on a plane
         balancing his life between LA and Milan, he withdraws into reading and talking
         to his family. “And I watch, like, dating shows.”</p>'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90ee0bcf-7146-44c9-9436-eb8a4b63743b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.469+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.615+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>It is one of Villaseñor’s philosophical tenets that the youth are
+    section23:
+      primarytype: 'block'
+      uuid: '90ee0bcf-7146-44c9-9436-eb8a4b63743b'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.469+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.615+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>It is one of Villaseñor’s philosophical tenets that the youth are
         invited to the conversation. Thinking long-term, he hopes to push Bally to
         the forefront of the issues surrounding the next generation. “How can I use
         this platform to encourage kids to be part of something much larger than just
@@ -812,77 +812,77 @@
         “I think that’s my duty now as I grow into my career, obviously, I will make
         beautiful clothes, beautiful items, conquer all my dreams but I want to make
         sure that I want to be a mirror to everyone.”</p>'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e8a3b2c4-f691-484e-b424-c00efebb3e66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.469+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.616+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Even when he gets down for brief periods, his mind remains at work.
+    section25:
+      primarytype: 'block'
+      uuid: 'e8a3b2c4-f691-484e-b424-c00efebb3e66'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.469+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.616+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Even when he gets down for brief periods, his mind remains at work.
         But instead of contemplating garments and articles of clothing he wants to
         release next, he ruminates on what the next collection should represent. “[Because]
         of my father, I think I’m super focused on things that I love and I only do
         that,” said Villaseñor.</p>'
-    '16':
-      'assetautoplay': false
-      'assetcontrols': true
-      'assetloop': false
-      'assetmuted': false
-      'assetpreload': 'auto'
-      'embed': '<iframe width="560" height="315" src="https://www.youtube.com/embed/ELwmwfo9cyU"
+    section16:
+      assetautoplay: false
+      assetcontrols: true
+      assetloop: false
+      assetmuted: false
+      assetpreload: 'auto'
+      embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/ELwmwfo9cyU"
         title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '843d11ea-8678-4eff-9828-11c50d1aa559'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.469+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.617+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'video'
-      'scale': 'true'
-      'type': 'embed'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7a28712-bd67-41e4-b01a-c0e6a3178199'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.470+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.617+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>Video by SAMANTHA LEE</p>'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b597d8c-94a8-4f8a-be93-6dda95169020'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.470+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.618+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p>***</p>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66ee2a08-60f7-4e6e-b719-99c54a03a89c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-05-16T11:38:37.415+08:00
-      'mgnl:createdBy': 'magnolia'
-      'mgnl:lastActivated': 2024-07-11T18:58:12.471+08:00
-      'mgnl:lastActivatedBy': 'magnolia-ben'
-      'mgnl:lastModified': 2024-05-16T11:41:30.619+08:00
-      'mgnl:lastModifiedBy': 'magnolia'
-      'mgnl:type': 'text'
-      'text': '<p><em>Portraits shot on location at SHANGRI-LA THE FORT, MANILA<br>Special
+      primarytype: 'block'
+      uuid: '843d11ea-8678-4eff-9828-11c50d1aa559'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.469+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.617+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'video'
+      scale: 'true'
+      type: 'embed'
+    section24:
+      primarytype: 'block'
+      uuid: 'a7a28712-bd67-41e4-b01a-c0e6a3178199'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.470+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.617+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>Video by SAMANTHA LEE</p>'
+    section26:
+      primarytype: 'block'
+      uuid: '8b597d8c-94a8-4f8a-be93-6dda95169020'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.470+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.618+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p>***</p>'
+    section27:
+      primarytype: 'block'
+      uuid: '66ee2a08-60f7-4e6e-b719-99c54a03a89c'
+      activationstatus: true
+      created: 2024-05-16T11:38:37.415+08:00
+      createdby: 'magnolia'
+      lastactivated: 2024-07-11T18:58:12.471+08:00
+      lastactivatedby: 'magnolia-ben'
+      lastmodified: 2024-05-16T11:41:30.619+08:00
+      lastmodifiedby: 'magnolia'
+      type: 'text'
+      text: '<p><em>Portraits shot on location at SHANGRI-LA THE FORT, MANILA<br>Special
         thanks to DEBRALIZ GALANG</em></p>'

@@ -1,2145 +1,2145 @@
-'31':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': 'e76a01e8-c37a-48e5-b110-85afa3458d5d'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-05-29T08:15:02.746+08:00
-  'mgnl:createdBy': 'jham-nwp'
-  'mgnl:lastActivated': 2025-05-31T09:05:16.516+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-05-31T09:05:16.311+08:00
-  'mgnl:lastModified': 2025-05-31T16:43:03.230+08:00
-  'mgnl:lastModifiedBy': 'faith-nwp'
-  'Taylor-Swift-gains-control-of-her-music-catalog':
-    'author': 'Lisa Richwine, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T09:05:24.000+08:00
-    'imagesource': 'jcr:6e4eada0-da61-456e-b38f-048628cc9775'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '852648b8-cd39-4352-8b73-bc89f71479bb'
-    'lead': 'Pop superstar Taylor Swift said she had purchased the master recordings
+section31:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: 'e76a01e8-c37a-48e5-b110-85afa3458d5d'
+  activationstatus: true
+  created: 2025-05-29T08:15:02.746+08:00
+  createdby: 'jham-nwp'
+  lastactivated: 2025-05-31T09:05:16.516+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-05-31T09:05:16.311+08:00
+  lastmodified: 2025-05-31T16:43:03.230+08:00
+  lastmodifiedby: 'faith-nwp'
+  'START HERE----->Taylor-Swift-gains-control-of-her-music-catalog':
+    author: 'Lisa Richwine, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T09:05:24.000+08:00
+    imagesource: '6e4eada0-da61-456e-b38f-048628cc9775'
+    primarytype: 'composition'
+    uuid: '852648b8-cd39-4352-8b73-bc89f71479bb'
+    lead: 'Pop superstar Taylor Swift said she had purchased the master recordings
       of her first six albums, giving her control of all of her music after a dispute
       with her former record label.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T09:07:35.107+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T09:07:35.394+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Taylor Swift gains control of her music catalog'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f80aa341-96e5-42ad-a6a3-9714f7e5f527'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.119+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.395+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Pop superstar Taylor Swift said on
+    activationstatus: true
+    created: 2025-05-31T09:07:35.107+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T09:07:35.394+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T09:07:35.149+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Taylor Swift gains control of her music catalog'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f80aa341-96e5-42ad-a6a3-9714f7e5f527'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.119+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.395+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Pop superstar Taylor Swift said on
         Friday she had purchased the master recordings of her first six albums, giving
         her control of all of her music after a dispute with her former record label.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90818085-0ca3-48fe-b566-d7b96df540ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.119+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.396+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Swift’s masters had been sold in 2019 and the singer said she was
+    section1:
+      primarytype: 'block'
+      uuid: '90818085-0ca3-48fe-b566-d7b96df540ec'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.119+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.396+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Swift’s masters had been sold in 2019 and the singer said she was
         not given the opportunity to buy them at the time. She re-recorded four of
         the albums with the subtitle "Taylor’s Version."'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28811e69-f160-4fab-b6a0-1990a6b7c81e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.119+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.397+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Swift purchased the original recordings from current owner Shamrock
+    section2:
+      primarytype: 'block'
+      uuid: '28811e69-f160-4fab-b6a0-1990a6b7c81e'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.119+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.397+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Swift purchased the original recordings from current owner Shamrock
         Capital in what she called her "greatest dream come true." No financial terms
         were disclosed.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4a41ed17-f5b2-45e4-b0dd-82ae1821cb25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.120+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.398+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I''ve been bursting into tears of joy at random intervals ever since
+    section3:
+      primarytype: 'block'
+      uuid: '4a41ed17-f5b2-45e4-b0dd-82ae1821cb25'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.120+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.398+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I've been bursting into tears of joy at random intervals ever since
         I found out this is really happening," she said in a statement on her website.
-        "I really get to say these words: All of the music I''ve ever made ... now
+        "I really get to say these words: All of the music I've ever made ... now
         belongs ... to me."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '13544cc2-c84b-4158-8aba-13ea8077bff5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.120+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.399+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The "Fortnight" singer also said she had re-recorded her 2006 self-titled
+    section4:
+      primarytype: 'block'
+      uuid: '13544cc2-c84b-4158-8aba-13ea8077bff5'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.120+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.399+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The "Fortnight" singer also said she had re-recorded her 2006 self-titled
         debut album and parts of 2017 release "Reputation." She said she would release
         them "when the time is right, if that would be something you guys would be
         excited about."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4983b88-4e4b-488b-908d-04b720e79837'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.120+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.400+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Swift has won 14 Grammys, including an unprecedented four trophies
+    section5:
+      primarytype: 'block'
+      uuid: 'd4983b88-4e4b-488b-908d-04b720e79837'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.120+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.400+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Swift has won 14 Grammys, including an unprecedented four trophies
         for album of the year, and recently completed the highest-grossing concert
         tour of all time.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'acf7cffc-925d-4dda-8440-ebd73197da7a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.121+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.400+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The 35-year-old singer recorded her first six albums, which included
+    section6:
+      primarytype: 'block'
+      uuid: 'acf7cffc-925d-4dda-8440-ebd73197da7a'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.121+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.400+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The 35-year-old singer recorded her first six albums, which included
         hits such as "Shake It Off" and "You Belong With Me," with Big Machine Label
         Group before leaving in 2018 for Universal Music Group UMG.AS.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '440a3e51-7da0-496d-8a55-8a94f2beb528'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.121+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.401+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Music executive Scooter Braun bought Big Machine in 2019 and Swift
+    section7:
+      primarytype: 'block'
+      uuid: '440a3e51-7da0-496d-8a55-8a94f2beb528'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.121+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.401+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Music executive Scooter Braun bought Big Machine in 2019 and Swift
         publicly accused him of bullying her and refusing to give her a chance to
         purchase her original recordings. Swift said in 2020 that BMG had sold her
         music to Shamrock. Media reports at the time said the deal was worth more
         than $300 million.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c2d54acf-1e56-4765-b198-57ebe62759c0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.121+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.402+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Representatives for Braun did not immediately respond to a request
+    section8:
+      primarytype: 'block'
+      uuid: 'c2d54acf-1e56-4765-b198-57ebe62759c0'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.121+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.402+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Representatives for Braun did not immediately respond to a request
         for comment.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1d41b4f9-8b9a-426f-a184-c96893f4a8be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.122+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.403+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Swift praised executives at Shamrock, founded by Walt Disney’s nephew
+    section9:
+      primarytype: 'block'
+      uuid: '1d41b4f9-8b9a-426f-a184-c96893f4a8be'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.122+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.403+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Swift praised executives at Shamrock, founded by Walt Disney’s nephew
         Roy E. Disney, as being "honest, fair and respectful."'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a067f288-5211-43e4-a0a6-a3e65686b53d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.122+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.404+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"My first tattoo might just be a huge shamrock in the middle of my
+    section10:
+      primarytype: 'block'
+      uuid: 'a067f288-5211-43e4-a0a6-a3e65686b53d'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.122+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.404+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"My first tattoo might just be a huge shamrock in the middle of my
         forehead," she joked.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c01aba4a-d482-4928-b2de-b46ab9758bd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:07:35.122+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:07:35.405+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:07:35.149+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Lisa Richwine in Los Angeles; Editing by Nia Williams
+    section11:
+      primarytype: 'block'
+      uuid: 'c01aba4a-d482-4928-b2de-b46ab9758bd5'
+      activationstatus: true
+      created: 2025-05-31T09:07:35.122+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:07:35.405+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:07:35.149+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Lisa Richwine in Los Angeles; Editing by Nia Williams
         and Mark Porter)</em></p>'
-  'Pentagon-chief-warns-of-imminent-China-threat--pushes-Asian-allies-to-hike-defence-spending':
-    'author': 'Idrees Ali, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T09:10:25.000+08:00
-    'imagesource': 'jcr:59d78088-f523-43d6-ae14-984c945eac61'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '98042d76-01e3-42c3-a982-5cd0e27c2a11'
-    'lead': 'US Defense Secretary Pete Hegseth warned on Saturday that the threat
+  'START HERE----->Pentagon-chief-warns-of-imminent-China-threat--pushes-Asian-allies-to-hike-defence-spending':
+    author: 'Idrees Ali, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T09:10:25.000+08:00
+    imagesource: '59d78088-f523-43d6-ae14-984c945eac61'
+    primarytype: 'composition'
+    uuid: '98042d76-01e3-42c3-a982-5cd0e27c2a11'
+    lead: 'US Defense Secretary Pete Hegseth warned on Saturday that the threat
       from China was real and potentially imminent as he pushed allies in the Indo-Pacific
       to spend more on their own defence needs.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T09:12:14.521+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T09:12:14.894+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Pentagon chief warns of imminent China threat, pushes Asian allies to
+    activationstatus: true
+    created: 2025-05-31T09:12:14.521+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T09:12:14.894+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T09:12:14.578+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Pentagon chief warns of imminent China threat, pushes Asian allies to
       hike defence spending'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f43c7e4a-ee64-448d-a65d-f801937b9115'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.533+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.895+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> US Defense Secretary Pete Hegseth warned
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f43c7e4a-ee64-448d-a65d-f801937b9115'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.533+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.895+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> US Defense Secretary Pete Hegseth warned
         on Saturday that the threat from China was real and potentially imminent as
         he pushed allies in the Indo-Pacific to spend more on their own defence needs.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8446c16f-e71c-47a0-8c3b-8c09d19d4f9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.533+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.897+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hegseth, speaking for the first time at the Shangri-La Dialogue in
+    section1:
+      primarytype: 'block'
+      uuid: '8446c16f-e71c-47a0-8c3b-8c09d19d4f9b'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.533+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.897+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hegseth, speaking for the first time at the Shangri-La Dialogue in
         Singapore, Asia’s premier forum for defence leaders, militaries and diplomats,
         laid out how the Indo-Pacific region was a priority for the Trump administration.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '83dc0b31-8158-4710-9689-aca7dc15759a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.534+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.898+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"There’s no reason to sugar coat it. The threat China poses is real,
+    section2:
+      primarytype: 'block'
+      uuid: '83dc0b31-8158-4710-9689-aca7dc15759a'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.534+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.898+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"There’s no reason to sugar coat it. The threat China poses is real,
         and it could be imminent," Hegseth said, in some of his strongest comments
         on the Communist nation since he took office in January. He added that any
         attempt by China to conquer Taiwan "would result in devastating consequences
         for the Indo-Pacific and the world", and echoed Trump’s comment that China
         will not invade Taiwan on the president’s watch.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aef08529-6a45-4a6e-bffa-1f0b2fc2220b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.534+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.899+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'China views Taiwan as its own territory and has vowed to "reunify"
+    section3:
+      primarytype: 'block'
+      uuid: 'aef08529-6a45-4a6e-bffa-1f0b2fc2220b'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.534+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.899+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'China views Taiwan as its own territory and has vowed to "reunify"
         with the democratic and separately governed island, by force if necessary.
         It has stepped up military and political pressure to assert those claims,
         including increasing the intensity of war games around Taiwan.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03136f3e-ac7c-4ea8-ac34-6a1c3003c2a8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.534+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.900+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Taiwan’s government rejects Beijing’s sovereignty claims, saying
+    section4:
+      primarytype: 'block'
+      uuid: '03136f3e-ac7c-4ea8-ac34-6a1c3003c2a8'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.534+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.900+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Taiwan’s government rejects Beijing’s sovereignty claims, saying
         only the island’s people can decide their future.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6bc8b277-53bd-4d0b-a816-c872bb04dc68'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.535+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.901+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It has to be clear to all that Beijing is credibly preparing to potentially
+    section5:
+      primarytype: 'block'
+      uuid: '6bc8b277-53bd-4d0b-a816-c872bb04dc68'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.535+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.901+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It has to be clear to all that Beijing is credibly preparing to potentially
         use military force to alter the balance of power in the Indo Pacific," Hegseth
         said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11a0b750-03c7-4e09-af37-7427ed60a40e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.535+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.902+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But his comments on allies needing to increase spending is likely to
+    section6:
+      primarytype: 'block'
+      uuid: '11a0b750-03c7-4e09-af37-7427ed60a40e'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.535+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.902+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But his comments on allies needing to increase spending is likely to
         cause consternation amongst partners, even though experts said Hegseth would
         face a relatively friendly audience in Singapore. China’s Defence Minister
         Dong Jun has decided to skip the major Asian security forum and Beijing has
         sent only an academic delegation.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'caa2d94e-c86d-4a69-808d-7e4d04d010eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.535+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.903+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hegseth has previously taken aim at allies in Europe for not spending
+    section7:
+      primarytype: 'block'
+      uuid: 'caa2d94e-c86d-4a69-808d-7e4d04d010eb'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.535+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.903+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hegseth has previously taken aim at allies in Europe for not spending
         more on their own defence. In February, he warned Europe against treating
         America like a "sucker" while addressing a press conference at NATO headquarters
         in Brussels.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '40f70a13-9ff3-4edf-ac10-68ea0d11dff8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.536+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.903+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, while delivering the keynote address at the Shangri-La Dialogue,
+    section8:
+      primarytype: 'block'
+      uuid: '40f70a13-9ff3-4edf-ac10-68ea0d11dff8'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.536+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.903+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On Friday, while delivering the keynote address at the Shangri-La Dialogue,
         French President Emmanuel Macron said Hegseth was justified in asking Europe
         to increase its own defence spending.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '87a8417e-502a-4598-9e3f-3f7c13c1f4ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.536+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.904+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s hard to believe, a little bit, after some trips to Europe that
-        I''m saying this, but thanks to President Trump, Asian allies should look
+    section9:
+      primarytype: 'block'
+      uuid: '87a8417e-502a-4598-9e3f-3f7c13c1f4ef'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.536+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.904+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It’s hard to believe, a little bit, after some trips to Europe that
+        I'm saying this, but thanks to President Trump, Asian allies should look
         to countries in Europe as a new found example," Hegseth said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca2af342-4dfa-40d0-b973-ee07ee7d911f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.536+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.905+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It doesn''t make sense for countries in Europe to do that while key
+    section10:
+      primarytype: 'block'
+      uuid: 'ca2af342-4dfa-40d0-b973-ee07ee7d911f'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.536+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.905+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It doesn't make sense for countries in Europe to do that while key
         allies in Asia spend less on defence in the face of an even more formidable
         threat, not to mention North Korea."'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b075756b-04aa-4797-ac9c-d81e2b15ab6f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.537+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.906+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>''STEPPING UP''</strong></h3>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7218f8c9-9ee1-4b34-a7dc-8167e409f346'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.537+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.907+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Spending on weapons and research is spiking among some Asian countries
+    section11:
+      primarytype: 'block'
+      uuid: 'b075756b-04aa-4797-ac9c-d81e2b15ab6f'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.537+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.906+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>'STEPPING UP'</strong></h3>'
+    section12:
+      primarytype: 'block'
+      uuid: '7218f8c9-9ee1-4b34-a7dc-8167e409f346'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.537+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.907+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Spending on weapons and research is spiking among some Asian countries
         as they respond to a darkening security outlook by broadening their outside
         industrial partnerships while trying to boost their own defence industries,
         according to a new study by the London-based International Institute for Strategic
         Studies, the organisation that runs the Shangri-La Dialogue.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3eaecd51-4678-4b1c-aa1a-2599e03f36f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.538+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.908+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The spike comes even as the nations spent an average of 1.5% of GDP
+    section13:
+      primarytype: 'block'
+      uuid: '3eaecd51-4678-4b1c-aa1a-2599e03f36f8'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.538+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.908+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The spike comes even as the nations spent an average of 1.5% of GDP
         on defence in 2024, a figure that has kept relatively constant over the last
         decade, it said.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b74fc337-9aa6-4833-b529-b8b0229c04c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.538+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.909+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hegseth suggested during his speech that allies in Europe focus on
+    section14:
+      primarytype: 'block'
+      uuid: 'b74fc337-9aa6-4833-b529-b8b0229c04c1'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.538+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.909+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hegseth suggested during his speech that allies in Europe focus on
         security on the European continent, so that Washington could focus on the
         threat posed by China in the Indo-Pacific, alongside more participation by
         allies in Asia.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f4d2205-1241-41e9-9b2c-fb56682a21fc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.538+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.910+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We’re pushing our allies in Europe to own more of their security —
+    section15:
+      primarytype: 'block'
+      uuid: '0f4d2205-1241-41e9-9b2c-fb56682a21fc'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.538+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.910+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We’re pushing our allies in Europe to own more of their security —
         to invest in their own defence... Thanks to President Trump, they are stepping
         up," Hegseth said.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d36a32e-4398-4517-8f09-1841737f98b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.539+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.911+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But some of the Trump administration’s early moves in the Indo-Pacific
+    section16:
+      primarytype: 'block'
+      uuid: '4d36a32e-4398-4517-8f09-1841737f98b9'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.539+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.911+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But some of the Trump administration’s early moves in the Indo-Pacific
         have raised eyebrows. The U.S. moved air defence systems from Asia to the
         Middle East earlier this year as tensions with Iran spiked - an effort which
         took 73 C-17 flights.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12319622-49be-4433-b10b-7ef029451985'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.539+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.912+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hegseth, a former Fox TV host who has spent much of his first months
+    section17:
+      primarytype: 'block'
+      uuid: '12319622-49be-4433-b10b-7ef029451985'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.539+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.912+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Hegseth, a former Fox TV host who has spent much of his first months
         in office focused on domestic issues, spoke to the international audience
         about issues that he has frequently talked about when in the United States,
         like "restoring the warrior ethos."'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a558fa1b-ad52-4187-a937-13ec4c8f098e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.540+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.912+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We are not here to pressure other countries to embrace or adopt our
+    section18:
+      primarytype: 'block'
+      uuid: 'a558fa1b-ad52-4187-a937-13ec4c8f098e'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.540+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.912+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We are not here to pressure other countries to embrace or adopt our
         politics or ideology. We are not here to preach to you about climate change
         or cultural issues," Hegseth said. "We respect you, your traditions and your
         militaries. And we want to work with you where our shared interests align."'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2c93af7d-c82b-4322-8deb-e752870a144b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:12:14.540+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:12:14.913+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:12:14.578+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Idrees Ali; Editing by Raju Gopalakrishnan)</em></p>'
-  'Trump-says-he-plans-to-double-steel--aluminum-tariffs-to-50-':
-    'author': 'Jeff Mason, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T09:12:20.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '20f0098d-53f8-4e2e-a11b-34ec49e756e4'
-    'lead': 'US President Donald Trump on Friday said he planned to increase tariffs
+    section19:
+      primarytype: 'block'
+      uuid: '2c93af7d-c82b-4322-8deb-e752870a144b'
+      activationstatus: true
+      created: 2025-05-31T09:12:14.540+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:12:14.913+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:12:14.578+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Idrees Ali; Editing by Raju Gopalakrishnan)</em></p>'
+  'START HERE----->Trump-says-he-plans-to-double-steel--aluminum-tariffs-to-50-':
+    author: 'Jeff Mason, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T09:12:20.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: '20f0098d-53f8-4e2e-a11b-34ec49e756e4'
+    lead: 'US President Donald Trump on Friday said he planned to increase tariffs
       on foreign imports of steel and aluminum to 50% from 25%, ratcheting up pressure
       on global steel producers and deepening his trade war.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T09:13:41.692+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T09:13:41.985+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump says he plans to double steel, aluminum tariffs to 50%'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a56e781-95bd-4afd-abc2-54260b29c6a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.703+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.986+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> US President Donald Trump on Friday
+    activationstatus: true
+    created: 2025-05-31T09:13:41.692+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T09:13:41.985+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T09:13:41.734+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump says he plans to double steel, aluminum tariffs to 50%'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5a56e781-95bd-4afd-abc2-54260b29c6a5'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.703+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.986+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> US President Donald Trump on Friday
         said he planned to increase tariffs on foreign imports of steel and aluminum
         to 50% from 25%, ratcheting up pressure on global steel producers and deepening
         his trade war.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4dd75c13-33fe-41a4-bd64-3da3cb42be1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.704+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.987+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We are going to be imposing a 25% increase. We''re going to bring
+    section1:
+      primarytype: 'block'
+      uuid: '4dd75c13-33fe-41a4-bd64-3da3cb42be1c'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.704+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.987+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We are going to be imposing a 25% increase. We're going to bring
         it from 25% to 50% -- the tariffs on steel into the United States of America,
         which will even further secure the steel industry in the United States," he
         said at a rally in Pennsylvania.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ca499f5-4a23-4456-8ba9-c6080c1b29fa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.704+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.988+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump announced the tariff increase on steel products at a speech given
+    section2:
+      primarytype: 'block'
+      uuid: '0ca499f5-4a23-4456-8ba9-c6080c1b29fa'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.704+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.988+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump announced the tariff increase on steel products at a speech given
         just outside of Pittsburgh, Pennsylvania, where he was talking up an agreement
         between Nippon Steel 5401.T and U.S. Steel X.N. Trump said the $14.9 billion
         deal, like the tariff increase, will help keep jobs for steel workers in the
         U.S.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d1ada24-2831-4685-87aa-a341566f2f09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.704+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.989+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Later, he added the increased tariff would also apply to aluminum products
+    section3:
+      primarytype: 'block'
+      uuid: '7d1ada24-2831-4685-87aa-a341566f2f09'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.704+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.989+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Later, he added the increased tariff would also apply to aluminum products
         and that it would take effect on June 4. "Our steel and aluminum industries
         are coming back like never before," Trump said in a post on Truth Social.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72500445-2b94-4875-8a7d-0b58e097b918'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.705+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.990+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Shares of steelmaker Cleveland-Cliffs Inc CLF.N surged 26% after the
+    section4:
+      primarytype: 'block'
+      uuid: '72500445-2b94-4875-8a7d-0b58e097b918'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.705+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.990+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Shares of steelmaker Cleveland-Cliffs Inc CLF.N surged 26% after the
         market close as investors bet the new levies will help its profits.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5b24284-37a1-4991-a5eb-19ef95a01686'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.705+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.990+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The doubling of steel and aluminum levies intensifies Trump’s global
+    section5:
+      primarytype: 'block'
+      uuid: 'c5b24284-37a1-4991-a5eb-19ef95a01686'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.705+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.990+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The doubling of steel and aluminum levies intensifies Trump’s global
         trade war and came just hours after he accused China of violating an agreement
         with the U.S. to mutually roll back tariffs and trade restrictions for critical
         minerals.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd63fab60-9033-4c9d-b06a-30c4b2e70c3a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.705+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.991+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump spoke at U.S. Steel’s Mon Valley Works, a steel plant that symbolizes
+    section6:
+      primarytype: 'block'
+      uuid: 'd63fab60-9033-4c9d-b06a-30c4b2e70c3a'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.705+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.991+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump spoke at U.S. Steel’s Mon Valley Works, a steel plant that symbolizes
         both the one-time strength and the decline of U.S. manufacturing power as
         the Rust Belt’s steel plants and factories lost business to international
         rivals. Closely contested Pennsylvania is also a major prize in presidential
         elections.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '95d61434-a2ec-4d55-a18c-115b20296a1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.706+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.992+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The steel and aluminum tariffs were among the earliest put into effect
+    section7:
+      primarytype: 'block'
+      uuid: '95d61434-a2ec-4d55-a18c-115b20296a1d'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.706+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.992+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The steel and aluminum tariffs were among the earliest put into effect
         by Trump when he returned to office in January. The tariffs of 25% on most
         steel and aluminum imported to the U.S. went into effect in March, and he
         had briefly threatened a 50% levy on Canadian steel but ultimately backed
         off.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a231427-baf0-4d9a-9625-937d587ed784'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.706+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.993+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under the so-called Section 232 national security authority, the import
+    section8:
+      primarytype: 'block'
+      uuid: '5a231427-baf0-4d9a-9625-937d587ed784'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.706+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.993+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Under the so-called Section 232 national security authority, the import
         taxes include both raw metals and derivative products as diverse as stainless
         steel sinks, gas ranges, air conditioner evaporator coils, horseshoes, aluminum
         frying pans and steel door hinges.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9af780be-dbd6-4bd1-be8f-9f05151494de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.706+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.994+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The total 2024 import value for the 289 product categories came to
+    section9:
+      primarytype: 'block'
+      uuid: '9af780be-dbd6-4bd1-be8f-9f05151494de'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.706+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.994+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The total 2024 import value for the 289 product categories came to
         $147.3 billion with nearly two-thirds aluminum and one-third steel, according
         to Census Bureau data retrieved through the U.S. International Trade Commission’s
         Data Web system.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c73f077c-ef46-4a27-8adc-daadcbd860eb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.707+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.995+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'By contrast, Trump’s first two rounds of punitive tariffs on Chinese
+    section10:
+      primarytype: 'block'
+      uuid: 'c73f077c-ef46-4a27-8adc-daadcbd860eb'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.707+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.995+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'By contrast, Trump’s first two rounds of punitive tariffs on Chinese
         industrial goods in 2018 during his first term totaled $50 billion in annual
         import value.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a43d7d30-45ff-4bcf-8781-238360cff16d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.707+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.996+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. is the world’s largest steel importer, excluding the European
+    section11:
+      primarytype: 'block'
+      uuid: 'a43d7d30-45ff-4bcf-8781-238360cff16d'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.707+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.996+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The U.S. is the world’s largest steel importer, excluding the European
         Union, with a total of 26.2 million tons of imported steel in 2024, according
         to the Department of Commerce. As a result, the new tariffs will likely increase
         steel prices across the board, hitting industry and consumers alike.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7469b9b9-4975-4bb3-ad88-735e47ff37f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:13:41.708+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:13:41.996+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:13:41.734+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jeff Mason; Writing by Chris Sanders; Editing
+    section12:
+      primarytype: 'block'
+      uuid: '7469b9b9-4975-4bb3-ad88-735e47ff37f1'
+      activationstatus: true
+      created: 2025-05-31T09:13:41.708+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:13:41.996+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:13:41.734+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jeff Mason; Writing by Chris Sanders; Editing
         by Chris Reese and Sandra Maler)</em></p>'
-  'Britain-to-spend-an-extra--2-billion-on-armed-forces--housing':
-    'author': 'Paul Sandle, Reuters'
-    'caption': 'Britain’s Chief of the Defence Staff Tony Radakin speaks to Britain’s
+  'START HERE----->Britain-to-spend-an-extra--2-billion-on-armed-forces--housing':
+    author: 'Paul Sandle, Reuters'
+    caption: 'Britain’s Chief of the Defence Staff Tony Radakin speaks to Britain’s
       Defence Secretary John Healey at the London Defence Conference in central London
       on May 8, 2025. (Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T09:14:44.000+08:00
-    'credit': 'Britain’s Chief of the Defence Staff Tony Radakin speaks to Britain’s
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T09:14:44.000+08:00
+    credit: 'Britain’s Chief of the Defence Staff Tony Radakin speaks to Britain’s
       Defence Secretary John Healey at the London Defence Conference in central London
       on May 8, 2025. (Reuters)'
-    'imagesource': 'jcr:45df410b-83a8-49c6-936d-1c622c8c9b00'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1c0d68c4-daa4-4f20-ae26-7085507b9f49'
-    'lead': 'Britain said on Saturday it would spend an extra 1.5 billion pounds ($2
+    imagesource: '45df410b-83a8-49c6-936d-1c622c8c9b00'
+    primarytype: 'composition'
+    uuid: '1c0d68c4-daa4-4f20-ae26-7085507b9f49'
+    lead: 'Britain said on Saturday it would spend an extra 1.5 billion pounds ($2
       billion) to tackle the poor state of housing for the country’s armed forces,
       helping to support recruitment, retention and morale.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T09:19:18.663+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T09:19:18.926+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Britain to spend an extra $2 billion on armed forces'' housing'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be60b441-7f82-4b67-9fd9-ad948104d17b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.675+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.927+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Britain said on Saturday it would spend
+    activationstatus: true
+    created: 2025-05-31T09:19:18.663+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T09:19:18.926+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T09:19:18.701+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Britain to spend an extra $2 billion on armed forces' housing'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'be60b441-7f82-4b67-9fd9-ad948104d17b'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.675+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.927+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Britain said on Saturday it would spend
         an extra 1.5 billion pounds ($2 billion) to tackle the poor state of housing
         for the country’s armed forces, helping to support recruitment, retention
         and morale.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca605c77-86c5-485c-9e33-144c92ca2bdf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.675+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.928+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The spending will be included in the Strategic Defence Review (SDR),
+    section1:
+      primarytype: 'block'
+      uuid: 'ca605c77-86c5-485c-9e33-144c92ca2bdf'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.675+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.928+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The spending will be included in the Strategic Defence Review (SDR),
         a 10-year plan to transform Britain’s defences, the government said on Saturday.
         The SDR is expected to be published on Monday.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89f21419-90a5-4a5a-ba48-911ad2733b3e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.676+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.929+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The money will fund urgent repairs and maintenance, from fixing boilers
+    section2:
+      primarytype: 'block'
+      uuid: '89f21419-90a5-4a5a-ba48-911ad2733b3e'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.676+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.929+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The money will fund urgent repairs and maintenance, from fixing boilers
         to tackling damp and mould in service family accommodation, alongside developing
         new housing, the government said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98880753-8a9a-42a8-a762-d6ff54555166'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.676+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.931+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A report by parliament’s Defence Committee last December concluded
+    section3:
+      primarytype: 'block'
+      uuid: '98880753-8a9a-42a8-a762-d6ff54555166'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.676+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.931+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A report by parliament’s Defence Committee last December concluded
         that the accommodation was "shocking" and could result in service personnel
         quitting the forces.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e797573-8c7c-4f05-b357-81130fa007af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.676+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.931+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"For too long, many military families have lived in sub-standard homes,
+    section4:
+      primarytype: 'block'
+      uuid: '1e797573-8c7c-4f05-b357-81130fa007af'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.676+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.931+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"For too long, many military families have lived in sub-standard homes,
         but this government is taking decisive action to fix the dire state of military
         accommodation and ensure that our heroes and their loved ones live in the
         homes they deserve," Defence Secretary John Healey said in a statement.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81c6a250-5dae-4d26-b685-df45df75de18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.677+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.932+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The extra funds mean more than 7 billion pounds will be spent on service
+    section5:
+      primarytype: 'block'
+      uuid: '81c6a250-5dae-4d26-b685-df45df75de18'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.677+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.932+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The extra funds mean more than 7 billion pounds will be spent on service
         family accommodation and new-build single accommodation during the period
         to 2029, the government said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e3b45429-b34a-4628-8d34-9a135fc35827'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.677+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.933+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '($1 = 0.7422 pounds)'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c30942d3-4e5c-4873-856d-49112a0fa81e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:19:18.678+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:19:18.934+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:19:18.701+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Paul Sandle; editing by Michael Holden)</em></p>'
-  'Recent-mpox-cases-still-of-mild-variant---DOH':
-    'author': 'Jelo Ritzhie Mantaring, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T09:21:29.000+08:00
-    'imagesource': 'jcr:83243e84-0deb-4c06-8e5a-6803397e2821'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5263bc5b-7db1-46ef-9501-c9cd0029c0b6'
-    'lead': 'All recently detected cases of mpox in the country were caused by the
+    section6:
+      primarytype: 'block'
+      uuid: 'e3b45429-b34a-4628-8d34-9a135fc35827'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.677+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.933+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '($1 = 0.7422 pounds)'
+    section7:
+      primarytype: 'block'
+      uuid: 'c30942d3-4e5c-4873-856d-49112a0fa81e'
+      activationstatus: true
+      created: 2025-05-31T09:19:18.678+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:19:18.934+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:19:18.701+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Paul Sandle; editing by Michael Holden)</em></p>'
+  'START HERE----->Recent-mpox-cases-still-of-mild-variant---DOH':
+    author: 'Jelo Ritzhie Mantaring, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T09:21:29.000+08:00
+    imagesource: '83243e84-0deb-4c06-8e5a-6803397e2821'
+    primarytype: 'composition'
+    uuid: '5263bc5b-7db1-46ef-9501-c9cd0029c0b6'
+    lead: 'All recently detected cases of mpox in the country were caused by the
       milder variant of the viral disease, the Department of Health (DOH) said Friday,
       May 30.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T09:23:02.536+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T09:23:02.882+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Recent mpox cases still of mild variant — DOH'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3403ba49-96bf-4158-9b12-64bb8d88c831'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.556+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.883+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> All recently detected
+    activationstatus: true
+    created: 2025-05-31T09:23:02.536+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T09:23:02.882+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T09:23:02.599+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Recent mpox cases still of mild variant — DOH'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '3403ba49-96bf-4158-9b12-64bb8d88c831'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.556+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.883+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> All recently detected
         cases of mpox in the country were caused by the milder variant of the viral
         disease, the Department of Health (DOH) said Friday, May 30.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'beb66c04-f6cb-470b-9f16-640d59ff3b42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.556+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.884+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"There are LGUs (local government units) reporting mpox, but I have
+    section1:
+      primarytype: 'block'
+      uuid: 'beb66c04-f6cb-470b-9f16-640d59ff3b42'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.556+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.884+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"There are LGUs (local government units) reporting mpox, but I have
         to declare, all of them are mpox clade II,” Health Secretary Ted Herbosa told
         reporters.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6310423a-1368-4388-8fab-b428ddeb0cdf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.557+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.885+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The country’s confirmed cases in 2023 and 2024  were also caused by
+    section2:
+      primarytype: 'block'
+      uuid: '6310423a-1368-4388-8fab-b428ddeb0cdf'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.557+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.885+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The country’s confirmed cases in 2023 and 2024  were also caused by
         mpox clade II, which Herbosa described as “very mild and self-limiting.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a385d47-3688-4d13-afc3-c9c4bd5a9783'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.557+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.886+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The World Health Organization declared a “public health emergency of
+    section3:
+      primarytype: 'block'
+      uuid: '7a385d47-3688-4d13-afc3-c9c4bd5a9783'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.557+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.886+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The World Health Organization declared a “public health emergency of
         international concern” last year on the more transmissible clade Ib, which
         was behind the surge in infections in Africa.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'edb97df9-1753-466b-9e14-678f102868af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.557+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.887+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Herbosa said there will be no additional measures to be placed on a
+    section4:
+      primarytype: 'block'
+      uuid: 'edb97df9-1753-466b-9e14-678f102868af'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.557+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.887+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Herbosa said there will be no additional measures to be placed on a
         nationwide scale for mpox, formerly called monkeypox. Mpox is usually mild
         but can be fatal under a worst-case scenario.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1eb1920e-8a84-4c77-ae16-3bb23d314740'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.558+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.888+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We have an mpox task force. We are having surveillance,” he said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9b3205f7-442c-4f15-8255-495e893695de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.558+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.889+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Binabantayan namin to make sure walang clade Ib na mapasok
+    section5:
+      primarytype: 'block'
+      uuid: '1eb1920e-8a84-4c77-ae16-3bb23d314740'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.558+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.888+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We have an mpox task force. We are having surveillance,” he said.'
+    section6:
+      primarytype: 'block'
+      uuid: '9b3205f7-442c-4f15-8255-495e893695de'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.558+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.889+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Binabantayan namin to make sure walang clade Ib na mapasok
         dito</em>,” he added.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f1f89a5-d9e0-40f0-a74f-7700782cb888'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.559+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.890+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: We are monitoring the situation to make sure clade Ib
+    section7:
+      primarytype: 'block'
+      uuid: '9f1f89a5-d9e0-40f0-a74f-7700782cb888'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.559+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.890+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: We are monitoring the situation to make sure clade Ib
         will not enter the country.]'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b1750f4-f2ee-4b6b-82fe-7b98bd2eb16e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.559+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.890+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Recently, areas in southern Philippines have been reporting cases of
+    section8:
+      primarytype: 'block'
+      uuid: '6b1750f4-f2ee-4b6b-82fe-7b98bd2eb16e'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.559+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.890+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Recently, areas in southern Philippines have been reporting cases of
         mpox, an infectious disease that causes flu-like symptoms and pus-filled lesions.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bfdc86fb-b309-4137-b350-ee2a97407970'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.560+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.891+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Davao del Sur and Compostela town in Davao de Oro have ordered residents
+    section9:
+      primarytype: 'block'
+      uuid: 'bfdc86fb-b309-4137-b350-ee2a97407970'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.560+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.891+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Davao del Sur and Compostela town in Davao de Oro have ordered residents
         and individuals living within their jurisdiction to wear face masks and observe
         physical distancing. https://www.newswatchplus.ph/news/2025/5/29/davao-mask-mandate-mpox.html '
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dfe125b4-02c7-46e9-9a73-964d5e44411a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.560+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.892+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, Davao City debunked social media posts claiming the city
+    section10:
+      primarytype: 'block'
+      uuid: 'dfe125b4-02c7-46e9-9a73-964d5e44411a'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.560+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.892+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On Friday, Davao City debunked social media posts claiming the city
         is under a modified enhanced community quarantine or any lockdown measure
         similar to what happened during the COVID-19 pandemic. It came following confirmed
         mpox cases in the LGU rose to six.'
-    '11':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavaocitygov%2Fposts%2Fpfbid02PZoFSmcG2QKa89zRagsB9BgZab2n5AF8hQZpX2vP7qLexAJrAxWwKFFJy5QbahU6l&show_text=false&width=500"
+    section11:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavaocitygov%2Fposts%2Fpfbid02PZoFSmcG2QKa89zRagsB9BgZab2n5AF8hQZpX2vP7qLexAJrAxWwKFFJy5QbahU6l&show_text=false&width=500"
         width="500" height="498" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36065c76-37c3-463e-9e2e-a9cfb30a3dc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.561+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.893+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1367431-ca9f-4443-8589-e626ef26ee3c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.561+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.894+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The monkeypox virus usually spreads through close, intimate skin-to-skin
+      primarytype: 'block'
+      uuid: '36065c76-37c3-463e-9e2e-a9cfb30a3dc3'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.561+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.893+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section12:
+      primarytype: 'block'
+      uuid: 'e1367431-ca9f-4443-8589-e626ef26ee3c'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.561+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.894+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The monkeypox virus usually spreads through close, intimate skin-to-skin
         contact, including sexual contact. It is not airborne.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '916b8c07-b329-4ea0-a28a-7ac727a00319'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.562+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.895+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“So very important mag-isolate at pagka-gumaling, hopefully, walang
+    section13:
+      primarytype: 'block'
+      uuid: '916b8c07-b329-4ea0-a28a-7ac727a00319'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.562+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.895+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“So very important mag-isolate at pagka-gumaling, hopefully, walang
         problema,” Herbosa said.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f750929a-1f59-4b03-851a-277bc51a365f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.562+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.895+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: It’s very important to isolate and once recovered, hopefully,
+    section14:
+      primarytype: 'block'
+      uuid: 'f750929a-1f59-4b03-851a-277bc51a365f'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.562+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.895+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: It’s very important to isolate and once recovered, hopefully,
         there will be no problems.]'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '99b4a0d6-1070-41da-bb1f-3c0e980d5b5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T09:23:02.563+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T09:23:02.896+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T09:23:02.599+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In 2024, the Philippines recorded 52 mpox infections, including
+    section15:
+      primarytype: 'block'
+      uuid: '99b4a0d6-1070-41da-bb1f-3c0e980d5b5d'
+      activationstatus: true
+      created: 2025-05-31T09:23:02.563+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T09:23:02.896+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T09:23:02.599+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>In 2024, the Philippines recorded 52 mpox infections, including
         one death. The DOH said the fatality may have died due to complications.</p>'
-  'US-commends-PH-for-standing-up-to-China-in-West-PH-Sea':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T11:12:59.000+08:00
-    'imagesource': 'jcr:28ab996e-853b-47cb-8dec-9a586f79204f'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '121d9b26-6462-4fd9-85e3-6e3eb5274928'
-    'lead': 'US Secretary of Defense Pete Hegseth on Friday, May 30, lauded the Philippines
+  'START HERE----->US-commends-PH-for-standing-up-to-China-in-West-PH-Sea':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T11:12:59.000+08:00
+    imagesource: '28ab996e-853b-47cb-8dec-9a586f79204f'
+    primarytype: 'composition'
+    uuid: '121d9b26-6462-4fd9-85e3-6e3eb5274928'
+    lead: 'US Secretary of Defense Pete Hegseth on Friday, May 30, lauded the Philippines
       for standing up against China’s “aggressive actions” in the West Philippine
       Sea.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T11:14:38.733+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T11:14:38.978+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US commends PH for standing up to China in West PH Sea'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9bf15e8-a9f6-452a-ac4c-0ce5cde86b18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.746+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.978+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> US Secretary of Defense
+    activationstatus: true
+    created: 2025-05-31T11:14:38.733+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T11:14:38.978+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T11:14:38.767+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US commends PH for standing up to China in West PH Sea'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd9bf15e8-a9f6-452a-ac4c-0ce5cde86b18'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.746+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.978+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> US Secretary of Defense
         Pete Hegseth on Friday, May 30, lauded the Philippines for standing up against
         China’s “aggressive actions” in the West Philippine Sea.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f1d79b5-f0cd-4331-b67d-2baf541ab7a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.746+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.980+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This comes as Washington and Manila reaffirmed its strengthened military
+    section1:
+      primarytype: 'block'
+      uuid: '9f1d79b5-f0cd-4331-b67d-2baf541ab7a6'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.746+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.980+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This comes as Washington and Manila reaffirmed its strengthened military
         ties in a recent high-level discussion between Defense Secretary Gilberto
         Teodoro and his US counterpart.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a025a58-5f11-47c9-9bab-704ce934721e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.746+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.981+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Secretary Hegseth commended the Philippines for standing up against
+    section2:
+      primarytype: 'block'
+      uuid: '8a025a58-5f11-47c9-9bab-704ce934721e'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.746+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.981+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Secretary Hegseth commended the Philippines for standing up against
         China’s aggressive actions targeting lawful Philippine activities in the
         South China Sea,” a statement from the US Department of Defense stated.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'eb4e1b73-95b9-4f76-ab90-61750641b0ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.747+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.982+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both defense chiefs also celebrated the completion of the largest BALIKATAN
+    section3:
+      primarytype: 'block'
+      uuid: 'eb4e1b73-95b9-4f76-ab90-61750641b0ca'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.747+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.982+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Both defense chiefs also celebrated the completion of the largest BALIKATAN
         exercises to date which included joint combat drills in “full battle test.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74c3a25d-5cbe-43f2-a1fb-14277f5bd680'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.747+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.983+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The drills reflected an expanded multilateral participation with Australia
+    section4:
+      primarytype: 'block'
+      uuid: '74c3a25d-5cbe-43f2-a1fb-14277f5bd680'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.747+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.983+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The drills reflected an expanded multilateral participation with Australia
         and Japan sending active combat troops, while 19 other nations — including
         Canada, Germany, the UK, the Czech Republic, South Korea, and Colombia — participated
         as official observers.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12afc25d-6f92-4610-afa7-f603309c762b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.747+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.984+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manila and Washinton also discussed steps to reestablish deterrence
+    section5:
+      primarytype: 'block'
+      uuid: '12afc25d-6f92-4610-afa7-f603309c762b'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.747+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.984+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Manila and Washinton also discussed steps to reestablish deterrence
         in the Indo-Pacific, building on the initial top-level meet in March.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed540302-87ed-493c-9b1a-0d8b301d5e9a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:14:38.748+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:14:38.984+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:14:38.767+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The secretaries noted the importance of partnership and transparency
+    section6:
+      primarytype: 'block'
+      uuid: 'ed540302-87ed-493c-9b1a-0d8b301d5e9a'
+      activationstatus: true
+      created: 2025-05-31T11:14:38.748+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:14:38.984+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:14:38.767+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The secretaries noted the importance of partnership and transparency
         in deterring China and committed to continued progress on strengthening their
         defense cooperation.</p>'
-  'Duterte-thankful-for-opportunity-to-clear-her-name-at-impeachment-trial':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T11:21:54.000+08:00
-    'imagesource': 'jcr:0e586e27-2ea2-4f1a-b2df-49c58b37b0fe'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'be158604-1591-4f42-be23-a646ca9493b8'
-    'lead': 'Vice President Sara Duterte on Friday, May 30, said she is among the
+  'START HERE----->Duterte-thankful-for-opportunity-to-clear-her-name-at-impeachment-trial':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T11:21:54.000+08:00
+    imagesource: '0e586e27-2ea2-4f1a-b2df-49c58b37b0fe'
+    primarytype: 'composition'
+    uuid: 'be158604-1591-4f42-be23-a646ca9493b8'
+    lead: 'Vice President Sara Duterte on Friday, May 30, said she is among the
       majority of Filipinos who want the impeachment trial against her to push through
       as she sees the proceedings as an opportunity to clear her name.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T11:34:04.885+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T11:35:10.726+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T11:35:10.492+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': ['Sara-Duterte', 'impeachment', 'VP-Duterte', 'Vice-President']
-    'stories': []
-    'template': '1'
-    'title': 'Duterte thankful for opportunity to clear her name at impeachment trial'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bbf3630-39d7-4bf0-8287-55e6628ae6b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.907+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.489+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Vice President Sara
+    activationstatus: true
+    created: 2025-05-31T11:34:04.885+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T11:35:10.726+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T11:35:10.492+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Duterte thankful for opportunity to clear her name at impeachment trial'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5bbf3630-39d7-4bf0-8287-55e6628ae6b0'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.907+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.489+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Vice President Sara
         Duterte on Friday, May 30, said she is among the majority of Filipinos who
         want the impeachment trial against her to push through as she sees the proceedings
         as an opportunity to clear her name.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9713a15f-dad4-43a2-926c-0724194cce55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.907+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.489+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'When asked to comment on a survey that showed 88 percent of Filipinos
+    section1:
+      primarytype: 'block'
+      uuid: '9713a15f-dad4-43a2-926c-0724194cce55'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.907+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.489+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'When asked to comment on a survey that showed 88 percent of Filipinos
         want her to face impeachment charges, Duterte replied: “I totally agree.”'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76fe0a5b-6d9f-4562-a909-e1c04ae13bde'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.908+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.490+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Kasama ako doon sa 88 percent na iyan na nagsasabi at ako ay
+    section2:
+      primarytype: 'block'
+      uuid: '76fe0a5b-6d9f-4562-a909-e1c04ae13bde'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.908+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.490+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Kasama ako doon sa 88 percent na iyan na nagsasabi at ako ay
         parang thankful sa opportunity na malinis iyong pangalan ko at masagot iyong
         mga akusasyon sa akin</em>,” she added.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74cb45a4-d3dc-4f6d-81a9-ca512309afa6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.908+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.490+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translate: I am among the 88 percent who said so and I am thankful
+    section3:
+      primarytype: 'block'
+      uuid: '74cb45a4-d3dc-4f6d-81a9-ca512309afa6'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.908+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.490+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translate: I am among the 88 percent who said so and I am thankful
         for the opportunity to clear my name and answer accusations against me.]'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe755e59-5fc8-477e-a3c9-f565f1f93bda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.908+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>However, Duterte has a pending <a href="https://www.newswatchplus.ph/news/2025/2/19/duterte-asks-sc-block-impeachment-process.html"><strong>petition</strong></a>
+    section4:
+      primarytype: 'block'
+      uuid: 'fe755e59-5fc8-477e-a3c9-f565f1f93bda'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.908+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>However, Duterte has a pending <a href="https://www.newswatchplus.ph/news/2025/2/19/duterte-asks-sc-block-impeachment-process.html"><strong>petition</strong></a>
         where she urged the Supreme Court to block the basis of her looming impeachment
         trial on constitutional grounds.&nbsp;</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a076f016-78ce-446b-90fd-266579e12207'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.909+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The vice president is facing charges related to her alleged misuse
+    section5:
+      primarytype: 'block'
+      uuid: 'a076f016-78ce-446b-90fd-266579e12207'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.909+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The vice president is facing charges related to her alleged misuse
         of confidential funds and public threats against the President and his family.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8145910-959b-4c76-ac74-e74867abed90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T11:34:04.909+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T11:35:10.729+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T11:35:10.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The proceedings were moved to June 11 after Senate President Francis
+    section6:
+      primarytype: 'block'
+      uuid: 'd8145910-959b-4c76-ac74-e74867abed90'
+      activationstatus: true
+      created: 2025-05-31T11:34:04.909+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T11:35:10.729+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T11:35:10.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The proceedings were moved to June 11 after Senate President Francis
         “Chiz” Escudero <a href="https://www.newswatchplus.ph/news/2025/5/29/opening-of-impeachment-court-postponed.html"><strong>postponed</strong></a>
         the highly anticipated convening of the Senate as an impeachment court for
         the trial.&nbsp;</p>'
-  'No-special-treatment-for-Teves-in-Bilibid---lawyer':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T13:57:05.000+08:00
-    'imagesource': 'jcr:f4b875be-6062-480f-99d2-04d45464ff63'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9a8c7e62-f46f-4386-a01a-7973ff594838'
-    'lead': 'The camp of expelled Rep. Arnie Teves Jr. on Saturday, May 31, said the
+  'START HERE----->No-special-treatment-for-Teves-in-Bilibid---lawyer':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T13:57:05.000+08:00
+    imagesource: 'f4b875be-6062-480f-99d2-04d45464ff63'
+    primarytype: 'composition'
+    uuid: '9a8c7e62-f46f-4386-a01a-7973ff594838'
+    lead: 'The camp of expelled Rep. Arnie Teves Jr. on Saturday, May 31, said the
       former lawmaker is not receiving any special treatment at the New Bilibid Prison
       in Muntinlupa City.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T13:57:56.669+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T13:57:56.934+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'No special treatment for Teves in Bilibid — lawyer'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0fd07e46-e66a-4b88-94eb-dfd45a36c8d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.688+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.935+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The camp of expelled
+    activationstatus: true
+    created: 2025-05-31T13:57:56.669+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T13:57:56.934+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T13:57:56.714+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'No special treatment for Teves in Bilibid — lawyer'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '0fd07e46-e66a-4b88-94eb-dfd45a36c8d2'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.688+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.935+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The camp of expelled
         Rep. Arnie Teves Jr. on Saturday, May 31, said the former lawmaker is not
         receiving any special treatment at the New Bilibid Prison in Muntinlupa City.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8fd66aed-4d8d-4d80-958c-7fd865257437'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.688+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.937+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'According to lawyer Ferdinand Topacio, Teves will be detained in a
+    section1:
+      primarytype: 'block'
+      uuid: '8fd66aed-4d8d-4d80-958c-7fd865257437'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.688+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.937+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'According to lawyer Ferdinand Topacio, Teves will be detained in a
         ten-square meter cell with a bunk bed and another inmate.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '509f180a-d108-4e67-8539-128653cc07c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.689+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.938+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We have agreed to abide by ALL rules for detention prisoners, including
+    section2:
+      primarytype: 'block'
+      uuid: '509f180a-d108-4e67-8539-128653cc07c7'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.689+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.938+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We have agreed to abide by ALL rules for detention prisoners, including
         sharing of cells,” Topacio said in a message to reporters.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1eb922db-d6fc-40d5-a496-ab45e7fc86d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.689+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.939+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Topacio added that Teves will be sharing with his bunkmate a common
+    section3:
+      primarytype: 'block'
+      uuid: '1eb922db-d6fc-40d5-a496-ab45e7fc86d2'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.689+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.939+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Topacio added that Teves will be sharing with his bunkmate a common
         toilet bowl and a small electric fan, “the same as any other cell.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b995d264-33ed-4bd8-83fa-217b508636b7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.690+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“There is no special treatment for Mr. Teves. Just sharing the info,”
+    section4:
+      primarytype: 'block'
+      uuid: 'b995d264-33ed-4bd8-83fa-217b508636b7'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.690+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“There is no special treatment for Mr. Teves. Just sharing the info,”
         he added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2256430-5b97-4d50-a4b8-674b38a3d3d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.690+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.941+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'After his deportation from Timor-Leste, Teves appeared in a press conference
+    section5:
+      primarytype: 'block'
+      uuid: 'b2256430-5b97-4d50-a4b8-674b38a3d3d4'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.690+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.941+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'After his deportation from Timor-Leste, Teves appeared in a press conference
         at the National Bureau of Investigation (NBI) and insisted that his “conscience
         is clear” amid multiple murder charges.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bd1f9026-90aa-4658-b643-335f479816da'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.690+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.942+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In the briefing, NBI Director Jaime Santiago said Teves would have
+    section6:
+      primarytype: 'block'
+      uuid: 'bd1f9026-90aa-4658-b643-335f479816da'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.690+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.942+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In the briefing, NBI Director Jaime Santiago said Teves would have
         a solo room to "acclimate him” to being a detainee.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5e11786a-7b58-489d-b4a8-44cc8808c73b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:57:56.691+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T13:57:56.943+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T13:57:56.714+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Teves has been tagged as the alleged mastermind in the killing of
+    section7:
+      primarytype: 'block'
+      uuid: '5e11786a-7b58-489d-b4a8-44cc8808c73b'
+      activationstatus: true
+      created: 2025-05-31T13:57:56.691+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T13:57:56.943+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T13:57:56.714+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Teves has been tagged as the alleged mastermind in the killing of
         Negros Oriental Gov. Roel Degamo and his followers. Teves is facing 13 counts
         each of murder and frustrated murder and four counts of attempted murder for
         crimes committed between 2019 to 2023.</p>'
-  'theresa-lazaro-dfa-chief-china-foreign-policy':
-    'author': 'Tristan Nodalo, NewsWatch Plus'
-    'caption': 'Incoming Foreign Affairs Secretary Theresa Lazaro and Chinese Ambassador
+  'START HERE----->theresa-lazaro-dfa-chief-china-foreign-policy':
+    author: 'Tristan Nodalo, NewsWatch Plus'
+    caption: 'Incoming Foreign Affairs Secretary Theresa Lazaro and Chinese Ambassador
       Huang Xilian attend a photo exhibit at Bahay Tsinoy in Manila.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T13:01:43.000+08:00
-    'imagesource': 'jcr:df99b5a4-863c-44d3-bdc8-056c4680936c'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6dacffd1-1822-4f25-a41b-fb4e1e6e9ee1'
-    'lead': 'Incoming Foreign Affairs Secretary Ma. Theresa Lazaro signaled a steady
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T13:01:43.000+08:00
+    imagesource: 'df99b5a4-863c-44d3-bdc8-056c4680936c'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6dacffd1-1822-4f25-a41b-fb4e1e6e9ee1'
+    lead: 'Incoming Foreign Affairs Secretary Ma. Theresa Lazaro signaled a steady
       course for Philippine foreign policy, emphasizing continuity from the leadership
       of outgoing Secretary Enrique Manalo and a calm, bilateral approach in managing
       tensions with China.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T13:04:03.849+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2025-05-31T23:06:52.812+08:00
-    'mgnl:lastActivatedBy': 'faith-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-05-31T23:06:52.374+08:00
-    'mgnl:lastModified': 2025-05-31T23:06:15.935+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': ['Theresa-Lazaro', 'Huang-Xilian']
-    'stories': []
-    'template': '1'
-    'title': 'Lazaro eyes policy continuity, calm amid China challenges as new DFA
+    activationstatus: true
+    created: 2025-05-31T13:04:03.849+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2025-05-31T23:06:52.812+08:00
+    lastactivatedby: 'faith-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-05-31T23:06:52.374+08:00
+    lastmodified: 2025-05-31T23:06:15.935+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Lazaro eyes policy continuity, calm amid China challenges as new DFA
       chief'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15223a35-628e-42ec-a5f2-2cc9a1616960'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.870+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.812+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.884+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Incoming Foreign Affairs
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '15223a35-628e-42ec-a5f2-2cc9a1616960'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.870+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.812+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.884+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Incoming Foreign Affairs
         Secretary Ma. Theresa Lazaro signaled a steady course for Philippine foreign
         policy, emphasizing continuity from the leadership of outgoing Secretary Enrique
         Manalo and a calm, bilateral approach in managing tensions with China.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5292e1b-663f-4f27-b9bb-32eb16af7385'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.871+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.812+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.871+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“There’s no challenge. There are no different things,” Lazaro said
+    section1:
+      primarytype: 'block'
+      uuid: 'f5292e1b-663f-4f27-b9bb-32eb16af7385'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.871+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.812+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.871+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“There’s no challenge. There are no different things,” Lazaro said
         in a media interview on Friday, May 30.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5f6364e-3049-45e7-b80a-bfe49502a7b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.871+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.812+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.871+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': ' “As far as foreign policy, that’s not a problem. It’s just a continuation
+    section2:
+      primarytype: 'block'
+      uuid: 'c5f6364e-3049-45e7-b80a-bfe49502a7b6'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.871+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.812+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.871+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: ' “As far as foreign policy, that’s not a problem. It’s just a continuation
         of what Secretary Manalo has started in the last three years,” she added.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd73c45ce-cb4f-40e7-879c-bbd082b1487b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.872+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.813+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.872+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lazaro was appointed by President Ferdinand Marcos Jr. as part of a
+    section3:
+      primarytype: 'block'
+      uuid: 'd73c45ce-cb4f-40e7-879c-bbd082b1487b'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.872+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.813+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.872+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Lazaro was appointed by President Ferdinand Marcos Jr. as part of a
         Cabinet revamp aimed at realigning the government with public expectations.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8485f362-2cab-4ae3-9714-863f554420f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.872+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.813+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.872+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Executive Secretary Lucas Bersamin confirmed that Marcos accepted Manalo’s
+    section4:
+      primarytype: 'block'
+      uuid: '8485f362-2cab-4ae3-9714-863f554420f8'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.872+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.813+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.872+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Executive Secretary Lucas Bersamin confirmed that Marcos accepted Manalo’s
         courtesy resignation, paving the way for Lazaro to lead the Department of
         Foreign Affairs (DFA).'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8468a57e-dfbe-45a0-87e6-463de0196421'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.873+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.813+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.873+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manalo will serve as the country’s Permanent Representative to the
+    section5:
+      primarytype: 'block'
+      uuid: '8468a57e-dfbe-45a0-87e6-463de0196421'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.873+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.813+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.873+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Manalo will serve as the country’s Permanent Representative to the
         United Nations when Ambassador Antonio Lagdameo retires at the end of July.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de39861d-ae1b-49d9-a1a6-caa38e29919e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.873+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.813+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.873+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'A career diplomat, Lazaro has led the DFA’s Office of ASEAN Affairs
+    section6:
+      primarytype: 'block'
+      uuid: 'de39861d-ae1b-49d9-a1a6-caa38e29919e'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.873+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.813+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.873+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'A career diplomat, Lazaro has led the DFA’s Office of ASEAN Affairs
         and has held multiple overseas posts, including ambassadorial roles in Switzerland,
         France, and UNESCO, as well as key assignments in Australia, the United States,
         and Spain.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c69da9b9-c6d3-4bca-9190-f5e905c59177'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.874+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.813+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.874+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'As DFA undersecretary, she was instrumental in handling bilateral relations,
+    section7:
+      primarytype: 'block'
+      uuid: 'c69da9b9-c6d3-4bca-9190-f5e905c59177'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.874+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.813+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.874+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'As DFA undersecretary, she was instrumental in handling bilateral relations,
         including sensitive discussions with China over maritime disputes in the West
         Philippine Sea.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4085789f-01f2-4299-b4d4-98701ad0ca28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.874+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.814+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.874+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Beijing, Lazaro acknowledged that challenges persist, but stressed
+    section8:
+      primarytype: 'block'
+      uuid: '4085789f-01f2-4299-b4d4-98701ad0ca28'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.874+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.814+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.874+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'On Beijing, Lazaro acknowledged that challenges persist, but stressed
         the importance of people-to-people ties and diplomacy.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f399442c-a2c0-467b-8cea-be0527d9ae41'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.875+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.814+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.875+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“We continue to move on. This is a perfect example of people-to-people
+    section9:
+      primarytype: 'block'
+      uuid: 'f399442c-a2c0-467b-8cea-be0527d9ae41'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.875+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.814+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.875+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“We continue to move on. This is a perfect example of people-to-people
         relationship. We just have to look at the positive areas. The maritime issues?
         that’s something being dealt with bilaterally,” said Lazaro.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca398942-c2de-42a5-861b-ea36010e6800'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.875+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.814+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.875+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Chinese Ambassador Huang Xilian welcomed Lazaro’s appointment, citing
+    section10:
+      primarytype: 'block'
+      uuid: 'ca398942-c2de-42a5-861b-ea36010e6800'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.875+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.814+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.875+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Chinese Ambassador Huang Xilian welcomed Lazaro’s appointment, citing
         her role in maintaining constructive dialogue with Chinese officials.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6039f5eb-a4c5-4a38-98cc-aaeb62649b0b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.876+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.814+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.876+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“She enjoyed a valuable communication with Chinese counterparts. Of
+    section11:
+      primarytype: 'block'
+      uuid: '6039f5eb-a4c5-4a38-98cc-aaeb62649b0b'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.876+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.814+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.876+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“She enjoyed a valuable communication with Chinese counterparts. Of
         course, it’s an honor to enjoy such communication with her,” said Huang.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7ddfe9ae-5437-4553-be07-ea0394aa072b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.876+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.814+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.876+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two recently met during an event at Bahay Tsinoy, where they reflected
+    section12:
+      primarytype: 'block'
+      uuid: '7ddfe9ae-5437-4553-be07-ea0394aa072b'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.876+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.814+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.876+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The two recently met during an event at Bahay Tsinoy, where they reflected
         on the shared cultural history between Filipinos and Chinese communities.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '745f5bae-9dc7-4b28-8fb3-096f9e0109ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.877+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.815+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.877+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manila and Beijing will mark 50 years of diplomatic ties this year.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ec89ad2-9e1a-4e6b-a05f-5d26c272ac75'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.877+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.815+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.877+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Let’s work side by side toward an even brighter future of bilateral
+    section13:
+      primarytype: 'block'
+      uuid: '745f5bae-9dc7-4b28-8fb3-096f9e0109ad'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.877+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.815+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.877+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Manila and Beijing will mark 50 years of diplomatic ties this year.'
+    section14:
+      primarytype: 'block'
+      uuid: '5ec89ad2-9e1a-4e6b-a05f-5d26c272ac75'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.877+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.815+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.877+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Let’s work side by side toward an even brighter future of bilateral
         relations,” Huang added.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e85d098-5d9b-48a4-89fc-60be27f4f584'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T13:04:03.878+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:52.815+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-31T13:04:03.878+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Lazaro is expected to officially assume the post of foreign affairs
+    section15:
+      primarytype: 'block'
+      uuid: '7e85d098-5d9b-48a4-89fc-60be27f4f584'
+      activationstatus: true
+      created: 2025-05-31T13:04:03.878+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-31T23:06:52.815+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-31T13:04:03.878+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>Lazaro is expected to officially assume the post of foreign affairs
         secretary after July 31.</p>'
-  'Tacloban-under-state-of-emergency-due-to-limited-access-to-San-Juanico-Bridge':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T16:34:40.000+08:00
-    'imagesource': 'jcr:4b997cc2-8def-4b9e-b0a7-10e1be17e173'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5b56cc50-2b73-4ee0-af7c-4382808868f3'
-    'lead': 'Tacloban City is under a state of emergency due to limited access to
+  'START HERE----->Tacloban-under-state-of-emergency-due-to-limited-access-to-San-Juanico-Bridge':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T16:34:40.000+08:00
+    imagesource: '4b997cc2-8def-4b9e-b0a7-10e1be17e173'
+    primarytype: 'composition'
+    uuid: '5b56cc50-2b73-4ee0-af7c-4382808868f3'
+    lead: 'Tacloban City is under a state of emergency due to limited access to
       the San Juanico Bridge, Mayor Alfred Romualdez said on Saturday, May 31.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T16:35:33.695+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T16:35:34.010+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Tacloban under state of emergency due to limited access to San Juanico
+    activationstatus: true
+    created: 2025-05-31T16:35:33.695+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T16:35:34.010+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T16:35:33.750+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Tacloban under state of emergency due to limited access to San Juanico
       Bridge'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3274f4f-db13-4a92-bb31-b35c671ceffc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.714+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.011+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Tacloban City is under
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f3274f4f-db13-4a92-bb31-b35c671ceffc'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.714+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.011+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Tacloban City is under
         a state of emergency due to limited access to the San Juanico Bridge, Mayor
         Alfred Romualdez said on Saturday, May 31.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '412ae18e-553f-47f8-b8ed-e6c9e570fba5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.715+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.013+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The City Council earlier released a resolution declaring the state
+    section1:
+      primarytype: 'block'
+      uuid: '412ae18e-553f-47f8-b8ed-e6c9e570fba5'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.715+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.013+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The City Council earlier released a resolution declaring the state
         of emergency as the issuance of a temporary load limit adjustment has disrupted
         the transport of goods and medical supplies between Leyte and Samar.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49c118da-e3d8-46c8-9635-179737e677e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.715+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.014+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The load limit has been limited to three tons to prevent incidents
+    section2:
+      primarytype: 'block'
+      uuid: '49c118da-e3d8-46c8-9635-179737e677e8'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.715+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.014+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The load limit has been limited to three tons to prevent incidents
         as the Department of Public Works and Highways (DPWH) said the 2.16-kilometer
         link is overdue for retrofitting.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f4c6c02-bad6-4950-aad9-baa0cb490c35'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.715+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.015+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“With restricted access to San Juanico, the main gateway in and out
+    section3:
+      primarytype: 'block'
+      uuid: '4f4c6c02-bad6-4950-aad9-baa0cb490c35'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.715+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.015+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“With restricted access to San Juanico, the main gateway in and out
         of Tacloban, the city is facing serious concerns related to economic flow,
         emergency response, and supply chain delays. This declaration allows the local
         government to act faster, allocate emergency funds, and coordinate with national
         agencies for support,” the resolution stated.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c289455-7f61-4d7f-bb62-25d798ae7bd1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.716+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.016+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a video statement, Romualdez called on the national government to
+    section4:
+      primarytype: 'block'
+      uuid: '3c289455-7f61-4d7f-bb62-25d798ae7bd1'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.716+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.016+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a video statement, Romualdez called on the national government to
         make public the plans and feasibility studies regarding the repair of the
         bridge'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85d3ba55-e302-4a93-a7b9-387ec384f55b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.716+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.017+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“I feel that the public should be given all the information pertaining
+    section5:
+      primarytype: 'block'
+      uuid: '85d3ba55-e302-4a93-a7b9-387ec384f55b'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.716+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.017+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“I feel that the public should be given all the information pertaining
         to the condition of the bridge,” he said. “<em>Sino ba ang gumawa ng study
         na ‘to at bigla-bigla na lang binigyan kami ng 48 hours para isara itong tulay</em>?”</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3da93391-886f-4306-8853-62d458436aa2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.717+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.018+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Who did this study and suddenly gave us 48 hours’ notice
+    section6:
+      primarytype: 'block'
+      uuid: '3da93391-886f-4306-8853-62d458436aa2'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.717+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.018+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: Who did this study and suddenly gave us 48 hours’ notice
         of the bridge’s closure?]'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '94e139b2-1f84-41ea-8c04-a32d4983ce2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.717+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.019+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Romualdez said there have been speculations of corruption as there
+    section7:
+      primarytype: 'block'
+      uuid: '94e139b2-1f84-41ea-8c04-a32d4983ce2c'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.717+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.019+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Romualdez said there have been speculations of corruption as there
         are not enough details released about the plans to upgrade the bridge.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dcfb462a-cf71-4f83-af4f-4219a8ce45a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.717+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.020+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said he wants the public to see who conducted the feasibility study,
+    section8:
+      primarytype: 'block'
+      uuid: 'dcfb462a-cf71-4f83-af4f-4219a8ce45a2'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.717+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.020+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He said he wants the public to see who conducted the feasibility study,
         what is the extent of the damage, and how long the retrofitting will last.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8478622-5dec-40ee-b5b7-dec6e9301480'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.718+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.020+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“This is not the first time. 20 years ago that bridge was repaired
+    section9:
+      primarytype: 'block'
+      uuid: 'b8478622-5dec-40ee-b5b7-dec6e9301480'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.718+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.020+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“This is not the first time. 20 years ago that bridge was repaired
         and ample time was given to the public,” the mayor said, adding that areas
         affected were given six months back then to prepare for the bridge’s closure.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14c5bd3b-9fbf-4f68-b6c5-faca3373ecd9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.718+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.021+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“It is not only affecting the economy of the region but I think it
+    section10:
+      primarytype: 'block'
+      uuid: '14c5bd3b-9fbf-4f68-b6c5-faca3373ecd9'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.718+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.021+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“It is not only affecting the economy of the region but I think it
         is definitely affecting the economy of the country as a whole,” he added.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0982b413-0dfb-4a11-a08a-411b447febda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:35:33.719+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:35:34.022+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:35:33.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The DPWH earlier said the administration is preparing to construct
+    section11:
+      primarytype: 'block'
+      uuid: '0982b413-0dfb-4a11-a08a-411b447febda'
+      activationstatus: true
+      created: 2025-05-31T16:35:33.719+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:35:34.022+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:35:33.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The DPWH earlier said the administration is preparing to construct
         a new and “longer” bridge near the existing San Juanico bridge between the
         provinces of Leyte and Samar.</p>'
-  'Sen.-Estrada--Torre-not-a-good-choice-as-next-PNP-chief':
-    'author': 'Faith Yuen Wei Ragasa, NewsWatch Plus'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T16:35:37.000+08:00
-    'imagesource': 'jcr:941e056e-7fde-41e2-8fd0-1918521341e3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9ff74b4e-e086-4741-8f5b-c7a86c2ccf97'
-    'lead': 'Senator Jinggoy Estrada is disappointed that Maj. Gen. Nicolas Torre
+  'START HERE----->Sen.-Estrada--Torre-not-a-good-choice-as-next-PNP-chief':
+    author: 'Faith Yuen Wei Ragasa, NewsWatch Plus'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T16:35:37.000+08:00
+    imagesource: '941e056e-7fde-41e2-8fd0-1918521341e3'
+    primarytype: 'composition'
+    uuid: '9ff74b4e-e086-4741-8f5b-c7a86c2ccf97'
+    lead: 'Senator Jinggoy Estrada is disappointed that Maj. Gen. Nicolas Torre
       III is set to become the next Philippine National Police (PNP) chief, saying
       that he is “not a good choice” for the position.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T16:42:45.367+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T23:06:34.287+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T23:06:34.033+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Sen. Estrada: Torre not a good choice as next PNP chief'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f6288bf1-a661-41fa-850e-43d1ce6a913c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.389+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.287+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.028+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Senator Jinggoy Estrada
+    activationstatus: true
+    created: 2025-05-31T16:42:45.367+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T23:06:34.287+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T23:06:34.033+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Sen. Estrada: Torre not a good choice as next PNP chief'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f6288bf1-a661-41fa-850e-43d1ce6a913c'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.389+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.287+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.028+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Senator Jinggoy Estrada
         is disappointed that Maj. Gen. Nicolas Torre III is set to become the next
         Philippine National Police (PNP) chief, saying that he is “not a good choice”
         for the position.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75b62369-5a28-42a0-968d-478acd1ba0f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.389+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.288+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.029+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an interview on Saturday, May 31, Estrada expressed his disagreement
+    section1:
+      primarytype: 'block'
+      uuid: '75b62369-5a28-42a0-968d-478acd1ba0f2'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.389+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.288+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.029+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In an interview on Saturday, May 31, Estrada expressed his disagreement
         with President Ferdinand Marcos Jr.’s decision to promote the outgoing Criminal
         Investigation and Detection Group chief.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c93158ea-f239-4395-9e2e-fb6e1915d2c7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.389+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.288+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.029+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: Nicolas Torre III is next PNP chief&nbsp;</strong></p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79c6b218-6832-4793-982e-aa722825ec22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.390+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.288+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.030+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“For me, that is not a good choice. Ngayon lang tayo magkakaroon ng
+    section2:
+      primarytype: 'block'
+      uuid: 'c93158ea-f239-4395-9e2e-fb6e1915d2c7'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.389+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.288+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.029+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>READ: Nicolas Torre III is next PNP chief&nbsp;</strong></p>'
+    section3:
+      primarytype: 'block'
+      uuid: '79c6b218-6832-4793-982e-aa722825ec22'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.390+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.288+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.030+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“For me, that is not a good choice. Ngayon lang tayo magkakaroon ng
         napaka-aroganteng chief PNP (It is only now that we will have a very arrogant
         PNP chief),” he said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92763a9e-1f45-4ad8-b37a-5962838f183b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.390+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.289+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.030+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmaker questioned Torre’s achievements, citing his role in the
+    section4:
+      primarytype: 'block'
+      uuid: '92763a9e-1f45-4ad8-b37a-5962838f183b'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.390+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.289+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.030+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The lawmaker questioned Torre’s achievements, citing his role in the
         arrest of former President Rodrigo Duterte and fugitive preacher Apollo Quiboloy.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '39ade8ff-86d9-401f-b642-fcfb805b32b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.391+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.289+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.031+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'When asked if he thinks the position was only a “reward” for those
+    section5:
+      primarytype: 'block'
+      uuid: '39ade8ff-86d9-401f-b642-fcfb805b32b4'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.391+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.289+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.031+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'When asked if he thinks the position was only a “reward” for those
         arrests, Estrada answered: “Your guess is as good as mine.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4c3209b-6514-4c44-9407-a9b417900501'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.391+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.290+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.031+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Executive Secretary Lucas Bersamin earlier said Torre’s promotion is
+    section6:
+      primarytype: 'block'
+      uuid: 'd4c3209b-6514-4c44-9407-a9b417900501'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.391+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.290+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.031+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Executive Secretary Lucas Bersamin earlier said Torre’s promotion is
         a reward “based on merit.”'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef11e1c8-eb37-4fe1-a0e4-7357b3966a6e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:42:45.392+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T23:06:34.290+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T23:06:34.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marcos picked Torre’s name among five candidates for PNP chief. Torre
+    section7:
+      primarytype: 'block'
+      uuid: 'ef11e1c8-eb37-4fe1-a0e4-7357b3966a6e'
+      activationstatus: true
+      created: 2025-05-31T16:42:45.392+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T23:06:34.290+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T23:06:34.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Marcos picked Torre’s name among five candidates for PNP chief. Torre
         will be the 31st PNP chief and the third under the current administration.'
-  'Group-who-beat-up-Estrada-s-son--nephew-in-Boracay-was-involved-in-killing-of-Slovakian-woman':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-31T16:43:03.000+08:00
-    'imagesource': 'jcr:075c41fc-ad56-49d1-a9c1-e85e382ef69c'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'bab3563b-2e0c-4b56-b681-3210d630b653'
-    'lead': 'Senator Jinggoy Estrada on Saturday, May 31, said the men who attacked
+  'START HERE----->Group-who-beat-up-Estrada-s-son--nephew-in-Boracay-was-involved-in-killing-of-Slovakian-woman':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-31T16:43:03.000+08:00
+    imagesource: '075c41fc-ad56-49d1-a9c1-e85e382ef69c'
+    primarytype: 'composition'
+    uuid: 'bab3563b-2e0c-4b56-b681-3210d630b653'
+    lead: 'Senator Jinggoy Estrada on Saturday, May 31, said the men who attacked
       his son and nephew in Boracay were also involved in the unresolved rape-slay
       of a Slovakian tourist in March.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-31T16:43:59.227+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-31T16:43:59.466+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Group who beat up Estrada’s son, nephew in Boracay was involved in killing
+    activationstatus: true
+    created: 2025-05-31T16:43:59.227+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-31T16:43:59.466+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-31T16:43:59.272+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Group who beat up Estrada’s son, nephew in Boracay was involved in killing
       of Slovakian woman'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6fda679c-7a10-4533-ac5e-bf26467eed70'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.249+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.467+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - Senator Jinggoy Estrada on Saturday,
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6fda679c-7a10-4533-ac5e-bf26467eed70'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.249+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.467+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - Senator Jinggoy Estrada on Saturday,
         May 31, said the men who attacked his son and nephew in Boracay were also
         involved in the unresolved rape-slay of a Slovakian tourist in March.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1923f83-7aa5-4b5f-85fd-6d84d2f897c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.249+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.468+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“I got word, I received information that the same group that mauled
+    section1:
+      primarytype: 'block'
+      uuid: 'a1923f83-7aa5-4b5f-85fd-6d84d2f897c1'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.249+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.468+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“I got word, I received information that the same group that mauled
         my son and my nephew are involved also in the killing of this lady foreigner,”
         he said in an interview.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2738bb4f-dc6e-47b9-a363-fb1d7690af76'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.250+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.469+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Estrada said he will be pursuing the investigation on the three suspects
+    section2:
+      primarytype: 'block'
+      uuid: '2738bb4f-dc6e-47b9-a363-fb1d7690af76'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.250+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.469+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Estrada said he will be pursuing the investigation on the three suspects
         in custody as it also affects tourism in one of the country’s top destinations.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b3c1c2f-3d75-4689-903b-49e1605f7a9e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.250+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.470+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2025/5/25/Sen.-Jinggoy-Estrada-s-son--nephew-assaulted-in-Boracay.html"><strong>READ:
+    section3:
+      primarytype: 'block'
+      uuid: '3b3c1c2f-3d75-4689-903b-49e1605f7a9e'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.250+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.470+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2025/5/25/Sen.-Jinggoy-Estrada-s-son--nephew-assaulted-in-Boracay.html"><strong>READ:
         Sen. Jinggoy Estrada’s son, nephew assaulted in Boracay&nbsp;</strong></a></p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51b6deb0-9d67-4a6a-872e-cf881435e37f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.251+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.471+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In March, villagers found the body of a 23-year-old Slovakian woman
+    section4:
+      primarytype: 'block'
+      uuid: '51b6deb0-9d67-4a6a-872e-cf881435e37f'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.251+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.471+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In March, villagers found the body of a 23-year-old Slovakian woman
         inside an abandoned hotel on Boracay Island. Authorities said the body was
         found unclothed and covered in blood.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee65b478-3d77-4088-baff-dd484e0b35f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.251+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.472+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Friends of the tourist had offered a P50,000-reward for information
+    section5:
+      primarytype: 'block'
+      uuid: 'ee65b478-3d77-4088-baff-dd484e0b35f3'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.251+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.472+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Friends of the tourist had offered a P50,000-reward for information
         leading to her whereabouts.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b93dadb4-9993-4aed-a6e4-f0b8cc75a031'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-31T16:43:59.251+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-31T16:43:59.473+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-31T16:43:59.272+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The death of the Slovakian sparked concerns over the island’s safety,
+    section6:
+      primarytype: 'block'
+      uuid: 'b93dadb4-9993-4aed-a6e4-f0b8cc75a031'
+      activationstatus: true
+      created: 2025-05-31T16:43:59.251+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-31T16:43:59.473+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-31T16:43:59.272+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The death of the Slovakian sparked concerns over the island’s safety,
         with business owners and residents worried about its impact on tourism.'

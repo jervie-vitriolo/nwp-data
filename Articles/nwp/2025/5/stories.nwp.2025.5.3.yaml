@@ -1,1960 +1,1960 @@
-'3':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '833052a9-9fb3-4307-b0ce-3b7881ef3558'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-05-03T10:03:04.555+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-05-03T10:03:12.477+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-05-03T10:03:12.289+08:00
-  'mgnl:lastModified': 2025-05-03T19:38:14.234+08:00
-  'mgnl:lastModifiedBy': 'tristan-nwp'
-  'Power-in-Indonesia-s-Bali-fully-restored--state-utility-says':
-    'author': 'Stefanno Sulaiman, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T10:03:17.000+08:00
-    'imagesource': 'jcr:0d6e84ee-d5b4-46fc-96de-772b9e71977d'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4f8789ab-01e5-42d4-b995-d668c7c59d0e'
-    'lead': 'Power on Indonesia’s resort island of Bali has been fully restored as
+section3:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '833052a9-9fb3-4307-b0ce-3b7881ef3558'
+  activationstatus: true
+  created: 2025-05-03T10:03:04.555+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-05-03T10:03:12.477+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-05-03T10:03:12.289+08:00
+  lastmodified: 2025-05-03T19:38:14.234+08:00
+  lastmodifiedby: 'tristan-nwp'
+  'START HERE----->Power-in-Indonesia-s-Bali-fully-restored--state-utility-says':
+    author: 'Stefanno Sulaiman, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T10:03:17.000+08:00
+    imagesource: '0d6e84ee-d5b4-46fc-96de-772b9e71977d'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '4f8789ab-01e5-42d4-b995-d668c7c59d0e'
+    lead: 'Power on Indonesia’s resort island of Bali has been fully restored as
       of early Saturday morning, a state utility said in a statement, after an hours-long
       blackout that started on Friday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T10:04:05.827+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T10:04:18.927+08:00
-    'mgnl:lastActivatedBy': 'faith-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-05-03T10:04:18.707+08:00
-    'mgnl:lastModified': 2025-05-03T10:04:05.866+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Power in Indonesia’s Bali fully restored, state utility says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fbb4f184-b294-431d-bf8d-c1c40345a72e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:04:05.850+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:04:18.928+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-03T10:04:05.866+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reuters) - Power on Indonesia’s resort island of Bali has been
+    activationstatus: true
+    created: 2025-05-03T10:04:05.827+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T10:04:18.927+08:00
+    lastactivatedby: 'faith-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-05-03T10:04:18.707+08:00
+    lastmodified: 2025-05-03T10:04:05.866+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Power in Indonesia’s Bali fully restored, state utility says'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fbb4f184-b294-431d-bf8d-c1c40345a72e'
+      activationstatus: true
+      created: 2025-05-03T10:04:05.850+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:04:18.928+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-03T10:04:05.866+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reuters) - Power on Indonesia’s resort island of Bali has been
         fully restored as of early Saturday morning, a state utility said in a statement,
         after an hours-long blackout that started on Friday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef85df05-a32d-4ccf-b0e5-f50bdd34244a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:04:05.850+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:04:18.928+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-03T10:04:05.866+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Darmawan Prasodjo, president director of state electricity firm Perusahaan
+    section1:
+      primarytype: 'block'
+      uuid: 'ef85df05-a32d-4ccf-b0e5-f50bdd34244a'
+      activationstatus: true
+      created: 2025-05-03T10:04:05.850+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:04:18.928+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-03T10:04:05.866+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Darmawan Prasodjo, president director of state electricity firm Perusahaan
         Listrik Negara (PLN), said early indications were that a disruption in subsea
         cables was the cause of outage.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5e776fa7-b51e-4be9-aa9e-d89b00d08246'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:04:05.851+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:04:18.929+08:00
-      'mgnl:lastActivatedBy': 'faith-nwp'
-      'mgnl:lastModified': 2025-05-03T10:04:05.866+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Stefanno Sulaiman; Editing by Edmund Klamann)</em></p>'
-  'US-military-creates-new-military-zone-along-border-with-Mexico':
-    'author': 'Idrees Ali, Phil Stewart and Andrew Hay, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T10:04:27.000+08:00
-    'imagesource': 'jcr:306d7aaf-4025-429b-a0ba-02f9b336ea51'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '4d7a713a-5387-4563-baba-463fcc404fb2'
-    'lead': 'The US military has created a second military zone along the border with
+    section2:
+      primarytype: 'block'
+      uuid: '5e776fa7-b51e-4be9-aa9e-d89b00d08246'
+      activationstatus: true
+      created: 2025-05-03T10:04:05.851+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:04:18.929+08:00
+      lastactivatedby: 'faith-nwp'
+      lastmodified: 2025-05-03T10:04:05.866+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Stefanno Sulaiman; Editing by Edmund Klamann)</em></p>'
+  'START HERE----->US-military-creates-new-military-zone-along-border-with-Mexico':
+    author: 'Idrees Ali, Phil Stewart and Andrew Hay, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T10:04:27.000+08:00
+    imagesource: '306d7aaf-4025-429b-a0ba-02f9b336ea51'
+    primarytype: 'composition'
+    uuid: '4d7a713a-5387-4563-baba-463fcc404fb2'
+    lead: 'The US military has created a second military zone along the border with
       Mexico, adding an area in Texas where troops can temporarily detain migrants
       or trespassers after another such area was designated in New Mexico last month.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T10:05:20.366+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T10:05:20.667+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US military creates new military zone along border with Mexico'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c793487-caa6-4486-b5b6-967bcfb7383d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.378+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.668+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> The US military has created a second
+    activationstatus: true
+    created: 2025-05-03T10:05:20.366+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T10:05:20.667+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T10:05:20.408+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US military creates new military zone along border with Mexico'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6c793487-caa6-4486-b5b6-967bcfb7383d'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.378+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.668+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> The US military has created a second
         military zone along the border with Mexico, adding an area in Texas where
         troops can temporarily detain migrants or trespassers after another such area
         was designated in New Mexico last month.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c28e538-c944-44cb-9653-8240d54c30d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.378+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.669+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Donald Trump has launched an aggressive immigration enforcement
+    section1:
+      primarytype: 'block'
+      uuid: '8c28e538-c944-44cb-9653-8240d54c30d5'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.378+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.669+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'President Donald Trump has launched an aggressive immigration enforcement
         campaign since taking office, increasing troops at the southern border and
         pledging to deport millions of immigrants in the United States illegally.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5bd30ee-a33d-4912-8ac5-26c047507558'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.378+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.670+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Trump administration in April said it designated a 170-square-mile
+    section2:
+      primarytype: 'block'
+      uuid: 'a5bd30ee-a33d-4912-8ac5-26c047507558'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.378+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.670+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Trump administration in April said it designated a 170-square-mile
         (440 square km) strip along the base of New Mexico as a "National Defense
         Area."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c4faa63-4e45-4198-aa68-509e9a768664'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.379+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.671+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Late on Thursday, the U.S. military said it had established the "Texas
+    section3:
+      primarytype: 'block'
+      uuid: '3c4faa63-4e45-4198-aa68-509e9a768664'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.379+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.671+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Late on Thursday, the U.S. military said it had established the "Texas
         National Defense Area" in a 63 mile-long strip running east from the Texas-New
         Mexico border in El Paso.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '739a9819-7703-4343-a8ef-3b910b572c19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.379+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.672+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. Customs and Border Protection maintains jurisdiction over illegal
+    section4:
+      primarytype: 'block'
+      uuid: '739a9819-7703-4343-a8ef-3b910b572c19'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.379+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.672+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'U.S. Customs and Border Protection maintains jurisdiction over illegal
         border crossings in the area and troops would hand over migrants they detained
         to U.S. Border Patrol or other civilian law enforcement.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd6a9aaac-1093-4fe2-9d53-48a5225b87c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.379+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.673+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'So far, 82 migrants have been charged for crossing into the New Mexico
+    section5:
+      primarytype: 'block'
+      uuid: 'd6a9aaac-1093-4fe2-9d53-48a5225b87c1'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.379+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.673+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'So far, 82 migrants have been charged for crossing into the New Mexico
         military zone, according to the state’s U.S. Attorney’s Office. U.S. troops
         have not detained any of them and they were dealt with by CBP officials.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75e7bef3-c533-484d-bf70-3f8e1963974c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.380+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.674+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The zone is intended to allow the Trump administration to use troops
+    section6:
+      primarytype: 'block'
+      uuid: '75e7bef3-c533-484d-bf70-3f8e1963974c'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.380+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.674+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The zone is intended to allow the Trump administration to use troops
         to detain migrants without invoking the 1807 Insurrection Act that empowers
         a president to deploy the U.S. military to suppress events such as civil disorder.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34a42003-e850-4f4b-95d6-e988b44d1e08'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.380+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.674+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Around 11,900 troops are currently on the border. The number of migrants
+    section7:
+      primarytype: 'block'
+      uuid: '34a42003-e850-4f4b-95d6-e988b44d1e08'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.380+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.674+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Around 11,900 troops are currently on the border. The number of migrants
         caught crossing illegally in March fell to the lowest level recorded, according
         to government data.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '34a31612-b0b4-41eb-8f08-41514c8ce066'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.380+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.675+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Texas Governor Gregg Abbott, a Republican, on Thursday posted pictures
+    section8:
+      primarytype: 'block'
+      uuid: '34a31612-b0b4-41eb-8f08-41514c8ce066'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.380+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.675+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Texas Governor Gregg Abbott, a Republican, on Thursday posted pictures
         of razor-wire barrier construction, saying "Texas continues to work with the
         Trump Administration to stop illegal immigration."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf9c7ebb-798a-4616-9e22-e976b89b59f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.381+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.676+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'New Mexico Governor Michelle Lujan Grisham has opposed what she calls
+    section9:
+      primarytype: 'block'
+      uuid: 'cf9c7ebb-798a-4616-9e22-e976b89b59f2'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.381+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.676+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'New Mexico Governor Michelle Lujan Grisham has opposed what she calls
         a "deportation buffer zone," in a March social media post calling it "a waste
         of resources and military personnel."'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aadcf2b4-8557-4056-b465-fc9674e136c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.381+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.677+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The office of New Mexico U.S. Senator Martin Heinrich on Friday said
+    section10:
+      primarytype: 'block'
+      uuid: 'aadcf2b4-8557-4056-b465-fc9674e136c8'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.381+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.677+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The office of New Mexico U.S. Senator Martin Heinrich on Friday said
         the buffer zone was several miles wide in places, raising concerns for civilians
         who might accidentally enter it.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2619fcc4-0c29-47c0-9958-e639e7c25f7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.381+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.678+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s much further than just the 60-foot Roosevelt Reservation," Heinrich
+    section11:
+      primarytype: 'block'
+      uuid: '2619fcc4-0c29-47c0-9958-e639e7c25f7d'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.381+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.678+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It’s much further than just the 60-foot Roosevelt Reservation," Heinrich
         spokeswoman Caty Payette told Source NM, referring to a strip of federal land
         running along the border.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f11d1d0-4cdd-4056-8c6b-be12f1c7e486'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:05:20.382+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:05:20.679+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:05:20.408+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Idrees Ali, Phil Stewart and Andrew Hay; editing
-        by Diane Craft and Rosalba O''Brien)</em></p>'
-  'Australians-vote-in-national-election-with-their-sights-on-Trump--living-costs':
-    'author': 'Kirsty Needham and Samuel McKeith, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T10:05:27.000+08:00
-    'imagesource': 'jcr:53160b3f-5c62-4007-a85b-63ecb01fdeb1'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c56266db-3226-48bb-af99-3f4728f747ae'
-    'lead': 'Voting began on Saturday in Australia’s national election that polls
+    section12:
+      primarytype: 'block'
+      uuid: '4f11d1d0-4cdd-4056-8c6b-be12f1c7e486'
+      activationstatus: true
+      created: 2025-05-03T10:05:20.382+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:05:20.679+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:05:20.408+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Idrees Ali, Phil Stewart and Andrew Hay; editing
+        by Diane Craft and Rosalba O'Brien)</em></p>'
+  'START HERE----->Australians-vote-in-national-election-with-their-sights-on-Trump--living-costs':
+    author: 'Kirsty Needham and Samuel McKeith, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T10:05:27.000+08:00
+    imagesource: '53160b3f-5c62-4007-a85b-63ecb01fdeb1'
+    primarytype: 'composition'
+    uuid: 'c56266db-3226-48bb-af99-3f4728f747ae'
+    lead: 'Voting began on Saturday in Australia’s national election that polls
       show will likely favour Labor Prime Minister Anthony Albanese over conservative
       challenger Peter Dutton, with voter appetite for change dampened by worries
       over Donald Trump’s volatile diplomacy.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T10:06:12.785+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T10:06:13.137+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Australians vote in national election with their sights on Trump, living
+    activationstatus: true
+    created: 2025-05-03T10:06:12.785+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T10:06:13.137+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T10:06:12.836+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Australians vote in national election with their sights on Trump, living
       costs'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e212004-12a8-4bc6-98b9-f85e3e0a7359'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.797+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.138+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Voting began on Saturday in Australia’s
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7e212004-12a8-4bc6-98b9-f85e3e0a7359'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.797+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.138+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Voting began on Saturday in Australia’s
         national election that polls show will likely favour Labor Prime Minister
         Anthony Albanese over conservative challenger Peter Dutton, with voter appetite
         for change dampened by worries over Donald Trump’s volatile diplomacy.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6952c19f-6d11-447f-b91c-0d4ee71d6f3a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.797+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.139+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Polling booths in Australia - among the few democracies with mandatory
+    section1:
+      primarytype: 'block'
+      uuid: '6952c19f-6d11-447f-b91c-0d4ee71d6f3a'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.797+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.139+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Polling booths in Australia - among the few democracies with mandatory
         voting - opened at 8 a.m. local time, although a record 8 million out of 18
         million eligible voters had already cast ballots before Saturday.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e92a2cf2-9446-4bb3-b560-93be0b16263d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.797+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.140+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Overseas, tens of thousands of Australians were expected to cast ballots
+    section2:
+      primarytype: 'block'
+      uuid: 'e92a2cf2-9446-4bb3-b560-93be0b16263d'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.797+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.140+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Overseas, tens of thousands of Australians were expected to cast ballots
         at booths set up in 83 countries, Australia’s foreign affairs department
         said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '241bbd5a-0067-495c-960d-7b8a63c315dc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.798+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.141+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Albanese said his centre-left government had "built really strong foundations
+    section3:
+      primarytype: 'block'
+      uuid: '241bbd5a-0067-495c-960d-7b8a63c315dc'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.798+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.141+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Albanese said his centre-left government had "built really strong foundations
         during this term" and needed a second term to follow through on key policies
         such improving housing affordability and strengthening Medicare, the country’s
         universal healthcare system.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ee5ff07-178d-40bb-9845-5d9671dc57c8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.798+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.142+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We want to be able to continue to kick goals for Australia," he said
+    section4:
+      primarytype: 'block'
+      uuid: '8ee5ff07-178d-40bb-9845-5d9671dc57c8'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.798+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.142+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We want to be able to continue to kick goals for Australia," he said
         in Victoria state capital Melbourne, according to a transcript.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd73440a7-9866-42a6-8a3e-482e1fa34985'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.798+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.142+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dutton, also starting his day in Melbourne where several seats could
+    section5:
+      primarytype: 'block'
+      uuid: 'd73440a7-9866-42a6-8a3e-482e1fa34985'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.798+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.142+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Dutton, also starting his day in Melbourne where several seats could
         go either way, urged voters to choose the Liberal-National coalition "to get
         our country back on track".'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fcd0caa4-d395-4d25-90ea-484d76c5081a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.799+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.143+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Under Labor Australians have faced the largest fall in living standards
+    section6:
+      primarytype: 'block'
+      uuid: 'fcd0caa4-d395-4d25-90ea-484d76c5081a'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.799+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.143+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Under Labor Australians have faced the largest fall in living standards
         on record," he said on social media platform X.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ab1b56c-8571-47e6-a13d-bd04aaf72448'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.799+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.144+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both major parties have focused on cost-of-living pressures but opinion
+    section7:
+      primarytype: 'block'
+      uuid: '4ab1b56c-8571-47e6-a13d-bd04aaf72448'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.799+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.144+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Both major parties have focused on cost-of-living pressures but opinion
         polls show that global uncertainty driven by Trump’s stop-start tariffs rapidly
         became a top issue for voters during the campaign.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7427d881-1ebe-4322-b52d-8cbf4242b0c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.799+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.145+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Australia is a close U.S. security ally and generally runs a trade
+    section8:
+      primarytype: 'block'
+      uuid: '7427d881-1ebe-4322-b52d-8cbf4242b0c6'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.799+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.145+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Australia is a close U.S. security ally and generally runs a trade
         deficit with the United States. Even so, it was not spared Trump’s tariffs
         with a 10% duty imposed on Australian exports.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '785af3d5-a2c2-41c5-9953-04caa87f5410'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.800+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.146+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Labor has tried to cast Dutton as a Trump-lite conservative, hoping
-        some of Australians'' overwhelmingly negative sentiment towards the U.S. president
+    section9:
+      primarytype: 'block'
+      uuid: '785af3d5-a2c2-41c5-9953-04caa87f5410'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.800+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.146+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Labor has tried to cast Dutton as a Trump-lite conservative, hoping
+        some of Australians' overwhelmingly negative sentiment towards the U.S. president
         will rub off on the opposition leader.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19e9e012-5745-4748-991a-e09f2a128aeb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.800+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.147+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A former policeman, Dutton has forged a reputation as tough on borders
+    section10:
+      primarytype: 'block'
+      uuid: '19e9e012-5745-4748-991a-e09f2a128aeb'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.800+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.147+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A former policeman, Dutton has forged a reputation as tough on borders
         over two decades in parliament and pledged to cut thousands of public service
         jobs.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7aa9264f-3188-4769-952c-c94529235f16'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.801+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.148+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He sought to distance himself from comparisons with Trump adviser Elon
+    section11:
+      primarytype: 'block'
+      uuid: '7aa9264f-3188-4769-952c-c94529235f16'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.801+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.148+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He sought to distance himself from comparisons with Trump adviser Elon
         Musk’s agency-cutting fervor but fell behind after the U.S. president placed
         tariffs on Australia. Dutton had led in opinion polls as recently as February.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e956b22f-eba4-4b60-9ea8-bcd525fac84f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.801+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.148+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A Newspoll published on Friday in The Australian newspaper showed Labor
+    section12:
+      primarytype: 'block'
+      uuid: 'e956b22f-eba4-4b60-9ea8-bcd525fac84f'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.801+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.148+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A Newspoll published on Friday in The Australian newspaper showed Labor
         leading 52.5%-47.5% against the Liberal-National coalition, under Australia’s
         two-party preferential voting system.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4fe1554f-1d83-4335-aa4f-0f22b9219e1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.801+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.149+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Political strategists said Trump was not likely to be the decisive
+    section13:
+      primarytype: 'block'
+      uuid: '4fe1554f-1d83-4335-aa4f-0f22b9219e1d'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.801+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.149+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Political strategists said Trump was not likely to be the decisive
         factor in the election - Albanese has run a strong campaign and Dutton made
         mistakes, including a short-lived proposal to ban public servants working
         from home. But the Trump effect, they said, has added to reservations for
         voters who became risk-averse.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b43109dc-3a6a-4e7f-84d0-ee7d17fb8d46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.802+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.150+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Several polls suggest Labor may be forced into a minority government.
+    section14:
+      primarytype: 'block'
+      uuid: 'b43109dc-3a6a-4e7f-84d0-ee7d17fb8d46'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.802+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.150+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Several polls suggest Labor may be forced into a minority government.
         Preferences among supporters of the minor parties and independents could be
         crucial under Australia’s ranked-choice voting system.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cd3e358-9345-40ab-826c-498ffdc9eca1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.802+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.151+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Pollster Roy Morgan noted that the vote for independents and minor
+    section15:
+      primarytype: 'block'
+      uuid: '2cd3e358-9345-40ab-826c-498ffdc9eca1'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.802+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.151+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Pollster Roy Morgan noted that the vote for independents and minor
         parties had doubled since 2007 and was increasing at every election.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f64076e-ea02-40d2-89c8-d886584c719c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.803+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.152+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In the 2022 election, the primary vote split nearly equally among Labor,
+    section16:
+      primarytype: 'block'
+      uuid: '9f64076e-ea02-40d2-89c8-d886584c719c'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.803+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.152+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In the 2022 election, the primary vote split nearly equally among Labor,
         at 32.6%, the Liberal-Nationals, at 35.7%, and "others" at 31.7%. Roy Morgan
         Chief Executive Michele Levine said a third of voters opting for independents
         and minor parties was likely again in this year’s vote.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31dcc4ab-b660-4902-b299-b5cd6aa65925'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:06:12.803+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T10:06:13.153+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T10:06:12.836+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Kirsty Needham and Sam McKeith in Sydney; Editing
+    section17:
+      primarytype: 'block'
+      uuid: '31dcc4ab-b660-4902-b299-b5cd6aa65925'
+      activationstatus: true
+      created: 2025-05-03T10:06:12.803+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T10:06:13.153+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T10:06:12.836+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Kirsty Needham and Sam McKeith in Sydney; Editing
         by Edmund Klamann and Stephen Coates)</em></p>'
-  'Quezon-s-Ahtisa-Manalo-is-Miss-Universe-PH-2025':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T10:39:04.000+08:00
-    'imagesource': 'jcr:5df1ad47-60ca-468c-9ca9-92b87e9cf2f2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e7753cd4-a30a-497b-992b-a3868fc84af5'
-    'lead': "The Philippines has a new queen! Quezon Province bet Ahtisa Manalo was\
+  'START HERE----->Quezon-s-Ahtisa-Manalo-is-Miss-Universe-PH-2025':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T10:39:04.000+08:00
+    imagesource: '5df1ad47-60ca-468c-9ca9-92b87e9cf2f2'
+    primarytype: 'composition'
+    uuid: 'e7753cd4-a30a-497b-992b-a3868fc84af5'
+    lead: "The Philippines has a new queen! Quezon Province bet Ahtisa Manalo was\
       \ crowned Miss Universe Philippines 2025 during the coronation night at the\
       \ Mall of Asia Arena on Friday, May 2. \n"
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T10:42:03.867+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T11:01:48.657+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T11:01:48.355+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': ['MUPH', 'Manalo', 'Ahtisa-Manalo', 'coronation-night', 'Miss-Universe-Philippines-2025']
-    'stories': []
-    'template': '1'
-    'title': 'Quezon’s Ahtisa Manalo is Miss Universe PH 2025'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b13dee92-6795-471d-abf3-364904834e37'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.899+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.657+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.345+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - The Philippines has a new queen!</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '532132e9-e69c-4737-83cd-2d1bd20830a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.899+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.658+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.346+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Quezon Province bet Ahtisa Manalo was crowned Miss Universe Philippines
+    activationstatus: true
+    created: 2025-05-03T10:42:03.867+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T11:01:48.657+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T11:01:48.355+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Quezon’s Ahtisa Manalo is Miss Universe PH 2025'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b13dee92-6795-471d-abf3-364904834e37'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.899+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.657+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.345+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - The Philippines has a new queen!</p>'
+    section1:
+      primarytype: 'block'
+      uuid: '532132e9-e69c-4737-83cd-2d1bd20830a9'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.899+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.658+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.346+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Quezon Province bet Ahtisa Manalo was crowned Miss Universe Philippines
         2025 during the coronation night at the Mall of Asia Arena on Friday, May
         2.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '259a9878-c2bc-4bfa-9d85-233aacd10fa8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.900+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.658+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.346+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The 27-year-old queen, who bested 65 candidates, will represent
+    section2:
+      primarytype: 'block'
+      uuid: '259a9878-c2bc-4bfa-9d85-233aacd10fa8'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.900+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.658+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.346+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The 27-year-old queen, who bested 65 candidates, will represent
         the Philippines in the 74th Miss Universe pageant to be held in Thailand this
         November.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd2bebe8-b92f-4f10-8e73-fe4e4fd723ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.900+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.659+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.347+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Fan favorite Manalo clinched the crown over other pageant veterans
+    section3:
+      primarytype: 'block'
+      uuid: 'fd2bebe8-b92f-4f10-8e73-fe4e4fd723ac'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.900+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.659+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.347+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Fan favorite Manalo clinched the crown over other pageant veterans
         like Miss Earth Air 2023 Yllana Marie Aduana and Reina Hispanoamericana 2017
         Winwyn Marquez.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41c98b26-b8a4-456a-9797-7b11f5fbca4b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.901+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.659+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.348+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The beauty queen early in the finals faced a setback after slipping
+    section4:
+      primarytype: 'block'
+      uuid: '41c98b26-b8a4-456a-9797-7b11f5fbca4b'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.901+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.659+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.348+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The beauty queen early in the finals faced a setback after slipping
         on stage during the evening gown portion. However, fans were in awe of her
         poise as she gracefully pushed on.'
-    '5':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/video.php?height=321&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F1198831298566761%2F&show_text=false&width=560&t=0"
+    section5:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/video.php?height=321&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F1198831298566761%2F&show_text=false&width=560&t=0"
         width="560" height="321" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share" allowFullScreen="true"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd457ffca-997e-4396-b5dc-934012c2cdb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.901+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.659+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.348+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f28115c9-5e2f-452b-b480-53127fa6e93b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.902+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.659+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.349+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manalo also used her slip up as an example during the question and
+      primarytype: 'block'
+      uuid: 'd457ffca-997e-4396-b5dc-934012c2cdb6'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.901+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.659+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.348+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section6:
+      primarytype: 'block'
+      uuid: 'f28115c9-5e2f-452b-b480-53127fa6e93b'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.902+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.659+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.349+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Manalo also used her slip up as an example during the question and
         answer portion where she was asked to tell the audience about an event she
         had in her life where she led by example and the impact it made.'
-    '7':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fposts%2Fpfbid0kxX5roPEbmgW7b2pyKgfB8MXaf8qonpSWa98WwgCPP9CoC2zRsoGcFQeKoYi4atQl&show_text=true&width=500"
+    section7:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fposts%2Fpfbid0kxX5roPEbmgW7b2pyKgfB8MXaf8qonpSWa98WwgCPP9CoC2zRsoGcFQeKoYi4atQl&show_text=true&width=500"
         width="500" height="520" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '749e9df0-3b18-423a-9f44-13ad783111c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.902+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.660+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.349+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ca11c55-70e0-4926-b7ef-0d4809b7ed42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.903+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.660+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.350+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>She was crowned by her predecessor Chelsea Manalo (no relation to
+      primarytype: 'block'
+      uuid: '749e9df0-3b18-423a-9f44-13ad783111c5'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.902+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.660+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.349+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section8:
+      primarytype: 'block'
+      uuid: '9ca11c55-70e0-4926-b7ef-0d4809b7ed42'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.903+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.660+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.350+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>She was crowned by her predecessor Chelsea Manalo (no relation to
         Ahtisa), who was proclaimed as the first-ever Miss Universe Asia in last year’s
         edition of the international pageant held in Mexico.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b96f8bc0-090e-4f83-916a-df155eb131d1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.903+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.660+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.350+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>Journey to the crown</strong></h3>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e40b68f2-7ec9-43eb-9e10-89ce201732c3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.903+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.661+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.351+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manalo has also been through her fair share of pageant experiences.
+    section9:
+      primarytype: 'block'
+      uuid: 'b96f8bc0-090e-4f83-916a-df155eb131d1'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.903+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.660+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.350+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>Journey to the crown</strong></h3>'
+    section10:
+      primarytype: 'block'
+      uuid: 'e40b68f2-7ec9-43eb-9e10-89ce201732c3'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.903+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.661+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.351+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Manalo has also been through her fair share of pageant experiences.
         The queen placed second runner-up in last year’s Miss Universe Philippines
         pageant.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff028c8b-f024-458a-a755-32ffc85c6595'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.904+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.661+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.351+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Quezon native also previously represented the country in Miss Cosmo
+    section11:
+      primarytype: 'block'
+      uuid: 'ff028c8b-f024-458a-a755-32ffc85c6595'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.904+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.661+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.351+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Quezon native also previously represented the country in Miss Cosmo
         2024 where she finished in the top 10.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0b82104b-7669-4db2-8e27-14f591438949'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.904+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.661+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.352+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manalo was also part of the 2018 batch of Binibining Pilipinas queens
+    section12:
+      primarytype: 'block'
+      uuid: '0b82104b-7669-4db2-8e27-14f591438949'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.904+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.661+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.352+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Manalo was also part of the 2018 batch of Binibining Pilipinas queens
         which was won by Miss Universe 2019 Catriona Gray. Manalo won first runner-up
         in Miss International later that year.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb970962-e51f-45ae-9c23-e272c3441775'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.905+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.662+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.352+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Philippines has been consistent in its semi-final placement in
+    section13:
+      primarytype: 'block'
+      uuid: 'bb970962-e51f-45ae-9c23-e272c3441775'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.905+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.662+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.352+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Philippines has been consistent in its semi-final placement in
         Miss Universe and is widely considered as a pageant powerhouse in the prestigious
         annual competition.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a7e615c-6de5-401b-a77f-72c77499285e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T10:42:03.905+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T11:01:48.662+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T11:01:48.353+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Manalo will vie for the country’s fifth Miss Universe crown after
+    section14:
+      primarytype: 'block'
+      uuid: '0a7e615c-6de5-401b-a77f-72c77499285e'
+      activationstatus: true
+      created: 2025-05-03T10:42:03.905+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T11:01:48.662+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T11:01:48.353+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Manalo will vie for the country’s fifth Miss Universe crown after
         Gray (2018), Pia Wurtzbach (2015), Margie Moran (1973), and Gloria Diaz (1969).</p>'
-  'NNIC-to-clear-27-abandoned-aircraft-at-NAIA-to-improve-safety-and-efficiency':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T11:59:44.000+08:00
-    'imagesource': 'jcr:4153d23c-ae20-419c-a1b3-1d634fd2c2a0'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '07632fe9-b57e-4240-9d25-0a7b92e57acd'
-    'lead': 'New NAIA Infra Corp. (NNIC) is initiating the process to clear 27 abandoned
+  'START HERE----->NNIC-to-clear-27-abandoned-aircraft-at-NAIA-to-improve-safety-and-efficiency':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T11:59:44.000+08:00
+    imagesource: '4153d23c-ae20-419c-a1b3-1d634fd2c2a0'
+    primarytype: 'composition'
+    uuid: '07632fe9-b57e-4240-9d25-0a7b92e57acd'
+    lead: 'New NAIA Infra Corp. (NNIC) is initiating the process to clear 27 abandoned
       aircraft located in the general aviation area of Ninoy Aquino International
       Airport (NAIA), as part of ongoing efforts to enhance safety, streamline airside
       operations, and make better use of limited space.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T12:01:16.988+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T12:01:17.267+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'NNIC to clear 27 abandoned aircraft at NAIA to improve safety and efficiency'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd03a95c1-776b-4de0-bd1d-56e9364e86f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.002+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.268+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -&nbsp;</strong>New NAIA Infra
+    activationstatus: true
+    created: 2025-05-03T12:01:16.988+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T12:01:17.267+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T12:01:17.032+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'NNIC to clear 27 abandoned aircraft at NAIA to improve safety and efficiency'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd03a95c1-776b-4de0-bd1d-56e9364e86f8'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.002+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.268+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -&nbsp;</strong>New NAIA Infra
         Corp. (NNIC) is initiating the process to clear 27 abandoned aircraft located
         in the general aviation area of Ninoy Aquino International Airport (NAIA),
         as part of ongoing efforts to enhance safety, streamline airside operations,
         and make better use of limited space.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '66a9c204-a18f-4d44-b6db-808f6ddb40b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.002+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.269+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7840aea2-fb81-4b19-b3fd-eaf89add7312'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.003+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.270+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Some of these aircraft have remained idle for years despite previous
+    section1:
+      primarytype: 'block'
+      uuid: '66a9c204-a18f-4d44-b6db-808f6ddb40b4'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.002+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.269+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section2:
+      primarytype: 'block'
+      uuid: '7840aea2-fb81-4b19-b3fd-eaf89add7312'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.003+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.270+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Some of these aircraft have remained idle for years despite previous
         attempts to resolve the issue. For example, a Cessna 421B has been parked
         at NAIA since 2009, while a Boeing 737-200, occupying 865.52 square meters
         at the North Taxiway Extension, has been unused since 2015.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'caf3ad2e-c3e0-4a98-be22-e76b3ad01cb2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.003+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.271+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d0f715f-720f-4cee-8ce8-46e8ead26924'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.003+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.272+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Their continued presence limits operational capacity and poses safety
+    section3:
+      primarytype: 'block'
+      uuid: 'caf3ad2e-c3e0-4a98-be22-e76b3ad01cb2'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.003+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.271+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section4:
+      primarytype: 'block'
+      uuid: '2d0f715f-720f-4cee-8ce8-46e8ead26924'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.003+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.272+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Their continued presence limits operational capacity and poses safety
         and security risks. Clearing these aircraft will free up space critical to
         improving aircraft parking and ground movement — especially as NAIA continues
         to experience growth in traffic.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '86c81954-cdcb-4086-a1de-a251c419094a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.004+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.273+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6508a1f4-37c1-4c43-8959-0d6ac6e0b73e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.004+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.274+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Since taking over airport operations in September 2024, NNIC has been
+    section5:
+      primarytype: 'block'
+      uuid: '86c81954-cdcb-4086-a1de-a251c419094a'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.004+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.273+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section6:
+      primarytype: 'block'
+      uuid: '6508a1f4-37c1-4c43-8959-0d6ac6e0b73e'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.004+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.274+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Since taking over airport operations in September 2024, NNIC has been
         working closely with stakeholders to modernize facilities and address long-standing
         constraints. As part of these efforts, NNIC, in coordination with the Civil
         Aviation Authority of the Philippines (CAAP) and the Manila International
         Airport Authority (MIAA), has identified the abandoned aircraft and issued
         formal notices to their respective owners or authorized representatives.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e20dfdb2-0dc5-4b9a-a976-df3709cd97ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.004+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.275+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'baae79e5-7bba-4fca-bacf-20beb0b05ca6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T12:01:17.005+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T12:01:17.276+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T12:01:17.032+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>NNIC is urging owners to coordinate with NNIC as soon as possible
+    section7:
+      primarytype: 'block'
+      uuid: 'e20dfdb2-0dc5-4b9a-a976-df3709cd97ac'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.004+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.275+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' '
+    section8:
+      primarytype: 'block'
+      uuid: 'baae79e5-7bba-4fca-bacf-20beb0b05ca6'
+      activationstatus: true
+      created: 2025-05-03T12:01:17.005+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T12:01:17.276+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T12:01:17.032+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>NNIC is urging owners to coordinate with NNIC as soon as possible
         to verify ownership and facilitate retrieval or proper disposition. If no
         action is taken, NNIC will proceed with removal and disposal in accordance
         with applicable laws and regulations.</p>'
-  'PH-officials-meet-with-US-trade-representative-on-investments--tariffs':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T14:04:29.000+08:00
-    'imagesource': 'jcr:2d048c30-f397-4d1f-aaf9-4a2f952a4312'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '85fc1ce6-cd3f-4c20-a8c6-df9d1fd19ef2'
-    'lead': 'A Philippine delegation in the United States met with Washington’s Trade
+  'START HERE----->PH-officials-meet-with-US-trade-representative-on-investments--tariffs':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T14:04:29.000+08:00
+    imagesource: '2d048c30-f397-4d1f-aaf9-4a2f952a4312'
+    primarytype: 'composition'
+    uuid: '85fc1ce6-cd3f-4c20-a8c6-df9d1fd19ef2'
+    lead: 'A Philippine delegation in the United States met with Washington’s Trade
       Representative Jamieson Greer on Friday, May 2, to discuss the recent tariff
       hikes and possible investments.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T14:09:26.722+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T14:10:32.939+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T14:10:32.752+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PH officials meet with US trade representative on investments, tariffs'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1f3b75ff-9b99-426d-a843-f44a9d1e8c29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.738+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.939+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.749+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> A Philippine delegation
+    activationstatus: true
+    created: 2025-05-03T14:09:26.722+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T14:10:32.939+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T14:10:32.752+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH officials meet with US trade representative on investments, tariffs'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1f3b75ff-9b99-426d-a843-f44a9d1e8c29'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.738+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.939+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.749+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> A Philippine delegation
         in the United States met with Washington’s Trade Representative Jamieson
         Greer on Friday, May 2, to discuss the recent tariff hikes and possible investments.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'db624acc-e61d-4969-b6e9-4592488d07ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.739+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.749+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'High-level officials in the meet included Economic Czar Frederick Go,Trade
+    section1:
+      primarytype: 'block'
+      uuid: 'db624acc-e61d-4969-b6e9-4592488d07ae'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.739+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.749+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'High-level officials in the meet included Economic Czar Frederick Go,Trade
         Secretary Cristina Aldeguer-Roque, and Philippine Ambassador to the United
         States Jose Manuel Romualdez.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '879b6d8c-f8d9-477b-8ab3-571936b85aed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.739+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Both sides expressed optimism on the future of PH-US trade and investment
+    section2:
+      primarytype: 'block'
+      uuid: '879b6d8c-f8d9-477b-8ab3-571936b85aed'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.739+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Both sides expressed optimism on the future of PH-US trade and investment
         relations especially in the context of economic security and fair, balanced,
         and reciprocal trade,” a statement from the Philippine Embassy stated.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '594030be-f74e-4cfa-a78e-816227b1af39'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.740+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.940+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The embassy said both sides are optimistic about Manila and Washington
+    section3:
+      primarytype: 'block'
+      uuid: '594030be-f74e-4cfa-a78e-816227b1af39'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.740+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.940+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The embassy said both sides are optimistic about Manila and Washington
         ties, highlighting trade and investment relations in the context of “economic
         security and fair, balanced, and reciprocal trade.”'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '874d64af-0f27-404a-a1ab-4791048b37da'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.740+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.941+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.750+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'It added that the two nations welcomed the “positive outcome of the
+    section4:
+      primarytype: 'block'
+      uuid: '874d64af-0f27-404a-a1ab-4791048b37da'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.740+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.941+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.750+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'It added that the two nations welcomed the “positive outcome of the
         discussions” and agreed that an “economically and strategically strong partnership”
         between the two states is vital.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4430724-7a65-49be-a025-d540f0cd867a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:09:26.740+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:10:32.941+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:10:32.751+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>US President Donald Trump earlier announced a 90-day pause on the
+    section5:
+      primarytype: 'block'
+      uuid: 'c4430724-7a65-49be-a025-d540f0cd867a'
+      activationstatus: true
+      created: 2025-05-03T14:09:26.740+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:10:32.941+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:10:32.751+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>US President Donald Trump earlier announced a 90-day pause on the
         hiked reciprocal tariffs Washington imposed on most countries on April 9.
         However, the blanket 10 percent duty on all its trading partners remains.</p>'
-  'Marcos-talks-economic--security-ties-with-Malaysian-PM-in-phone-call':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T14:10:37.000+08:00
-    'imagesource': 'jcr:c9c4e5ab-31bf-4f4d-b9b9-c1ddf8e04124'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd2ad5487-d800-42d9-a225-715c9f92bd79'
-    'lead': 'President Ferdinand Marcos Jr. and Malaysian Prime Minister Anwar Ibrahim
+  'START HERE----->Marcos-talks-economic--security-ties-with-Malaysian-PM-in-phone-call':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T14:10:37.000+08:00
+    imagesource: 'c9c4e5ab-31bf-4f4d-b9b9-c1ddf8e04124'
+    primarytype: 'composition'
+    uuid: 'd2ad5487-d800-42d9-a225-715c9f92bd79'
+    lead: 'President Ferdinand Marcos Jr. and Malaysian Prime Minister Anwar Ibrahim
       discussed economic and security ties between Manila and Kuala Lumpur in a phone
       call on Friday, May 2.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T14:11:25.204+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T14:11:25.486+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Marcos talks economic, security ties with Malaysian PM in phone call'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73b50c64-12a6-4157-bf81-a7c7d7580dc0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.222+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.487+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
+    activationstatus: true
+    created: 2025-05-03T14:11:25.204+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T14:11:25.486+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T14:11:25.256+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Marcos talks economic, security ties with Malaysian PM in phone call'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '73b50c64-12a6-4157-bf81-a7c7d7580dc0'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.222+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.487+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
         Marcos Jr. and Malaysian Prime Minister Anwar Ibrahim discussed economic and
         security ties between Manila and Kuala Lumpur in a phone call on Friday, May
         2.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b6413fa-f431-47e3-ac77-0aee79e06c78'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.223+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.488+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a social media post, Marcos said he also discussed the upcoming
+    section1:
+      primarytype: 'block'
+      uuid: '3b6413fa-f431-47e3-ac77-0aee79e06c78'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.223+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.488+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a social media post, Marcos said he also discussed the upcoming
         Association of Southeast Asian Nations (ASEAN) Summit to be held on May 26
         and 27 in Malaysia.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51626488-2092-43aa-af3b-51ff5d7ee294'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.223+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.489+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"<em>Nagkausap kami ni Prime Minister Anwar Ibrahim ng Malaysia
+    section2:
+      primarytype: 'block'
+      uuid: '51626488-2092-43aa-af3b-51ff5d7ee294'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.223+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.489+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>"<em>Nagkausap kami ni Prime Minister Anwar Ibrahim ng Malaysia
         tungkol sa mga hamon sa ekonomiya at seguridad na kinakaharap ng ASEAN bilang
         isang rehiyon</em>," Marcos said.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '134ec124-e63b-4cbb-ae72-d2e8b73a19cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.224+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.490+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"<em>Inaasahan kong maipagpatuloy ang mga talakayang ito kasama
+    section3:
+      primarytype: 'block'
+      uuid: '134ec124-e63b-4cbb-ae72-d2e8b73a19cc'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.224+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.490+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>"<em>Inaasahan kong maipagpatuloy ang mga talakayang ito kasama
         ang iba pa nating mga kasamang lider sa Summit</em>," he added.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e20d8261-2c30-4e2e-a7f1-5fa4756415ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.224+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.491+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Malaysia’s Prime Minister Anwar Ibrahim and I talked
+    section4:
+      primarytype: 'block'
+      uuid: 'e20d8261-2c30-4e2e-a7f1-5fa4756415ec'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.224+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.491+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: Malaysia’s Prime Minister Anwar Ibrahim and I talked
         about the economic and security challenges facing ASEAN as a region……I look
         forward to continuing these discussions with our other fellow leaders at the
         Summit.]'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '477c0740-ca54-474d-b1a8-0f73efe56d4e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.224+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.492+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, in his own social media post, the Malaysian leader shared
+    section5:
+      primarytype: 'block'
+      uuid: '477c0740-ca54-474d-b1a8-0f73efe56d4e'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.224+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.492+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Meanwhile, in his own social media post, the Malaysian leader shared
         that they also talked about “several matters and developments related to ASEAN
         and global issues” during their phone call.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12d2a8f5-5195-4491-8a70-4edbdc41459d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.225+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.493+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Anwar said he told Marcos about Malaysia’s support for an extended
+    section6:
+      primarytype: 'block'
+      uuid: '12d2a8f5-5195-4491-8a70-4edbdc41459d'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.225+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.493+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Anwar said he told Marcos about Malaysia’s support for an extended
         ceasefire in Myanmar and that humanitarian aid reach the affected citizens.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2b1f25e-e018-4fb2-ab7f-4e3de59cfc2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.225+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.494+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We were also in agreement that any form of assistance must be delivered
+    section7:
+      primarytype: 'block'
+      uuid: 'f2b1f25e-e018-4fb2-ab7f-4e3de59cfc2c'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.225+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.494+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We were also in agreement that any form of assistance must be delivered
         without discrimination or restrictions," the prime minister wrote.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '556d9da1-73f8-47a6-aa2e-447c05999547'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.226+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.495+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both leaders also talked about the recently hiked tariffs imposed by
+    section8:
+      primarytype: 'block'
+      uuid: '556d9da1-73f8-47a6-aa2e-447c05999547'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.226+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.495+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Both leaders also talked about the recently hiked tariffs imposed by
         the United States on several countries worldwide.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a3fcec95-6a01-4cd8-b49c-de8d20a5b0da'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.226+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.496+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"As the ASEAN Chair, I conveyed that Malaysia can leverage its position
+    section9:
+      primarytype: 'block'
+      uuid: 'a3fcec95-6a01-4cd8-b49c-de8d20a5b0da'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.226+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.496+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"As the ASEAN Chair, I conveyed that Malaysia can leverage its position
         to demonstrate its significance to the United States in global tariff negotiations,"
         Anwar said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '447aa4e5-31d5-4244-b87d-904090eb1fc7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T14:11:25.227+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T14:11:25.496+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T14:11:25.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Malaysian leader said he wished for a successful midterm elections
+    section10:
+      primarytype: 'block'
+      uuid: '447aa4e5-31d5-4244-b87d-904090eb1fc7'
+      activationstatus: true
+      created: 2025-05-03T14:11:25.227+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T14:11:25.496+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T14:11:25.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The Malaysian leader said he wished for a successful midterm elections
         for the Philippines this month.</p>'
-  'South-Korea-s-conservative-People-Power-Party-choose-their-candidate-for-upcoming-presidential-election':
-    'author': 'Jack Kim, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T16:13:18.000+08:00
-    'imagesource': 'jcr:f8f27d41-7a7d-41b1-b94c-f8b1b79d4d06'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'abe0ffde-6f0e-47ec-9e2a-733f2ce91bed'
-    'lead': 'South Korea’s conservative People Power Party on Saturday picked former
+  'START HERE----->South-Korea-s-conservative-People-Power-Party-choose-their-candidate-for-upcoming-presidential-election':
+    author: 'Jack Kim, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T16:13:18.000+08:00
+    imagesource: 'f8f27d41-7a7d-41b1-b94c-f8b1b79d4d06'
+    primarytype: 'composition'
+    uuid: 'abe0ffde-6f0e-47ec-9e2a-733f2ce91bed'
+    lead: 'South Korea’s conservative People Power Party on Saturday picked former
       labour minister Kim Moon-soo as its candidate for the June 3 presidential election,
       which was called after the removal of Yoon Suk Yeol over his failed attempt
       to impose martial law.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T16:15:15.710+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T16:15:16.023+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'South Korea’s conservative People Power Party choose their candidate
+    activationstatus: true
+    created: 2025-05-03T16:15:15.710+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T16:15:16.023+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T16:15:15.758+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'South Korea’s conservative People Power Party choose their candidate
       for upcoming presidential election'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa42abeb-88cb-4bdd-b450-ce9b1136cf50'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.722+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.024+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> South Korea’s conservative People
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fa42abeb-88cb-4bdd-b450-ce9b1136cf50'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.722+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.024+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> South Korea’s conservative People
         Power Party on Saturday picked former labour minister Kim Moon-soo as its
         candidate for the June 3 presidential election, which was called after the
         removal of Yoon Suk Yeol over his failed attempt to impose martial law.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e7e7825-c1d9-40d2-b896-d1597489a10a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.723+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.025+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kim will face liberal Democratic Party candidate Lee Jae-myung, who
+    section1:
+      primarytype: 'block'
+      uuid: '8e7e7825-c1d9-40d2-b896-d1597489a10a'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.723+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.025+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Kim will face liberal Democratic Party candidate Lee Jae-myung, who
         has led each of the declared conservative candidates by large double-digit
         margins in polls.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78c7e6b9-89b5-4576-8d25-c21c4081cb66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.723+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.026+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kim, 73, who was a labour activist in his university days but later
+    section2:
+      primarytype: 'block'
+      uuid: '78c7e6b9-89b5-4576-8d25-c21c4081cb66'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.723+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.026+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Kim, 73, who was a labour activist in his university days but later
         turned hardline conservative, served as labour minister under Yoon and has
         pledged to implement business-friendly policies if elected.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a60a4e4-492f-4930-b991-f723e36b0ce3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.723+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.027+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He laid out a sweeping conservative vision for the country in his acceptance
+    section3:
+      primarytype: 'block'
+      uuid: '1a60a4e4-492f-4930-b991-f723e36b0ce3'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.723+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.027+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He laid out a sweeping conservative vision for the country in his acceptance
         speech, vowing to take a hard line against North Korea and implement incentives
         for businesses and for innovation and science.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2bf4323b-1503-456a-a606-da89ce4897cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.724+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.028+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also pledged to strengthen policies to support young workers and
+    section4:
+      primarytype: 'block'
+      uuid: '2bf4323b-1503-456a-a606-da89ce4897cb'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.724+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.028+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He also pledged to strengthen policies to support young workers and
         the underprivileged, recounting his experience as a labour and democracy activist
         while in university for which he was jailed and expelled from school.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80b2e7a4-bfef-4a6d-b58f-da402eca966c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.724+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.029+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I have never abandoned the weakest among us in the lowest of places,"
+    section5:
+      primarytype: 'block'
+      uuid: '80b2e7a4-bfef-4a6d-b58f-da402eca966c'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.724+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.029+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I have never abandoned the weakest among us in the lowest of places,"
         he said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a524488d-fd19-4f3d-abc2-f8ade5632137'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.724+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.030+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But he added the party must prove that it was starting over to win
+    section6:
+      primarytype: 'block'
+      uuid: 'a524488d-fd19-4f3d-abc2-f8ade5632137'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.724+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.030+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But he added the party must prove that it was starting over to win
         voters, apparently conscious of the public backlash from Yoon’s martial law
         attempt.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3208240-5231-4895-9788-9108ef3591d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.725+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.031+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The conservative party trails the liberals in public support although
+    section7:
+      primarytype: 'block'
+      uuid: 'c3208240-5231-4895-9788-9108ef3591d5'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.725+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.031+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The conservative party trails the liberals in public support although
         it has narrowed the gap since the initial weeks after the martial law declaration
         in early December. Kim remains one of the few in the party who say Yoon’s
         removal was not warranted.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0f0f07f-42ac-488c-bedc-1718b739e2f2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.725+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.031+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Lee, the liberal candidate, remains a clear frontrunner, with nearly
+    section8:
+      primarytype: 'block'
+      uuid: 'f0f0f07f-42ac-488c-bedc-1718b739e2f2'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.725+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.031+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Lee, the liberal candidate, remains a clear frontrunner, with nearly
         50% of public support according to a survey by the pollster Realmeter released
         on Monday, while Kim had 13% support.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b7a2198a-3020-4936-bd67-ee6dcd572e7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.725+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.032+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But the race was rocked this week by a court ruling that cast doubt
+    section9:
+      primarytype: 'block'
+      uuid: 'b7a2198a-3020-4936-bd67-ee6dcd572e7f'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.725+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.032+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But the race was rocked this week by a court ruling that cast doubt
         on Lee’s eligibility to run for the presidency, overturning a lower court
         acquittal that cleared him of election law from a previous race. The Supreme
         Court sent the case back to an appeals court and it was not clear when a new
         ruling will come.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '85893485-4596-4cce-9235-48dfa29b8ab8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.726+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.033+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, Yoon’s former prime minister, Han Duck-soo, announced his
+    section10:
+      primarytype: 'block'
+      uuid: '85893485-4596-4cce-9235-48dfa29b8ab8'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.726+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.033+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On Friday, Yoon’s former prime minister, Han Duck-soo, announced his
         entry into the presidential race, hoping to leverage his higher profile. Han,
         while not a member of the conservative party, has been mentioned as a potential
         partner of the party to join forces against the liberals in the race.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ba3d3e2-93f8-4f9d-82a4-066ce8a2bff7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.726+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.034+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The election was triggered by the removal of Yoon from the presidency
+    section11:
+      primarytype: 'block'
+      uuid: '1ba3d3e2-93f8-4f9d-82a4-066ce8a2bff7'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.726+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.034+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The election was triggered by the removal of Yoon from the presidency
         in April by the Constitutional Court, which ruled he committed a grave violation
         of his duties by declaring martial law on December 3 with no justifiable grounds.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b365b297-8356-4c53-8194-e734fab3b640'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:15:15.726+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:15:16.035+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:15:15.758+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Jack Kim; Editing by Edmund Klamann, Stephen Coates
+    section12:
+      primarytype: 'block'
+      uuid: 'b365b297-8356-4c53-8194-e734fab3b640'
+      activationstatus: true
+      created: 2025-05-03T16:15:15.726+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:15:16.035+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:15:15.758+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Jack Kim; Editing by Edmund Klamann, Stephen Coates
         and Kim Coghill)</em></p>'
-  'Russia-declares-state-of-emergency-at-port-after-Ukrainian-drone-attack-on-Novorossiysk':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T16:15:22.000+08:00
-    'imagesource': 'jcr:38e7c192-6704-4efe-9c59-87fe6d5581d7'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '18fe845a-6431-429c-9eec-e49c42072f65'
-    'lead': 'The mayor of the Russian port city of Novorossiysk declared a state of
+  'START HERE----->Russia-declares-state-of-emergency-at-port-after-Ukrainian-drone-attack-on-Novorossiysk':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T16:15:22.000+08:00
+    imagesource: '38e7c192-6704-4efe-9c59-87fe6d5581d7'
+    primarytype: 'composition'
+    uuid: '18fe845a-6431-429c-9eec-e49c42072f65'
+    lead: 'The mayor of the Russian port city of Novorossiysk declared a state of
       emergency on Saturday after he said a Ukrainian drone attack had damaged residential
       buildings and injured at least five people, including two children.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T16:16:18.508+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T16:16:18.711+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Russia declares state of emergency at port after Ukrainian drone attack
+    activationstatus: true
+    created: 2025-05-03T16:16:18.508+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T16:16:18.711+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T16:16:18.535+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Russia declares state of emergency at port after Ukrainian drone attack
       on Novorossiysk'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4de0e1e2-eec5-45fb-bf37-d2a7af316527'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:16:18.519+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:16:18.712+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> The mayor of the Russian port city
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4de0e1e2-eec5-45fb-bf37-d2a7af316527'
+      activationstatus: true
+      created: 2025-05-03T16:16:18.519+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:16:18.712+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:16:18.535+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> The mayor of the Russian port city
         of Novorossiysk declared a state of emergency on Saturday after he said a
         Ukrainian drone attack had damaged residential buildings and injured at least
         five people, including two children.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b8c463d-21cb-4568-9b42-3a96b0177966'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:16:18.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:16:18.713+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Andrei Kravchenko, the mayor, announced his decision on his official
+    section1:
+      primarytype: 'block'
+      uuid: '4b8c463d-21cb-4568-9b42-3a96b0177966'
+      activationstatus: true
+      created: 2025-05-03T16:16:18.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:16:18.713+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:16:18.535+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Andrei Kravchenko, the mayor, announced his decision on his official
         Telegram account which showed him inspecting the damage to apartment buildings
         and giving orders to officials.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a4bb88b-508b-48fa-b370-9f3a13b12f76'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:16:18.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:16:18.714+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kravchenko said one of the injured people, a woman, was in hospital
+    section2:
+      primarytype: 'block'
+      uuid: '9a4bb88b-508b-48fa-b370-9f3a13b12f76'
+      activationstatus: true
+      created: 2025-05-03T16:16:18.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:16:18.714+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:16:18.535+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Kravchenko said one of the injured people, a woman, was in hospital
         in a serious situation.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3df1a0db-fb2d-4811-bf8a-cca2768f05d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:16:18.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:16:18.715+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'There was no immediate comment from Ukraine, whose air force said Russia
+    section3:
+      primarytype: 'block'
+      uuid: '3df1a0db-fb2d-4811-bf8a-cca2768f05d5'
+      activationstatus: true
+      created: 2025-05-03T16:16:18.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:16:18.715+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:16:18.535+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'There was no immediate comment from Ukraine, whose air force said Russia
         had attacked Ukraine overnight with 183 drones and two ballistic missiles.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '433f8a0e-a3f2-4813-b193-d2bbce1c8be0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T16:16:18.521+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T16:16:18.716+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T16:16:18.535+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>(Reporting by Reuters; Editing by Andrew Osborn)</p>'
-  'Solid-North-Transit-suspends-operations-after-deadly-SCTEX-road-crash':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T17:11:58.000+08:00
-    'imagesource': 'jcr:61cafe95-d3ee-4bca-a9a5-938030ffebf4'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '64f7bbed-9f7c-4309-8c2a-58aa81b7fa9b'
-    'lead': 'Pangasinan Solid North Transit, Inc. temporarily halted its operations
+    section4:
+      primarytype: 'block'
+      uuid: '433f8a0e-a3f2-4813-b193-d2bbce1c8be0'
+      activationstatus: true
+      created: 2025-05-03T16:16:18.521+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T16:16:18.716+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T16:16:18.535+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>(Reporting by Reuters; Editing by Andrew Osborn)</p>'
+  'START HERE----->Solid-North-Transit-suspends-operations-after-deadly-SCTEX-road-crash':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T17:11:58.000+08:00
+    imagesource: '61cafe95-d3ee-4bca-a9a5-938030ffebf4'
+    primarytype: 'composition'
+    uuid: '64f7bbed-9f7c-4309-8c2a-58aa81b7fa9b'
+    lead: 'Pangasinan Solid North Transit, Inc. temporarily halted its operations
       after a 30-day suspension order due to a fatal multi-vehicle collision on the
       Subic-Clark-Tarlac expressway (SCTEX) which killed 12 people on Thursday, May
       1.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T17:13:17.265+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T17:13:17.555+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Solid North Transit suspends operations after deadly SCTEX road crash'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28da7ae3-59a0-4ad9-af1e-28d5af2e5083'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.283+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.556+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila Philippines -</strong> Pangasinan Solid North
+    activationstatus: true
+    created: 2025-05-03T17:13:17.265+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T17:13:17.555+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T17:13:17.318+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Solid North Transit suspends operations after deadly SCTEX road crash'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '28da7ae3-59a0-4ad9-af1e-28d5af2e5083'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.283+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.556+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila Philippines -</strong> Pangasinan Solid North
         Transit, Inc. temporarily halted its operations after a 30-day suspension
         order due to a fatal multi-vehicle collision on the Subic-Clark-Tarlac expressway
         (SCTEX) which killed 12 people on Thursday, May 1.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '33811177-5bd6-45ac-800c-40b5ec8773af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.284+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.557+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The entire fleet of bus line Solid North, whose unit triggered the
+    section1:
+      primarytype: 'block'
+      uuid: '33811177-5bd6-45ac-800c-40b5ec8773af'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.284+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.557+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The entire fleet of bus line Solid North, whose unit triggered the
         deadly incident, was suspended by the Land Transportation Franchising and
         Regulatory Board’s (LTFRB) the day after the crash.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ed09adc-cc0b-44e8-88f5-14f974bbafa0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.284+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.558+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“In compliance with the directive of DOTr (Department of Transportation),
+    section2:
+      primarytype: 'block'
+      uuid: '9ed09adc-cc0b-44e8-88f5-14f974bbafa0'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.284+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.558+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“In compliance with the directive of DOTr (Department of Transportation),
         Pangasinan Solid North Transit, Inc. (PSNTI) has stopped its whole operations,”
         the company said in a statement released Saturday, May 3.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c09f9b2-faa0-4aa4-916d-8f0f8d48a40c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.284+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.559+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bus line also apologized to all its customers who will be affected
+    section3:
+      primarytype: 'block'
+      uuid: '6c09f9b2-faa0-4aa4-916d-8f0f8d48a40c'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.284+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.559+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The bus line also apologized to all its customers who will be affected
         by its suspension of trips and said patrons may request for cancellations.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3d021fa-3cca-4db7-8440-25a96191834c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.285+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.560+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We are one with the Nation in sympathizing with those affected by
+    section4:
+      primarytype: 'block'
+      uuid: 'f3d021fa-3cca-4db7-8440-25a96191834c'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.285+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.560+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We are one with the Nation in sympathizing with those affected by
         this unfortunate event,” it said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10f05692-f4e8-4e9f-8446-c6822fed9937'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.285+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.561+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'PSNTI said “some uncontrollable factors” led to the “isolated case.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e039d6e-c2ec-4cee-98b8-8c8a7eefa5d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.286+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.562+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '​​The bus driver reportedly fell asleep and the wayward vehicle caused
+    section5:
+      primarytype: 'block'
+      uuid: '10f05692-f4e8-4e9f-8446-c6822fed9937'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.285+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.561+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'PSNTI said “some uncontrollable factors” led to the “isolated case.”'
+    section6:
+      primarytype: 'block'
+      uuid: '2e039d6e-c2ec-4cee-98b8-8c8a7eefa5d7'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.286+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.562+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '​​The bus driver reportedly fell asleep and the wayward vehicle caused
         the crash involving three sports utility vehicles and one container truck.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b105160e-358c-4215-a174-62cac554080a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.286+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.563+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Transportation Secretary Vince Dizon earlier said he directed the LTFRB
+    section7:
+      primarytype: 'block'
+      uuid: 'b105160e-358c-4215-a174-62cac554080a'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.286+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.563+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Transportation Secretary Vince Dizon earlier said he directed the LTFRB
         to file a criminal complaint against the bus company and the driver, adding
         that drivers should drive for no more than six hours.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef1482e7-175a-42fc-86ce-e22fec22e286'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.287+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.564+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We understand the severity of the situation and we will be responsible
+    section8:
+      primarytype: 'block'
+      uuid: 'ef1482e7-175a-42fc-86ce-e22fec22e286'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.287+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.564+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We understand the severity of the situation and we will be responsible
         and accountable for it,” PSNTI added.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e345755e-4a63-42ae-bdfb-9ce379b578b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:13:17.287+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:13:17.565+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:13:17.318+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>According to the company website, Pangasinan Solid North Transit,
+    section9:
+      primarytype: 'block'
+      uuid: 'e345755e-4a63-42ae-bdfb-9ce379b578b4'
+      activationstatus: true
+      created: 2025-05-03T17:13:17.287+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:13:17.565+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:13:17.318+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>According to the company website, Pangasinan Solid North Transit,
         Inc. operates Solid North buses which serves almost the entire Luzon after
         it acquired a number of companies through the years, including Dagupan Bus
         and JAM Liner.</p>'
-  'Boost-in-annual-DepEd-funding-sought-':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T17:26:12.000+08:00
-    'imagesource': 'jcr:09200543-ea5e-4ac0-9141-964e1e6d9c4c'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b14e8764-e7ba-497d-8275-19e48de0a22e'
-    'lead': 'Increasing the annual allocation for the Department of Education (DepEd)
+  'START HERE----->Boost-in-annual-DepEd-funding-sought-':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T17:26:12.000+08:00
+    imagesource: '09200543-ea5e-4ac0-9141-964e1e6d9c4c'
+    primarytype: 'composition'
+    uuid: 'b14e8764-e7ba-497d-8275-19e48de0a22e'
+    lead: 'Increasing the annual allocation for the Department of Education (DepEd)
       can help address the country’s functional illiteracy problem, a lawmaker said
       Saturday, May 3.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T17:27:58.074+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-03T17:27:58.371+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Boost in annual DepEd funding sought '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73b6ed30-ea88-48f0-86e8-6c28bb10925b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.095+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.372+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - Increasing the annual allocation for
+    activationstatus: true
+    created: 2025-05-03T17:27:58.074+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-03T17:27:58.371+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T17:27:58.134+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Boost in annual DepEd funding sought '
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '73b6ed30-ea88-48f0-86e8-6c28bb10925b'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.095+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.372+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - Increasing the annual allocation for
         the Department of Education (DepEd) can help address the country’s functional
         illiteracy problem, a lawmaker said Saturday, May 3.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3869af7-3ab8-4393-845e-f9deba1e5b5f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.095+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.373+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>This comes after a periodic study conducted by the Philippine Statistics
+    section1:
+      primarytype: 'block'
+      uuid: 'd3869af7-3ab8-4393-845e-f9deba1e5b5f'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.095+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.373+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>This comes after a periodic study conducted by the Philippine Statistics
         Authority (PSA) found that 18.9 million Filipino high school students are
         considered “functional illiterate.” This means they can read, write, and compute
         but could not comprehend what they had read.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c54c4ebb-46fb-4a0e-8850-7fa6be9d86a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.096+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.374+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'According to Cagayan de Oro City 2nd District Rep. Rufus Rodriguez,
+    section2:
+      primarytype: 'block'
+      uuid: 'c54c4ebb-46fb-4a0e-8850-7fa6be9d86a2'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.096+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.374+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'According to Cagayan de Oro City 2nd District Rep. Rufus Rodriguez,
         DepEd needs additional funds for its personnel, infrastructure, and equipment
         requirements which are essential for the sector.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1e83289-ce6a-4ed1-a43b-1c133554ef46'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.096+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.375+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“There is a need for more classrooms, more teacher positions, additional
+    section3:
+      primarytype: 'block'
+      uuid: 'f1e83289-ce6a-4ed1-a43b-1c133554ef46'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.096+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.375+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“There is a need for more classrooms, more teacher positions, additional
         training for teachers, more books, more school equipment, and provision of
         more computers and tablets to public elementary learners and high school students,”
         he said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b40fb67-ccea-4e13-a90d-843c8c2a2125'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.096+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.375+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“This means that we have to increase the budget of the DepEd every
+    section4:
+      primarytype: 'block'
+      uuid: '3b40fb67-ccea-4e13-a90d-843c8c2a2125'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.096+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.375+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“This means that we have to increase the budget of the DepEd every
         year, instead of reducing it,” Rodriguez added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '005659f2-8ba2-44c2-8c9f-23becef894af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.097+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.376+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The solon called out the Congress’ decision to slash the department’s
+    section5:
+      primarytype: 'block'
+      uuid: '005659f2-8ba2-44c2-8c9f-23becef894af'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.097+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.376+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The solon called out the Congress’ decision to slash the department’s
         computerization fund this year by ₱10 billion.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2ae76816-10d4-40c5-a86a-bcec65248052'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.097+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.377+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rodriguez also urged President Ferdinand Marcos Jr. to augment the
+    section6:
+      primarytype: 'block'
+      uuid: '2ae76816-10d4-40c5-a86a-bcec65248052'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.097+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.377+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Rodriguez also urged President Ferdinand Marcos Jr. to augment the
         fund from government savings and appropriations in the national budget that
         he is authorized to realign.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3fbb0769-edca-4a4b-af7c-2e9412537490'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.098+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.378+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He further said there should be a parallel effort in the private sector
+    section7:
+      primarytype: 'block'
+      uuid: '3fbb0769-edca-4a4b-af7c-2e9412537490'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.098+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.378+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He further said there should be a parallel effort in the private sector
         to tackle the problem.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46675838-f523-4f93-92e5-e46fa08d0a71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.098+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.379+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The PSA study which was tackled in a Senate hearing on Wednesday, April
+    section8:
+      primarytype: 'block'
+      uuid: '46675838-f523-4f93-92e5-e46fa08d0a71'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.098+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.379+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The PSA study which was tackled in a Senate hearing on Wednesday, April
         30, also found that another 5.86 million Filipino highschool graduates are
         “basic illiterate,” or unable to read, write, and compute.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5934cfa8-7944-4efd-8f73-6c2ef325f730'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T17:27:58.099+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-03T17:27:58.380+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T17:27:58.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the hearing, PSA said only 79 percent of senior high school graduates
+    section9:
+      primarytype: 'block'
+      uuid: '5934cfa8-7944-4efd-8f73-6c2ef325f730'
+      activationstatus: true
+      created: 2025-05-03T17:27:58.099+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-03T17:27:58.380+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T17:27:58.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>In the hearing, PSA said only 79 percent of senior high school graduates
         in 2024 were functionally literate.</p>'
-  'm2m-manila-better-endings-tour':
-    'caption': 'Norwegian pop duo Marion Raven and Marit Larsen reunited in Manila
+  'START HERE----->m2m-manila-better-endings-tour':
+    caption: 'Norwegian pop duo Marion Raven and Marit Larsen reunited in Manila
       for a two-night concert.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-03T19:38:14.000+08:00
-    'imagesource': 'jcr:24590b9c-7c43-430f-b21e-d258314f6da3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'fe05bd07-55b9-44f0-b501-eda5a68928a4'
-    'lead': 'It was a night of pure nostalgia on May 2, as the Araneta Coliseum was
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-03T19:38:14.000+08:00
+    imagesource: '24590b9c-7c43-430f-b21e-d258314f6da3'
+    primarytype: 'composition'
+    uuid: 'fe05bd07-55b9-44f0-b501-eda5a68928a4'
+    lead: 'It was a night of pure nostalgia on May 2, as the Araneta Coliseum was
       packed with fans eager to see Norwegian pop duo M2M wrap up their two-night
       concert in Manila.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-03T19:41:23.977+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2025-05-03T19:46:31.291+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-03T19:46:31.102+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['m2m']
-    'stories': []
-    'template': '1'
-    'title': 'M2M returns, and suddenly it’s 2000 again'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1297551-446a-4125-a4b6-2b5a8c9950cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:41:23.997+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.291+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.099+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> - It was a night of pure
+    activationstatus: true
+    created: 2025-05-03T19:41:23.977+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2025-05-03T19:46:31.291+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-03T19:46:31.102+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'M2M returns, and suddenly it’s 2000 again'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a1297551-446a-4125-a4b6-2b5a8c9950cb'
+      activationstatus: true
+      created: 2025-05-03T19:41:23.997+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.291+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.099+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> - It was a night of pure
         nostalgia on May 2, as the Araneta Coliseum was packed with fans eager to
         see Norwegian pop duo M2M wrap up their two-night concert in Manila.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '864fa310-1303-445a-8ce5-6ff4321e7e11'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.091+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.292+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.091+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'And just like that, it felt like the early 2000s all over again. The
+    section1:
+      primarytype: 'block'
+      uuid: '864fa310-1303-445a-8ce5-6ff4321e7e11'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.091+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.292+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.091+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'And just like that, it felt like the early 2000s all over again. The
         duo opened with The Day You Went Away, followed by Everything You Do, instantly
         transporting the crowd back in time.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e07b4707-c88c-4daf-9afd-7b6bc84b40a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.092+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.293+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.092+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The energy only grew stronger as fans sang their hearts out to beloved
+    section2:
+      primarytype: 'block'
+      uuid: 'e07b4707-c88c-4daf-9afd-7b6bc84b40a5'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.092+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.293+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.092+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The energy only grew stronger as fans sang their hearts out to beloved
         hits like Pretty Boy and Mirror Mirror. The duo didn’t even have to finish
         some of the lyrics — the crowd knew every word.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3e05c7af-ee10-405f-a8e2-41ea81ae057e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.092+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.294+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.092+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>A chance encounter, a reunion years in the making</strong></p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ae2b539-a3dd-4ad8-86c8-216191882d74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.093+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.295+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.093+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marion Raven and Marit Larsen admitted they hadn’t really kept in touch
+    section3:
+      primarytype: 'block'
+      uuid: '3e05c7af-ee10-405f-a8e2-41ea81ae057e'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.092+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.294+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.092+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>A chance encounter, a reunion years in the making</strong></p>'
+    section4:
+      primarytype: 'block'
+      uuid: '8ae2b539-a3dd-4ad8-86c8-216191882d74'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.093+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.295+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.093+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Marion Raven and Marit Larsen admitted they hadn’t really kept in touch
         since going their separate ways as solo artists in the late 2000s. But fate
         had other plans.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c945af5-4686-4b76-b121-e065a676d602'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.093+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.296+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.093+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Larsen shared that she was at a coffee shop when Raven, who was dealing
+    section5:
+      primarytype: 'block'
+      uuid: '4c945af5-4686-4b76-b121-e065a676d602'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.093+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.296+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.093+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Larsen shared that she was at a coffee shop when Raven, who was dealing
         with a car issue nearby, walked in. A simple encounter turned into hours of
         catching up and the idea of a reunion concert was born.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e0e6f24-35c7-4429-92f4-3de46f67eda1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.094+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.298+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.094+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“We’re so happy. Imagine if we had all missed out on this night,” Raven
+    section6:
+      primarytype: 'block'
+      uuid: '9e0e6f24-35c7-4429-92f4-3de46f67eda1'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.094+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.298+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.094+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“We’re so happy. Imagine if we had all missed out on this night,” Raven
         told the crowd.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '899407e3-0bde-4774-b3d2-3c821c5f7a1f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-03T19:46:31.094+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-03T19:46:31.299+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-03T19:46:31.094+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The duo closed the night with a heartfelt performance of ‘Don’t
+    section7:
+      primarytype: 'block'
+      uuid: '899407e3-0bde-4774-b3d2-3c821c5f7a1f'
+      activationstatus: true
+      created: 2025-05-03T19:46:31.094+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-03T19:46:31.299+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-03T19:46:31.094+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>The duo closed the night with a heartfelt performance of ‘Don’t
         Say You Love Me’.</p>'

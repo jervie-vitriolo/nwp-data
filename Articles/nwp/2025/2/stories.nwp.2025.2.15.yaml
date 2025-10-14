@@ -1,1994 +1,1994 @@
-'15':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '95b2dc0e-e8a0-4984-a1e1-9bf45ab1e61a'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-02-15T10:18:17.128+08:00
-  'mgnl:createdBy': 'daniza-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:24:04.658+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:38.449+08:00
-  'mgnl:lastModified': 2025-02-15T18:35:12.962+08:00
-  'mgnl:lastModifiedBy': 'daniza-nwp'
-  'ph-concerned-china-flaring-australia':
-    'caption': 'South China Sea (File photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T10:18:17.000+08:00
-    'imagesource': 'jcr:62c4ea78-a6c0-41b5-a2bb-712b4a6d6f93'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '032825b3-8f8d-4a85-b192-afe7057197ce'
-    'lead': 'The Philippines has expressed concern over China’s flaring against an
+section15:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '95b2dc0e-e8a0-4984-a1e1-9bf45ab1e61a'
+  activationstatus: true
+  created: 2025-02-15T10:18:17.128+08:00
+  createdby: 'daniza-nwp'
+  lastactivated: 2025-03-13T12:24:04.658+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:22:38.449+08:00
+  lastmodified: 2025-02-15T18:35:12.962+08:00
+  lastmodifiedby: 'daniza-nwp'
+  'START HERE----->ph-concerned-china-flaring-australia':
+    caption: 'South China Sea (File photo/Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T10:18:17.000+08:00
+    imagesource: '62c4ea78-a6c0-41b5-a2bb-712b4a6d6f93'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '032825b3-8f8d-4a85-b192-afe7057197ce'
+    lead: 'The Philippines has expressed concern over China’s flaring against an
       Australian Air Force aircraft in the South China Sea.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T10:21:22.327+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:14.035+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:38.559+08:00
-    'mgnl:lastModified': 2025-02-15T10:21:22.374+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PH concerned over China’s flaring vs Australian aircraft in South China
+    activationstatus: true
+    created: 2025-02-15T10:21:22.327+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:14.035+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:22:38.559+08:00
+    lastmodified: 2025-02-15T10:21:22.374+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH concerned over China’s flaring vs Australian aircraft in South China
       Sea'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '523cf843-05ea-4c30-89bc-dd84860fb91e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.364+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.038+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.370+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Philippines has
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '523cf843-05ea-4c30-89bc-dd84860fb91e'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.364+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.038+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.370+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Philippines has
         expressed concern over China’s flaring against an Australian Air Force aircraft
         in the South China Sea.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f4d8b0f-6fd2-4167-ad70-ad91b68104e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.365+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.039+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.365+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Australia, a Philippine ally, was conducting a maritime patrol in
+    section1:
+      primarytype: 'block'
+      uuid: '4f4d8b0f-6fd2-4167-ad70-ad91b68104e0'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.365+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.039+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.365+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Australia, a Philippine ally, was conducting a maritime patrol in
         the disputed waters.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba376222-5fde-4c9c-ad62-1da4547da9a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.365+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.039+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.365+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement on Friday, Feb. 14, the Department of Foreign Affairs
+    section2:
+      primarytype: 'block'
+      uuid: 'ba376222-5fde-4c9c-ad62-1da4547da9a5'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.365+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.039+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.365+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a statement on Friday, Feb. 14, the Department of Foreign Affairs
         (DFA) called out the Chinese People’s Liberation Army - Air Force’s “unsafe
         maneuvers.”</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b37383e-bf87-4772-893c-e34a7b6d7812'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.366+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.040+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.366+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“All countries are expected to respect freedom of navigation and overflight
+    section3:
+      primarytype: 'block'
+      uuid: '8b37383e-bf87-4772-893c-e34a7b6d7812'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.366+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.040+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.366+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“All countries are expected to respect freedom of navigation and overflight
         in and above international sea lines of communication, such as the South China
         Sea, and to avoid interference in legitimate activities conducted in international
         waters and airspace,” the DFA said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1cbf0c6-4d85-4f85-a067-729a66aa7afa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.366+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.040+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.366+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Australia also flagged China’s “unsafe and unprofessional” actions.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5f98db1-0a2d-485c-b3f4-7b5bdb09fc84'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.366+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.041+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.366+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><a href="https://www.newswatchplus.ph/news/2025/2/14/china-australia-provocation-south-china-sea.html"><strong>China
+    section4:
+      primarytype: 'block'
+      uuid: 'e1cbf0c6-4d85-4f85-a067-729a66aa7afa'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.366+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.040+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.366+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Australia also flagged China’s “unsafe and unprofessional” actions.</p>'
+    section5:
+      primarytype: 'block'
+      uuid: 'a5f98db1-0a2d-485c-b3f4-7b5bdb09fc84'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.366+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.041+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.366+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><a href="https://www.newswatchplus.ph/news/2025/2/14/china-australia-provocation-south-china-sea.html"><strong>China
         argued</strong></a> that Australia’s maritime patrol was a provocation.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f348d75-0348-4018-9a26-95cefc91b639'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T10:21:22.367+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:14.041+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T10:21:22.367+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In 2016, the Permanent Court of Arbitration invalidated China’s
+    section6:
+      primarytype: 'block'
+      uuid: '4f348d75-0348-4018-9a26-95cefc91b639'
+      activationstatus: true
+      created: 2025-02-15T10:21:22.367+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:14.041+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T10:21:22.367+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In 2016, the Permanent Court of Arbitration invalidated China’s
         sweeping claims in the South China Sea but it refused to recognize the decision.</p>'
-  'cashless-expressway-toll-march-15':
-    'caption': 'Toll expressway (File photo)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T11:02:18.000+08:00
-    'imagesource': 'jcr:a0f7eda7-5165-4980-8740-e0b3d82b9792'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '36b73b22-cc1e-4ea2-a757-914bb65b8ae2'
-    'lead': 'Major toll expressways will implement cashless transactions again starting
+  'START HERE----->cashless-expressway-toll-march-15':
+    caption: 'Toll expressway (File photo)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T11:02:18.000+08:00
+    imagesource: 'a0f7eda7-5165-4980-8740-e0b3d82b9792'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '36b73b22-cc1e-4ea2-a757-914bb65b8ae2'
+    lead: 'Major toll expressways will implement cashless transactions again starting
       March 15, the Toll Regulatory Board announced.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T11:05:13.571+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:13.822+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:38.672+08:00
-    'mgnl:lastModified': 2025-02-15T11:05:13.592+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Toll expressways go cashless anew starting March 15'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7cd71a4f-b9a2-44e1-b71a-6c592529afba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.583+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.825+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.583+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Major toll expressways
+    activationstatus: true
+    created: 2025-02-15T11:05:13.571+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:13.822+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:38.672+08:00
+    lastmodified: 2025-02-15T11:05:13.592+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Toll expressways go cashless anew starting March 15'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7cd71a4f-b9a2-44e1-b71a-6c592529afba'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.583+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.825+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.583+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Major toll expressways
         will implement cashless transactions again starting March 15, the Toll Regulatory
         Board (TRB) announced on Saturday, Feb. 15.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4001e55f-b864-41e9-a8ba-e01be227233b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.583+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.825+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.583+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The contactless toll payment was first implemented in 2020 at the
+    section1:
+      primarytype: 'block'
+      uuid: '4001e55f-b864-41e9-a8ba-e01be227233b'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.583+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.825+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.583+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The contactless toll payment was first implemented in 2020 at the
         height of the COVID-19 pandemic. It was suspended due to operational issues.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a27f47f4-c4d2-4b06-a37c-fcfa058ee379'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.584+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.826+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.584+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The re-implementation comes after months of cashless transaction
+    section2:
+      primarytype: 'block'
+      uuid: 'a27f47f4-c4d2-4b06-a37c-fcfa058ee379'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.584+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.826+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.584+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The re-implementation comes after months of cashless transaction
         program dry-run.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '661ca249-1754-4355-b0e1-64055cd22e79'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.584+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.827+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.584+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“It has been observed that the dedicated toll lanes used by cash
+    section3:
+      primarytype: 'block'
+      uuid: '661ca249-1754-4355-b0e1-64055cd22e79'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.584+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.827+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.584+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“It has been observed that the dedicated toll lanes used by cash
         paying motorists are usually congested with long lines of motor vehicles,
         and the same often hamper the fast and efficient flow of traffic leading to
         the ETC (electronic toll collection) designated lanes,” the TRB said in a
         statement.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31d02bba-c1a1-46fa-bd11-7931bbbcd77a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.585+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.827+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.585+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“It is expected that a better and more efficient flow of traffic will
+    section4:
+      primarytype: 'block'
+      uuid: '31d02bba-c1a1-46fa-bd11-7931bbbcd77a'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.585+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.827+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.585+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“It is expected that a better and more efficient flow of traffic will
         result once these lanes are strictly used for ETC only,” it added.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1d8a2321-2061-4776-8a18-e0454160a020'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.585+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.828+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.585+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Motorists passing along toll expressways must have an ETC device or
+    section5:
+      primarytype: 'block'
+      uuid: '1d8a2321-2061-4776-8a18-e0454160a020'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.585+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.828+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.585+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Motorists passing along toll expressways must have an ETC device or
         radio frequency identification (RFID) sticker installed on their vehicles.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c9b5547-d82a-4f9c-bf05-632a3bb72f25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.585+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.828+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.585+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Those who will enter expressways without a valid ETC device or RFID
+    section6:
+      primarytype: 'block'
+      uuid: '1c9b5547-d82a-4f9c-bf05-632a3bb72f25'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.585+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.828+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.585+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Those who will enter expressways without a valid ETC device or RFID
         sticker will still be allowed to enter the toll lane and will be installed
         with one. They will receive a temporary operator’s permit or a show cause
         order for violation of the “No Valid ETC Device, No Entry” Policy.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e135e9b8-b50b-4052-ab12-113075ef8121'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T11:05:13.586+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.829+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T11:05:13.586+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The TRB encouraged motorists to have installed RFIDs. Installation
+    section7:
+      primarytype: 'block'
+      uuid: 'e135e9b8-b50b-4052-ab12-113075ef8121'
+      activationstatus: true
+      created: 2025-02-15T11:05:13.586+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.829+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T11:05:13.586+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The TRB encouraged motorists to have installed RFIDs. Installation
         and loading stations are available in and out of expressways.</p>'
-  'quezon-city-declares-dengue-outbreak':
-    'caption': 'Mosquitoes (Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T13:26:37.000+08:00
-    'imagesource': 'jcr:e8c1898f-b3df-467f-8eec-a079da8dcb09'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '18e64a61-a643-44ff-99ef-fbbec1a0f3fe'
-    'lead': 'The Quezon City government declared a dengue outbreak on Saturday, Feb.
+  'START HERE----->quezon-city-declares-dengue-outbreak':
+    caption: 'Mosquitoes (Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T13:26:37.000+08:00
+    imagesource: 'e8c1898f-b3df-467f-8eec-a079da8dcb09'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '18e64a61-a643-44ff-99ef-fbbec1a0f3fe'
+    lead: 'The Quezon City government declared a dengue outbreak on Saturday, Feb.
       15.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T13:30:42.781+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:13.558+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:38.796+08:00
-    'mgnl:lastModified': 2025-02-15T14:18:17.004+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'QC declares dengue outbreak'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '440e147d-fa25-4898-85b8-f7932ca0de0e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T13:30:42.795+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.561+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.998+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Quezon City government
+    activationstatus: true
+    created: 2025-02-15T13:30:42.781+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:13.558+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:38.796+08:00
+    lastmodified: 2025-02-15T14:18:17.004+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'QC declares dengue outbreak'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '440e147d-fa25-4898-85b8-f7932ca0de0e'
+      activationstatus: true
+      created: 2025-02-15T13:30:42.795+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.561+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.998+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Quezon City government
         declared a dengue outbreak on Saturday, Feb. 15.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90d4cf92-b557-47b8-bb36-9d5d87f32bd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T13:30:42.795+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.562+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.999+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Ten people, including eight minors, in the city have died due to
+    section1:
+      primarytype: 'block'
+      uuid: '90d4cf92-b557-47b8-bb36-9d5d87f32bd5'
+      activationstatus: true
+      created: 2025-02-15T13:30:42.795+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.562+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.999+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Ten people, including eight minors, in the city have died due to
         the mosquito-borne disease this year, based on the record of the local government’s
         Epidemiology and Surveillance Division.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f7c1c80-0bf1-46b9-b41b-bec38212f1e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.986+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.563+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.986+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Our declaration of a dengue outbreak ensures that we are on top of
+    section4:
+      primarytype: 'block'
+      uuid: '9f7c1c80-0bf1-46b9-b41b-bec38212f1e8'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.986+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.563+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.986+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Our declaration of a dengue outbreak ensures that we are on top of
         the situation, and we are doing everything we can to protect our residents
         from this deadly disease, especially our children," said Mayor Joy Belmonte.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '285c115c-279b-49b9-89df-0f3c629ba4b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.987+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.564+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.987+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Mga bata ang karamihan sa mga nagiging biktima ng nakamamatay na sakit
+    section5:
+      primarytype: 'block'
+      uuid: '285c115c-279b-49b9-89df-0f3c629ba4b9'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.987+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.564+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.987+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Mga bata ang karamihan sa mga nagiging biktima ng nakamamatay na sakit
         na ito,” she added. “Maging alerto tayo sa mga nararamdaman ng ating anak
         at manguna sa mga clean-up drive sa ating mga komunidad.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be2d096a-ed2a-4ebf-aa5a-dc8f0ce3d6be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.987+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.564+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.987+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Children are mostly the victims of this deadly disease.
+    section6:
+      primarytype: 'block'
+      uuid: 'be2d096a-ed2a-4ebf-aa5a-dc8f0ce3d6be'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.987+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.564+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.987+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: Children are mostly the victims of this deadly disease.
         Let us be on alert for what our child feels and lead clean-up drives in our
         communities.]'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '987dccd1-c1b4-40c0-b581-73c3dce0af3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.988+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.565+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.988+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The city government data showed 1,769 dengue cases have been logged
+    section7:
+      primarytype: 'block'
+      uuid: '987dccd1-c1b4-40c0-b581-73c3dce0af3f'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.988+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.565+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.988+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The city government data showed 1,769 dengue cases have been logged
         from Jan. 1 to Feb. 14, almost 200 percent higher than the past year.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b198e3a-4491-4092-95c3-b70f7708ffc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.988+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.566+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.988+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Most cases involve 5- to 17-year olds.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8040462c-daf6-4103-a551-c34e49fae9f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.989+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.567+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.989+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'All health centers in Quezon City will be open during weekends from
+    section8:
+      primarytype: 'block'
+      uuid: '8b198e3a-4491-4092-95c3-b70f7708ffc5'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.988+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.566+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.988+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Most cases involve 5- to 17-year olds.'
+    section9:
+      primarytype: 'block'
+      uuid: '8040462c-daf6-4103-a551-c34e49fae9f7'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.989+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.567+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.989+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'All health centers in Quezon City will be open during weekends from
         8 a.m. to 5 p.m. to attend to possible dengue patients.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '422f24f6-74b0-4362-9846-87de275e6abb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T14:18:16.989+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.567+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:16.989+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>An express lane for fever, one of dengue symptoms, was also installed
+    section10:
+      primarytype: 'block'
+      uuid: '422f24f6-74b0-4362-9846-87de275e6abb'
+      activationstatus: true
+      created: 2025-02-15T14:18:16.989+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.567+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:16.989+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>An express lane for fever, one of dengue symptoms, was also installed
         in the health centers and hospitals to prioritize patients with a high temperature.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ff33f5f-cde7-48e5-b90c-424426599d30'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T13:30:42.796+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.568+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:17.002+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Other symptoms of dengue are headache, vomiting, rashes, fatigue,
+    section2:
+      primarytype: 'block'
+      uuid: '1ff33f5f-cde7-48e5-b90c-424426599d30'
+      activationstatus: true
+      created: 2025-02-15T13:30:42.796+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.568+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:17.002+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Other symptoms of dengue are headache, vomiting, rashes, fatigue,
         painful throat, and nose bleeding.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2513c9ca-5101-4894-8872-b0d4f7a98bb2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T13:30:42.796+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.568+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T14:18:17.002+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Belmonte called on residents to immediately seek consultation if
+    section3:
+      primarytype: 'block'
+      uuid: '2513c9ca-5101-4894-8872-b0d4f7a98bb2'
+      activationstatus: true
+      created: 2025-02-15T13:30:42.796+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.568+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T14:18:17.002+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Belmonte called on residents to immediately seek consultation if
         they experience symptoms to avoid aggravation and potential death.</p>'
-  '3-israeli-hostages-to-return':
-    'author': 'Nidal al-Mughrabi, Maayan Lubell, and Menna AlaaElDin, Reuters'
-    'caption': 'A freed Palestinian prisoner is greeted after being released from
+  'START HERE----->3-israeli-hostages-to-return':
+    author: 'Nidal al-Mughrabi, Maayan Lubell, and Menna AlaaElDin, Reuters'
+    caption: 'A freed Palestinian prisoner is greeted after being released from
       an Israeli jail as part of a hostages-prisoners swap and a ceasefire deal in
       Gaza between Hamas and Israel, in Ramallah, in the Israeli-occupied West Bank,
       February 15, 2025. (Mohammed Torokman/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T15:28:10.000+08:00
-    'imagesource': 'jcr:8ce01a55-40ab-410d-bd1d-40d70eb839b7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6e33f37b-10bc-4c9d-975e-b4c9a058b266'
-    'lead': 'Israeli hostages Iair Horn, Sagui Dekel-Chen and Sasha (Alexander) Troufanov
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T15:28:10.000+08:00
+    imagesource: '8ce01a55-40ab-410d-bd1d-40d70eb839b7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6e33f37b-10bc-4c9d-975e-b4c9a058b266'
+    lead: 'Israeli hostages Iair Horn, Sagui Dekel-Chen and Sasha (Alexander) Troufanov
       were freed in Gaza on Saturday and Israel began releasing some 369 Palestinian
       prisoners and detainees in exchange, after mediators helped avert a ceasefire
       collapse.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T15:35:16.593+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:13.268+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:38.968+08:00
-    'mgnl:lastModified': 2025-02-15T18:08:53.826+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Three Israeli hostages freed in Gaza, Israel begins releasing 369 Palestinians
+    activationstatus: true
+    created: 2025-02-15T15:35:16.593+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:13.268+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:38.968+08:00
+    lastmodified: 2025-02-15T18:08:53.826+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Three Israeli hostages freed in Gaza, Israel begins releasing 369 Palestinians
       in exchange'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8094165a-ac67-4576-8880-b2e88b476ae2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T15:35:16.606+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.271+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.811+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Cairo, Egypt/Jerusalem, Israel -</strong> Israeli hostages
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8094165a-ac67-4576-8880-b2e88b476ae2'
+      activationstatus: true
+      created: 2025-02-15T15:35:16.606+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.271+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.811+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Cairo, Egypt/Jerusalem, Israel -</strong> Israeli hostages
         Iair Horn, Sagui Dekel-Chen and Sasha (Alexander) Troufanov were freed in
         Gaza on Saturday and Israel began releasing some 369 Palestinian prisoners
         and detainees in exchange, after mediators helped avert a ceasefire collapse.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cebb8ef8-c601-4764-842a-8f0300c6c2d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.312+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.271+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.811+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The three Israelis were led onto a stage with Palestinian Hamas
+    section1:
+      primarytype: 'block'
+      uuid: 'cebb8ef8-c601-4764-842a-8f0300c6c2d4'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.312+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.271+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.811+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The three Israelis were led onto a stage with Palestinian Hamas
         militants armed with automatic rifles standing on each side of them at the
         site in Khan Younis, live footage showed, before they were taken into Israel
         by Israeli forces.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9e6143d2-723e-4436-b5fb-92c71007a222'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.312+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.272+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.812+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Shortly afterwards, the first bus carrying freed Palestinian prisoners
+    section2:
+      primarytype: 'block'
+      uuid: '9e6143d2-723e-4436-b5fb-92c71007a222'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.312+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.272+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.812+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Shortly afterwards, the first bus carrying freed Palestinian prisoners
         and detainees departed Israel’s Ofer jail in the Israeli-occupied West Bank,
         live footage showed. The bus arrived in Ramallah to a cheering crowd, some
         waving Palestinian flags.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6fbbaa58-d254-49b0-a85c-08e22e976869'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.313+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.273+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.812+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The swap of the three Israelis forthe 369 Palestinians eased fears
+    section3:
+      primarytype: 'block'
+      uuid: '6fbbaa58-d254-49b0-a85c-08e22e976869'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.313+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.273+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.812+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The swap of the three Israelis forthe 369 Palestinians eased fears
         that the ceasefire agreement could collapse before the end of the 42-day first
         stage of a ceasefire deal in effect since January 19.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '40546cb1-2b61-44b0-8fab-114698d76b7b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.313+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.273+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.813+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In what has become known as Hostage Square in Tel Aviv, people broke
+    section4:
+      primarytype: 'block'
+      uuid: '40546cb1-2b61-44b0-8fab-114698d76b7b'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.313+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.273+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.813+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In what has become known as Hostage Square in Tel Aviv, people broke
         into cheers and tears when they heard the Red Cross was on its way to deliver
         the three to Israeli military forces in the Gaza Strip.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '61bf1aa3-e413-435a-b735-394b0c413fc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.314+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.274+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.814+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'They appeared relieved to see that the trio was in apparently better
+    section5:
+      primarytype: 'block'
+      uuid: '61bf1aa3-e413-435a-b735-394b0c413fc5'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.314+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.274+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.814+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'They appeared relieved to see that the trio was in apparently better
         physical condition than another three freed last week who appeared emaciated
         and weak.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ea41a36-ab00-4876-ae48-8412d4192eaf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.314+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.275+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.814+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Residents of Israeli kibbutz communities near the Gaza border lined
+    section6:
+      primarytype: 'block'
+      uuid: '6ea41a36-ab00-4876-ae48-8412d4192eaf'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.314+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.275+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.814+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Residents of Israeli kibbutz communities near the Gaza border lined
         the road cheering and waving Israeli flags as the vehicles carrying the hostages
         out of Gaza passed by.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a4c08d9-eb96-4cf5-93f8-503ac14f27d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.315+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.275+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.815+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Dekel-Chen, a U.S.-Israeli, Troufanov, a Russian Israeli, and Horn,
+    section7:
+      primarytype: 'block'
+      uuid: '8a4c08d9-eb96-4cf5-93f8-503ac14f27d4'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.315+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.275+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.815+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Dekel-Chen, a U.S.-Israeli, Troufanov, a Russian Israeli, and Horn,
         whose brother Eitan was also abducted, were seized in Kibbutz Nir Oz, one
         of the communities around the Gaza Strip that was overrun by Hamas gunmen
         on October 7, 2023.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16b3d70b-b9e0-493f-8e07-2bd4ed711af2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.315+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.276+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.815+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Some of the dozens of masked Islamist Hamas fighters deployed at
+    section8:
+      primarytype: 'block'
+      uuid: '16b3d70b-b9e0-493f-8e07-2bd4ed711af2'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.315+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.276+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.815+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Some of the dozens of masked Islamist Hamas fighters deployed at
         the handover site carried rifles seized from the Israeli military during the
         October attack, Hamas sources said.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '050c8425-e9cd-4aa4-991a-0eb72379c40b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.315+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.276+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.816+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On the handover stage in Khan Younis, the hostages were made to
+    section9:
+      primarytype: 'block'
+      uuid: '050c8425-e9cd-4aa4-991a-0eb72379c40b'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.315+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.276+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.816+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>On the handover stage in Khan Younis, the hostages were made to
         give short statements in Hebrew and militants presented one of them, Iair
         Horn, with an hourglass and photo of another Israeli hostage still in Gaza
         and his mother, reading "time is running out (for the hostages still in Gaza)."</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bf5adf2-6ca5-4dfa-8765-3b3267bb05c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.316+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.277+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.816+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Troufanov was abducted with his mother, grandmother and girlfriend
+    section10:
+      primarytype: 'block'
+      uuid: '7bf5adf2-6ca5-4dfa-8765-3b3267bb05c4'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.316+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.277+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.816+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Troufanov was abducted with his mother, grandmother and girlfriend
         - all of whom were released in the brief November 2023 truce. His father was
         killed in the attack on Nir Oz, one of the worst-hit communities, where one
         in four people either died or were taken hostage.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '05cfcbcb-7c6f-4a6b-858d-5f1067fe4d04'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.316+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.278+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.817+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'On October 7, Dekel-Chen, 36, left his pregnant wife and two little
+    section11:
+      primarytype: 'block'
+      uuid: '05cfcbcb-7c6f-4a6b-858d-5f1067fe4d04'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.316+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.278+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.817+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'On October 7, Dekel-Chen, 36, left his pregnant wife and two little
         daughters in the family safe room to go out and fight the gunmen rampaging
         through the kibbutz. With his release, he will meet his youngest daughter
         for the first time.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '58986bf4-febe-42a2-8247-7cc2efa3da52'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.317+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.278+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.817+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Argentina-born Horn, 46, who managed the Nir Oz pub, was taken captive
+    section12:
+      primarytype: 'block'
+      uuid: '58986bf4-febe-42a2-8247-7cc2efa3da52'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.317+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.278+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.817+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Argentina-born Horn, 46, who managed the Nir Oz pub, was taken captive
         together with his younger brother Eitan who was visiting that day. Horn appeared
         to have lost considerable weight in captivity.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e700f643-df59-4c10-80af-d60fe27240e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.317+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.279+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.818+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Now, we can breathe a little. Our Iair is home after surviving hell
+    section13:
+      primarytype: 'block'
+      uuid: 'e700f643-df59-4c10-80af-d60fe27240e4'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.317+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.279+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.818+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Now, we can breathe a little. Our Iair is home after surviving hell
         in Gaza. Now, we need to bring Eitan back so our family can truly breathe,"
         Horn’s family said in a statement.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a595fca5-6371-40e2-877d-e7f24a1f0cd7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.318+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.280+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.818+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Nineteen Israeli and five Thai hostages have been released so far,
+    section14:
+      primarytype: 'block'
+      uuid: 'a595fca5-6371-40e2-877d-e7f24a1f0cd7'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.318+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.280+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.818+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Nineteen Israeli and five Thai hostages have been released so far,
         with 73 still in captivity, around half of whom have been declared dead in
         absentia by Israeli authorities.</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72d35618-0903-4d47-ad1b-f89d20a7d279'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.318+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.280+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.819+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Threats</strong></h2>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfb22bdf-7dc6-4323-a8dc-4d1cf720f22c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.319+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.281+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.819+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Hamas had earlier threatened not to release more hostages after
+    section15:
+      primarytype: 'block'
+      uuid: '72d35618-0903-4d47-ad1b-f89d20a7d279'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.318+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.280+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.819+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<h2><strong>Threats</strong></h2>'
+    section16:
+      primarytype: 'block'
+      uuid: 'cfb22bdf-7dc6-4323-a8dc-4d1cf720f22c'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.319+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.281+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.819+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Hamas had earlier threatened not to release more hostages after
         it accused Israel of violating the terms of the ceasefire by blocking aid
         from entering Gaza, drawing counterthreats of a resumption of fighting from
         Israel, which called up reservists and placed its forces on high alert.</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bec1b366-d79f-45f0-81b2-c2e0fe95e941'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.319+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.281+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.820+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The emaciated appearance of the three hostages freed last week and
+    section17:
+      primarytype: 'block'
+      uuid: 'bec1b366-d79f-45f0-81b2-c2e0fe95e941'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.319+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.281+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.820+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The emaciated appearance of the three hostages freed last week and
         accounts of abuse by other hostages released since January 19 when the truce
         took effect have set off Israeli protests demanding the government stick to
         the ceasefire and pursue the next stage to bring all remaining hostages home.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b3046763-d965-4c48-a4d8-8a92e96652e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.320+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.282+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.821+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an apparent effort to head off some of the criticism of hostage
+    section18:
+      primarytype: 'block'
+      uuid: 'b3046763-d965-4c48-a4d8-8a92e96652e8'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.320+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.282+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.821+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'In an apparent effort to head off some of the criticism of hostage
         mistreatment, Islamic Jihad, the militant group that is allied with Hamas
         and held Troufanov, released a video of him on Friday, showing him eating
         and fishing at the Gaza beach.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ad259034-07f7-40a0-aa1e-4ed10e0db3e5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.320+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.283+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.821+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Prospects for the ceasefire surviving have also been clouded by
+    section19:
+      primarytype: 'block'
+      uuid: 'ad259034-07f7-40a0-aa1e-4ed10e0db3e5'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.320+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.283+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.821+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Prospects for the ceasefire surviving have also been clouded by
         US President Donald Trump’s call for Palestinians to be moved permanently
         out of Gaza, and for the enclave to be turned over to the US to be redeveloped.
         That call was flatly rejected by Palestinian groups, Arab states and Western
         allies.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51657924-be34-49b9-bae0-08dcd1e9d22a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.321+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.283+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.822+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Hamas agreed last month to hand over 33 Israeli hostages, including
+    section20:
+      primarytype: 'block'
+      uuid: '51657924-be34-49b9-bae0-08dcd1e9d22a'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.321+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.283+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.822+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Hamas agreed last month to hand over 33 Israeli hostages, including
         women, children and sick, wounded and older men, in return for hundreds of
         Palestinian prisoners and detainees, during a six-week truce during which
         Israeli forces would pull back from some of their positions in Gaza.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6e48c88-83ac-486d-b3d7-4c253b802459'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.321+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.284+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.822+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Before Saturday, 16 of the 33 Israeli hostages had been returned,
+    section21:
+      primarytype: 'block'
+      uuid: 'c6e48c88-83ac-486d-b3d7-4c253b802459'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.321+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.284+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.822+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Before Saturday, 16 of the 33 Israeli hostages had been returned,
         along with five Thais who were handed over in an unscheduled release. That
         left 76 hostages still in Gaza, only around half of whom are thought to be
         alive.</p>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1f571f55-b4d3-4118-a411-ca6d90d0b50f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.322+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.285+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.823+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The truce was intended to open the way for a second phase of negotiations
+    section22:
+      primarytype: 'block'
+      uuid: '1f571f55-b4d3-4118-a411-ca6d90d0b50f'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.322+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.285+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.823+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The truce was intended to open the way for a second phase of negotiations
         to return remaining hostages and complete the withdrawal of Israeli forces
         before a final end to the war and the rebuilding of Gaza, which now lies largely
         in ruins, facing shortages of food, running water and electricity.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41c57619-20a7-411e-b870-015102cd6362'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.322+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.285+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.823+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel invaded the coastal enclave after the Hamas-led attack on communities
+    section23:
+      primarytype: 'block'
+      uuid: '41c57619-20a7-411e-b870-015102cd6362'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.322+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.285+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.823+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Israel invaded the coastal enclave after the Hamas-led attack on communities
         in Israel on October 7, 2023, killing about 1,200 people, according to Israeli
         tallies, and taking 251 as hostages.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '368633ab-a361-4f94-846c-36c7fa1c17e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.323+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.286+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.824+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Israeli military campaign that followed has killed more than 48,000
+    section24:
+      primarytype: 'block'
+      uuid: '368633ab-a361-4f94-846c-36c7fa1c17e7'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.323+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.286+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.824+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Israeli military campaign that followed has killed more than 48,000
         Palestinians in Gaza, according to Palestinian health ministry figures, destroyed
         many of its buildings and left most of the population homeless.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a77fdce2-5ab1-4c59-9552-a598cb735abe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:55:33.324+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:13.286+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:08:53.824+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by James Mackenzie, Addional reporting by Nuha Sharaf
+    section25:
+      primarytype: 'block'
+      uuid: 'a77fdce2-5ab1-4c59-9552-a598cb735abe'
+      activationstatus: true
+      created: 2025-02-15T17:55:33.324+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:13.286+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:08:53.824+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by James Mackenzie, Addional reporting by Nuha Sharaf
         in Jerusalem and Yigal Elimelech in Tel Aviv, Writing by Michael Georgy, Editing
         by Timothy Heritage and Edwina Gibbs, Kirsten Donovan)</em></p>'
-  'lawmakers-hit-rodrigo-duterte-kill-remark':
-    'author': 'Daniza Fernandez, NewsWatch Plus'
-    'caption': 'Former President Rodrigo Duterte (Rody Duterte/Facebook)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T17:03:12.000+08:00
-    'imagesource': 'jcr:9d81e3ab-6b54-4ea5-ba69-b82f67eda31e'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1ab567ab-4aa5-4948-b37f-9adffab0fe96'
-    'lead': 'House lawmakers have urged the National Bureau of Investigation to review
+  'START HERE----->lawmakers-hit-rodrigo-duterte-kill-remark':
+    author: 'Daniza Fernandez, NewsWatch Plus'
+    caption: 'Former President Rodrigo Duterte (Rody Duterte/Facebook)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T17:03:12.000+08:00
+    imagesource: '9d81e3ab-6b54-4ea5-ba69-b82f67eda31e'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '1ab567ab-4aa5-4948-b37f-9adffab0fe96'
+    lead: 'House lawmakers have urged the National Bureau of Investigation to review
       former President Rodrigo Duterte’s remark about killing senators to make way
       for the candidates he supports. But his allies in the Senate downplayed his
       statement.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T17:10:19.489+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:12.735+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.204+08:00
-    'mgnl:lastModified': 2025-02-16T12:44:00.122+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': ['House-of-Representatives', 'Rodrigo-Duterte']
-    'stories': []
-    'template': '1'
-    'title': 'House lawmakers urge NBI to review Duterte’s ‘kill senators’ remark'
-    'updated': 2025-02-16T12:38:36.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f12016c8-7ee8-4f29-b026-b6ba34234f25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:10:19.523+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.737+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.112+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> House lawmakers are
+    activationstatus: true
+    created: 2025-02-15T17:10:19.489+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:12.735+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.204+08:00
+    lastmodified: 2025-02-16T12:44:00.122+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'House lawmakers urge NBI to review Duterte’s ‘kill senators’ remark'
+    updated: 2025-02-16T12:38:36.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f12016c8-7ee8-4f29-b026-b6ba34234f25'
+      activationstatus: true
+      created: 2025-02-15T17:10:19.523+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.737+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.112+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> House lawmakers are
         urging the National Bureau of Investigation (NBI) to look into former President
         Rodrigo Duterte’s remark about killing senators.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15287c08-8d8b-49ea-96af-4b8fd3902922'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.090+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.738+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.112+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte, during the Partido Demokratiko Pilipino - Lakas ng Bayan
+    section1:
+      primarytype: 'block'
+      uuid: '15287c08-8d8b-49ea-96af-4b8fd3902922'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.090+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.738+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.112+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Duterte, during the Partido Demokratiko Pilipino - Lakas ng Bayan
         (PDP-Laban) <a href="https://www.newswatchplus.ph/news/2025/2/14/pdp-laban-proclamation-highlights.html"><strong>proclamation
         rally</strong></a>, said senators should be killed to create vacant seats
         for the candidates he supports.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91fcc912-bf3b-44e9-b658-af9889ce7ad9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.090+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.739+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.090+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In separate statements on Sunday, Feb. 16, House Assistant Majority
+    section2:
+      primarytype: 'block'
+      uuid: '91fcc912-bf3b-44e9-b658-af9889ce7ad9'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.090+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.739+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.090+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In separate statements on Sunday, Feb. 16, House Assistant Majority
         Leaders Zia Adiong and Jay Khonghun said the NBI should review the remark,
         similar to its investigation into the former chief executive’s daughter,
         Vice President Sara Duterte.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ee7eef2-c42d-4691-921a-2e4857d7d067'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.091+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.739+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.091+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“In a democracy, words have power—especially when they come from someone
+    section3:
+      primarytype: 'block'
+      uuid: '4ee7eef2-c42d-4691-921a-2e4857d7d067'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.091+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.739+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.091+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“In a democracy, words have power—especially when they come from someone
         who has held the highest office in the land. If certain statements warrant
         legal scrutiny, it is imperative that all similar declarations be assessed
         fairly and consistently,” Adiong said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0507bc0-058a-4c36-916c-f06f50cadcff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.091+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.740+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.091+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Pareho silang mag-ama. Dapat siguro, kasuhan din ang dating Pangulong
+    section4:
+      primarytype: 'block'
+      uuid: 'c0507bc0-058a-4c36-916c-f06f50cadcff'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.091+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.740+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.091+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Pareho silang mag-ama. Dapat siguro, kasuhan din ang dating Pangulong
         Duterte sa ginagawa niyang pananakot,” said Khonghun.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a56edba-44d4-4114-acc1-516976963b92'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.091+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.741+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.091+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: The Duterte father and daughter are the same. I think
+    section5:
+      primarytype: 'block'
+      uuid: '7a56edba-44d4-4114-acc1-516976963b92'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.091+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.741+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.091+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: The Duterte father and daughter are the same. I think
         former President Duterte should be charged for his threat.]'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5d3cf9d-447c-4d3c-82ef-9a6f2e915b8b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.092+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.741+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.092+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>House Assistant Majority Leader Jude Acidre earlier pointed out
+    section6:
+      primarytype: 'block'
+      uuid: 'f5d3cf9d-447c-4d3c-82ef-9a6f2e915b8b'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.092+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.741+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.092+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>House Assistant Majority Leader Jude Acidre earlier pointed out
         that publicly threatening government officials may be considered inciting
         to sedition or grave threats.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80541154-a380-4f8c-9d7c-29a1fa717149'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.092+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.742+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.092+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Hindi puwedeng balewalain ito kasi nagdadala ito ng tunay na banta
+    section7:
+      primarytype: 'block'
+      uuid: '80541154-a380-4f8c-9d7c-29a1fa717149'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.092+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.742+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.092+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Hindi puwedeng balewalain ito kasi nagdadala ito ng tunay na banta
         sa seguridad, at napipilitan ang gobyerno na gumastos ng pondo at magpakilos
         ng pulis at militar para tugunan ang banta, kahit pa sinasabi nilang biro
         lang ito,” Acidre stated.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '87154742-c4be-40cc-b266-77dc0340a398'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.093+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.742+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.093+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: This should not be taken lightly because it threatens
+    section8:
+      primarytype: 'block'
+      uuid: '87154742-c4be-40cc-b266-77dc0340a398'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.093+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.742+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.093+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: This should not be taken lightly because it threatens
         our security, and our government is forced to allot funds to mobilize the
         police and military to address threats, even if you say these are just jokes.]'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '090af771-9549-46b9-92c0-46392c72f363'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.093+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.743+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.093+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Justice Department has been reviewing the <a href="https://www.newswatchplus.ph/news/2025/2/12/nbi-incitement-to-sedition-grave-threat-complaints-duterte.html"><strong>NBI’s
+    section9:
+      primarytype: 'block'
+      uuid: '090af771-9549-46b9-92c0-46392c72f363'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.093+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.743+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.093+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Justice Department has been reviewing the <a href="https://www.newswatchplus.ph/news/2025/2/12/nbi-incitement-to-sedition-grave-threat-complaints-duterte.html"><strong>NBI’s
         recommendation</strong></a> to file complaints of inciting to sedition and
         grave threats against the vice president after she <a href="https://www.newswatchplus.ph/news/2024/11/23/sara-threats-marcos.html"><strong>threatened</strong></a>
         the lives of President Ferdinand Marcos Jr., First Lady Liza Marcos, and House
         Speaker Martin Romualdez.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a97d9807-d015-4765-82cb-fed4d6274e05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.094+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.744+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.094+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'House Assistant Majority Leader Pammy Zamora and House Deputy Majority
+    section10:
+      primarytype: 'block'
+      uuid: 'a97d9807-d015-4765-82cb-fed4d6274e05'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.094+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.744+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.094+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'House Assistant Majority Leader Pammy Zamora and House Deputy Majority
         Leader Paolo Ortega V, meanwhile, criticized the topic of killing as a joke.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5af23d46-c285-4a49-8d34-fef6823db1f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.094+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.744+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.094+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“We cannot allow our leaders, past or present, to keep making murder
+    section11:
+      primarytype: 'block'
+      uuid: '5af23d46-c285-4a49-8d34-fef6823db1f4'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.094+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.744+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.094+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“We cannot allow our leaders, past or present, to keep making murder
         sound like a policy option,” Zamora said.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '430f5314-571c-4deb-a1a3-361e6ef6c042'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.095+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.745+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.095+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Hindi maka-Pilipino ang ugaling ‘yan. Tayong mga Pilipino, hindi natin
+    section12:
+      primarytype: 'block'
+      uuid: '430f5314-571c-4deb-a1a3-361e6ef6c042'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.095+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.745+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.095+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Hindi maka-Pilipino ang ugaling ‘yan. Tayong mga Pilipino, hindi natin
         ginagawa ‘yan, kasi bad ‘yan,” Ortega said.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '627a12e9-6cc0-42d2-b9c9-46bbf090bc9c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.095+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.746+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.095+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: That attitude is not Filipino-like. Us, Filipinos, we
+    section13:
+      primarytype: 'block'
+      uuid: '627a12e9-6cc0-42d2-b9c9-46bbf090bc9c'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.095+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.746+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.095+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: That attitude is not Filipino-like. Us, Filipinos, we
         do not do that because that is bad.]'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7535960-b29e-4908-b5af-1bc1a7a20fd9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.095+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.746+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.095+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>House Deputy Minority Leader France Castro and Gabriela Women’s
+    section14:
+      primarytype: 'block'
+      uuid: 'a7535960-b29e-4908-b5af-1bc1a7a20fd9'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.095+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.746+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.095+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>House Deputy Minority Leader France Castro and Gabriela Women’s
         Party Rep. Arlene Brosas flagged on Saturday Duterte’s “violent rhetoric.”</p>'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '30ecd49d-c7fe-442e-9982-5d6e7393c8e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.096+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.747+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.096+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"These are not jokes. These statements from former President Duterte
+    section15:
+      primarytype: 'block'
+      uuid: '30ecd49d-c7fe-442e-9982-5d6e7393c8e0'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.096+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.747+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.096+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"These are not jokes. These statements from former President Duterte
         are dangerous and show the true nature of how they view political opposition
         - as targets for elimination. This kind of violent rhetoric has no place in
         a supposed democratic society," Castro said. “Ang mga ganitong pahayag ay
         nagpapakita ng tunay na kulay ng kanilang pamamahala - na mistulang nagpapapatay
         o pumapatay ng sinumang kumakalaban sa kanila.”</p>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ea241a3-ccb9-4710-8ee8-d66dba3fe563'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.096+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.747+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.096+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: These statements show how they handle a government
+    section16:
+      primarytype: 'block'
+      uuid: '1ea241a3-ccb9-4710-8ee8-d66dba3fe563'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.096+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.747+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.096+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: These statements show how they handle a government
         - they seemingly order the killings of whoever challenges them.]</p>'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a880091a-2ce6-4729-879f-d42704d02913'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.097+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.748+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.097+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"Lantaran na pagbabanta at karahasan ang sagot ng mga Duterte sa
+    section17:
+      primarytype: 'block'
+      uuid: 'a880091a-2ce6-4729-879f-d42704d02913'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.097+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.748+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.097+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"Lantaran na pagbabanta at karahasan ang sagot ng mga Duterte sa
         lumalaking panawagan ng mamamayan para sa hustisya at pananagutan. Pero tapos
         na ang panahon ng pananakot. Hindi na tatahimik ang mga Pilipino… The Filipino
         people will not be distracted," Brosas said.</p>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49922ccf-6fec-4289-95ab-6d55447c0f36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.098+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.749+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.098+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>[Translation: Threat and violence are the Dutertes’ response to
+    section18:
+      primarytype: 'block'
+      uuid: '49922ccf-6fec-4289-95ab-6d55447c0f36'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.098+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.749+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.098+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>[Translation: Threat and violence are the Dutertes’ response to
         the growing call of the public for justice and accountability. But the era
         of intimidation has come to an end. Filipinos will not be silenced.]</p>'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4aba1ce7-10f7-439e-8007-f1132dfb8393'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.098+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.749+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.098+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the upper chamber, Senator Risa Hontiveros slammed Duterte’s
+    section19:
+      primarytype: 'block'
+      uuid: '4aba1ce7-10f7-439e-8007-f1132dfb8393'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.098+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.749+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.098+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In the upper chamber, Senator Risa Hontiveros slammed Duterte’s
         remark.</p>'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '199a1d7f-705e-4b62-8e9c-c2ef71122df9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.099+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.750+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.099+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“‘Yung sinabi ni Duterte na pumatay daw ng 15 senador para magbigay-daan
+    section20:
+      primarytype: 'block'
+      uuid: '199a1d7f-705e-4b62-8e9c-c2ef71122df9'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.099+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.750+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.099+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“‘Yung sinabi ni Duterte na pumatay daw ng 15 senador para magbigay-daan
         sa mga kandidato niya, ang talagang dapat patayin o bombahin o ibaba ay ang
         mga presyo ng bilihin,” she said in an ambush interview on the sidelines of
         former Senator Kiko Pangilinan’s campaign on Saturday.</p>'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f30fc461-772c-44d5-9632-0af41ef4e35a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.099+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.750+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.099+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Duterte stated that 15 senators should be killed to make
+    section21:
+      primarytype: 'block'
+      uuid: 'f30fc461-772c-44d5-9632-0af41ef4e35a'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.099+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.750+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.099+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '[Translation: Duterte stated that 15 senators should be killed to make
         way for his candidates. But what should be killed is the prices of goods.]'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7490cbd3-341b-4e67-b819-69056bb2e322'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.100+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.751+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.100+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'But Senators Jinggoy Estrada and Bong Revilla, allies of the former
+    section22:
+      primarytype: 'block'
+      uuid: '7490cbd3-341b-4e67-b819-69056bb2e322'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.100+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.751+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.100+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'But Senators Jinggoy Estrada and Bong Revilla, allies of the former
         president, downplayed the kill remark.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '818aafba-86a1-427c-ae1d-c9f695469b42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.100+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.752+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.100+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Mapagbiro lang talaga si PRRD [Former President Rodrigo Duterte jokes
+    section23:
+      primarytype: 'block'
+      uuid: '818aafba-86a1-427c-ae1d-c9f695469b42'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.100+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.752+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.100+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Mapagbiro lang talaga si PRRD [Former President Rodrigo Duterte jokes
         a lot]. Non issue for me,” said Estrada.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '409ec2c0-cb12-4f0e-8892-8db83cad40c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.101+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.752+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.101+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“Sa tingin ko ay bulaklak lang ng bibig ni FPRRD yan [I think those
+    section24:
+      primarytype: 'block'
+      uuid: '409ec2c0-cb12-4f0e-8892-8db83cad40c4'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.101+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.752+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.101+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“Sa tingin ko ay bulaklak lang ng bibig ni FPRRD yan [I think those
         were just flowery words of Duterte]. That’s just how he expresses himself,”
         Revilla said.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d5b7e1f-1c07-401f-aacc-614189d4beb0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-16T12:44:00.101+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.752+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:44:00.101+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>During his administration, then president Duterte made several pronouncements
+    section25:
+      primarytype: 'block'
+      uuid: '4d5b7e1f-1c07-401f-aacc-614189d4beb0'
+      activationstatus: true
+      created: 2025-02-16T12:44:00.101+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.752+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:44:00.101+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>During his administration, then president Duterte made several pronouncements
         of killings. His anti-drug campaign, which led to tens of thousands of extrajudicial
         killings, has been under scrutiny in the House quad-committee.</p>'
-  'biniverse-world-tour-kickoff':
-    'caption': 'P-Pop girl group BINI (BINI/Instagram)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T18:00:00.000+08:00
-    'imagesource': 'jcr:ca84b4b1-6f5f-4a5a-a515-235aa211847f'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '36f5d861-92b5-41c4-a2ad-179202110c6c'
-    'lead': 'P-Pop girl group BINI kicked off its ''BINIverse World Tour,'' with the
+  'START HERE----->biniverse-world-tour-kickoff':
+    caption: 'P-Pop girl group BINI (BINI/Instagram)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T18:00:00.000+08:00
+    imagesource: 'ca84b4b1-6f5f-4a5a-a515-235aa211847f'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '36f5d861-92b5-41c4-a2ad-179202110c6c'
+    lead: 'P-Pop girl group BINI kicked off its 'BINIverse World Tour,' with the
       Philippine Arena in Bulacan as its first stop on Saturday, Feb. 15.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T17:15:38.882+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:12.253+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.362+08:00
-    'mgnl:lastModified': 2025-02-16T12:54:23.026+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'BINI kicks off ‘BINIverse World Tour’'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9939a7e0-486a-406d-81a5-9a4691cc2738'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:15:38.896+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.255+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:54:23.023+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> P-Pop girl group BINI
+    activationstatus: true
+    created: 2025-02-15T17:15:38.882+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:12.253+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.362+08:00
+    lastmodified: 2025-02-16T12:54:23.026+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'BINI kicks off ‘BINIverse World Tour’'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9939a7e0-486a-406d-81a5-9a4691cc2738'
+      activationstatus: true
+      created: 2025-02-15T17:15:38.896+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.255+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:54:23.023+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> P-Pop girl group BINI
         kicked off its “BINIverse World Tour,” with the Philippine Arena in Bulacan
         as its first stop on Saturday, Feb. 15.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1a53e35-8f9e-40aa-8a21-474bfe14ee9a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:15:38.896+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.256+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:54:23.023+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Manila leg of the concert was officially sold out, the group
+    section1:
+      primarytype: 'block'
+      uuid: 'f1a53e35-8f9e-40aa-8a21-474bfe14ee9a'
+      activationstatus: true
+      created: 2025-02-15T17:15:38.896+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.256+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:54:23.023+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The Manila leg of the concert was officially sold out, the group
         announced on its social media accounts, hours before the highly-anticipated
         show.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4eca103d-89c2-4ec3-a2d1-223133491a97'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:15:38.897+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.256+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:54:23.024+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Two days before the concert, the eight-member girl group treated
+    section2:
+      primarytype: 'block'
+      uuid: '4eca103d-89c2-4ec3-a2d1-223133491a97'
+      activationstatus: true
+      created: 2025-02-15T17:15:38.897+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.256+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:54:23.024+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Two days before the concert, the eight-member girl group treated
         BLOOMs with its new song, “Blink Twice.” As of posting time, the fresh release
         has garnered 2.5 million views on video-sharing platform YouTube.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb0cb148-53b9-4bea-a7e2-7d91ddf8ded0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:15:38.897+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.257+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:54:23.024+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The next stops of the world tour are Dubai, London, and North America.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c37d9c22-2c6f-4f8f-a92c-9d1af1056e88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:15:38.897+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.257+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-16T12:54:23.025+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Salamin, Salamin,” “Pantropiko,” and “Karera” are among BINI’s
+    section3:
+      primarytype: 'block'
+      uuid: 'fb0cb148-53b9-4bea-a7e2-7d91ddf8ded0'
+      activationstatus: true
+      created: 2025-02-15T17:15:38.897+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.257+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:54:23.024+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The next stops of the world tour are Dubai, London, and North America.</p>'
+    section4:
+      primarytype: 'block'
+      uuid: 'c37d9c22-2c6f-4f8f-a92c-9d1af1056e88'
+      activationstatus: true
+      created: 2025-02-15T17:15:38.897+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.257+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-16T12:54:23.025+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Salamin, Salamin,” “Pantropiko,” and “Karera” are among BINI’s
         top hits.</p>'
-  'warning-system-weather-phenomena-ocd':
-    'caption': 'A stock photo of rain (Canva)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T19:00:00.000+08:00
-    'imagesource': 'jcr:7499dfbd-580b-464c-b265-55203a34d4ca'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b1fc550f-02f2-493e-ae40-5499aa0af4f8'
-    'lead': 'The Office of Civil Defense is studying the possibility of creating a
+  'START HERE----->warning-system-weather-phenomena-ocd':
+    caption: 'A stock photo of rain (Canva)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T19:00:00.000+08:00
+    imagesource: '7499dfbd-580b-464c-b265-55203a34d4ca'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b1fc550f-02f2-493e-ae40-5499aa0af4f8'
+    lead: 'The Office of Civil Defense is studying the possibility of creating a
       warning system for weather phenomena, such as shear lines, to boost disaster
       response.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T17:58:56.911+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:12.041+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.469+08:00
-    'mgnl:lastModified': 2025-02-15T17:59:34.639+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Warning system for weather phenomena being studied - OCD'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46551e24-1787-4372-8b94-91994163b97f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.929+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.046+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.636+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Office of Civil
+    activationstatus: true
+    created: 2025-02-15T17:58:56.911+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:12.041+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.469+08:00
+    lastmodified: 2025-02-15T17:59:34.639+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Warning system for weather phenomena being studied - OCD'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '46551e24-1787-4372-8b94-91994163b97f'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.929+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.046+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.636+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Office of Civil
         Defense (OCD) is studying the possibility of creating a warning system for
         weather phenomena, such as shear lines, to boost disaster response.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '896fa707-b86b-4f9f-bcf2-966432ceb3b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.929+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.048+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.636+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a press statement released Saturday, Feb. 15, the OCD said Undersecretary
+    section1:
+      primarytype: 'block'
+      uuid: '896fa707-b86b-4f9f-bcf2-966432ceb3b1'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.929+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.048+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.636+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a press statement released Saturday, Feb. 15, the OCD said Undersecretary
         Ariel Nepomuceno made the recommendation as he noted the impact of the shear
         line.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '220b43d8-3a5c-4162-9503-ff93e53faa60'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.930+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.050+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.637+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"The intention of Usec. Ariel is to craft an alert system that not
+    section2:
+      primarytype: 'block'
+      uuid: '220b43d8-3a5c-4162-9503-ff93e53faa60'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.930+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.050+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.637+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"The intention of Usec. Ariel is to craft an alert system that not
         only informs the public about what is happening but also clearly identifies
         the type of disaster. We want to avoid confusion," OCD spokesperson Director
         Chris Noel Bendijo said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15aa473d-11f7-4211-a54b-05181175a3f6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.930+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.051+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.637+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“The peculiar thing about the shear line is that it can result in cloud
+    section3:
+      primarytype: 'block'
+      uuid: '15aa473d-11f7-4211-a54b-05181175a3f6'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.930+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.051+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.637+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“The peculiar thing about the shear line is that it can result in cloud
         formations that are often confined to a specific area, leading to concentrated
         rainfall. We need to develop a warning system that can effectively alert people
         about these conditions," he added.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc7d965a-ab5e-49d1-93ac-7d90b6c99c94'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.930+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.053+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.638+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Bendijo also shared that they are trying to reach out to the state
+    section4:
+      primarytype: 'block'
+      uuid: 'fc7d965a-ab5e-49d1-93ac-7d90b6c99c94'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.930+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.053+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.638+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Bendijo also shared that they are trying to reach out to the state
         weather bureau regarding the development of a warning system for shear lines.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ac46779-b106-427c-a63b-d2ebfc21c536'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.931+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.054+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.638+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also stressed the need to align the country’s infrastructure to
+    section5:
+      primarytype: 'block'
+      uuid: '8ac46779-b106-427c-a63b-d2ebfc21c536'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.931+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.054+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.638+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'He also stressed the need to align the country’s infrastructure to
         the “new normal” of increased rainfall.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d3b6feb-5dc4-4d95-bf62-aa91cfb7286c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T17:58:56.931+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:12.054+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T17:59:34.639+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Lately, shear lines have brought heavy rains to parts of the country,
+    section6:
+      primarytype: 'block'
+      uuid: '2d3b6feb-5dc4-4d95-bf62-aa91cfb7286c'
+      activationstatus: true
+      created: 2025-02-15T17:58:56.931+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:12.054+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T17:59:34.639+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Lately, shear lines have brought heavy rains to parts of the country,
         causing floods and even <a href="https://www.newswatchplus.ph/news/2025/1/4/5-dead-shear-line-itcz.html"><strong>fatalities</strong></a>.</p>'
-  'un-dialogue-must-begin-congo':
-    'author': 'Reuters'
-    'caption': 'One of several people in military clothing speaks to a gathered crowd
+  'START HERE----->un-dialogue-must-begin-congo':
+    author: 'Reuters'
+    caption: 'One of several people in military clothing speaks to a gathered crowd
       in Katana, near Kavumu airport, Democratic Republic of Congo, as Rwandan-backed
       M23 rebels have captured the town, according to an M23 source, a resident and
       a civil society leader, in this still image obtained from a social media video
       released on February 14, 2025. (Social media via Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T21:00:00.000+08:00
-    'imagesource': 'jcr:a2704e86-d288-4cd9-a567-00f241fe70a5'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'b06987eb-183a-488a-ae7e-50a8bc73a642'
-    'lead': 'U.N. Secretary-General Antonio Guterres urged dialogue between warring
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T21:00:00.000+08:00
+    imagesource: 'a2704e86-d288-4cd9-a567-00f241fe70a5'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'b06987eb-183a-488a-ae7e-50a8bc73a642'
+    lead: 'U.N. Secretary-General Antonio Guterres urged dialogue between warring
       parties in eastern Congo on Saturday, hours after Rwanda-backed M23 rebels entered
       the northern suburbs of the provincial capital Bukavu.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T18:22:10.635+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:11.643+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.597+08:00
-    'mgnl:lastModified': 2025-02-15T18:23:04.909+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'UN chief says ''dialogue must begin'' between warring parties in eastern
+    activationstatus: true
+    created: 2025-02-15T18:22:10.635+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:11.643+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.597+08:00
+    lastmodified: 2025-02-15T18:23:04.909+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'UN chief says 'dialogue must begin' between warring parties in eastern
       Congo'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '04d13ed5-bef3-4dd4-a677-eead05d4a410'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.652+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.646+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.902+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> U.N. Secretary-General Antonio Guterres
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '04d13ed5-bef3-4dd4-a677-eead05d4a410'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.652+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.646+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.902+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> U.N. Secretary-General Antonio Guterres
         urged dialogue between warring parties in eastern Congo on Saturday, hours
         after Rwanda-backed M23 rebels entered the northern suburbs of the provincial
         capital Bukavu.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '60cf63c7-bb4b-4fbd-8499-e7d35d753636'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.652+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.646+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.903+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"There is no military solution. The deadlock must end – the dialogue
+    section1:
+      primarytype: 'block'
+      uuid: '60cf63c7-bb4b-4fbd-8499-e7d35d753636'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.652+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.646+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.903+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"There is no military solution. The deadlock must end – the dialogue
         must begin," Guterres told an African Union summit in Addis Ababa as fears
         grow that the fighting could spiral into a regional conflict.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f06aa7c-7cac-42d6-ae27-24a309b9656b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.652+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.647+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.903+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The rebels have been pushing south towards Bukavu, the second-largest
+    section2:
+      primarytype: 'block'
+      uuid: '4f06aa7c-7cac-42d6-ae27-24a309b9656b'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.652+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.647+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.903+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The rebels have been pushing south towards Bukavu, the second-largest
         city in eastern Democratic Republic of Congo, since they seized Goma, the
         largest city, at the end of last month.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a35ee0a4-1244-4f1e-8a42-91a5a5e318ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.653+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.647+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.904+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Leaders from Eastern and Southern African regional blocs last weekend
+    section3:
+      primarytype: 'block'
+      uuid: 'a35ee0a4-1244-4f1e-8a42-91a5a5e318ae'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.653+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.647+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.904+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Leaders from Eastern and Southern African regional blocs last weekend
         urged all parties to hold direct talks, but Congolese President Felix Tshisekedi
         has repeatedly refused to talk directly to the M23 and cancelled his appearance
         at the AU summit, sending his prime minister to represent Congo.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f694877d-37aa-43b8-af98-a8564205a182'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.653+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.648+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.904+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The AU Peace and Security Council convened a closed-door meeting late
+    section4:
+      primarytype: 'block'
+      uuid: 'f694877d-37aa-43b8-af98-a8564205a182'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.653+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.648+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.904+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The AU Peace and Security Council convened a closed-door meeting late
         on Friday to discuss the crisis. Kigali has denied backing M23, and President
         Paul Kagame posted a note on Facebook early Saturday saying he told the meeting
         that "Rwanda has nothing to do with Congo’s problems."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ca8439c5-4d14-49bc-b566-31282bddaad6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.653+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.649+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.905+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The United States has warned of possible sanctions against Rwandan
+    section5:
+      primarytype: 'block'
+      uuid: 'ca8439c5-4d14-49bc-b566-31282bddaad6'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.653+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.649+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.905+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The United States has warned of possible sanctions against Rwandan
         and Congolese officials. The European Parliament on Thursday urged the European
         Union to freeze direct budget support for Rwanda.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '338b9d5a-c37a-4ac5-964d-672433b689bd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.649+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.905+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The European Union said on Saturday it is considering using all
+    section6:
+      primarytype: 'block'
+      uuid: '338b9d5a-c37a-4ac5-964d-672433b689bd'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.649+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.905+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The European Union said on Saturday it is considering using all
         the means at its disposal to protect Congo.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e565e6c7-0a84-4662-a906-c57d3b3772d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.650+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.906+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"Alarmed by news of Rwandan backed M23 forces seizing Kavumu airport
+    section7:
+      primarytype: 'block'
+      uuid: 'e565e6c7-0a84-4662-a906-c57d3b3772d4'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.650+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.906+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"Alarmed by news of Rwandan backed M23 forces seizing Kavumu airport
         and entering Bukavu, ignoring international appeals for ceasefire. The EU
         urgently considers all the means at its disposal," EU foreign policy spokesperson
         Anouar El Anouni posted on the X platform. "The ongoing violation of the DRC’s
         territorial integrity will not go unanswered."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '42d4e7e6-ba51-45bc-acf2-cf9193ea5412'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.654+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.651+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.906+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Corneille Nangaa, leader of a rebel alliance that includes the M23,
+    section8:
+      primarytype: 'block'
+      uuid: '42d4e7e6-ba51-45bc-acf2-cf9193ea5412'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.654+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.651+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.906+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Corneille Nangaa, leader of a rebel alliance that includes the M23,
         said the rebels had entered Bukavu and would continue their operation in the
         city on Saturday.</p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ed19290f-5a6b-4096-8a48-5cb672a21057'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.655+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.651+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.907+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Two residents of the northern suburb of Bagira said they had seen
+    section9:
+      primarytype: 'block'
+      uuid: 'ed19290f-5a6b-4096-8a48-5cb672a21057'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.655+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.651+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.907+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Two residents of the northern suburb of Bagira said they had seen
         rebels on the streets and no sign of fighting.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da693bb7-01a8-477f-a96d-9c76210ac59b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.655+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.652+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.907+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>An M23 source, two Congolese officers and multiple Bukavu residents,
+    section10:
+      primarytype: 'block'
+      uuid: 'da693bb7-01a8-477f-a96d-9c76210ac59b'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.655+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.652+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.907+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>An M23 source, two Congolese officers and multiple Bukavu residents,
         however, said on Saturday morning that the rebels had not yet entered the
         city center.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '154c0efc-876c-4954-8001-6fc1706fa6ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:22:10.656+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.652+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:23:04.908+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Dawit Endeshaw in Addis Ababa, Congo newsroom,
+    section11:
+      primarytype: 'block'
+      uuid: '154c0efc-876c-4954-8001-6fc1706fa6ef'
+      activationstatus: true
+      created: 2025-02-15T18:22:10.656+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.652+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:23:04.908+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Dawit Endeshaw in Addis Ababa, Congo newsroom,
         Sonia Rolley in Paris and Sudip Kar-Gupta in Brussels; Writing by Portia Crowe
         and Ammu Kannampilly; Editing by David Evans and William Mallard)</em></p>'
-  'pope-francis-quiet-night-hospital':
-    'author': 'Reuters'
-    'caption': 'Pope Francis coughs as he attends the weekly general audience, in
+  'START HERE----->pope-francis-quiet-night-hospital':
+    author: 'Reuters'
+    caption: 'Pope Francis coughs as he attends the weekly general audience, in
       Paul VI hall at the Vatican, February 5, 2025. (Remo Casilli/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T22:00:00.000+08:00
-    'imagesource': 'jcr:34ca19b1-1c72-4726-8d08-611dcebac3bf'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f3e284dd-f76c-4b4b-881e-0581835b1e91'
-    'lead': 'Pope Francis, who is suffering from a respiratory infection, has spent
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T22:00:00.000+08:00
+    imagesource: '34ca19b1-1c72-4726-8d08-611dcebac3bf'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f3e284dd-f76c-4b4b-881e-0581835b1e91'
+    lead: 'Pope Francis, who is suffering from a respiratory infection, has spent
       a quiet night in hospital, the Italian news agency ANSA reported on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T18:30:33.091+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:11.344+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.749+08:00
-    'mgnl:lastModified': 2025-02-15T18:30:33.115+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Pope spent a quiet night in hospital, ANSA says'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b67b7ffe-1420-4b8d-8e5c-45261a3db711'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.105+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.347+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.105+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Rome, Italy -</strong> Pope Francis, who is suffering from
+    activationstatus: true
+    created: 2025-02-15T18:30:33.091+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:11.344+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.749+08:00
+    lastmodified: 2025-02-15T18:30:33.115+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Pope spent a quiet night in hospital, ANSA says'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b67b7ffe-1420-4b8d-8e5c-45261a3db711'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.105+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.347+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.105+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Rome, Italy -</strong> Pope Francis, who is suffering from
         a respiratory infection, has spent a quiet night in hospital, the Italian
         news agency ANSA reported on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'abe3e0eb-c55d-4279-b191-161c6ce89c69'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.105+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.347+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.105+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The pontiff, 88, has been suffering from bronchitis for more than
+    section1:
+      primarytype: 'block'
+      uuid: 'abe3e0eb-c55d-4279-b191-161c6ce89c69'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.105+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.347+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.105+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The pontiff, 88, has been suffering from bronchitis for more than
         a week and was taken to Rome’s Gemelli hospital for treatment on Friday morning.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9850b9dd-8ffa-4bea-a1a6-b742dee66686'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.105+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.348+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.105+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>According to Vatican sources quoted by ANSA, the Pope had a peaceful
+    section2:
+      primarytype: 'block'
+      uuid: '9850b9dd-8ffa-4bea-a1a6-b742dee66686'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.105+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.348+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.105+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>According to Vatican sources quoted by ANSA, the Pope had a peaceful
         night and his fever had gone down.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f706431d-63d7-4501-96b8-4d44463c3fe9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.106+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.348+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.106+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"There is optimism about the new therapy which began yesterday,"
+    section3:
+      primarytype: 'block'
+      uuid: 'f706431d-63d7-4501-96b8-4d44463c3fe9'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.106+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.348+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.106+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"There is optimism about the new therapy which began yesterday,"
         ANSA added.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '329cbc46-d083-49e1-99c5-f341bcb01ea3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.106+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.349+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.106+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Vatican said on Friday evening that Francis had undergone diagnostic
+    section4:
+      primarytype: 'block'
+      uuid: '329cbc46-d083-49e1-99c5-f341bcb01ea3'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.106+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.349+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.106+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The Vatican said on Friday evening that Francis had undergone diagnostic
         tests, which indicated a respiratory tract infection. Vatican officials have
         not yet given an official update on Saturday.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f9a91570-cef9-45c6-a37d-19ee68c3602d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.106+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.350+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.106+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Francis, who has been pontiff since 2013, has had influenza and
+    section5:
+      primarytype: 'block'
+      uuid: 'f9a91570-cef9-45c6-a37d-19ee68c3602d'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.106+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.350+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.106+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Francis, who has been pontiff since 2013, has had influenza and
         other health problems several times over the past two years. As a young adult,
         he developed a case of pleurisy and had part of one of his lungs removed,
         and in recent times he has been prone to lung infections.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41ee505b-8c2e-4eaa-b4ea-ecf8adbdb6b9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.107+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.350+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.107+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Francis has been suffering with respiratory issues since mid-December.
+    section6:
+      primarytype: 'block'
+      uuid: '41ee505b-8c2e-4eaa-b4ea-ecf8adbdb6b9'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.107+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.350+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.107+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Francis has been suffering with respiratory issues since mid-December.
         He begged off reading statements at several of his public events in January
         and February, attending the occasions but asking aides to read his prepared
         remarks.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ff78e79-0c40-4dab-862f-364bc24f4a44'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.107+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.351+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.107+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Gemelli hospital, Rome’s largest, has a special suite for treating
+    section7:
+      primarytype: 'block'
+      uuid: '6ff78e79-0c40-4dab-862f-364bc24f4a44'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.107+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.351+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.107+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Gemelli hospital, Rome’s largest, has a special suite for treating
         popes. Francis spent nine days there in June 2023, when he had surgery to
         repair an abdominal hernia.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2587be36-8e5a-4e5f-97eb-5e3444ce02d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:30:33.107+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.351+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:30:33.107+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Giselda Vagnoni and Joshua McElwee; editing by
+    section8:
+      primarytype: 'block'
+      uuid: '2587be36-8e5a-4e5f-97eb-5e3444ce02d4'
+      activationstatus: true
+      created: 2025-02-15T18:30:33.107+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.351+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:30:33.107+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Giselda Vagnoni and Joshua McElwee; editing by
         David Evans, Kirsten Donovan)</em></p>'
-  'students-rally-deadly-railway-serbia':
-    'author': 'Ivana Sekularac, Reuters'
-    'caption': 'Students are greeted by residents as they finish their protest march
+  'START HERE----->students-rally-deadly-railway-serbia':
+    author: 'Ivana Sekularac, Reuters'
+    caption: 'Students are greeted by residents as they finish their protest march
       over the fatal November 2024 Novi Sad railway station roof collapse, in Kragujevac,
       Serbia February 14, 2025. (Marko Djurica/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-02-15T23:00:00.000+08:00
-    'imagesource': 'jcr:1d7961bd-a881-4fa2-8a00-d5261d11a39d'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '01e6003f-24e8-4dc3-9eca-17283b87b55e'
-    'lead': 'Thousands of students descended upon the central Serbian city of Kragujevac
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-02-15T23:00:00.000+08:00
+    imagesource: '1d7961bd-a881-4fa2-8a00-d5261d11a39d'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '01e6003f-24e8-4dc3-9eca-17283b87b55e'
+    lead: 'Thousands of students descended upon the central Serbian city of Kragujevac
       on Saturday in what was expected to be the biggest show of anger yet against
       the government over a deadly railway disaster in November.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-02-15T18:40:17.171+08:00
-    'mgnl:createdBy': 'daniza-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:26:11.106+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:22:39.883+08:00
-    'mgnl:lastModified': 2025-02-15T18:40:39.169+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Thousands rally in Serbia over deadly railway disaster'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5fcb5ec1-6e0a-44fb-a939-a1ecc8061a26'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.188+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.109+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.161+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Kragujevac, Serbia -</strong> Thousands of students descended
+    activationstatus: true
+    created: 2025-02-15T18:40:17.171+08:00
+    createdby: 'daniza-nwp'
+    lastactivated: 2025-03-13T12:26:11.106+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:22:39.883+08:00
+    lastmodified: 2025-02-15T18:40:39.169+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Thousands rally in Serbia over deadly railway disaster'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5fcb5ec1-6e0a-44fb-a939-a1ecc8061a26'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.188+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.109+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.161+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Kragujevac, Serbia -</strong> Thousands of students descended
         upon the central Serbian city of Kragujevac on Saturday in what was expected
         to be the biggest show of anger yet against the government over a deadly railway
         disaster in November.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e6581742-ca9b-4927-b145-f0578edbeefd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.188+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.109+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.162+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the three months since, 15 people were killed when a roof collapsed
+    section1:
+      primarytype: 'block'
+      uuid: 'e6581742-ca9b-4927-b145-f0578edbeefd'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.188+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.109+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.162+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In the three months since, 15 people were killed when a roof collapsed
         at a newly-renovated train station in the city of Novi Sad, mass anti-corruption
         demonstrations have spread across the Balkan state to become Serbia’s biggest
         protest movement in years.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f571774-de87-4e63-a974-b7bf1e7ed7bf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.189+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.110+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.163+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Many Serbians blame the tragedy on corruption and nepotism within
+    section2:
+      primarytype: 'block'
+      uuid: '6f571774-de87-4e63-a974-b7bf1e7ed7bf'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.189+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.110+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.163+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Many Serbians blame the tragedy on corruption and nepotism within
         President Aleksandar Vucic’s government, which denies the allegations. Political
         analysts say the demonstrations have created one of the biggest threats to
         populist Vucic’s decade-long grip on power.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd25837d7-64f2-44aa-aa32-7630bef3bc1d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.189+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.111+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.163+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>On Saturday morning in near-freezing temperatures, students arrived
+    section3:
+      primarytype: 'block'
+      uuid: 'd25837d7-64f2-44aa-aa32-7630bef3bc1d'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.189+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.111+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.163+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>On Saturday morning in near-freezing temperatures, students arrived
         in Kragujevac from across Serbia, by bus and even on foot from the capital
         Belgrade some 140 kilometers away, beating drums, blowing on whistles and
         holding up the country’s flag. Locals greeted them with applause.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b9617dd5-6fd3-4994-99d9-5a364d466a5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.189+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.111+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.164+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The protesters planned to blockade one of the city’s main boulevards
+    section4:
+      primarytype: 'block'
+      uuid: 'b9617dd5-6fd3-4994-99d9-5a364d466a5d'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.189+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.111+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.164+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The protesters planned to blockade one of the city’s main boulevards
         for 15 hours and 15 minutes, in a symbolic tribute to the victims.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'babe7c37-1a57-466a-8ff6-5073a8b9c453'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.190+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.112+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.164+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>"We are here to fight for a better tomorrow, against corruption,"
+    section5:
+      primarytype: 'block'
+      uuid: 'babe7c37-1a57-466a-8ff6-5073a8b9c453'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.190+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.112+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.164+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>"We are here to fight for a better tomorrow, against corruption,"
         said 20-year-old Jovan, who drove from Belgrade with a group of friends. "I
         love my country and I want my children to grow up here," he said.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e7941920-82f0-4a64-b0ea-21448593de25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.190+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.113+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.165+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Prime Minister Milos Vucevic and two other ministers have resigned
+    section6:
+      primarytype: 'block'
+      uuid: 'e7941920-82f0-4a64-b0ea-21448593de25'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.190+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.113+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.165+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Prime Minister Milos Vucevic and two other ministers have resigned
         over the protests and prosecutors have charged 13 people over the disaster,
         but this has done little to quell the demonstrations.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '859e0d5b-26ed-4e76-9728-87774f05ee5e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.190+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.113+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.166+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Since the accident, students have staged daily protests, taking
+    section7:
+      primarytype: 'block'
+      uuid: '859e0d5b-26ed-4e76-9728-87774f05ee5e'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.190+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.113+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.166+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Since the accident, students have staged daily protests, taking
         over university buildings and blocking highways and squares.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f96b4a4-2388-4498-9f23-907ea0aa906f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.191+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.114+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.167+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"We will stay here until the blockade ends," said Djordje Vujovic,
+    section8:
+      primarytype: 'block'
+      uuid: '8f96b4a4-2388-4498-9f23-907ea0aa906f'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.191+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.114+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.167+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"We will stay here until the blockade ends," said Djordje Vujovic,
         22, a mechanical engineering student.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c400d929-9ebc-4a52-a6dd-84d573587fc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.191+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.114+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.167+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '"We want to be able to continue our studies but only when our demands
+    section9:
+      primarytype: 'block'
+      uuid: 'c400d929-9ebc-4a52-a6dd-84d573587fc5'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.191+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.114+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.167+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '"We want to be able to continue our studies but only when our demands
         are met," he said.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '010dcb18-4908-4d46-83a1-566c034b8bc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.192+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.115+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.168+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The students are demanding that authorities publish documents relating
+    section10:
+      primarytype: 'block'
+      uuid: '010dcb18-4908-4d46-83a1-566c034b8bc3'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.192+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.115+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.168+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The students are demanding that authorities publish documents relating
         to the station roof collapse; justice for those responsible; the dismissal
         of charges against protesting students; and a greater budget for higher education.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '84be59be-d281-4471-a423-5af6fc69d9b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-02-15T18:40:17.192+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:26:11.115+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-02-15T18:40:39.168+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Writing by Karolina Tagaris; Editing by Kirsten Donovan)</em></p>'
+    section11:
+      primarytype: 'block'
+      uuid: '84be59be-d281-4471-a423-5af6fc69d9b5'
+      activationstatus: true
+      created: 2025-02-15T18:40:17.192+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:26:11.115+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-02-15T18:40:39.168+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><em>(Writing by Karolina Tagaris; Editing by Kirsten Donovan)</em></p>'

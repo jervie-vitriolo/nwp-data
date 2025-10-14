@@ -1,1654 +1,1654 @@
-'14':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '41b48002-f5a7-44d3-9648-444dac4bb0ae'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-06-14T09:11:32.300+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-06-14T09:11:45.201+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-06-14T09:11:45.003+08:00
-  'mgnl:lastModified': 2025-06-14T16:22:33.850+08:00
-  'mgnl:lastModifiedBy': 'faith-nwp'
-  'Trump-reports-tens-of-millions-in-income-from-crypto-ventures':
-    'author': 'Lawrence Delevingne, Tom Bergin, Tom Lasseter and Shivani Tanna, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T09:11:51.000+08:00
-    'imagesource': 'jcr:e23cdfc2-d38b-4870-9d26-412b773af7d5'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'fd147f16-a3a9-4cbe-a9db-0787ba76c12f'
-    'lead': 'US President Donald Trump filed his first public financial disclosure
+section14:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '41b48002-f5a7-44d3-9648-444dac4bb0ae'
+  activationstatus: true
+  created: 2025-06-14T09:11:32.300+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-06-14T09:11:45.201+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-06-14T09:11:45.003+08:00
+  lastmodified: 2025-06-14T16:22:33.850+08:00
+  lastmodifiedby: 'faith-nwp'
+  'START HERE----->Trump-reports-tens-of-millions-in-income-from-crypto-ventures':
+    author: 'Lawrence Delevingne, Tom Bergin, Tom Lasseter and Shivani Tanna, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T09:11:51.000+08:00
+    imagesource: 'e23cdfc2-d38b-4870-9d26-412b773af7d5'
+    primarytype: 'composition'
+    uuid: 'fd147f16-a3a9-4cbe-a9db-0787ba76c12f'
+    lead: 'US President Donald Trump filed his first public financial disclosure
       report of his term on Friday, providing what he said was the latest information
       about his holdings, including income from his family’s foray into cryptocurrencies.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T09:13:22.030+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T09:13:22.301+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump reports tens of millions in income from crypto ventures'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'feaf2ce5-8e54-4626-8db0-112e34b68276'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.056+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.302+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters)</strong> - U.S. President Donald Trump filed his
+    activationstatus: true
+    created: 2025-06-14T09:13:22.030+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T09:13:22.301+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T09:13:22.083+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump reports tens of millions in income from crypto ventures'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'feaf2ce5-8e54-4626-8db0-112e34b68276'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.056+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.302+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters)</strong> - U.S. President Donald Trump filed his
         first public financial disclosure report of his term on Friday, providing
         what he said was the latest information about his holdings, including income
         from his family’s foray into cryptocurrencies.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5a1f83b-ae9f-4bf1-b777-26cbe03548a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.057+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.303+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump, who returned to office in January, reported $57.35 million from
+    section1:
+      primarytype: 'block'
+      uuid: 'c5a1f83b-ae9f-4bf1-b777-26cbe03548a2'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.057+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.303+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump, who returned to office in January, reported $57.35 million from
         token sales at crypto firm World Liberty Financial. He also reported holding
         15.75 billion governance tokens in the venture.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e83f77b-0719-45f9-b606-ae773d7a9eb9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.057+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.304+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The financial disclosure was signed as of June 13 and did not state
+    section2:
+      primarytype: 'block'
+      uuid: '4e83f77b-0719-45f9-b606-ae773d7a9eb9'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.057+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.304+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The financial disclosure was signed as of June 13 and did not state
         the time period it covered. The details of the cryptocurrency listings, as
         well as other information in the disclosure, suggest it was through the end
         of December 2024, which would exclude most of the money raised by the family’s
         cryptocurrency ventures.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59301279-5b8e-40bc-bd53-f4a8ec38d9de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.057+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.305+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The wealth of the Republican businessman-turned-politician ranges from
+    section3:
+      primarytype: 'block'
+      uuid: '59301279-5b8e-40bc-bd53-f4a8ec38d9de'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.057+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.305+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The wealth of the Republican businessman-turned-politician ranges from
         crypto to real estate, and a large part on paper is tied up in his stake in
         Trump Media &amp; Technology Group DJT.O, owner of social media platform Truth
         Social.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc4af459-b8c2-4236-8946-ecef4f6d2950'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.058+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.306+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The disclosure showed income from various assets including Trump’s
+    section4:
+      primarytype: 'block'
+      uuid: 'dc4af459-b8c2-4236-8946-ecef4f6d2950'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.058+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.306+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The disclosure showed income from various assets including Trump’s
         properties in Florida. Trump’s three golf-focused resorts in the state -
-        Jupiter, Doral and West Palm Beach - plus his nearby private members'' club
+        Jupiter, Doral and West Palm Beach - plus his nearby private members' club
         at Mar-a-Lago, generated at least $217.7 million in income, according to the
         filing.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '858d9cd6-0f03-4f57-93ca-90a2b94b324b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.058+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.307+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The disclosure also listed income of $5 million in license fees from
+    section5:
+      primarytype: 'block'
+      uuid: '858d9cd6-0f03-4f57-93ca-90a2b94b324b'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.058+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.307+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The disclosure also listed income of $5 million in license fees from
         a development in Vietnam.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce905bb0-ca7b-49e1-91a2-aee7dc360f28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.058+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.308+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The White House did not immediately respond to a request for comment.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52981dd0-fff0-4d72-a0c4-ff1fdbeaaad5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:13:22.059+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:13:22.309+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:13:22.083+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Lawrence Delevingne, Tom Bergin, Tom Lasseter,
+    section6:
+      primarytype: 'block'
+      uuid: 'ce905bb0-ca7b-49e1-91a2-aee7dc360f28'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.058+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.308+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The White House did not immediately respond to a request for comment.'
+    section7:
+      primarytype: 'block'
+      uuid: '52981dd0-fff0-4d72-a0c4-ff1fdbeaaad5'
+      activationstatus: true
+      created: 2025-06-14T09:13:22.059+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:13:22.309+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:13:22.083+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Lawrence Delevingne, Tom Bergin, Tom Lasseter,
         Shivani Tanna in Bengaluru; additional reporting by Jim Oliphant; Editing
         by Sandra Maler, Paritosh Bansal, Megan Davies and Will Dunham)</em></p>'
-  'US-Marines-make-first-detention-in-LA-as-more-protests-expected':
-    'author': 'Omar Younis, Brad Brooks, Phil Stewart and Idrees Ali, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T09:15:03.000+08:00
-    'imagesource': 'jcr:5977b08e-0f3d-48cd-99d0-51c28b1f6022'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a8176e1e-31f0-4caa-bde0-b2b40748f4d6'
-    'lead': 'US Marines deployed to Los Angeles made their first detention of a civilian
+  'START HERE----->US-Marines-make-first-detention-in-LA-as-more-protests-expected':
+    author: 'Omar Younis, Brad Brooks, Phil Stewart and Idrees Ali, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T09:15:03.000+08:00
+    imagesource: '5977b08e-0f3d-48cd-99d0-51c28b1f6022'
+    primarytype: 'composition'
+    uuid: 'a8176e1e-31f0-4caa-bde0-b2b40748f4d6'
+    lead: 'US Marines deployed to Los Angeles made their first detention of a civilian
       on Friday, the military said, part of a rare domestic use of its forces sent
       to the city after days of protests over immigration raids.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T09:16:26.323+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T09:16:26.788+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US Marines make first detention in LA as more protests expected'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36637b3a-3390-45bf-b740-bfcd3408d6ce'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.336+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.789+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> U.S. Marines deployed to Los Angeles
+    activationstatus: true
+    created: 2025-06-14T09:16:26.323+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T09:16:26.788+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T09:16:26.401+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US Marines make first detention in LA as more protests expected'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '36637b3a-3390-45bf-b740-bfcd3408d6ce'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.336+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.789+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> U.S. Marines deployed to Los Angeles
         made their first detention of a civilian on Friday, the military said, part
         of a rare domestic use of its forces sent to the city after days of protests
         over immigration raids.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1cecbbd3-5dcb-4ab2-a216-d01b0cd9c4f8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.336+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.790+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Marines joined National Guard forces already deployed to Los Angeles
+    section1:
+      primarytype: 'block'
+      uuid: '1cecbbd3-5dcb-4ab2-a216-d01b0cd9c4f8'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.336+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.790+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Marines joined National Guard forces already deployed to Los Angeles
         ahead of nationwide demonstrations expected on Saturday in what may be the
         biggest backlash to President Donald Trump since he returned to power.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd107238f-ec08-4a77-ad39-8937e44f7e80'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.337+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.791+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'About 200 Marines will protect a federal building in Los Angeles, Army
+    section2:
+      primarytype: 'block'
+      uuid: 'd107238f-ec08-4a77-ad39-8937e44f7e80'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.337+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.791+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'About 200 Marines will protect a federal building in Los Angeles, Army
         Major General Scott Sherman, who is in command of both the National Guard
         and Marine forces, said on Friday. The administration has authorized a total
         of 700 Marines to be deployed in the city.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c1b65e3-3ea7-4d79-9e35-9a37b55d9941'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.337+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.792+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'It is uncommon for active-duty troops to be used domestically during
+    section3:
+      primarytype: 'block'
+      uuid: '1c1b65e3-3ea7-4d79-9e35-9a37b55d9941'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.337+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.792+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'It is uncommon for active-duty troops to be used domestically during
         civil disturbances.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8cfed5a-01ca-41ec-8ec5-e15e4730bec2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.337+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.793+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The last time the military was used for direct police action was in
+    section4:
+      primarytype: 'block'
+      uuid: 'f8cfed5a-01ca-41ec-8ec5-e15e4730bec2'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.337+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.793+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The last time the military was used for direct police action was in
         1992, when the California governor at the time asked then President George
         H.W. Bush to invoke the Insurrection Act to help respond to Los Angeles riots
         over the acquittal of police officers who beat Black motorist Rodney King.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0abae34c-4f36-4486-bcb9-db17ba7dd8ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.338+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.794+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Marines and National Guard deployed in Los Angeles are assigned
+    section5:
+      primarytype: 'block'
+      uuid: '0abae34c-4f36-4486-bcb9-db17ba7dd8ad'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.338+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.794+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Marines and National Guard deployed in Los Angeles are assigned
         to protect federal property and personnel and may temporarily detain people,
         but they are required to turn them over to civilian law enforcement for any
         formal arrest.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9119f549-edbc-45bd-90c4-41b7b25e8acd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.338+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.795+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I would like to emphasize that the soldiers will not participate in
+    section6:
+      primarytype: 'block'
+      uuid: '9119f549-edbc-45bd-90c4-41b7b25e8acd'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.338+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.795+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I would like to emphasize that the soldiers will not participate in
         law enforcement activities," Sherman said during a briefing.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a977f9b-a7a4-47c5-9f33-4ecebece52bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.338+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.796+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Reuters witnessed Marines detain one person at the Wilshire Federal
+    section7:
+      primarytype: 'block'
+      uuid: '0a977f9b-a7a4-47c5-9f33-4ecebece52bb'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.338+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.796+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Reuters witnessed Marines detain one person at the Wilshire Federal
         Building, where the Marines had been posted. A Marine suddenly jumped over
         some benches and across a garden area to chase after a man, grabbed him and
         held him down until another Marine assisted him.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf4f8b23-b6ea-4250-8dec-168ba0b727b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.339+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.797+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Reuters images showed Marines restraining his hands with zip ties and
+    section8:
+      primarytype: 'block'
+      uuid: 'cf4f8b23-b6ea-4250-8dec-168ba0b727b0'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.339+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.797+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Reuters images showed Marines restraining his hands with zip ties and
         then handing him over to civilians from the Department of Homeland Security
         nearly two hours later.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e6460268-6617-4cfe-912f-ae8c98fccba2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.339+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.798+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. military confirmed the detention after being presented with Reuters
+    section9:
+      primarytype: 'block'
+      uuid: 'e6460268-6617-4cfe-912f-ae8c98fccba2'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.339+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.798+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'U.S. military confirmed the detention after being presented with Reuters
         images, in the first known detention by active duty troops.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0217455b-5528-4fe7-920b-7fea3c381132'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.339+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.798+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Asked about the incident, the U.S. military’s Northern Command spokesperson
+    section10:
+      primarytype: 'block'
+      uuid: '0217455b-5528-4fe7-920b-7fea3c381132'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.339+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.798+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Asked about the incident, the U.S. military’s Northern Command spokesperson
         said active duty forces "may temporarily detain an individual in specific
         circumstances."'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80b61270-2565-46f1-be79-4e77a86adf06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.340+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.799+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Any temporary detention ends immediately when the individual(s) can
+    section11:
+      primarytype: 'block'
+      uuid: '80b61270-2565-46f1-be79-4e77a86adf06'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.340+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.799+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Any temporary detention ends immediately when the individual(s) can
         be safely transferred to the custody of appropriate civilian law enforcement
         personnel," the spokesperson said.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c371b840-e019-4474-8ebc-ede631b6e3ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.340+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.800+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The detained man, Marcos Leao, 27, an immigrant and a U.S. Army veteran,
+    section12:
+      primarytype: 'block'
+      uuid: 'c371b840-e019-4474-8ebc-ede631b6e3ac'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.340+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.800+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The detained man, Marcos Leao, 27, an immigrant and a U.S. Army veteran,
         said he was told to get on the ground after venturing into a restricted area,
         as he crossed a line of yellow tape to avoid walking around the building.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '33621568-7fc4-48ea-a0c2-a6d76b133ab9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.341+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.801+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Speaking to reporters after he was released, Leao said he was an Army
+    section13:
+      primarytype: 'block'
+      uuid: '33621568-7fc4-48ea-a0c2-a6d76b133ab9'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.341+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.801+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Speaking to reporters after he was released, Leao said he was an Army
         veteran on his way to an office of the Department of Veterans Affairs when
         he crossed the yellow tape boundary and was asked to stop.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '724a5732-4ed8-4a8c-9c45-9edda665965e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.341+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.802+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Leao, who said he is Portuguese and Angolan and became a U.S. citizen
+    section14:
+      primarytype: 'block'
+      uuid: '724a5732-4ed8-4a8c-9c45-9edda665965e'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.341+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.802+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Leao, who said he is Portuguese and Angolan and became a U.S. citizen
         through the military, said he complied with all commands and that the Marines
         apparently mistook him for a protester when he simply had business with the
         Veterans Administration office inside the building.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49260fc4-e96a-442e-8468-59c66d34a90c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.341+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.803+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"They treated me very fairly," Leao said, adding that he was told,
+    section15:
+      primarytype: 'block'
+      uuid: '49260fc4-e96a-442e-8468-59c66d34a90c'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.341+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.803+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"They treated me very fairly," Leao said, adding that he was told,
         "Understand, this is a whole stressful situation for everybody, and we all
         have a job."'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e00b792d-fb2a-45bb-884b-2b14eebcb42a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.342+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.803+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Los Angeles Police Chief Jim McDonnell told a press conference he was
+    section16:
+      primarytype: 'block'
+      uuid: 'e00b792d-fb2a-45bb-884b-2b14eebcb42a'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.342+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.803+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Los Angeles Police Chief Jim McDonnell told a press conference he was
         unaware of the incident.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '989678bd-a776-4178-bb61-29b8550c5232'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.342+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.804+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Their ability to detain, as I understand it, is to only detain very
+    section17:
+      primarytype: 'block'
+      uuid: '989678bd-a776-4178-bb61-29b8550c5232'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.342+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.804+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Their ability to detain, as I understand it, is to only detain very
         briefly in the immediacy, and then federal agents who are working with them
         would do the detention, arrest, or if appropriate, any other less lethal use
         of force," McDonnell said.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f75e59fd-8b68-449f-9d78-9e44d5b71c7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.343+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.805+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s use of the National Guard was allowed to continue, at least
+    section18:
+      primarytype: 'block'
+      uuid: 'f75e59fd-8b68-449f-9d78-9e44d5b71c7d'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.343+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.805+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump’s use of the National Guard was allowed to continue, at least
         for now, after a federal appeal on Thursday paused a lower court ruling to
         return control of the California National Guard to Governor Gavin Newsom.
         The appeals court ruling does not mean it will ultimately side with Trump,
         as the matter is scheduled for another hearing next week.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c3bae6d-e48c-4b17-baaa-2578c7e34509'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.343+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.806+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We saved L.A. Thank you for the Decision!!!" Trump wrote on his Truth
+    section19:
+      primarytype: 'block'
+      uuid: '3c3bae6d-e48c-4b17-baaa-2578c7e34509'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.343+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.806+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We saved L.A. Thank you for the Decision!!!" Trump wrote on his Truth
         Social platform.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4859eac8-d908-4e21-89a6-0d3590bccc29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.344+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.807+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Trump administration "far overreached its authority," the California
+    section20:
+      primarytype: 'block'
+      uuid: '4859eac8-d908-4e21-89a6-0d3590bccc29'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.344+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.807+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Trump administration "far overreached its authority," the California
         Attorney General’s office said, adding that it remained confident in its
         case ahead of making arguments to court on Tuesday.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2db76b4-6b0c-4471-a35a-7735279a335f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.344+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.807+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Democrats, including Newsom, have said the use of military force was
+    section21:
+      primarytype: 'block'
+      uuid: 'd2db76b4-6b0c-4471-a35a-7735279a335f'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.344+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.807+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Democrats, including Newsom, have said the use of military force was
         unnecessary and an example of Trump’s authoritarianism. Los Angeles and other
         local officials have also opposed the recent ramp-up of federal immigration
         enforcement.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '955b3846-3562-48ef-809d-6838878b705c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.345+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.808+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Los Angeles County Sheriff Robert Luna said there was a "big difference"
+    section22:
+      primarytype: 'block'
+      uuid: '955b3846-3562-48ef-809d-6838878b705c'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.345+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.808+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Los Angeles County Sheriff Robert Luna said there was a "big difference"
         between legitimate protesters and "people who are coming out to cause problems,
         estimating the latter at less than 1% of those present.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '222e2684-87e0-453a-809e-fc050b9eab57'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.345+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.809+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Luna spoke at a press conference in which law enforcement welcomed
+    section23:
+      primarytype: 'block'
+      uuid: '222e2684-87e0-453a-809e-fc050b9eab57'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.345+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.809+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Luna spoke at a press conference in which law enforcement welcomed
         peaceful protests on Saturday but warned they would arrest those who harm
         others or damage property.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd9b11a6-d12e-4239-9d84-8515e6c545a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.346+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.810+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Cities across the U.S. were bracing for demonstrations on Saturday,
+    section24:
+      primarytype: 'block'
+      uuid: 'cd9b11a6-d12e-4239-9d84-8515e6c545a5'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.346+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.810+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Cities across the U.S. were bracing for demonstrations on Saturday,
         when those also opposed to a weekend military parade in Washington are expected
         to take to the streets.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc3db230-aeb3-4273-9c02-6f8514289c27'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.346+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.811+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Organizers of the "No Kings" events, formed as a counter to the military
+    section25:
+      primarytype: 'block'
+      uuid: 'cc3db230-aeb3-4273-9c02-6f8514289c27'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.346+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.811+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Organizers of the "No Kings" events, formed as a counter to the military
         parade, expect some 1,800 demonstrations. Police in California said they expected
         200 demonstrations in the state and asked demonstrators to march peacefully.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f7eb061e-f6f0-44b3-9cfa-e682f95b5d09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.347+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.812+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"They''ve defied our courts, deported Americans, disappeared people
+    section26:
+      primarytype: 'block'
+      uuid: 'f7eb061e-f6f0-44b3-9cfa-e682f95b5d09'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.347+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.812+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"They've defied our courts, deported Americans, disappeared people
         off the streets, attacked our civil rights, and slashed our services," the
         group No Kings, which is organizing the day of action, wrote on its website.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5696cc80-58c6-4af6-95df-82aed9724e7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.347+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.813+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Demonstrations against the immigration raids have also taken place
+    section27:
+      primarytype: 'block'
+      uuid: '5696cc80-58c6-4af6-95df-82aed9724e7f'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.347+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.813+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Demonstrations against the immigration raids have also taken place
         in other cities this week, including New York and Chicago, and there have
         been some disturbances.'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd027760c-6849-4ab1-b241-1d1b921b26a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.348+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.813+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Los Angeles Police Department said 33 people were arrested downtown
+    section28:
+      primarytype: 'block'
+      uuid: 'd027760c-6849-4ab1-b241-1d1b921b26a4'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.348+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.813+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Los Angeles Police Department said 33 people were arrested downtown
         overnight for failing to disperse as protests continued in the city for a
         seventh day, and 13 arrests were made for violating the curfew. More than
         200 people were arrested last Sunday and Monday nights, police said.'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ae3346a3-f5f6-4db0-9eb9-fdeaefcc2ad6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:16:26.348+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:16:26.814+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:16:26.401+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Omar Younis, Brad Brooks, Sebastian Rocandio,
+    section29:
+      primarytype: 'block'
+      uuid: 'ae3346a3-f5f6-4db0-9eb9-fdeaefcc2ad6'
+      activationstatus: true
+      created: 2025-06-14T09:16:26.348+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:16:26.814+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:16:26.401+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Omar Younis, Brad Brooks, Sebastian Rocandio,
         Arafat Barbakh, Rollo Ross and Alan Devall in Los Angeles and Phil Stewart
         and Idrees Ali in Washington; Writing by Costas Pitas and Dan Trotta; Editing
         by Mary Milliken, Mark Porter, David Gregorio, Rod Nickel and Sandra Maler)</em></p>'
-  'US-pushes-Mexico-to-prosecute-politicians-with-ties-to-drug-cartels':
-    'author': 'Diego Oré, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T09:16:31.000+08:00
-    'imagesource': 'jcr:46bf5304-5b6b-4324-8600-9e7c4e2db534'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e5ad8335-04cd-43ab-8172-381ee8e6ced6'
-    'lead': 'The Trump administration is pressuring Mexico to investigate and prosecute
+  'START HERE----->US-pushes-Mexico-to-prosecute-politicians-with-ties-to-drug-cartels':
+    author: 'Diego Oré, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T09:16:31.000+08:00
+    imagesource: '46bf5304-5b6b-4324-8600-9e7c4e2db534'
+    primarytype: 'composition'
+    uuid: 'e5ad8335-04cd-43ab-8172-381ee8e6ced6'
+    lead: 'The Trump administration is pressuring Mexico to investigate and prosecute
       politicians with suspected links to organized crime, and to extradite them to
       the United States if there are criminal charges to answer there, according to
       sources familiar with the matter.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T09:17:22.604+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T09:19:22.746+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T09:19:22.264+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'US pushes Mexico to prosecute politicians with ties to drug cartels'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd34240c-ff87-45b8-8c7d-85d74145c18c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.612+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.747+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.249+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> The Trump administration is pressuring
+    activationstatus: true
+    created: 2025-06-14T09:17:22.604+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T09:19:22.746+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T09:19:22.264+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US pushes Mexico to prosecute politicians with ties to drug cartels'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'dd34240c-ff87-45b8-8c7d-85d74145c18c'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.612+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.747+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.249+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> The Trump administration is pressuring
         Mexico to investigate and prosecute politicians with suspected links to organized
         crime, and to extradite them to the United States if there are criminal charges
         to answer there, according to sources familiar with the matter.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '446e0ac1-3a43-487d-b12d-770f6c46cd97'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.612+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.747+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.250+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The requests - raised at least three times by U.S. Secretary of State
+    section1:
+      primarytype: 'block'
+      uuid: '446e0ac1-3a43-487d-b12d-770f6c46cd97'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.612+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.747+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.250+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The requests - raised at least three times by U.S. Secretary of State
         Marco Rubio and his team in bilateral meetings and conversations with Mexican
         officials - seek to push President Claudia Sheinbaum’s government to investigate
         current elected officials and launch an unprecedented crackdown on narco corruption,
         four people familiar with the matter said.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '99e3d2e4-f79a-4d1f-bbef-3cb868d3d483'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.612+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.748+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.251+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In their discussions, the U.S. officials have called for action against
+    section2:
+      primarytype: 'block'
+      uuid: '99e3d2e4-f79a-4d1f-bbef-3cb868d3d483'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.612+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.748+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.251+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In their discussions, the U.S. officials have called for action against
         several politicians from Sheinbaum’s own Morena party and threatened to levy
         further tariffs if Mexico did not take action, two of the sources said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c46c845-7300-43ea-9c2b-c8dda79dd118'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.613+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.749+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.251+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The conversations between U.S. and Mexican officials have not been
+    section3:
+      primarytype: 'block'
+      uuid: '5c46c845-7300-43ea-9c2b-c8dda79dd118'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.613+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.749+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.251+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The conversations between U.S. and Mexican officials have not been
         previously reported.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c9d2768-e31f-443d-bebd-3a54477d727e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.613+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.749+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.252+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Mexico’s foreign ministry did not respond to Reuters'' questions before
+    section4:
+      primarytype: 'block'
+      uuid: '0c9d2768-e31f-443d-bebd-3a54477d727e'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.613+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.749+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.252+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Mexico’s foreign ministry did not respond to Reuters' questions before
         this story was published. After its publication, the foreign ministry denied
         in a post on social media that the U.S. had requested that any official be
         investigated.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f1b0bb87-e750-48f3-9edf-4abf97f4736e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.613+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.749+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.252+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a daily press conference, Sheinbaum then said it was "false" that
+    section5:
+      primarytype: 'block'
+      uuid: 'f1b0bb87-e750-48f3-9edf-4abf97f4736e'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.613+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.749+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.252+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a daily press conference, Sheinbaum then said it was "false" that
         the U.S. had asked Mexico to give names of Mexican politicians.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90ec7313-36ee-4cd7-ae7f-f9cb364fdd44'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.614+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.750+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.253+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. State Department, in a comment also sent after the story published,
+    section6:
+      primarytype: 'block'
+      uuid: '90ec7313-36ee-4cd7-ae7f-f9cb364fdd44'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.614+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.750+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.253+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The U.S. State Department, in a comment also sent after the story published,
         did not dispute that requests had been made that politicians with cartel links
         be investigated, but said no "tariff relief" has been offered in exchange.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '612b8c72-d5ef-414f-b5c1-b4e0b7f6b55d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.614+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.750+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.253+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It is in the interest of both the United States and Mexico to work
+    section7:
+      primarytype: 'block'
+      uuid: '612b8c72-d5ef-414f-b5c1-b4e0b7f6b55d'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.614+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.750+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.253+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It is in the interest of both the United States and Mexico to work
         together to combat the cartels and the corrupt actors that enable them," the
         statement said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82c7eaec-d10d-478d-81f9-904aca919938'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.614+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.751+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.254+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A Reuters spokesperson said: "We stand by our reporting."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cbb1564f-d2fc-4b3b-a9b2-8309d4407707'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.615+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.751+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.255+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>BAJA CALIFORNIA GOVERNOR</strong></h3>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e03fdf4b-2f0b-4503-9dc7-8aa2fbe5f824'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.615+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.752+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.255+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Reuters could not determine if the U.S. provided Mexico with a list
+    section8:
+      primarytype: 'block'
+      uuid: '82c7eaec-d10d-478d-81f9-904aca919938'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.614+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.751+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.254+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A Reuters spokesperson said: "We stand by our reporting."'
+    section9:
+      primarytype: 'block'
+      uuid: 'cbb1564f-d2fc-4b3b-a9b2-8309d4407707'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.615+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.751+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.255+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>BAJA CALIFORNIA GOVERNOR</strong></h3>'
+    section10:
+      primarytype: 'block'
+      uuid: 'e03fdf4b-2f0b-4503-9dc7-8aa2fbe5f824'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.615+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.752+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.255+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Reuters could not determine if the U.S. provided Mexico with a list
         of politicians suspected of links to organized crime, or evidence against
         them. Nor was Reuters able to independently confirm if any individuals flagged
         by the U.S. had engaged in any wrongdoing.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf93508c-b46d-4f7d-afc1-09bb5c9f8faf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.615+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.753+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Two sources said five current Morena officials and one former senator
+    section11:
+      primarytype: 'block'
+      uuid: 'bf93508c-b46d-4f7d-afc1-09bb5c9f8faf'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.615+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.753+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Two sources said five current Morena officials and one former senator
         were mentioned - including Baja California Governor Marina del Pilar Avila.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f3ec3b26-3409-4bac-a201-19627cdb07a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.616+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.753+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement to Reuters on Wednesday, Avila said her government had
+    section12:
+      primarytype: 'block'
+      uuid: 'f3ec3b26-3409-4bac-a201-19627cdb07a5'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.616+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.753+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a statement to Reuters on Wednesday, Avila said her government had
         fought organized crime and had managed to reduce homicide rates.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '60ed4bec-ebe7-48b5-9e2e-34092b80082d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.616+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.754+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.257+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"I affirm categorically that it is totally false any information that
+    section13:
+      primarytype: 'block'
+      uuid: '60ed4bec-ebe7-48b5-9e2e-34092b80082d'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.616+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.754+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.257+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"I affirm categorically that it is totally false any information that
         seeks to link me to any organized crime group," Avila said.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ba5d776b-f4e1-4455-92c6-e31a662db28b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.617+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.755+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.257+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Mexican presidency, Attorney General’s Office, Security Ministry
+    section14:
+      primarytype: 'block'
+      uuid: 'ba5d776b-f4e1-4455-92c6-e31a662db28b'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.617+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.755+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.257+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Mexican presidency, Attorney General’s Office, Security Ministry
         and Foreign Ministry did not respond to requests for comment on the talks.
         The White House, State Department, Department of Justice and Department of
         Homeland Security also did not reply to Reuters questions prior to publication.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '30123fae-15ab-4dfc-a53d-14a117c04265'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.617+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.755+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>POLITICAL RISK</strong></h3>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2bfd99e-67ce-4f25-9f0b-006ab12faad2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.618+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.756+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.259+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'President Donald Trump’s administration has justified its declarations
+    section15:
+      primarytype: 'block'
+      uuid: '30123fae-15ab-4dfc-a53d-14a117c04265'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.617+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.755+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>POLITICAL RISK</strong></h3>'
+    section16:
+      primarytype: 'block'
+      uuid: 'b2bfd99e-67ce-4f25-9f0b-006ab12faad2'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.618+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.756+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.259+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'President Donald Trump’s administration has justified its declarations
         of tariffs on Mexico on the growing influence of the cartels over the government.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb0ffdd7-a34c-47a0-8215-8582ac9b35ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.618+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.757+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.259+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'A crackdown - potentially targeting high-ranking elected officials
+    section17:
+      primarytype: 'block'
+      uuid: 'cb0ffdd7-a34c-47a0-8215-8582ac9b35ee'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.618+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.757+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.259+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'A crackdown - potentially targeting high-ranking elected officials
         while they are in office - would mark a dramatic escalation of Mexico’s efforts
         against drug corruption. But it carries political risks for Sheinbaum, as
         some of the allegations involve members of her own party, a member of her
         security cabinet told Reuters.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '622f4bd2-bb40-4a25-a9e4-f174e7729903'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.618+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.757+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.260+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The U.S. first raised the request at a meeting in Washington on February
+    section18:
+      primarytype: 'block'
+      uuid: '622f4bd2-bb40-4a25-a9e4-f174e7729903'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.618+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.757+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.260+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The U.S. first raised the request at a meeting in Washington on February
         27 led by Rubio and Mexican Foreign Minister Juan Ramon de la Fuente, the
         four people familiar with the matter said. U.S. Attorney General Pam Bondi
         and other officials from the Departments of Homeland Security and Justice
         as well as Treasury attended the meeting, the four people said. Mexico’s
         Attorney General Alejandro Gertz and Secretary of Security Omar Garcia Harfuch
         were also at the meeting.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '792d4dad-a54e-47bc-aae1-c2deead271d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.619+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.758+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.260+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Mexico sent 29 cartel figures to the U.S. in late February - the largest
+    section19:
+      primarytype: 'block'
+      uuid: '792d4dad-a54e-47bc-aae1-c2deead271d7'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.619+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.758+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.260+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Mexico sent 29 cartel figures to the U.S. in late February - the largest
         such handover in years - following Trump’s threats to impose across-the-board
         tariffs on Mexican goods. The possibility of expediting the capture and/or
         deportation of priority DEA and FBI targets was also discussed, two of the
         sources said.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3c5cf0e-5d97-428f-9325-bc5bb8c7548a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.619+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.758+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.261+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'As part of the discussions, two of the people familiar with the matter
+    section20:
+      primarytype: 'block'
+      uuid: 'c3c5cf0e-5d97-428f-9325-bc5bb8c7548a'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.619+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.758+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.261+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'As part of the discussions, two of the people familiar with the matter
         said, U.S. officials floated the idea of appointing a U.S. fentanyl czar to
         liaise directly with Sheinbaum on progress to combat the deadly synthetic
         opioid.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf4de04b-166e-4332-b832-3ede89364820'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.620+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.759+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.262+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Washington also pressed Mexico for more thorough inspections of U.S.-bound
+    section21:
+      primarytype: 'block'
+      uuid: 'cf4de04b-166e-4332-b832-3ede89364820'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.620+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.759+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.262+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Washington also pressed Mexico for more thorough inspections of U.S.-bound
         cargo for drugs and travelers at the U.S.-Mexico border.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b494a7f-2834-4db4-b76c-dc7699930292'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.620+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.759+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.262+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Although Mexico’s federal prosecutor’s office is independent of Sheinbaum’s
+    section22:
+      primarytype: 'block'
+      uuid: '4b494a7f-2834-4db4-b76c-dc7699930292'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.620+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.759+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.262+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Although Mexico’s federal prosecutor’s office is independent of Sheinbaum’s
         administration under the country’s constitution, Washington has long accused
         Mexico of protecting politicians alleged to have links to the cartels.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1eb12f9b-115e-40b5-89e9-f5918454a6d5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.621+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.760+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.263+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Serving state governors and federal lawmakers are immune from prosecution
+    section23:
+      primarytype: 'block'
+      uuid: '1eb12f9b-115e-40b5-89e9-f5918454a6d5'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.621+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.760+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.263+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Serving state governors and federal lawmakers are immune from prosecution
         for most crimes and can only be prosecuted for serious federal crimes like
         drug trafficking or racketeering if authorized by Mexico’s Congress.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c2700e6-f384-45e2-bc96-843655b2c1fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T09:17:22.621+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T09:19:22.760+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T09:19:22.263+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Diego Oré; Editing by Stephen Eisenhammer, Suzanne
+    section24:
+      primarytype: 'block'
+      uuid: '4c2700e6-f384-45e2-bc96-843655b2c1fb'
+      activationstatus: true
+      created: 2025-06-14T09:17:22.621+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T09:19:22.760+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T09:19:22.263+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Diego Oré; Editing by Stephen Eisenhammer, Suzanne
         Goldenberg and Lisa Shumaker)</em></p>'
-  'Visa-free-entry-to-Taiwan-extended-for-another-year':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T10:08:18.000+08:00
-    'imagesource': 'jcr:dc86ab75-56d5-4a73-8fe6-ef67bd127112'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9e09758d-c485-4ef8-a1d5-77bf76fda1a4'
-    'lead': 'Filipino travelers can still visit Taiwan without a visa up to next year.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T10:09:18.246+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T10:09:18.456+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T10:09:18.273+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Visa-free entry to Taiwan extended for another year'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '70566b80-790e-4275-bd1d-9546c5553da0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:09:18.258+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:09:18.456+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:09:18.273+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Filipino travelers
+  'START HERE----->Visa-free-entry-to-Taiwan-extended-for-another-year':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T10:08:18.000+08:00
+    imagesource: 'dc86ab75-56d5-4a73-8fe6-ef67bd127112'
+    primarytype: 'composition'
+    uuid: '9e09758d-c485-4ef8-a1d5-77bf76fda1a4'
+    lead: 'Filipino travelers can still visit Taiwan without a visa up to next year.'
+    activationstatus: true
+    created: 2025-06-14T10:09:18.246+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T10:09:18.456+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T10:09:18.273+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Visa-free entry to Taiwan extended for another year'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '70566b80-790e-4275-bd1d-9546c5553da0'
+      activationstatus: true
+      created: 2025-06-14T10:09:18.258+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:09:18.456+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:09:18.273+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Filipino travelers
         can still visit Taiwan without a visa up to next year. Taiwanese Foreign Minister
         Lin Chia-lung made the announcement during the celebration of Philippine Independence
         Day hosted by the Manila Economic and Cultural Office in Taipei.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14eca8e2-7541-4d27-a649-89ff117929a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:09:18.258+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:09:18.458+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:09:18.273+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The minister said the extension aims to deepen people-to-people ties
+    section1:
+      primarytype: 'block'
+      uuid: '14eca8e2-7541-4d27-a649-89ff117929a0'
+      activationstatus: true
+      created: 2025-06-14T10:09:18.258+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:09:18.458+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:09:18.273+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The minister said the extension aims to deepen people-to-people ties
         and further strengthen bilateral relations.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a220b79-a72d-4ba6-9880-bdc557d50e0f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:09:18.259+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:09:18.459+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:09:18.273+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Taiwan’s Ministry of Foreign Affairs said an official announcement
+    section2:
+      primarytype: 'block'
+      uuid: '1a220b79-a72d-4ba6-9880-bdc557d50e0f'
+      activationstatus: true
+      created: 2025-06-14T10:09:18.259+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:09:18.459+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:09:18.273+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Taiwan’s Ministry of Foreign Affairs said an official announcement
         on the extension will be issued Monday, June 16.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb8e72dd-f9c5-42aa-af39-1010418ac38d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:09:18.259+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:09:18.459+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:09:18.273+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>According to the latest Philippine Statistics Authority data, around
+    section3:
+      primarytype: 'block'
+      uuid: 'fb8e72dd-f9c5-42aa-af39-1010418ac38d'
+      activationstatus: true
+      created: 2025-06-14T10:09:18.259+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:09:18.459+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:09:18.273+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>According to the latest Philippine Statistics Authority data, around
         415,000 Filipino tourists visited Taiwan in 2023. Taiwan is also home to some
         160,000 Filipino migrant workers.</p>'
-  'Classroom-visual-aids--posters-are-not-distractions-from-learning---DepEd':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T10:09:21.000+08:00
-    'imagesource': 'jcr:40c60fd5-61a8-4b40-8f93-d287d472e83d'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6fc05495-0c36-4917-8a40-6d6dea1ba2e7'
-    'lead': 'Teachers and schools will be allowed to put-up visual aids and posters
+  'START HERE----->Classroom-visual-aids--posters-are-not-distractions-from-learning---DepEd':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T10:09:21.000+08:00
+    imagesource: '40c60fd5-61a8-4b40-8f93-d287d472e83d'
+    primarytype: 'composition'
+    uuid: '6fc05495-0c36-4917-8a40-6d6dea1ba2e7'
+    lead: 'Teachers and schools will be allowed to put-up visual aids and posters
       on classroom walls for school year 2025 to 2026 as the Department of Education
       (DepEd) said they do not pose a distraction from students’ learning, a contrast
       to Vice President Sara Duterte’s previous order of leaving classroom walls bare.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T10:10:53.428+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T10:10:53.720+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Classroom visual aids, posters are not distractions from learning —
+    activationstatus: true
+    created: 2025-06-14T10:10:53.428+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T10:10:53.720+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T10:10:53.491+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Classroom visual aids, posters are not distractions from learning —
       DepEd'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9fb8678d-b384-40fa-856c-ffd1b028a133'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.721+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Teachers and schools
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9fb8678d-b384-40fa-856c-ffd1b028a133'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.721+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Teachers and schools
         will be allowed to put-up visual aids and posters on classroom walls for school
         year 2025 to 2026 as the Department of Education (DepEd) said they do not
         pose a distraction from students’ learning, a contrast to Vice President Sara
         Duterte’s previous order of leaving classroom walls bare.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '47d61634-10d1-402d-8060-1edb548b674a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.722+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'DepEd Assistant Secretary Carmela Oracion told NewsWatch Plus that
+    section1:
+      primarytype: 'block'
+      uuid: '47d61634-10d1-402d-8060-1edb548b674a'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.722+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'DepEd Assistant Secretary Carmela Oracion told NewsWatch Plus that
         visual aids such as the letters of the alphabet on walls of classrooms for
         kinder to early elementary students “complete” the learning set-up.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6648143-90c3-4818-80b2-533f4d010792'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.723+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“I don’t consider them as a distraction,” Oracion said on Friday,
+    section2:
+      primarytype: 'block'
+      uuid: 'a6648143-90c3-4818-80b2-533f4d010792'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.723+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“I don’t consider them as a distraction,” Oracion said on Friday,
         June 13. “These are not prohibited. Teachers may place them.”</p>'
-    '3':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F1145518760672882%2F&show_text=false&width=560&t=0"
+    section3:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FNewsWatchPlusPH%2Fvideos%2F1145518760672882%2F&show_text=false&width=560&t=0"
         width="560" height="314" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share" allowFullScreen="true"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '894a895b-9d7c-4395-b0ef-a9d6b1fed1bb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.459+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.724+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36c33c88-3ca6-479f-9a0c-a50978f61603'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.459+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.725+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The remark is a silent reversal of DepEd Order 21 imposed by the vice
+      primarytype: 'block'
+      uuid: '894a895b-9d7c-4395-b0ef-a9d6b1fed1bb'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.459+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.724+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section4:
+      primarytype: 'block'
+      uuid: '36c33c88-3ca6-479f-9a0c-a50978f61603'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.459+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.725+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The remark is a silent reversal of DepEd Order 21 imposed by the vice
         president and former education secretary which strips classroom walls of all
         visual aids including unnecessary artwork, decorations, tarpaulins, and posters.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ce8be7e-3d7f-457c-a556-79e0e4407049'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.460+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.726+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The order also removes photos of national heroes and past presidents
+    section5:
+      primarytype: 'block'
+      uuid: '0ce8be7e-3d7f-457c-a556-79e0e4407049'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.460+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.726+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The order also removes photos of national heroes and past presidents
         normally seen in classroom walls.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b1950a9-eac5-4220-a303-89cb7d092c4b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.460+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'During Duterte’s term as secretary in 2023, she claimed that a “clean,
+    section6:
+      primarytype: 'block'
+      uuid: '3b1950a9-eac5-4220-a303-89cb7d092c4b'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.460+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'During Duterte’s term as secretary in 2023, she claimed that a “clean,
         orderly and functional” classroom will help “learners focus on their studies.”'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ceaa9994-0c7a-44d7-b1ff-f755066f7c10'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.461+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The move received backlash from the education sector, with experts
+    section7:
+      primarytype: 'block'
+      uuid: 'ceaa9994-0c7a-44d7-b1ff-f755066f7c10'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.461+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The move received backlash from the education sector, with experts
         and groups pointing out studies which go against Duterte’s order.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '173cd7e0-3ba2-4c04-98b3-beb083e884c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.461+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.729+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Former ACT Teachers Party-list Rep. France Castro called the order
+    section8:
+      primarytype: 'block'
+      uuid: '173cd7e0-3ba2-4c04-98b3-beb083e884c9'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.461+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.729+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Former ACT Teachers Party-list Rep. France Castro called the order
         unnecessary and said the department should instead focus on issues such as
         classroom shortage.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3c351a4e-12e6-4d4d-81ce-d364ed0e2bd6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T10:10:53.462+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T10:10:53.730+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T10:10:53.491+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'While not formally reversing the order, incumbent Education Secretary
+    section9:
+      primarytype: 'block'
+      uuid: '3c351a4e-12e6-4d4d-81ce-d364ed0e2bd6'
+      activationstatus: true
+      created: 2025-06-14T10:10:53.462+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T10:10:53.730+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T10:10:53.491+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'While not formally reversing the order, incumbent Education Secretary
         Sonny Angara said the department has not been strict about imposing DepEd
         Order 21.'
-  'ICC-prosecution-to-file-response-to-Duterte-s-interim-release-request':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T16:19:57.000+08:00
-    'imagesource': 'jcr:b8585377-6e68-4f84-a6dd-aa056837aab8'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f5d4da14-6b9a-4cd4-8a7f-15c898676c60'
-    'lead': 'The International Criminal Court’s (ICC) prosecution said it will be
+  'START HERE----->ICC-prosecution-to-file-response-to-Duterte-s-interim-release-request':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T16:19:57.000+08:00
+    imagesource: 'b8585377-6e68-4f84-a6dd-aa056837aab8'
+    primarytype: 'composition'
+    uuid: 'f5d4da14-6b9a-4cd4-8a7f-15c898676c60'
+    lead: 'The International Criminal Court’s (ICC) prosecution said it will be
       filing its response to former President Rodrigo Duterte’s request for interim
       release.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T16:21:13.911+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T16:21:14.203+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'ICC prosecution to file response to Duterte’s interim release request'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92862078-c781-431b-b70b-d498fb4a55c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.924+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.204+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - The International Criminal Court’s (ICC)
+    activationstatus: true
+    created: 2025-06-14T16:21:13.911+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T16:21:14.203+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T16:21:13.962+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'ICC prosecution to file response to Duterte’s interim release request'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '92862078-c781-431b-b70b-d498fb4a55c9'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.924+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.204+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - The International Criminal Court’s (ICC)
         prosecution said it will be filing its response to former President Rodrigo
         Duterte’s request for interim release.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f004e033-a3b2-4819-84f7-b358fdb6c9fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.925+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.205+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a577addf-fbca-43c6-85be-11dc0cfa6f7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.925+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.206+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "In a response to NewsWatch Plus’s email, the prosecution refused to\
+    section1:
+      primarytype: 'block'
+      uuid: 'f004e033-a3b2-4819-84f7-b358fdb6c9fd'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.925+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.205+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: 'a577addf-fbca-43c6-85be-11dc0cfa6f7f'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.925+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.206+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "In a response to NewsWatch Plus’s email, the prosecution refused to\
         \ comment on its stance to the Duterte camp’s claim that it had agreed not\
         \ to oppose the interim release subject to certain conditions.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46ecc3e8-a161-4468-bbba-0c6b30c31cbd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.925+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.207+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f60c8e79-0e7b-4d3b-b4cf-68702b90e340'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.926+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.208+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "“The Office of the Prosecutor (OTP) of the International Criminal Court\
+    section3:
+      primarytype: 'block'
+      uuid: '46ecc3e8-a161-4468-bbba-0c6b30c31cbd'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.925+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.207+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section4:
+      primarytype: 'block'
+      uuid: 'f60c8e79-0e7b-4d3b-b4cf-68702b90e340'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.926+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.208+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "“The Office of the Prosecutor (OTP) of the International Criminal Court\
         \ will file before Pre-Trial Chamber I a response to the Defence’s request\
         \ for interim release of Mr Rodrigo Roa Duterte,” it said. \r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '59a22513-0a2b-4db3-8a34-cad194ead388'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.926+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.209+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d72f725-fb1c-44bb-8be4-3c88250b072f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.927+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.210+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "“The Prosecution will file a public version which will clearly set\
+    section5:
+      primarytype: 'block'
+      uuid: '59a22513-0a2b-4db3-8a34-cad194ead388'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.926+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.209+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: '8d72f725-fb1c-44bb-8be4-3c88250b072f'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.927+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.210+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "“The Prosecution will file a public version which will clearly set\
         \ out its position on the Defence’s application,” it added. \r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4800c6e-ab39-48e1-b42e-17befde4b75f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.927+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.211+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b964a96-e7f5-4163-9de7-47712731c33f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.927+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.212+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "This follows Duterte’s request filed by lawyer Nicholas Kaufman which\
+    section7:
+      primarytype: 'block'
+      uuid: 'b4800c6e-ab39-48e1-b42e-17befde4b75f'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.927+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.211+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section8:
+      primarytype: 'block'
+      uuid: '5b964a96-e7f5-4163-9de7-47712731c33f'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.927+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.212+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "This follows Duterte’s request filed by lawyer Nicholas Kaufman which\
         \ states that an “undisclosed country” has agreed to take in the ex-president.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73358b20-fcb0-47d4-842c-d8b9d7b4beb4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.928+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.213+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d77dcc5-322a-405b-8240-cc35cafc1cde'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.928+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.214+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "In the 16-page request Kaufman said Duterte was “not a flight risk”\
+    section9:
+      primarytype: 'block'
+      uuid: '73358b20-fcb0-47d4-842c-d8b9d7b4beb4'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.928+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.213+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section10:
+      primarytype: 'block'
+      uuid: '4d77dcc5-322a-405b-8240-cc35cafc1cde'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.928+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.214+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "In the 16-page request Kaufman said Duterte was “not a flight risk”\
         \ and his detention in The Hague is not necessary amid his ongoing case on\
         \ charges of crimes against humanity.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cdd6547-c3bd-4180-9cd3-4e6bc1a9165c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.928+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.214+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a98691ce-9678-4fd2-99cc-61e24ed409e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.929+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.215+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "Duterte is facing raps in relation to his alleged drug war killings\
+    section11:
+      primarytype: 'block'
+      uuid: '4cdd6547-c3bd-4180-9cd3-4e6bc1a9165c'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.928+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.214+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section12:
+      primarytype: 'block'
+      uuid: 'a98691ce-9678-4fd2-99cc-61e24ed409e8'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.929+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.215+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "Duterte is facing raps in relation to his alleged drug war killings\
         \ when he was mayor of Davao City and when he was president of the Philippines.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9d3180c-def1-4597-a1fb-6297c69dd9be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.929+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.216+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9dc93f22-a74e-4531-a886-bac5a7c85530'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:21:13.930+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:21:14.217+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:21:13.962+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In the same letter, Kaufman said the prosecution has confirmed its
+    section13:
+      primarytype: 'block'
+      uuid: 'd9d3180c-def1-4597-a1fb-6297c69dd9be'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.929+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.216+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section14:
+      primarytype: 'block'
+      uuid: '9dc93f22-a74e-4531-a886-bac5a7c85530'
+      activationstatus: true
+      created: 2025-06-14T16:21:13.930+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:21:14.217+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:21:13.962+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>In the same letter, Kaufman said the prosecution has confirmed its
         “non-opposition” to the interim release of Duterte to the unnamed country
         as long as certain terms and conditions are met.</p>'
-  'Iran-vows-to-continue-strikes-against-Israel--US-bases--military-officials-say':
-    'author': 'Dubai Reuters Newswroom and Menna Alaa El-Din'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T16:21:19.000+08:00
-    'imagesource': 'jcr:a22ff5ba-9394-4a94-9c93-afe2d6c9a6f2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3882166f-aadf-46ed-83d8-25b506b1a89c'
-    'lead': 'Iran’s strikes against Israel will continue, with targets set to expand
+  'START HERE----->Iran-vows-to-continue-strikes-against-Israel--US-bases--military-officials-say':
+    author: 'Dubai Reuters Newswroom and Menna Alaa El-Din'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T16:21:19.000+08:00
+    imagesource: 'a22ff5ba-9394-4a94-9c93-afe2d6c9a6f2'
+    primarytype: 'composition'
+    uuid: '3882166f-aadf-46ed-83d8-25b506b1a89c'
+    lead: 'Iran’s strikes against Israel will continue, with targets set to expand
       to include US bases in the region in the coming days, Iran’s Fars news agency
       reported on Saturday, citing senior Iranian military officials.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T16:22:22.683+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T16:33:55.577+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T16:33:55.301+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Iran vows to continue strikes against Israel, US bases, military officials
+    activationstatus: true
+    created: 2025-06-14T16:22:22.683+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T16:33:55.577+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T16:33:55.301+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Iran vows to continue strikes against Israel, US bases, military officials
       say'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '72454b0a-8b14-400d-88d4-f565bed67554'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.690+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.578+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.297+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Iran’s strikes against Israel will
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '72454b0a-8b14-400d-88d4-f565bed67554'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.690+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.578+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.297+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Iran’s strikes against Israel will
         continue,with targets set to expand to include U.S. bases in the regionin
         the coming days, Iran’s Fars news agency reported on Saturday, citing senior
         Iranian military officials.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c80ef525-2760-4c58-936a-6c95e82f610b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.691+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.578+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.297+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc90abd1-e426-46ea-9d89-10937118638d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.691+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.579+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.298+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\"This confrontation will not end with last night’s limited actions\
+    section1:
+      primarytype: 'block'
+      uuid: 'c80ef525-2760-4c58-936a-6c95e82f610b'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.691+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.578+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.297+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: 'bc90abd1-e426-46ea-9d89-10937118638d'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.691+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.579+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.298+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\"This confrontation will not end with last night’s limited actions\
         \ and Iran’s strikes will continue, and this action will be very painful and\
         \ regrettable for the aggressors,\" Fars reported, citing senior military\
         \ officials.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '782fd935-feba-43a0-9128-186434ec6a87'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.691+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.580+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.298+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '790d0542-2290-4fdd-8e20-73df3de057b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.691+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.580+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.299+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "They were quoted saying that the war would \"spread in the coming days\
+    section3:
+      primarytype: 'block'
+      uuid: '782fd935-feba-43a0-9128-186434ec6a87'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.691+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.580+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.298+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section4:
+      primarytype: 'block'
+      uuid: '790d0542-2290-4fdd-8e20-73df3de057b6'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.691+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.580+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.299+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "They were quoted saying that the war would \"spread in the coming days\
         \ to all areas occupied by this (Israeli) regime and American bases in the\
         \ region\".\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ccbe0327-c94a-4df9-9bb7-22406a7ee4a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.692+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.581+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.299+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f29838d0-1a75-4931-ba50-b6ad670f70ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.692+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.581+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.300+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "The threat of a wider war comes as Iran and Israel continue targeting\
+    section5:
+      primarytype: 'block'
+      uuid: 'ccbe0327-c94a-4df9-9bb7-22406a7ee4a9'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.692+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.581+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.299+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section6:
+      primarytype: 'block'
+      uuid: 'f29838d0-1a75-4931-ba50-b6ad670f70ca'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.692+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.581+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.300+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "The threat of a wider war comes as Iran and Israel continue targeting\
         \ each other on Saturday after Israel launched its biggest-ever air offensive\
         \ against its longtime foe in a bid to prevent it from developing a nuclear\
         \ weapon.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3167c73-1766-4bed-8a0b-ad45cc3b73db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.692+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.582+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.300+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ec1fffd-4776-42f5-ad6d-30f7c02cbaf1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:22:22.693+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:33:55.582+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:33:55.301+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Dubai Newswroom and Menna Alaa El-Din, Editing
+    section7:
+      primarytype: 'block'
+      uuid: 'd3167c73-1766-4bed-8a0b-ad45cc3b73db'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.692+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.582+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.300+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section8:
+      primarytype: 'block'
+      uuid: '9ec1fffd-4776-42f5-ad6d-30f7c02cbaf1'
+      activationstatus: true
+      created: 2025-06-14T16:22:22.693+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:33:55.582+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:33:55.301+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Dubai Newswroom and Menna Alaa El-Din, Editing
         by Louise Heavens)</em></p>'
-  'Lebanon-temporarily-reopens-airspace-on-Saturday--state-news-agency-reports':
-    'author': 'Muhammad Al Gebaly and Menna Alaa El Din, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-06-14T16:22:33.000+08:00
-    'imagesource': 'jcr:e66e7f06-a8a1-47d7-bd58-dc8ca10156e5'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f206ce02-f57a-48f2-96e8-0a71bfcf1aa9'
-    'lead': 'Lebanon said it temporarily reopened its airspace on Saturday at 10:00
+  'START HERE----->Lebanon-temporarily-reopens-airspace-on-Saturday--state-news-agency-reports':
+    author: 'Muhammad Al Gebaly and Menna Alaa El Din, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-06-14T16:22:33.000+08:00
+    imagesource: 'e66e7f06-a8a1-47d7-bd58-dc8ca10156e5'
+    primarytype: 'composition'
+    uuid: 'f206ce02-f57a-48f2-96e8-0a71bfcf1aa9'
+    lead: 'Lebanon said it temporarily reopened its airspace on Saturday at 10:00
       a.m. (0700 GMT), the state news agency NNA said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-06-14T16:23:43.523+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-06-14T16:34:18.535+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-06-14T16:34:18.323+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Lebanon temporarily reopens airspace on Saturday, state news agency
+    activationstatus: true
+    created: 2025-06-14T16:23:43.523+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-06-14T16:34:18.535+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-06-14T16:34:18.323+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Lebanon temporarily reopens airspace on Saturday, state news agency
       reports'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7192e4d3-c9d4-41b4-a284-71644196762f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:23:43.531+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:34:18.536+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:34:18.320+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Lebanon said it will temporarily reopen
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7192e4d3-c9d4-41b4-a284-71644196762f'
+      activationstatus: true
+      created: 2025-06-14T16:23:43.531+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:34:18.536+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:34:18.320+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Lebanon said it will temporarily reopen
         its airspace on Saturday at 10:00 a.m. (0700 GMT), the state news agency NNA
         said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9f40e5a-1e86-45c2-8599-0d7278df346c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:23:43.531+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:34:18.536+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:34:18.321+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '550fe4e7-48d3-4ffb-b91e-55b82c0ad28c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:23:43.531+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:34:18.537+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:34:18.321+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "The airspace will be shut down again starting from 10:30 pm (1930 GMT)\
+    section1:
+      primarytype: 'block'
+      uuid: 'e9f40e5a-1e86-45c2-8599-0d7278df346c'
+      activationstatus: true
+      created: 2025-06-14T16:23:43.531+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:34:18.536+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:34:18.321+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section2:
+      primarytype: 'block'
+      uuid: '550fe4e7-48d3-4ffb-b91e-55b82c0ad28c'
+      activationstatus: true
+      created: 2025-06-14T16:23:43.531+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:34:18.537+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:34:18.321+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "The airspace will be shut down again starting from 10:30 pm (1930 GMT)\
         \ till 6:00 am (0300 GMT) on Sunday, NNA reported citing the Lebanese Civil\
         \ Aviation Authority.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25b6c3e3-9df8-4041-a601-3f42c2cd03b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:23:43.532+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:34:18.537+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:34:18.322+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e0e0c63-486e-4d2e-b383-3fd2a9ae3d85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-06-14T16:23:43.532+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-06-14T16:34:18.537+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-06-14T16:34:18.322+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Muhammad Al Gebaly and Menna Alaa El Din, Editing
+    section3:
+      primarytype: 'block'
+      uuid: '25b6c3e3-9df8-4041-a601-3f42c2cd03b4'
+      activationstatus: true
+      created: 2025-06-14T16:23:43.532+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:34:18.537+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:34:18.322+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\r"
+    section4:
+      primarytype: 'block'
+      uuid: '7e0e0c63-486e-4d2e-b383-3fd2a9ae3d85'
+      activationstatus: true
+      created: 2025-06-14T16:23:43.532+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-06-14T16:34:18.537+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-06-14T16:34:18.322+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Muhammad Al Gebaly and Menna Alaa El Din, Editing
         by Louise Heavens and Toby Chopra)</em></p>'

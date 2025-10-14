@@ -1,1763 +1,1763 @@
-'24':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '9dd42998-860d-49c9-b7c9-5ba799f20db1'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-05-24T10:07:46.091+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-05-24T10:33:54.825+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-05-24T10:33:54.628+08:00
-  'mgnl:lastModified': 2025-05-24T23:22:28.014+08:00
-  'mgnl:lastModifiedBy': 'tristan-nwp'
-  'Australia-begins-clean-up-after-floods-kill-5--damage-10-000-properties':
-    'author': 'Sam McKeith and Peter Hobson, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T10:07:46.000+08:00
-    'imagesource': 'jcr:7e60d7d7-8edb-4c57-b8c4-270d36f0ef51'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9aa72db5-35cb-447e-a010-f125a8c069a0'
-    'lead': 'Australian authorities started clean-up efforts on Saturday after floods
+section24:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '9dd42998-860d-49c9-b7c9-5ba799f20db1'
+  activationstatus: true
+  created: 2025-05-24T10:07:46.091+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-05-24T10:33:54.825+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-05-24T10:33:54.628+08:00
+  lastmodified: 2025-05-24T23:22:28.014+08:00
+  lastmodifiedby: 'tristan-nwp'
+  'START HERE----->Australia-begins-clean-up-after-floods-kill-5--damage-10-000-properties':
+    author: 'Sam McKeith and Peter Hobson, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T10:07:46.000+08:00
+    imagesource: '7e60d7d7-8edb-4c57-b8c4-270d36f0ef51'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '9aa72db5-35cb-447e-a010-f125a8c069a0'
+    lead: 'Australian authorities started clean-up efforts on Saturday after floods
       claimed five lives and inundated more than 10,000 properties in the country’s
       southeast.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T10:33:41.388+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T10:40:10.902+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T10:40:10.565+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Australia begins clean-up after floods kill 5, damage 10,000 properties'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c5d57c2-22e1-4dc7-a611-711ae2afedf8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.396+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.903+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.560+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Australian authorities started clean-up
+    activationstatus: true
+    created: 2025-05-24T10:33:41.388+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T10:40:10.902+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T10:40:10.565+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Australia begins clean-up after floods kill 5, damage 10,000 properties'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9c5d57c2-22e1-4dc7-a611-711ae2afedf8'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.396+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.903+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.560+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Australian authorities started clean-up
         efforts on Saturday after floods claimed five lives and inundated more than
         10,000 properties in the country’s southeast.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19024dc8-f281-41e9-b5af-2bce46094bfb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.396+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.903+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.560+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The New South Wales emergency services agency said damage assessments
+    section1:
+      primarytype: 'block'
+      uuid: '19024dc8-f281-41e9-b5af-2bce46094bfb'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.396+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.903+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.560+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The New South Wales emergency services agency said damage assessments
         were under way in the state for the mid-north coast region after the floods
         that cut off towns, swept away livestock and destroyed homes this week.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7fc430a0-4647-4461-a082-e3aa444dec26'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.396+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.903+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.560+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Early estimates indicate at least 10,000 properties may have been
+    section2:
+      primarytype: 'block'
+      uuid: '7fc430a0-4647-4461-a082-e3aa444dec26'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.396+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.903+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.560+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Early estimates indicate at least 10,000 properties may have been
         damaged following record flooding," the agency said in a statement. Conditions
         had improved since Friday in the impacted areas of Australia’s most populous
         state, it said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd6c03b7c-096d-49c2-b21f-210e87e47de8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.397+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.904+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.561+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Even so, hundreds of flood-hit residents were still in evacuation centres,
+    section3:
+      primarytype: 'block'
+      uuid: 'd6c03b7c-096d-49c2-b21f-210e87e47de8'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.397+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.904+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.561+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Even so, hundreds of flood-hit residents were still in evacuation centres,
         State Emergency Services commissioner Mike Wassing said at a media conference
         in Sydney, with 52 flood rescues being made overnight.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c71d0218-31c7-44bf-84ff-12396e59e633'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.397+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.904+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.562+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The latest flood-linked death was that of a man in his 80s, whose body
+    section4:
+      primarytype: 'block'
+      uuid: 'c71d0218-31c7-44bf-84ff-12396e59e633'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.397+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.904+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.562+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The latest flood-linked death was that of a man in his 80s, whose body
         was found at a flooded property about 50 km (31 miles) from Taree, one of
         the worst-hit towns, police said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '27b42890-f3fd-4664-a181-bcb9055b2bb5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.398+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.904+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.562+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Prime Minister Anthony Albanese, forced on Friday to cancel a trip
+    section5:
+      primarytype: 'block'
+      uuid: '27b42890-f3fd-4664-a181-bcb9055b2bb5'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.398+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.904+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.562+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Prime Minister Anthony Albanese, forced on Friday to cancel a trip
         to Taree due to floodwaters, said it was "awful to hear the news of more loss
         of life".'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ec7143e-dcbf-49a7-b97e-faca0d366302'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.398+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.905+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.563+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"All of our thoughts are with his loved ones and the community at this
+    section6:
+      primarytype: 'block'
+      uuid: '5ec7143e-dcbf-49a7-b97e-faca0d366302'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.398+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.905+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.563+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"All of our thoughts are with his loved ones and the community at this
         time," Albanese said in a statement.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8e060c8-2265-40ac-9063-7892c6550092'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.398+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.905+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.563+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The floods, sparked by days of incessant rain, submerged intersections
+    section7:
+      primarytype: 'block'
+      uuid: 'a8e060c8-2265-40ac-9063-7892c6550092'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.398+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.905+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.563+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The floods, sparked by days of incessant rain, submerged intersections
         and street signs in mid-north coast towns and covered cars up to their windshields,
         after fast-rising waters burst river banks. At their peak, the floods isolated
         around 50,000 people.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'daa272f9-bafc-421e-9daf-f76cdb825138'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.399+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.905+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.564+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Australia has been hit with more extreme weather events that some experts
+    section8:
+      primarytype: 'block'
+      uuid: 'daa272f9-bafc-421e-9daf-f76cdb825138'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.399+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.905+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.564+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Australia has been hit with more extreme weather events that some experts
         say are the result of climate change. After droughts and devastating bushfires
         at the end of last decade, frequent floods have wreaked havoc since early
         2021.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50034fbe-3862-4a17-880c-bacad4a4c0e1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:33:41.399+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:10.906+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:10.564+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Sam McKeith in Sydney and Peter Hobson in Canberra;
+    section9:
+      primarytype: 'block'
+      uuid: '50034fbe-3862-4a17-880c-bacad4a4c0e1'
+      activationstatus: true
+      created: 2025-05-24T10:33:41.399+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:10.906+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:10.564+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Sam McKeith in Sydney and Peter Hobson in Canberra;
         Editing by Tom Hogue)</em></p>'
-  'Trump-appeals-judge-s-block-on-mass-layoffs-at-federal-agencies':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T10:34:12.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3c7b8bfd-bbda-4629-83c9-e45ae2b97b78'
-    'lead': 'US President Donald Trump’s administration on Friday appealed a federal
+  'START HERE----->Trump-appeals-judge-s-block-on-mass-layoffs-at-federal-agencies':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T10:34:12.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: '3c7b8bfd-bbda-4629-83c9-e45ae2b97b78'
+    lead: 'US President Donald Trump’s administration on Friday appealed a federal
       judge’s block on mass layoffs by federal agencies, a key piece of the Republican
       president’s plans to downsize the government.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T10:35:28.504+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T10:40:31.709+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T10:40:31.261+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Trump appeals judge’s block on mass layoffs at federal agencies'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de0f1e71-7981-4586-91ff-79330a282727'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.516+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.710+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.247+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> U.S. President Donald Trump’s administration
+    activationstatus: true
+    created: 2025-05-24T10:35:28.504+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T10:40:31.709+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T10:40:31.261+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump appeals judge’s block on mass layoffs at federal agencies'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'de0f1e71-7981-4586-91ff-79330a282727'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.516+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.710+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.247+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> U.S. President Donald Trump’s administration
         on Friday appealed a federal judge’s block on mass layoffs by federal agencies,
         a key piece of the Republican president’s plans to downsize the government.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfe0da26-f1a5-42a6-9b42-035b8bdedc73'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.517+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.710+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.248+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In an order late on Thursday, U.S. District Judge Susan Illston barred
+    section1:
+      primarytype: 'block'
+      uuid: 'cfe0da26-f1a5-42a6-9b42-035b8bdedc73'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.517+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.710+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.248+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In an order late on Thursday, U.S. District Judge Susan Illston barred
         agencies from mass layoffs pending the outcome of a lawsuit by unions, nonprofits
         and municipalities, saying Trump needed permission from Congress before reorganizing
         federal agencies.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '67540fb1-bd47-425d-868c-8df2598d0cda'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.517+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.711+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.248+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Trump administration appealed the decision to the San Francisco-based
+    section2:
+      primarytype: 'block'
+      uuid: '67540fb1-bd47-425d-868c-8df2598d0cda'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.517+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.711+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.248+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The Trump administration appealed the decision to the San Francisco-based
         9th U.S. Circuit Court of Appeals, asking the court to pause Illston’s ruling
         pending the outcome of the appeal, saying it "rests on a fundamentally flawed
         understanding of the separation of powers."'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '53802b27-3ad1-415f-ac9a-01acbc47a51a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.518+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.711+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.249+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'White House spokesman Harrison Fields said Congress has granted the
+    section3:
+      primarytype: 'block'
+      uuid: '53802b27-3ad1-415f-ac9a-01acbc47a51a'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.518+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.711+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.249+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'White House spokesman Harrison Fields said Congress has granted the
         president the authority to implement mass layoffs and called Illston’s decision
         "extreme judicial overreach."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8b0a62c3-7355-41b5-ae43-4d37e57879ab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.518+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.711+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.249+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The President must retain the ability to manage the Executive Branch,
+    section4:
+      primarytype: 'block'
+      uuid: '8b0a62c3-7355-41b5-ae43-4d37e57879ab'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.518+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.711+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.249+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The President must retain the ability to manage the Executive Branch,
         including implementing reductions in force when necessary, as has been the
         practice for nearly 150 years," Fields said in a statement.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f354d0c1-90b5-4b1e-a120-9b7f9f69a807'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.518+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.712+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.250+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The decision was the latest instance of a federal judge checking an
+    section5:
+      primarytype: 'block'
+      uuid: 'f354d0c1-90b5-4b1e-a120-9b7f9f69a807'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.518+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.712+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.250+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The decision was the latest instance of a federal judge checking an
         aggressive push by Trump and billionaire adviser Elon Musk to drastically
         shrink or eliminate many federal agencies, make it easier to fire government
         workers and strip them of the ability to join unions.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '677817ef-211f-4f41-a458-4d89cae015f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.519+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.712+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.250+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On May 9, Illston blocked about 20 agencies from making mass layoffs
+    section6:
+      primarytype: 'block'
+      uuid: '677817ef-211f-4f41-a458-4d89cae015f0'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.519+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.712+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.250+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On May 9, Illston blocked about 20 agencies from making mass layoffs
         for two weeks and ordered the reinstatement of workers who had lost their
         jobs.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f2dbcb1-fc09-4a5b-aa0e-ca878b4bd8c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.519+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.712+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.251+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In Thursday’s order, she largely continued the relief provided in
+    section7:
+      primarytype: 'block'
+      uuid: '7f2dbcb1-fc09-4a5b-aa0e-ca878b4bd8c4'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.519+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.712+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.251+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In Thursday’s order, she largely continued the relief provided in
         the temporary restraining order.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9658ee07-5b9e-47dc-9f97-7d98cc16ff4a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.519+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.713+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.251+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The President has the authority to seek changes to executive branch
+    section8:
+      primarytype: 'block'
+      uuid: '9658ee07-5b9e-47dc-9f97-7d98cc16ff4a'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.519+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.713+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.251+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The President has the authority to seek changes to executive branch
         agencies, but he must do so in lawful ways and, in the case of large-scale
         reorganizations, with the cooperation of the legislative branch," wrote Illston,
         an appointee of then-President Bill Clinton, a Democrat.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f25f95c9-d5f0-4ac2-9f7a-971a01b666ba'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.713+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.252+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Illston said her order "shall not limit federal agency defendants from
+    section9:
+      primarytype: 'block'
+      uuid: 'f25f95c9-d5f0-4ac2-9f7a-971a01b666ba'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.713+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.252+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Illston said her order "shall not limit federal agency defendants from
         presenting reorganization proposals for legislative approval or engaging in
         their own internal planning activities" without direction from the White House.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2318381a-42f5-4adc-935f-5661d13a3959'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.713+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.253+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration had asked the Supreme Court to pause Illston’s
+    section10:
+      primarytype: 'block'
+      uuid: '2318381a-42f5-4adc-935f-5661d13a3959'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.713+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.253+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The administration had asked the Supreme Court to pause Illston’s
         May 9 ruling, saying she improperly infringed on Trump’s constitutional powers
         to control the executive branch. It withdrew that request on Friday in light
         of the newer ruling.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c7121854-790b-4235-aabd-9292edbed38f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.520+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.714+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.253+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<h3><strong>''WHAT TO CUT''</strong></h3>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f90997dc-e548-41d3-826a-ac2d218a9f97'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.521+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.714+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.254+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Federal agencies have broad authority to implement large-scale layoffs,
+    section11:
+      primarytype: 'block'
+      uuid: 'c7121854-790b-4235-aabd-9292edbed38f'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.520+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.714+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.253+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<h3><strong>'WHAT TO CUT'</strong></h3>'
+    section12:
+      primarytype: 'block'
+      uuid: 'f90997dc-e548-41d3-826a-ac2d218a9f97'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.521+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.714+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.254+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Federal agencies have broad authority to implement large-scale layoffs,
         government lawyer Andrew Bernie said at a hearing on Thursday.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6b7be0c7-4206-43e9-869e-5848577c4442'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.521+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.714+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.254+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said an executive order issued by Trump had merely asked agencies
+    section13:
+      primarytype: 'block'
+      uuid: '6b7be0c7-4206-43e9-869e-5848577c4442'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.521+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.714+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.254+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He said an executive order issued by Trump had merely asked agencies
         to determine what cuts could be made without calling for any concrete actions
         such as layoffs or office closures that plaintiffs could sue over at this
         point.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c2a22b78-c3e9-4432-b13b-3dbe3462505c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.522+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.715+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.255+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"Those decisions will be disclosed when they are made, and when they
+    section14:
+      primarytype: 'block'
+      uuid: 'c2a22b78-c3e9-4432-b13b-3dbe3462505c'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.522+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.715+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.255+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"Those decisions will be disclosed when they are made, and when they
         are made, the plaintiffs can challenge them. Indeed, the plaintiffs have challenged
         individual decisions,” Bernie said, citing pending lawsuits over cuts at the
         departments of Education, Health and Human Services and Homeland Security.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c9559c67-7f86-4dad-a1e3-bd605f979583'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.522+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.715+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Danielle Leonard, who represented the plaintiffs, said directives from
+    section15:
+      primarytype: 'block'
+      uuid: 'c9559c67-7f86-4dad-a1e3-bd605f979583'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.522+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.715+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Danielle Leonard, who represented the plaintiffs, said directives from
         Trump and other White House officials made clear that agencies had little
         say in whether to gut their workforces.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f10d7a78-765b-499d-9869-8ef13f91c79e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.522+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.715+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.256+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"They are saying what to cut, when to cut, where to cut, and all they’re
+    section16:
+      primarytype: 'block'
+      uuid: 'f10d7a78-765b-499d-9869-8ef13f91c79e'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.522+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.715+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.256+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"They are saying what to cut, when to cut, where to cut, and all they’re
         asking the agencies to do is come forward with a plan," she said.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f0e4840-cd7c-4ab4-a192-8cb3965a7744'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.523+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.715+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.257+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The case involves the departments of Agriculture, Health and Human
+    section17:
+      primarytype: 'block'
+      uuid: '6f0e4840-cd7c-4ab4-a192-8cb3965a7744'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.523+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.715+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.257+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The case involves the departments of Agriculture, Health and Human
         Services, Treasury, Commerce, State and Veterans Affairs, among others.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '020cd43c-0bda-403d-bce7-db8b9916e642'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.523+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.716+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.257+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump has urged agencies to eliminate duplicative roles, unnecessary
+    section18:
+      primarytype: 'block'
+      uuid: '020cd43c-0bda-403d-bce7-db8b9916e642'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.523+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.716+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.257+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump has urged agencies to eliminate duplicative roles, unnecessary
         management layers, and non-critical jobs while automating routine tasks, closing
         regional offices and cutting back on outside contractors.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5468706e-7523-43f3-bd29-780fab2d3f6d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.524+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.716+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'About 260,000 federal workers, most of whom have taken buyouts, have
+    section19:
+      primarytype: 'block'
+      uuid: '5468706e-7523-43f3-bd29-780fab2d3f6d'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.524+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.716+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'About 260,000 federal workers, most of whom have taken buyouts, have
         left or will leave by the end of September. Several agencies have been earmarked
         for deep cuts, such as more than 80,000 jobs at the Department of Veterans
         Affairs and 10,000 at the Department of Health and Human Services.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '03df1e34-029e-43db-9c3a-02ad60064bd0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.524+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.716+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.258+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Dozens of lawsuits have challenged the administration’s efforts, and
+    section20:
+      primarytype: 'block'
+      uuid: '03df1e34-029e-43db-9c3a-02ad60064bd0'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.524+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.716+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.258+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Dozens of lawsuits have challenged the administration’s efforts, and
         Illston’s ruling earlier this month was the broadest yet of its kind.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '551fc2d3-8b81-4a44-b28d-36d59e12c692'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.525+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.717+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.259+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'An appeals court has paused another judge’s March ruling requiring
+    section21:
+      primarytype: 'block'
+      uuid: '551fc2d3-8b81-4a44-b28d-36d59e12c692'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.525+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.717+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.259+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'An appeals court has paused another judge’s March ruling requiring
         agencies to reinstate nearly 25,000 probationary employees, who typically
         have been in their current roles for less than a year or two.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f24551e-a31e-4fcc-bcc7-44cfd12c1c55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:35:28.525+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:40:31.717+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:40:31.260+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Daniel Wiessner in Albany, New York and Shubham
+    section22:
+      primarytype: 'block'
+      uuid: '5f24551e-a31e-4fcc-bcc7-44cfd12c1c55'
+      activationstatus: true
+      created: 2025-05-24T10:35:28.525+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:40:31.717+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:40:31.260+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Daniel Wiessner in Albany, New York and Shubham
         Kalia in Bengaluru; Editing by Alexia Garamfalvi, Clarence Fernandez, Nia
         Williams and Diane Craft)</em></p>'
-  'White-House-National-Security-Council-slashes-staff-in-dramatic-restructuring--sources-say':
-    'author': 'Gram Slattery and Steve Holland, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T10:35:33.000+08:00
-    'imagesource': 'jcr:80bbb4aa-4738-4499-a91f-7e3d4977d688'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '9e57222c-06ba-4af0-a95f-c3b1a49024b7'
-    'lead': 'Dozens of staffers were fired from the White House National Security
+  'START HERE----->White-House-National-Security-Council-slashes-staff-in-dramatic-restructuring--sources-say':
+    author: 'Gram Slattery and Steve Holland, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T10:35:33.000+08:00
+    imagesource: '80bbb4aa-4738-4499-a91f-7e3d4977d688'
+    primarytype: 'composition'
+    uuid: '9e57222c-06ba-4af0-a95f-c3b1a49024b7'
+    lead: 'Dozens of staffers were fired from the White House National Security
       Council on Friday, as President Donald Trump moved to slash the size and scope
       of the once-powerful body, five sources briefed on the matter said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T10:36:31.892+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T10:36:32.175+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'White House National Security Council slashes staff in dramatic restructuring,
+    activationstatus: true
+    created: 2025-05-24T10:36:31.892+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T10:36:32.175+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T10:36:31.938+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'White House National Security Council slashes staff in dramatic restructuring,
       sources say'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f78bfe6-c102-4e72-b46c-0817d94ea74b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.904+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.176+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Dozens of staffers were fired from
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '6f78bfe6-c102-4e72-b46c-0817d94ea74b'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.904+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.176+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Dozens of staffers were fired from
         the White House National Security Council on Friday, as President Donald Trump
         moved to slash the size and scope of the once-powerful body, five sources
         briefed on the matter said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '984560b1-6b47-43c6-ae17-759544736cb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.904+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.177+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Staff dealing with most major geopolitical issues, from Ukraine to
+    section1:
+      primarytype: 'block'
+      uuid: '984560b1-6b47-43c6-ae17-759544736cb6'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.904+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.177+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Staff dealing with most major geopolitical issues, from Ukraine to
         Kashmir, were terminated in the afternoon, said the sources, who requested
         anonymity as they were not permitted to speak to the media.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9db8049b-a0e2-4a0d-8e01-3331e7821a08'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.905+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.178+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The move came just weeks after Secretary of State Marco Rubio took
+    section2:
+      primarytype: 'block'
+      uuid: '9db8049b-a0e2-4a0d-8e01-3331e7821a08'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.905+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.178+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The move came just weeks after Secretary of State Marco Rubio took
         over from Mike Waltz as national security adviser.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a707641-6bca-4040-808c-7378a433375b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.905+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.179+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The NSC restructuring is expected to further reduce the agency’s influence,
+    section3:
+      primarytype: 'block'
+      uuid: '7a707641-6bca-4040-808c-7378a433375b'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.905+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.179+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The NSC restructuring is expected to further reduce the agency’s influence,
         transforming it from a powerful policymaking body into a small organization
         focused more on implementing the president’s agenda than on shaping it, the
         sources said. In practice, the move is expected to grant more authority to
         the State Department, the Defense Department and other departments and agencies
         involved in diplomacy, national security and intelligence matters, the sources
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6aac5f4-b1df-4013-9cb0-8757779c6697'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.905+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.180+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration’s aim is to reduce the size of the NSC to just
+    section4:
+      primarytype: 'block'
+      uuid: 'a6aac5f4-b1df-4013-9cb0-8757779c6697'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.905+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.180+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The administration’s aim is to reduce the size of the NSC to just
         a few dozen people. Four sources with knowledge of the plans said they expect
         the final headcount at the NSC to come out to around 50 people.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f569cb36-9a07-4379-b03b-2e79c063d96b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.906+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.181+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The NSC is traditionally the main body used by presidents to coordinate
+    section5:
+      primarytype: 'block'
+      uuid: 'f569cb36-9a07-4379-b03b-2e79c063d96b'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.906+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.181+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The NSC is traditionally the main body used by presidents to coordinate
         national security strategy. Its staff often make key decisions regarding America’s
         approach to the world’s most volatile conflicts and play a key role in keeping
         America safe.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e315e772-3750-45c2-a37f-cf9b757b08cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.906+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.182+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The body had more than 300 staffers under Democratic President Joe
+    section6:
+      primarytype: 'block'
+      uuid: 'e315e772-3750-45c2-a37f-cf9b757b08cc'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.906+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.182+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The body had more than 300 staffers under Democratic President Joe
         Biden, but even before the recent firings under Trump was considerably less
         than half the size of Biden’s NSC. The staffers who are cut from the agency
         will be moved to other positions in government, two of the sources told Reuters.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e71ba27-6f64-4db6-894e-7fb1e20f90b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.906+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.183+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Two other sources described a chaotic scene in recent hours. Outgoing
+    section7:
+      primarytype: 'block'
+      uuid: '7e71ba27-6f64-4db6-894e-7fb1e20f90b0'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.906+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.183+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Two other sources described a chaotic scene in recent hours. Outgoing
         staff were in some cases reduced to tears in the Eisenhower Executive Office
         Building, where the NSC is housed, they said.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc424da8-88a2-4b76-8070-2bf165376b05'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.907+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.184+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Many conservatives have long pushed for a pared-down NSC, arguing that
+    section8:
+      primarytype: 'block'
+      uuid: 'bc424da8-88a2-4b76-8070-2bf165376b05'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.907+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.184+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Many conservatives have long pushed for a pared-down NSC, arguing that
         a number of the positions are duplicative of functions found elsewhere in
         the government. Democrats and some Republicans have argued that gutting the
         body will mean Trump’s policies are less informed by expert advice.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '87023b01-9284-49ec-9b99-0925df56f651'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.907+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.184+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The NSC has had a hard time recruiting top talent in recent months.
+    section9:
+      primarytype: 'block'
+      uuid: '87023b01-9284-49ec-9b99-0925df56f651'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.907+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.184+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The NSC has had a hard time recruiting top talent in recent months.
         Certain key positions, like the top post overseeing Latin American affairs,
         were never filled on a permanent basis.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0079edb-5a3a-488c-96d9-742dbf41404b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.907+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.185+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Several high-ranking staffers were fired earlier in the year after
+    section10:
+      primarytype: 'block'
+      uuid: 'd0079edb-5a3a-488c-96d9-742dbf41404b'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.907+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.185+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Several high-ranking staffers were fired earlier in the year after
         right-wing conspiracy theorist Laura Loomer presented Trump with a list of
         national security staffers she perceived to be disloyal.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd7ad8861-85b7-42c2-bba0-3b773d335d2c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.908+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.186+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Disclosures that Waltz, the previous national security adviser, had
+    section11:
+      primarytype: 'block'
+      uuid: 'd7ad8861-85b7-42c2-bba0-3b773d335d2c'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.908+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.186+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Disclosures that Waltz, the previous national security adviser, had
         accidentally shared information on an imminent bombing campaign in Yemen with
         an Atlantic journalist further dented morale.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8389588-fdea-4348-9fae-526903468982'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.908+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.187+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'As part of the restructuring, certain sections of the NSC - known as
+    section12:
+      primarytype: 'block'
+      uuid: 'a8389588-fdea-4348-9fae-526903468982'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.908+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.187+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'As part of the restructuring, certain sections of the NSC - known as
         directorates - are expected to be combined with other directorates or eliminated
         altogether, three sources said. In most of the directorates that remain, only
         a few staff are left, the sources added.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f9b6bf0c-eb9d-4f84-86d4-106b7156ce6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.909+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.188+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Among the directorates that may cease to operate as independent bodies
+    section13:
+      primarytype: 'block'
+      uuid: 'f9b6bf0c-eb9d-4f84-86d4-106b7156ce6c'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.909+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.188+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Among the directorates that may cease to operate as independent bodies
         are those overseeing African affairs and multilateral organizations, like
         NATO, three sources said.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a04f1cd-e19b-4fd5-988c-3deba25db1a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T10:36:31.909+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T10:36:32.189+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T10:36:31.938+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Steve Holland and Gram SlatteryAdditional reporting
+    section14:
+      primarytype: 'block'
+      uuid: '3a04f1cd-e19b-4fd5-988c-3deba25db1a9'
+      activationstatus: true
+      created: 2025-05-24T10:36:31.909+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T10:36:32.189+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T10:36:31.938+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Steve Holland and Gram SlatteryAdditional reporting
         by Jonathan SaulEditing by Colleen Jenkins and Leslie Adler)</em></p>'
-  'earthquake-La-Union':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T13:29:13.000+08:00
-    'imagesource': 'jcr:7c1aff6d-7ccf-4ae6-b340-f06a57c51c8a'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '7029b272-2cd9-4f4f-9ab8-fef0e6769d64'
-    'lead': 'State seismologists on Saturday, May 24 warned of aftershocks and damage
+  'START HERE----->earthquake-La-Union':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T13:29:13.000+08:00
+    imagesource: '7c1aff6d-7ccf-4ae6-b340-f06a57c51c8a'
+    primarytype: 'composition'
+    uuid: '7029b272-2cd9-4f4f-9ab8-fef0e6769d64'
+    lead: 'State seismologists on Saturday, May 24 warned of aftershocks and damage
       after a magnitude 5.2 earthquake hit the waters off La Union.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T13:30:00.020+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T13:33:47.055+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T13:33:46.833+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Magnitude 5.2 earthquake hits La Union waters'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc8affd5-23dc-4149-9739-2dca2ab80041'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.823+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.056+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.830+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - State seismologists on Saturday, May
+    activationstatus: true
+    created: 2025-05-24T13:30:00.020+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T13:33:47.055+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T13:33:46.833+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Magnitude 5.2 earthquake hits La Union waters'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'bc8affd5-23dc-4149-9739-2dca2ab80041'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.823+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.056+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.830+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - State seismologists on Saturday, May
         24 warned of aftershocks and damage after a magnitude 5.2 earthquake hit the
         waters off La Union.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c8e72a5-89c1-4a5b-87c3-659634490344'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.823+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.057+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.823+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a bulletin, the Philippine Institute of Volcanology and Seismology
+    section1:
+      primarytype: 'block'
+      uuid: '1c8e72a5-89c1-4a5b-87c3-659634490344'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.823+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.057+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.823+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a bulletin, the Philippine Institute of Volcanology and Seismology
         (Phivolcs) initially said the quake was magnitude 5.4. It later on downgraded
         it to  5.2.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50b20e34-9c36-485d-9ea7-ae5a7503c761'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.823+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.058+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.823+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Phivolcs said the tectonic earthquake’s center was located west of
+    section2:
+      primarytype: 'block'
+      uuid: '50b20e34-9c36-485d-9ea7-ae5a7503c761'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.823+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.058+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.823+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Phivolcs said the tectonic earthquake’s center was located west of
         Luna in La Union at 10:36 a.m. It had a depth of 10 kilometers.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'efadf82f-b75e-4917-b816-f41b19ca26b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.824+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.059+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.824+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The following intensities were felt in the following areas: '
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d62d7b0-5794-48c3-b0e8-1db89a4d3e90'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.824+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.061+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.824+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Intensity IV - Candon City and Vigan City Ilocos Sur'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '829b78ff-b965-46e8-9b92-3641ace922e4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.825+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.062+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Intensity III - Sinait, Ilocos Sur'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f0d85c56-695e-4a03-ac48-b30acfd18422'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.825+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.063+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.825+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Intensity II - Bangued, Abra; Tagudin, Ilocos Sur; San Fernando and
+    section3:
+      primarytype: 'block'
+      uuid: 'efadf82f-b75e-4917-b816-f41b19ca26b4'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.824+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.059+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.824+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The following intensities were felt in the following areas: '
+    section4:
+      primarytype: 'block'
+      uuid: '6d62d7b0-5794-48c3-b0e8-1db89a4d3e90'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.824+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.061+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.824+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Intensity IV - Candon City and Vigan City Ilocos Sur'
+    section5:
+      primarytype: 'block'
+      uuid: '829b78ff-b965-46e8-9b92-3641ace922e4'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.825+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.062+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Intensity III - Sinait, Ilocos Sur'
+    section6:
+      primarytype: 'block'
+      uuid: 'f0d85c56-695e-4a03-ac48-b30acfd18422'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.825+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.063+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.825+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Intensity II - Bangued, Abra; Tagudin, Ilocos Sur; San Fernando and
         Aringay in La Union; Bani, Infanta, and Bolinao in Pangasinan'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ccec2150-10c5-46b6-adc4-8d353c320f9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T13:33:46.826+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T13:33:47.064+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T13:33:46.826+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Intensity I - Baguio City</p>'
-  'Ex-DHSUD-chief-Acuzar-maintains-4PH-project-is-solution-to-housing-crisis--':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T14:48:00.000+08:00
-    'imagesource': 'jcr:dd294a7c-27a6-4418-981f-62b603f0f48d'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3cccf22c-1695-4996-84a9-46ecae473de9'
-    'lead': 'A day after the president appointed his successor amid the Cabinet shake-up,
+    section7:
+      primarytype: 'block'
+      uuid: 'ccec2150-10c5-46b6-adc4-8d353c320f9b'
+      activationstatus: true
+      created: 2025-05-24T13:33:46.826+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T13:33:47.064+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T13:33:46.826+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Intensity I - Baguio City</p>'
+  'START HERE----->Ex-DHSUD-chief-Acuzar-maintains-4PH-project-is-solution-to-housing-crisis--':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T14:48:00.000+08:00
+    imagesource: 'dd294a7c-27a6-4418-981f-62b603f0f48d'
+    primarytype: 'composition'
+    uuid: '3cccf22c-1695-4996-84a9-46ecae473de9'
+    lead: 'A day after the president appointed his successor amid the Cabinet shake-up,
       ex-Housing Secretary Jerry Acuzar expressed gratitude for his term as chief
       and maintained that the flagship Pambansang Pabahay para sa Pilipino (4PH Program)
       is still the “long term” solution for the country’s housing crisis.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T14:53:22.583+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T14:53:22.865+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Ex-DHSUD chief Acuzar maintains 4PH project is solution to housing crisis  '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4673d58-286a-41c7-9c4c-861287dc93da'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.594+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.866+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Ex-DHSUD chief Acuzar maintains 4PH project is solution to housing
+    activationstatus: true
+    created: 2025-05-24T14:53:22.583+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T14:53:22.865+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T14:53:22.621+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Ex-DHSUD chief Acuzar maintains 4PH project is solution to housing crisis  
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f4673d58-286a-41c7-9c4c-861287dc93da'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.594+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.866+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Ex-DHSUD chief Acuzar maintains 4PH project is solution to housing
         crisis</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '925c999d-c540-4f74-beee-e22f5672da7f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.594+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.867+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> A day after the president
+    section1:
+      primarytype: 'block'
+      uuid: '925c999d-c540-4f74-beee-e22f5672da7f'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.594+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.867+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> A day after the president
         appointed his successor amid the Cabinet shake-up, ex-Housing Secretary Jerry
         Acuzar expressed gratitude for his term as chief and maintained that the flagship
         Pambansang Pabahay para sa Pilipino (4PH Program) is still the “long term”
         solution for the country’s housing crisis.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0372bf36-2a76-43f3-93be-fb7c3268ed89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.595+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.868+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Acuzar’s statement released Saturday, May 24, comes after Executive
+    section2:
+      primarytype: 'block'
+      uuid: '0372bf36-2a76-43f3-93be-fb7c3268ed89'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.595+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.868+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Acuzar’s statement released Saturday, May 24, comes after Executive
         Secretary Lucas Bersamin cited "underdelivery" as the reason behind his replacement
         as chief of the Department of Human Settlements and Urban Development.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aedb85a8-b8c0-410f-a91a-caa900c5ec95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.595+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.869+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'While the secretary did acknowledge Acuzar’s efficiency when he was
+    section3:
+      primarytype: 'block'
+      uuid: 'aedb85a8-b8c0-410f-a91a-caa900c5ec95'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.595+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.869+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'While the secretary did acknowledge Acuzar’s efficiency when he was
         still working in the private sector, Bersamin said the former housing chief
         must have “set the standard too high for himself."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ceef6ba5-47b3-405c-a82e-07f87d34f361'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.595+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.870+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>President Ferdinand Marcos Jr. accepted Acuzar’s courtesy resignation,
+    section4:
+      primarytype: 'block'
+      uuid: 'ceef6ba5-47b3-405c-a82e-07f87d34f361'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.595+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.870+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>President Ferdinand Marcos Jr. accepted Acuzar’s courtesy resignation,
         which he sought from all secretaries. He then <strong><a href="https://www.newswatchplus.ph/news/2025/5/23/Aliling-is-new-housing-chief--replaces-Acuzar.html">appointed</a></strong>
         former Undersecretary Jose Ramon "Ping" Aliling as Acuzar’s successor.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '15ae6c78-82a0-433f-9f0a-94b2bc7c276b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.596+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.871+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“To incoming Secretary Ping, my all-out support to you,” Acuzar said
+    section5:
+      primarytype: 'block'
+      uuid: '15ae6c78-82a0-433f-9f0a-94b2bc7c276b'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.596+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.871+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“To incoming Secretary Ping, my all-out support to you,” Acuzar said
         in his response, adding that he trusts him to continue the 4PH Program which
         the incoming secretary also helped implement.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3c1567c-2422-4b33-9422-4373f86c823d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.596+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.872+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“<em>Naniniwala po ako na bagamat naging puno ng hamon ang pagsusulong
-        natin sa 4PH, in the longer term, ito''y makakatulong resolbahin ang kakulangan
+    section6:
+      primarytype: 'block'
+      uuid: 'd3c1567c-2422-4b33-9422-4373f86c823d'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.596+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.872+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“<em>Naniniwala po ako na bagamat naging puno ng hamon ang pagsusulong
+        natin sa 4PH, in the longer term, ito'y makakatulong resolbahin ang kakulangan
         ng disenteng pabahay para sa kababayan nating mahihirap</em>,” Acuzar said.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ded3783c-a0d3-4aec-9b72-1c8f8678df47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.596+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.873+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: I believe that although our promotion of 4PH has been
+    section7:
+      primarytype: 'block'
+      uuid: 'ded3783c-a0d3-4aec-9b72-1c8f8678df47'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.596+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.873+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '[Translation: I believe that although our promotion of 4PH has been
         full of challenges, in the longer term, it will help solve the lack of decent
         housing for our poor countrymen.]'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25575783-0a40-4b9d-85b5-d6cc7b37d94a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.597+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.873+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'While some beneficiaries have already received their housing from the
+    section8:
+      primarytype: 'block'
+      uuid: '25575783-0a40-4b9d-85b5-d6cc7b37d94a'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.597+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.873+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'While some beneficiaries have already received their housing from the
         4PH Program, persistent issues like limited beneficiary reach, delays in support,
         and the absence of long-term solutions have kept it from achieving large-scale
         success.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7de29481-5068-4ad2-83ad-eeeff0ed0294'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:53:22.597+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:53:22.874+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:53:22.621+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Marcos earlier sought the <a href="https://www.newswatchplus.ph/news/2025/5/23/Aliling-is-new-housing-chief--replaces-Acuzar.html"><strong>courtesy
+    section9:
+      primarytype: 'block'
+      uuid: '7de29481-5068-4ad2-83ad-eeeff0ed0294'
+      activationstatus: true
+      created: 2025-05-24T14:53:22.597+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:53:22.874+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:53:22.621+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Marcos earlier sought the <a href="https://www.newswatchplus.ph/news/2025/5/23/Aliling-is-new-housing-chief--replaces-Acuzar.html"><strong>courtesy
         resignation</strong></a> of all Cabinet secretaries in a sweeping move to
         “realign government with the people’s expectations.”&nbsp;</p>'
-  'Double-victory--PH-bets-bag-Miss-Orient-Tourism-Global--Aura-International-titles-in-one-night':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T14:55:47.000+08:00
-    'imagesource': 'jcr:5edb34ef-735f-4532-8dba-471a826d74f5'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3083e8c1-86bb-4aa5-9be8-479c78925c52'
-    'lead': "Indeed, a powerhouse night for pageants! \n\nPhilippine representatives\
+  'START HERE----->Double-victory--PH-bets-bag-Miss-Orient-Tourism-Global--Aura-International-titles-in-one-night':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T14:55:47.000+08:00
+    imagesource: '5edb34ef-735f-4532-8dba-471a826d74f5'
+    primarytype: 'composition'
+    uuid: '3083e8c1-86bb-4aa5-9be8-479c78925c52'
+    lead: "Indeed, a powerhouse night for pageants! \n\nPhilippine representatives\
       \ Patricia Bangug and Krishan Pauline Alerre took back-to-back crowns as Miss\
       \ Orient Tourism Global And Miss Aura International, respectively, on Friday,\
       \ May 23. "
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T14:58:47.962+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T14:58:48.261+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Double victory: PH bets bag Miss Orient Tourism Global, Aura International
+    activationstatus: true
+    created: 2025-05-24T14:58:47.962+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T14:58:48.261+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T14:58:48.022+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Double victory: PH bets bag Miss Orient Tourism Global, Aura International
       titles in one night'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '54b83a08-57a9-4a72-acce-4657dbfc8938'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.987+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.262+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Indeed, a powerhouse
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '54b83a08-57a9-4a72-acce-4657dbfc8938'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.987+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.262+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Indeed, a powerhouse
         night for pageants!</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82851121-6387-45c6-ba0e-9d612f3f50e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.988+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.263+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Philippine representatives Patricia Bangug and Krishan Pauline Alerre
+    section1:
+      primarytype: 'block'
+      uuid: '82851121-6387-45c6-ba0e-9d612f3f50e8'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.988+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.263+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Philippine representatives Patricia Bangug and Krishan Pauline Alerre
         took back-to-back crowns as Miss Orient Tourism Global And Miss Aura International,
         respectively, on Friday, May 23.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e20f8b32-9550-4047-9721-4ad9cd022c43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.988+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.264+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Bangug dominated the coronation night of Miss Orient Tourism Global
+    section2:
+      primarytype: 'block'
+      uuid: 'e20f8b32-9550-4047-9721-4ad9cd022c43'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.988+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.264+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Bangug dominated the coronation night of Miss Orient Tourism Global
         2025 in Malaysia while Alere, a few hours later, also triumphed in Miss Aura
         International 2025 in Turkey.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1279e54c-e314-41c7-9425-b818f4ddd005'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.989+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.265+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both candidates won the international crowns on the same night.'
-    '4':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02FnKW1pn3bBmoNTUjtZnzYzNyMPpHo3DndSXEKhmnB1VcrCSbyfnMF3aebZPpsjggl%26id%3D61553669916500&show_text=false&width=500"
+    section3:
+      primarytype: 'block'
+      uuid: '1279e54c-e314-41c7-9425-b818f4ddd005'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.989+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.265+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Both candidates won the international crowns on the same night.'
+    section4:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02FnKW1pn3bBmoNTUjtZnzYzNyMPpHo3DndSXEKhmnB1VcrCSbyfnMF3aebZPpsjggl%26id%3D61553669916500&show_text=false&width=500"
         width="500" height="250" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa60c8b2-0ab4-46f5-a88d-e96889087d1f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.989+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.266+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '416f777a-fbd3-4c89-ba90-a29e1289b023'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.990+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.267+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On her Instagram page, Alerre said winning the international competition
+      primarytype: 'block'
+      uuid: 'aa60c8b2-0ab4-46f5-a88d-e96889087d1f'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.989+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.266+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section5:
+      primarytype: 'block'
+      uuid: '416f777a-fbd3-4c89-ba90-a29e1289b023'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.990+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.267+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On her Instagram page, Alerre said winning the international competition
         “still feels like a dream.”'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2fa8d190-a32c-4e50-af2d-df5dfdbb8061'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.990+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.268+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Winning Miss Aura International 2025 has me floating on cloud 9!”
+    section6:
+      primarytype: 'block'
+      uuid: '2fa8d190-a32c-4e50-af2d-df5dfdbb8061'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.990+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.268+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Winning Miss Aura International 2025 has me floating on cloud 9!”
         she said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ccb1c08a-46a7-42e0-ac50-22606c6eee2d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.991+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.268+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Alerre is the second Filipino to win the title after Alexandra Faith
+    section7:
+      primarytype: 'block'
+      uuid: 'ccb1c08a-46a7-42e0-ac50-22606c6eee2d'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.991+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.268+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Alerre is the second Filipino to win the title after Alexandra Faith
         Garcia’s coronation in 2021.'
-    '8':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ZLV7uJAtnBfj5ZUCUAHFPH6fFnGxocDXdHeigzxnTLbJM1aLN7qV9vgSUsEDFvAQl%26id%3D61553669916500&show_text=false&width=500"
+    section8:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02ZLV7uJAtnBfj5ZUCUAHFPH6fFnGxocDXdHeigzxnTLbJM1aLN7qV9vgSUsEDFvAQl%26id%3D61553669916500&show_text=false&width=500"
         width="500" height="497" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a8a57568-cdb9-4948-b9db-1077385e301d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.991+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.269+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'embedCode'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b0087c6d-2502-4825-a529-1c346605e2ed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.992+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.270+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, Bangug is the first ever bet from the Philippines named
+      primarytype: 'block'
+      uuid: 'a8a57568-cdb9-4948-b9db-1077385e301d'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.991+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.269+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'embedcode'
+    section9:
+      primarytype: 'block'
+      uuid: 'b0087c6d-2502-4825-a529-1c346605e2ed'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.992+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.270+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, Bangug is the first ever bet from the Philippines named
         Miss Orient Tourism Global.&nbsp;</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5514be19-d22d-449a-b3ff-388f742b699b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T14:58:47.992+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T14:58:48.271+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T14:58:48.022+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Aside from turning heads during her coronation, Bangug also bagged
+    section10:
+      primarytype: 'block'
+      uuid: '5514be19-d22d-449a-b3ff-388f742b699b'
+      activationstatus: true
+      created: 2025-05-24T14:58:47.992+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T14:58:48.271+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T14:58:48.022+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Aside from turning heads during her coronation, Bangug also bagged
         the competition’s best in national costume award.</p>'
-  'India-s-monsoon-rains-arrive-eight-days-early--says-weather-bureau':
-    'author': 'Rajendra Jadhav, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T15:41:38.000+08:00
-    'imagesource': 'jcr:0406a038-8d99-4e6c-ad35-8c3ce99c3a0b'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '1e9cb680-7f62-4c64-a233-8652294c4f5a'
-    'lead': 'Monsoon rains hit the coast of India’s southernmost state of Kerala
+  'START HERE----->India-s-monsoon-rains-arrive-eight-days-early--says-weather-bureau':
+    author: 'Rajendra Jadhav, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T15:41:38.000+08:00
+    imagesource: '0406a038-8d99-4e6c-ad35-8c3ce99c3a0b'
+    primarytype: 'composition'
+    uuid: '1e9cb680-7f62-4c64-a233-8652294c4f5a'
+    lead: 'Monsoon rains hit the coast of India’s southernmost state of Kerala
       on Saturday, eight days earlier than usual, the weather office said, offering
       respite from a gruelling heat wave while boosting prospects for bumper harvests.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T15:43:14.294+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T15:43:14.509+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T15:43:14.323+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'India’s monsoon rains arrive eight days early, says weather bureau'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b5de790c-8b6e-44aa-8fa4-d810b9480c06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:43:14.305+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:43:14.510+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:43:14.323+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Monsoon rains hit the coast of India’s
+    activationstatus: true
+    created: 2025-05-24T15:43:14.294+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T15:43:14.509+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T15:43:14.323+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'India’s monsoon rains arrive eight days early, says weather bureau'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b5de790c-8b6e-44aa-8fa4-d810b9480c06'
+      activationstatus: true
+      created: 2025-05-24T15:43:14.305+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:43:14.510+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:43:14.323+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Monsoon rains hit the coast of India’s
         southernmost state of Kerala on Saturday, eight days earlier than usual, the
         weather office said, offering respite from a gruelling heat wave while boosting
         prospects for bumper harvests.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af04a473-48ac-41ac-a938-3ed106951898'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:43:14.306+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:43:14.511+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:43:14.323+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Summer rains, critical for economic growth in Asia’s third-largest
+    section1:
+      primarytype: 'block'
+      uuid: 'af04a473-48ac-41ac-a938-3ed106951898'
+      activationstatus: true
+      created: 2025-05-24T15:43:14.306+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:43:14.511+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:43:14.323+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Summer rains, critical for economic growth in Asia’s third-largest
         economy, usually begin to lash Kerala around June 1 before spreading nationwide
         by mid-July, allowing farmers to plant crops such as rice, corn, cotton, soybeans
         and sugarcane.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0f5cf40-f6ff-4be6-a38c-09347524dbb5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:43:14.306+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:43:14.512+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:43:14.323+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Rajendra Jadhav; Editing by William Mallard)</em></p>'
-  'Indonesia-to-launch-economic-stimulus-to-boost-consumption':
-    'author': 'Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T15:43:35.000+08:00
-    'imagesource': 'jcr:0d6e84ee-d5b4-46fc-96de-772b9e71977d'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5fc57473-fd5c-47b2-a189-efd26e993616'
-    'lead': 'Indonesia plans to announce economic stimulus measures on June 5 to revive
+    section2:
+      primarytype: 'block'
+      uuid: 'd0f5cf40-f6ff-4be6-a38c-09347524dbb5'
+      activationstatus: true
+      created: 2025-05-24T15:43:14.306+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:43:14.512+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:43:14.323+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Rajendra Jadhav; Editing by William Mallard)</em></p>'
+  'START HERE----->Indonesia-to-launch-economic-stimulus-to-boost-consumption':
+    author: 'Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T15:43:35.000+08:00
+    imagesource: '0d6e84ee-d5b4-46fc-96de-772b9e71977d'
+    primarytype: 'composition'
+    uuid: '5fc57473-fd5c-47b2-a189-efd26e993616'
+    lead: 'Indonesia plans to announce economic stimulus measures on June 5 to revive
       activity and boost consumer purchasing power, hoping to push economic growth
       to around 5% this quarter, the Coordinating Ministry of Economic Affairs said
       on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T15:46:48.938+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T15:52:37.773+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T15:52:37.506+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Indonesia to launch economic stimulus to boost consumption'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f1828d4-03f3-4186-9eb4-ab9ec238e7dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.950+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.774+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.502+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Indonesia plans to announce economic
+    activationstatus: true
+    created: 2025-05-24T15:46:48.938+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T15:52:37.773+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T15:52:37.506+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Indonesia to launch economic stimulus to boost consumption'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9f1828d4-03f3-4186-9eb4-ab9ec238e7dd'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.950+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.774+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.502+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Indonesia plans to announce economic
         stimulus measures on June 5 to revive activity and boost consumer purchasing
         power, hoping to push economic growth to around 5% this quarter, the Coordinating
         Ministry of Economic Affairs said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28b627bd-a6ce-46be-8d6a-73766a440327'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.950+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.774+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.502+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"These programmes are prepared to encourage growth by increasing consumption,"
+    section1:
+      primarytype: 'block'
+      uuid: '28b627bd-a6ce-46be-8d6a-73766a440327'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.950+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.774+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.502+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"These programmes are prepared to encourage growth by increasing consumption,"
         chief economic minister Airlangga Hartarto said in a statement, adding that
         launching the measures before a school holiday starting in late June would
         provide momentum to boost purchasing power.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6ae41532-9e73-40cc-817f-f2ef82990714'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.950+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.774+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.503+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Southeast Asia’s largest economy grew 4.87% in the first quarter from
+    section2:
+      primarytype: 'block'
+      uuid: '6ae41532-9e73-40cc-817f-f2ef82990714'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.950+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.774+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.503+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Southeast Asia’s largest economy grew 4.87% in the first quarter from
         the same period last year, its weakest in more than three years. The central
         bank trimmed its 2025 growth forecast to between 4.6% and 5.4% from a 4.7%-5.5%
         range.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd63e00cc-a40b-4f59-898a-b793e7d899b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.951+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.775+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.503+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The ministry is still calculating the size of the stimulus package,
+    section3:
+      primarytype: 'block'
+      uuid: 'd63e00cc-a40b-4f59-898a-b793e7d899b4'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.951+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.775+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.503+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The ministry is still calculating the size of the stimulus package,
         which is meant to boost growth in the second and third quarters, a spokesperson
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bba5667-a0d0-440d-8328-fc714ac6fb7c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.951+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.775+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.504+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The incentives include a 50% discount on electricity bills for around
+    section4:
+      primarytype: 'block'
+      uuid: '7bba5667-a0d0-440d-8328-fc714ac6fb7c'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.951+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.775+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.504+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The incentives include a 50% discount on electricity bills for around
         79.3 million households and food handouts for 18.3 million lower-income households
         in June and July.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a940e652-8b8c-4a6a-94c3-40150f40cffb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.951+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.775+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.504+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The government also plans to give cash transfer for low-income workers
+    section5:
+      primarytype: 'block'
+      uuid: 'a940e652-8b8c-4a6a-94c3-40150f40cffb'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.951+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.775+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.504+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The government also plans to give cash transfer for low-income workers
         and a discount on work accident insurance for workers in labour-intensive
         industries.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79e7d78d-c1ac-4082-a24c-79747ec63b02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.952+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.505+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'To boost tourism, the government said there will be discounts on airfare,
+    section6:
+      primarytype: 'block'
+      uuid: '79e7d78d-c1ac-4082-a24c-79747ec63b02'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.952+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.505+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'To boost tourism, the government said there will be discounts on airfare,
         train and sea transportation rates during the school holiday, which runs through
         mid-July, and discounts on highway tolls for 110 million users in June and
         July, the ministry said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3eef326-449a-459e-9bd1-9e4713810ddf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.952+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.505+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '($1 = 16,215.0000 rupiah)'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd837089c-b0dc-4530-a1c4-946fc776a3a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:46:48.952+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:37.776+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:37.505+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Bernadette Christina; Editing by William Mallard)</em></p>'
-  'Who-will-win-the-2025-Cannes-Film-Festival-s-top-prize-':
-    'author': 'Miranda Murray, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T15:47:02.000+08:00
-    'imagesource': 'jcr:b56869a2-7ee7-443e-affc-e598a6bad818'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '2238a666-0563-4344-ada7-aeaf1338eb9d'
-    'lead': 'After nearly two weeks of exciting premieres, star-studded press conferences
+    section7:
+      primarytype: 'block'
+      uuid: 'd3eef326-449a-459e-9bd1-9e4713810ddf'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.952+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.505+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '($1 = 16,215.0000 rupiah)'
+    section8:
+      primarytype: 'block'
+      uuid: 'd837089c-b0dc-4530-a1c4-946fc776a3a6'
+      activationstatus: true
+      created: 2025-05-24T15:46:48.952+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:37.776+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:37.505+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Bernadette Christina; Editing by William Mallard)</em></p>'
+  'START HERE----->Who-will-win-the-2025-Cannes-Film-Festival-s-top-prize-':
+    author: 'Miranda Murray, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T15:47:02.000+08:00
+    imagesource: 'b56869a2-7ee7-443e-affc-e598a6bad818'
+    primarytype: 'composition'
+    uuid: '2238a666-0563-4344-ada7-aeaf1338eb9d'
+    lead: 'After nearly two weeks of exciting premieres, star-studded press conferences
       and beachside parties that go into the early hours, the Cannes Film Festival
       is ready to roll up the red carpet after one last task: crowning this year’s
-      Palme d''Or winner.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T15:52:27.393+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-24T15:52:27.688+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Who will win the 2025 Cannes Film Festival’s top prize?'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2b82be2-64d2-4ed8-8594-5ead5515c34e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.405+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.688+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> After nearly two weeks of exciting
+      Palme d'Or winner.'
+    activationstatus: true
+    created: 2025-05-24T15:52:27.393+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-24T15:52:27.688+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T15:52:27.436+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Who will win the 2025 Cannes Film Festival’s top prize?'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'b2b82be2-64d2-4ed8-8594-5ead5515c34e'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.405+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.688+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> After nearly two weeks of exciting
         premieres, star-studded press conferences and beachside parties that go into
         the early hours, the Cannes Film Festival is ready to roll up the red carpet
-        after one last task: crowning this year’s Palme d''Or winner.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd21d962c-af53-4493-8d2a-7c0562f8b432'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.406+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.690+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The nine-strong jury headed by French actor Juliette Binoche will pick
+        after one last task: crowning this year’s Palme d'Or winner.</p>'
+    section1:
+      primarytype: 'block'
+      uuid: 'd21d962c-af53-4493-8d2a-7c0562f8b432'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.406+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.690+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The nine-strong jury headed by French actor Juliette Binoche will pick
         one of 22 films to award the top prize on Saturday night, with titles from
         Wes Anderson, Ari Aster, Richard Linklater and Joachim Trier among the competitors.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e2a75f03-56d1-4ad2-bd6a-d8e37d6a4f39'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.406+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.691+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Other awards include the Grand Prix, jury prize, best director, best
+    section2:
+      primarytype: 'block'
+      uuid: 'e2a75f03-56d1-4ad2-bd6a-d8e37d6a4f39'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.406+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.691+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Other awards include the Grand Prix, jury prize, best director, best
         actor and best screenplay.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f4a01aad-3ec3-4138-99ce-fe9fb4d90dca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.406+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.691+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'These awards can make or break careers: Renate Reinsve, who stars in
+    section3:
+      primarytype: 'block'
+      uuid: 'f4a01aad-3ec3-4138-99ce-fe9fb4d90dca'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.406+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.691+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'These awards can make or break careers: Renate Reinsve, who stars in
         Trier’s entry "Sentimental Value," said that winning best actress in 2021
         for "The Worst Person in the World" completely changed her life.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24ac2c1f-4ac9-4964-bb47-fe64b9a3038d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.407+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.692+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The jury’s decisions will be closely watched after "Anora," which
+    section4:
+      primarytype: 'block'
+      uuid: '24ac2c1f-4ac9-4964-bb47-fe64b9a3038d'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.407+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.692+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The jury’s decisions will be closely watched after "Anora," which
         won the top prize in 2024, went on to take home five Oscars, including the
         Best Picture top Academy Award. "The Substance," which was awarded best screenplay
         at Cannes the same year, also won an Oscar.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3efbd351-3a7a-4573-ba19-9d79dcfeabb7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.407+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.693+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'One indicator of who could win is the selection of films that have
+    section5:
+      primarytype: 'block'
+      uuid: '3efbd351-3a7a-4573-ba19-9d79dcfeabb7'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.407+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.693+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'One indicator of who could win is the selection of films that have
         been bought by independent distributor Neon, which has successfully picked
         the Cannes winner the last five times.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2dfe9981-a40d-439a-a81e-34e5d3d65dc9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.407+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.694+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'So far this festival, the U.S. distributor has nabbed three films:
+    section6:
+      primarytype: 'block'
+      uuid: '2dfe9981-a40d-439a-a81e-34e5d3d65dc9'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.407+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.694+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'So far this festival, the U.S. distributor has nabbed three films:
         "Sentimental Value," which received a 15-minute-plus standing ovation, "It
         Was Just an Accident" from Iranian director Jafar Panahi, and "The Secret
         Agent" from Brazil’s Kleber Mendonca Filho.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a3ef999-376e-4eb8-8577-3ea03ad1ed88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.408+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.695+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Other strong contenders, based on the annual jury grid compiled by
+    section7:
+      primarytype: 'block'
+      uuid: '0a3ef999-376e-4eb8-8577-3ea03ad1ed88'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.408+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.695+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Other strong contenders, based on the annual jury grid compiled by
         industry publication ScreenDaily, include Stalinist-era legal piece "Two Prosecutors"
         and German director Mascha Schilinski’s intergenerational drama "Sound of
         Falling."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9383251-5b0d-4a8d-807d-7aa6022d6f17'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.408+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.696+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'French director Julia Ducournau, who premiered "Alpha" at this year’s
+    section8:
+      primarytype: 'block'
+      uuid: 'e9383251-5b0d-4a8d-807d-7aa6022d6f17'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.408+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.696+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'French director Julia Ducournau, who premiered "Alpha" at this year’s
         festival, and Belgium’s Dardenne brothers are the only competitors who have
         previously won the top prize.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'acc91207-f7dd-4ea8-969d-9c0c8e2e6dd2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.408+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.697+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ducournau became only the second woman to win in 2021 for "Titane,"
+    section9:
+      primarytype: 'block'
+      uuid: 'acc91207-f7dd-4ea8-969d-9c0c8e2e6dd2'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.408+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.697+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Ducournau became only the second woman to win in 2021 for "Titane,"
         while Jean-Pierre and Luc Dardenne have the rare honour of having won twice
-        with "Rosetta" and "L''Enfant" in 1999 and 2005, respectively.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '955d569f-0fae-4e82-bd98-99bdbcdb73a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.409+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.698+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The 78th iteration of the festival officially kicked off on May 13
+        with "Rosetta" and "L'Enfant" in 1999 and 2005, respectively.'
+    section10:
+      primarytype: 'block'
+      uuid: '955d569f-0fae-4e82-bd98-99bdbcdb73a4'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.409+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.698+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The 78th iteration of the festival officially kicked off on May 13
         with the French comedy "Leave One Day."'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c89066f-1c37-4df0-b64c-76ca2103017d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T15:52:27.409+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-24T15:52:27.698+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T15:52:27.436+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Miranda Murray; Editing by Sandra Maler)</em></p>'
-  'china-indonesia-multilateralism-':
-    'author': 'Reuters'
-    'caption': ' FILE PHOTO: Chinese Premier Li Qiang attends the 27th ASEAN-China Summit
+    section11:
+      primarytype: 'block'
+      uuid: '8c89066f-1c37-4df0-b64c-76ca2103017d'
+      activationstatus: true
+      created: 2025-05-24T15:52:27.409+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-24T15:52:27.698+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T15:52:27.436+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Miranda Murray; Editing by Sandra Maler)</em></p>'
+  'START HERE----->china-indonesia-multilateralism-':
+    author: 'Reuters'
+    caption: ' FILE PHOTO: Chinese Premier Li Qiang attends the 27th ASEAN-China Summit
       at the National Convention Centre in Vientiane, Laos, October 10, 2024. REUTERS/Athit
       Perawongmetha/File Photo'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-24T23:22:28.000+08:00
-    'imagesource': 'jcr:1e6fa47c-56dc-411b-8aaa-83e38cf8e639'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '855ab16e-e1eb-4159-bd38-74c573b9239d'
-    'lead': 'China’s Premier Li Qiang said on Saturday that China and Indonesia will
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-24T23:22:28.000+08:00
+    imagesource: '1e6fa47c-56dc-411b-8aaa-83e38cf8e639'
+    primarytype: 'composition'
+    uuid: '855ab16e-e1eb-4159-bd38-74c573b9239d'
+    lead: 'China’s Premier Li Qiang said on Saturday that China and Indonesia will
       promote "true multilateralism", the official Xinhua news agency reported, as
       he landed in Jakarta on a two-day visit to Southeast Asia’s largest economy.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-24T23:25:29.002+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2025-05-24T23:25:29.262+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-24T23:25:29.033+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['multilateralism', 'China', 'Indonesia']
-    'stories': []
-    'template': '1'
-    'title': 'China’s premier says China and Indonesia will promote ''true multilateralism'''
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36c07880-8372-449e-9d57-ee8b2b12df0e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.022+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.263+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.029+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Shanghai, China</strong> - China’s Premier Li Qiang said
+    activationstatus: true
+    created: 2025-05-24T23:25:29.002+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2025-05-24T23:25:29.262+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-24T23:25:29.033+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'China’s premier says China and Indonesia will promote 'true multilateralism''
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '36c07880-8372-449e-9d57-ee8b2b12df0e'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.022+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.263+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.029+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Shanghai, China</strong> - China’s Premier Li Qiang said
         on Saturday that China and Indonesia will promote "true multilateralism",
         the official Xinhua news agency reported, as he landed in Jakarta on a two-day
         visit to Southeast Asia’s largest economy.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '638825e1-4072-46a9-a8dc-8f4a9a8d980e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.023+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.264+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.023+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'China has intensified engagement with countries in the region since
+    section1:
+      primarytype: 'block'
+      uuid: '638825e1-4072-46a9-a8dc-8f4a9a8d980e'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.023+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.264+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.023+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'China has intensified engagement with countries in the region since
         U.S. President Donald Trump announced&nbsp;hefty import tariffs&nbsp;on its
         global trading partners earlier this year.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2305db8-7596-454f-91e6-118f627294f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.023+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.265+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.023+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Some levies have since been delayed, while China and the U.S.&nbsp;agreed
+    section2:
+      primarytype: 'block'
+      uuid: 'f2305db8-7596-454f-91e6-118f627294f7'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.023+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.265+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.023+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Some levies have since been delayed, while China and the U.S.&nbsp;agreed
         this month&nbsp;to pause some of their tariffs. Jakarta, whose biggest trading
         partner is China, has offered the U.S. a number of&nbsp;concessions&nbsp;in
         a bid to soften tariffs against Indonesia.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b6b0f0af-dc5d-4eb9-943f-319bf0f8b115'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.023+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.266+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.023+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'At a business leaders'' event later on Saturday, at which Li was present,
+    section3:
+      primarytype: 'block'
+      uuid: 'b6b0f0af-dc5d-4eb9-943f-319bf0f8b115'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.023+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.266+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.023+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'At a business leaders' event later on Saturday, at which Li was present,
         Indonesia President Prabowo Subianto said relations between Beijing and Jakarta
         were key for regional stability, adding that Indonesia views China as an important
         partner in developing industry and technology.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2cb43146-ff60-4f72-a98f-b43026e6a8a1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.024+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.267+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.024+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also praised China’s role in defending the interests of developing
+    section4:
+      primarytype: 'block'
+      uuid: '2cb43146-ff60-4f72-a98f-b43026e6a8a1'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.024+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.267+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.024+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'He also praised China’s role in defending the interests of developing
         countries and its stand against "imperialism" and "colonialism."'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48004d2f-240d-4c4e-9a20-632abaad3aab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.024+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.268+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.024+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Prabowo and Li will hold a meeting on Sunday to discuss how to strengthen
+    section5:
+      primarytype: 'block'
+      uuid: '48004d2f-240d-4c4e-9a20-632abaad3aab'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.024+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.268+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.024+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Prabowo and Li will hold a meeting on Sunday to discuss how to strengthen
         Indonesia-China relations, Indonesian investment minister Rosan Roeslani said
         in a statement.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '56527dd2-7075-478c-8710-da00cf997d71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.025+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.270+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.025+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Following the visit to Jakarta, Li will travel to Malaysia to attend
+    section6:
+      primarytype: 'block'
+      uuid: '56527dd2-7075-478c-8710-da00cf997d71'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.025+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.270+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.025+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Following the visit to Jakarta, Li will travel to Malaysia to attend
         the&nbsp;ASEAN-GCC-China Summit, Xinhua reported.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ab836b76-b27e-49b3-b205-ab8fbaf88a22'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-24T23:25:29.025+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-24T23:25:29.271+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-24T23:25:29.025+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Engen Tham in Shanghai, Selena Li in Hong Kong
+    section7:
+      primarytype: 'block'
+      uuid: 'ab836b76-b27e-49b3-b205-ab8fbaf88a22'
+      activationstatus: true
+      created: 2025-05-24T23:25:29.025+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-24T23:25:29.271+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-24T23:25:29.025+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Engen Tham in Shanghai, Selena Li in Hong Kong
         and Bernadette Christina in Jakarta; Writing by Gibran Peshimam; Editing by
         Sharon Singleton and Jan Harvey)</em></p>'

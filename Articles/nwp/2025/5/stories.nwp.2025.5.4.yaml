@@ -1,1266 +1,1266 @@
-'4':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '9c637e6b-a247-4ed5-8d1a-46265f5642d2'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-05-04T09:57:42.394+08:00
-  'mgnl:createdBy': 'faith-nwp'
-  'mgnl:lastActivated': 2025-05-04T09:57:54.391+08:00
-  'mgnl:lastActivatedBy': 'faith-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-05-04T09:57:54.188+08:00
-  'mgnl:lastModified': 2025-05-04T21:09:58.779+08:00
-  'mgnl:lastModifiedBy': 'tristan-nwp'
-  'Australia-s-reelected-government-says-US-China-tussle-to-be-top-priority':
-    'author': 'Byron Kaye, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T09:58:01.000+08:00
-    'imagesource': 'jcr:031f45cf-d835-49b3-a7b2-d1863d8e2210'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'bc18e221-4fa3-4967-a4f2-b45c135cadcf'
-    'lead': 'Protecting Australia from the "dark shadow" of a U.S.-China trade war
+section4:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '9c637e6b-a247-4ed5-8d1a-46265f5642d2'
+  activationstatus: true
+  created: 2025-05-04T09:57:42.394+08:00
+  createdby: 'faith-nwp'
+  lastactivated: 2025-05-04T09:57:54.391+08:00
+  lastactivatedby: 'faith-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-05-04T09:57:54.188+08:00
+  lastmodified: 2025-05-04T21:09:58.779+08:00
+  lastmodifiedby: 'tristan-nwp'
+  'START HERE----->Australia-s-reelected-government-says-US-China-tussle-to-be-top-priority':
+    author: 'Byron Kaye, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T09:58:01.000+08:00
+    imagesource: '031f45cf-d835-49b3-a7b2-d1863d8e2210'
+    primarytype: 'composition'
+    uuid: 'bc18e221-4fa3-4967-a4f2-b45c135cadcf'
+    lead: 'Protecting Australia from the "dark shadow" of a U.S.-China trade war
       will be the first priority for Australia’s re-elected Labor government, Treasurer
       Jim Chalmers said on Sunday after a resounding election victory for his centre-left
       party.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T09:59:56.412+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T09:59:56.701+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Australia’s reelected government says US-China tussle to be top priority'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c1704c79-c22a-4120-b712-05ea145e19b8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.428+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.702+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Protecting Australia from the "dark
+    activationstatus: true
+    created: 2025-05-04T09:59:56.412+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T09:59:56.701+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T09:59:56.458+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Australia’s reelected government says US-China tussle to be top priority'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c1704c79-c22a-4120-b712-05ea145e19b8'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.428+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.702+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Protecting Australia from the "dark
         shadow" of a U.S.-China trade war will be the first priority for Australia’s
         re-elected Labor government, Treasurer Jim Chalmers said on Sunday after a
         resounding election victory for his centre-left party.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '86ac813f-44dd-49aa-a87f-c1184712d3d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.428+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.703+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Prime Minister Anthony Albanese’s Labor Party appeared likely to expand
+    section1:
+      primarytype: 'block'
+      uuid: '86ac813f-44dd-49aa-a87f-c1184712d3d9'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.428+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.703+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Prime Minister Anthony Albanese’s Labor Party appeared likely to expand
         its majority in parliament to at least 85 seats from 77, the Australian Broadcasting
         Corp projected, after most polls had suggested it would struggle to keep its
         slim hold on the 150-seat lower house. More than two-thirds of votes have
         been tallied, with counting to resume Monday.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1c5454a-65ff-408b-8b86-aae5826f775e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.429+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.704+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Echoing an election in Canada less than a week earlier, Australia’s
+    section2:
+      primarytype: 'block'
+      uuid: 'd1c5454a-65ff-408b-8b86-aae5826f775e'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.429+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.704+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Echoing an election in Canada less than a week earlier, Australia’s
         conservative opposition leader, Peter Dutton, lost his seat as voters, who
         initially focused on cost-of-living pressures, grew increasingly concerned
         over U.S. President Donald Trump’s sweeping tariffs and other policies.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c9c24e45-60f6-41b7-8d83-2e48e91b7407'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.429+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.705+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"This was beyond even our most optimistic expectations," Chalmers told
+    section3:
+      primarytype: 'block'
+      uuid: 'c9c24e45-60f6-41b7-8d83-2e48e91b7407'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.429+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.705+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"This was beyond even our most optimistic expectations," Chalmers told
         the ABC a day after the election.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '16b93759-05ae-47d1-ae3c-1f1e71603a4d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.429+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.706+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The immediate focus is on global economic uncertainty, U.S. and China,
+    section4:
+      primarytype: 'block'
+      uuid: '16b93759-05ae-47d1-ae3c-1f1e71603a4d'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.429+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.706+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The immediate focus is on global economic uncertainty, U.S. and China,
         and what it means for us," Chalmers said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1a9576e-7104-4062-956c-ab4130504f69'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.430+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.707+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"What’s happening, particularly between the U.S. and China, does cast
+    section5:
+      primarytype: 'block'
+      uuid: 'e1a9576e-7104-4062-956c-ab4130504f69'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.430+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.707+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"What’s happening, particularly between the U.S. and China, does cast
         a dark shadow over the global economy ... We need to have the ability, and
         we will have the ability, to manage that uncertainty."'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2821a215-eb76-432f-9869-f568e44b65cd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.430+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.708+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Polls had shown Labor trailing the opposition conservative coalition
+    section6:
+      primarytype: 'block'
+      uuid: '2821a215-eb76-432f-9869-f568e44b65cd'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.430+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.708+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Polls had shown Labor trailing the opposition conservative coalition
         for nine months until March, amid widespread angst about the government’s
         handling of inflation.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f843c3b2-6087-4d05-b41b-80b50b66a7db'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.430+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.709+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'But the polls flipped when the conservatives unveiled a proposal to
+    section7:
+      primarytype: 'block'
+      uuid: 'f843c3b2-6087-4d05-b41b-80b50b66a7db'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.430+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.709+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'But the polls flipped when the conservatives unveiled a proposal to
         slash the federal workforce, which was compared to the Trump administration’s
         moves to cut back government agencies. A proposal to force federal workers
         back to the office five days a week was also criticised as unfair to women.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '334d9f1f-6106-4150-8aa1-3f756a1e0712'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.431+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.710+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s April 2 tariff announcement added to voters'' unease as it
+    section8:
+      primarytype: 'block'
+      uuid: '334d9f1f-6106-4150-8aa1-3f756a1e0712'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.431+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.710+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Trump’s April 2 tariff announcement added to voters' unease as it
         sent shockwaves through global markets and raised concerns about the impact
         on their pension funds.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '739fae09-37ba-4a33-866d-a12d47e98f83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.431+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.711+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"It was clear that our party has an issue in urban Australia, which
+    section9:
+      primarytype: 'block'
+      uuid: '739fae09-37ba-4a33-866d-a12d47e98f83'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.431+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.711+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"It was clear that our party has an issue in urban Australia, which
         is where most people live," said former conservative member of parliament
         Keith Wolahan, who conceded his seat at the election.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f340b97d-3533-4a02-8eed-c9cf41a6341e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.431+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.711+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We need to really dig deep and think about who we are and who we fight
+    section10:
+      primarytype: 'block'
+      uuid: 'f340b97d-3533-4a02-8eed-c9cf41a6341e'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.431+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.711+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We need to really dig deep and think about who we are and who we fight
         for and who makes up Australia," Wolahan said in an interview with the ABC.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ce8cecd-fdae-4646-8418-9e66b7bed637'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T09:59:56.432+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T09:59:56.712+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T09:59:56.458+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Byron Kaye; Editing by Edmund Klamann)</em></p>'
-  'NAIA-reports-injuries-due-to-car-crash-in-Terminal-1-':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T10:08:10.000+08:00
-    'imagesource': 'jcr:687afc4e-ce96-4a31-aaf8-e6776fb52e77'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f92050c7-6bed-46e1-8f71-4c5772becc6f'
-    'lead': 'Two fatalities, including one child, and four wounded individuals were
+    section11:
+      primarytype: 'block'
+      uuid: '9ce8cecd-fdae-4646-8418-9e66b7bed637'
+      activationstatus: true
+      created: 2025-05-04T09:59:56.432+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T09:59:56.712+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T09:59:56.458+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Byron Kaye; Editing by Edmund Klamann)</em></p>'
+  'START HERE----->NAIA-reports-injuries-due-to-car-crash-in-Terminal-1-':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T10:08:10.000+08:00
+    imagesource: '687afc4e-ce96-4a31-aaf8-e6776fb52e77'
+    primarytype: 'composition'
+    uuid: 'f92050c7-6bed-46e1-8f71-4c5772becc6f'
+    lead: 'Two fatalities, including one child, and four wounded individuals were
       reported after a vehicle crashed through the walkway of the Ninoy Aquino International
       Airport (NAIA) Terminal 1 on Sunday, May 4.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T10:08:52.354+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T16:03:34.406+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T16:03:34.136+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '2 dead, several injured in NAIA Terminal 1 car crash '
-    'visualType': 'image'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b3dc1ed-0de3-41a6-902f-fe764869fbca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:29:18.538+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.407+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.132+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Two fatalities, including
+    activationstatus: true
+    created: 2025-05-04T10:08:52.354+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T16:03:34.406+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T16:03:34.136+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '2 dead, several injured in NAIA Terminal 1 car crash '
+    visualtype: 'image'
+    section5:
+      primarytype: 'block'
+      uuid: '7b3dc1ed-0de3-41a6-902f-fe764869fbca'
+      activationstatus: true
+      created: 2025-05-04T10:29:18.538+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.407+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.132+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Two fatalities, including
         one child, and four wounded individuals were reported after a vehicle crashed
         through the walkway of the Ninoy Aquino International Airport (NAIA) Terminal
         1 on Sunday, May 4.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a388cab-9dd4-42c7-9a7b-f1dc6220570e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.166+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.407+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.133+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>According to the police report, a black SUV rammed onto the walkway
+    section6:
+      primarytype: 'block'
+      uuid: '0a388cab-9dd4-42c7-9a7b-f1dc6220570e'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.166+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.407+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.133+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>According to the police report, a black SUV rammed onto the walkway
         and killed a 29-year-old male and a 5-year-old female.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '500ce94a-008c-4afa-a16c-d3548c309ba6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.166+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.408+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.133+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Initial details disclosed that the driver allegedly miscalculated
+    section7:
+      primarytype: 'block'
+      uuid: '500ce94a-008c-4afa-a16c-d3548c309ba6'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.166+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.408+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.133+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Initial details disclosed that the driver allegedly miscalculated
         his vehicle,” it said in the report.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '944b7a34-f9a6-4297-893c-b9160f198342'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.167+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.408+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a statement, NAIA said they have secured and limited access to the
+    section8:
+      primarytype: 'block'
+      uuid: '944b7a34-f9a6-4297-893c-b9160f198342'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.167+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.408+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In a statement, NAIA said they have secured and limited access to the
         outer railing and walkway for authorities who are conducting a “full investigation”
         on the incident.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f7949e1-2588-4007-bdac-17556752a336'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.167+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.409+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Individuals who sustained injuries are now currently being treated.
+    section9:
+      primarytype: 'block'
+      uuid: '5f7949e1-2588-4007-bdac-17556752a336'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.167+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.409+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Individuals who sustained injuries are now currently being treated.
         The driver involved in the incident is now in the custody of the PNP,” it
         added.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d1036bc-47ff-4bbb-91a4-26fd11e4a45c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.168+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.409+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.134+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'NAIA urged the public “not to speculate” and wait for verified updates
+    section10:
+      primarytype: 'block'
+      uuid: '5d1036bc-47ff-4bbb-91a4-26fd11e4a45c'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.168+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.409+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.134+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'NAIA urged the public “not to speculate” and wait for verified updates
         on the incident.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c129a9b-5592-431f-b77b-4e4f88e8a93d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.168+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.409+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.135+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Transportation Secretary Vince Dizon and New NAIA Infrastructure Corp.
+    section11:
+      primarytype: 'block'
+      uuid: '8c129a9b-5592-431f-b77b-4e4f88e8a93d'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.168+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.409+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.135+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Transportation Secretary Vince Dizon and New NAIA Infrastructure Corp.
         President Ramon Ang went to the site to inspect the damage after the incident.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f7fb67e3-4236-4a45-83af-6fbd1eefda8d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T11:40:05.169+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:03:34.410+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:03:34.135+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“The Department of Transportation profoundly grieves with the families
+    section12:
+      primarytype: 'block'
+      uuid: 'f7fb67e3-4236-4a45-83af-6fbd1eefda8d'
+      activationstatus: true
+      created: 2025-05-04T11:40:05.169+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:03:34.410+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:03:34.135+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“The Department of Transportation profoundly grieves with the families
         and loved ones of those who lost their lives in the tragic incident,” the
         department said in a statement.</p>'
-  'Israel-calls-on-Qatar-to--stop-playing-both-sides--in-Gaza-talks':
-    'author': 'Ahmed Tolba and Jaidaa Taha, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T10:00:00.000+08:00
-    'imagesource': 'jcr:7064827e-3ab9-4acc-aa74-232a44ef0530'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '32207d9e-3884-43f7-b961-438f0d6a7016'
-    'lead': 'Israel called on Qatar, a key mediator between Israel and Hamas, to "stop
+  'START HERE----->Israel-calls-on-Qatar-to--stop-playing-both-sides--in-Gaza-talks':
+    author: 'Ahmed Tolba and Jaidaa Taha, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T10:00:00.000+08:00
+    imagesource: '7064827e-3ab9-4acc-aa74-232a44ef0530'
+    primarytype: 'composition'
+    uuid: '32207d9e-3884-43f7-b961-438f0d6a7016'
+    lead: 'Israel called on Qatar, a key mediator between Israel and Hamas, to "stop
       playing both sides with its double talk and decide if it’s on the side of civilization
       or if it’s on the side of Hamas", the Israeli Prime Minister’s office said
       on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T10:10:38.442+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T10:10:38.731+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Israel calls on Qatar to ''stop playing both sides'' in Gaza talks'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3c5deab-63b6-4cdd-a440-ec95aa08dacd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.455+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.732+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters) -</strong> Israel called on Qatar, a key mediator
+    activationstatus: true
+    created: 2025-05-04T10:10:38.442+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T10:10:38.731+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T10:10:38.484+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Israel calls on Qatar to 'stop playing both sides' in Gaza talks'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'd3c5deab-63b6-4cdd-a440-ec95aa08dacd'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.455+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.732+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters) -</strong> Israel called on Qatar, a key mediator
         between Israel and Hamas, to "stop playing both sides with its double talk
         and decide if it’s on the side of civilization or if it’s on the side of
         Hamas", the Israeli Prime Minister’s office said on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5d9b6e79-a41b-42b1-996d-200efcc3d5ec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.456+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.733+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Qatar rejected the statements as "inflammatory".</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7347bdb4-f409-47bd-97b2-ad09c84cb646'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.456+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.734+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Despite efforts by Egyptian and Qatari mediators to restore a ceasefire,
+    section1:
+      primarytype: 'block'
+      uuid: '5d9b6e79-a41b-42b1-996d-200efcc3d5ec'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.456+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.733+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Qatar rejected the statements as "inflammatory".</p>'
+    section2:
+      primarytype: 'block'
+      uuid: '7347bdb4-f409-47bd-97b2-ad09c84cb646'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.456+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.734+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Despite efforts by Egyptian and Qatari mediators to restore a ceasefire,
         neither Israel nor Hamas has shown willingness to back down on core demands,
         with each side blaming the other for the failure to reach a deal.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef98bc43-e735-45c2-ab46-3ef204e8cccc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.456+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.735+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel, which wants the return of 59 hostages still held in Gaza, has
+    section3:
+      primarytype: 'block'
+      uuid: 'ef98bc43-e735-45c2-ab46-3ef204e8cccc'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.456+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.735+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Israel, which wants the return of 59 hostages still held in Gaza, has
         insisted Hamas must disarm and be excluded from any role in the future governance
         of the enclave, a condition that Hamas rejects.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f4be6fe-a074-4ff0-ac63-47751f5e3150'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.457+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.735+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'It has insisted on agreeing a lasting end to the fighting and withdrawal
+    section4:
+      primarytype: 'block'
+      uuid: '0f4be6fe-a074-4ff0-ac63-47751f5e3150'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.457+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.735+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'It has insisted on agreeing a lasting end to the fighting and withdrawal
         of Israeli forces as a condition for a deal that would see a release of the
         hostages.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '42a17f2f-f598-4cab-bfda-17604ef7f547'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.457+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.736+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"The State of Qatar firmly rejects the inflammatory statements issued
+    section5:
+      primarytype: 'block'
+      uuid: '42a17f2f-f598-4cab-bfda-17604ef7f547'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.457+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.736+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"The State of Qatar firmly rejects the inflammatory statements issued
         by the Israeli Prime Minister’s Office, which fall far short of the most basic
         standards of political and moral responsibility," Qatar’s foreign ministry
         spokesperson Majed Al-Ansari posted on X early on Sunday.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ee86e23e-4c87-4e20-9a76-5b2e7317e9ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.457+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.737+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Al-Ansari criticized the portrayal of the Gaza conflict as a defense
+    section6:
+      primarytype: 'block'
+      uuid: 'ee86e23e-4c87-4e20-9a76-5b2e7317e9ae'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.457+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.737+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Al-Ansari criticized the portrayal of the Gaza conflict as a defense
         of civilization, likening it to historical regimes that used "false narratives
         to justify crimes against civilians."'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '09aaf3f4-3a5a-4726-a75f-a685c42f0138'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.738+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'In his post, Al-Ansari questioned whether the release of 138 hostages
+    section7:
+      primarytype: 'block'
+      uuid: '09aaf3f4-3a5a-4726-a75f-a685c42f0138'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.738+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'In his post, Al-Ansari questioned whether the release of 138 hostages
         was achieved through military operations or mediation efforts, which he said
         are being unjustly criticized and undermined.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1de5e3e6-442a-46f8-996c-2057c0fa99ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.739+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also cited the dire humanitarian situation in Gaza represented by
+    section8:
+      primarytype: 'block'
+      uuid: '1de5e3e6-442a-46f8-996c-2057c0fa99ef'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.739+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'He also cited the dire humanitarian situation in Gaza represented by
         what he called a suffocating blockade, systematic starvation, denial of medicine
         and shelter, and the use of humanitarian aid as a tool of political coercion.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '187ab4e9-26de-4c22-bbab-3307c72169c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.458+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.740+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'On Friday, Israel’s security cabinet approved plans for an expanded
+    section9:
+      primarytype: 'block'
+      uuid: '187ab4e9-26de-4c22-bbab-3307c72169c1'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.458+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.740+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'On Friday, Israel’s security cabinet approved plans for an expanded
         operation in the Gaza Strip, Israeli media reported on Friday, adding to signs
         that attempts to stop the fighting and return hostages held by Hamas have
         made no progress.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1f688196-6e8d-470a-b277-2fb1493b798d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.459+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.741+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Israel’s campaign was triggered by the devastating Hamas attack on
+    section10:
+      primarytype: 'block'
+      uuid: '1f688196-6e8d-470a-b277-2fb1493b798d'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.459+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.741+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Israel’s campaign was triggered by the devastating Hamas attack on
         Oct. 7, 2023, that killed 1,200 people in southern Israel and saw 251 taken
         hostage. It has so far killed more than 50,000 Palestinians and devastated
         Gaza where aid groups have warned the Israeli blockade risks a humanitarian
         disaster.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0cda1b4-7093-4e28-a1a1-6cf688cfa5be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T10:10:38.459+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T10:10:38.742+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T10:10:38.484+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Ahmed Tolba and Jaidaa Taha, additional reporting
+    section11:
+      primarytype: 'block'
+      uuid: 'a0cda1b4-7093-4e28-a1a1-6cf688cfa5be'
+      activationstatus: true
+      created: 2025-05-04T10:10:38.459+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T10:10:38.742+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T10:10:38.484+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Ahmed Tolba and Jaidaa Taha, additional reporting
         by Muhammad Al Gebaly, editing by Deepa Babington and Daniel Wallis)</em></p>'
-  'PH-voters-want-candidates-who-prioritize-low-prices--healthcare---survey':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T15:27:14.000+08:00
-    'imagesource': 'jcr:294b6f75-257d-472b-af02-15a433a279f1'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '27063424-acd8-4904-a6dc-7f51872008ec'
-    'lead': 'When deciding who to vote for, Filipinos heavily consider candidates
+  'START HERE----->PH-voters-want-candidates-who-prioritize-low-prices--healthcare---survey':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T15:27:14.000+08:00
+    imagesource: '294b6f75-257d-472b-af02-15a433a279f1'
+    primarytype: 'composition'
+    uuid: '27063424-acd8-4904-a6dc-7f51872008ec'
+    lead: 'When deciding who to vote for, Filipinos heavily consider candidates
       who can keep prices of basic goods affordable and those who promote improvement
       for the healthcare system, an OCTA research survey showed.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T15:29:58.910+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T15:29:59.239+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'PH voters want candidates who prioritize low prices, healthcare — survey'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '56d1496a-1eb7-4651-9a58-80b8edc3726c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.928+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.240+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>PH voters want candidates who prioritize low prices, healthcare
+    activationstatus: true
+    created: 2025-05-04T15:29:58.910+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T15:29:59.239+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T15:29:58.967+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH voters want candidates who prioritize low prices, healthcare — survey'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '56d1496a-1eb7-4651-9a58-80b8edc3726c'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.928+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.240+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>PH voters want candidates who prioritize low prices, healthcare
         — survey</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4fb27e5-e331-4a79-a559-ccb4960b4e4d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.929+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.241+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Metro Manila, Philippines - When deciding who to vote for, Filipinos
+    section1:
+      primarytype: 'block'
+      uuid: 'd4fb27e5-e331-4a79-a559-ccb4960b4e4d'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.929+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.241+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Metro Manila, Philippines - When deciding who to vote for, Filipinos
         heavily consider candidates who can keep prices of basic goods affordable
         and those who promote improvement for the healthcare system, an OCTA research
         survey showed.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '242e9000-07d1-4b44-b302-e7b7c8ba1480'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.929+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.242+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'OCTA’s Tugon ng Masa survey conducted from April 10 to 16 found that
+    section2:
+      primarytype: 'block'
+      uuid: '242e9000-07d1-4b44-b302-e7b7c8ba1480'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.929+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.242+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'OCTA’s Tugon ng Masa survey conducted from April 10 to 16 found that
         53 percent of voters identify the affordability of basic goods and services
         as “the most critical concern.” '
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd4acad48-520a-46f6-82a0-63608531cd65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.929+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.243+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, the need to enhance and fortify the healthcare system
+    section3:
+      primarytype: 'block'
+      uuid: 'd4acad48-520a-46f6-82a0-63608531cd65'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.929+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.243+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, the need to enhance and fortify the healthcare system
         ranked second among voters’ top concern with 50 percent of respondents identifying
         the issue as critical.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4f9485f-a795-44c6-801c-36d78b192fe2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.930+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.244+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Other main national issues that could drive voter preference in the
+    section4:
+      primarytype: 'block'
+      uuid: 'b4f9485f-a795-44c6-801c-36d78b192fe2'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.930+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.244+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Other main national issues that could drive voter preference in the
         2025 polls include: '
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fc01991b-95ed-42aa-a273-a323ee021a83'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.930+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.245+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Strengthening the agriculture sector and ensuring a stable food
+    section5:
+      primarytype: 'block'
+      uuid: 'fc01991b-95ed-42aa-a273-a323ee021a83'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.930+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.245+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Strengthening the agriculture sector and ensuring a stable food
         supply (47%)</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4867594f-255f-41a4-9d9f-0ddb1e18dc64'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.931+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.246+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Expanding job opportunities (41%)</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'db042f00-819b-419c-8b43-a1d974c77570'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.931+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.247+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Reducing poverty and addressing hunger (38%)</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '928c396e-e8b0-46db-99ee-a6cc52351547'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.932+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.248+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<ul><li>Combating illegal drugs (38%)</li></ul>'
-    '9':
-      'image': 'jcr:09d44d0f-7262-4f6f-8669-7c1638791f35'
-      'imageCredit': 'OCTA releases a survey showing critical issues Filipino voters
+    section6:
+      primarytype: 'block'
+      uuid: '4867594f-255f-41a4-9d9f-0ddb1e18dc64'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.931+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.246+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Expanding job opportunities (41%)</p>'
+    section7:
+      primarytype: 'block'
+      uuid: 'db042f00-819b-419c-8b43-a1d974c77570'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.931+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.247+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Reducing poverty and addressing hunger (38%)</p>'
+    section8:
+      primarytype: 'block'
+      uuid: '928c396e-e8b0-46db-99ee-a6cc52351547'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.932+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.248+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<ul><li>Combating illegal drugs (38%)</li></ul>'
+    section9:
+      image: '09d44d0f-7262-4f6f-8669-7c1638791f35'
+      imageCredit: 'OCTA releases a survey showing critical issues Filipino voters
         consider when choosing a candidate to vote for. (OCTA)'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e6f8040-c4f1-44eb-b5dc-81c6a1a6ee6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.932+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.248+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'image'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '04433e45-cec1-4989-8c89-28b3e0984865'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.933+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.249+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'The survey was conducted with face-to-face interviews with 1,200 participants.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd05a2ed6-9256-40e8-ad3a-80fcde8a373c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.933+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.250+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "The independent poll has a ±3 margin of error at a 95 percent confidence\
+      primarytype: 'block'
+      uuid: '8e6f8040-c4f1-44eb-b5dc-81c6a1a6ee6b'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.932+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.248+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'image'
+    section10:
+      primarytype: 'block'
+      uuid: '04433e45-cec1-4989-8c89-28b3e0984865'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.933+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.249+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'The survey was conducted with face-to-face interviews with 1,200 participants.'
+    section11:
+      primarytype: 'block'
+      uuid: 'd05a2ed6-9256-40e8-ad3a-80fcde8a373c'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.933+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.250+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "The independent poll has a ±3 margin of error at a 95 percent confidence\
         \ level. Subnational estimates for the geographic areas covered in the survey\
         \ have a ±6 margin of error for Metro Manila, Balance Luzon, Visayas, and\
         \ Mindanao.\t\t\t\t"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1ce15d45-61a7-4cd7-a3de-2d2a33d40642'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.934+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.251+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\t\t\t\t"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bbf9cb33-67d2-4062-98b2-ff9e1466bd29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:29:58.934+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:29:59.252+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:29:58.967+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': "\t\t\t"
-  '-Kissing-auction--for-elder-woman-in-campaign-rally-condemned-':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T15:30:03.000+08:00
-    'credit': 'An elderly woman stands with local candidates on stage in a campaign
+    section12:
+      primarytype: 'block'
+      uuid: '1ce15d45-61a7-4cd7-a3de-2d2a33d40642'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.934+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.251+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\t\t\t\t"
+    section13:
+      primarytype: 'block'
+      uuid: 'bbf9cb33-67d2-4062-98b2-ff9e1466bd29'
+      activationstatus: true
+      created: 2025-05-04T15:29:58.934+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:29:59.252+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:29:58.967+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: "\t\t\t"
+  'START HERE----->-Kissing-auction--for-elder-woman-in-campaign-rally-condemned-':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T15:30:03.000+08:00
+    credit: 'An elderly woman stands with local candidates on stage in a campaign
       rally in Urdaneta, Pangasinan (Gabriela/Facebook)'
-    'imagesource': 'jcr:b5e7336b-8017-424b-9123-b5d51c7c5442'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '39659a25-c39f-4b18-9cb3-cb8ab0085095'
-    'lead': 'Women’s group Gabriela on Sunday, May 4, condemned a campaign rally
+    imagesource: 'b5e7336b-8017-424b-9123-b5d51c7c5442'
+    primarytype: 'composition'
+    uuid: '39659a25-c39f-4b18-9cb3-cb8ab0085095'
+    lead: 'Women’s group Gabriela on Sunday, May 4, condemned a campaign rally
       in Urdaneta, Pangasinan, where local candidates allegedly auctioned an elderly
       woman for kisses in exchange for ₱5,000.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T15:34:41.461+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T15:34:41.725+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '‘Kissing auction’ for elder woman in campaign rally condemned '
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4300ad33-d9be-4c76-899c-a74dc211f617'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:34:41.473+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:34:41.726+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Metro Manila, Philippines - Women’s group Gabriela on Sunday, May
+    activationstatus: true
+    created: 2025-05-04T15:34:41.461+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T15:34:41.725+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T15:34:41.488+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘Kissing auction’ for elder woman in campaign rally condemned '
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4300ad33-d9be-4c76-899c-a74dc211f617'
+      activationstatus: true
+      created: 2025-05-04T15:34:41.473+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:34:41.726+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:34:41.488+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>Metro Manila, Philippines - Women’s group Gabriela on Sunday, May
         4, condemned a campaign rally in Urdaneta, Pangasinan, where local candidates
         allegedly auctioned an elderly woman for kisses in exchange for ₱5,000.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ef6f174-16f1-4ca5-8184-49ab9cc93c3f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:34:41.473+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:34:41.727+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'During the rally, the elderly woman was reportedly called to the stage
+    section1:
+      primarytype: 'block'
+      uuid: '4ef6f174-16f1-4ca5-8184-49ab9cc93c3f'
+      activationstatus: true
+      created: 2025-05-04T15:34:41.473+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:34:41.727+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:34:41.488+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'During the rally, the elderly woman was reportedly called to the stage
         where re-electionists Mayor Rammy Parayno and Vice Mayor Jimmy Parayno conducted
         a “bidding war for her kisses,” starting at ₱1,000 which eventually reached
         ₱5,000.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '342b7115-0342-4e09-8605-59d3c8606340'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:34:41.473+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:34:41.728+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '"We are outraged by this reprehensible display where local officials
-        essentially ''auctioned off'' an elderly woman’s dignity for their entertainment
+    section2:
+      primarytype: 'block'
+      uuid: '342b7115-0342-4e09-8605-59d3c8606340'
+      activationstatus: true
+      created: 2025-05-04T15:34:41.473+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:34:41.728+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:34:41.488+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '"We are outraged by this reprehensible display where local officials
+        essentially 'auctioned off' an elderly woman’s dignity for their entertainment
         and the crowd’s amusement," said Gabriela Secretary-General Clarice Palce
         in a statement.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '86177f32-17a2-4d1e-9860-7056a81661dc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:34:41.474+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:34:41.729+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The group likened the incident to Pasig congressional candidate
+    section3:
+      primarytype: 'block'
+      uuid: '86177f32-17a2-4d1e-9860-7056a81661dc'
+      activationstatus: true
+      created: 2025-05-04T15:34:41.474+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:34:41.729+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:34:41.488+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The group likened the incident to Pasig congressional candidate
         Christian “Ian” Sia’s a <strong>lewd joke</strong> about single mothers, as
         well as a subsequent remark about the body of a female staff member.&nbsp;</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3bbf3e83-a32d-4f51-9e40-457a33bb2095'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:34:41.474+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:34:41.730+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:34:41.488+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Government officials and aspirants must be held to the highest
+    section4:
+      primarytype: 'block'
+      uuid: '3bbf3e83-a32d-4f51-9e40-457a33bb2095'
+      activationstatus: true
+      created: 2025-05-04T15:34:41.474+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:34:41.730+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:34:41.488+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“Government officials and aspirants must be held to the highest
         standards of respecting women,” Palce said, urging voters to choose bets who
         truly champion women’s rights.</p>'
-  'CBCP-defends-papal-frontrunner-Tagle-over-stance-in-clerical-sex-abuse':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T15:35:08.000+08:00
-    'imagesource': 'jcr:783d0498-1010-4ba7-a9f2-c3dd40f7fc67'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f1433195-54b1-4bc1-81ab-cf9c1b2f9b76'
-    'lead': 'The Catholic Bishops Conference of the Philippines (CBCP) defended papal
+  'START HERE----->CBCP-defends-papal-frontrunner-Tagle-over-stance-in-clerical-sex-abuse':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T15:35:08.000+08:00
+    imagesource: '783d0498-1010-4ba7-a9f2-c3dd40f7fc67'
+    primarytype: 'composition'
+    uuid: 'f1433195-54b1-4bc1-81ab-cf9c1b2f9b76'
+    lead: 'The Catholic Bishops Conference of the Philippines (CBCP) defended papal
       frontrunner Cardinal Luis Antonio Tagle’s stance on clerical sex abuse, days
       before the secretive conclave begins casting its ballots in the Vatican.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T15:36:17.334+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T15:36:17.569+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'CBCP defends papal frontrunner Tagle over stance in clerical sex abuse'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f70eacaa-f985-4efa-8665-9bae9f61f21b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.353+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.569+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Catholic Bishops
+    activationstatus: true
+    created: 2025-05-04T15:36:17.334+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T15:36:17.569+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T15:36:17.377+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'CBCP defends papal frontrunner Tagle over stance in clerical sex abuse'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'f70eacaa-f985-4efa-8665-9bae9f61f21b'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.353+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.569+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Catholic Bishops
         Conference of the Philippines (CBCP) defended papal frontrunner Cardinal Luis
         Antonio Tagle’s stance on clerical sex abuse, days before the secretive conclave
         begins casting its ballots in the Vatican.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64c1a51a-f0c8-4d02-b846-d47fff7bd8dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.354+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.571+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'This comes after watchdog group BishopAccountability.org warned that
+    section1:
+      primarytype: 'block'
+      uuid: '64c1a51a-f0c8-4d02-b846-d47fff7bd8dd'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.354+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.571+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'This comes after watchdog group BishopAccountability.org warned that
         the two frontrunners for the papacy – Italian Cardinal Pietro Parolin and
         Tagle – may fall short in protecting children from sexual abuse within the
         church.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4b211a44-3504-4185-8476-40b426b2478b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.354+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.572+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': ' In a rare Saturday night statement addressing the issue, CBCP clarified
+    section2:
+      primarytype: 'block'
+      uuid: '4b211a44-3504-4185-8476-40b426b2478b'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.354+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.572+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: ' In a rare Saturday night statement addressing the issue, CBCP clarified
         that “addressing allegations of misconduct by clergy rests with the respective
         diocesan bishops or religious superiors.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd31ac4b2-e6f6-47c0-a3d8-1cfb1142422e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.354+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.573+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“Since his appointment to a full-time position in the Roman Curia,
+    section3:
+      primarytype: 'block'
+      uuid: 'd31ac4b2-e6f6-47c0-a3d8-1cfb1142422e'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.354+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.573+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“Since his appointment to a full-time position in the Roman Curia,
         Cardinal Tagle no longer holds direct authority over any diocese in the Philippines,”
         it said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a7f69c8-85af-4695-8dfa-e429c0c9b077'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.355+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.573+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'It also listed key roles Tagle played in crafting pastoral guidelines
+    section4:
+      primarytype: 'block'
+      uuid: '9a7f69c8-85af-4695-8dfa-e429c0c9b077'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.355+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.573+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'It also listed key roles Tagle played in crafting pastoral guidelines
         on sexual abuse that were disseminated in 2003. The cardinal served as archbishop
         of Manila between 2011 and 2019.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00889001-28e0-41e8-8774-14dc0b050d5c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.355+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.574+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tagle is in the Holy See for his second time joining a conclave. He
+    section5:
+      primarytype: 'block'
+      uuid: '00889001-28e0-41e8-8774-14dc0b050d5c'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.355+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.574+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Tagle is in the Holy See for his second time joining a conclave. He
         is with Cardinals Jose Advincula and Pablo Virgilio David who are also electors
         for the upcoming conclave starting May 7.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5cec2dd2-278b-4510-a3fe-9b62900421c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T15:36:17.356+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T15:36:17.575+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T15:36:17.377+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Philippines has five living cardinals — the highest number to
+    section6:
+      primarytype: 'block'
+      uuid: '5cec2dd2-278b-4510-a3fe-9b62900421c6'
+      activationstatus: true
+      created: 2025-05-04T15:36:17.356+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T15:36:17.575+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T15:36:17.377+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>The Philippines has five living cardinals — the highest number to
         date. Cardinals Orlando Quevedo and Gaudencio Rosales are above 80 years old
         and will not be part of the conclave.</p>'
-  'LTO-suspends-license-of-driver-in-deadly-NAIA-car-crash':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T16:03:42.000+08:00
-    'imagesource': 'jcr:493b9546-7356-4568-9bef-965ad0c4a198'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '791eb7a8-0dc6-489d-bae0-ac7070f644eb'
-    'lead': 'The Land Transportation Office (LTO) has suspended for 90-days the license
+  'START HERE----->LTO-suspends-license-of-driver-in-deadly-NAIA-car-crash':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T16:03:42.000+08:00
+    imagesource: '493b9546-7356-4568-9bef-965ad0c4a198'
+    primarytype: 'composition'
+    uuid: '791eb7a8-0dc6-489d-bae0-ac7070f644eb'
+    lead: 'The Land Transportation Office (LTO) has suspended for 90-days the license
       of the SUV driver who killed two, including a child, and injured four after
       ramming onto the walkway of Ninoy Aquino International Airport (NAIA) Terminal
       1 on Sunday, May 4.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T16:05:51.007+08:00
-    'mgnl:createdBy': 'faith-nwp'
-    'mgnl:lastActivated': 2025-05-04T16:05:51.218+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-    'mgnl:lastModifiedBy': 'faith-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'LTO suspends license of driver in deadly NAIA car crash'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0df7c3c7-ff34-46ff-ba9d-31175fdbe733'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.018+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.219+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
+    activationstatus: true
+    created: 2025-05-04T16:05:51.007+08:00
+    createdby: 'faith-nwp'
+    lastactivated: 2025-05-04T16:05:51.218+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T16:05:51.037+08:00
+    lastmodifiedby: 'faith-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'LTO suspends license of driver in deadly NAIA car crash'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '0df7c3c7-ff34-46ff-ba9d-31175fdbe733'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.018+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.219+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Land Transportation
         Office (LTO) has suspended for 90-days the license of the SUV driver who killed
         two, including a child, and injured four after ramming onto the walkway of
         Ninoy Aquino International Airport (NAIA) Terminal 1 on Sunday, May 4.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f394af88-9879-47c8-8e17-362354a62686'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.019+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.220+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'LTO chief Vigor Mendoza II said the agency has also ordered the registered
+    section1:
+      primarytype: 'block'
+      uuid: 'f394af88-9879-47c8-8e17-362354a62686'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.019+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.220+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'LTO chief Vigor Mendoza II said the agency has also ordered the registered
         owner of the vehicle and the driver to explain the car crash.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5964d0e1-6020-4aa8-bacc-863614698f88'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.019+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.222+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '“We already issued a show cause order asking both the registered owner
+    section2:
+      primarytype: 'block'
+      uuid: '5964d0e1-6020-4aa8-bacc-863614698f88'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.019+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.222+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '“We already issued a show cause order asking both the registered owner
         and the driver to appear before our office and explain the incident as part
         of our investigation,” Mendoza said in a statement.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cffc4ac0-5a2b-461a-9aa5-46e370733989'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.222+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Citing an initial police report, the LTO said the driver accidentally
+    section3:
+      primarytype: 'block'
+      uuid: 'cffc4ac0-5a2b-461a-9aa5-46e370733989'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.222+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Citing an initial police report, the LTO said the driver accidentally
         stepped on the gas pedal after a sedan allegedly passed in front of him as
         he was about to leave the departure area.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c9d100d-8cce-4efc-a9c2-fade8ca13fa3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.223+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': 'Meanwhile, the New NAIA Infra Corp. (NNIC) said its president, Ramon
+    section4:
+      primarytype: 'block'
+      uuid: '7c9d100d-8cce-4efc-a9c2-fade8ca13fa3'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.223+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: 'Meanwhile, the New NAIA Infra Corp. (NNIC) said its president, Ramon
         Ang, has committed to personally shoulder the medical expenses of those injured
         and provide financial aid to the families of the two who died.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2a926198-4317-49e8-bac7-af35d80fadf0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T16:05:51.020+08:00
-      'mgnl:createdBy': 'faith-nwp'
-      'mgnl:lastActivated': 2025-05-04T16:05:51.224+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T16:05:51.037+08:00
-      'mgnl:lastModifiedBy': 'faith-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“This is a very tragic incident. Our priority now is to make sure
+    section5:
+      primarytype: 'block'
+      uuid: '2a926198-4317-49e8-bac7-af35d80fadf0'
+      activationstatus: true
+      created: 2025-05-04T16:05:51.020+08:00
+      createdby: 'faith-nwp'
+      lastactivated: 2025-05-04T16:05:51.224+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T16:05:51.037+08:00
+      lastmodifiedby: 'faith-nwp'
+      type: 'text'
+      text: '<p>“This is a very tragic incident. Our priority now is to make sure
         the victims and their families receive the support and care they need,” Ang
         said in a statement.</p>'
-  'marcos-presidential-medal-aunor-corrales-romero-fores':
-    'author': 'Tristan Nodalo, NewsWatch Plus'
-    'caption': 'President Bongbong Marcos posthumously conferred the Presidential
+  'START HERE----->marcos-presidential-medal-aunor-corrales-romero-fores':
+    author: 'Tristan Nodalo, NewsWatch Plus'
+    caption: 'President Bongbong Marcos posthumously conferred the Presidential
       Medal of Merit to Gloria Romero, Margarita Araneta Forés, Pilita Corrales, and
       Nora Aunor.'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-05-04T21:09:58.000+08:00
-    'imagesource': 'jcr:fe280ff8-14b9-4cc8-ac57-ae90f57e6432'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '3f630dbc-261f-4560-b4fc-3a1dbd51cfd9'
-    'lead': 'President Ferdinand Marcos Jr. on Sunday, May 4,  posthumously awarded
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-05-04T21:09:58.000+08:00
+    imagesource: 'fe280ff8-14b9-4cc8-ac57-ae90f57e6432'
+    primarytype: 'composition'
+    uuid: '3f630dbc-261f-4560-b4fc-3a1dbd51cfd9'
+    lead: 'President Ferdinand Marcos Jr. on Sunday, May 4,  posthumously awarded
       the prestigious Presidential Medal of Merit to four cultural icons: Nora Aunor,
       Pilita Corrales, Gloria Romero, and Margarita Forés, celebrating their unparalleled
       contributions to Philippine cinema, music, and cuisine.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-05-04T21:12:25.102+08:00
-    'mgnl:createdBy': 'tristan-nwp'
-    'mgnl:lastActivated': 2025-05-04T21:12:25.415+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-05-04T21:12:25.138+08:00
-    'mgnl:lastModifiedBy': 'tristan-nwp'
-    'mgnl:tags': ['margarita-fores', 'Nora-Aunor', 'pilita-corrales', 'gloria-romero']
-    'stories': []
-    'template': '1'
-    'title': 'Marcos honors Aunor, Corrales, Romero, Forés with Presidential Medal
+    activationstatus: true
+    created: 2025-05-04T21:12:25.102+08:00
+    createdby: 'tristan-nwp'
+    lastactivated: 2025-05-04T21:12:25.415+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-05-04T21:12:25.138+08:00
+    lastmodifiedby: 'tristan-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Marcos honors Aunor, Corrales, Romero, Forés with Presidential Medal
       of Merit'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c4b2902-374d-498f-8cf9-589903a3d1f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.120+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.416+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.132+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '5c4b2902-374d-498f-8cf9-589903a3d1f9'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.120+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.416+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.132+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> President Ferdinand
         Marcos Jr. on Sunday, May 4, posthumously awarded the prestigious Presidential
         Medal of Merit to four cultural icons: Nora Aunor, Pilita Corrales, Gloria
         Romero, and Margarita Forés, celebrating their unparalleled contributions
         to Philippine cinema, music, and cuisine.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8dde310-0d8f-412c-9bf8-3beffe2b9acf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.121+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.417+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.121+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Presidential Medal of Merit, created under Executive Order No.
+    section1:
+      primarytype: 'block'
+      uuid: 'f8dde310-0d8f-412c-9bf8-3beffe2b9acf'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.121+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.417+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.121+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The Presidential Medal of Merit, created under Executive Order No.
         236 in 2003, recognizes individuals for their valuable input and excellence
         in the service of nation-building. It is one of the highest civilian distinctions
         granted by the Philippine government.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8bb21a1-d268-4641-a692-7c8430404890'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.121+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.418+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.121+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Today, we honor four women who have not only mastered their respective
+    section2:
+      primarytype: 'block'
+      uuid: 'b8bb21a1-d268-4641-a692-7c8430404890'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.121+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.418+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.121+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Today, we honor four women who have not only mastered their respective
         crafts but have also helped shape the cultural identity of the Filipino people,”
         Marcos said during the conferment ceremony held in Malacañang.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '41eb0793-335d-4ac8-b651-912e9453b4fd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.122+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.419+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.122+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The President also expressed gratitude to the families of the honorees,
+    section3:
+      primarytype: 'block'
+      uuid: '41eb0793-335d-4ac8-b651-912e9453b4fd'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.122+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.419+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.122+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The President also expressed gratitude to the families of the honorees,
         all of whom passed away earlier this year.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1875effb-bb09-49d2-83ff-8d5c18f7cb49'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.122+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.420+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.122+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“Ang kanilang sining at likha ay hindi lamang naging aliwan ng ating
+    section4:
+      primarytype: 'block'
+      uuid: '1875effb-bb09-49d2-83ff-8d5c18f7cb49'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.122+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.420+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.122+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“Ang kanilang sining at likha ay hindi lamang naging aliwan ng ating
         mga kababayan, bagkus naging salamin ng kasaysayan ng bansa, ng bawat Pilipino,”
         Marcos said.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e9e8a8b0-22d3-4ba4-8106-2b33f6b22282'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.123+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.421+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.123+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: Their art and creations have not only provided entertainment
+    section5:
+      primarytype: 'block'
+      uuid: 'e9e8a8b0-22d3-4ba4-8106-2b33f6b22282'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.123+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.421+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.123+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '[Translation: Their art and creations have not only provided entertainment
         for our fellow countrymen, but have also served as a mirror of our nation’s
         history, of every Filipino] '
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0990325-03d9-48cc-966b-ae7797a0c08e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.123+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.423+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.123+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Romero, dubbed the Queen of Philippine Cinema, was remembered for a
+    section6:
+      primarytype: 'block'
+      uuid: 'd0990325-03d9-48cc-966b-ae7797a0c08e'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.123+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.423+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.123+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Romero, dubbed the Queen of Philippine Cinema, was remembered for a
         career that spanned an entire era. She won seven FAMAS Awards, three Gawad
         Urian Awards, and four Luna Awards. Among her most impactful films are Dalagang
         Ilocana, Palibhasa Lalake, and Tanging Yaman. Romero passed away on January
         25, 2025.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a77c7081-cba0-4dff-a02f-c06b7a07522f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.124+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.424+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.124+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Forés, meanwhile, “reimagined Italian cuisine by giving it a Filipino
+    section7:
+      primarytype: 'block'
+      uuid: 'a77c7081-cba0-4dff-a02f-c06b7a07522f'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.124+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.424+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.124+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Forés, meanwhile, “reimagined Italian cuisine by giving it a Filipino
         heart.” She was named Asia’s Best Female Chef in 2016. Forés passed away on
         February 11, 2025.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '78a95136-fc42-4774-82e0-82c2be084d35'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.124+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.425+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.124+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Corrales, known as Asia’s Queen of Songs, captivated audiences across
+    section8:
+      primarytype: 'block'
+      uuid: '78a95136-fc42-4774-82e0-82c2be084d35'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.124+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.425+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.124+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Corrales, known as Asia’s Queen of Songs, captivated audiences across
         continents with her music. She won Best Performer at the Tokyo Music Festival
         and received both a FAMAS and a Lifetime Achievement Award. Corrales passed
         away on April 12, 2025.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '402fa9cb-da26-4cce-9f25-9c1d88f9beef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.124+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.426+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.124+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'Aunor, the “Superstar,” was inducted into the FAMAS Hall of Fame and
+    section9:
+      primarytype: 'block'
+      uuid: '402fa9cb-da26-4cce-9f25-9c1d88f9beef'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.124+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.426+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.124+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'Aunor, the “Superstar,” was inducted into the FAMAS Hall of Fame and
         declared a National Artist for Film and Broadcast Arts. Her body of work which
         included acclaimed films Himala and Tatlong Taong Walang Diyos, has embodied
         the Filipino spirit. Aunor passed away on April 16, 2025.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6dcfb719-bd2e-4461-8ef0-e55eee5f860b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.125+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.427+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.125+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '“These women have not only gained acclaim in their individual fields,
+    section10:
+      primarytype: 'block'
+      uuid: '6dcfb719-bd2e-4461-8ef0-e55eee5f860b'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.125+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.427+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.125+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '“These women have not only gained acclaim in their individual fields,
         but they have also become cultural icons whose achievements continue to inspire
         generations of Filipinos,” Marcos said.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76ff4a87-ee94-484b-a97d-1f0f43e67fdf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.125+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.428+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.125+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Presidential Medal of Merit was last awarded in 2021 to several
+    section11:
+      primarytype: 'block'
+      uuid: '76ff4a87-ee94-484b-a97d-1f0f43e67fdf'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.125+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.428+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.125+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: 'The Presidential Medal of Merit was last awarded in 2021 to several
         pandemic frontliners.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7cc89acd-4673-495a-a8c2-0f8bf32db2be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-05-04T21:12:25.126+08:00
-      'mgnl:createdBy': 'tristan-nwp'
-      'mgnl:lastActivated': 2025-05-04T21:12:25.429+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-05-04T21:12:25.126+08:00
-      'mgnl:lastModifiedBy': 'tristan-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>This is the first time under the Marcos administration that the
+    section12:
+      primarytype: 'block'
+      uuid: '7cc89acd-4673-495a-a8c2-0f8bf32db2be'
+      activationstatus: true
+      created: 2025-05-04T21:12:25.126+08:00
+      createdby: 'tristan-nwp'
+      lastactivated: 2025-05-04T21:12:25.429+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-05-04T21:12:25.126+08:00
+      lastmodifiedby: 'tristan-nwp'
+      type: 'text'
+      text: '<p>This is the first time under the Marcos administration that the
         honor has been given to cultural personalities.</p>'

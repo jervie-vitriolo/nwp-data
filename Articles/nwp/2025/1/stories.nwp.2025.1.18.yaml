@@ -1,2318 +1,2318 @@
-'18':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '1db6a34d-676a-48ef-a24c-072acb979217'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-01-18T00:16:26.068+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-03-13T12:29:53.249+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.1'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:00.187+08:00
-  'mgnl:lastModified': 2025-01-18T17:30:51.024+08:00
-  'mgnl:lastModifiedBy': 'eimor-nwp'
-  'tiktok-banned-in-us':
-    'author': 'Andrew Chung and John Kruzel, Reuters'
-    'caption': 'Logo of short-form video app TikTok (Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T00:16:26.000+08:00
-    'imagesource': 'jcr:3cbb647c-1ade-490f-849c-82f5fb993c34'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a45338a6-15d2-4995-a49b-cbfccc3e2f86'
-    'lead': 'The U.S. Supreme Court upheld on Friday a law banning TikTok in the United
+section18:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '1db6a34d-676a-48ef-a24c-072acb979217'
+  activationstatus: true
+  created: 2025-01-18T00:16:26.068+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-03-13T12:29:53.249+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.1'
+  lastactivatedversioncreated: 2025-03-13T12:28:00.187+08:00
+  lastmodified: 2025-01-18T17:30:51.024+08:00
+  lastmodifiedby: 'eimor-nwp'
+  'START HERE----->tiktok-banned-in-us':
+    author: 'Andrew Chung and John Kruzel, Reuters'
+    caption: 'Logo of short-form video app TikTok (Reuters)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T00:16:26.000+08:00
+    imagesource: '3cbb647c-1ade-490f-849c-82f5fb993c34'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a45338a6-15d2-4995-a49b-cbfccc3e2f86'
+    lead: 'The U.S. Supreme Court upheld on Friday a law banning TikTok in the United
       States on national security grounds if its Chinese parent company ByteDance
       does not sell the short-video app by Sunday, as the justices in a 9-0 decision
       declined to rescue a platform used by about half of all Americans.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T00:18:30.577+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:03.324+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:00.462+08:00
-    'mgnl:lastModified': 2025-01-18T00:18:30.635+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['TikTok']
-    'stories': []
-    'template': '1'
-    'title': 'US Supreme Court upholds law banning TikTok'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c3fe1a9-a4fd-4874-bdfc-ce21e6374e30'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.596+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.336+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.623+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, U.S. -</strong> The U.S. Supreme Court upheld
+    activationstatus: true
+    created: 2025-01-18T00:18:30.577+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-03-13T12:33:03.324+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T12:28:00.462+08:00
+    lastmodified: 2025-01-18T00:18:30.635+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'US Supreme Court upholds law banning TikTok'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9c3fe1a9-a4fd-4874-bdfc-ce21e6374e30'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.596+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.336+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.623+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, U.S. -</strong> The U.S. Supreme Court upheld
         on Friday a law banning TikTok in the United States on national security grounds
         if its Chinese parent company ByteDance does not sell the short-video app
         by Sunday, as the justices in a 9-0 decision declined to rescue a platform
         used by about half of all Americans.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '53b81694-fcae-41ef-af10-34bd77c09b86'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.596+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.337+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.596+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The justices ruled that the law, passed by an overwhelming bipartisan
+    section1:
+      primarytype: 'block'
+      uuid: '53b81694-fcae-41ef-af10-34bd77c09b86'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.596+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.337+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.596+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The justices ruled that the law, passed by an overwhelming bipartisan
         majority in Congress last year and signed by Democratic President Joe Biden,
         did not violate the U.S. Constitution’s First Amendment protection against
         government abridgment of free speech. The justices affirmed a lower court’s
         decision that had upheld the measure after it was challenged by TikTok, ByteDance
         and some of the app’s users.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '083a4368-9a04-433d-8ce5-4725b35aced2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.597+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.339+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.597+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"There is no doubt that, for more than 170 million Americans, TikTok
+    section2:
+      primarytype: 'block'
+      uuid: '083a4368-9a04-433d-8ce5-4725b35aced2'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.597+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.339+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.597+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"There is no doubt that, for more than 170 million Americans, TikTok
         offers a distinctive and expansive outlet for expression, means of engagement
         and source of community. But Congress has determined that divestiture is necessary
         to address its well-supported national security concerns regarding TikTok’s
         data collection practices and relationship with a foreign adversary," the
         court said in the unsigned opinion.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f043fcf-0bf3-48a2-956b-3365f502364d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.597+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.340+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.597+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The court added that "we conclude that the challenged provisions do
-        not violate petitioners'' First Amendment rights."'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b18ed46a-5544-4d3b-bd6f-109585fb9c0c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.598+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.340+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.598+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A statement issued by the White House statement suggested that Biden
+    section3:
+      primarytype: 'block'
+      uuid: '8f043fcf-0bf3-48a2-956b-3365f502364d'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.597+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.340+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.597+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The court added that "we conclude that the challenged provisions do
+        not violate petitioners' First Amendment rights."'
+    section4:
+      primarytype: 'block'
+      uuid: 'b18ed46a-5544-4d3b-bd6f-109585fb9c0c'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.598+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.340+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.598+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A statement issued by the White House statement suggested that Biden
         would not take any action to save TikTok before the law’s Sunday deadline
         for divestiture. Republican Donald Trump, who opposed a TikTik ban, succeeds
         Biden on Monday.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc968029-0361-43e4-9971-bf7640aee9de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.598+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.598+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The case pitted free speech rights against national security concerns
+    section5:
+      primarytype: 'block'
+      uuid: 'bc968029-0361-43e4-9971-bf7640aee9de'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.598+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.598+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The case pitted free speech rights against national security concerns
         in the age of social media.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '20ad8abb-0cdd-4e08-a8a6-6a0e56131279'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.599+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.599+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The court said it was giving "substantial respect" to the U.S. government’s
+    section6:
+      primarytype: 'block'
+      uuid: '20ad8abb-0cdd-4e08-a8a6-6a0e56131279'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.599+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.599+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The court said it was giving "substantial respect" to the U.S. government’s
         national security concerns about China. The justices noted that evidence in
         the case reflected that China "has engaged in extensive and years-long efforts
         to accumulate structured datasets, in particular on U.S. persons, to support
         its intelligence and counterintelligence operations."'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5df3449-d716-4a35-807c-6ab148fc08fb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.599+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.343+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.599+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'White House Press Secretary Karine Jean-Pierre in a statement reiterated
+    section7:
+      primarytype: 'block'
+      uuid: 'c5df3449-d716-4a35-807c-6ab148fc08fb'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.599+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.343+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.599+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'White House Press Secretary Karine Jean-Pierre in a statement reiterated
         Biden’s position that "TikTok should remain available to Americans, but simply
         under American ownership or other ownership that addresses the national security
         concerns identified by Congress in developing this law."'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '336d6788-038a-4e27-8260-4aa325b911a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.599+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.344+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.599+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Given the timing, Jean-Pierre added, action to implement the law "must
+    section8:
+      primarytype: 'block'
+      uuid: '336d6788-038a-4e27-8260-4aa325b911a4'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.599+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.344+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.599+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Given the timing, Jean-Pierre added, action to implement the law "must
         fall to the next administration."'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e047429f-3315-4a6b-bcb8-ff830ae859de'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.600+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.345+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.600+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s team did not immediately respond to requests for comment.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0fbd7dbb-5dd2-4d86-9d11-4190f77c6898'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.600+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.346+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.600+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok also did not immediately respond to a request for comment. TikTok
+    section9:
+      primarytype: 'block'
+      uuid: 'e047429f-3315-4a6b-bcb8-ff830ae859de'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.600+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.345+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.600+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump’s team did not immediately respond to requests for comment.'
+    section10:
+      primarytype: 'block'
+      uuid: '0fbd7dbb-5dd2-4d86-9d11-4190f77c6898'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.600+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.346+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.600+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok also did not immediately respond to a request for comment. TikTok
         plans to shut U.S. operations of the app on Sunday barring a last-minute reprieve,
         people familiar with the matter told Reuters on Wednesday.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c74d0cb5-3b11-42f9-834a-f91e9893288d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.601+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.346+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.601+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Without a decision by Biden to formally invoke a 90-day delay in the
+    section11:
+      primarytype: 'block'
+      uuid: 'c74d0cb5-3b11-42f9-834a-f91e9893288d'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.601+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.346+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.601+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Without a decision by Biden to formally invoke a 90-day delay in the
         deadline, companies providing services to TikTok or hosting the app could
         face legal liability. It is not immediately clear if TikTok’s business partners
         including Google, Apple and Oracle will continue doing business with it before
         Trump is inaugurated. The uncertainty leaves open the possibility of a shutdown
         by TikTok on Sunday.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef7f9c9e-766e-4548-943f-a14df938be5c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.601+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.349+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.601+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Quick action</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '61173c26-b483-415c-86ec-9a47f5ddb4dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.602+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.350+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.602+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Supreme Court acted speedily in the case, having held arguments
+    section12:
+      primarytype: 'block'
+      uuid: 'ef7f9c9e-766e-4548-943f-a14df938be5c'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.601+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.349+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.601+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Quick action</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: '61173c26-b483-415c-86ec-9a47f5ddb4dd'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.602+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.350+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.602+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Supreme Court acted speedily in the case, having held arguments
         on Jan. 10, just nine days before the deadline set under the law.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '716bc50e-ca01-4fee-a043-79c29e53e2e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.602+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.351+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.602+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok is one of the most prominent social media platforms in the United
+    section14:
+      primarytype: 'block'
+      uuid: '716bc50e-ca01-4fee-a043-79c29e53e2e8'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.602+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.351+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.602+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok is one of the most prominent social media platforms in the United
         States, used by about 270 million Americans, including many young people.
         TikTok’s powerful algorithm, its main asset, feeds individual users short
         videos tailored to their liking. The platform presents a vast collection of
         user-submitted videos, often under a minute in duration, that can be viewed
         with a smart phone app or on the internet.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37478a48-308d-4cb8-b997-194d242c37ac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.603+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.352+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.603+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'China and the United States are economic and geopolitical rivals, and
+    section15:
+      primarytype: 'block'
+      uuid: '37478a48-308d-4cb8-b997-194d242c37ac'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.603+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.352+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.603+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'China and the United States are economic and geopolitical rivals, and
         TikTok’s Chinese ownership for years has raised concerns among American leaders.
         The TikTok fight has unfolded during the waning days of Biden’s presidency
         and at a time of rising trade tensions between the world’s two biggest economies.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bf96ac69-9fcf-4c0a-9065-5d83a5b95dd7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.603+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.353+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.603+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Biden administration has said the law targets control of the app
+    section16:
+      primarytype: 'block'
+      uuid: 'bf96ac69-9fcf-4c0a-9065-5d83a5b95dd7'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.603+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.353+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.603+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Biden administration has said the law targets control of the app
         by a foreign adversary, not protected speech, and that TikTok could continue
         operating as-is if it is freed from China’s control.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '651982a0-e673-4458-8520-00b152fab929'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.604+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.354+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.604+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'During arguments in the case, Justice Department lawyer Elizabeth Prelogar
+    section17:
+      primarytype: 'block'
+      uuid: '651982a0-e673-4458-8520-00b152fab929'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.604+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.354+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.604+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'During arguments in the case, Justice Department lawyer Elizabeth Prelogar
         said Chinese government control of TikTok poses a "grave threat" to U.S. national
         security, with China seeking to amass vast quantities of sensitive data on
         Americans and to engage in covert influence operations. Prelogar said China
         compels companies like ByteDance to secretly turn over data on social media
         users and carry out Chinese government directives.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22c5e19a-0b69-4d9d-b543-54ff046d5989'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.604+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.354+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.604+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok’s immense data set, Prelogar added, represents a powerful tool
+    section18:
+      primarytype: 'block'
+      uuid: '22c5e19a-0b69-4d9d-b543-54ff046d5989'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.604+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.354+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.604+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok’s immense data set, Prelogar added, represents a powerful tool
         that could be used by the Chinese government for harassment, recruitment and
         espionage, and that China "could weaponize TikTok at any time to harm the
         United States."'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '07980a70-f035-48b6-aa94-7007ed4af4cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.605+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.355+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.605+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The law was passed last April. Biden’s administration defended it
+    section19:
+      primarytype: 'block'
+      uuid: '07980a70-f035-48b6-aa94-7007ed4af4cf'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.605+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.355+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.605+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The law was passed last April. Biden’s administration defended it
         in court. TikTok and ByteDance, as well as some users who post content on
         the app, challenged the measure and appealed to the Supreme Court after losing
         on Dec. 6 at the U.S. Court of Appeals for the District of Columbia Circuit.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f610ff8a-96fe-4dae-8422-dfc462c6e925'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.605+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.356+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.605+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s opposition to the ban represents a reversal in stance from
+    section20:
+      primarytype: 'block'
+      uuid: 'f610ff8a-96fe-4dae-8422-dfc462c6e925'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.605+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.356+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.605+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump’s opposition to the ban represents a reversal in stance from
         his first term in office when he aimed to prohibit TikTok. Trump has said
         he has "a warm spot in my heart for TikTok," opining that the app helped him
         with young voters in the 2024 election.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '051d69d2-1e03-4987-a05c-da59d659697e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.606+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.357+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.606+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In December, Trump asked the Supreme Court to put the law on hold to
+    section21:
+      primarytype: 'block'
+      uuid: '051d69d2-1e03-4987-a05c-da59d659697e'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.606+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.357+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.606+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In December, Trump asked the Supreme Court to put the law on hold to
         give his incoming administration "the opportunity to pursue a political resolution
         of the questions at issue in the case." But while Trump has vowed to "save"
         TikTok, many of his Republican allies supported the ban.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23f2f2c2-8ae3-436c-a291-177a8ff4931b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.606+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.358+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.606+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Mike Waltz, Trump’s incoming national security adviser, said on Thursday
+    section22:
+      primarytype: 'block'
+      uuid: '23f2f2c2-8ae3-436c-a291-177a8ff4931b'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.606+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.358+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.606+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Mike Waltz, Trump’s incoming national security adviser, said on Thursday
         the new administration will keep TikTok alive in the United States if there
         is a viable deal. Waltz said the incoming administration would "put measures
         in place to keep TikTok from going dark," and cited a provision in the law
         allowing for a 90-day extension if there is "significant progress" toward
         a divestiture.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '468b000a-870a-4ae2-9b52-1c723b7597cf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.607+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.359+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.607+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senate Democratic leader Chuck Schumer said on Thursday that TikTok
+    section23:
+      primarytype: 'block'
+      uuid: '468b000a-870a-4ae2-9b52-1c723b7597cf'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.607+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.359+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.607+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Senate Democratic leader Chuck Schumer said on Thursday that TikTok
         should be given more time to find an American buyer and that he would work
         with the Trump administration "to keep TikTok alive while protecting our national
         security."'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef54f112-e655-4f7d-acde-24ecf5b467b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.608+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.360+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.608+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok CEO Shou Zi Chew will attend Trump’s inauguration on Monday,
+    section24:
+      primarytype: 'block'
+      uuid: 'ef54f112-e655-4f7d-acde-24ecf5b467b0'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.608+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.360+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.608+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok CEO Shou Zi Chew will attend Trump’s inauguration on Monday,
         seated among other high-profile invitees.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f67d9c23-35ae-4ab4-a0e1-b5cd6d3ecd16'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.608+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.361+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.608+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Free speech rights</strong></h2>'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97ac6b55-db1b-470c-96bb-b512c6ed380a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.609+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.362+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.609+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'TikTok has said the law endangers the First Amendment rights not only
+    section25:
+      primarytype: 'block'
+      uuid: 'f67d9c23-35ae-4ab4-a0e1-b5cd6d3ecd16'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.608+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.361+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.608+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Free speech rights</strong></h2>'
+    section26:
+      primarytype: 'block'
+      uuid: '97ac6b55-db1b-470c-96bb-b512c6ed380a'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.609+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.362+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.609+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'TikTok has said the law endangers the First Amendment rights not only
         of it and its users, but also of all Americans. TikTok has said that the ban
         would hit its user base, advertisers, content creators and employee talent.
         TikTok has 7,000 U.S. employees.'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6fe4549b-6ad4-419d-bf34-9476731ee36c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.609+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.363+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.609+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Noel Francisco, the lawyer for TikTok and ByteDance, told the Supreme
+    section27:
+      primarytype: 'block'
+      uuid: '6fe4549b-6ad4-419d-bf34-9476731ee36c'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.609+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.363+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.609+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Noel Francisco, the lawyer for TikTok and ByteDance, told the Supreme
         Court that the app is "one of America’s most popular speech platforms," and
         said that the law would require it to "go dark" unless ByteDance executes
         a qualified divestiture.'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7bed426-aaeb-4ead-bf73-bcfe6d6d9eb5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.610+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.364+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.610+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Francisco said the U.S. government’s real target with this law is
+    section28:
+      primarytype: 'block'
+      uuid: 'a7bed426-aaeb-4ead-bf73-bcfe6d6d9eb5'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.610+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.364+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.610+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Francisco said the U.S. government’s real target with this law is
         speech - specifically a fear that Americans could be "persuaded by Chinese
         misinformation." But the First Amendment leaves that up to people of the United
         States, not the government, Francisco said.'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fdeec1d2-0690-4f4c-a642-aeecfd6e4c02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.611+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.364+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.611+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The law bars providing certain services to TikTok and other foreign
+    section29:
+      primarytype: 'block'
+      uuid: 'fdeec1d2-0690-4f4c-a642-aeecfd6e4c02'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.611+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.364+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.611+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The law bars providing certain services to TikTok and other foreign
         adversary-controlled apps including by offering it through app stores such
         as Apple AAPL.O and Alphabet’s GOOGL.O Google, effectively preventing its
         continued U.S. use absent divestiture.'
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dea4d9cc-f8ce-4964-ac20-42bb3c7e21d8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T00:18:30.611+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:03.365+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T00:18:30.611+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Andrew Chung; Editing by Will Dunham)</em></p>'
-  'Israeli-cabinet-approves-Gaza-ceasefire-accord':
-    'author': 'Alexander Cornwell and Nidal al-Mughrabi, Reuters'
-    'caption': 'Aftermath of an Israeli strike in Gaza (Reuters File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T09:29:01.000+08:00
-    'imagesource': 'jcr:c7e95f76-d177-4e6f-8b81-6e4b8c9e4dc9'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'c48a43d1-4c8c-44bc-ba11-dec2ddb2a631'
-    'lead': 'Israel’s cabinet approved a deal with Palestinian militant group Hamas
+    section30:
+      primarytype: 'block'
+      uuid: 'dea4d9cc-f8ce-4964-ac20-42bb3c7e21d8'
+      activationstatus: true
+      created: 2025-01-18T00:18:30.611+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-03-13T12:33:03.365+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T00:18:30.611+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Andrew Chung; Editing by Will Dunham)</em></p>'
+  'START HERE----->Israeli-cabinet-approves-Gaza-ceasefire-accord':
+    author: 'Alexander Cornwell and Nidal al-Mughrabi, Reuters'
+    caption: 'Aftermath of an Israeli strike in Gaza (Reuters File)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T09:29:01.000+08:00
+    imagesource: 'c7e95f76-d177-4e6f-8b81-6e4b8c9e4dc9'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'c48a43d1-4c8c-44bc-ba11-dec2ddb2a631'
+    lead: 'Israel’s cabinet approved a deal with Palestinian militant group Hamas
       for a ceasefire and release of hostages in the Gaza Strip, Prime Minister Benjamin
       Netanyahu’s office said on Saturday, a day ahead of the agreement’s scheduled
       start.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T09:36:18.449+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:02.664+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:00.716+08:00
-    'mgnl:lastModified': 2025-01-18T09:53:12.124+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Israeli cabinet approves Gaza ceasefire accord, due to take effect Sunday'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00daa82e-f12c-41df-8ef0-8df974198eac'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.556+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.668+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.106+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Jerusalem/Cairo</strong> -&nbsp;Israel’s cabinet approved
+    activationstatus: true
+    created: 2025-01-18T09:36:18.449+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:02.664+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:00.716+08:00
+    lastmodified: 2025-01-18T09:53:12.124+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Israeli cabinet approves Gaza ceasefire accord, due to take effect Sunday'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '00daa82e-f12c-41df-8ef0-8df974198eac'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.556+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.668+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.106+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>Jerusalem/Cairo</strong> -&nbsp;Israel’s cabinet approved
         a deal with Palestinian militant group Hamas for a ceasefire and release of
         hostages in the Gaza Strip, Prime Minister Benjamin Netanyahu’s office said
         on Saturday, a day ahead of the agreement’s scheduled start.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de949246-5b9b-4d2f-9a65-12a4d52d8b9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.556+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.672+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.107+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "In the early hours of Saturday after meeting for more than six hours,\
+    section1:
+      primarytype: 'block'
+      uuid: 'de949246-5b9b-4d2f-9a65-12a4d52d8b9f'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.556+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.672+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.107+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "In the early hours of Saturday after meeting for more than six hours,\
         \ the government ratified the agreement that could pave the way for an end\
         \ to the 15-month-old war in the Palestinian enclave, which Hamas controls.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd2113ec2-f616-4380-8010-603262f28f77'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.557+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.673+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.107+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"The Government has approved the framework for the return of the hostages.\
+    section2:
+      primarytype: 'block'
+      uuid: 'd2113ec2-f616-4380-8010-603262f28f77'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.557+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.673+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.107+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"The Government has approved the framework for the return of the hostages.\
         \ The framework for the hostages' release will come into effect on Sunday,\"\
         \ Netanyahu’s office said in a brief statement.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50163ae3-c377-4354-abe7-ae66749b6543'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.557+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.674+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.108+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In Gaza itself, Israeli warplanes have kept up heavy attacks since
+    section3:
+      primarytype: 'block'
+      uuid: '50163ae3-c377-4354-abe7-ae66749b6543'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.557+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.674+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.108+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>In Gaza itself, Israeli warplanes have kept up heavy attacks since
         the ceasefire deal was agreed. Medics in Gaza said an Israeli airstrike early
         on Saturday killed five people in a tent in the Mawasi area west of Khan Younis
         in the enclave’s south.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c61079f-d47a-4ac0-9fc2-fc9480bffaa2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.557+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.675+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.109+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "This brought to 119 the number of Palestinians killed by Israeli bombardment\
+    section4:
+      primarytype: 'block'
+      uuid: '9c61079f-d47a-4ac0-9fc2-fc9480bffaa2'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.557+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.675+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.109+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "This brought to 119 the number of Palestinians killed by Israeli bombardment\
         \ since the accord was announced on Wednesday.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '99d825fa-8a57-4de8-8a3c-1813eaa28a75'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.558+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.676+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.109+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "After the Israeli cabinet approval, lead U.S. negotiator Brett McGurk\
+    section5:
+      primarytype: 'block'
+      uuid: '99d825fa-8a57-4de8-8a3c-1813eaa28a75'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.558+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.676+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.109+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "After the Israeli cabinet approval, lead U.S. negotiator Brett McGurk\
         \ said the plan was moving forward on track. The White House expects the ceasefire\
         \ to start on Sunday morning, with three female hostages to be released to\
         \ Israel on Sunday afternoon through the Red Cross.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '315ae134-8bda-45fa-a984-2dcf52bf26e9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.558+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.677+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.110+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"We have locked down every single detail in this agreement. We are\
+    section6:
+      primarytype: 'block'
+      uuid: '315ae134-8bda-45fa-a984-2dcf52bf26e9'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.558+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.677+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.110+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"We have locked down every single detail in this agreement. We are\
         \ quite confident... it is ready to be implemented on Sunday,\" McGurk said\
         \ on CNN from the White House.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fec0056b-4944-4447-b8ef-e592c6380d6e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.559+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.678+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.110+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Under the deal, the three-stage ceasefire starts with an initial six-week\
+    section7:
+      primarytype: 'block'
+      uuid: 'fec0056b-4944-4447-b8ef-e592c6380d6e'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.559+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.678+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.110+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Under the deal, the three-stage ceasefire starts with an initial six-week\
         \ phase when hostages held by Hamas will be exchanged for prisoners detained\
         \ by Israel.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a5142f7-fe93-4891-a60c-fb2c3ef9d881'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.559+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.679+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.111+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Thirty-three of the 98 remaining Israeli hostages, including women,\
+    section8:
+      primarytype: 'block'
+      uuid: '0a5142f7-fe93-4891-a60c-fb2c3ef9d881'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.559+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.679+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.111+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Thirty-three of the 98 remaining Israeli hostages, including women,\
         \ children, and men over 50, were due to be freed in this phase. Israel will\
         \ release all Palestinian women and children under 19 in Israeli jails by\
         \ the end of the first phase.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '682e0164-8eed-4eb0-819d-b3069201c918'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.560+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.679+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.112+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The names of 95 Palestinian prisoners to be turned over on Sunday were\
+    section9:
+      primarytype: 'block'
+      uuid: '682e0164-8eed-4eb0-819d-b3069201c918'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.560+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.679+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.112+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The names of 95 Palestinian prisoners to be turned over on Sunday were\
         \ announced by the Israeli Justice Ministry on Friday.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb5839a5-2296-4f9d-942e-568ac05a97d9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.560+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.680+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.112+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "After Sunday’s hostage release, McGurk said the accord called for four\
+    section10:
+      primarytype: 'block'
+      uuid: 'cb5839a5-2296-4f9d-942e-568ac05a97d9'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.560+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.680+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.112+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "After Sunday’s hostage release, McGurk said the accord called for four\
         \ more female hostages to be released after seven days followed by the release\
         \ of three further hostages every seven days thereafter.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '18423935-ac41-4e0a-81c3-3d1e2629360c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.561+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.681+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.113+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Hardliners oppose ceasefire</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1fc9021f-2bc5-4aa0-ab25-02355e0c5c28'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.561+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.682+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.113+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>With the accord bitterly opposed by some Israeli cabinet hardliners,
+    section11:
+      primarytype: 'block'
+      uuid: '18423935-ac41-4e0a-81c3-3d1e2629360c'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.561+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.681+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.113+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>Hardliners oppose ceasefire</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: '1fc9021f-2bc5-4aa0-ab25-02355e0c5c28'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.561+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.682+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.113+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>With the accord bitterly opposed by some Israeli cabinet hardliners,
         media reports said 24 ministers in Netanyahu’s coalition government voted
         in favour of the deal while eight opposed it.</p>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4089530-3338-4dc5-9757-68d074b85b85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.562+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.683+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.114+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The opponents said the ceasefire agreement represented a capitulation\
+    section13:
+      primarytype: 'block'
+      uuid: 'c4089530-3338-4dc5-9757-68d074b85b85'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.562+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.683+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.114+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The opponents said the ceasefire agreement represented a capitulation\
         \ to Hamas. National Security Minister Itamar Ben-Gvir threatened to resign\
         \ if it was approved and urged other ministers to vote against it. However,\
         \ he said he would not bring down the government.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ea871a0a-d477-4d71-8cff-cec7d814cdc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.562+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.684+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.114+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "His fellow hardliner, Finance Minister Bezalel Smotrich, also threatened\
+    section14:
+      primarytype: 'block'
+      uuid: 'ea871a0a-d477-4d71-8cff-cec7d814cdc3'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.562+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.684+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.114+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "His fellow hardliner, Finance Minister Bezalel Smotrich, also threatened\
         \ to quit the government if it does not go back to war to defeat Hamas after\
         \ the first six-week phase of the ceasefire.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f2a68aa4-59e9-4bc2-9791-70d690f7d859'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.563+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.685+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.115+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "After a last-minute delay on Thursday that Israel blamed on Hamas,\
+    section15:
+      primarytype: 'block'
+      uuid: 'f2a68aa4-59e9-4bc2-9791-70d690f7d859'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.563+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.685+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.115+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "After a last-minute delay on Thursday that Israel blamed on Hamas,\
         \ the Israeli security cabinet voted on Friday in favour of the ceasefire\
         \ accord, the first of two approvals required.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd3c74a73-95b2-4a4f-afc2-b47ba45c7a99'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.563+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.686+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.116+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Israel began its assault on Gaza after Hamas attacks on Israel on Oct.\
+    section16:
+      primarytype: 'block'
+      uuid: 'd3c74a73-95b2-4a4f-afc2-b47ba45c7a99'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.563+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.686+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.116+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Israel began its assault on Gaza after Hamas attacks on Israel on Oct.\
         \ 7, 2023 during which some 1,200 people were killed and 250 were taken hostage,\
         \ according to Israeli tallies.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '305a5bd9-25ce-4ed0-9caf-898e64045ae5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.564+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.687+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.116+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The war between Israeli forces and Hamas has razed much of heavily\
+    section17:
+      primarytype: 'block'
+      uuid: '305a5bd9-25ce-4ed0-9caf-898e64045ae5'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.564+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.687+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.116+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The war between Israeli forces and Hamas has razed much of heavily\
         \ urbanised Gaza, killed more than 46,000 people and displaced most of the\
         \ enclave’s pre-war population of 2.3 million several times over, according\
         \ to local authorities.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '10a5a3ff-7ebf-4848-956e-0576d9d47496'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.564+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.688+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.117+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "If successful, the ceasefire could also ease hostilities in the Middle\
+    section18:
+      primarytype: 'block'
+      uuid: '10a5a3ff-7ebf-4848-956e-0576d9d47496'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.564+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.688+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.117+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "If successful, the ceasefire could also ease hostilities in the Middle\
         \ East, where the Gaza war spread to include Iran and its proxies - Lebanon’s\
         \ Hezbollah, Yemen’s Houthis and armed groups in Iraq as well as the occupied\
         \ West Bank.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb168f60-49cc-4134-8616-404e42d73d95'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.565+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.689+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.117+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3ff77dd0-18ff-494d-bb13-a136eae485b7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.565+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.690+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.118+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Gaza civilians have faced a humanitarian crisis due to hunger, cold\
+    section19:
+      primarytype: 'block'
+      uuid: 'fb168f60-49cc-4134-8616-404e42d73d95'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.565+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.689+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.117+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\r"
+    section20:
+      primarytype: 'block'
+      uuid: '3ff77dd0-18ff-494d-bb13-a136eae485b7'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.565+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.690+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.118+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Gaza civilians have faced a humanitarian crisis due to hunger, cold\
         \ and sickness. The ceasefire agreement calls for a surge in assistance, and\
         \ international organisations have aid trucks lined up on Gaza’s borders to\
         \ bring in food, fuel, medicine and other vital supplies.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6672a971-aacf-4780-a6f0-4695a4626278'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.566+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.691+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.118+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '356ee5d3-85fe-4cf0-aed2-3d478482d542'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.566+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.697+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.119+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Palestinian relief agency UNRWA said on Friday that it has 4,000 truckloads\
+    section21:
+      primarytype: 'block'
+      uuid: '6672a971-aacf-4780-a6f0-4695a4626278'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.566+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.691+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.118+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\r"
+    section22:
+      primarytype: 'block'
+      uuid: '356ee5d3-85fe-4cf0-aed2-3d478482d542'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.566+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.697+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.119+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Palestinian relief agency UNRWA said on Friday that it has 4,000 truckloads\
         \ of aid, half of which are food, ready to enter the coastal strip.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c244b3eb-5e45-490c-b1d0-5134bdebe1d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.567+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.698+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.120+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6394ead-36f1-4830-9c4d-a080a2910db6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.568+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.698+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.120+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Palestinians waiting for food in the southern Gaza Strip on Friday\
+    section23:
+      primarytype: 'block'
+      uuid: 'c244b3eb-5e45-490c-b1d0-5134bdebe1d4'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.567+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.698+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.120+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\r"
+    section24:
+      primarytype: 'block'
+      uuid: 'a6394ead-36f1-4830-9c4d-a080a2910db6'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.568+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.698+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.120+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Palestinians waiting for food in the southern Gaza Strip on Friday\
         \ said they hoped a truce will mean an end to hours of queuing to fill one\
         \ plate.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4cd26879-68ca-41a2-8468-098e915c1998'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.568+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.699+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.121+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1311196a-f27a-43fc-933a-d80b5240b76f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.569+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.700+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.121+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"I hope it will happen so we'll be able to cook in our homes and make\
+    section25:
+      primarytype: 'block'
+      uuid: '4cd26879-68ca-41a2-8468-098e915c1998'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.568+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.699+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.121+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\r"
+    section26:
+      primarytype: 'block'
+      uuid: '1311196a-f27a-43fc-933a-d80b5240b76f'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.569+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.700+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.121+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"I hope it will happen so we'll be able to cook in our homes and make\
         \ whatever food we want, without having to go to soup kitchens and exhaust\
         \ ourselves for three or four hours trying to get (food) - sometimes not even\
         \ making it home,\" displaced Palestinian Reeham Sheikh al-Eid said.\r"
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a6fe32e-ede8-4832-9119-a7f823939cff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.569+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.701+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.122+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '84f6a03c-b53b-4a16-8b2a-cca429e4ede2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T09:36:18.570+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.701+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T09:53:12.123+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by James Mackenzie and Alexander Cornwell in Jerusalem,
+    section27:
+      primarytype: 'block'
+      uuid: '0a6fe32e-ede8-4832-9119-a7f823939cff'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.569+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.701+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.122+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\r"
+    section28:
+      primarytype: 'block'
+      uuid: '84f6a03c-b53b-4a16-8b2a-cca429e4ede2'
+      activationstatus: true
+      created: 2025-01-18T09:36:18.570+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.701+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T09:53:12.123+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by James Mackenzie and Alexander Cornwell in Jerusalem,
         Nidal Al Mughrabi in Cairo and Hatem Khaled in Gaza; Writing by Cynthia Osterman;
         Editing by David Gregorio and Diane Craft)</em></p>'
-  'supreme-court-TRO-senatorial-aspirants':
-    'author': 'Eimor Santos, NewsWatch Plus'
-    'caption': 'The Commission on Elections headquarters in Intramuros, Manila (FILE
+  'START HERE----->supreme-court-TRO-senatorial-aspirants':
+    author: 'Eimor Santos, NewsWatch Plus'
+    caption: 'The Commission on Elections headquarters in Intramuros, Manila (FILE
       PHOTO)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T11:06:12.000+08:00
-    'imagesource': 'jcr:fc40ab2c-44cf-4a84-9447-bd3c03c973d7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '8d4473e8-24d0-4bec-9da9-61a5983b2c16'
-    'lead': 'Like the Commission on Elections, some senatorial aspirants are facing
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T11:06:12.000+08:00
+    imagesource: 'fc40ab2c-44cf-4a84-9447-bd3c03c973d7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '8d4473e8-24d0-4bec-9da9-61a5983b2c16'
+    lead: 'Like the Commission on Elections, some senatorial aspirants are facing
       additional expenses due to the Supreme Court’s temporary restraining order
       on the disqualification of a senatorial aspirant declared by the poll body as
       a nuisance candidate.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T11:09:28.412+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:01.955+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:00.946+08:00
-    'mgnl:lastModified': 2025-01-18T11:09:28.464+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'SC TRO to raise costs for some senatorial aspirants'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e38d2e3-7c81-4c0a-bb05-933c319f94df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.449+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.020+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.459+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> – Like the Commission
+    activationstatus: true
+    created: 2025-01-18T11:09:28.412+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:01.955+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:00.946+08:00
+    lastmodified: 2025-01-18T11:09:28.464+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'SC TRO to raise costs for some senatorial aspirants'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '1e38d2e3-7c81-4c0a-bb05-933c319f94df'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.449+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.020+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.459+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> – Like the Commission
         on Elections, some senatorial aspirants are facing additional expenses due
         to the Supreme Court’s temporary restraining order on the disqualification
         of a senatorial aspirant declared by the poll body as a nuisance candidate.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b2a968ec-0e08-4659-8646-d7c9790e8616'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.449+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.021+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.449+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "In a statement on Saturday, former Senator Kiko Pangilinan, who is\
+    section1:
+      primarytype: 'block'
+      uuid: 'b2a968ec-0e08-4659-8646-d7c9790e8616'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.449+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.021+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.449+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "In a statement on Saturday, former Senator Kiko Pangilinan, who is\
         \ seeking to return to the Senate, said that if senatorial aspirant Subair\
         \ Guinthum Mustapha is inserted in the ballot, 20 aspirants, including himself,\
         \ will have their ballot numbers changed, requiring the revision and reprinting\
         \ of their campaign materials.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e637a1f-5c7c-4893-a7bd-91096fd2e0a2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.450+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.021+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.450+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Pangilinan urged the Comelec to assign Mustapha the last number, 67,\
+    section2:
+      primarytype: 'block'
+      uuid: '4e637a1f-5c7c-4893-a7bd-91096fd2e0a2'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.450+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.021+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.450+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Pangilinan urged the Comelec to assign Mustapha the last number, 67,\
         \ to spare the other senatorial aspirants from added costs.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '92075713-fe39-44f1-b85f-6cced0aca3f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.450+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.022+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.450+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "“Bakit hindi na lang ilagay si Mustapha sa huling numero bilang huling\
+    section3:
+      primarytype: 'block'
+      uuid: '92075713-fe39-44f1-b85f-6cced0aca3f3'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.450+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.022+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.450+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "“Bakit hindi na lang ilagay si Mustapha sa huling numero bilang huling\
         \ kandidatong Senador sa balota para hindi na kailangan baguhin ang opisyal\
         \ na numbering at mga numero ng ibang kandidato na inanunsyo na noong nakaraang\
         \ taon pa?” said Pangilinan, who will move from No. 50 to 51 if Mustapha is\
         \ inserted.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb4b7ee3-0d97-46af-9a06-6c3ae93bfbe6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.451+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.024+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.451+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: Why not just place Mustapha as the last senatorial candidate\
+    section4:
+      primarytype: 'block'
+      uuid: 'cb4b7ee3-0d97-46af-9a06-6c3ae93bfbe6'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.451+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.024+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.451+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "[Translation: Why not just place Mustapha as the last senatorial candidate\
         \ on the ballot so there’s no need to change the official numbering and the\
         \ numbers of other candidates that were announced as early as last year?]\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4666b459-3a05-48ca-b7c5-d86f388258d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.451+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.024+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.451+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "In a text message to reporters, however, Comelec Chairman George Garcia\
+    section5:
+      primarytype: 'block'
+      uuid: '4666b459-3a05-48ca-b7c5-d86f388258d7'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.451+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.024+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.451+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "In a text message to reporters, however, Comelec Chairman George Garcia\
         \ said that while he understands the situation of those affected, the poll\
         \ body must fully comply with the Supreme Court’s order.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b9c74b24-9174-4a87-9e60-5267f08f34d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.452+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.025+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.452+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "“Lumalabas po na yung TRO na na issue ng SC ay hindi lamang isama ang\
+    section6:
+      primarytype: 'block'
+      uuid: 'b9c74b24-9174-4a87-9e60-5267f08f34d2'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.452+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.025+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.452+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "“Lumalabas po na yung TRO na na issue ng SC ay hindi lamang isama ang\
         \ pangalan niya sa listahan ng mga kandidato  kung hindi isama siya sa tamang\
         \ numero base sa alphabetical arrangement,” Garcia said.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f9bcb55e-cdf3-4595-a868-e6f67c148f15'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.452+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.026+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.452+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "“Baka po maging dahilan pa ng panibagong TRO at ma-accuse tayo ng violation\
+    section7:
+      primarytype: 'block'
+      uuid: 'f9bcb55e-cdf3-4595-a868-e6f67c148f15'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.452+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.026+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.452+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "“Baka po maging dahilan pa ng panibagong TRO at ma-accuse tayo ng violation\
         \ ng equal protection clause ng Constitution,” he added. \r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ca1b776-f631-4d8c-8a91-5ca836d65cb9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.452+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.027+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.452+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: It appears that the TRO issued by the SC is not only\
+    section8:
+      primarytype: 'block'
+      uuid: '0ca1b776-f631-4d8c-8a91-5ca836d65cb9'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.452+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.027+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.452+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "[Translation: It appears that the TRO issued by the SC is not only\
         \ to include his name in the list of candidates but also to assign him the\
         \ correct number based on the alphabetical arrangement. This might even lead\
         \ to another TRO, and we could be accused of violating the equal protection\
         \ clause of the Constitution.]\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2b1ab99d-8b0c-4e49-a260-3196e84b12ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.453+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.028+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.453+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Comelec spokesperson Rex Laudiangco further explained that the alphabetical\
+    section9:
+      primarytype: 'block'
+      uuid: '2b1ab99d-8b0c-4e49-a260-3196e84b12ee'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.453+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.028+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.453+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Comelec spokesperson Rex Laudiangco further explained that the alphabetical\
         \ arrangement of names on the ballots, based on surnames, has been deemed\
         \ the \"most equitable and objective order/sequence of candidates” ensuring\
         \ no particular person is intentionally given preference.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8d18e98b-8baa-48c0-93d8-cc94b6a760af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.453+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.029+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.453+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "He added that the Supreme Court’s stay order affecting Mustapha and\
+    section10:
+      primarytype: 'block'
+      uuid: '8d18e98b-8baa-48c0-93d8-cc94b6a760af'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.453+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.029+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.453+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "He added that the Supreme Court’s stay order affecting Mustapha and\
         \ seven local aspirants requires the Comelec to regenerate, reserialize, and\
         \ reprint the ballots. \r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a55bee6-dcd7-4584-99c8-085e8a2d5cee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:09:28.454+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:02.029+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:09:28.454+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The Comelec previously reported that six million already-printed
+    section11:
+      primarytype: 'block'
+      uuid: '0a55bee6-dcd7-4584-99c8-085e8a2d5cee'
+      activationstatus: true
+      created: 2025-01-18T11:09:28.454+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:02.029+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:09:28.454+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>The Comelec previously reported that six million already-printed
         ballots, costing around P132 million, will now be rendered useless. Reprinting
         was initially scheduled to begin on Monday, Jan. 20, but Garcia stated that
         this will be postponed, though no new schedule has been announced.</p>'
-  'explainer-tiktok-US-ban':
-    'author': 'Sheila Dang and Jaspreet Singh, Reuters'
-    'caption': 'The TikTok logo is seen through broken glass in this illustration
+  'START HERE----->explainer-tiktok-US-ban':
+    author: 'Sheila Dang and Jaspreet Singh, Reuters'
+    caption: 'The TikTok logo is seen through broken glass in this illustration
       taken January 16, 2025. (Reuters File)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T11:32:19.000+08:00
-    'imagesource': 'jcr:50df405e-31ac-4a2d-8968-f40a30804492'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a0e2950f-7828-4427-b5eb-eb1f264880ab'
-    'lead': 'Here’s what could happen on Sunday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T11:38:14.966+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:01.568+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.152+08:00
-    'mgnl:lastModified': 2025-01-18T11:41:57.556+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'EXPLAINER: What will happen to TikTok in US as Supreme Court upholds
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T11:32:19.000+08:00
+    imagesource: '50df405e-31ac-4a2d-8968-f40a30804492'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a0e2950f-7828-4427-b5eb-eb1f264880ab'
+    lead: 'Here’s what could happen on Sunday.'
+    activationstatus: true
+    created: 2025-01-18T11:38:14.966+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:01.568+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.152+08:00
+    lastmodified: 2025-01-18T11:41:57.556+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'EXPLAINER: What will happen to TikTok in US as Supreme Court upholds
       ban?'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7c9324a5-44d5-4ee1-82d6-4994503c3e4e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.139+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.572+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.537+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Reuters)</strong> - The U.S. Supreme Court on Friday ruled
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7c9324a5-44d5-4ee1-82d6-4994503c3e4e'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.139+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.572+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.537+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>(Reuters)</strong> - The U.S. Supreme Court on Friday ruled
         against TikTok’s bid to avoid a ban that could shut the app down in just
         two days and impact millions of userswho rely on the platform for entertainment,
         ecommerce and ad dollars.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e80e55f7-e71b-4918-8dc0-aa378b0beb13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.140+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.573+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.538+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The looming ban is the end result of 2024 legislation passed on national\
+    section1:
+      primarytype: 'block'
+      uuid: 'e80e55f7-e71b-4918-8dc0-aa378b0beb13'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.140+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.573+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.538+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The looming ban is the end result of 2024 legislation passed on national\
         \ security concerns that called for TikTok parent ByteDance to sell the popular\
         \ short-video app or see it shut in the United States on Jan. 19.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '475689c1-67cb-4fef-8667-781c1122a3b6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.140+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.574+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.538+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "It remained unclear how long a potential ban would stay in place as\
+    section2:
+      primarytype: 'block'
+      uuid: '475689c1-67cb-4fef-8667-781c1122a3b6'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.140+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.574+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.538+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "It remained unclear how long a potential ban would stay in place as\
         \ President-elect Donald Trump, who takes office on Monday, has said he would\
         \ try to find a \"political resolution\" of the issue to keep the app operating\
         \ in the United States.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '80587e31-ae78-487c-960e-ccc509bf813e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.141+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.575+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.539+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "On Friday, Trump said he spoke with Chinese leader Xi Jinping on several\
+    section3:
+      primarytype: 'block'
+      uuid: '80587e31-ae78-487c-960e-ccc509bf813e'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.141+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.575+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.539+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "On Friday, Trump said he spoke with Chinese leader Xi Jinping on several\
         \ topics, including TikTok.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c75cb45c-45af-46b6-b412-cea17b4e2bec'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.141+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.575+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.540+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Here’s what could happen on Sunday.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d4cf13f-c316-4884-b1ba-e68d63fad126'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.141+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.576+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.540+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>What happens to the app?</strong></h2>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f60d06a3-80f9-4688-b0f8-605e0a1abb87'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.142+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.577+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.541+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "New users will not be able to download TikTok from Apple and Google\
+    section4:
+      primarytype: 'block'
+      uuid: 'c75cb45c-45af-46b6-b412-cea17b4e2bec'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.141+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.575+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.540+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Here’s what could happen on Sunday.\r"
+    section5:
+      primarytype: 'block'
+      uuid: '0d4cf13f-c316-4884-b1ba-e68d63fad126'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.141+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.576+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.540+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>What happens to the app?</strong></h2>'
+    section6:
+      primarytype: 'block'
+      uuid: 'f60d06a3-80f9-4688-b0f8-605e0a1abb87'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.142+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.577+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.541+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "New users will not be able to download TikTok from Apple and Google\
         \ app stores and existing users will not be able to update the app, because\
         \ the law prohibits any entity from facilitating the download or maintenance\
         \ of the TikTok application.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2484351b-869e-4ef9-ad59-7d4073c3e001'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.142+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.578+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.541+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Cloud service provider Oracle ORCL.O could see some disruption to its\
+    section7:
+      primarytype: 'block'
+      uuid: '2484351b-869e-4ef9-ad59-7d4073c3e001'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.142+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.578+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.541+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Cloud service provider Oracle ORCL.O could see some disruption to its\
         \ work with TikTok. Oracle hosts TikTok’s U.S. user data on its servers, reviews\
         \ the app’s source code and delivers it to app stores.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '43f454da-8a75-40b1-a20b-f71cc1b236a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.143+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.579+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.542+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "TikTok plans to keep paying its 7,000 employees in the U.S., the company’s\
+    section8:
+      primarytype: 'block'
+      uuid: '43f454da-8a75-40b1-a20b-f71cc1b236a9'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.143+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.579+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.542+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "TikTok plans to keep paying its 7,000 employees in the U.S., the company’s\
         \ leadership has said in an internal memo.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '124d942d-00d1-4677-b8ff-6f5e9ccecac4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.143+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.580+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.542+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>How will users be affected?</strong></h2>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7e6f3e7e-4f67-4bd3-82ba-6becf0d08ad4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.144+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.581+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.543+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>TikTok’s about 170 million users in the U.S. will likely still
+    section9:
+      primarytype: 'block'
+      uuid: '124d942d-00d1-4677-b8ff-6f5e9ccecac4'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.143+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.580+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.542+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>How will users be affected?</strong></h2>'
+    section10:
+      primarytype: 'block'
+      uuid: '7e6f3e7e-4f67-4bd3-82ba-6becf0d08ad4'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.144+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.581+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.543+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>TikTok’s about 170 million users in the U.S. will likely still
         be able to use the app because it is already downloaded on their phones, experts
         say. But over time, without software and security updates, the app will become
         redundant.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '22c236db-83f8-46b7-94ab-9e3d344d6e9f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.144+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.582+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.544+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "At best, a web-based version of the service might be accessible that\
+    section11:
+      primarytype: 'block'
+      uuid: '22c236db-83f8-46b7-94ab-9e3d344d6e9f'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.144+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.582+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.544+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "At best, a web-based version of the service might be accessible that\
         \ has fewer features than the app, and even that might not work, experts have\
         \ said.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '09a0bbfb-b343-4e99-b9ba-fecc7a52114b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.145+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.583+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.544+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Some users could try to access TikTok through virtual private networks,\
+    section12:
+      primarytype: 'block'
+      uuid: '09a0bbfb-b343-4e99-b9ba-fecc7a52114b'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.145+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.583+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.544+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Some users could try to access TikTok through virtual private networks,\
         \ or VPNs, which can conceal the internet protocol, or IP, address of a user\
         \ and thereby their location.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '918a5352-c975-4f4b-a2c4-3b5ad2028376'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.145+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.587+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.545+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Other Chinese social media apps such as RedNote, known in China as\
+    section13:
+      primarytype: 'block'
+      uuid: '918a5352-c975-4f4b-a2c4-3b5ad2028376'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.145+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.587+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.545+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Other Chinese social media apps such as RedNote, known in China as\
         \ Xiaohongshu, are expected to continue gaining traction among U.S. users.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '355ac414-b4cb-457c-833b-02585f90c124'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.146+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.588+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.545+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Content creators who have built businesses from their TikTok followings\
+    section14:
+      primarytype: 'block'
+      uuid: '355ac414-b4cb-457c-833b-02585f90c124'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.146+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.588+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.545+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Content creators who have built businesses from their TikTok followings\
         \ are preparing for the app'spotential shutdown and redirecting their followers\
         \ to alternatives such as Instagram and YouTube.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a2c1390-fb12-477d-bdcc-4f7a1e5275a9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.146+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.589+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.546+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>What will advertisers do?</strong></h2>'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c0ce113-6241-4cd2-b8c8-59b1150d8620'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.147+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.593+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.546+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Advertisers have rushed to prepare contingency plans this week as the\
+    section15:
+      primarytype: 'block'
+      uuid: '7a2c1390-fb12-477d-bdcc-4f7a1e5275a9'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.146+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.589+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.546+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>What will advertisers do?</strong></h2>'
+    section16:
+      primarytype: 'block'
+      uuid: '5c0ce113-6241-4cd2-b8c8-59b1150d8620'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.147+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.593+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.546+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Advertisers have rushed to prepare contingency plans this week as the\
         \ ban will jeopardize their campaigns on the platforms. One marketing executive\
         \ described it as a \"hair on fire\" moment for the ad world, after months\
         \ of conventional wisdom saying that a solution would materialize to keep\
         \ the short-video app up and running.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5cb0f9dd-caed-4809-a15c-6a2444348ad3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.147+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.595+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.547+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "TikTok has continued to pitch advertisers on new features, like a tool\
+    section17:
+      primarytype: 'block'
+      uuid: '5cb0f9dd-caed-4809-a15c-6a2444348ad3'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.147+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.595+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.547+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "TikTok has continued to pitch advertisers on new features, like a tool\
         \ launching in test form that would make it easier to create, modify and add\
         \ advertisements in bulk.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '94bd5a50-14ed-4440-b319-9cda094ce8e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.148+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.595+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.548+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "If a ban does occur, more than $11 billion in annual U.S. ad investment\
+    section18:
+      primarytype: 'block'
+      uuid: '94bd5a50-14ed-4440-b319-9cda094ce8e8'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.148+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.595+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.548+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "If a ban does occur, more than $11 billion in annual U.S. ad investment\
         \ would be up for grabs, according to a forecast from marketing group WARC\
         \ Media.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9ba146ad-28d9-448c-8a6a-3decfc2fd8dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.148+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.596+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.548+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Wall Street will be watching the results of Meta, Snap, and others\
+    section19:
+      primarytype: 'block'
+      uuid: '9ba146ad-28d9-448c-8a6a-3decfc2fd8dd'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.148+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.596+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.548+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"Wall Street will be watching the results of Meta, Snap, and others\
         \ to see who benefits from this rapid spend shift,\" said Craig Atkinson,\
         \ CEO of digital marketing agency Code3.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a06a72ec-e327-4e45-845f-45e0486204c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.149+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.598+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.549+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Some advertisers may continue spending beyond Jan. 19 on TikTok and\
+    section20:
+      primarytype: 'block'
+      uuid: 'a06a72ec-e327-4e45-845f-45e0486204c1'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.149+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.598+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.549+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Some advertisers may continue spending beyond Jan. 19 on TikTok and\
         \ reevaluate if the app sees declining usage or performance, said Jason Lee,\
         \ executive vice president of brand safety at media agency Horizon Media.\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7a4f1b47-9a75-4e56-9157-8ac90a091c08'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.149+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.599+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.549+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>What happens to US-China trade relations?</strong></h2>'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f2a067c-7852-4342-a78f-b1e250d60ab3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.150+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.600+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.550+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "A TikTok ban could worsen trade tensions between the U.S. and China\
+    section21:
+      primarytype: 'block'
+      uuid: '7a4f1b47-9a75-4e56-9157-8ac90a091c08'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.149+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.599+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.549+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>What happens to US-China trade relations?</strong></h2>'
+    section22:
+      primarytype: 'block'
+      uuid: '5f2a067c-7852-4342-a78f-b1e250d60ab3'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.150+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.600+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.550+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "A TikTok ban could worsen trade tensions between the U.S. and China\
         \ that were already strained after export curbs on advanced American semiconductor\
         \ technology to Beijing.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c984af35-4363-4b94-9829-2f78cf20418c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.150+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.601+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.551+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "However, \"such a ban would be no surprise as it has been under discussion\
+    section23:
+      primarytype: 'block'
+      uuid: 'c984af35-4363-4b94-9829-2f78cf20418c'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.150+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.601+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.551+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "However, \"such a ban would be no surprise as it has been under discussion\
         \ for five years,\" said Sean Ennis, professor from the University of East\
         \ Anglia.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '564a992d-dbd1-48de-894e-6e7dfb51d6c6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.151+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.602+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.551+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Trump could try to use an executive action to protect TikTok for his\
+    section24:
+      primarytype: 'block'
+      uuid: '564a992d-dbd1-48de-894e-6e7dfb51d6c6'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.151+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.602+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.551+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Trump could try to use an executive action to protect TikTok for his\
         \ four years in office, but he could use the risk of him changing his position\
         \ to extract something meaningful from China, analysts at LightShed Partners\
         \ have said.\r"
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e76a4ba0-c6ed-4fb2-9a54-ece11cc93544'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.152+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.602+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.552+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Reversing the ban could give Trump some bargaining power with China,\
+    section25:
+      primarytype: 'block'
+      uuid: 'e76a4ba0-c6ed-4fb2-9a54-ece11cc93544'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.152+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.602+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.552+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Reversing the ban could give Trump some bargaining power with China,\
         \ analysts say.\r"
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f833290-d23d-4aa5-b26f-a2ec0ea05b85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.152+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.603+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.552+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Who are the potential buyers?</strong></h2>'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '70c37aca-701e-4e09-a26d-d35b949c2a4e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.153+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.604+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.553+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "TikTok has repeatedly said it cannot be sold from ByteDance.\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '13a95005-70e6-4677-bb0c-be6da327233a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.153+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.605+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.553+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "That hasn't deterred billionaire businessman Frank McCourt, a former\
+    section26:
+      primarytype: 'block'
+      uuid: '9f833290-d23d-4aa5-b26f-a2ec0ea05b85'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.152+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.603+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.552+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<h2><strong>Who are the potential buyers?</strong></h2>'
+    section27:
+      primarytype: 'block'
+      uuid: '70c37aca-701e-4e09-a26d-d35b949c2a4e'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.153+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.604+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.553+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "TikTok has repeatedly said it cannot be sold from ByteDance.\r"
+    section28:
+      primarytype: 'block'
+      uuid: '13a95005-70e6-4677-bb0c-be6da327233a'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.153+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.605+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.553+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "That hasn't deterred billionaire businessman Frank McCourt, a former\
         \ owner of the Los Angeles Dodgers baseball team. His consortium values the\
         \ app without its algorithm at around $20 billion.\r"
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b1f40421-5850-4ac8-8f19-e6d574c1366e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.154+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.606+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.554+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Other media have reported that Chinese officials are in talks about\
+    section29:
+      primarytype: 'block'
+      uuid: 'b1f40421-5850-4ac8-8f19-e6d574c1366e'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.154+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.606+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.554+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Other media have reported that Chinese officials are in talks about\
         \ potentially selling TikTok’s U.S. operations to billionaire Elon Musk, a\
         \ big financial backerof Trump. TikTok called the report \"fiction\".\r"
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '853a2e8c-1076-47a6-8afd-b2ef5170d7ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T11:38:15.155+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:01.607+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T11:41:57.554+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Sheila Dang in Austin, Texas, and Jaspreet Singh
+    section30:
+      primarytype: 'block'
+      uuid: '853a2e8c-1076-47a6-8afd-b2ef5170d7ae'
+      activationstatus: true
+      created: 2025-01-18T11:38:15.155+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:01.607+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T11:41:57.554+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Sheila Dang in Austin, Texas, and Jaspreet Singh
         in Bengaluru; additional reporting by Krystal Hu; editing by Leslie Adler,
         Alan Barona and Devika Syamnath)</em></p>'
-  'balota-streaming-netflix-':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T12:16:55.000+08:00
-    'imagesource': 'jcr:5b20e8c5-66ad-4f5d-ac2f-11d29b80d347'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '7d0d10ac-83f0-4e20-9672-dce65b3cd525'
-    'lead': 'Here’s your chance to watch or rewatch the Cinemalaya film ‘Balota,’
+  'START HERE----->balota-streaming-netflix-':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T12:16:55.000+08:00
+    imagesource: '5b20e8c5-66ad-4f5d-ac2f-11d29b80d347'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '7d0d10ac-83f0-4e20-9672-dce65b3cd525'
+    lead: 'Here’s your chance to watch or rewatch the Cinemalaya film ‘Balota,’
       starring Marian Rivera.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T12:18:40.863+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:00.936+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.346+08:00
-    'mgnl:lastModified': 2025-01-18T12:18:40.882+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': '‘Balota’ streams on Netflix starting Jan. 31'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '82533ed5-eb28-47e8-b64e-175f5fd984d2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T12:18:40.875+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.939+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T12:18:40.875+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> – Here’s your chance
+    activationstatus: true
+    created: 2025-01-18T12:18:40.863+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:00.936+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.346+08:00
+    lastmodified: 2025-01-18T12:18:40.882+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: '‘Balota’ streams on Netflix starting Jan. 31'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '82533ed5-eb28-47e8-b64e-175f5fd984d2'
+      activationstatus: true
+      created: 2025-01-18T12:18:40.875+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.939+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T12:18:40.875+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> – Here’s your chance
         to watch or rewatch the Cinemalaya film ‘Balota,’ starring Marian Rivera.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd675694f-c5e2-4e37-8a56-ec940edb296a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T12:18:40.875+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.940+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T12:18:40.875+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The political thriller will be available on Netflix starting January
+    section1:
+      primarytype: 'block'
+      uuid: 'd675694f-c5e2-4e37-8a56-ec940edb296a'
+      activationstatus: true
+      created: 2025-01-18T12:18:40.875+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.940+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T12:18:40.875+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>The political thriller will be available on Netflix starting January
         31, according to the streaming platform. Netflix has given it a 16+ maturity
         rating, describing it as "provocative" and "gritty."</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c27af7ef-5f52-4844-af6b-32d9e07a3615'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T12:18:40.876+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.941+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T12:18:40.876+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Directed by Kip Oebanda, the film follows the story of Rivera’s character\
+    section2:
+      primarytype: 'block'
+      uuid: 'c27af7ef-5f52-4844-af6b-32d9e07a3615'
+      activationstatus: true
+      created: 2025-01-18T12:18:40.876+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.941+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T12:18:40.876+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Directed by Kip Oebanda, the film follows the story of Rivera’s character\
         \ Emmy, a teacher who risks her life to protect a ballot box containing crucial\
         \ election results amid election-day violence in her town.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '423517ea-0aed-4891-a0e1-f656f0b93de1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T12:18:40.876+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T12:18:40.876+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The movie premiered at the Cinemalaya Philippine Independent Film Festival\
+    section3:
+      primarytype: 'block'
+      uuid: '423517ea-0aed-4891-a0e1-f656f0b93de1'
+      activationstatus: true
+      created: 2025-01-18T12:18:40.876+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T12:18:40.876+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The movie premiered at the Cinemalaya Philippine Independent Film Festival\
         \ in August 2024 and was shown in cinemas nationwide in October. \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c56f10d2-6d44-45fe-b635-c0bf0bc1ab25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T12:18:40.876+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.942+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T12:18:40.876+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Rivera’s outstanding performance earned her the Best Actress award
+    section4:
+      primarytype: 'block'
+      uuid: 'c56f10d2-6d44-45fe-b635-c0bf0bc1ab25'
+      activationstatus: true
+      created: 2025-01-18T12:18:40.876+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.942+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T12:18:40.876+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>Rivera’s outstanding performance earned her the Best Actress award
         at the 2024 Cinemalaya, as well as at the recently concluded TAG Victorious
         Awards Chicago.</p>'
-  'house-resolution-recall-adolescent-pregnancy-bill':
-    'author': 'Eimor Santos and Daniza Fernandez, NewsWatch Plus'
-    'caption': 'A stock photo of a pregnant woman (Canva)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T13:48:10.000+08:00
-    'imagesource': 'jcr:48b1ff1f-433a-4ea2-a8e1-590c510bb555'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'ed1081a8-a152-42ac-a057-1c7a8fc9c479'
-    'lead': 'Two lawmakers in the House of Representatives are pushing for the recall
+  'START HERE----->house-resolution-recall-adolescent-pregnancy-bill':
+    author: 'Eimor Santos and Daniza Fernandez, NewsWatch Plus'
+    caption: 'A stock photo of a pregnant woman (Canva)'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T13:48:10.000+08:00
+    imagesource: '48b1ff1f-433a-4ea2-a8e1-590c510bb555'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'ed1081a8-a152-42ac-a057-1c7a8fc9c479'
+    lead: 'Two lawmakers in the House of Representatives are pushing for the recall
       of a bill aimed at preventing adolescent pregnancies amid growing criticism
       of its counterpart measure in the Senate.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T13:52:17.203+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:00.698+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.461+08:00
-    'mgnl:lastModified': 2025-01-19T15:25:34.110+08:00
-    'mgnl:lastModifiedBy': 'daniza-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Lawmakers push for recall approval of controversial teen pregnancy bill'
-    'updated': 2025-01-19T15:23:51.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1f574cd-7981-4926-9f59-2c31affd3200'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T13:52:17.229+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.720+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.103+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> Two lawmakers in the
+    activationstatus: true
+    created: 2025-01-18T13:52:17.203+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:00.698+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.461+08:00
+    lastmodified: 2025-01-19T15:25:34.110+08:00
+    lastmodifiedby: 'daniza-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Lawmakers push for recall approval of controversial teen pregnancy bill'
+    updated: 2025-01-19T15:23:51.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e1f574cd-7981-4926-9f59-2c31affd3200'
+      activationstatus: true
+      created: 2025-01-18T13:52:17.229+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.720+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.103+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> Two lawmakers in the
         House of Representatives are pushing for the recall of a bill aimed at preventing
         adolescent pregnancies amid growing criticism of its counterpart measure in
         the Senate.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '253595c4-ee05-4e95-932c-e5d907e54ffd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.630+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.722+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.104+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a statement on Sunday, Jan. 19, CIBAC Rep. Bro. Eddie Villanueva
+    section1:
+      primarytype: 'block'
+      uuid: '253595c4-ee05-4e95-932c-e5d907e54ffd'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.630+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.722+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.104+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>In a statement on Sunday, Jan. 19, CIBAC Rep. Bro. Eddie Villanueva
         said House Bill 8910 or the Adolescent Pregnancy Prevention Act should be
         reviewed again at the committee level. The House plenary approved the measure
         in September 2023.</p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9fbdb310-078d-4fab-9248-bb5356135254'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.630+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.723+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.104+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '“The bill contradicts Biblical principle and Constitutional mandate
+    section2:
+      primarytype: 'block'
+      uuid: '9fbdb310-078d-4fab-9248-bb5356135254'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.630+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.723+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.104+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '“The bill contradicts Biblical principle and Constitutional mandate
         of giving the parents the natural and primary duty to rear their children.
         It also betrays the Constitutional policy of the state responsibility to promote
         and protect the physical, moral and spiritual well-being of the youth,” Villanueva
         said.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec0e064b-ba86-4124-a540-ed07e9e5028e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.631+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.724+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.105+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The religious leader said the bill serves as a “camouflage and entry
+    section3:
+      primarytype: 'block'
+      uuid: 'ec0e064b-ba86-4124-a540-ed07e9e5028e'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.631+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.724+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.105+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The religious leader said the bill serves as a “camouflage and entry
         point” for foreign ideologies import.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '62327976-9bae-47de-84f1-e56cf7bb5415'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.631+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.725+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.105+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The congressman’s son, Senator Joel Villanueva, earlier said several
+    section4:
+      primarytype: 'block'
+      uuid: '62327976-9bae-47de-84f1-e56cf7bb5415'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.631+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.725+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.105+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The congressman’s son, Senator Joel Villanueva, earlier said several
         lawmakers in the upper chambers will withdraw their co-authorship on the Senate
         counterpart of the bill.</p>'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '049364dd-53e0-49fd-a1f9-ff793c40b798'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.631+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.726+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.106+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Meanwhile, Cagayan de Oro City Rep. Rufus Rodriguez filed a resolution
+    section5:
+      primarytype: 'block'
+      uuid: '049364dd-53e0-49fd-a1f9-ff793c40b798'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.631+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.726+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.106+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>Meanwhile, Cagayan de Oro City Rep. Rufus Rodriguez filed a resolution
         on Friday, Jan. 17, also urging the House to return the proposed Adolescent
         Pregnancy Prevention Act to the committee level for further hearings. He emphasized
         the need to ensure the bill’s compliance with the Constitution and family
         laws.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '86e2d959-1622-40ea-8b30-4ea1282ccf53'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.632+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.727+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.106+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Rodriguez described the bill as deceptive, saying it goes beyond its
+    section6:
+      primarytype: 'block'
+      uuid: '86e2d959-1622-40ea-8b30-4ea1282ccf53'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.632+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.727+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.106+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Rodriguez described the bill as deceptive, saying it goes beyond its
         stated focus on preventing adolescent pregnancies and protecting teenage parents.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '07a8e17a-a443-431f-81d2-7d2fa2db923c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.632+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.728+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.107+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Many provisions of the bill aim to institutionalize Comprehensive
+    section7:
+      primarytype: 'block'
+      uuid: '07a8e17a-a443-431f-81d2-7d2fa2db923c'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.632+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.728+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.107+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>“Many provisions of the bill aim to institutionalize Comprehensive
         Adolescent Sexuality Education (CASE), which is a different and separate subject
         matter from adolescent pregnancy. This is violative of Article IV, Section
         26, Paragraph (1) of the Constitution,” Rodriguez said in a statement on Saturday,
         Jan. 18.</p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a565101-e42b-40d6-80ac-b1bcedbf4bb6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.633+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.730+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.107+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'The lawmaker echoed concerns raised by various religious groups, arguing
+    section8:
+      primarytype: 'block'
+      uuid: '1a565101-e42b-40d6-80ac-b1bcedbf4bb6'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.633+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.730+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.107+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'The lawmaker echoed concerns raised by various religious groups, arguing
         that the bill’s proposed adoption of international standards could "hyper-sexualize
         children at a very early age," undermine parental authority, and promote risky
         behavior, among other issues.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e76c4a13-5cbb-4c36-acbe-134cec355fa1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.633+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.732+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.108+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>The counterpart bill is facing challenges in the Senate after a
+    section9:
+      primarytype: 'block'
+      uuid: 'e76c4a13-5cbb-4c36-acbe-134cec355fa1'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.633+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.732+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.108+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>The counterpart bill is facing challenges in the Senate after a
         viral video released this week by advocacy group Project Dalisay highlighted
         several concerns and called for the proposal to be scrapped entirely.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3aaa6d2b-b4a0-428f-9935-ea69a4182830'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.634+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.733+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.108+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senator Risa Hontiveros, chairperson of the Senate Committee on Women,
+    section10:
+      primarytype: 'block'
+      uuid: '3aaa6d2b-b4a0-428f-9935-ea69a4182830'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.634+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.733+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.108+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: 'Senator Risa Hontiveros, chairperson of the Senate Committee on Women,
         Children, Family Relations, and Gender Equality, stated that many of the concerns
         raised were unfounded. She clarified that international standards would serve
         only as a guide, with implementation remaining the responsibility of the Department
         of Education and other relevant agencies.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5f1652b1-2c84-4c20-b55b-14403569d517'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-19T15:24:24.634+08:00
-      'mgnl:createdBy': 'daniza-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.734+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-19T15:25:34.109+08:00
-      'mgnl:lastModifiedBy': 'daniza-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>She urged the Senate leadership to schedule plenary deliberations
+    section11:
+      primarytype: 'block'
+      uuid: '5f1652b1-2c84-4c20-b55b-14403569d517'
+      activationstatus: true
+      created: 2025-01-19T15:24:24.634+08:00
+      createdby: 'daniza-nwp'
+      lastactivated: 2025-03-13T12:33:00.734+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-19T15:25:34.109+08:00
+      lastmodifiedby: 'daniza-nwp'
+      type: 'text'
+      text: '<p>She urged the Senate leadership to schedule plenary deliberations
         to address the issues.</p>'
-  'Disgruntled-Heat-star-Jimmy-Butler-returns-in-loss-to-Nuggets':
-    'author': 'Field Level Media/Reuters'
-    'caption': 'Miami Heat forward Jimmy Butler (22) looks on against the Denver Nuggets
+  'START HERE----->Disgruntled-Heat-star-Jimmy-Butler-returns-in-loss-to-Nuggets':
+    author: 'Field Level Media/Reuters'
+    caption: 'Miami Heat forward Jimmy Butler (22) looks on against the Denver Nuggets
       during the third quarter at Kaseya Center. (Photo: Sam Navarro-Imagn Images/REUTERS)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T14:31:46.000+08:00
-    'imagesource': 'jcr:c775fa01-df70-48b1-b455-4d17631b7b88'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '153190ba-af1e-40e5-8325-b2b79db97133'
-    'lead': 'Jimmy Butler, his seven-game, team-imposed suspension completed, returned
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T14:31:46.000+08:00
+    imagesource: 'c775fa01-df70-48b1-b455-4d17631b7b88'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '153190ba-af1e-40e5-8325-b2b79db97133'
+    lead: 'Jimmy Butler, his seven-game, team-imposed suspension completed, returned
       to score 18 points for the Miami Heat in a 133-113 loss to the visiting Denver
       Nuggets on Friday night.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T14:45:04.697+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:33:00.327+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.598+08:00
-    'mgnl:lastModified': 2025-01-18T14:51:38.682+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Disgruntled Heat star Jimmy Butler returns in loss to Nuggets'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fba781f6-69d5-418e-9532-0d97e1620977'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:45:04.710+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.337+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.676+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>(Field Level Media/Reuters)</strong> - Jimmy Butler, his
+    activationstatus: true
+    created: 2025-01-18T14:45:04.697+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:33:00.327+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.598+08:00
+    lastmodified: 2025-01-18T14:51:38.682+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Disgruntled Heat star Jimmy Butler returns in loss to Nuggets'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'fba781f6-69d5-418e-9532-0d97e1620977'
+      activationstatus: true
+      created: 2025-01-18T14:45:04.710+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.337+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.676+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>(Field Level Media/Reuters)</strong> - Jimmy Butler, his
         seven-game, team-imposed suspension completed, returned to score 18 points
         for the Miami Heat in a 133-113 loss to the visiting Denver Nuggets on Friday
         night.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '715809f0-931b-4930-afb0-708909cb5b00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.691+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.338+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.676+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "The Heat suspended Butler on Jan. 3 for conduct detrimental to the\
+    section1:
+      primarytype: 'block'
+      uuid: '715809f0-931b-4930-afb0-708909cb5b00'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.691+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.338+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.676+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "The Heat suspended Butler on Jan. 3 for conduct detrimental to the\
         \ team. During his time away, Butler repeated his previous trade request.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c1cd533-9ecb-4500-9a3a-46294e7503b1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.691+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.339+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.677+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Following the Friday game, Butler answered questions at his locker\
+    section2:
+      primarytype: 'block'
+      uuid: '8c1cd533-9ecb-4500-9a3a-46294e7503b1'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.691+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.339+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.677+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Following the Friday game, Butler answered questions at his locker\
         \ while wearing a No. 45 Chicago Bulls jersey -- the number Michael Jordan\
         \ sported when he returned from his first retirement.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '010eb890-0362-46af-b69d-fde0e07904ca'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.692+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.340+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.677+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Butler said of his suspension, \"There was a lot said by everybody,\
+    section3:
+      primarytype: 'block'
+      uuid: '010eb890-0362-46af-b69d-fde0e07904ca'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.692+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.340+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.677+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Butler said of his suspension, \"There was a lot said by everybody,\
         \ except for me, to tell you the truth. So, we'll let people keep talking\
         \ like they know everything and have all the answers. And then, sooner or\
         \ later, the whole truth will come out. But, until then, we'll continue to\
         \ let people talk. If I'm here, I will get out there and play.\"\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd25b535e-f907-44e8-a6ae-5dbc4493d4ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.692+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.341+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.678+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "He added about his teammates, \"It felt good to get out there, compete,\
+    section4:
+      primarytype: 'block'
+      uuid: 'd25b535e-f907-44e8-a6ae-5dbc4493d4ef'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.692+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.341+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.678+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "He added about his teammates, \"It felt good to get out there, compete,\
         \ and actually run around with these guys. As much as everybody may think,\
         \ I don't got a problem with these guys. These guys are cool. They're my friends.\
         \ ... My beef is not with them, never will be, and never has been.\"\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e90648f7-2a7b-4f3c-9420-bfab8c796705'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.692+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.342+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.678+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Less than two hours before tipoff, Butler said \"I'm back\" in a statement\
+    section5:
+      primarytype: 'block'
+      uuid: 'e90648f7-2a7b-4f3c-9420-bfab8c796705'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.692+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.342+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.678+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Less than two hours before tipoff, Butler said \"I'm back\" in a statement\
         \ his agent Bernie O. Lee released on social media. The statement indicated\
         \ it was a response to questions about Butler’s career plans.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6d773d21-dc56-46c6-9942-0d76efae5c48'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.693+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.343+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.679+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Butler, 35, has been unhappy this season and requested a trade. He\
+    section6:
+      primarytype: 'block'
+      uuid: '6d773d21-dc56-46c6-9942-0d76efae5c48'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.693+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.343+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.679+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Butler, 35, has been unhappy this season and requested a trade. He\
         \ also has sharply criticized the organization on multiple occasions.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b7b9025-3714-4449-ad03-f2d19affd328'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.693+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.344+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.679+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Miami coach Erik Spoelstra never mentioned Butler’s name during a long\
+    section7:
+      primarytype: 'block'
+      uuid: '7b7b9025-3714-4449-ad03-f2d19affd328'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.693+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.344+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.679+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Miami coach Erik Spoelstra never mentioned Butler’s name during a long\
         \ opening remark to start his pregame availability.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c5c3f868-8636-40e6-953f-4e621aabbca3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.694+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.353+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.680+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"We work in a league of complexity,\" Spoelstra said. \"We're in an\
+    section8:
+      primarytype: 'block'
+      uuid: 'c5c3f868-8636-40e6-953f-4e621aabbca3'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.694+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.353+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.680+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"We work in a league of complexity,\" Spoelstra said. \"We're in an\
         \ unusual place right now but all of it is complex. So it’s my job to prepare\
         \ this team and get them ready to play at a high level, and that’s what I'm\
         \ doing.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f9b7c01-74d2-4a49-b8c6-4c11047cec24'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.694+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.354+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.680+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"My methods for doing it are really none of your business. You're\
+    section9:
+      primarytype: 'block'
+      uuid: '4f9b7c01-74d2-4a49-b8c6-4c11047cec24'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.694+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.354+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.680+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"My methods for doing it are really none of your business. You're\
         \ looking for drama, I'm looking to getting this team ready to play at a high\
         \ level.\"\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23e02671-ddbe-4b80-b9fc-6f95eff08115'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.695+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.355+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.681+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "A six-time All-Star, Butler is averaging 17.6 points, 5.4 rebounds\
+    section10:
+      primarytype: 'block'
+      uuid: '23e02671-ddbe-4b80-b9fc-6f95eff08115'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.695+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.355+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.681+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "A six-time All-Star, Butler is averaging 17.6 points, 5.4 rebounds\
         \ and 4.6 assists in 23 games. This is his sixth season with Miami.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9776259b-9749-4645-af46-f622a73f02d0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T14:48:27.696+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:33:00.355+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T14:51:38.681+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>-- Field Level Media/Reuters</p>'
-  'ltfrb-motorcycle-taxis-law':
-    'author': 'Eimor Santos, NewsWatch Plus'
-    'caption': 'FILE PHOTO'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T15:45:36.000+08:00
-    'imagesource': 'jcr:bb3ddb3f-3523-4731-ab7e-1dce0a48052c'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '5028a0ad-213c-4743-a78b-6508b025c068'
-    'lead': 'Thousands of riders need not lose their jobs even if Congress adjourns
+    section12:
+      primarytype: 'block'
+      uuid: '9776259b-9749-4645-af46-f622a73f02d0'
+      activationstatus: true
+      created: 2025-01-18T14:48:27.696+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:33:00.355+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T14:51:38.681+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>-- Field Level Media/Reuters</p>'
+  'START HERE----->ltfrb-motorcycle-taxis-law':
+    author: 'Eimor Santos, NewsWatch Plus'
+    caption: 'FILE PHOTO'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T15:45:36.000+08:00
+    imagesource: 'bb3ddb3f-3523-4731-ab7e-1dce0a48052c'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '5028a0ad-213c-4743-a78b-6508b025c068'
+    lead: 'Thousands of riders need not lose their jobs even if Congress adjourns
       without passing a law legalizing motorcycle taxis, as the regulatory agency
       can allow them to continue operating pending legislation, a lawmaker said Saturday,
       Jan. 18.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T15:59:59.524+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:32:59.975+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.737+08:00
-    'mgnl:lastModified': 2025-01-18T16:01:07.787+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Poe: LTFRB can allow motorcycle taxis pending law'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c424c1b-aaba-4698-b0c4-fe34b6d1efd1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.565+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.987+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.782+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> – Thousands of riders
+    activationstatus: true
+    created: 2025-01-18T15:59:59.524+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:32:59.975+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.737+08:00
+    lastmodified: 2025-01-18T16:01:07.787+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Poe: LTFRB can allow motorcycle taxis pending law'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '8c424c1b-aaba-4698-b0c4-fe34b6d1efd1'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.565+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.987+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.782+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> – Thousands of riders
         need not lose their jobs even if Congress adjourns without passing a law legalizing
         motorcycle taxis, as the regulatory agency can allow them to continue operating
         pending legislation, a lawmaker said Saturday, Jan. 18.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5feafb48-8f1a-43dc-b670-8cc54984bc1c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.566+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.988+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.782+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Senator Grace Poe, chairperson of the Senate Committee on Finance and\
+    section1:
+      primarytype: 'block'
+      uuid: '5feafb48-8f1a-43dc-b670-8cc54984bc1c'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.566+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.988+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.782+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Senator Grace Poe, chairperson of the Senate Committee on Finance and\
         \ former head of the Senate Committee on Public Services which tackled the\
         \ motorcycle-for-hire bills, made this clarification after the Land Transportation\
         \ Franchising and Regulatory Board (LTFRB) warned that 60,000 motorcycle taxi\
         \ riders could lose their jobs if Congress fails to legalize their operations.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '660f8691-e0f8-4f00-bbc7-c6ca968241c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.566+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.989+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.783+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Sa mga kababayan, huwag po kayong mag-alala sapagkat napaka-importante\
+    section2:
+      primarytype: 'block'
+      uuid: '660f8691-e0f8-4f00-bbc7-c6ca968241c4'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.566+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.989+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.783+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"Sa mga kababayan, huwag po kayong mag-alala sapagkat napaka-importante\
         \ nitong serbisyo na ito ng mga motorcycles for hire, at hindi ito dapat itigil\
         \ ng LTFRB dahil lang hindi pa naipapasa ang batas,\" Poe said in a statement.\
         \ \r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2f16a03f-8b65-4634-996d-772971cfcd5f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.566+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.990+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.783+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: To my fellow countrymen, do not worry because this motorcycle-for-hire\
+    section3:
+      primarytype: 'block'
+      uuid: '2f16a03f-8b65-4634-996d-772971cfcd5f'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.566+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.990+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.783+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "[Translation: To my fellow countrymen, do not worry because this motorcycle-for-hire\
         \ service is very important, and the LTFRB should not stop it just because\
         \ the law has not yet been passed.]\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9c8a85f1-e2c8-40c6-9c79-7263415ab8f3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.567+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.991+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.784+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Nasa LTFRB naman talaga ang deadline kung itutuloy nila ito o hindi.\
+    section4:
+      primarytype: 'block'
+      uuid: '9c8a85f1-e2c8-40c6-9c79-7263415ab8f3'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.567+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.991+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.784+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"Nasa LTFRB naman talaga ang deadline kung itutuloy nila ito o hindi.\
         \ Pwede naman silang magkaroon ng extension pending the passage of the bill.\
         \ Sila naman yung pumapayag dyan,\" she added.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ef2fff89-2f29-41ee-b187-e08cee768bc6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.567+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.992+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.784+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: The deadline is really up to the LTFRB. They can grant\
+    section5:
+      primarytype: 'block'
+      uuid: 'ef2fff89-2f29-41ee-b187-e08cee768bc6'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.567+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.992+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.784+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "[Translation: The deadline is really up to the LTFRB. They can grant\
         \ an extension pending the passage of the bill. After all, they are the ones\
         \ who have agreed to this.]\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b93925d-0171-4bf8-a061-d31c08e56e19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.568+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.993+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.785+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Motorcycle taxis are allowed to serve passengers under a pilot test\
+    section6:
+      primarytype: 'block'
+      uuid: '1b93925d-0171-4bf8-a061-d31c08e56e19'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.568+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.993+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.785+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Motorcycle taxis are allowed to serve passengers under a pilot test\
         \ program approved by Congress in June 2019, which has been extended indefinitely.\
         \ Riders have been urging lawmakers to pass a measure that would permanently\
         \ legalize their operations, fearing they could be considered illegal when\
         \ the 19th Congress adjourns on June 30.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fa05ba34-02dd-4931-bd78-66c811dd47ad'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.568+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.994+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.785+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Poe said lawmakers are still working on a comprehensive law to address\
+    section7:
+      primarytype: 'block'
+      uuid: 'fa05ba34-02dd-4931-bd78-66c811dd47ad'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.568+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.994+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.785+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Poe said lawmakers are still working on a comprehensive law to address\
         \ various aspects of motorcycle taxi operations, including licenses, vehicle\
         \ specifications, discounts, insurance, and safety regulations.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a2050bd1-2e42-4df9-b9e3-f48f65191106'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.569+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.995+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.786+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "She also mentioned that if the LTFRB sought \"legal cover,\" the Senate\
+    section8:
+      primarytype: 'block'
+      uuid: 'a2050bd1-2e42-4df9-b9e3-f48f65191106'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.569+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.995+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.786+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "She also mentioned that if the LTFRB sought \"legal cover,\" the Senate\
         \ could pass a resolution supporting the extension of the motorcycle taxi\
         \ pilot program while lawmakers continue working on the bill.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '98f8775f-46e0-42cf-bb04-280fdbd2233d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T15:59:59.569+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.996+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T16:01:07.786+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Earlier, Senator Raffy Tulfo, chairman of the Senate Committee on
+    section9:
+      primarytype: 'block'
+      uuid: '98f8775f-46e0-42cf-bb04-280fdbd2233d'
+      activationstatus: true
+      created: 2025-01-18T15:59:59.569+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.996+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T16:01:07.786+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>Earlier, Senator Raffy Tulfo, chairman of the Senate Committee on
         Public Services, vowed to fast-track the passage of the bill. The House of
         Representatives passed the proposed Motorcycles-For-Hire Act in July 2024.</p>'
-  'maris-racal-sunshine-berlin-film-fest':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-01-18T17:30:51.000+08:00
-    'imagesource': 'jcr:8c1f36ee-1302-40f6-8831-0aec3a2986e2'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '75af105a-83a4-4bd3-93a5-39084e1fe68a'
-    'lead': 'A Maris Racal-starring film continues to shine on the global stage after
+  'START HERE----->maris-racal-sunshine-berlin-film-fest':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-01-18T17:30:51.000+08:00
+    imagesource: '8c1f36ee-1302-40f6-8831-0aec3a2986e2'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '75af105a-83a4-4bd3-93a5-39084e1fe68a'
+    lead: 'A Maris Racal-starring film continues to shine on the global stage after
       being selected for the 75th Berlin International Film Festival.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-01-18T17:33:22.331+08:00
-    'mgnl:createdBy': 'eimor-nwp'
-    'mgnl:lastActivated': 2025-03-13T12:32:59.609+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T12:28:01.861+08:00
-    'mgnl:lastModified': 2025-01-18T17:34:33.866+08:00
-    'mgnl:lastModifiedBy': 'eimor-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Maris Racal’s ‘Sunshine’ to compete at Berlin film fest'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c6a44273-5273-4b64-b024-fd514384bc24'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.368+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.659+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.862+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines</strong> – A Maris Racal-starring
+    activationstatus: true
+    created: 2025-01-18T17:33:22.331+08:00
+    createdby: 'eimor-nwp'
+    lastactivated: 2025-03-13T12:32:59.609+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T12:28:01.861+08:00
+    lastmodified: 2025-01-18T17:34:33.866+08:00
+    lastmodifiedby: 'eimor-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Maris Racal’s ‘Sunshine’ to compete at Berlin film fest'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c6a44273-5273-4b64-b024-fd514384bc24'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.368+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.659+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.862+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines</strong> – A Maris Racal-starring
         film continues to shine on the global stage after being selected for the 75th
         Berlin International Film Festival.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '60e7b559-7d94-41a7-8f17-3919b9fa7ab2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.369+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.660+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.862+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Sunshine,\" directed by Antoinette Jadaone, is an official entry\
+    section1:
+      primarytype: 'block'
+      uuid: '60e7b559-7d94-41a7-8f17-3919b9fa7ab2'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.369+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.660+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.862+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "\"Sunshine,\" directed by Antoinette Jadaone, is an official entry\
         \ in the BIFF under the Generation 14plus competition, which highlights stories\
         \ featuring young protagonists, according to the Berlinale website.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d9398b0-8358-45a5-a8d1-a68938d9c14b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.369+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.662+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.863+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Film producer Project 8 Projects shared the announcement on social\
+    section2:
+      primarytype: 'block'
+      uuid: '0d9398b0-8358-45a5-a8d1-a68938d9c14b'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.369+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.662+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.863+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Film producer Project 8 Projects shared the announcement on social\
         \ media on Thursday, Jan. 16.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4832698d-01b5-45c2-91ad-83169452d7a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.370+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.662+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.863+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Stay tuned—SUNSHINE’s Berlinale screening dates will be announced
+    section3:
+      primarytype: 'block'
+      uuid: '4832698d-01b5-45c2-91ad-83169452d7a4'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.370+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.662+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.863+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>“Stay tuned—SUNSHINE’s Berlinale screening dates will be announced
         soon!” it said on Instagram.</p>'
-    '4':
-      'contentWidth': '100%'
-      'embedCode': '<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DE4zvzYTB2J/?utm_source=ig_embed&amp;utm_campaign=loading"
+    section4:
+      contentwidth: '100%'
+      embedcode: '<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DE4zvzYTB2J/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px;
         box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin:
         1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100%
@@ -2396,56 +2396,56 @@
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal;
         font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
         post shared by PROJECT 8 (@project8projects)</a></p></div></blockquote>
-
+'
         <script async src="//www.instagram.com/embed.js"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '76a98cfa-9cc0-4c76-b4b2-f19bfb4baaa9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.370+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.664+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.864+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'embedCode'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1256b2b0-512b-420c-a04f-4b05cfa7b838'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.371+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.665+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.864+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Racal portrays Sunshine, a young gymnast who discovers she is pregnant
+      primarytype: 'block'
+      uuid: '76a98cfa-9cc0-4c76-b4b2-f19bfb4baaa9'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.370+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.664+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.864+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'embedcode'
+    section5:
+      primarytype: 'block'
+      uuid: '1256b2b0-512b-420c-a04f-4b05cfa7b838'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.371+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.665+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.864+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>Racal portrays Sunshine, a young gymnast who discovers she is pregnant
         during the week of tryouts for the national team, leading her to consider
         abortion. The film also stars Annika Co, Jennica Garcia, Meryll Soriano, and
         Elijah Canlas.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5176010d-c836-41e5-a92b-613703cf4150'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.371+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.665+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.865+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': "Having premiered at the Toronto International Film Festival in September\
+    section6:
+      primarytype: 'block'
+      uuid: '5176010d-c836-41e5-a92b-613703cf4150'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.371+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.665+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.865+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: "Having premiered at the Toronto International Film Festival in September\
         \ 2024, the film has also been featured at the prestigious Palm Springs International\
         \ Film Festival and Asia Pacific Screen Awards. \r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd72a66c1-66b7-4498-8537-6fcde3f31d43'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-01-18T17:33:22.371+08:00
-      'mgnl:createdBy': 'eimor-nwp'
-      'mgnl:lastActivated': 2025-03-13T12:32:59.666+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2025-01-18T17:34:33.865+08:00
-      'mgnl:lastModifiedBy': 'eimor-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Local screening dates have yet to be announced.&nbsp;</p>'
+    section7:
+      primarytype: 'block'
+      uuid: 'd72a66c1-66b7-4498-8537-6fcde3f31d43'
+      activationstatus: true
+      created: 2025-01-18T17:33:22.371+08:00
+      createdby: 'eimor-nwp'
+      lastactivated: 2025-03-13T12:32:59.666+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2025-01-18T17:34:33.865+08:00
+      lastmodifiedby: 'eimor-nwp'
+      type: 'text'
+      text: '<p>Local screening dates have yet to be announced.&nbsp;</p>'

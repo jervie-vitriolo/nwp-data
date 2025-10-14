@@ -1,518 +1,518 @@
-'4':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '7cac00bc-a9e2-4d97-b3a6-3859cb5ac83c'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2024-08-04T10:59:33.563+08:00
-  'mgnl:createdBy': 'cj-nwp'
-  'mgnl:lastActivated': 2025-03-13T13:07:05.936+08:00
-  'mgnl:lastActivatedBy': 'nelsonp'
-  'mgnl:lastActivatedVersion': '1.4'
-  'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:02.868+08:00
-  'mgnl:lastModified': 2024-08-04T22:26:57.831+08:00
-  'mgnl:lastModifiedBy': 'cj-nwp'
-  'Aira-Villegas-assured-medal-Paris-2024-Olympics':
-    'author': 'CJ Marquez, NewsWatch Plus'
-    'caption': 'Source: Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T10:59:33.000+08:00
-    'credit': 'Source: Reuters'
-    'imagesource': 'jcr:666c5dcb-d2c4-4ca2-b09c-ebb53cfe22ad'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '766ebf80-b838-4fad-9ac2-c414e407cfb9'
-    'lead': 'Filipino boxer Aira Villegas secures a podium finish after a split decision
+section4:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '7cac00bc-a9e2-4d97-b3a6-3859cb5ac83c'
+  activationstatus: true
+  created: 2024-08-04T10:59:33.563+08:00
+  createdby: 'cj-nwp'
+  lastactivated: 2025-03-13T13:07:05.936+08:00
+  lastactivatedby: 'nelsonp'
+  lastactivatedversion: '1.4'
+  lastactivatedversioncreated: 2025-03-13T13:00:02.868+08:00
+  lastmodified: 2024-08-04T22:26:57.831+08:00
+  lastmodifiedby: 'cj-nwp'
+  'START HERE----->Aira-Villegas-assured-medal-Paris-2024-Olympics':
+    author: 'CJ Marquez, NewsWatch Plus'
+    caption: 'Source: Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T10:59:33.000+08:00
+    credit: 'Source: Reuters'
+    imagesource: '666c5dcb-d2c4-4ca2-b09c-ebb53cfe22ad'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '766ebf80-b838-4fad-9ac2-c414e407cfb9'
+    lead: 'Filipino boxer Aira Villegas secures a podium finish after a split decision
       win over France’s Wassila Lkhadiri in the women’s 50 kg division in the Paris
       2024 Olympics.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T11:01:56.814+08:00
-    'mgnl:createdBy': 'cj-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:20.582+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:03.027+08:00
-    'mgnl:lastModified': 2024-08-04T11:03:28.278+08:00
-    'mgnl:lastModifiedBy': 'cj-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Aira Villegas guaranteed of medal with win over hometown bet in Paris
+    activationstatus: true
+    created: 2024-08-04T11:01:56.814+08:00
+    createdby: 'cj-nwp'
+    lastactivated: 2025-03-13T13:10:20.582+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T13:00:03.027+08:00
+    lastmodified: 2024-08-04T11:03:28.278+08:00
+    lastmodifiedby: 'cj-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Aira Villegas guaranteed of medal with win over hometown bet in Paris
       Olympics'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d5076df-3bea-403b-a50d-c2c93a5c5433'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.827+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.584+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.273+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Aira Villegas is assured
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7d5076df-3bea-403b-a50d-c2c93a5c5433'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.827+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.584+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.273+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Aira Villegas is assured
         of winning at least a bronze medal for the Philippines after scoring a split
         decision victory over Wassila Lkhadiri of France in the women’s 50 kg division
         quarterfinals Sunday at the North Paris Arena.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd3dc76d-77cc-4b02-90ec-4ac538725014'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.828+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.585+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.273+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8bf4626d-74d7-47e4-b7d1-d07a8058b6c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.828+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.586+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.274+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'The 29-year-old Villegas had to finish strong following a closely-fought
+    section1:
+      primarytype: 'block'
+      uuid: 'dd3dc76d-77cc-4b02-90ec-4ac538725014'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.828+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.585+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.273+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: ' '
+    section2:
+      primarytype: 'block'
+      uuid: '8bf4626d-74d7-47e4-b7d1-d07a8058b6c9'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.828+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.586+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.274+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'The 29-year-old Villegas had to finish strong following a closely-fought
         two rounds.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a5545326-9aec-4ccc-b12a-703bba111c7e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.829+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.586+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.274+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8ce691a2-795f-4d0a-aed5-ccfcecdbb196'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.829+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.587+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.275+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'In the end, Villegas earned the nod of three of the five judges to
+    section3:
+      primarytype: 'block'
+      uuid: 'a5545326-9aec-4ccc-b12a-703bba111c7e'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.829+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.586+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.274+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: ' '
+    section4:
+      primarytype: 'block'
+      uuid: '8ce691a2-795f-4d0a-aed5-ccfcecdbb196'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.829+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.587+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.275+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'In the end, Villegas earned the nod of three of the five judges to
         seal the win and punch a semifinal ticket.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7b326111-b21e-4abc-bcea-a6a68b74aef1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.829+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.588+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.275+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f67509f-6b57-4720-8b09-c4b8d2209aa2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.830+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.588+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.276+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Nesthy Petecio is the other Filipino boxer who is still gunning for
+    section5:
+      primarytype: 'block'
+      uuid: '7b326111-b21e-4abc-bcea-a6a68b74aef1'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.829+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.588+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.275+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: ' '
+    section6:
+      primarytype: 'block'
+      uuid: '8f67509f-6b57-4720-8b09-c4b8d2209aa2'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.830+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.588+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.276+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Nesthy Petecio is the other Filipino boxer who is still gunning for
         a medal in the women’s 57 kg class. She is set to battle Zichun Xu of China
         on Aug. 4.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f81feb93-99f2-482c-a860-8bee16b57974'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.830+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.589+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.276+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': ' '
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fac177e4-727b-4ca8-9e66-d2cc58b3c144'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T11:01:56.830+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.589+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T11:03:28.276+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Villegas will face Tokyo 2020 Olympics silver medalist Buse Naz
+    section7:
+      primarytype: 'block'
+      uuid: 'f81feb93-99f2-482c-a860-8bee16b57974'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.830+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.589+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.276+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: ' '
+    section8:
+      primarytype: 'block'
+      uuid: 'fac177e4-727b-4ca8-9e66-d2cc58b3c144'
+      activationstatus: true
+      created: 2024-08-04T11:01:56.830+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:20.589+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T11:03:28.276+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Villegas will face Tokyo 2020 Olympics silver medalist Buse Naz
         Cakiroglu of Turkey on Aug. 7.</p>'
-  'carlos-yulo-olympics-gold-ph-prizes':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T13:57:34.000+08:00
-    'imagesource': 'jcr:8b7d0f7b-5057-402b-bee3-b04e460b6ad7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '971d552b-dbd5-4250-bbdf-7eb23c937659'
-    'lead': 'Carlos Yulo poured all of his hard work in the men’s artistic gymnastics
+  'START HERE----->carlos-yulo-olympics-gold-ph-prizes':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T13:57:34.000+08:00
+    imagesource: '8b7d0f7b-5057-402b-bee3-b04e460b6ad7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '971d552b-dbd5-4250-bbdf-7eb23c937659'
+    lead: 'Carlos Yulo poured all of his hard work in the men’s artistic gymnastics
       final at the Paris 2024 Olympics, and he will be amply rewarded.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T14:00:11.540+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:20.219+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:03.206+08:00
-    'mgnl:lastModified': 2024-08-05T16:22:12.078+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Carlos-Yulo', 'Paris-2024-Olympics']
-    'stories': []
-    'template': '1'
-    'title': 'Here’s what Carlos Yulo will be getting after historic gold medals'
-    'updated': 2024-08-05T16:20:39.000+08:00
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a00c6dc7-53f5-4ce8-9b0c-7ec9d0a5cef8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.671+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.222+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.072+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Carlos Yulo poured
+    activationstatus: true
+    created: 2024-08-04T14:00:11.540+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:20.219+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:00:03.206+08:00
+    lastmodified: 2024-08-05T16:22:12.078+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Here’s what Carlos Yulo will be getting after historic gold medals'
+    updated: 2024-08-05T16:20:39.000+08:00
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a00c6dc7-53f5-4ce8-9b0c-7ec9d0a5cef8'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.671+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.222+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.072+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Carlos Yulo poured
         all of his hard work in the men’s artistic gymnastics final at the Paris 2024
         Olympics, and he will be amply rewarded.</p>'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe097626-cf1d-47d1-b0a7-5547b934a7b4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-05T16:22:12.061+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.222+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.072+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a thriller weekend, Yulo bagged two gold medals in the <a href="https://www.newswatchplus.ph/news/2024/8/3/carlos-yulo-floor-paris-olympics-gold.html">floor
+    section11:
+      primarytype: 'block'
+      uuid: 'fe097626-cf1d-47d1-b0a7-5547b934a7b4'
+      activationstatus: true
+      created: 2024-08-05T16:22:12.061+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.222+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.072+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>In a thriller weekend, Yulo bagged two gold medals in the <a href="https://www.newswatchplus.ph/news/2024/8/3/carlos-yulo-floor-paris-olympics-gold.html">floor
         exercise final</a> on Saturday, Aug. 3, and the <a href="https://www.newswatchplus.ph/news/2024/8/5/carlos-yulo-paris-olympics-vault-gold.html">vault
         final</a> on Sunday, Aug. 4.</p>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd027436-2584-4162-a853-a1cf74f60697'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-05T16:22:12.061+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.223+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.061+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With his redemption arc comes the delivery of the Philippines’ first\
+    section12:
+      primarytype: 'block'
+      uuid: 'cd027436-2584-4162-a853-a1cf74f60697'
+      activationstatus: true
+      created: 2024-08-05T16:22:12.061+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.223+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.061+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With his redemption arc comes the delivery of the Philippines’ first\
         \ two medals in the Paris Games.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e1ce3846-f734-44a7-ba89-db480155a9fa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-05T16:22:12.062+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.062+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Here’s a list of prizes the Filipino gymnast will get after his
+    section13:
+      primarytype: 'block'
+      uuid: 'e1ce3846-f734-44a7-ba89-db480155a9fa'
+      activationstatus: true
+      created: 2024-08-05T16:22:12.062+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.062+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Here’s a list of prizes the Filipino gymnast will get after his
         historic gold medals.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5643ca84-118a-4159-add4-f0aae63c4b89'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.672+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.224+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.074+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "+ ₱10 million from the Philippine Sports Commission, as mandated by\
+    section3:
+      primarytype: 'block'
+      uuid: '5643ca84-118a-4159-add4-f0aae63c4b89'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.672+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.224+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.074+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "+ ₱10 million from the Philippine Sports Commission, as mandated by\
         \ Republic Act 10699 \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c7bf54ad-0688-4bbd-b7e9-f3d0e49c46c2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.673+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.225+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.074+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "+ Olympic Gold Medal of Valor from the Philippine Sports Commission,\
+    section4:
+      primarytype: 'block'
+      uuid: 'c7bf54ad-0688-4bbd-b7e9-f3d0e49c46c2'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.673+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.225+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.074+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "+ Olympic Gold Medal of Valor from the Philippine Sports Commission,\
         \ as mandated by Republic Act 10699\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44aa1d66-370b-4b2c-94fb-d0440a14582c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.673+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.075+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ A fully-furnished ₱32 million residential condominium unit at
+    section5:
+      primarytype: 'block'
+      uuid: '44aa1d66-370b-4b2c-94fb-d0440a14582c'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.673+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.075+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ A fully-furnished ₱32 million residential condominium unit at
         McKinley Hill, Taguig City, from property developer Megaworld. According to
         the developer, the unit comes with two balconies, a separate maid’s room,
         and a parking slot.</p>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a40e520-877c-4e37-aa32-23e4ab56f513'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-05T16:22:12.063+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.226+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.063+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "+ ₱3 million from Megaworld\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8040f39e-c84f-4525-91af-915a3917d498'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-05T16:22:12.064+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.227+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.064+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ ₱6 million from the House of Representatives, according to House
+    section14:
+      primarytype: 'block'
+      uuid: '1a40e520-877c-4e37-aa32-23e4ab56f513'
+      activationstatus: true
+      created: 2024-08-05T16:22:12.063+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.226+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.063+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "+ ₱3 million from Megaworld\r"
+    section15:
+      primarytype: 'block'
+      uuid: '8040f39e-c84f-4525-91af-915a3917d498'
+      activationstatus: true
+      created: 2024-08-05T16:22:12.064+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.227+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.064+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ ₱6 million from the House of Representatives, according to House
         Speaker Martin Romualdez</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be196fb0-0e3c-4b9f-9d02-169c9420ef72'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.674+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.076+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Lifetime free buffet at the <a href="https://www.facebook.com/VIKINGSSMMALLOFASIA/posts/pfbid02Ydutseeny2khRXLrhCfBtiAvLiDSD9Lz9YSersd9RM2a37yFNcdXoYKD8apA2cjGl">Vikings
+    section7:
+      primarytype: 'block'
+      uuid: 'be196fb0-0e3c-4b9f-9d02-169c9420ef72'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.674+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.076+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Lifetime free buffet at the <a href="https://www.facebook.com/VIKINGSSMMALLOFASIA/posts/pfbid02Ydutseeny2khRXLrhCfBtiAvLiDSD9Lz9YSersd9RM2a37yFNcdXoYKD8apA2cjGl">Vikings
         Luxury Buffet&nbsp;</a></p>'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7ab60f5b-dfad-4a8e-90f5-50c8e2792e4b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.674+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.228+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.076+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Lifetime of food and drinks at <a href="https://www.facebook.com/tipsypigph/posts/pfbid02mxFHW9n4EhCw11FhSP7ecmn3ANbe5QGSiwiuJ8KPyxqGouXXbRAU2SBvrpGL9H53l">Tipsy
+    section8:
+      primarytype: 'block'
+      uuid: '7ab60f5b-dfad-4a8e-90f5-50c8e2792e4b'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.674+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.228+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.076+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Lifetime of food and drinks at <a href="https://www.facebook.com/tipsypigph/posts/pfbid02mxFHW9n4EhCw11FhSP7ecmn3ANbe5QGSiwiuJ8KPyxqGouXXbRAU2SBvrpGL9H53l">Tipsy
         Pig&nbsp;</a></p>'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '254a5a2c-4580-44a8-9eb1-5d2dd39b1b19'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.675+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.076+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Lifetime free engineering design from <a href="https://www.facebook.com/engineering.nexa/posts/pfbid07eFzRtqf4T451WWQsFbXtQcyxbPmAZAzz2v7oD9pnYzYkp1pHr1USpCMTvRa19eCl">Nexa
+    section9:
+      primarytype: 'block'
+      uuid: '254a5a2c-4580-44a8-9eb1-5d2dd39b1b19'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.675+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.076+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Lifetime free engineering design from <a href="https://www.facebook.com/engineering.nexa/posts/pfbid07eFzRtqf4T451WWQsFbXtQcyxbPmAZAzz2v7oD9pnYzYkp1pHr1USpCMTvRa19eCl">Nexa
         Engineering&nbsp;</a></p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bdf3303-3a6a-446c-af90-2d841e489e5d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:00:11.675+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:20.229+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T16:22:12.077+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>+ Lifetime free meals at JT’s Kalayaan&nbsp;</p>'
-  'carlos-yulo-congratulations-paris-olympics':
-    'caption': 'Filipino gymnast scores 15 points in the floor exercise final to win
+    section10:
+      primarytype: 'block'
+      uuid: '5bdf3303-3a6a-446c-af90-2d841e489e5d'
+      activationstatus: true
+      created: 2024-08-04T14:00:11.675+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:20.229+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T16:22:12.077+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>+ Lifetime free meals at JT’s Kalayaan&nbsp;</p>'
+  'START HERE----->carlos-yulo-congratulations-paris-olympics':
+    caption: 'Filipino gymnast scores 15 points in the floor exercise final to win
       gold at the Paris 2024 Olympics. (Retuers/Amanda Perobelli)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T14:14:20.000+08:00
-    'imagesource': 'jcr:9393010c-c27f-406b-a83b-1f906cfba4f2'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'f9d037ba-4fe2-47ed-9e8d-b269f9119450'
-    'lead': 'President Ferdinand Marcos Jr. and the entire country celebrated the
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T14:14:20.000+08:00
+    imagesource: '9393010c-c27f-406b-a83b-1f906cfba4f2'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'f9d037ba-4fe2-47ed-9e8d-b269f9119450'
+    lead: 'President Ferdinand Marcos Jr. and the entire country celebrated the
       historic win of gymnast Carlos Yulo, whose floor exercise routine earned him
       a gold medal at the Paris 2024 Olympics on Saturday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T14:26:33.092+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:18.972+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:03.731+08:00
-    'mgnl:lastModified': 2024-08-04T15:28:09.624+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Carlos-Yulo', 'Paris-2024-Olympics']
-    'stories': []
-    'template': '1'
-    'title': 'PH gives all-out cheers to Carlos Yulo’s golden performance'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '247c99d3-f584-45eb-a779-1d229644fe1f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.796+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.975+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.592+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
+    activationstatus: true
+    created: 2024-08-04T14:26:33.092+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:18.972+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T13:00:03.731+08:00
+    lastmodified: 2024-08-04T15:28:09.624+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'PH gives all-out cheers to Carlos Yulo’s golden performance'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '247c99d3-f584-45eb-a779-1d229644fe1f'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.796+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.975+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.592+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> President Ferdinand
         Marcos Jr. and the entire country celebrated the historic win of gymnast Carlos
         Yulo, whose floor exercise routine earned him a gold medal at the Paris 2024
         Olympics on Saturday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '77c64a6b-ada8-4250-8058-20f7b796e782'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.796+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.976+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.593+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/8/3/carlos-yulo-floor-paris-olympics-gold.html">Carlos
+    section1:
+      primarytype: 'block'
+      uuid: '77c64a6b-ada8-4250-8058-20f7b796e782'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.796+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.976+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.593+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>READ: <a href="https://www.newswatchplus.ph/news/2024/8/3/carlos-yulo-floor-paris-olympics-gold.html">Carlos
         Yulo brings home Paris Olympic gold in floor exercise</a></strong></p>'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3a6245b8-9042-4c26-b9fa-60984fa32992'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.796+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.977+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.594+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "His victory in the floor exercise final at the Bercy Arena is the country’\
+    section2:
+      primarytype: 'block'
+      uuid: '3a6245b8-9042-4c26-b9fa-60984fa32992'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.796+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.977+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.594+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "His victory in the floor exercise final at the Bercy Arena is the country’\
         s first medal in the Paris campaign. \r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c4542daf-4811-4c57-a639-806635b44124'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.797+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.978+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.594+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“I am confident that it will not be the last,” Marcos wrote on his\
+    section3:
+      primarytype: 'block'
+      uuid: 'c4542daf-4811-4c57-a639-806635b44124'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.797+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.978+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.594+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“I am confident that it will not be the last,” Marcos wrote on his\
         \ Facebook account. “Congratulations, Caloy! The entire country stands proud\
         \ with you!”\r"
-    '4':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBongbongMarcos%2Fposts%2Fpfbid02GJqt4asRppXTsug4yxqKn95wisr6krbAncqNaFcu9g3Dzr2f5PCanBUNKAJyhevnl&show_text=true&width=500"
+    section4:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBongbongMarcos%2Fposts%2Fpfbid02GJqt4asRppXTsug4yxqKn95wisr6krbAncqNaFcu9g3Dzr2f5PCanBUNKAJyhevnl&show_text=true&width=500"
         width="500" height="660" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e611655-2ea6-46d5-a71b-cd021e90b64a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.797+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.978+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.595+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0d5f1160-fb80-44d5-bbee-5a3b71fd496f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.798+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.979+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.596+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Vice President Sara Duterte also saluted Yulo’s hard work as it produced\
+      primarytype: 'block'
+      uuid: '4e611655-2ea6-46d5-a71b-cd021e90b64a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.797+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.978+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.595+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section5:
+      primarytype: 'block'
+      uuid: '0d5f1160-fb80-44d5-bbee-5a3b71fd496f'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.798+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.979+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.596+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Vice President Sara Duterte also saluted Yulo’s hard work as it produced\
         \ the first Olympic gold medal of the Philippines in artistic gymnastics.\
         \ \r"
-    '6':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMayorIndaySaraDuterteOfficial%2Fposts%2Fpfbid03QD4yHRRSZjkXd4NiXVedw2LqC7Pn7pGarR3reFdMRKZ1cSn5iCR44roCdQaGtScl&show_text=true&width=500"
+    section6:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMayorIndaySaraDuterteOfficial%2Fposts%2Fpfbid03QD4yHRRSZjkXd4NiXVedw2LqC7Pn7pGarR3reFdMRKZ1cSn5iCR44roCdQaGtScl&show_text=true&width=500"
         width="500" height="674" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e031b393-2093-49bc-97f9-926d34583e6d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.798+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.979+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.596+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '7':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Mabuhay
+      primarytype: 'block'
+      uuid: 'e031b393-2093-49bc-97f9-926d34583e6d'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.798+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.979+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.596+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section7:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Mabuhay
         sa paglikha mo ng kasaysayan!<br><br>Kasama ng buong bayan, bumabati tayo
         kay Carlos Edriel Yulo sa pagkapanalo niya ng ginto sa Men&#39;s Floor Exercises
         sa 2024 Olympics sa Paris, Pransiya. <a href="https://t.co/OcyWmkTZkE">pic.twitter.com/OcyWmkTZkE</a></p>&mdash;
         National Historical Commission of the Philippines (@NHCPOfficial) <a href="https://twitter.com/NHCPOfficial/status/1819765869624590708?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a76c3694-5641-448e-8866-7095b054aac3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.799+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.980+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.597+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46850cfc-9ab8-4e73-9d25-355a11b1eb57'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.800+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.981+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.598+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Lupang Hinirang was played once again in the quadrennial showpiece.\
+      primarytype: 'block'
+      uuid: 'a76c3694-5641-448e-8866-7095b054aac3'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.799+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.980+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.597+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section8:
+      primarytype: 'block'
+      uuid: '46850cfc-9ab8-4e73-9d25-355a11b1eb57'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.800+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.981+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.598+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Lupang Hinirang was played once again in the quadrennial showpiece.\
         \ Yulo is the second Filipino Olympic gold medalist after Hidilyn Diaz’s weightlifting\
         \ victory at the Tokyo 2020 Olympics.\r"
-    '9':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CHAMPIONS
+    section9:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CHAMPIONS
         RECOGNIZE CHAMPIONS 🤝<br><br>Hidilyn Diaz, the Philippines&#39; first Olympic
         gold medalist, pens a heartfelt congratulatory message to Carlos Yulo after
         he captured the men&#39;s floor exercise gold in the <a href="https://twitter.com/hashtag/Paris2024?src=hash&amp;ref_src=twsrc%5Etfw">#Paris2024</a>
@@ -521,218 +521,218 @@
         NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1819940823850782828?ref_src=twsrc%5Etfw">August
         4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '403038a7-b11e-458d-97b7-aff19281294a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.800+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.981+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.598+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e22ca593-bf8b-4845-9a6a-4a5f20216b9b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.801+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.982+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.599+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "In an Instagram post, Diaz shared that she is proud of the 24-year-old\
+      primarytype: 'block'
+      uuid: '403038a7-b11e-458d-97b7-aff19281294a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.800+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.981+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.598+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section10:
+      primarytype: 'block'
+      uuid: 'e22ca593-bf8b-4845-9a6a-4a5f20216b9b'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.801+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.982+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.599+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "In an Instagram post, Diaz shared that she is proud of the 24-year-old\
         \ gymnast. \r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1da50c19-d0b8-41d7-9c32-f8cb9076835a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.801+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.983+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.600+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“I-enjoy mo ang bunga ng pinagpaguran mo,” she said. “At lagi mong\
+    section11:
+      primarytype: 'block'
+      uuid: '1da50c19-d0b8-41d7-9c32-f8cb9076835a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.801+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.983+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.600+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“I-enjoy mo ang bunga ng pinagpaguran mo,” she said. “At lagi mong\
         \ ibabalik - sa Diyos at bayan dahil lahat ng tagumpay natin ay hindi pansarili.”\
         \r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8b491ae-3fe0-4076-8709-0dd2f53f306a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.802+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.983+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.600+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: Enjoy the fruits of your labor. Always give it back to\
+    section12:
+      primarytype: 'block'
+      uuid: 'f8b491ae-3fe0-4076-8709-0dd2f53f306a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.802+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.983+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.600+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: Enjoy the fruits of your labor. Always give it back to\
         \ God and country because our triumphs are not only for us.]\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a65380f9-f9a1-431a-ba1f-e7dfe71bfaed'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.802+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.984+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.601+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Lawmakers and some envoys to Manila also expressed pride in Yulo’s\
+    section13:
+      primarytype: 'block'
+      uuid: 'a65380f9-f9a1-431a-ba1f-e7dfe71bfaed'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.802+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.984+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.601+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Lawmakers and some envoys to Manila also expressed pride in Yulo’s\
         \ historic win.\r"
-    '14':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FiamMartinRomualdez%2Fposts%2Fpfbid0sQjpLhu65jV8UJMBSLH3swYucsuffbX2AzBkQGL8nMgvk2hfLFG1nbth7unuMitKl&show_text=true&width=500"
+    section14:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FiamMartinRomualdez%2Fposts%2Fpfbid0sQjpLhu65jV8UJMBSLH3swYucsuffbX2AzBkQGL8nMgvk2hfLFG1nbth7unuMitKl&show_text=true&width=500"
         width="500" height="699" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ebf3ee38-8ae4-41fe-83af-cb53a5969757'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.803+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.985+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.602+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '15':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations
+      primarytype: 'block'
+      uuid: 'ebf3ee38-8ae4-41fe-83af-cb53a5969757'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.803+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.985+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.602+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section15:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations
         Carlos Edriel Yulo, for winning the Philippines’ first-ever gold medal in
         gymnastics at the Paris 2024 Olympics! You make the Filipinos proud! <a href="https://t.co/5DcoTM5OBh">pic.twitter.com/5DcoTM5OBh</a></p>&mdash;
         Senator Koko Pimentel (@senkokopimentel) <a href="https://twitter.com/senkokopimentel/status/1819757436779307051?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00460d90-c509-4d89-a75b-f8c780478747'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.803+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.985+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.603+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '16':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations
+      primarytype: 'block'
+      uuid: '00460d90-c509-4d89-a75b-f8c780478747'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.803+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.985+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.603+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section16:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations
         from 🇩🇪to Carlos Yuno and the 🇵🇭for the gold medal won today! What a wonderful
         achievement and an outstanding performance! <a href="https://twitter.com/hashtag/Paris2024?src=hash&amp;ref_src=twsrc%5Etfw">#Paris2024</a>
         <br>Simply amazing!!! <a href="https://t.co/2CfT1wPkYQ">https://t.co/2CfT1wPkYQ</a></p>&mdash;
         Ambassador Andreas Pfaffernoschke (@germanyinphl) <a href="https://twitter.com/germanyinphl/status/1819761310516797887?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a51b1b11-cca0-4834-a71c-3c92b4e0bb00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.804+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.986+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.603+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '17':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Loved
+      primarytype: 'block'
+      uuid: 'a51b1b11-cca0-4834-a71c-3c92b4e0bb00'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.804+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.986+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.603+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section17:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Loved
         watching this historic moment! Congratulations on winning GOLD at the <a href="https://twitter.com/hashtag/Paris2024?src=hash&amp;ref_src=twsrc%5Etfw">#Paris2024</a>
         <a href="https://twitter.com/hashtag/OlympicGames?src=hash&amp;ref_src=twsrc%5Etfw">#OlympicGames</a>
         ! 🥇🇵🇭❤️ <a href="https://t.co/95McrQ21mn">pic.twitter.com/95McrQ21mn</a></p>&mdash;
         Ambassador MaryKay L. Carlson (@USAmbPH) <a href="https://twitter.com/USAmbPH/status/1819739100435320924?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6e4f42df-abfc-489d-b1f3-7f65be82a104'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.805+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.987+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.604+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0292a330-8d0c-4e5b-9216-16fd65731a84'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.805+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.987+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.605+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Celebrities and other well-known personalities also flooded congratulatory
+      primarytype: 'block'
+      uuid: '6e4f42df-abfc-489d-b1f3-7f65be82a104'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.805+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.987+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.604+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section18:
+      primarytype: 'block'
+      uuid: '0292a330-8d0c-4e5b-9216-16fd65731a84'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.805+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.987+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.605+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Celebrities and other well-known personalities also flooded congratulatory
         comments on social media platforms, especially on <a href="https://www.instagram.com/p/C-NgJZ1IizT/">International
         Gymnastics Federation</a>’s accounts.</p>'
-    '43':
-      'image': 'jcr:52f43a0b-2cb0-442f-9811-ba62a28f3afd'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8460fb62-6f82-4d37-b28b-b79f652b3d91'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:09:04.645+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.988+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.605+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'image'
-    '20':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FVPLeniRobredoPH%2Fposts%2Fpfbid0v96PQaGJDhxhsm8UUKtPsFrxGut6553ECEEh8FHJaQuGwVyvYmmeEQNf3CJRpXLZl&show_text=true&width=500"
+    section43:
+      image: '52f43a0b-2cb0-442f-9811-ba62a28f3afd'
+      primarytype: 'block'
+      uuid: '8460fb62-6f82-4d37-b28b-b79f652b3d91'
+      activationstatus: true
+      created: 2024-08-04T15:09:04.645+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.988+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.605+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'image'
+    section20:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FVPLeniRobredoPH%2Fposts%2Fpfbid0v96PQaGJDhxhsm8UUKtPsFrxGut6553ECEEh8FHJaQuGwVyvYmmeEQNf3CJRpXLZl&show_text=true&width=500"
         width="500" height="592" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7ebea76-5265-40c2-ab56-159473002109'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.807+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.988+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.606+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '21':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Congratulations
+      primarytype: 'block'
+      uuid: 'a7ebea76-5265-40c2-ab56-159473002109'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.807+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.988+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.606+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section21:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="tl" dir="ltr">Congratulations
         Carlos Yulo for bagging the Gold in Men”s Floor Exercise!!!!!! Maraming salamat
         sa karangalang binigay mo sa Pilipinas! Pag-uwi mo dumeretso ka sa Vice Comedy
         Club libre ka na sa entrance may kasama pang nachos at bottomless iced tea!
         Chozzzz!!!!</p>&mdash; jose marie viceral (@vicegandako) <a href="https://twitter.com/vicegandako/status/1819744931998777380?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7d7c04ae-1569-4b0c-8b74-e7b7461f20d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.807+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.989+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.607+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a15f79a-da95-461b-8703-bcf683db4ba7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.808+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.990+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.607+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Filipino social media users also shared sentiments on the importance\
+      primarytype: 'block'
+      uuid: '7d7c04ae-1569-4b0c-8b74-e7b7461f20d4'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.807+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.989+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.607+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section22:
+      primarytype: 'block'
+      uuid: '9a15f79a-da95-461b-8703-bcf683db4ba7'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.808+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.990+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.607+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Filipino social media users also shared sentiments on the importance\
         \ of Yulo’s win. \r"
-    '23':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our first
+    section23:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our first
         gold is from a woman competing in weightlifting. Now, our second - a man in
         gymnastics.<br><br>The power that this message holds. Do not limit the opportunities
         for Filipino kids just because of gender stereotypes.<br><br>Mabuhay, Hidilyn
@@ -740,19 +740,19 @@
         (@vinceliban) <a href="https://twitter.com/vinceliban/status/1819740963109261374?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e940adf3-16fa-48cc-82df-df0adf381015'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.809+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.990+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.608+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '24':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hidilyn
+      primarytype: 'block'
+      uuid: 'e940adf3-16fa-48cc-82df-df0adf381015'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.809+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.990+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.608+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section24:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hidilyn
         Diaz and Carlos Yulo are great examples of why parents should support their
         kids in whatever sport they want to pursue. These outstanding athletes not
         only excel in breaking gender norms, but also achieve success and win medals.
@@ -762,375 +762,375 @@
         Tito Nim (@titonimmy) <a href="https://twitter.com/titonimmy/status/1819756992975478954?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0317378a-5b2d-40e1-8263-b73f8a44caa9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.809+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.991+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.609+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '25':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRealRazzieBinx%2Fposts%2Fpfbid02V2zd1BV2qRMhKChyAUYPvUiupkVmaLFMfscNkW95CCzvaooyCmqSTLpBAgDvDGy8l&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: '0317378a-5b2d-40e1-8263-b73f8a44caa9'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.809+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.991+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.609+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section25:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRealRazzieBinx%2Fposts%2Fpfbid02V2zd1BV2qRMhKChyAUYPvUiupkVmaLFMfscNkW95CCzvaooyCmqSTLpBAgDvDGy8l&show_text=true&width=500"
         width="500" height="635" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '73e5a74f-3931-44a2-afa9-798f6b1d387e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.810+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.992+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.609+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '42':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartoonistzach%2Fposts%2Fpfbid041p1mMTx6E4N3GUffg9RfTw95TLrXZYXZRHF4FGQz3d2HBAbHmnavpLnEpths9gKl&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: '73e5a74f-3931-44a2-afa9-798f6b1d387e'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.810+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.992+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.609+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section42:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcartoonistzach%2Fposts%2Fpfbid041p1mMTx6E4N3GUffg9RfTw95TLrXZYXZRHF4FGQz3d2HBAbHmnavpLnEpths9gKl&show_text=true&width=500"
         width="500" height="412" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7678bb51-4abd-4d88-9cfd-ff6ef74f54f0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:01:12.831+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.992+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.610+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7f621972-cacc-4ecd-a0be-fc97e2a7bc6a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.811+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.993+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.611+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\r"
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '576b9148-9c4b-4c50-8a50-aef97128d924'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.812+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.994+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.611+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Brands also celebrated Yulo</strong></h2>'
-    '29':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ab2cf6a3-934d-4d69-ada7-c90694e8be33'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.813+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.994+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.612+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Various brands joined the chorus of congratulations, honoring Yulo’s
+      primarytype: 'block'
+      uuid: '7678bb51-4abd-4d88-9cfd-ff6ef74f54f0'
+      activationstatus: true
+      created: 2024-08-04T15:01:12.831+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.992+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.610+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section27:
+      primarytype: 'block'
+      uuid: '7f621972-cacc-4ecd-a0be-fc97e2a7bc6a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.811+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.993+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.611+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\r"
+    section28:
+      primarytype: 'block'
+      uuid: '576b9148-9c4b-4c50-8a50-aef97128d924'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.812+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.994+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.611+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Brands also celebrated Yulo</strong></h2>'
+    section29:
+      primarytype: 'block'
+      uuid: 'ab2cf6a3-934d-4d69-ada7-c90694e8be33'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.813+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.994+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.612+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Various brands joined the chorus of congratulations, honoring Yulo’s
         golden victory.</p>'
-    '30':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e411410-db35-492a-a51a-60455888d183'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.813+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.995+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.613+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Among them, Purefoods TJ Hotdog posted on Facebook, Instagram and Twitter\
+    section30:
+      primarytype: 'block'
+      uuid: '4e411410-db35-492a-a51a-60455888d183'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.813+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.995+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.613+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Among them, Purefoods TJ Hotdog posted on Facebook, Instagram and Twitter\
         \ prominently displays the message \"No. 1 Ka Sa Amin, Carlos Yulo!\" against\
         \ a dynamic backdrop, emphasizing the national pride and joy felt by Filipinos\
         \ worldwide.\r"
-    '44':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTenderJuicyHotdogs%2Fposts%2Fpfbid0Ac3fah39PEC8DnfaGc7nndFx4WbnNPvkaCPt5uCHhbXi7DysCrdnZnnNfbxy47kml&show_text=true&width=500"
+    section44:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTenderJuicyHotdogs%2Fposts%2Fpfbid0Ac3fah39PEC8DnfaGc7nndFx4WbnNPvkaCPt5uCHhbXi7DysCrdnZnnNfbxy47kml&show_text=true&width=500"
         width="500" height="673" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '148e76ae-c2c5-4d64-a9cf-511e6453d416'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:19:54.159+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.996+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.614+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '31':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12d9821b-af60-41a1-9410-05d3d6a7cf03'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.814+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.996+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.614+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Nutri Chunks Dog Food also celebrated Carlos Yulo’s gold medal
+      primarytype: 'block'
+      uuid: '148e76ae-c2c5-4d64-a9cf-511e6453d416'
+      activationstatus: true
+      created: 2024-08-04T15:19:54.159+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.996+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.614+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section31:
+      primarytype: 'block'
+      uuid: '12d9821b-af60-41a1-9410-05d3d6a7cf03'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.814+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.996+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.614+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Nutri Chunks Dog Food also celebrated Carlos Yulo’s gold medal
         victory on Facebook and Instagram with a vibrant and eye-catching post featuring
         a congratulatory message that reads "PAWerful Performance! Congratulations!"
         emphasizing the play on words to tie in with the pet food brand.</p>'
-    '45':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnutrichunksph%2Fposts%2Fpfbid02dUh7VwiTeQ5P4uDVv7jpXFREcRW5bFdtYABr6jzG4SmjEKC4aSs76GzwbuYcyWyol&show_text=true&width=500"
+    section45:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnutrichunksph%2Fposts%2Fpfbid02dUh7VwiTeQ5P4uDVv7jpXFREcRW5bFdtYABr6jzG4SmjEKC4aSs76GzwbuYcyWyol&show_text=true&width=500"
         width="500" height="712" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5ee4b09c-6381-4567-a7eb-2a388878fa66'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:19:54.161+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.997+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.615+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '32':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ce0743ca-1af3-41e9-bef8-554c52413149'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.815+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.997+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.616+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "For McDonald’s it means depicting Yulo’s triumphant stance and seamlessly\
+      primarytype: 'block'
+      uuid: '5ee4b09c-6381-4567-a7eb-2a388878fa66'
+      activationstatus: true
+      created: 2024-08-04T15:19:54.161+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.997+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.615+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section32:
+      primarytype: 'block'
+      uuid: 'ce0743ca-1af3-41e9-bef8-554c52413149'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.815+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.997+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.616+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "For McDonald’s it means depicting Yulo’s triumphant stance and seamlessly\
         \ integrated with the iconic Golden Arches of McDonald’s.\r"
-    '46':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Golden.
+    section46:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Golden.
         <a href="https://t.co/HHpGjSCyBP">pic.twitter.com/HHpGjSCyBP</a></p>&mdash;
         McDo Philippines (@McDo_PH) <a href="https://twitter.com/McDo_PH/status/1819763267885314261?ref_src=twsrc%5Etfw">August
         3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c3bd900-fc95-49d5-a356-0ff6ab1f279e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:19:54.162+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.998+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.616+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '33':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f507b3d-53e2-4725-a9b8-afbe323ec1d6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.815+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.999+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.617+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With the nation’s unwavering support behind him, Carlos Yulo’s future\
+      primarytype: 'block'
+      uuid: '8c3bd900-fc95-49d5-a356-0ff6ab1f279e'
+      activationstatus: true
+      created: 2024-08-04T15:19:54.162+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.998+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.616+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section33:
+      primarytype: 'block'
+      uuid: '6f507b3d-53e2-4725-a9b8-afbe323ec1d6'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.815+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.999+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.617+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With the nation’s unwavering support behind him, Carlos Yulo’s future\
         \ in gymnastics looks brighter than ever. His achievements serve as a reminder\
         \ of the power of hard work, determination, and the incredible potential of\
         \ Filipino athletes.\r"
-    '34':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8b194df-94c3-4ebd-ae8f-960bc58f6d84'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.816+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:18.999+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.618+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Another post also on Facebook showed an outline image of Yulo triumphantly\
+    section34:
+      primarytype: 'block'
+      uuid: 'b8b194df-94c3-4ebd-ae8f-960bc58f6d84'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.816+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:18.999+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.618+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Another post also on Facebook showed an outline image of Yulo triumphantly\
         \ standing on a golden yellow can of Star Corned Beef. It’s a striking visual\
         \ that pays homage to Yulo’s outstanding achievement, symbolizing his golden\
         \ victory.\r"
-    '47':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSTARNutriMeats%2Fposts%2Fpfbid02KY2ekir3DG9JH2a5Zx6DcpnKzpDjveePx1tnXnNXgkj8gosio7qFvTY8uNt9KfKRl&show_text=true&width=500"
+    section47:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSTARNutriMeats%2Fposts%2Fpfbid02KY2ekir3DG9JH2a5Zx6DcpnKzpDjveePx1tnXnNXgkj8gosio7qFvTY8uNt9KfKRl&show_text=true&width=500"
         width="500" height="693" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a65f0abd-82c1-4707-9465-c03faa8d16d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T15:28:09.550+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.000+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.550+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '35':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fd511e08-70f8-413a-b0ef-02eb1982a56d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.817+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.001+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.619+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Check out other congratulatory posts here:</p>'
-    '36':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAlagangBMEGAlagangSanMiguel%2Fposts%2Fpfbid08oeBcwWbs9UuBZg7vPZJhVZA1dDRFwSGKSJ33uC1kc8wg4N81dbknPMftcq3gFBUl&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: 'a65f0abd-82c1-4707-9465-c03faa8d16d7'
+      activationstatus: true
+      created: 2024-08-04T15:28:09.550+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.000+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.550+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section35:
+      primarytype: 'block'
+      uuid: 'fd511e08-70f8-413a-b0ef-02eb1982a56d'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.817+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.001+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.619+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Check out other congratulatory posts here:</p>'
+    section36:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAlagangBMEGAlagangSanMiguel%2Fposts%2Fpfbid08oeBcwWbs9UuBZg7vPZJhVZA1dDRFwSGKSJ33uC1kc8wg4N81dbknPMftcq3gFBUl&show_text=true&width=500"
         width="500" height="712" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '24315cc7-bc55-40d1-8ecb-099c1c5a2d31'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.817+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.001+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.620+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '37':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmilo.ph%2Fposts%2Fpfbid035mvMkQLuFZZ8fCp7UDhkwrXPBUUuSmWAkoDZwEkXoxmH5jVLUsyc1fdy5G8JNma6l&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: '24315cc7-bc55-40d1-8ecb-099c1c5a2d31'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.817+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.001+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.620+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section37:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmilo.ph%2Fposts%2Fpfbid035mvMkQLuFZZ8fCp7UDhkwrXPBUUuSmWAkoDZwEkXoxmH5jVLUsyc1fdy5G8JNma6l&show_text=true&width=500"
         width="500" height="629" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c2b3f28a-4ce9-4b77-b494-14ce664d258b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.818+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.002+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.620+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '38':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJollibeePhilippines%2Fposts%2Fpfbid026afT4NGc2cB4Cfmgdgpm3qnr3fbms4fm9B4GyEtj1pmeJ6JubyaLYsdsecrQiVFal&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: 'c2b3f28a-4ce9-4b77-b494-14ce664d258b'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.818+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.002+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.620+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section38:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJollibeePhilippines%2Fposts%2Fpfbid026afT4NGc2cB4Cfmgdgpm3qnr3fbms4fm9B4GyEtj1pmeJ6JubyaLYsdsecrQiVFal&show_text=true&width=500"
         width="500" height="609" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5257dced-7c45-43cb-9923-7b46ba45b85f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.819+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.003+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.621+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '39':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRCBCGroup%2Fposts%2Fpfbid0QVMxPATFBTKpD8kEqsWjBSivHKTEepGviboBBUT6qAFhJykCDQHjFe8nPT3yjPKhl&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: '5257dced-7c45-43cb-9923-7b46ba45b85f'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.819+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.003+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.621+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section39:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRCBCGroup%2Fposts%2Fpfbid0QVMxPATFBTKpD8kEqsWjBSivHKTEepGviboBBUT6qAFhJykCDQHjFe8nPT3yjPKhl&show_text=true&width=500"
         width="500" height="654" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e326758f-a0d9-458b-9ddf-1a2506243b0a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.820+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.003+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.622+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '40':
-      'contentWidth': '100%'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBDOUnibank%2Fposts%2Fpfbid0319UvpFCsKWUNj9hoZFjDRxWbDh19y6qY4LtBpZSw8asbtxpE1VS7MLFoocNRSG7il&show_text=true&width=500"
+      primarytype: 'block'
+      uuid: 'e326758f-a0d9-458b-9ddf-1a2506243b0a'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.820+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.003+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.622+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section40:
+      contentwidth: '100%'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBDOUnibank%2Fposts%2Fpfbid0319UvpFCsKWUNj9hoZFjDRxWbDh19y6qY4LtBpZSw8asbtxpE1VS7MLFoocNRSG7il&show_text=true&width=500"
         width="500" height="699" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9eedb318-ccc7-4066-9c89-57de1e3e9b71'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.821+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.004+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.622+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '41':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You erased
+      primarytype: 'block'
+      uuid: '9eedb318-ccc7-4066-9c89-57de1e3e9b71'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.821+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.004+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.622+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section41:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You erased
         all mistakes from your routine and made history as the first male Filipino
         athlete to bring home the gold. 🏅<br><br>National Book Store joins every
         Filipino in saying: Congratulations, Carlos Yulo! ❤️ <a href="https://t.co/cNwramkP7H">pic.twitter.com/cNwramkP7H</a></p>&mdash;
         National Book Store (@nbsalert) <a href="https://twitter.com/nbsalert/status/1819947544123974065?ref_src=twsrc%5Etfw">August
         4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bb0d3605-291e-432f-a486-e557b6db3874'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T14:26:33.822+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:19.004+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T15:28:09.623+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-  'carlos-yulo-father-paris-olympic-gold':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T16:27:42.000+08:00
-    'imagesource': 'jcr:670ff7eb-5c61-4d7e-ac0f-975a8aeea493'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '897a52af-626d-4758-8001-a73610324559'
-    'lead': 'Mark Yulo, the father of Filipino gymnast Carlos Yulo, shares the nation’s
+      primarytype: 'block'
+      uuid: 'bb0d3605-291e-432f-a486-e557b6db3874'
+      activationstatus: true
+      created: 2024-08-04T14:26:33.822+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:19.004+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T15:28:09.623+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+  'START HERE----->carlos-yulo-father-paris-olympic-gold':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T16:27:42.000+08:00
+    imagesource: '670ff7eb-5c61-4d7e-ac0f-975a8aeea493'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '897a52af-626d-4758-8001-a73610324559'
+    lead: 'Mark Yulo, the father of Filipino gymnast Carlos Yulo, shares the nation’s
       pride in his son’s historic gold medal finish at the Paris 2024 Olympics.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T16:40:29.252+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:17.361+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:04.050+08:00
-    'mgnl:lastModified': 2024-08-04T16:40:29.495+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Carlos-Yulo', 'Paris-2024-Olympics']
-    'stories': []
-    'template': '1'
-    'title': 'Carlos Yulo’s father on Olympic gold: Dugo’t pawis ‘yong pinaghirapan
+    activationstatus: true
+    created: 2024-08-04T16:40:29.252+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:17.361+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:00:04.050+08:00
+    lastmodified: 2024-08-04T16:40:29.495+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Carlos Yulo’s father on Olympic gold: Dugo’t pawis ‘yong pinaghirapan
       ni Caloy'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be8efc93-f09a-4f35-89ce-e1f9755b43a4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.475+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.363+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.489+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Mark Yulo, the father
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'be8efc93-f09a-4f35-89ce-e1f9755b43a4'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.475+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.363+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.489+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Mark Yulo, the father
         of Filipino gymnast Carlos Yulo, shares the nation’s pride in his son’s
         historic gold medal finish at the Paris 2024 Olympics.</p>'
-    '1':
-      'contentWidth': 'fit-content'
-      'embedCode': '<blockquote class="twitter-tweet" data-media-max-width="560"><p
+    section1:
+      contentwidth: 'fit-content'
+      embedcode: '<blockquote class="twitter-tweet" data-media-max-width="560"><p
         lang="tl" dir="ltr">WATCH: Mark Yulo, the father of Olympic gold medalist
         Carlos Yulo, reacts to his son&#39;s victory in the 2024 Paris Olympics <br><br>In
         a contributed video, Mark says Carlos worked hard to perfect his routine.
@@ -1139,1041 +1139,1041 @@
         NewsWatch Plus PH (@newswatchplusph) <a href="https://twitter.com/newswatchplusph/status/1819999178128535770?ref_src=twsrc%5Etfw">August
         4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
         charset="utf-8"></script>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '90ee1e40-b9ed-4837-80bf-6887a6d5fd04'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.476+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.364+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.476+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49b30ce9-9158-4c21-a686-9ad93e402a14'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.476+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.365+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.476+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The 24-year-old athlete from Manila, fondly called Caloy, emerged on\
+      primarytype: 'block'
+      uuid: '90ee1e40-b9ed-4837-80bf-6887a6d5fd04'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.476+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.364+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.476+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section2:
+      primarytype: 'block'
+      uuid: '49b30ce9-9158-4c21-a686-9ad93e402a14'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.476+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.365+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.476+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The 24-year-old athlete from Manila, fondly called Caloy, emerged on\
         \ top in the floor exercise final at the Bercy Arena on Saturday, Aug. 3.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ec9acfa2-10e2-4e96-a1f4-c92fd8901bab'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.476+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.365+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.476+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Masaya kasi matagal na panahon ‘yang inaano ni Caloy, nire-ready,”\
+    section3:
+      primarytype: 'block'
+      uuid: 'ec9acfa2-10e2-4e96-a1f4-c92fd8901bab'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.476+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.365+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.476+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Masaya kasi matagal na panahon ‘yang inaano ni Caloy, nire-ready,”\
         \ Mark said in a video. \r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd0e985ed-4880-4750-9ad8-4dddfafabce7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.477+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.366+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.477+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Kasi simula nong 2020 Japan Olympics, four years niyang tiniis ‘yan.\
+    section4:
+      primarytype: 'block'
+      uuid: 'd0e985ed-4880-4750-9ad8-4dddfafabce7'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.477+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.366+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.477+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Kasi simula nong 2020 Japan Olympics, four years niyang tiniis ‘yan.\
         \ Talagang pinagpaguran ng bata,” he said.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dfc45922-ece2-414c-ab7f-dc357489d781'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.477+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.367+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.477+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: I’m happy because Caloy got ready for a long time. Since\
+    section5:
+      primarytype: 'block'
+      uuid: 'dfc45922-ece2-414c-ab7f-dc357489d781'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.477+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.367+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.477+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: I’m happy because Caloy got ready for a long time. Since\
         \ the 2020 Japan Olympics, he endured four years of training. He really did\
         \ the work.]\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'ff1a32ee-5c74-4178-886f-dea674cb8cdf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.478+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.367+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.478+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Four years ago, Yulo had a shocking Tokyo Olympiad qualification in\
+    section6:
+      primarytype: 'block'
+      uuid: 'ff1a32ee-5c74-4178-886f-dea674cb8cdf'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.478+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.367+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.478+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Four years ago, Yulo had a shocking Tokyo Olympiad qualification in\
         \ the floor exercise as he fell in his tumbling pass. He only proceeded to\
         \ the vault final where he settled for fourth place. \r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2eca6726-7bc0-479a-9bc2-5a9a80f0cc06'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.478+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.368+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.478+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "But after that, he showed his strength and determination, continuously\
+    section7:
+      primarytype: 'block'
+      uuid: '2eca6726-7bc0-479a-9bc2-5a9a80f0cc06'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.478+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.368+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.478+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "But after that, he showed his strength and determination, continuously\
         \ bagging medals in various meets, until he qualified for the Paris Games.\
         \ \r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f620ccaf-4096-4c0e-92be-a7aca1f08c38'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.478+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.369+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.478+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Deserve niya ‘yan. Dugo at pawis ‘yong pinaghirapan ni Caloy diyan,\
+    section8:
+      primarytype: 'block'
+      uuid: 'f620ccaf-4096-4c0e-92be-a7aca1f08c38'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.478+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.369+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.478+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Deserve niya ‘yan. Dugo at pawis ‘yong pinaghirapan ni Caloy diyan,\
         \ talagang gustong-gusto niya makuha ‘yan,” his father said.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aac0790e-1523-46db-9285-894309a5e41a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.479+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.369+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.479+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: He deserved it. Caloy worked hard with his blood and\
+    section9:
+      primarytype: 'block'
+      uuid: 'aac0790e-1523-46db-9285-894309a5e41a'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.479+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.369+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.479+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: He deserved it. Caloy worked hard with his blood and\
         \ sweat because he really wants it.]\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d87f5b6-91bb-48d3-b236-ccebff7e1c25'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.479+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.370+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.479+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "With his solid 15-point floor routine in France, Yulo became the second\
+    section10:
+      primarytype: 'block'
+      uuid: '2d87f5b6-91bb-48d3-b236-ccebff7e1c25'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.479+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.370+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.479+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "With his solid 15-point floor routine in France, Yulo became the second\
         \ Olympic gold medalist from the Philippines. He also delivered the country’\
         s first medal in the Paris Olympics campaign. \r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '07718fb9-4ed8-48f1-a65f-e76374517135'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.480+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.371+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.480+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Masaya po, thank God po. Laban, Pilipinas!” the patriarch said.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a29caf0e-2f1c-44df-96a6-67186f52eddc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.480+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.371+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.480+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "[Translation: I'm really happy. Thank God. Fight, Philippines!]\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5bfeddb1-1e74-4b37-944c-6f4f33a5e1b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.481+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.372+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.481+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Yulo has a chance to clinch another medal in the vault final on Sunday.\r"
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8a00e32f-9e8a-4017-82f8-b7bb5b0bd8a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.481+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.372+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.481+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Nesthy Petecio will be fighting in the quarterfinals of the women’\
+    section11:
+      primarytype: 'block'
+      uuid: '07718fb9-4ed8-48f1-a65f-e76374517135'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.480+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.371+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.480+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Masaya po, thank God po. Laban, Pilipinas!” the patriarch said.\r"
+    section12:
+      primarytype: 'block'
+      uuid: 'a29caf0e-2f1c-44df-96a6-67186f52eddc'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.480+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.371+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.480+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "[Translation: I'm really happy. Thank God. Fight, Philippines!]\r"
+    section13:
+      primarytype: 'block'
+      uuid: '5bfeddb1-1e74-4b37-944c-6f4f33a5e1b5'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.481+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.372+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.481+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Yulo has a chance to clinch another medal in the vault final on Sunday.\r"
+    section14:
+      primarytype: 'block'
+      uuid: '8a00e32f-9e8a-4017-82f8-b7bb5b0bd8a0'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.481+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.372+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.481+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Nesthy Petecio will be fighting in the quarterfinals of the women’\
         s 57-kilogram boxing event also on Sunday. If she wins, she follows Aira Villegas\
         \ (women’s 50-kg weight class) in having a guaranteed bronze medal.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be2f6671-1d00-41c6-aac3-e50f8b6c3c86'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T16:40:29.482+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:17.373+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T16:40:29.482+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Pole vaulter EJ Obiena, another medal bet, also obtained a finals
+    section15:
+      primarytype: 'block'
+      uuid: 'be2f6671-1d00-41c6-aac3-e50f8b6c3c86'
+      activationstatus: true
+      created: 2024-08-04T16:40:29.482+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:17.373+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T16:40:29.482+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p>Pole vaulter EJ Obiena, another medal bet, also obtained a finals
         berth.</p>'
-  'israeli-strikes-central-gaza':
-    'author': 'Nidal al-Mughrabi, Reuters'
-    'caption': 'A Palestinian woman inspects the site of an Israeli strike on a house,
+  'START HERE----->israeli-strikes-central-gaza':
+    author: 'Nidal al-Mughrabi, Reuters'
+    caption: 'A Palestinian woman inspects the site of an Israeli strike on a house,
       amid the Israel-Hamas conflict, in Deir Al-Balah in the central Gaza Strip,
       August 4, 2024. (Reuters/Ramadan Abed)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T19:37:49.000+08:00
-    'imagesource': 'jcr:d5715c8d-ce2a-46e5-a07b-3e50d16287ac'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '6c5f0a78-86d4-4557-90a5-e7c7d3ec7651'
-    'lead': 'An Israeli airstrike hit a tent inside a hospital compound in central
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T19:37:49.000+08:00
+    imagesource: 'd5715c8d-ce2a-46e5-a07b-3e50d16287ac'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '6c5f0a78-86d4-4557-90a5-e7c7d3ec7651'
+    lead: 'An Israeli airstrike hit a tent inside a hospital compound in central
       Gaza, killing at least five people, bringing the total of Palestinians killed
       on Sunday to 19, Gaza health officials said, after another round of talks ended
       without result.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T19:41:40.466+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:16.612+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:04.298+08:00
-    'mgnl:lastModified': 2024-08-04T19:41:40.558+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Gaza', 'Global-Watch', 'Israel']
-    'stories': []
-    'template': '1'
-    'title': 'Israeli strikes kill five at hospital, Gaza officials say, after abortive
+    activationstatus: true
+    created: 2024-08-04T19:41:40.466+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:16.612+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:00:04.298+08:00
+    lastmodified: 2024-08-04T19:41:40.558+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Israeli strikes kill five at hospital, Gaza officials say, after abortive
       talks'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32b9d7fc-89a9-4698-92bc-a32b53dfe15f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.527+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.615+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.548+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>CAIRO, Aug 4 (Reuters) —</strong> An Israeli airstrike hit
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '32b9d7fc-89a9-4698-92bc-a32b53dfe15f'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.527+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.615+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.548+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>CAIRO, Aug 4 (Reuters) —</strong> An Israeli airstrike hit
         a tent inside a hospital compound in central Gaza, killing at least five people,
         bringing the total of Palestinians killed on Sunday to 19, Gaza health officials
         said, after another round of talks ended without result.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37b5c111-1c78-4c99-86e6-503192e1dab3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.528+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.615+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.528+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The airstrike hit a tent area inside the Al-Aqsa Hospital compound,\
+    section1:
+      primarytype: 'block'
+      uuid: '37b5c111-1c78-4c99-86e6-503192e1dab3'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.528+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.615+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.528+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The airstrike hit a tent area inside the Al-Aqsa Hospital compound,\
         \ starting a fire, and wounding at least 18 people in addition to the five\
         \ killed, medical authorities said.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2d546264-cd2c-4b06-a96f-d67ec9553580'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.528+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.616+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.528+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The Israeli military said it struck a militant who \"conducted terror\
+    section2:
+      primarytype: 'block'
+      uuid: '2d546264-cd2c-4b06-a96f-d67ec9553580'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.528+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.616+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.528+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The Israeli military said it struck a militant who \"conducted terror\
         \ activities\" and that secondary explosions were identified, indicating weapons\
         \ were present in the area.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6c0c45b3-a11a-447c-9116-6e73a8825b70'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.528+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.617+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.528+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Its statement added it struck 50 military targets across the enclave\
+    section3:
+      primarytype: 'block'
+      uuid: '6c0c45b3-a11a-447c-9116-6e73a8825b70'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.528+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.617+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.528+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Its statement added it struck 50 military targets across the enclave\
         \ in the last 24 hours, including militants' cells.\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7bc97968-3fbf-4822-9da2-25e8316b2262'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.529+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.617+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.529+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The hospital compound is in the Deir Al-Balah area, which is crowded\
+    section4:
+      primarytype: 'block'
+      uuid: '7bc97968-3fbf-4822-9da2-25e8316b2262'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.529+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.617+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.529+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The hospital compound is in the Deir Al-Balah area, which is crowded\
         \ with thousands of people displaced by fighting in other parts of the enclave.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cba8aa0d-2c9a-45c1-af34-c068d8ada164'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.529+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.618+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.529+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Elsewhere in Deir Al-Balah, three Palestinians were killed when an\
+    section5:
+      primarytype: 'block'
+      uuid: 'cba8aa0d-2c9a-45c1-af34-c068d8ada164'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.529+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.618+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.529+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Elsewhere in Deir Al-Balah, three Palestinians were killed when an\
         \ Israeli missile struck a house, while eight other people were killed inside\
         \ their home in Jabalia camp in northern Gaza City and three inside a car\
         \ in separate Israeli strikes.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a01d63a7-caff-42fe-8c86-31a870b8babf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.529+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.619+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.529+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Reuters footage showed Palestinians trying to tackle the fire that\
+    section6:
+      primarytype: 'block'
+      uuid: 'a01d63a7-caff-42fe-8c86-31a870b8babf'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.529+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.619+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.529+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Reuters footage showed Palestinians trying to tackle the fire that\
         \ broke out in the tent encampment with water and small fire extinguishers.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '50a91d9d-e212-446b-8c6e-62c894b77acc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.530+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.530+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Israeli forces have continued strikes and shelling in the Gaza Strip\
+    section7:
+      primarytype: 'block'
+      uuid: '50a91d9d-e212-446b-8c6e-62c894b77acc'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.530+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.530+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Israeli forces have continued strikes and shelling in the Gaza Strip\
         \ after diplomatic efforts in Cairo on Saturday ended without progress, and\
         \ as Israel braces for a serious escalation in the north.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5791af1b-8bca-4f69-968b-c3bd62f6066f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.530+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.620+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.530+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Sirens went off in the area of Ashdod, further north than seen in recent\
+    section8:
+      primarytype: 'block'
+      uuid: '5791af1b-8bca-4f69-968b-c3bd62f6066f'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.530+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.620+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.530+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Sirens went off in the area of Ashdod, further north than seen in recent\
         \ weeks, and the Israeli military said five rockets were launched from southern\
         \ Gaza. No injuries were reported.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '74046993-943d-42e7-91b1-707226b05982'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.531+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.621+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.531+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The chances of a breakthrough appear slim as regional tension has soared\
+    section9:
+      primarytype: 'block'
+      uuid: '74046993-943d-42e7-91b1-707226b05982'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.531+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.621+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.531+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The chances of a breakthrough appear slim as regional tension has soared\
         \ following the assassination of Hamas' leader Ismail Haniyeh in Tehran on\
         \ Wednesday, a day after an Israeli strike in Beirut killed Fuad Shukr, a\
         \ top military commander from Lebanese armed group Hezbollah.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5418b3ae-8dfe-4411-ab54-b8a929ccd32a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.531+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.622+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.531+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Haniyeh’s death was one in a series of killings of senior Hamas figures\
+    section10:
+      primarytype: 'block'
+      uuid: '5418b3ae-8dfe-4411-ab54-b8a929ccd32a'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.531+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.622+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.531+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Haniyeh’s death was one in a series of killings of senior Hamas figures\
         \ as the Gaza war nears its 11th month.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5654c193-805e-4b94-b5ff-b660c76f069f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.532+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.623+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.532+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas and Iran have both accused Israel of carrying out the assassination\
+    section11:
+      primarytype: 'block'
+      uuid: '5654c193-805e-4b94-b5ff-b660c76f069f'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.532+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.623+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.532+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas and Iran have both accused Israel of carrying out the assassination\
         \ of Haniyeh and have pledged to retaliate. Israel has neither claimed nor\
         \ denied responsibility for the death.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '464fc705-b684-43fb-826d-54b78aea1c8a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.532+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.623+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.532+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hezbollah, like Hamas, is backed by Iran and has also vowed revenge\
+    section12:
+      primarytype: 'block'
+      uuid: '464fc705-b684-43fb-826d-54b78aea1c8a'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.532+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.623+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.532+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hezbollah, like Hamas, is backed by Iran and has also vowed revenge\
         \ after the killing of Shukr.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'abd36593-a0a0-45c4-a85a-f5523aac60ff'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.533+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.624+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.533+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Two sides far apart</strong></h2>'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0e59c53-f5bf-4d70-a68c-9b7ec3c7d80f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.533+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.625+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.533+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "International pressure has mounted on Israel to agree a ceasefire with\
+    section13:
+      primarytype: 'block'
+      uuid: 'abd36593-a0a0-45c4-a85a-f5523aac60ff'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.533+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.624+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.533+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<h2><strong>Two sides far apart</strong></h2>'
+    section14:
+      primarytype: 'block'
+      uuid: 'a0e59c53-f5bf-4d70-a68c-9b7ec3c7d80f'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.533+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.625+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.533+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "International pressure has mounted on Israel to agree a ceasefire with\
         \ Hamas to end the fighting and ensure the return of 115 Israeli and foreign\
         \ hostages abducted during the Oct. 7 attack on Israel that unleashed months\
         \ of violence and still held in Gaza.\r"
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b4eb4cf1-0dcd-4576-b0aa-f557f8ee49f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.534+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.626+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.534+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "At least 39,550 Palestinians have been killed in the Israeli military\
+    section15:
+      primarytype: 'block'
+      uuid: 'b4eb4cf1-0dcd-4576-b0aa-f557f8ee49f1'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.534+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.626+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.534+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "At least 39,550 Palestinians have been killed in the Israeli military\
         \ campaign in Gaza, according to Gaza health officials.\r"
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5a744fc9-ea5e-470b-8adb-bb203531d2f7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.534+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.626+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.534+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "A high-level Israeli delegation arrived in Cairo on Saturday for an\
+    section16:
+      primarytype: 'block'
+      uuid: '5a744fc9-ea5e-470b-8adb-bb203531d2f7'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.534+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.626+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.534+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "A high-level Israeli delegation arrived in Cairo on Saturday for an\
         \ attempt to resume Gaza ceasefire negotiations, but returned home later in\
         \ the day, Egyptian airport authority and Israeli media said.\r"
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cc3711c8-b87b-4f24-b3ce-0fb726e072cc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.535+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.627+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.535+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "On Sunday, Israel’s Prime Minister Benjamin Netanyahu said in a statement\
+    section17:
+      primarytype: 'block'
+      uuid: 'cc3711c8-b87b-4f24-b3ce-0fb726e072cc'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.535+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.627+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.535+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "On Sunday, Israel’s Prime Minister Benjamin Netanyahu said in a statement\
         \ Hamas had yet to agree to the terms of a proposed outline for a ceasefire\
         \ and hostage release deal.\r"
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b604c08c-6f9b-4c68-a690-8bfff302b394'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.535+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.628+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.535+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He said disagreement remained over Israel’s insistence on being able\
+    section18:
+      primarytype: 'block'
+      uuid: 'b604c08c-6f9b-4c68-a690-8bfff302b394'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.535+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.628+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.535+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He said disagreement remained over Israel’s insistence on being able\
         \ to return to fighting if needed, on Israel retaining control of the Rafah\
         \ crossing and Philadelphi corridor along the Egypt-Gaza border, and on the\
         \ need for a mechanism to check for and prevent weapons and militants from\
         \ returning to northern Gaza.\r"
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '468dfe25-75eb-4793-ad54-e58f81eda479'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.536+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.628+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.536+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Hamas has blamed Netanyahu for the lack of progress, saying he is not\
+    section19:
+      primarytype: 'block'
+      uuid: '468dfe25-75eb-4793-ad54-e58f81eda479'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.536+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.628+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.536+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Hamas has blamed Netanyahu for the lack of progress, saying he is not\
         \ interested in agreement.\r"
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0a213f7a-3be8-44a3-9674-896caa9dbf87'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.536+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.629+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.536+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Things about the agreement have gone beyond the details,\" Hamas\
+    section20:
+      primarytype: 'block'
+      uuid: '0a213f7a-3be8-44a3-9674-896caa9dbf87'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.536+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.629+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.536+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Things about the agreement have gone beyond the details,\" Hamas\
         \ official Sami Abu Zuhri said. \"Netanyahu is dragging the region into an\
         \ unprecedented clash.\"\r"
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e81fafee-27de-40eb-82a7-9c2037dabd4f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.537+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.630+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.537+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The families of many of the hostages, as well as Hamas and Netanyahu’s\
+    section21:
+      primarytype: 'block'
+      uuid: 'e81fafee-27de-40eb-82a7-9c2037dabd4f'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.537+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.630+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.537+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The families of many of the hostages, as well as Hamas and Netanyahu’s\
         \ other political opponents, have accused him of blocking a deal for his own\
         \ political purposes.\r"
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12496a3a-51cd-48b3-9238-bcfb40cd6cf5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.537+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.631+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.537+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Biden used unusually angry words in a telephone conversation on Thursday\
+    section22:
+      primarytype: 'block'
+      uuid: '12496a3a-51cd-48b3-9238-bcfb40cd6cf5'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.537+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.631+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.537+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Biden used unusually angry words in a telephone conversation on Thursday\
         \ night, as he pushed Netanyahu to reach an agreement, Israeli media reported.\r"
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a4ca96fb-b658-43d4-8327-d3ec905cfe9a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.538+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.631+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.538+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "A Palestinian official with close knowledge of Saturday’s talks said\
+    section23:
+      primarytype: 'block'
+      uuid: 'a4ca96fb-b658-43d4-8327-d3ec905cfe9a'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.538+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.631+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.538+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "A Palestinian official with close knowledge of Saturday’s talks said\
         \ the threatened response to the assassination of Hamas and Hizbollah leaders\
         \ and the process to replace Haniyeh meant it was unlikely diplomatic efforts\
         \ could resume soon.\r"
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e0a85571-1c02-4273-b70e-5fdddb926fc3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:41:40.538+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:16.631+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:41:40.538+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em><strong>(Reporting by Nidal al-Mughrabi. Additional reporting
+    section24:
+      primarytype: 'block'
+      uuid: 'e0a85571-1c02-4273-b70e-5fdddb926fc3'
+      activationstatus: true
+      created: 2024-08-04T19:41:40.538+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:16.631+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:41:40.538+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em><strong>(Reporting by Nidal al-Mughrabi. Additional reporting
         by Ari Rabinovitch; editing by Barbara Lewis)</strong></em></p>'
-  'lily-monteverde-obituary':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T19:42:48.000+08:00
-    'imagesource': 'jcr:6c006aaa-80dd-480e-b293-b0ea30723764'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'e580f519-d954-4d61-9a42-c9ddef984646'
-    'lead': 'Regal Entertainment founder Lily Monteverde, well-known as ''Mother Lily,''
+  'START HERE----->lily-monteverde-obituary':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T19:42:48.000+08:00
+    imagesource: '6c006aaa-80dd-480e-b293-b0ea30723764'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'e580f519-d954-4d61-9a42-c9ddef984646'
+    lead: 'Regal Entertainment founder Lily Monteverde, well-known as 'Mother Lily,'
       has died, her family said in a statement through the production company.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T19:44:40.542+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:15.660+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:04.497+08:00
-    'mgnl:lastModified': 2024-08-04T19:44:40.702+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['Lily-Monteverde']
-    'stories': []
-    'template': '1'
-    'title': 'Lily Monteverde, PH film industry icon, dies at 85'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a0e597b2-9a2b-41f5-aa9d-c2c470545931'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.690+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.663+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.697+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Regal Entertainment
+    activationstatus: true
+    created: 2024-08-04T19:44:40.542+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:15.660+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:00:04.497+08:00
+    lastmodified: 2024-08-04T19:44:40.702+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Lily Monteverde, PH film industry icon, dies at 85'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'a0e597b2-9a2b-41f5-aa9d-c2c470545931'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.690+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.663+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.697+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Regal Entertainment
         founder Lily Monteverde, well-known as “Mother Lily,” has died, her family
         said in a statement through the production company.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cfb6d04e-0d10-4665-97ad-9223844be01f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.690+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.664+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.690+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Monteverde died in the early hours of Sunday, Aug. 4, at the age of\
+    section1:
+      primarytype: 'block'
+      uuid: 'cfb6d04e-0d10-4665-97ad-9223844be01f'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.690+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.664+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.690+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Monteverde died in the early hours of Sunday, Aug. 4, at the age of\
         \ 85. She would have celebrated her birthday on Aug. 19.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9cbb45f1-691d-4b21-aead-e381716c9981'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.690+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.664+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.690+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Her death followed days after the passing of her husband Leonardo,\
+    section2:
+      primarytype: 'block'
+      uuid: '9cbb45f1-691d-4b21-aead-e381716c9981'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.690+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.664+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.690+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Her death followed days after the passing of her husband Leonardo,\
         \ fondly called Father Remy.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c91a5073-e7d9-451b-95bd-01c2de00a9dd'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.691+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.665+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.691+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Mother Lily was surrounded by her children and grandchildren in her\
+    section3:
+      primarytype: 'block'
+      uuid: 'c91a5073-e7d9-451b-95bd-01c2de00a9dd'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.691+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.665+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.691+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Mother Lily was surrounded by her children and grandchildren in her\
         \ final hours,” the family said. “She was blessed with the chance to say goodbye\
         \ to her closest friends and associates who bid her farewell yesterday before\
         \ she left for that trip back home to the Divine Father.”\r"
-    '4':
-      'contentWidth': 'fit-content'
-      'embedCode': '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRegalEntertainmentInc%2Fposts%2Fpfbid033N8bkzHNwRFzLmJgkrE5fD6rHxZSNs6zyNxbi2wa3D84HBDVDwTZggkZTN5AscfPl&show_text=true&width=500"
+    section4:
+      contentwidth: 'fit-content'
+      embedcode: '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRegalEntertainmentInc%2Fposts%2Fpfbid033N8bkzHNwRFzLmJgkrE5fD6rHxZSNs6zyNxbi2wa3D84HBDVDwTZggkZTN5AscfPl&show_text=true&width=500"
         width="500" height="718" style="border:none;overflow:hidden" scrolling="no"
         frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
         picture-in-picture; web-share"></iframe>'
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0ba701e5-eb79-419c-904e-0884a6b75785'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.691+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.666+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.691+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'embedCode'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd9d2c3ff-24f5-40e1-af00-b14816c07972'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.692+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.667+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.692+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The veteran film producer was considered an icon in the Philippine\
+      primarytype: 'block'
+      uuid: '0ba701e5-eb79-419c-904e-0884a6b75785'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.691+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.666+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.691+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'embedcode'
+    section5:
+      primarytype: 'block'
+      uuid: 'd9d2c3ff-24f5-40e1-af00-b14816c07972'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.692+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.667+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.692+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The veteran film producer was considered an icon in the Philippine\
         \ film industry. Her studio, Regal Entertainment, released films such as “\
         Shake, Rattle &amp; Roll” and “Mano Po,” among others.\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5c95d078-5425-4782-9970-8ce261954238'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.692+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.667+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.692+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“Throughout her years she has not only been a mother to her children\
+    section6:
+      primarytype: 'block'
+      uuid: '5c95d078-5425-4782-9970-8ce261954238'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.692+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.667+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.692+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“Throughout her years she has not only been a mother to her children\
         \ but also the 'Mother' to so many generations of Filipino filmmakers who\
         \ have helped define what Philippine cinema is today,” the family said.\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '19ab53af-d14f-406e-ac4b-6eea2d7e7757'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.693+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.668+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.693+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Mother Lily was “a true mother to artists and workers who had the chance\
+    section7:
+      primarytype: 'block'
+      uuid: '19ab53af-d14f-406e-ac4b-6eea2d7e7757'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.693+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.668+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.693+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Mother Lily was “a true mother to artists and workers who had the chance\
         \ to know her beyond the confines of work,” the family added.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1b4604a-8f6d-424d-8317-3f677208e776'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:44:40.693+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.668+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:44:40.693+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The family said her wake and memorial service will start Monday, Aug.\
+    section8:
+      primarytype: 'block'
+      uuid: 'a1b4604a-8f6d-424d-8317-3f677208e776'
+      activationstatus: true
+      created: 2024-08-04T19:44:40.693+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.668+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:44:40.693+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The family said her wake and memorial service will start Monday, Aug.\
         \ 5, at 3:30 p.m. until Aug. 9 at 38 Valencia Events Place Quezon City. Interment\
         \ will be on Aug. 10 at The Heritage Park, Taguig.\r"
-  'two-russian-ex-prisoners-swap-want-return-home':
-    'author': 'Reuters'
-    'caption': 'Ilya Yashin, Vladimir Kara-Murza and Andrei Pivovarov, Bonn, Germany,
+  'START HERE----->two-russian-ex-prisoners-swap-want-return-home':
+    author: 'Reuters'
+    caption: 'Ilya Yashin, Vladimir Kara-Murza and Andrei Pivovarov, Bonn, Germany,
       August 2, 2024. (Reuters/Leon Kuegeler)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T19:57:31.000+08:00
-    'imagesource': 'jcr:7c9413ca-b3a3-409f-919d-6c6f211e3bae'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'a419b220-a5c6-451f-b36e-f4e698cb2832'
-    'lead': 'Two of the Russian dissidents who were freed from prison and arrived
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T19:57:31.000+08:00
+    imagesource: '7c9413ca-b3a3-409f-919d-6c6f211e3bae'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: 'a419b220-a5c6-451f-b36e-f4e698cb2832'
+    lead: 'Two of the Russian dissidents who were freed from prison and arrived
       in Germany as part of last week’s major East-West prisoner swap say they are
       already thinking about returning to Russia, but vow to continue political activism
       even from abroad.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T19:59:45.431+08:00
-    'mgnl:createdBy': 'jelo-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:15.235+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:04.848+08:00
-    'mgnl:lastModified': 2024-08-04T19:59:45.500+08:00
-    'mgnl:lastModifiedBy': 'jelo-nwp'
-    'mgnl:tags': ['East-West-prisoner-swap', 'Global-Watch']
-    'stories': []
-    'template': '1'
-    'title': 'Two Russian ex-prisoners from East-West swap want to return home'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c2cc5720-9fd8-49f9-889a-2077e2cc7d99'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.482+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.237+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.494+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>BONN, Germany, Aug 4 (Reuters) —</strong> Two of the Russian
+    activationstatus: true
+    created: 2024-08-04T19:59:45.431+08:00
+    createdby: 'jelo-nwp'
+    lastactivated: 2025-03-13T13:10:15.235+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-03-13T13:00:04.848+08:00
+    lastmodified: 2024-08-04T19:59:45.500+08:00
+    lastmodifiedby: 'jelo-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Two Russian ex-prisoners from East-West swap want to return home'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c2cc5720-9fd8-49f9-889a-2077e2cc7d99'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.482+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.237+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.494+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><strong>BONN, Germany, Aug 4 (Reuters) —</strong> Two of the Russian
         dissidents who were freed from prison and arrived in Germany as part of last
         week’s major East-West prisoner swap say they are already thinking about
         returning to Russia, but vow to continue political activism even from abroad.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '94c12ee1-240a-44de-8723-92ab104044f4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.482+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.238+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.482+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "The swap saw eight Russians, including a convicted murderer, returned\
+    section1:
+      primarytype: 'block'
+      uuid: '94c12ee1-240a-44de-8723-92ab104044f4'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.482+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.238+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.482+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "The swap saw eight Russians, including a convicted murderer, returned\
         \ home from Western countries in exchange for 16 prisoners freed from Russian\
         \ and Belarusian jails, many of them Russian dissidents alongside Americans\
         \ like Wall Street Journal reporter Evan Gershkovich.\r"
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0c415c91-ee08-47ea-9966-7dd55a48a974'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.483+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.239+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.483+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "“As people who were actually deported, who were kicked out of the country,\
+    section2:
+      primarytype: 'block'
+      uuid: '0c415c91-ee08-47ea-9966-7dd55a48a974'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.483+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.239+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.483+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "“As people who were actually deported, who were kicked out of the country,\
         \ we all have a great desire to return,” dissident Andrei Pivovarov told Reuters\
         \ in an interview in Bonn on Saturday.\r"
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00931ce6-2f7d-49f6-aee4-1ca2f78896a3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.483+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.483+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"I definitely want to be in Russia. I am a Russian politician and\
+    section3:
+      primarytype: 'block'
+      uuid: '00931ce6-2f7d-49f6-aee4-1ca2f78896a3'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.483+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.483+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"I definitely want to be in Russia. I am a Russian politician and\
         \ that is very important to me,\" Pivovarov said. \"It is clear that they\
         \ (the Russian authorities) will not allow us to return, although we want\
         \ to.\"\r"
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4ac8abf2-8d35-4bbf-bdd3-45e40b406e00'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.484+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.240+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.484+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Ilya Yashin, an opposition activist imprisoned in 2022 for criticising\
+    section4:
+      primarytype: 'block'
+      uuid: '4ac8abf2-8d35-4bbf-bdd3-45e40b406e00'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.484+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.240+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.484+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Ilya Yashin, an opposition activist imprisoned in 2022 for criticising\
         \ President Vladimir Putin’s full-scale invasion of Ukraine, also expressed\
         \ his desire to return home.\r"
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '91e3c831-d142-4356-bc4e-f75fed74fd29'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.484+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.241+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.484+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"I am truly pained by my expulsion from Russia, despite all the gratitude\
+    section5:
+      primarytype: 'block'
+      uuid: '91e3c831-d142-4356-bc4e-f75fed74fd29'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.484+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.241+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.484+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"I am truly pained by my expulsion from Russia, despite all the gratitude\
         \ I feel towards those who wished me well and saved me,\" Yashin told Reuters.\
         \ \"But I sincerely say that my place is in Russia ... I have dedicated my\
         \ life to my country.\"\r"
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c6a8c9e-c7e0-4120-ab0e-8df6591a08ef'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.484+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.241+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.484+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Yashin said he was happy to see his family and friends for the first\
+    section6:
+      primarytype: 'block'
+      uuid: '1c6a8c9e-c7e0-4120-ab0e-8df6591a08ef'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.484+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.241+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.484+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Yashin said he was happy to see his family and friends for the first\
         \ time in a long while. But on the other hand, he said it was \"a hard pill\
         \ to swallow\".\r"
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6a9c4d86-b48e-4551-871c-4e09209ec757'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.485+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.242+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.485+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"It’s very difficult for me emotionally because I understand that\
+    section7:
+      primarytype: 'block'
+      uuid: '6a9c4d86-b48e-4551-871c-4e09209ec757'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.485+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.242+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.485+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"It’s very difficult for me emotionally because I understand that\
         \ I was set free at the price of setting free an assassin, a person who actually\
         \ committed a bloody crime,\" Yashin said.\r"
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '393044d6-49ef-4ae9-b932-6de99257c659'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.485+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.243+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.485+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "This referred to Vadim Krasikov, a Russian convicted of the 2019 murder\
+    section8:
+      primarytype: 'block'
+      uuid: '393044d6-49ef-4ae9-b932-6de99257c659'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.485+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.243+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.485+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "This referred to Vadim Krasikov, a Russian convicted of the 2019 murder\
         \ of a former Chechen militant in Berlin, who was among those freed.\r"
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81a4796c-1f21-4dba-bdd0-323174782762'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.486+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.243+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.486+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"I said it a number of times that I did not want to be part of any\
+    section9:
+      primarytype: 'block'
+      uuid: '81a4796c-1f21-4dba-bdd0-323174782762'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.486+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.243+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.486+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"I said it a number of times that I did not want to be part of any\
         \ exchange lists,\" Yashin said. \"The Kremlin representatives gladly included\
         \ my name because for them my exchange essentially means expulsion,\" he added.\r"
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cdfd4d69-7991-46eb-a342-f5ff2ed47b48'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.486+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.244+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.486+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "He said he planned to continue with what he called the anti-war education\
+    section10:
+      primarytype: 'block'
+      uuid: 'cdfd4d69-7991-46eb-a342-f5ff2ed47b48'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.486+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.244+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.486+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "He said he planned to continue with what he called the anti-war education\
         \ of Russians, and helping Russian political prisoners.\r"
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3387a69a-e20c-4e0b-a5f8-09e4fd15238b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.487+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.245+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.487+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "Pivovarov also said he wanted to continue with his opposition activities\
+    section11:
+      primarytype: 'block'
+      uuid: '3387a69a-e20c-4e0b-a5f8-09e4fd15238b'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.487+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.245+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.487+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "Pivovarov also said he wanted to continue with his opposition activities\
         \ from outside of Russia.\r"
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a6dd4bd1-b591-44e5-9243-6537bf8345fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.487+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.245+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.487+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': "\"Coordinating anything from inside is impossible,\" Pivovarov said.\
+    section12:
+      primarytype: 'block'
+      uuid: 'a6dd4bd1-b591-44e5-9243-6537bf8345fe'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.487+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.245+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.487+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: "\"Coordinating anything from inside is impossible,\" Pivovarov said.\
         \ \"I’m not planning to step aside,\" he added.\r"
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de6f3a63-a26d-4c04-8df0-a242210dd7ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T19:59:45.488+08:00
-      'mgnl:createdBy': 'jelo-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:15.245+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-04T19:59:45.488+08:00
-      'mgnl:lastModifiedBy': 'jelo-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em><strong>(Reporting by Polina Nikolskaya and Erol DogrudoganWriting
+    section13:
+      primarytype: 'block'
+      uuid: 'de6f3a63-a26d-4c04-8df0-a242210dd7ea'
+      activationstatus: true
+      created: 2024-08-04T19:59:45.488+08:00
+      createdby: 'jelo-nwp'
+      lastactivated: 2025-03-13T13:10:15.245+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-04T19:59:45.488+08:00
+      lastmodifiedby: 'jelo-nwp'
+      type: 'text'
+      text: '<p><em><strong>(Reporting by Polina Nikolskaya and Erol DogrudoganWriting
         by Maria MartinezEditing by Frances Kerry)</strong></em></p>'
-  'Nesthy-Petecio-Paris-2024-Olympics-quarterfinals':
-    'author': 'CJ Marquez, NewsWatch Plus'
-    'caption': 'Source: Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2024-08-04T22:26:57.000+08:00
-    'credit': 'Source: Reuters'
-    'imagesource': 'jcr:f5532625-c973-497d-9116-a9129c02ad44'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '12cf2e79-b126-4421-96ae-7b4e38433304'
-    'lead': 'Filipino boxer Nesthy Petecio is guaranteed of bagging another Olympic
+  'START HERE----->Nesthy-Petecio-Paris-2024-Olympics-quarterfinals':
+    author: 'CJ Marquez, NewsWatch Plus'
+    caption: 'Source: Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2024-08-04T22:26:57.000+08:00
+    credit: 'Source: Reuters'
+    imagesource: 'f5532625-c973-497d-9116-a9129c02ad44'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '12cf2e79-b126-4421-96ae-7b4e38433304'
+    lead: 'Filipino boxer Nesthy Petecio is guaranteed of bagging another Olympic
       medal after dominating China’s Xu Zichun in the women’s 57 kg category quarterfinals
       in the Paris 2024 Olympics.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2024-08-04T22:28:46.559+08:00
-    'mgnl:createdBy': 'cj-nwp'
-    'mgnl:lastActivated': 2025-03-13T13:10:14.753+08:00
-    'mgnl:lastActivatedBy': 'nelsonp'
-    'mgnl:lastActivatedVersion': '1.1'
-    'mgnl:lastActivatedVersionCreated': 2025-03-13T13:00:05.035+08:00
-    'mgnl:lastModified': 2024-08-05T13:58:50.848+08:00
-    'mgnl:lastModifiedBy': 'cj-nwp'
-    'mgnl:tags': []
-    'stories': []
-    'template': '1'
-    'title': 'Nesthy Petecio outclasses Chinese foe to reach Paris Olympics semis'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '31ce79f6-a740-4056-88db-09e0dde150c5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T22:28:46.571+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:14.758+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T13:58:50.845+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines —</strong> Filipino boxer Nesthy
+    activationstatus: true
+    created: 2024-08-04T22:28:46.559+08:00
+    createdby: 'cj-nwp'
+    lastactivated: 2025-03-13T13:10:14.753+08:00
+    lastactivatedby: 'nelsonp'
+    lastactivatedversion: '1.1'
+    lastactivatedversioncreated: 2025-03-13T13:00:05.035+08:00
+    lastmodified: 2024-08-05T13:58:50.848+08:00
+    lastmodifiedby: 'cj-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Nesthy Petecio outclasses Chinese foe to reach Paris Olympics semis'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '31ce79f6-a740-4056-88db-09e0dde150c5'
+      activationstatus: true
+      created: 2024-08-04T22:28:46.571+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:14.758+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T13:58:50.845+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines —</strong> Filipino boxer Nesthy
         Petecio remained in the hunt for gold after a rousing unanimous decision victory
         over Xu Zichun of China in the women’s 57 kg division quarterfinals Sunday
         in the Paris 2024 Olympics at the North Paris Arena.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da242acc-9cb7-4542-bcb2-f71cb9e86523'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T22:28:46.571+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:14.759+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T13:58:50.845+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': 'Petecio, a silver medalist in the Tokyo 2020 Olympics, landed more
+    section1:
+      primarytype: 'block'
+      uuid: 'da242acc-9cb7-4542-bcb2-f71cb9e86523'
+      activationstatus: true
+      created: 2024-08-04T22:28:46.571+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:14.759+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T13:58:50.845+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: 'Petecio, a silver medalist in the Tokyo 2020 Olympics, landed more
         lethal blows from start to finish to erase any doubts and earn the nod of
         all five judges.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '87eab970-a3bc-41ea-988e-6e8ba3c9b802'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T22:28:46.572+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:14.759+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T13:58:50.846+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>With the triumph, the Philippines now has two medals in the Paris
+    section2:
+      primarytype: 'block'
+      uuid: '87eab970-a3bc-41ea-988e-6e8ba3c9b802'
+      activationstatus: true
+      created: 2024-08-04T22:28:46.572+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:14.759+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T13:58:50.846+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>With the triumph, the Philippines now has two medals in the Paris
         Olympics with Aira Villegas <a href="https://www.newswatchplus.ph/news/2024/8/4/Aira-Villegas-assured-medal-Paris-2024-Olympics.html">moving
         on</a> to the semifinals of the 50 kg class earlier.</p>'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f37c8f13-b50e-4004-b9e8-0b5d6cfe46f6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T22:28:46.572+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:14.760+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T13:58:50.846+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Petecio joins Hidilyn Diaz, Carlos Yulo, and Teófilo Yldefonso as
+    section3:
+      primarytype: 'block'
+      uuid: 'f37c8f13-b50e-4004-b9e8-0b5d6cfe46f6'
+      activationstatus: true
+      created: 2024-08-04T22:28:46.572+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:14.760+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T13:58:50.846+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Petecio joins Hidilyn Diaz, Carlos Yulo, and Teófilo Yldefonso as
         the Filipino athletes to win multiple Olympic medals.</p>'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dd7d5356-731d-495c-a731-c3af14431bc5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2024-08-04T22:28:46.573+08:00
-      'mgnl:createdBy': 'cj-nwp'
-      'mgnl:lastActivated': 2025-03-13T13:10:14.761+08:00
-      'mgnl:lastActivatedBy': 'nelsonp'
-      'mgnl:lastModified': 2024-08-05T13:58:50.847+08:00
-      'mgnl:lastModifiedBy': 'cj-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Petecio will battle Julia Szeremeta of Poland in the semis on Aug.
+    section4:
+      primarytype: 'block'
+      uuid: 'dd7d5356-731d-495c-a731-c3af14431bc5'
+      activationstatus: true
+      created: 2024-08-04T22:28:46.573+08:00
+      createdby: 'cj-nwp'
+      lastactivated: 2025-03-13T13:10:14.761+08:00
+      lastactivatedby: 'nelsonp'
+      lastmodified: 2024-08-05T13:58:50.847+08:00
+      lastmodifiedby: 'cj-nwp'
+      type: 'text'
+      text: '<p>Petecio will battle Julia Szeremeta of Poland in the semis on Aug.
         8.</p>'

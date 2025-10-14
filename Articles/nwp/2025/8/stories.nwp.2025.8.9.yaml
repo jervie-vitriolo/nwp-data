@@ -1,1966 +1,1966 @@
-'9':
-  'jcr:mixinTypes': ['mgnl:hasVersion']
-  'jcr:primaryType': 'mgnl:folder'
-  'jcr:uuid': '4783dc4d-fd2e-409c-a6c4-508772ce7ae7'
-  'mgnl:activationStatus': true
-  'mgnl:created': 2025-08-09T09:50:21.145+08:00
-  'mgnl:createdBy': 'lance-nwp'
-  'mgnl:lastActivated': 2025-08-09T09:54:36.393+08:00
-  'mgnl:lastActivatedBy': 'lance-nwp'
-  'mgnl:lastActivatedVersion': '1.0'
-  'mgnl:lastActivatedVersionCreated': 2025-08-09T09:54:36.265+08:00
-  'mgnl:lastModified': 2025-08-09T16:03:20.420+08:00
-  'mgnl:lastModifiedBy': 'lance-nwp'
-  'trump-putin-to-discuss-ukraine-peace-deal':
-    'author': 'Andrea Shalal, Reuters'
-    'caption': 'US President Donald Trump and Russian President Vladimir Putin (File
+section9:
+  mixintypes: 'hasVersion'
+  primarytype: 'folder'
+  uuid: '4783dc4d-fd2e-409c-a6c4-508772ce7ae7'
+  activationstatus: true
+  created: 2025-08-09T09:50:21.145+08:00
+  createdby: 'lance-nwp'
+  lastactivated: 2025-08-09T09:54:36.393+08:00
+  lastactivatedby: 'lance-nwp'
+  lastactivatedversion: '1.0'
+  lastactivatedversioncreated: 2025-08-09T09:54:36.265+08:00
+  lastmodified: 2025-08-09T16:03:20.420+08:00
+  lastmodifiedby: 'lance-nwp'
+  'START HERE----->trump-putin-to-discuss-ukraine-peace-deal':
+    author: 'Andrea Shalal, Reuters'
+    caption: 'US President Donald Trump and Russian President Vladimir Putin (File
       photo/Reuters)'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T09:50:21.000+08:00
-    'imagesource': 'jcr:d12b4a7c-3857-44d3-ba9a-13ef6db033e7'
-    'jcr:mixinTypes': ['mgnl:hasVersion']
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '78fd3771-a99a-4d70-a9be-c1e4ecf39ba9'
-    'lead': 'U.S. President Donald Trump will meet with Russian President Vladimir
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T09:50:21.000+08:00
+    imagesource: 'd12b4a7c-3857-44d3-ba9a-13ef6db033e7'
+    mixintypes: 'hasVersion'
+    primarytype: 'composition'
+    uuid: '78fd3771-a99a-4d70-a9be-c1e4ecf39ba9'
+    lead: 'U.S. President Donald Trump will meet with Russian President Vladimir
       Putin on August 15 in Alaska to negotiate an end to the war in Ukraine, Trump
       said on Friday.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T09:54:31.817+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T09:54:42.853+08:00
-    'mgnl:lastActivatedBy': 'lance-nwp'
-    'mgnl:lastActivatedVersion': '1.0'
-    'mgnl:lastActivatedVersionCreated': 2025-08-09T09:54:42.352+08:00
-    'mgnl:lastModified': 2025-08-09T09:54:31.872+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Vladimir-Putin', 'Trump']
-    'stories': []
-    'template': '1'
-    'title': 'Trump and Putin to meet to discuss Ukraine peace deal in Alaska'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7232e6ef-1bf6-4367-90a8-ef54f7c55161'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.837+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.854+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.861+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, US -</strong> U.S. President Donald Trump will
+    activationstatus: true
+    created: 2025-08-09T09:54:31.817+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T09:54:42.853+08:00
+    lastactivatedby: 'lance-nwp'
+    lastactivatedversion: '1.0'
+    lastactivatedversioncreated: 2025-08-09T09:54:42.352+08:00
+    lastmodified: 2025-08-09T09:54:31.872+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump and Putin to meet to discuss Ukraine peace deal in Alaska'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '7232e6ef-1bf6-4367-90a8-ef54f7c55161'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.837+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.854+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.861+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, US -</strong> U.S. President Donald Trump will
         meet with Russian President Vladimir Putin on August 15 in Alaska to negotiate
         an end to the war in Ukraine, Trump said on Friday.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8e1f5b7e-1cf0-4e07-9ab1-964c32cf6642'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.837+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.854+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.837+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump made the highly anticipated announcement on social media after
+    section1:
+      primarytype: 'block'
+      uuid: '8e1f5b7e-1cf0-4e07-9ab1-964c32cf6642'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.837+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.854+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.837+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump made the highly anticipated announcement on social media after
         he said that the parties, including Ukraine President Volodymyr Zelenskiy,
         were close to a ceasefire deal that could resolve the three-and-a-half-year
         conflict, one that could require Ukraine to surrender significant territory.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8885fff0-fb37-4568-b326-29ba2da5ef15'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.838+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.855+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.838+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Addressing reporters at the White House earlier on Friday, Trump suggested
+    section2:
+      primarytype: 'block'
+      uuid: '8885fff0-fb37-4568-b326-29ba2da5ef15'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.838+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.855+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.838+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Addressing reporters at the White House earlier on Friday, Trump suggested
         an agreement would involve some exchange of land.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46e6cf27-8150-46f3-b497-4d9a2ac8a602'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.838+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.856+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.838+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"There''ll be some swapping of territories to the betterment of both,"
+    section3:
+      primarytype: 'block'
+      uuid: '46e6cf27-8150-46f3-b497-4d9a2ac8a602'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.838+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.856+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.838+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"There'll be some swapping of territories to the betterment of both,"
         the Republican president said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc7cdb46-2b0c-430d-bf3a-5e2161f0803a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.839+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.856+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.839+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Kremlin subsequently confirmed the summit in an online statement.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '720d52a2-d80b-4b77-b6ba-139ddad74394'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.839+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.857+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.839+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The two leaders will "focus on discussing options for achieving a long-term
+    section4:
+      primarytype: 'block'
+      uuid: 'dc7cdb46-2b0c-430d-bf3a-5e2161f0803a'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.839+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.856+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.839+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Kremlin subsequently confirmed the summit in an online statement.'
+    section5:
+      primarytype: 'block'
+      uuid: '720d52a2-d80b-4b77-b6ba-139ddad74394'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.839+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.857+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.839+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The two leaders will "focus on discussing options for achieving a long-term
         peaceful resolution to the Ukrainian crisis," Putin aide Yuri Ushakov said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'bc479008-4c72-4bf6-8353-124df9361d09'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.839+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.857+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.839+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This will evidently be a challenging process, but we will engage in
+    section6:
+      primarytype: 'block'
+      uuid: 'bc479008-4c72-4bf6-8353-124df9361d09'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.839+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.857+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.839+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This will evidently be a challenging process, but we will engage in
         it actively and energetically," Ushakov said.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '00d827a2-b837-487d-bb26-d130ce1bf58e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.840+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.858+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.840+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In his evening address to the nation on Friday, Zelenskiy said it was
+    section7:
+      primarytype: 'block'
+      uuid: '00d827a2-b837-487d-bb26-d130ce1bf58e'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.840+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.858+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.840+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In his evening address to the nation on Friday, Zelenskiy said it was
         possible to achieve a ceasefire as long as adequate pressure was applied to
         Russia. He said he had held more than a dozen conversations with leaders of
         different countries and his team was in constant contact with the United States.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4c223bf6-2c89-4f98-81ac-1ac04bd721d4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.840+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.858+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.840+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Putin claims four Ukrainian regions – Luhansk, Donetsk, Zaporizhzhia
+    section8:
+      primarytype: 'block'
+      uuid: '4c223bf6-2c89-4f98-81ac-1ac04bd721d4'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.840+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.858+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.840+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Putin claims four Ukrainian regions – Luhansk, Donetsk, Zaporizhzhia
         and Kherson – as well as the Black Sea peninsula of Crimea, which he annexed
         in 2014. His forces do not fully control all the territory in the four regions.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '17d9b64f-6289-4759-8152-4aa34069ffe4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.841+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.859+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.841+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Earlier, Bloomberg News reported that U.S. and Russian officials were
+    section9:
+      primarytype: 'block'
+      uuid: '17d9b64f-6289-4759-8152-4aa34069ffe4'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.841+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.859+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.841+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Earlier, Bloomberg News reported that U.S. and Russian officials were
         working towards an agreement that would lock in Moscow’s occupation of territory
         seized during its military invasion.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4d4a87d3-b3e8-4ce7-ba03-b93bc48f643e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.841+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.859+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.841+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A White House official said the Bloomberg story was speculation. A
+    section10:
+      primarytype: 'block'
+      uuid: '4d4a87d3-b3e8-4ce7-ba03-b93bc48f643e'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.841+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.859+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.841+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A White House official said the Bloomberg story was speculation. A
         Kremlin spokesperson did not respond to a request for comment.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c2883c3-7964-4ee4-a7b8-a8656862800b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.841+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.860+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.841+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Reuters was unable to confirm aspects of the Bloomberg report.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da7e4a87-47a4-48d3-9e8c-ed2391e53f99'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.842+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.860+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.842+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Ukraine has previously signaled a willingness to be flexible in the
+    section11:
+      primarytype: 'block'
+      uuid: '8c2883c3-7964-4ee4-a7b8-a8656862800b'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.841+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.860+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.841+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Reuters was unable to confirm aspects of the Bloomberg report.'
+    section12:
+      primarytype: 'block'
+      uuid: 'da7e4a87-47a4-48d3-9e8c-ed2391e53f99'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.842+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.860+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.842+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Ukraine has previously signaled a willingness to be flexible in the
         search for an end to a war that has ravaged its towns and cities and killed
         large numbers of its soldiers and citizens.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'da71a517-a33b-46b7-92a1-0b62f821de85'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.842+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.861+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.842+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'But accepting the loss of around a fifth of Ukraine’s territory would
+    section13:
+      primarytype: 'block'
+      uuid: 'da71a517-a33b-46b7-92a1-0b62f821de85'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.842+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.861+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.842+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'But accepting the loss of around a fifth of Ukraine’s territory would
         be painful and politically challenging for Zelenskiy and his government.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b8cebb4c-d754-44c7-a6eb-21dfbd54daaa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.843+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.861+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.843+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tyson Barker, the U.S. State Department’s former deputy special representative
+    section14:
+      primarytype: 'block'
+      uuid: 'b8cebb4c-d754-44c7-a6eb-21dfbd54daaa'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.843+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.861+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.843+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tyson Barker, the U.S. State Department’s former deputy special representative
         for Ukraine’s economic recovery, said the peace proposal as outlined in the
         Bloomberg report would be immediately rejected by the Ukrainians.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '878d0e36-dad2-473d-9151-77f27d5310c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.843+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.862+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.843+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"The best the Ukrainians can do is remain firm in their objections
+    section15:
+      primarytype: 'block'
+      uuid: '878d0e36-dad2-473d-9151-77f27d5310c1'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.843+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.862+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.843+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"The best the Ukrainians can do is remain firm in their objections
         and their conditions for a negotiated settlement, while demonstrating their
         gratitude for American support," said Barker, a senior fellow with the Atlantic
         Council.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb970354-4fba-440b-975b-6d6e5b30f3a0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.844+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.862+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.844+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Under the putative deal, according to Bloomberg, Russia would halt
+    section16:
+      primarytype: 'block'
+      uuid: 'cb970354-4fba-440b-975b-6d6e5b30f3a0'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.844+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.862+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.844+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Under the putative deal, according to Bloomberg, Russia would halt
         its offensive in the Kherson and Zaporizhzhia regions along current battle
         lines.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75e7c74a-4812-485f-8872-d036d5df7f7a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.844+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.863+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.844+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Trump and Putin</strong></h2>'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa0f51e5-84ff-4ca4-ba67-978ad31e128c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.845+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.863+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.845+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The last time Alaska hosted a high-stakes diplomatic gathering was
+    section17:
+      primarytype: 'block'
+      uuid: '75e7c74a-4812-485f-8872-d036d5df7f7a'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.844+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.863+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.844+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Trump and Putin</strong></h2>'
+    section18:
+      primarytype: 'block'
+      uuid: 'aa0f51e5-84ff-4ca4-ba67-978ad31e128c'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.845+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.863+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.845+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The last time Alaska hosted a high-stakes diplomatic gathering was
         in March 2021, when senior officials from the administration of Democratic
         former President Joe Biden met with top Chinese officials in Anchorage.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3f0e1de1-573f-47a9-aa48-96b66b27393c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.845+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.864+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.845+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The get-together involving Biden’s top diplomat Antony Blinken and
+    section19:
+      primarytype: 'block'
+      uuid: '3f0e1de1-573f-47a9-aa48-96b66b27393c'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.845+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.864+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.845+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The get-together involving Biden’s top diplomat Antony Blinken and
         his Chinese counterpart Yang Jiechi quickly turned into a stunning public
         clash in front of the cameras, with both sides leveling sharp rebukes of the
-        others'' policies that reflected the high tension in bilateral ties.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a62bd2a5-85fe-4f6f-a7d8-1b6b90a2b567'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.846+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.864+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.846+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Since his return to the White House in January, Trump has moved to
+        others' policies that reflected the high tension in bilateral ties.'
+    section20:
+      primarytype: 'block'
+      uuid: 'a62bd2a5-85fe-4f6f-a7d8-1b6b90a2b567'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.846+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.864+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.846+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Since his return to the White House in January, Trump has moved to
         mend relations with Russia and sought to end the war. In his public comments
         he has veered between admiration and sharp criticism of Putin.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '46e0b6b8-ab0d-4486-af9c-01513c11df03'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.846+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.865+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.846+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'In a sign of his growing frustration with Putin’s refusal to halt
+    section21:
+      primarytype: 'block'
+      uuid: '46e0b6b8-ab0d-4486-af9c-01513c11df03'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.846+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.865+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.846+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'In a sign of his growing frustration with Putin’s refusal to halt
         Russia’s military offensive, Trump had threatened to impose new sanctions
         and tariffs from Friday against Moscow and countries that buy its exports
         unless the Russian leader agreed to end the conflict, the deadliest in Europe
         since World War Two.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97e6e7e4-2e27-43e0-b752-0ebfe63c2fc0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.847+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.865+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.847+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'It was unclear by Friday evening whether those sanctions would take
+    section22:
+      primarytype: 'block'
+      uuid: '97e6e7e4-2e27-43e0-b752-0ebfe63c2fc0'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.847+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.865+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.847+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'It was unclear by Friday evening whether those sanctions would take
         effect or be delayed or canceled.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd46a84b9-349c-42a9-986f-939a74cdfc62'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.847+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.866+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.847+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The administration took a step toward punishing Moscow’s oil customers
+    section23:
+      primarytype: 'block'
+      uuid: 'd46a84b9-349c-42a9-986f-939a74cdfc62'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.847+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.866+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.847+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The administration took a step toward punishing Moscow’s oil customers
         on Wednesday, imposing an additional 25% tariff on goods from India over its
         imports of Russian oil, marking the first financial penalty aimed at Russia
         in Trump’s second term.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '84dbd502-c377-49a8-a0a7-f890dd250687'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.848+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.866+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.848+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump’s special envoy Steve Witkoff held three hours of talks with
+    section24:
+      primarytype: 'block'
+      uuid: '84dbd502-c377-49a8-a0a7-f890dd250687'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.848+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.866+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.848+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump’s special envoy Steve Witkoff held three hours of talks with
         Putin in Moscow on Wednesday that both sides described as constructive.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5b004f7c-f288-49a8-9fed-3379d8c24b78'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.849+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.867+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.849+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Prime Minister Donald Tusk of Poland, a close ally of Ukraine, said
+    section25:
+      primarytype: 'block'
+      uuid: '5b004f7c-f288-49a8-9fed-3379d8c24b78'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.849+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.867+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.849+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Prime Minister Donald Tusk of Poland, a close ally of Ukraine, said
         earlier on Friday that a pause in the conflict could be close. He was speaking
         after talks with Zelenskiy.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '751b2844-1fd3-474e-aeba-1b441a8ec183'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.849+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.867+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.849+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"There are certain signals, and we also have an intuition, that perhaps
-        a freeze in the conflict – I don''t want to say the end, but a freeze in the
+    section26:
+      primarytype: 'block'
+      uuid: '751b2844-1fd3-474e-aeba-1b441a8ec183'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.849+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.867+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.849+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"There are certain signals, and we also have an intuition, that perhaps
+        a freeze in the conflict – I don't want to say the end, but a freeze in the
         conflict – is closer than it is further away," Tusk told a news conference.
         "There are hopes for this."'
-    '27':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd39f764-9c62-4d56-b30a-04af90390498'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.850+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.868+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.850+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tusk also said Zelenskiy was "very cautious but optimistic" and that
+    section27:
+      primarytype: 'block'
+      uuid: 'cd39f764-9c62-4d56-b30a-04af90390498'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.850+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.868+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.850+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tusk also said Zelenskiy was "very cautious but optimistic" and that
         Ukraine was keen that Poland and other European countries play a role in planning
         for a ceasefire and an eventual peace settlement.'
-    '28':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '777da761-d984-4525-b26a-c3dbd4f759b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T09:54:31.850+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T09:54:42.869+08:00
-      'mgnl:lastActivatedBy': 'lance-nwp'
-      'mgnl:lastModified': 2025-08-09T09:54:31.850+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Andrea Shalal in WashingtonAdditional reporting
+    section28:
+      primarytype: 'block'
+      uuid: '777da761-d984-4525-b26a-c3dbd4f759b0'
+      activationstatus: true
+      created: 2025-08-09T09:54:31.850+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T09:54:42.869+08:00
+      lastactivatedby: 'lance-nwp'
+      lastmodified: 2025-08-09T09:54:31.850+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Andrea Shalal in WashingtonAdditional reporting
         by Dheeraj Kumar in Bengaluru and Moscow bureauWriting by Gareth Jones, Jonathan
-        Allen and James OliphantEditing by Don Durfee, Frances Kerry, Rosalba O''Brien
+        Allen and James OliphantEditing by Don Durfee, Frances Kerry, Rosalba O'Brien
         and Diane Craft)</em></p>'
-  'peace-agreement-azerbaijan-armenia':
-    'author': 'Andrea Shalal, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T10:42:50.000+08:00
-    'imagesource': 'jcr:dacc7784-ca91-4eb3-a330-1769d1219652'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'edadf97b-dbbd-4429-8cc6-4d438795ae5c'
-    'lead': 'Azerbaijan and Armenia signed a U.S.-brokered peace agreement on Friday
+  'START HERE----->peace-agreement-azerbaijan-armenia':
+    author: 'Andrea Shalal, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T10:42:50.000+08:00
+    imagesource: 'dacc7784-ca91-4eb3-a330-1769d1219652'
+    primarytype: 'composition'
+    uuid: 'edadf97b-dbbd-4429-8cc6-4d438795ae5c'
+    lead: 'Azerbaijan and Armenia signed a U.S.-brokered peace agreement on Friday
       during a meeting with U.S. President Donald Trump that would boost bilateral
       economic ties after decades of conflict and move them toward a full normalization
       of their relations.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T10:45:22.079+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T10:45:22.531+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-09T10:45:22.145+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Donald-Trump', 'azerbaijan', 'armenia']
-    'stories': []
-    'template': '1'
-    'title': 'Trump announces peace agreement between Azerbaijan and Armenia'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9f95cfa6-f0ca-470b-8163-f4b524bd6995'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.116+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.532+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.136+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Washington, US -</strong> Azerbaijan and Armenia signed
+    activationstatus: true
+    created: 2025-08-09T10:45:22.079+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T10:45:22.531+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-09T10:45:22.145+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Trump announces peace agreement between Azerbaijan and Armenia'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '9f95cfa6-f0ca-470b-8163-f4b524bd6995'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.116+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.532+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.136+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Washington, US -</strong> Azerbaijan and Armenia signed
         a U.S.-brokered peace agreement on Friday during a meeting with U.S. President
         Donald Trump that would boost bilateral economic ties after decades of conflict
         and move them toward a full normalization of their relations.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '435729bc-42db-4d97-b542-24993444ac65'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.116+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.533+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.116+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The deal between the South Caucasus rivals - assuming it holds - would
+    section1:
+      primarytype: 'block'
+      uuid: '435729bc-42db-4d97-b542-24993444ac65'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.116+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.533+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.116+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The deal between the South Caucasus rivals - assuming it holds - would
         be a significant accomplishment for the Trump administration that is sure
         to rattle Moscow, which sees the region as within its sphere of influence.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '23959ef9-17fa-4ecb-a58e-b590147365be'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.116+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.535+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.116+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"It’s a long time - 35 years - they fought and now they''re friends,
-        and they''re going to be friends for a long time," Trump said at a signing
+    section2:
+      primarytype: 'block'
+      uuid: '23959ef9-17fa-4ecb-a58e-b590147365be'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.116+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.535+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.116+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"It’s a long time - 35 years - they fought and now they're friends,
+        and they're going to be friends for a long time," Trump said at a signing
         ceremony at the White House, where he was flanked by Azerbaijani President
         Ilham Aliyev and Armenian Prime Minister Nikol Pashinyan.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd8f4e6fb-046f-4097-b604-a25323f33d47'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.117+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.536+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.117+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Armenia and Azerbaijan have been at odds since the late 1980s when
+    section3:
+      primarytype: 'block'
+      uuid: 'd8f4e6fb-046f-4097-b604-a25323f33d47'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.117+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.536+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.117+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Armenia and Azerbaijan have been at odds since the late 1980s when
         Nagorno-Karabakh, a mountainous Azerbaijani region mostly populated by ethnic
         Armenians, broke away from Azerbaijan with support from Armenia. Azerbaijan
         took back full control of the region in 2023, prompting almost all of the
         territory’s 100,000 ethnic Armenians to flee to Armenia.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a9211ab3-a51f-4c97-8c8e-764b62437d52'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.117+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.537+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.117+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump said the two countries had committed to stop fighting, open up
+    section4:
+      primarytype: 'block'
+      uuid: 'a9211ab3-a51f-4c97-8c8e-764b62437d52'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.117+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.537+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.117+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump said the two countries had committed to stop fighting, open up
         diplomatic relations and respect each other’s territorial integrity.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cf0e6bce-181e-4d31-926f-7588bbc023e2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.118+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.538+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.118+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The agreement includes exclusive U.S. development rights to a strategic
+    section5:
+      primarytype: 'block'
+      uuid: 'cf0e6bce-181e-4d31-926f-7588bbc023e2'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.118+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.538+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.118+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The agreement includes exclusive U.S. development rights to a strategic
         transit corridor through the South Caucasus that the White House said would
         facilitate greater exports of energy and other resources.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af41c2eb-990e-4188-82aa-af80487bea36'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.118+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.539+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.118+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump said the United States signed separate deals with each country
+    section6:
+      primarytype: 'block'
+      uuid: 'af41c2eb-990e-4188-82aa-af80487bea36'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.118+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.539+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.118+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump said the United States signed separate deals with each country
         to expand cooperation on energy, trade and technology, including artificial
         intelligence. Details were not released.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1b27be4c-8878-4d9d-90da-f3c303a6235c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.118+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.540+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.118+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said restrictions had also been lifted on defense cooperation between
+    section7:
+      primarytype: 'block'
+      uuid: '1b27be4c-8878-4d9d-90da-f3c303a6235c'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.118+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.540+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.118+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said restrictions had also been lifted on defense cooperation between
         Azerbaijan and the United States, a development that could also worry Moscow.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f12e0144-25fd-4e7f-ba37-c70d553bc54c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.119+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.542+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.119+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Both leaders praised Trump for helping to end the conflict and said
+    section8:
+      primarytype: 'block'
+      uuid: 'f12e0144-25fd-4e7f-ba37-c70d553bc54c'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.119+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.542+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.119+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Both leaders praised Trump for helping to end the conflict and said
         they would nominate him for the Nobel Peace Prize.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b41b4acc-fba9-476b-89ed-0239ced47ebf'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.119+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.543+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.119+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Trump has tried to present himself as a global peacemaker in the first
+    section9:
+      primarytype: 'block'
+      uuid: 'b41b4acc-fba9-476b-89ed-0239ced47ebf'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.119+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.543+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.119+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Trump has tried to present himself as a global peacemaker in the first
         months of his second term. The White House credits him with brokering a ceasefire
         between Cambodia and Thailand and sealing peace deals between Rwanda and the
         Democratic Republic of the Congo, and Pakistan and India.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f0c5d24-386d-44d5-b434-e1ac9ff5849a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.120+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.544+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.120+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'However, he has not managed to end Russia’s 3-1/2-year-old war in
+    section10:
+      primarytype: 'block'
+      uuid: '0f0c5d24-386d-44d5-b434-e1ac9ff5849a'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.120+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.544+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.120+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'However, he has not managed to end Russia’s 3-1/2-year-old war in
         Ukraine or Israel’s conflict with Hamas in Gaza. Trump on Friday said he
         would meet Russian President Vladimir Putin in Alaska on August 15 to work
         on ending the war.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '49af552d-7cce-4177-8927-bea3615214d3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.120+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.545+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.120+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Ending sanctions evasion blind spot</strong></h2>'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd5a2d970-72a9-4895-bc16-868e64b610e3'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.121+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.546+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.121+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. officials said the agreement was hammered out during repeated
+    section11:
+      primarytype: 'block'
+      uuid: '49af552d-7cce-4177-8927-bea3615214d3'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.120+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.545+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.120+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Ending sanctions evasion blind spot</strong></h2>'
+    section12:
+      primarytype: 'block'
+      uuid: 'd5a2d970-72a9-4895-bc16-868e64b610e3'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.121+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.546+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.121+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. officials said the agreement was hammered out during repeated
         visits to the region and would provide a basis for working toward a full normalization
         between the countries.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd24d3802-6ede-460f-888b-977f6edd15a6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.121+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.547+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.121+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The peace deal could transform the South Caucasus, an energy-producing
+    section13:
+      primarytype: 'block'
+      uuid: 'd24d3802-6ede-460f-888b-977f6edd15a6'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.121+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.547+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.121+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The peace deal could transform the South Caucasus, an energy-producing
         region neighboring Russia, Europe, Turkey and Iran that is criss-crossed by
         oil and gas pipelines but riven by closed borders and longstanding ethnic
         conflicts.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a7061253-508a-471c-866e-9a5536651a80'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.122+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.548+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.122+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Brett Erickson, a sanctions expert and adviser to Loyola University’s
+    section14:
+      primarytype: 'block'
+      uuid: 'a7061253-508a-471c-866e-9a5536651a80'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.122+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.548+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.122+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Brett Erickson, a sanctions expert and adviser to Loyola University’s
         Chicago School of Law, said the agreement would help the West crack down on
         Russian efforts to evade sanctions.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3ed23a6d-1499-4947-90f1-1d6aba8c3ae9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.122+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.549+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.122+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“The Caucasus has been a blind spot in sanctions policy," he said.
+    section15:
+      primarytype: 'block'
+      uuid: '3ed23a6d-1499-4947-90f1-1d6aba8c3ae9'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.122+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.549+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.122+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“The Caucasus has been a blind spot in sanctions policy," he said.
         "A formal peace creates a platform for the West to engage Armenia and Azerbaijan
         ... to shut down the evasion pipelines.”'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '57eae41f-e115-426b-852f-0df18b6473d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.123+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.550+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.123+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Tina Dolbaia, an associate fellow at the Center for Strategic and International
+    section16:
+      primarytype: 'block'
+      uuid: '57eae41f-e115-426b-852f-0df18b6473d7'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.123+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.550+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.123+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Tina Dolbaia, an associate fellow at the Center for Strategic and International
         Studies, said Friday’s signing was a big symbolic move, but many questions
         remained, including which U.S. companies might control the new transit corridor
         and how involved Armenia and Azerbaijan would be in its construction.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '609f7bec-2ecd-404b-9e4e-f015f300ab81'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.123+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.551+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.123+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'She said Russia would likely be irritated by being excluded from the
+    section17:
+      primarytype: 'block'
+      uuid: '609f7bec-2ecd-404b-9e4e-f015f300ab81'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.123+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.551+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.123+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'She said Russia would likely be irritated by being excluded from the
         agreement and the U.S. role in the corridor. "Now the fact that ... Armenians
         are shaking hands with Azerbaijanis, and they are talking about US involvement
         in this corridor - this is huge for Russia," she said.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1e108d23-c00b-4fe2-82ca-40cae564d963'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.124+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.552+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.124+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Olesya Vartanyan, an independent regional expert, said the deal added
+    section18:
+      primarytype: 'block'
+      uuid: '1e108d23-c00b-4fe2-82ca-40cae564d963'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.124+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.552+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.124+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Olesya Vartanyan, an independent regional expert, said the deal added
         greater predictability to the region, but its long-term prospects would depend
         on continued U.S. engagement.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '0f82f293-f618-4ae1-982c-39c5c473ef69'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.124+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.553+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.124+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Armenia and Azerbaijan ... have a much longer track record of failed
+    section19:
+      primarytype: 'block'
+      uuid: '0f82f293-f618-4ae1-982c-39c5c473ef69'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.124+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.553+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.124+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Armenia and Azerbaijan ... have a much longer track record of failed
         negotiations and violent escalations than of peaceful resolutions," she said.
         "Without proper and continued U.S. involvement, the issue will likely get
         deadlocked again, increasing the chances of renewed tensions."'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '11c9596e-32b2-44c4-b50d-7d720dcdfdd5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.125+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.555+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.125+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Senior administration officials said the agreement marked the end to
+    section20:
+      primarytype: 'block'
+      uuid: '11c9596e-32b2-44c4-b50d-7d720dcdfdd5'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.125+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.555+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.125+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Senior administration officials said the agreement marked the end to
         the first of several frozen conflicts on Russia’s periphery since the end
         of the Cold War, sending a powerful signal to the entire region.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '515f785c-d1de-45b0-aaf0-78e07121e51f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.125+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.556+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.125+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Armenia plans to award the U.S. exclusive special development rights
+    section21:
+      primarytype: 'block'
+      uuid: '515f785c-d1de-45b0-aaf0-78e07121e51f'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.125+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.556+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.125+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Armenia plans to award the U.S. exclusive special development rights
         for an extended period on the transit corridor, U.S. officials told Reuters
         this week. The so-called Trump Route for International Peace and Prosperity
         has already drawn interest from nine companies, including three U.S. firms,
         one official said on condition of anonymity.'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '12628631-004f-419c-bf9e-bffc7f5ef7b0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.126+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.557+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.126+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Daphne Panayotatos, with the Washington-based rights group Freedom
+    section22:
+      primarytype: 'block'
+      uuid: '12628631-004f-419c-bf9e-bffc7f5ef7b0'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.126+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.557+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.126+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Daphne Panayotatos, with the Washington-based rights group Freedom
         Now, said it had urged the Trump administration to use the meeting with Aliyev
         to demand the release of some 375 political prisoners held in the country.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5661c772-e846-4389-af41-15844ca4dd41'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.126+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.558+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.126+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Azerbaijan, an oil-producing country that hosted the United Nations
+    section23:
+      primarytype: 'block'
+      uuid: '5661c772-e846-4389-af41-15844ca4dd41'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.126+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.558+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.126+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Azerbaijan, an oil-producing country that hosted the United Nations
         climate summit last November, has rejected Western criticism of its human
         rights record, describing it as unacceptable interference.'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cb631416-453c-47c4-9ba2-1ab3a2288d82'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T10:45:22.127+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T10:45:22.559+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T10:45:22.127+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Andrea Shalal; Additional reporting by Daphne
+    section24:
+      primarytype: 'block'
+      uuid: 'cb631416-453c-47c4-9ba2-1ab3a2288d82'
+      activationstatus: true
+      created: 2025-08-09T10:45:22.127+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T10:45:22.559+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T10:45:22.127+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Andrea Shalal; Additional reporting by Daphne
         Psaledakis, Lucy Papachristou, Christian Martinez and Costas Pitas; Writing
         by Andy Sullivan and Andrea Shalal; Editing by Alex Richardson, Mark Porter,
         Paul Simao, Richard Chang and Diane Craft)</em></p>'
-  'marcos-on-sc-impeachment-ruling':
-    'caption': 'From left to right: President Bongbong Marcos, Vice President Sara
+  'START HERE----->marcos-on-sc-impeachment-ruling':
+    caption: 'From left to right: President Bongbong Marcos, Vice President Sara
       Duterte'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T11:33:07.000+08:00
-    'imagesource': 'jcr:beb3e4da-aff8-4f39-ad9e-dc23ede499c2'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '815fc359-f8e1-4387-9d86-9971def029b4'
-    'lead': 'The Supreme Court’s (SC) decision to void Vice President Sara Duterte’s
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T11:33:07.000+08:00
+    imagesource: 'beb3e4da-aff8-4f39-ad9e-dc23ede499c2'
+    primarytype: 'composition'
+    uuid: '815fc359-f8e1-4387-9d86-9971def029b4'
+    lead: 'The Supreme Court’s (SC) decision to void Vice President Sara Duterte’s
       impeachment case was not based on merits but only on procedural grounds, President
       Ferdinand Marcos Jr. said.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T11:35:46.517+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T11:35:46.853+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-09T11:35:46.557+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Ferdinand-Marcos-Jr.', 'Sara-Duterte', 'impeachment']
-    'stories': []
-    'template': '1'
-    'title': 'SC ruling on Duterte impeachment not based on merits - Marcos'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e01e7b65-e6da-4b84-a0c0-d0ed2be4e426'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.543+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.854+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.552+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Supreme Court’s
+    activationstatus: true
+    created: 2025-08-09T11:35:46.517+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T11:35:46.853+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-09T11:35:46.557+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'SC ruling on Duterte impeachment not based on merits - Marcos'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'e01e7b65-e6da-4b84-a0c0-d0ed2be4e426'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.543+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.854+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.552+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Supreme Court’s
         (SC) decision to void Vice President Sara Duterte’s impeachment case was
         not based on merits but only on procedural grounds, President Ferdinand Marcos
         Jr. said.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '029d73e4-18e2-48bc-9a25-c069d1436085'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.543+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.855+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.543+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marcos made this remark in an interview with the media in India on
+    section1:
+      primarytype: 'block'
+      uuid: '029d73e4-18e2-48bc-9a25-c069d1436085'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.543+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.855+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.543+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Marcos made this remark in an interview with the media in India on
         Friday, Aug. 8.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '63478a70-2708-483a-8b1a-ab742957c63c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.544+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.856+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president said the SC ruling to declare Duterte’s impeachment unconstitutional
+    section2:
+      primarytype: 'block'
+      uuid: '63478a70-2708-483a-8b1a-ab742957c63c'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.544+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.856+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The president said the SC ruling to declare Duterte’s impeachment unconstitutional
         “does not have any bearing on the rightness or wrongness of the merits of
         the impeachment case.”'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc62a022-ea72-4309-b157-995be0aac2cb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.544+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.857+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.544+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“They''re not saying that there was no wrongdoing. Neither are they
+    section3:
+      primarytype: 'block'
+      uuid: 'dc62a022-ea72-4309-b157-995be0aac2cb'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.544+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.857+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.544+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“They're not saying that there was no wrongdoing. Neither are they
         saying that there was no wrongdoing. Neither are they saying that there was
-        wrongdoing. All they''re saying is that you did not handle it properly,” Marcos
+        wrongdoing. All they're saying is that you did not handle it properly,” Marcos
         said.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f985fd8a-0fa3-45bd-9adc-ad554b73d2f9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.859+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He also pointed out that the ruling does not question the government’s
+    section4:
+      primarytype: 'block'
+      uuid: 'f985fd8a-0fa3-45bd-9adc-ad554b73d2f9'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.859+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He also pointed out that the ruling does not question the government’s
         mechanisms to hold public officials accountable.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '25c3923a-36b5-4e95-98b0-722fb96fe209'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.860+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>In a landslide vote, the Senate earlier decided to ‘<strong><a href="https://www.newswatchplus.ph/news/2025/8/6/Senate-archives-Duterte-impeachment-complaint.html">archive</a></strong>’
+    section5:
+      primarytype: 'block'
+      uuid: '25c3923a-36b5-4e95-98b0-722fb96fe209'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.860+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>In a landslide vote, the Senate earlier decided to ‘<strong><a href="https://www.newswatchplus.ph/news/2025/8/6/Senate-archives-Duterte-impeachment-complaint.html">archive</a></strong>’
         Duterte’s impeachment case despite calls from some lawmakers to wait for the
         verdict on the motions for reconsideration against the SC ruling.</p>'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f8c26abf-1cbb-48c9-95a5-8c572abb1370'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.545+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.861+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.545+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>“Accountability just doesn''t come into it here. It’s an entirely,
+    section6:
+      primarytype: 'block'
+      uuid: 'f8c26abf-1cbb-48c9-95a5-8c572abb1370'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.545+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.861+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.545+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>“Accountability just doesn't come into it here. It’s an entirely,
         highly tangential matter. It is not a central point in the discussion,” said
         Marcos.</p>'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f070543c-3381-414d-a795-8a6eae99ab8d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.546+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.862+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The president reiterated that he had no hand in Duterte’s impeachment.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '14f9fd2d-6ef6-47c2-b4bc-d80f7f0d4deb'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.546+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.863+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.546+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“It would be highly improper for me to tell my friends who are in the
+    section7:
+      primarytype: 'block'
+      uuid: 'f070543c-3381-414d-a795-8a6eae99ab8d'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.546+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.862+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The president reiterated that he had no hand in Duterte’s impeachment.'
+    section8:
+      primarytype: 'block'
+      uuid: '14f9fd2d-6ef6-47c2-b4bc-d80f7f0d4deb'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.546+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.863+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.546+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“It would be highly improper for me to tell my friends who are in the
         Senate and who are in the House. So, yes, they ask and we talk about it but
         it’s not as if I try to direct their actions,” he said.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1a30ebbf-e8e3-4a25-b38f-b82994464f6b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.864+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p>Duterte was <strong><a href="https://www.google.com/search?q=newswatchplus.ph+house+impeaches+duterte&amp;client=safari&amp;sca_esv=e8b3de2c0113d5ce&amp;rls=en&amp;sxsrf=AE3TifNQvdMaIVzePXiS0WGzTH_As-t0oQ%3A1754710486316&amp;ei=1sGWaLmKE_-k2roPtdfq6A8&amp;oq=newswatchplus.ph+house%C2%A0&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGG5ld3N3YXRjaHBsdXMucGggaG91c2XCoCoCCAAyBBAjGCcyBBAjGCcyBBAjGCcyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEiXI1DPGFimHXAFeACQAQKYAakEoAGnD6oBCTAuNC4xLjUtMrgBAcgBAPgBAZgCBKACiwaYAwCIBgGSBwUwLjMuMaAH3TKyBwUwLjMuMbgHiwbCBwMyLTTIBxA&amp;sclient=gws-wiz-serp">impeached</a></strong>
+    section9:
+      primarytype: 'block'
+      uuid: '1a30ebbf-e8e3-4a25-b38f-b82994464f6b'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.864+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p>Duterte was <strong><a href="https://www.google.com/search?q=newswatchplus.ph+house+impeaches+duterte&amp;client=safari&amp;sca_esv=e8b3de2c0113d5ce&amp;rls=en&amp;sxsrf=AE3TifNQvdMaIVzePXiS0WGzTH_As-t0oQ%3A1754710486316&amp;ei=1sGWaLmKE_-k2roPtdfq6A8&amp;oq=newswatchplus.ph+house%C2%A0&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGG5ld3N3YXRjaHBsdXMucGggaG91c2XCoCoCCAAyBBAjGCcyBBAjGCcyBBAjGCcyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEiXI1DPGFimHXAFeACQAQKYAakEoAGnD6oBCTAuNC4xLjUtMrgBAcgBAPgBAZgCBKACiwaYAwCIBgGSBwUwLjMuMaAH3TKyBwUwLjMuMbgHiwbCBwMyLTTIBxA&amp;sclient=gws-wiz-serp">impeached</a></strong>
         in February over supposed graft and corruption, betrayal of public trust,
         culpable violation of the Constitution, and other high crimes. The case revolved
         around the vice president’s controversial budget spending and threats to the
         president’s family, among others.</p>'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1fbb0ec1-6807-458b-990d-07004be24184'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T11:35:46.547+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T11:35:46.865+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T11:35:46.547+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
+    section10:
+      primarytype: 'block'
+      uuid: '1fbb0ec1-6807-458b-990d-07004be24184'
+      activationstatus: true
+      created: 2025-08-09T11:35:46.547+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T11:35:46.865+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T11:35:46.547+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>NewsWatch Plus correspondent Lance Mejico contributed to this
         report.</em></p>'
-  'solomon-Islands-blocks-us-china-taiwan':
-    'author': 'Kirsty Needham, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T13:53:55.000+08:00
-    'imagesource': 'jcr:375958a8-f4ab-457c-a6f4-8ff06f6dbacf'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '00a43c0d-04f5-4efd-9592-28bc0f534d13'
-    'lead': 'Solomon Islands Prime Minister Jeremiah Manele has said that 21 donor
+  'START HERE----->solomon-Islands-blocks-us-china-taiwan':
+    author: 'Kirsty Needham, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T13:53:55.000+08:00
+    imagesource: '375958a8-f4ab-457c-a6f4-8ff06f6dbacf'
+    primarytype: 'composition'
+    uuid: '00a43c0d-04f5-4efd-9592-28bc0f534d13'
+    lead: 'Solomon Islands Prime Minister Jeremiah Manele has said that 21 donor
       countries, including the United States and China, will not be invited to the
       region’s top political meeting, a move that follows pressure from Beijing to
       exclude Taiwan.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T13:56:49.685+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T13:56:50.216+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-09T13:56:49.731+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['China', 'United-States', 'Taiwan']
-    'stories': []
-    'template': '1'
-    'title': 'Solomon Islands blocks US, China, Taiwan from Pacific’s top political
+    activationstatus: true
+    created: 2025-08-09T13:56:49.685+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T13:56:50.216+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-09T13:56:49.731+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Solomon Islands blocks US, China, Taiwan from Pacific’s top political
       meet'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4f5e4b5f-b5ed-4ffb-b166-745c8a30d0ea'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.707+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.217+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.723+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Sydney, Australia -</strong> Solomon Islands Prime Minister
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '4f5e4b5f-b5ed-4ffb-b166-745c8a30d0ea'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.707+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.217+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.723+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Sydney, Australia -</strong> Solomon Islands Prime Minister
         Jeremiah Manele has said that 21 donor countries, including the United States
         and China, will not be invited to the region’s top political meeting, a move
         that follows pressure from Beijing to exclude Taiwan.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8f38dfff-5f5d-43ef-b6a2-64eb5747412c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.707+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.218+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.707+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'China’s biggest security ally in the Pacific Islands, the Solomon
+    section1:
+      primarytype: 'block'
+      uuid: '8f38dfff-5f5d-43ef-b6a2-64eb5747412c'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.707+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.218+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.707+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'China’s biggest security ally in the Pacific Islands, the Solomon
         Islands is hosting the annual meeting of the 18-member bloc’s forum in September.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'be455a69-68a8-4318-9de5-aa13ca11061f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.708+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.219+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.708+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Three island states have diplomatic ties with Taiwan and not China,
+    section2:
+      primarytype: 'block'
+      uuid: 'be455a69-68a8-4318-9de5-aa13ca11061f'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.708+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.219+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.708+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Three island states have diplomatic ties with Taiwan and not China,
         and they had expressed concern Taiwanese officials would be blocked from entering
         the country. Solomon Islands switched ties from Taiwan to China in 2019, and
         removed Taiwan from a list of countries eligible for concessional entry in
         April.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fb432596-caab-4838-8909-b8328ae525d7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.708+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.221+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.708+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Beijing, which has deepened its ties in the Pacific, claims Taiwan
+    section3:
+      primarytype: 'block'
+      uuid: 'fb432596-caab-4838-8909-b8328ae525d7'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.708+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.221+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.708+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Beijing, which has deepened its ties in the Pacific, claims Taiwan
         as its own territory.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '952ac21b-9879-4487-89b2-d01176159470'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.708+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.222+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.708+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Manele told the Solomon Islands parliament on Wednesday his cabinet
+    section4:
+      primarytype: 'block'
+      uuid: '952ac21b-9879-4487-89b2-d01176159470'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.708+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.222+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.708+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Manele told the Solomon Islands parliament on Wednesday his cabinet
         had decided no dialogue partners would be invited to this year’s event, because
         a review of each country’s relationship with the Pacific had not been completed.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '79f86d4f-4df1-4300-8042-55fe096518f1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.709+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.223+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.709+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'He said he had informed the forum’s 18 leaders of the decision this
+    section5:
+      primarytype: 'block'
+      uuid: '79f86d4f-4df1-4300-8042-55fe096518f1'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.709+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.223+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.709+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'He said he had informed the forum’s 18 leaders of the decision this
         week.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'df560e01-8152-40ce-bdb4-230094be00e7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.709+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.224+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.709+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The World Bank, Asia Development Bank and civil society groups would
+    section6:
+      primarytype: 'block'
+      uuid: 'df560e01-8152-40ce-bdb4-230094be00e7'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.709+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.224+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.709+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The World Bank, Asia Development Bank and civil society groups would
         attend, he added.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '89ac4de4-2170-4f9a-95ae-3d418c917278'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.710+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.225+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.710+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'A U.S. State Department spokesperson said the United States is "disappointed
+    section7:
+      primarytype: 'block'
+      uuid: '89ac4de4-2170-4f9a-95ae-3d418c917278'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.710+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.225+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.710+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'A U.S. State Department spokesperson said the United States is "disappointed
         by reports that Solomon Islands has decided to exclude dialogue and development
         partners from the PIF Leaders Meeting this year," referring to the Pacific
         Island Forum.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e37136f6-4674-4283-8738-07d337a2da72'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.710+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.226+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.710+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We support the continued attendance of all PIF partners, including
+    section8:
+      primarytype: 'block'
+      uuid: 'e37136f6-4674-4283-8738-07d337a2da72'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.710+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.226+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.710+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We support the continued attendance of all PIF partners, including
         Taiwan, at the annual PIF Leaders Meeting, as previously agreed by PIF leaders
         in 1992," the spokesperson added.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '8c3a1aa8-8d49-4330-a3df-fd78e5083a7d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.228+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Opposition party politician Peter Kenilorea Jr, chairman of the parliament’s
+    section9:
+      primarytype: 'block'
+      uuid: '8c3a1aa8-8d49-4330-a3df-fd78e5083a7d'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.228+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Opposition party politician Peter Kenilorea Jr, chairman of the parliament’s
         foreign relations committee, said the decision was "a massive missed opportunity"
         for Pacific Island countries to meet global donors.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '52b91a4b-a0a0-4c4a-9ff2-459c46c286af'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.229+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We know this issue is all about China and Taiwan," he told parliament.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b70e85d4-9cc8-4667-83e4-38823675c6b5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.711+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.230+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.711+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'After forum leaders were told of the decision, Marshall Islands President
+    section10:
+      primarytype: 'block'
+      uuid: '52b91a4b-a0a0-4c4a-9ff2-459c46c286af'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.229+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We know this issue is all about China and Taiwan," he told parliament.'
+    section11:
+      primarytype: 'block'
+      uuid: 'b70e85d4-9cc8-4667-83e4-38823675c6b5'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.711+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.230+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.711+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'After forum leaders were told of the decision, Marshall Islands President
         Hilda Heine criticised interference in the forum’s affairs in a speech to
         the Taiwan ally’s parliament.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '28c0a5f1-1ad6-4d9e-8edd-93c17c319b73'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.712+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.231+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.712+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'China had "interfered" at last year’s meeting in Tonga to change the
-        language of the leaders'' communique, Heine said. References to Taiwan were
+    section12:
+      primarytype: 'block'
+      uuid: '28c0a5f1-1ad6-4d9e-8edd-93c17c319b73'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.712+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.231+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.712+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'China had "interfered" at last year’s meeting in Tonga to change the
+        language of the leaders' communique, Heine said. References to Taiwan were
         removed after Chinese diplomats complained.'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'aa52149b-2ee5-406a-9ec5-aa122ede9734'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.712+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.232+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.712+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Pacific Islands is among the world’s most aid-reliant regions,
+    section13:
+      primarytype: 'block'
+      uuid: 'aa52149b-2ee5-406a-9ec5-aa122ede9734'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.712+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.232+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.712+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Pacific Islands is among the world’s most aid-reliant regions,
         and on the frontline of rising sea levels and the region has also been a focus
         of increasing security competition between the United States and China.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '1c8d8497-5524-47c7-8ac6-6980b834262a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.713+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.233+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'While U.S. allies Australia and New Zealand are the largest forum members,
+    section14:
+      primarytype: 'block'
+      uuid: '1c8d8497-5524-47c7-8ac6-6980b834262a'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.713+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.233+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'While U.S. allies Australia and New Zealand are the largest forum members,
         neither Beijing nor Washington are part of the group.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe7aa45f-9521-4b8c-9268-198b53787b74'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.713+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.234+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.713+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Kenilorea Jr said he feared that China, which has a strong presence
+    section15:
+      primarytype: 'block'
+      uuid: 'fe7aa45f-9521-4b8c-9268-198b53787b74'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.713+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.234+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.713+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Kenilorea Jr said he feared that China, which has a strong presence
         in Solomon Islands, will hold bilateral meetings with Pacific leaders on the
         margins of the forum regardless.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a087db34-4fd8-4090-95ea-acb65b989ea8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.714+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.235+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.714+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"This could be seen by some PIF leaders as a betrayal of the collective
+    section16:
+      primarytype: 'block'
+      uuid: 'a087db34-4fd8-4090-95ea-acb65b989ea8'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.714+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.235+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.714+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"This could be seen by some PIF leaders as a betrayal of the collective
         and could risk an even bigger rift of the group," he said in comments to Reuters.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'de03b966-7cdd-4b5f-9162-19d7fbb7e0ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.714+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.236+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.714+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'China’s embassy did not respond to a request for comment.'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'dc7bbc6d-dd10-4c28-8d6a-f2d865b3c421'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.715+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.237+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.715+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The forum’s foreign ministers will meet in Fiji next week.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'e99957e4-bbf5-4cfc-b637-daeb693e526b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T13:56:49.715+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T13:56:50.238+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T13:56:49.715+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Kirsty Needham in Sydney; Additional reporting
+    section17:
+      primarytype: 'block'
+      uuid: 'de03b966-7cdd-4b5f-9162-19d7fbb7e0ee'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.714+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.236+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.714+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'China’s embassy did not respond to a request for comment.'
+    section18:
+      primarytype: 'block'
+      uuid: 'dc7bbc6d-dd10-4c28-8d6a-f2d865b3c421'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.715+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.237+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.715+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The forum’s foreign ministers will meet in Fiji next week.'
+    section19:
+      primarytype: 'block'
+      uuid: 'e99957e4-bbf5-4cfc-b637-daeb693e526b'
+      activationstatus: true
+      created: 2025-08-09T13:56:49.715+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T13:56:50.238+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T13:56:49.715+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Kirsty Needham in Sydney; Additional reporting
         by David Brunnstrom in Washington; Editing by Kate Mayberry and Diane Craft)</em></p>'
-  'fast-lane-hospitals-leptospirosis-assessment':
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T15:19:16.000+08:00
-    'imagesource': 'jcr:772a4c9d-1153-4110-891c-90ca2c760932'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': '657f93f1-c39b-4da1-bef0-923c8c7951ee'
-    'lead': 'The Department of Health (DOH) on Saturday, Aug. 9, opened “fast lanes”
+  'START HERE----->fast-lane-hospitals-leptospirosis-assessment':
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T15:19:16.000+08:00
+    imagesource: '772a4c9d-1153-4110-891c-90ca2c760932'
+    primarytype: 'composition'
+    uuid: '657f93f1-c39b-4da1-bef0-923c8c7951ee'
+    lead: 'The Department of Health (DOH) on Saturday, Aug. 9, opened “fast lanes”
       hospitals for patients exposed in floodwaters amid the rising cases of leptospirosis.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T15:20:59.168+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T15:20:59.622+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-09T15:20:59.228+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['leptospirosis', 'DOH']
-    'stories': []
-    'template': '1'
-    'title': 'DOH opens ‘fast lane’ hospitals for leptospirosis assessment'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c25c2b8c-6dd7-4182-a83a-649f89983aa8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.195+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.218+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Metro Manila, Philippines -</strong> The Department of Health
+    activationstatus: true
+    created: 2025-08-09T15:20:59.168+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T15:20:59.622+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-09T15:20:59.228+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'DOH opens ‘fast lane’ hospitals for leptospirosis assessment'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: 'c25c2b8c-6dd7-4182-a83a-649f89983aa8'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.195+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.218+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Metro Manila, Philippines -</strong> The Department of Health
         (DOH) on Saturday, Aug. 9, opened “fast lanes” hospitals for patients exposed
         in floodwaters amid the rising cases of leptospirosis.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '32e7a8ca-cd61-43cf-8223-8f4fd6c73f33'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.196+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.196+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Nineteen DOH hospitals were identified to assess patients with suspected
+    section1:
+      primarytype: 'block'
+      uuid: '32e7a8ca-cd61-43cf-8223-8f4fd6c73f33'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.196+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.196+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Nineteen DOH hospitals were identified to assess patients with suspected
         leptospirosis.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3b20ad72-1d10-4737-ab1b-acf6d4a3ee13'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.196+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.625+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.196+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'These are:'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '54d614fa-cc8f-4e23-bc45-d62df7fdd4e6'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.196+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.626+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.196+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '1. San Lorenzo Ruiz General Hospital'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'af8c7083-4af6-42e5-8e34-cb1046cc7fe0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.197+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.628+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.197+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '2. East Avenue Medical Center'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'becdb9e8-abdd-4630-9ec1-12b42e468c1b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.197+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.629+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.197+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '3. Quirino Memorial Medical Center'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '36abc5c4-22a3-4785-b551-e60fd13ce4ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.198+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.630+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.198+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '4. Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd1254d42-945a-438a-b635-e35ef344f8c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.198+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.631+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.198+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '5. Dr. Jose Fabella Memorial Hospital'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '44cfa9c7-650d-4837-8393-12975aff1b6c'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.198+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.632+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.198+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '6. Philippine Orthopedic Center'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'fe21d46d-3ca4-4138-93b6-f587124659c9'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.199+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.634+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.199+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '7. San Lazaro Hospital'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3832d3d0-bb4c-4461-a3c1-1dd5b65333e0'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.199+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.635+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.199+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '8. Valenzuela Medical Center'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c84d97e0-d538-4713-a252-bb5fff6408ae'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.200+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.636+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.200+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '9. Tondo Medical Center'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'db2d31c3-7c7f-44ad-94e8-2096289126bc'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.200+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.637+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.200+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '10. Las Piñas General Hospital and Satellite Trauma Center'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'cd118b16-5672-4694-bcff-90201e8387e2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.201+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.638+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.201+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '11. Amang Rodriguez Memorial Medical Center'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f5b3c3a9-b930-42b5-9312-113f7671c370'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.201+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.639+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.201+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '12. Rizal Medical Center'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '5fab0a80-2100-4a60-86ba-581c3e6b5640'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.202+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.640+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.202+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '13. Jose R. Reyes Memorial Medical Center'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'd94621f2-91a8-4fc0-8e2f-c9679844e5a7'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.202+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.641+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.202+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '14. National Children’s Hospital'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '64485ee3-ee24-4cfa-945b-6e87d8c8f830'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.203+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.643+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.203+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '15. National Center for Mental Health'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9edc32d0-26c8-4833-a7b5-960cbc7ef61b'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.203+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.644+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.203+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '16. Lung Center of the Philippines'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '45fe6b62-59b9-4280-a91d-d0675cf16226'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.204+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.645+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.204+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '17. National Kidney and Transplant Institute'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '4e8cb14c-18f7-4e8c-8ae4-2b26ccfd6ef2'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.204+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.646+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.204+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '18. Philippine Children’s Medical Center'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '56f8baf7-45d6-43eb-a8cc-f3ef635d677f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.205+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.647+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.205+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '19. Research Institute for Tropical Medicine'
-    '22':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9472c8bc-ee8b-4f74-b00b-2ca3ecce75fe'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.205+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.648+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.205+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '“Dito rin tinitignan ang risk level ng pasyente para mabigyan ng reseta
+    section2:
+      primarytype: 'block'
+      uuid: '3b20ad72-1d10-4737-ab1b-acf6d4a3ee13'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.196+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.625+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.196+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'These are:'
+    section3:
+      primarytype: 'block'
+      uuid: '54d614fa-cc8f-4e23-bc45-d62df7fdd4e6'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.196+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.626+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.196+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '1. San Lorenzo Ruiz General Hospital'
+    section4:
+      primarytype: 'block'
+      uuid: 'af8c7083-4af6-42e5-8e34-cb1046cc7fe0'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.197+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.628+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.197+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '2. East Avenue Medical Center'
+    section5:
+      primarytype: 'block'
+      uuid: 'becdb9e8-abdd-4630-9ec1-12b42e468c1b'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.197+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.629+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.197+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '3. Quirino Memorial Medical Center'
+    section6:
+      primarytype: 'block'
+      uuid: '36abc5c4-22a3-4785-b551-e60fd13ce4ae'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.198+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.630+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.198+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '4. Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium'
+    section7:
+      primarytype: 'block'
+      uuid: 'd1254d42-945a-438a-b635-e35ef344f8c1'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.198+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.631+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.198+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '5. Dr. Jose Fabella Memorial Hospital'
+    section8:
+      primarytype: 'block'
+      uuid: '44cfa9c7-650d-4837-8393-12975aff1b6c'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.198+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.632+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.198+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '6. Philippine Orthopedic Center'
+    section9:
+      primarytype: 'block'
+      uuid: 'fe21d46d-3ca4-4138-93b6-f587124659c9'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.199+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.634+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.199+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '7. San Lazaro Hospital'
+    section10:
+      primarytype: 'block'
+      uuid: '3832d3d0-bb4c-4461-a3c1-1dd5b65333e0'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.199+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.635+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.199+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '8. Valenzuela Medical Center'
+    section11:
+      primarytype: 'block'
+      uuid: 'c84d97e0-d538-4713-a252-bb5fff6408ae'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.200+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.636+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.200+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '9. Tondo Medical Center'
+    section12:
+      primarytype: 'block'
+      uuid: 'db2d31c3-7c7f-44ad-94e8-2096289126bc'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.200+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.637+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.200+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '10. Las Piñas General Hospital and Satellite Trauma Center'
+    section13:
+      primarytype: 'block'
+      uuid: 'cd118b16-5672-4694-bcff-90201e8387e2'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.201+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.638+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.201+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '11. Amang Rodriguez Memorial Medical Center'
+    section14:
+      primarytype: 'block'
+      uuid: 'f5b3c3a9-b930-42b5-9312-113f7671c370'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.201+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.639+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.201+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '12. Rizal Medical Center'
+    section15:
+      primarytype: 'block'
+      uuid: '5fab0a80-2100-4a60-86ba-581c3e6b5640'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.202+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.640+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.202+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '13. Jose R. Reyes Memorial Medical Center'
+    section16:
+      primarytype: 'block'
+      uuid: 'd94621f2-91a8-4fc0-8e2f-c9679844e5a7'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.202+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.641+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.202+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '14. National Children’s Hospital'
+    section17:
+      primarytype: 'block'
+      uuid: '64485ee3-ee24-4cfa-945b-6e87d8c8f830'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.203+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.643+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.203+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '15. National Center for Mental Health'
+    section18:
+      primarytype: 'block'
+      uuid: '9edc32d0-26c8-4833-a7b5-960cbc7ef61b'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.203+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.644+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.203+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '16. Lung Center of the Philippines'
+    section19:
+      primarytype: 'block'
+      uuid: '45fe6b62-59b9-4280-a91d-d0675cf16226'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.204+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.645+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.204+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '17. National Kidney and Transplant Institute'
+    section20:
+      primarytype: 'block'
+      uuid: '4e8cb14c-18f7-4e8c-8ae4-2b26ccfd6ef2'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.204+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.646+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.204+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '18. Philippine Children’s Medical Center'
+    section21:
+      primarytype: 'block'
+      uuid: '56f8baf7-45d6-43eb-a8cc-f3ef635d677f'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.205+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.647+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.205+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '19. Research Institute for Tropical Medicine'
+    section22:
+      primarytype: 'block'
+      uuid: '9472c8bc-ee8b-4f74-b00b-2ca3ecce75fe'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.205+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.648+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.205+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '“Dito rin tinitignan ang risk level ng pasyente para mabigyan ng reseta
         sa tamang paggamit ng doxycycline,” the agency said.'
-    '23':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '48866964-cb79-4a43-be4f-76408d53586d'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.206+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.649+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.206+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '[Translation: This is also where the patient’s risk level is assessed
+    section23:
+      primarytype: 'block'
+      uuid: '48866964-cb79-4a43-be4f-76408d53586d'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.206+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.649+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.206+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '[Translation: This is also where the patient’s risk level is assessed
         to prescribe the proper use of doxycycline.]'
-    '24':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '498b0a45-10ea-43ba-bf0b-94ac4b31a03a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.206+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.650+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.206+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Doxycycline is an antibiotic drug.'
-    '25':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9a6b2af7-fd26-4790-ad11-12eb602bc52f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.207+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.651+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.207+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The DOH said it is expecting further uptick in leptospirosis cases
+    section24:
+      primarytype: 'block'
+      uuid: '498b0a45-10ea-43ba-bf0b-94ac4b31a03a'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.206+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.650+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.206+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Doxycycline is an antibiotic drug.'
+    section25:
+      primarytype: 'block'
+      uuid: '9a6b2af7-fd26-4790-ad11-12eb602bc52f'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.207+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.651+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.207+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The DOH said it is expecting further uptick in leptospirosis cases
         because of widespread floods from successive storms and the southwest monsoon.'
-    '26':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '75a24a10-b52f-42ec-900e-b7a6f9d7ef18'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T15:20:59.207+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T15:20:59.652+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T15:20:59.207+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'According to the agency, it recorded 2,396 leptospirosis cases from
+    section26:
+      primarytype: 'block'
+      uuid: '75a24a10-b52f-42ec-900e-b7a6f9d7ef18'
+      activationstatus: true
+      created: 2025-08-09T15:20:59.207+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T15:20:59.652+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T15:20:59.207+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'According to the agency, it recorded 2,396 leptospirosis cases from
         June 8 to Aug. 7.<p><br></p>'
-  'canada-job-loss-tariffs-dent-hiring-plans':
-    'author': 'Promit Mukherjee and Divya Rajagopal, Reuters'
-    'categories': ['47875775-1e19-4807-a703-c6d00e541860']
-    'created': 2025-08-09T16:03:20.000+08:00
-    'imagesource': 'jcr:53ca91e6-4e48-4f3a-aabf-6a4165a3b3e3'
-    'jcr:primaryType': 'mgnl:composition'
-    'jcr:uuid': 'd2e3a6fe-1c3b-4bfa-8c87-072f369f5c49'
-    'lead': 'The Canadian economy lost tens of thousands of jobs in July, sending
+  'START HERE----->canada-job-loss-tariffs-dent-hiring-plans':
+    author: 'Promit Mukherjee and Divya Rajagopal, Reuters'
+    categories: '47875775-1e19-4807-a703-c6d00e541860'
+    created: 2025-08-09T16:03:20.000+08:00
+    imagesource: '53ca91e6-4e48-4f3a-aabf-6a4165a3b3e3'
+    primarytype: 'composition'
+    uuid: 'd2e3a6fe-1c3b-4bfa-8c87-072f369f5c49'
+    lead: 'The Canadian economy lost tens of thousands of jobs in July, sending
       the share of people employed to an eight-month low, data showed on Friday, as
       the labor market gave back the gains seen in the prior month.'
-    'mgnl:activationStatus': true
-    'mgnl:created': 2025-08-09T16:06:03.158+08:00
-    'mgnl:createdBy': 'lance-nwp'
-    'mgnl:lastActivated': 2025-08-09T16:06:03.600+08:00
-    'mgnl:lastActivatedBy': 'superuser'
-    'mgnl:lastModified': 2025-08-09T16:06:03.210+08:00
-    'mgnl:lastModifiedBy': 'lance-nwp'
-    'mgnl:tags': ['Canada']
-    'stories': []
-    'template': '1'
-    'title': 'Canada sheds tens of thousands of jobs as tariffs dent hiring plans'
-    'visualType': 'image'
-    '0':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '809f141b-774d-4631-ac86-1017b73975c4'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.184+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.601+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.202+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><strong>Ottawa, Canada -</strong> The Canadian economy lost tens
+    activationstatus: true
+    created: 2025-08-09T16:06:03.158+08:00
+    createdby: 'lance-nwp'
+    lastactivated: 2025-08-09T16:06:03.600+08:00
+    lastactivatedby: 'superuser'
+    lastmodified: 2025-08-09T16:06:03.210+08:00
+    lastmodifiedby: 'lance-nwp'
+    tags: ''
+    stories: ''
+    template: '1'
+    title: 'Canada sheds tens of thousands of jobs as tariffs dent hiring plans'
+    visualtype: 'image'
+    section0:
+      primarytype: 'block'
+      uuid: '809f141b-774d-4631-ac86-1017b73975c4'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.184+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.601+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.202+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><strong>Ottawa, Canada -</strong> The Canadian economy lost tens
         of thousands of jobs in July, sending the share of people employed to an eight-month
         low, data showed on Friday, as the labor market gave back the gains seen in
         the prior month.</p>'
-    '1':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '60883507-bb9e-4636-a869-e8bc5cec919f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.185+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.602+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.185+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The economy shed 40,800 jobs in July, compared with a net addition
+    section1:
+      primarytype: 'block'
+      uuid: '60883507-bb9e-4636-a869-e8bc5cec919f'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.185+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.602+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.185+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The economy shed 40,800 jobs in July, compared with a net addition
         of 83,000 jobs in June, taking the employment rate, or the percentage of people
         employed out of the total working-age population, to 60.7%, Statistics Canada
         said.'
-    '2':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '2e501060-6cf7-4b8a-811b-6fbb02e2ec55'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.185+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.603+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.185+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The unemployment rate, however, remained steady at a near multi-year
+    section2:
+      primarytype: 'block'
+      uuid: '2e501060-6cf7-4b8a-811b-6fbb02e2ec55'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.185+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.603+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.185+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The unemployment rate, however, remained steady at a near multi-year
         high of 6.9%.'
-    '3':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '499c2fed-b0e8-412f-ba36-7c276158ce41'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.186+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.605+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.186+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Analysts polled by Reuters had forecast the economy would add 13,500
+    section3:
+      primarytype: 'block'
+      uuid: '499c2fed-b0e8-412f-ba36-7c276158ce41'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.186+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.605+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.186+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Analysts polled by Reuters had forecast the economy would add 13,500
         jobs and the unemployment rate would tick up to 7%.'
-    '4':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b003ad26-2acd-4e46-b3cb-274a2a811af8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.186+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.606+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.186+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"Canada’s labor market snapped back to reality in July," Michael Davenport,
+    section4:
+      primarytype: 'block'
+      uuid: 'b003ad26-2acd-4e46-b3cb-274a2a811af8'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.186+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.606+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.186+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"Canada’s labor market snapped back to reality in July," Michael Davenport,
         senior economist at Oxford Economics, wrote in a note.'
-    '5':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '97e4de27-6e03-4eca-98c6-62ca63c71f42'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.186+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.607+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.186+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'U.S. President Donald Trump’s sectoral tariffs on steel, aluminum
+    section5:
+      primarytype: 'block'
+      uuid: '97e4de27-6e03-4eca-98c6-62ca63c71f42'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.186+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.607+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.186+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'U.S. President Donald Trump’s sectoral tariffs on steel, aluminum
         and autos have hit the manufacturing sector hard and reduced the hiring intentions
         of companies, the Bank of Canada has previously said.'
-    '6':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6f6b51f7-ece3-42b6-b818-ad29fe6ccf02'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.187+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.608+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.187+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The number of people employed in manufacturing shrank by close to 10,000
+    section6:
+      primarytype: 'block'
+      uuid: '6f6b51f7-ece3-42b6-b818-ad29fe6ccf02'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.187+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.608+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.187+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The number of people employed in manufacturing shrank by close to 10,000
         in July on a yearly basis as sectors linked to steel, aluminum and autos curtailed
         hiring and experienced layoffs.'
-    '7':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '9cad7c1b-a2bf-4d78-bc99-ee42418ae25a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.187+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.609+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.187+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Marty Warren, the United Steelworkers'' national director for Canada,
+    section7:
+      primarytype: 'block'
+      uuid: '9cad7c1b-a2bf-4d78-bc99-ee42418ae25a'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.187+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.609+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.187+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Marty Warren, the United Steelworkers' national director for Canada,
         told Reuters that about 1,000 members have been laid off.'
-    '8':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c0471059-6927-4429-8293-2fc0188dd72f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.188+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.610+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.188+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Oxford Economics'' Davenport predicts more layoffs in the coming months,
+    section8:
+      primarytype: 'block'
+      uuid: 'c0471059-6927-4429-8293-2fc0188dd72f'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.188+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.610+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.188+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Oxford Economics' Davenport predicts more layoffs in the coming months,
         forecasting about 140,000 lost jobs and an unemployment rate rising to the
         mid-7% range later this year.'
-    '9':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f7470e8d-d357-465e-93e6-723a184991aa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.188+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.612+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.188+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Employment in some areas has held up well despite tariffs, the data
+    section9:
+      primarytype: 'block'
+      uuid: 'f7470e8d-d357-465e-93e6-723a184991aa'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.188+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.612+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.188+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Employment in some areas has held up well despite tariffs, the data
         showed.'
-    '10':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7473d4a3-83aa-44aa-afb3-c6a70fb741c1'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.189+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.613+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.189+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Overall, there has been little net employment growth since the beginning
+    section10:
+      primarytype: 'block'
+      uuid: '7473d4a3-83aa-44aa-afb3-c6a70fb741c1'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.189+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.613+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.189+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Overall, there has been little net employment growth since the beginning
         of the year, StatsCan said. The layoff rate was virtually unchanged at 1.1%
         in July compared with 12 months earlier.'
-    '11':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '7484ba12-67f2-443d-9e78-447e1684400e'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.189+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.614+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.189+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The bulk of the job losses in July occurred among workers aged between
+    section11:
+      primarytype: 'block'
+      uuid: '7484ba12-67f2-443d-9e78-447e1684400e'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.189+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.614+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.189+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The bulk of the job losses in July occurred among workers aged between
         15 and 24 - that group’s unemployment rate edged up to 14.6%, the highest
         since September 2010 excluding the pandemic years of 2020 and 2021.'
-    '12':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'f456b1cd-0093-4505-a3ef-b8e0ef21a0fa'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.190+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.615+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.190+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<h2><strong>Policy rate</strong></h2>'
-    '13':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b5c04d6c-ffed-4f38-bdc3-c3e224c9953a'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.190+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.616+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.190+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The youth unemployment rate is usually higher than the country’s average.'
-    '14':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'a1385854-7aab-43c2-85be-a59f86ced7df'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.190+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.617+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.190+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The employment rate for this group, which accounts for around 15% of
+    section12:
+      primarytype: 'block'
+      uuid: 'f456b1cd-0093-4505-a3ef-b8e0ef21a0fa'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.190+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.615+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.190+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<h2><strong>Policy rate</strong></h2>'
+    section13:
+      primarytype: 'block'
+      uuid: 'b5c04d6c-ffed-4f38-bdc3-c3e224c9953a'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.190+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.616+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.190+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The youth unemployment rate is usually higher than the country’s average.'
+    section14:
+      primarytype: 'block'
+      uuid: 'a1385854-7aab-43c2-85be-a59f86ced7df'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.190+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.617+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.190+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The employment rate for this group, which accounts for around 15% of
         the total working-age population, sank to 53.6%, the lowest level since November
         1998 if the pandemic years are excluded.'
-    '15':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '51f08d5e-2f14-46df-87e9-1af9909e97e5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.191+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.618+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.191+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Bank of Canada kept its key policy rate unchanged last week, partly
+    section15:
+      primarytype: 'block'
+      uuid: '51f08d5e-2f14-46df-87e9-1af9909e97e5'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.191+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.618+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.191+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Bank of Canada kept its key policy rate unchanged last week, partly
         due to a strong labor market but indicated it might reduce lending rates if
         inflation stays under control and economic growth weakens.'
-    '16':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '81d97e51-dc84-43de-b222-96dcaa063161'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.191+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.619+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.191+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '"We are now a bit more confident in our view that the Bank of Canada
+    section16:
+      primarytype: 'block'
+      uuid: '81d97e51-dc84-43de-b222-96dcaa063161'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.191+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.619+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.191+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '"We are now a bit more confident in our view that the Bank of Canada
         will resume cutting next month, although a surprisingly strong CPI (Consumer
         Price Index) print next week could prompt another pause," said Alexandra Brown,
         North America economist at Capital Economics.'
-    '17':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '3930e3d6-020c-4371-b641-ad9f42388f0f'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.192+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.620+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.192+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'Money market bets show the odds of a rate cut at the next monetary
+    section17:
+      primarytype: 'block'
+      uuid: '3930e3d6-020c-4371-b641-ad9f42388f0f'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.192+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.620+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.192+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'Money market bets show the odds of a rate cut at the next monetary
         policy meeting on September 17 at 38%, up 11 percentage points from Thursday.
         0#CADIRPR'
-    '18':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'b14e9b03-16c4-485c-8a71-b778441077ee'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.192+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.621+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.192+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The Canadian dollar CAD= was trading down 0.07% to 1.3753 against the
+    section18:
+      primarytype: 'block'
+      uuid: 'b14e9b03-16c4-485c-8a71-b778441077ee'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.192+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.621+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.192+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The Canadian dollar CAD= was trading down 0.07% to 1.3753 against the
         dollar, or 72.71 U.S. cents.'
-    '19':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '37cbbc0a-401b-4f1d-9df8-3956ff26e528'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.193+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.622+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.193+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The information, culture and recreation sector lost 29,000 jobs last
+    section19:
+      primarytype: 'block'
+      uuid: '37cbbc0a-401b-4f1d-9df8-3956ff26e528'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.193+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.622+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.193+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The information, culture and recreation sector lost 29,000 jobs last
         month, marking the biggest decline, followed by 22,000 lost jobs in construction
         and 19,000 in business, building and other support services.'
-    '20':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': '6fe1453e-85f1-4e8d-8a09-5097965422e8'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.193+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.623+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.193+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': 'The average hourly wage of permanent employees - a gauge closely tracked
+    section20:
+      primarytype: 'block'
+      uuid: '6fe1453e-85f1-4e8d-8a09-5097965422e8'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.193+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.623+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.193+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: 'The average hourly wage of permanent employees - a gauge closely tracked
         by the Bank of Canada to ascertain inflationary trends - grew by 3.5% in July
         to C$37.66 per hour, against a 3.2% increase in the prior month.'
-    '21':
-      'jcr:primaryType': 'mgnl:block'
-      'jcr:uuid': 'c3306d16-faf8-4444-992e-bae25409b1a5'
-      'mgnl:activationStatus': true
-      'mgnl:created': 2025-08-09T16:06:03.194+08:00
-      'mgnl:createdBy': 'lance-nwp'
-      'mgnl:lastActivated': 2025-08-09T16:06:03.624+08:00
-      'mgnl:lastActivatedBy': 'superuser'
-      'mgnl:lastModified': 2025-08-09T16:06:03.194+08:00
-      'mgnl:lastModifiedBy': 'lance-nwp'
-      'mgnl:type': 'text'
-      'text': '<p><em>(Reporting by Promit Mukherjee and Divya Rajagopal; Editing
+    section21:
+      primarytype: 'block'
+      uuid: 'c3306d16-faf8-4444-992e-bae25409b1a5'
+      activationstatus: true
+      created: 2025-08-09T16:06:03.194+08:00
+      createdby: 'lance-nwp'
+      lastactivated: 2025-08-09T16:06:03.624+08:00
+      lastactivatedby: 'superuser'
+      lastmodified: 2025-08-09T16:06:03.194+08:00
+      lastmodifiedby: 'lance-nwp'
+      type: 'text'
+      text: '<p><em>(Reporting by Promit Mukherjee and Divya Rajagopal; Editing
         by Dale Smith, David Holmes and Paul Simao)</em></p>'
