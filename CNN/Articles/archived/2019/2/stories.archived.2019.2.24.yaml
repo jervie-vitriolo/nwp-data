@@ -1,0 +1,3774 @@
+'24':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'bafa5212-bd62-440b-83ae-74dbc20ffb35'
+  'mgnl:activationStatus': true
+  'mgnl:comment': ''
+  'mgnl:created': 2019-02-24T05:39:18.089Z
+  'mgnl:createdBy': 'janine'
+  'mgnl:lastActivated': 2023-01-29T17:29:42.060+08:00
+  'mgnl:lastActivatedBy': 'magnolia'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:36.928+08:00
+  'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+  'mgnl:lastModifiedBy': 'magnolia'
+  'big-time-oil-price-hike-':
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2019-02-24T05:42:26.834Z
+    'imagesource': 'jcr:4ae98fd6-7347-4ca6-b730-b02486a44d25'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '82bf7e14-36bd-41da-ad08-33785079fda0'
+    'lead': 'Pump prices are expected to increase for the third consecutive week,
+      reflecting movement in the global oil market.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T05:43:57.463Z
+    'mgnl:createdBy': 'robert'
+    'mgnl:lastActivated': 2023-01-29T17:29:51.013+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.023+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Big-time oil price hike expected this week'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4ed5052-acbb-40c8-ade0-35090fc2fce6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.463Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.014+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — Pump
+        prices are expected to increase for the third consecutive week, reflecting
+        movement in the global oil market.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd72de50c-692c-4c6b-97ac-2b0bfeaec343'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.014+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In an advisory on Saturday, Unioil said diesel prices are estimated
+        to go up by ₱1.40 to ₱1.50 per liter while gasoline prices are expected to
+        increase by up to ₱1.40 per liter.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2f9413d6-f7e4-4a14-81e0-7b9961f02818'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.014+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>No words yet on the exact date of the implementation. Other oil
+        companies have also yet to make an announcement.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '23fb25bd-360f-4649-9bc8-39ce110760a1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.015+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In an interview on CNN Philippines'' Newsroom Weekend, Energy Undersecretary
+        Wimpy Fuentabella attributed the upcoming increase to the rising oil prices
+        in the international market.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ecaf69fe-c903-49a9-b2e8-869f811297e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.015+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Fuentabella explained that oil-producing countries cut their production
+        by 1.2 million barrels per day starting January due to "supply glut" or overproduction
+        in the last three months of 2018.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f0911df-356e-4f3b-9a0c-279be945834e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.015+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>He also cited other global factors such as Saudi Arabia''s pronouncement
+        that it will have more oil production cuts in the coming months and the U.S.
+        sanction on Venezuela''s national oil company amid the political turmoil in
+        the South American country.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '956144a2-6cfa-4e95-89a5-bb748e4429c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.015+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Fuentabella, however, clarified that the increase is not affected
+        by the second tranche of the tax reform law, which imposes an additional ₱2
+        per liter excise tax on diesel and gasoline, ₱1 for every liter of kerosene,
+        and ₱1 for every kilogram of cooking gas or liquefied petroleum gas for 2019.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd4385ae7-23bf-422e-8f87-48befb8ac983'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.015+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Hindi po kasama ''yung tranche 2 sa kwentong ''yan, ang kasama
+        pa lang po d''yan ay ''yung world market prices," he said.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '29db940e-1868-4e9d-8777-eaad5c5c3c08'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.464Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.016+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: The Tranche 2 of the TRAIN Law is not included in
+        the story, what''s included is just the movement in the world market prices.]</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f2b4a9ee-88e3-4ae4-a95e-1831f54d085a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.465Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.016+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Amid the expected price increase, Fuentabella urged motorists to
+        be vigilant.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ab8919da-0b02-4db6-ab50-be1e4f0e2cdd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T05:43:57.465Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:51.016+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We have to be vigilant, we have to know that the retail prices
+        for gasoline stations are different, you may even see&nbsp; a ₱2 differential
+        in the prices because these retail outlets are also competing for their right
+        share in the market," he said.</p>'
+  'cocaine-haul-february-24':
+    'author': 'CNN Philippines Staff'
+    'caption': 'Courtesy of Caraga PNP'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2019-02-24T05:42:28.350Z
+    'imagesource': 'jcr:9e57fda0-7c67-4b86-aa4c-71bf9a78f609'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'eb6c4b04-a537-4463-ac81-6cd76f176fbd'
+    'lead': 'Residents turn over to authorities at least 71 bricks of suspected cocaine found
+      floating at sea or washed ashore in what could so far be the biggest single-day
+      haul of such kind.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T05:44:13.502Z
+    'mgnl:createdBy': 'janine'
+    'mgnl:lastActivated': 2023-01-29T17:29:50.616+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.135+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Suspected cocaine haul: 71 bricks found near Surigao del Sur, Nueva
+      Ecija, Davao Oriental shores'
+    'visualType': 'image'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5b10b950-0f91-4648-9887-f245459d12de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.895Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24) —</strong> Authorities
+        reported what could so far be the biggest single-day haul of suspected&nbsp;cocaine&nbsp;bricks
+        found floating at sea or washed ashore, this time in Surigao del Sur, Nueva
+        Ecija and Davao Oriental.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5cb2a64f-4425-429a-bfbe-fba1bdbbed8d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.895Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Caraga Regional Police reported that 34 bricks of what appears to
+        be&nbsp;cocaine&nbsp;were submitted to the Surigao del Sur police headquarters
+        Sunday morning.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3066c714-1dff-42d2-83a0-24586cd14c08'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.895Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The bricks weighed a total of 43.62 kilograms, and if confirmed
+        to be&nbsp;cocaine, can be worth around ₱231 million.&nbsp;Two fishermen found
+        the bricks along the sea waters of Purok Santan, Barangay Bungtod, Tandag
+        City, Surigao Del Sur, and turned them over to authorities.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f8e0cbcf-9307-49ee-a5d3-fe64db287b86'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.895Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The fishermen received sacks of rice and ₱5,000 each as their reward.&nbsp;The
+        police said they have yet to confirm if the substance is&nbsp;cocaine. However,
+        the bricks had a "dollar sign" similar to the marking on the package of&nbsp;cocaine&nbsp;recovered
+        from Dinagat Island on February 12.&nbsp;Meanwhile, on the same day at 1 p.m.,
+        Nueva Ecija police said a fisherman from Gabaldon town turned over a brick
+        of the suspected drug to authorities.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9e176acd-b2f8-4dae-bf3e-025eb73c7ef6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.896Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The brick was wrapped in plastic and tied in rubber. It was found
+        on the shore of Dingalan, Aurora.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e5da4495-c429-4607-b719-5c85601e2121'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.896Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.618+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>At 1:30 p.m., officers of the Caraga Municipal Police Station also
+        responded to reports of blocks of suspected&nbsp;cocaine&nbsp;on the shore
+        of Purok Talisay, Barangay Santiago in Davao Oriental. Authorities were able
+        to recover 36 blocks of the substance. All blocks are undergoing laboratory
+        examination for proper disposition, police said.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '87daf770-2d1b-43ea-bb11-38591e0327d0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.896Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.618+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The incidents are the latest in a series recoveries of&nbsp;cocaine&nbsp;packages
+        in various coastal villages in the country. Excluding the 71 bricks found
+        on Sunday, the Philippine Drug Enforcement Agency said as of February 19 more
+        than 92 kilograms of the drug have been recovered for the month of February,
+        with a total value of ₱491.25 million.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd422fe8-1985-4dcb-8e30-c50bbac3af82'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.896Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.618+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A brick of&nbsp;cocaine&nbsp;was found at a Quezon shoreline on
+        February 18 while a bag of the substance worth P5,242,919 was recovered in
+        Camarines Norte two days prior. More than 70 blocks of&nbsp;cocaine&nbsp;were
+        also found on the shores of Siargao and Dinagat islands two weeks ago.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a6397250-768a-4c8d-bd16-e0704aa0b788'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-25T07:30:08.896Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.618+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Philippine National Police Chief Dir. Gen. Oscar Albayalde earlier
+        maintained there is no market for&nbsp;cocaine&nbsp;in the country and that
+        drug syndicates may be using the Philippines as a transshipment point.</p>'
+  'mrt-3-cubao-station-grenade-inside-passenger-bag':
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2019-02-24T10:49:50.632Z
+    'imagesource': 'jcr:d1acf7fc-2719-41a6-9deb-d1f0c118f984'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '236b8cc8-d46f-42d8-8f6d-ee8e40d0d7a3'
+    'lead': 'A man was arrested after a grenade was confiscated from his bag at the
+      MRT-3 Cubao Station Saturday night.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T10:50:49.088Z
+    'mgnl:createdBy': 'robert'
+    'mgnl:lastActivated': 2023-01-29T17:29:50.160+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.240+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'MRT passenger arrested after grenade found in bag'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'daebcb45-85e4-414e-b479-267374331836'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.088Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.160+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — A
+        man was arrested after a grenade was confiscated from his bag at the MRT-3
+        Cubao Station Saturday night.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '063d6e80-cd2c-44a1-b711-57b436ee064a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.088Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.160+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a report, the Quezon City Police identified the man as Christian
+        Guzman, 29, from Baliuag, Bulacan. It said MRT security personnel apprehended
+        Guzman after a suspicious object was detected inside his bag by the x -ray
+        machine at the station''s entrance at around 7:10 pm. The object turned out
+        to be a live hand grenade wrapped by a packaging tape and placed inside a
+        cellphone box.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '286c27e7-973c-4a72-955f-36e25186a52a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.088Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.160+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Guzman is now in the custody of Cubao Police Station, facing a complaint
+        for violating Republic Act 9516 or the illegal possession of ammunition and
+        explosives. An inquest procedure was conducted yesterday at the Quezon City
+        Prosecutor''s Office.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e666a035-5d7f-4969-86e7-f218cbb4ed40'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.088Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.161+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a statement, the Transportation Department assured that the agency
+        is taking the incident seriously and implementing measure to assure security
+        in all train stations.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0f1a399e-5df9-4912-ac05-2b09b3074a3f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.088Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.161+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>It also urged passengers "to remain vigilant and report immediately
+        to our security personnel items, activities, and even individuals that they
+        may find suspicious inside our trains or stations."</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bbd8a611-a31b-44dd-9ae5-e77a0dbecef5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.089Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.161+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We ask the patience and cooperation&nbsp; of our passengers as
+        we further tighten the security measures being implemented in our stations.
+        Please understand that these measures are being done to protect the safety
+        and security of our passengers," it said.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cc0f8dee-e86b-4767-a301-f1c2bcbbb32b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.089Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.161+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The incident happened following the arrest of a man found with a
+        sachet of marijuana at the LRT-2 Cubao station.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a4f7b0da-ca73-4fa0-9fad-8ba879438530'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:50:49.089Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:50.161+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Police report said the passenger, identified as Ferrer Franciso,
+        47, was arrested at around 2:13 p.m. after a sachet of dried marijuana leaves
+        was confiscated from him during a routine inspection at the station. He is
+        charged for violating RA 9165 or the Comprehensive Dangerous Drugs Act of
+        2002.</p>'
+  'Nur-Misuari-Bangsamoro-Transition-Authority-Moro-National-Liberation-Front':
+    'caption': 'Moro National Liberation Front founder Nur Misuari and President Rodrigo
+      Duterte (FILE PHOTO)'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9', 'ed9efd6a-3cd9-43cf-b259-28a22237b7e8']
+    'created': 2019-02-24T10:51:08.066Z
+    'imagesource': 'jcr:d8d6c248-e973-4339-8a48-e6e4a83c03a3'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'f6602ab5-f200-43fe-b76b-eab8a06b3130'
+    'lead': 'Atty. Emmanuel Fontanilla, spokesperson of MNLF founder Nur Misuari,
+      told CNN Philippines in a message Saturday since their faction of the MNLF is
+      not part of the BTA, their group does not recognize the transition government.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T10:53:35.791Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:49.801+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.347+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['Moro-National-Liberation-Front', 'Bangsamoro-Transition-Authority',
+      'Moro-Islamic-Liberation-Front', 'Bangsamoro-Organic-Law']
+    'template': '1'
+    'title': 'Misuari''s MNLF faction won''t recognize Bangsamoro Transition Authority,
+      spokesman says'
+    'visualType': 'image'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c6d1f17a-9ca6-4ad5-9691-48a5e2706769'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:53:35.792Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.801+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24) —</strong>​The
+        Moro National Liberation Front (MNLF) will not recognize the 80-member Bangsamoro
+        Transition Authority, the new Muslim autonomous region''s transition government.​​​​​​</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '20d090b1-9302-4270-a675-6ba2dc7913d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:53:35.792Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Atty. Emmanuel Fontanilla, spokesperson of MNLF founder Nur Misuari,
+        told CNN Philippines in a message Saturday since their faction of the MNLF
+        is not part of the BTA, their group does not recognize the transition government.</p>'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb2025cc-2859-4e67-bfbc-0339d051e977'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:34:50.247Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The MNLF has several factions, including Misuari''s. Other factions
+        include that of incumbent chair Yusuf Jikiri, and former Cotabato City Mayor
+        Muslimin Sema -- which have expressed support for the Bangsamoro Organic Law
+        (BOL) and have representatives in the BTA.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '92b5ffd0-a388-4499-9717-2abf167bd529'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:34:50.247Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Under the ratified BOL, the BTA will be composed of 80 presidential
+        appointees -- including the elected officials of the Autonomous Region in
+        Muslim Mindanao. It does not, however, outline how many shall go to each Moro
+        faction.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a33194dd-d46d-4982-9cae-9cfde6042674'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:34:50.247Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The Moro Islamic Liberation Front (MILF) shall lead the Bangsamoro
+        Transition Authority, without prejudice to the&nbsp; participation of the
+        Moro National Liberation Front," the BOL&nbsp;stated.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '430359e5-7b9d-4d6a-a3db-8ef32b124b3f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:53:35.792Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The BTA will be composed of 41 members from the rebel group MILF
+        and another 39 from the government side will govern the&nbsp; region for the
+        three-year transition period until 2022. The government has yet to announce
+        the members of the BTA.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eec54509-0d79-4575-9df2-31366d3bcc59'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:53:35.792Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.803+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The transition government''s oath-taking ceremony was originally
+        scheduled on Wednesday, but had to be moved to Friday. Among the 41 people
+        in the BTA is MILF chairman Al Hadj Murad Ebrahim.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd6e8ffa7-4cb1-4a43-bad7-95d528ead0ac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:53:35.792Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.803+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Misuari was the embattled former governor of the transitioning Autonomous
+        Region of Muslim Mindanao (ARMM). President Rodrigo Duterte earlier said he
+        wanted to meet with Misuari for peace negotiations in Mindanao.</p>'
+  '33rd-anniversary-edsa-people-power-revolution':
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2019-02-24T10:52:10.084Z
+    'imagesource': 'jcr:15365d70-f8f3-4ade-a657-3311f29885a6'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '53c61ad6-359a-442d-b81e-eabf6aa34033'
+    'lead': 'A commemoration ceremony and a job fair will mark the celebration of
+      the 33rd anniversary of the EDSA People Power on Monday, February 25.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T10:54:15.454Z
+    'mgnl:createdBy': 'robert'
+    'mgnl:lastActivated': 2023-01-29T17:29:49.416+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.481+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Commemoration ceremony, job fair to mark 33rd People Power anniversary
+      on Monday'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a3991f35-09cb-450a-b771-86e44394ca89'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.454Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.417+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — A
+        commemoration ceremony and a job fair will mark the celebration of the 33rd
+        anniversary of the EDSA People Power on Monday, February 25.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e0247abc-fe26-4010-9b13-468db725eb7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.454Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.417+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Flag-raising and wreath-laying ceremonies, led by the National Historical
+        Commission of the Philippines (NHCP), will be held at 8:00 am at the EDSA
+        People Power Monument in Quezon City.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6c4b6286-4842-43b3-b51d-e4c7a49edfbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.454Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.417+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a statement, the NHCP said Education Undersecretary Lorna Dig-Dino
+        is the celebration''s guest of honor while former President Fidel Ramos is
+        expected to grace the event. Representatives from military, civil society
+        and various religious sectors will give their messages in line with the commemoration.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39974941-692e-4acb-b0b3-3a69fa2d82d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.418+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Several individuals will be conferred with the Freedom Awards and
+        Spirit of EDSA and Good Citizenship Movement Awards.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f6a09631-dce0-4d32-9e40-a7ada5ac67e4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.418+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A mass will also be celebrated at the Mary Queen of Peace Shrine
+        or EDSA Shrine at 12:15 pm.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bdfc050-11dc-469b-93b7-fa5712f31478'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.418+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In line with the celebration, a portion of the main thoroughfare
+        will be closed to motorists.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bfec400e-4652-4176-83c9-a5eef38fd35e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.419+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Metropolitan Manila Development Authority (MMDA) announced that
+        the lane in front of the People Power Monument will be closed from 6:00 am
+        to 10:00 am.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a0b89907-f3a9-4d5a-9735-77f0a055ed18'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.419+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, the Department of Labor and Employment (DOLE) is set
+        to hold a job fair in line with the celebration.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'acfc5212-a93a-43c4-a5f2-f719d6af8f4d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.419+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a statement, DOLE said the event, dubbed as "Trabaho, Negosyo,
+        Kabuhayan," will offer around 20,000 local and overseas jobs from 50 participating
+        employers and recruitment agencies. It will be held at the second floor of
+        the Activity Center of the Starmall.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e77dd777-ac98-447f-b655-f5fb05893050'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.420+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Among the jobs to be offered are laborer, nurse, welder, pipefitter,
+        carpenter, technician, foreman, steelfixer , IT engineer, and waitress, the
+        agency said.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b131678b-ebca-455c-853f-448b19417365'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.455Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.420+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Job seekers may also apply for around 12,000 overseas jobs in the
+        U.S., Malaysia, Brunei Darussalam, Canada, Germany, Australia, Japan, New
+        Zealand, and South Korea, among other countries.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '572a9dbf-f8c1-430b-ac19-15681085fc02'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.420+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Early protest</strong></h2>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '458393dc-93fe-4db0-b5ec-ca334cf1d45b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.420+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>On Saturday, February 23, thousands of individuals from multisectoral
+        groups trooped to EDSA to begin the celebration.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '704a833c-24c0-490d-8294-2172f3946cdd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.421+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The attendees protested what they called the "autocratic regime"
+        of President Rodrigo Duterte.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2c4f7f8c-5004-431b-b2bb-9a474350358b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.421+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The protesters said the extrajudicial killings committed under the
+        government''s war on drug is reminiscent of the brutal slaying of people perceived
+        as enemies of the state during the Marcos era.</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ddbe5f3b-488f-42e1-ab05-0d8f2b3918b7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.421+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The martial law in Mindanao and the alleged human rights abuses
+        in the area are signs of a looming dictatorship, they said.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4410b3c9-72c3-4cf8-8c24-6abacd582ad5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.421+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Separate masses were also held at La Salle Greenhills in San Juan
+        City and Ateneo de Manila University in Quezon City.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9fd66c0-d287-49dc-b214-35fbd14f8a4c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T10:54:15.456Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:49.422+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The People Power Revolution is the bloodless uprising in 1986 that
+        toppled the administartion of late dictator Ferdinand Marcos.</p>'
+  'UAAP--Ateneo-clinches-second-straight-win--UST-bounces-back-in-women-s-volleyball':
+    'author': 'Alyssa Rola'
+    'caption': 'The Ateneo De Manila University Lady Eagles staged an impressive comeback
+      to defeat the Far Eastern University (FEU) Lady Tamaraws in five thrilling sets
+      Sunday.'
+    'categories': ['746f2071-3de4-42a9-b5df-1ec643285ccf']
+    'created': 2019-02-24T12:56:15.998Z
+    'imagesource': 'jcr:1fec75cb-87b2-4140-8109-1af256709fdb'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '02e5005e-90db-497e-bdfc-340132ef09a0'
+    'lead': 'The Ateneo Lady Eagles clinched their second straight victory, while
+      the University of Santo Tomas Golden Tigresses barged back into the win column
+      of the UAAP women''s volleyball tournament Sunday.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T13:42:33.230Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:48.766+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.619+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['UAAP', 'UST-Golden-Tigresses', 'Ateneo-Lady-Eagles']
+    'template': '1'
+    'title': 'UAAP: Ateneo clinches second straight win, UST bounces back in women''s
+      volleyball'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd99f97ae-6835-4ea6-b7ff-ebfcdf230eff'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.767+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — The
+        squads from Katipunan and España claimed much-needed victories to improve
+        to 2-1 records in the UAAP Season 81 women''s volleyball tournament Sunday
+        at the Filoil Flying V Centre.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bb1ebed-48da-45b7-ad6f-0cd226a95003'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.767+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Ateneo De Manila University Lady Eagles staged an impressive
+        comeback to defeat the Far Eastern University (FEU) Lady Tamaraws in five
+        thrilling sets, 14-25, 19-25, 25-21, 25-18, 15-12.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31733e28-88b3-41a1-b34f-abac1a6e4d76'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.767+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Lady Tamaraws looked well in control during the first two sets
+        of the game, which featured the two semifinalists of the Season 80 tournament.
+        Ateneo, however, overcame the slow start to push the match into a decider--
+        much to the delight of spectators in San Juan.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ebf8f0a6-3a4d-4c2f-ba54-128ebcdfbc7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.767+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Back-to-back miscues from the the Morayta-based squad meanwhile
+        handed Ateneo the match point at 14-12.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dfde03f0-0434-464e-ab3f-0f87161b8bea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.767+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Kat Tolentino, who bagged player of the game honors, delivered the
+        winning crosscourt kill for the Lady Eagles. She finished with 19 points on
+        17 attacks and two blocks.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e38564aa-3d85-4196-9758-afcbdff0a0f8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Earlier in the day, the University of Santo Tomas (UST) Golden Tigresses
+        rallied from a set down to subdue the undermanned University of the Philippines
+        (UP) Lady Maroons, 21-25, 25-22, 25-16, 25-20.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2aa556b4-a88d-47df-9cc7-d6a861d90789'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Milena Alessandrini topscored for UST with a game-high 22 points
+        on 19 attacks and three blocks.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4e6bd78a-47e4-4e02-8454-250f0346c864'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.231Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Eya Laure and Sisi Rondina likewise combined for 35 points for the
+        Tigresses, who dominated in the offensive department, 51-42.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7cf67807-f252-4b87-bc4d-df39242915e9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.232Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Tots Carlos paced UP with a team-high 20 points, while Isa Molde
+        and Justine Dorog added 13 and 10, respectively.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b43e66aa-6df4-47a7-8c51-6522c7de8388'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T13:42:33.232Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.768+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Lady Maroons missed out on the services of main playmaker Ayel
+        Estrañero, who was out due to illness.</p>'
+  'Vice-President-Leni-Robredo-EDSA-People-Power-33':
+    'caption': 'Vice President Leni Robredo led the commemoration of the 33rd anniversary
+      of the EDSA People Power Revolution in Naga City on Saturday, Feb. 23, 2019,
+      at the Immaculate Conception Parish in Naga City, Camarines Sur. '
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9', 'ed9efd6a-3cd9-43cf-b259-28a22237b7e8']
+    'created': 2019-02-24T08:14:51.766Z
+    'imagesource': 'jcr:082c54e0-48e4-48f6-8a12-828cd6a76044'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b81f3edd-2d60-4244-b0b9-c4c7f2da4089'
+    'lead': 'In a press statement Sunday, the Vice President said it is important
+      to commemorate how Filipinos united 33 years ago, to topple the dictatorship
+      of former President Ferdinand Marcos'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T08:18:36.324Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:48.293+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.746+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['Vice-President-Leni-Robredo', 'People-Power-Revolution', 'EDSA33']
+    'stories': ['285f9358-fc3a-4453-82b7-8398795c6c58']
+    'template': '1'
+    'title': 'Robredo: EDSA People Power not about partisan politics'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4d7bcb12-21fe-4d9b-a52b-46a5410126c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.324Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — Vice
+        President Leni Robredo reminded the public that the spirit of the EDSA People
+        Power Revolution should not be confined to partisan politics.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a6ce784-3765-4dbd-9530-cc2599f3e778'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.324Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a press statement Sunday, the Vice President said it is important
+        to commemorate how Filipinos united 33 years ago, to topple the dictatorship
+        of former President Ferdinand Marcos.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '68af05de-0b32-4171-8fe9-19550c12ca5f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.324Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"<em>Sana ma-</em>break <em>lang iyong</em> misconception na<em>
+        iyong EDSA ay mga ''dilawan.'' Dahil tingin ko, kapag ganito iyong pagtingin
+        natin, insulto ito sa napakaraming mga Pilipino na wala namang</em> political
+        affiliations<em> noong 1986, na wala namang kulay na nagde-</em>define sa
+        kanila,<em> pero tumulong para isikwal iyong kasamaan, tumulong para baguhin
+        iyong masamang sistema sa bansa natin</em>," the Vice President was quoted
+        as saying Saturday.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c4b3fa47-dcfa-46d6-82ec-05fe89f97074'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: I hope we break the misconception of EDSA being "yellow."
+        I think if we imbibe this mindset, this is an insult to plenty of Filipinos
+        who do not have political affiliations in 1986, who did not have colors which
+        defined them but helped in the fight against evil, and to help change the
+        evil system in our country.]</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c3d88a09-5658-4bf9-b1d3-a853e82630d2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.295+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Robredo is the chairperson of the Liberal Party, the party in which
+        Cory Aquino ran in 1986. Yellow is associated with the party, whose members
+        are critics of President Rodrigo Duterte.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dd7bd4f2-433c-4749-9a72-ee14eab12565'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.295+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte, who has criticized the party back, has not attended&nbsp;
+        the event in the past two years of his presidency because of his prior commitments.
+        Malacañang had said the President is ''most likely'' not attending this year''s
+        commemoration either.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'efad6df5-ee25-420e-bcc2-7b8a69756f39'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.295+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Most likely,<em> hindi rin siya a-</em>attend.<em> Maraming trahabo
+        si Presidente eh. Kahapon nga eh, nagmamadali siyang tapusin</em>, 30 minutes,
+        <em>kasi meron siyang lakad, sipag</em>," Presidential Spokesperson Sal Panelo
+        said Wednesday.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3721aee7-a3b1-4b82-9a23-80101628a3e8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.295+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: Most likely, he will not attend again. He has a lot
+        of work to do. Just yesterday, he was rushing something for 30 minutes, because
+        he had another commitment. He''s very hardworking.]</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a317bc48-39b8-4db8-8798-9f79063de6fd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.295+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Asked on Duterte''s absence, the Vice President only said, "<em>Ito
+        kasi</em>, choice<em> niya naman. Wala namang pinipilit na mag-</em>attend
+        <em>ng</em> commemoration."</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c36c4c04-3c89-45a5-9e7a-e9f11535b351'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.296+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: This is his choice. No one is forcing to attend the
+        commemoration.]</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1ae49f6c-5d89-4184-9433-e6aa83f2381f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.325Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.302+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The government previously led a simple but heavily-criticized celebration
+        of the People Power revolution.. The event came after Duterte in November
+        2016 allowed the controversial burial of the late former President Ferdinand
+        Marcos in Libingan ng mga Bayan.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bcb37cc5-9e78-41b6-a374-86a7e8c07c75'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T08:18:36.326Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:48.302+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte is a known ally of the Marcoses, even vouching for the vice
+        presidency of the late strongman''s son, Ferdinand "Bongbong" Marcos Jr. The
+        younger Marcos lost to Robredo in the 2016 polls by 263,473 votes, and has
+        a pending electoral protest before the Supreme Court.</p>'
+  'Pope-Francis-tools-of-Satan-priests-sexual-abuse':
+    'author': 'Daniel Burke, CNN Religion Editor'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2019-02-24T13:45:37.167Z
+    'imagesource': 'jcr:6a9ca9d2-9e6d-4ab0-beb4-c8e7a4415776'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '231c2783-26b0-4388-bf2c-ee25077f74d7'
+    'lead': 'The Pope''s speech, delivered at the end of Mass at Sala Regia in the
+      Apostolic Palace, came at the end of an unprecedented gathering of 190 Catholic
+      leaders, including 114 bishops from around the world, to address a clergy sexual
+      abuse scandal that stretches across several continents.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T15:12:44.602Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:47.762+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:37.879+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['Pope-Francis', 'sexual-abuse', 'Vatican']
+    'template': '1'
+    'title': 'Pope calls abusive clergy ''tools of Satan'''
+    'visualType': 'image'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0298706f-6560-43de-89ba-26fbd4667a8b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.602Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.762+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN)</strong> — Pope Francis, speaking on the final day
+        of a historic summit on clergy sexual abuse, called priests and other Catholics
+        who abuse children "tools of Satan," but offered no concrete steps to address
+        the church''s massive and morally damning abuse crisis.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '819221d6-e8d6-4556-be94-269e72cb8412'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.603Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.763+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The brutality of this worldwide phenomenon becomes all the more
+        grave and scandalous in the church, for it is utterly incompatible with (its)
+        moral authority and ethical credibility," the Pope said in a speech in Vatican
+        City on Sunday.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'daa8223f-d402-4457-b372-184f87f95df4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.603Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.763+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Consecrated persons," he continued, "chosen by God to guide souls
+        to salvation, let themselves be dominated by their human frailty or sickness
+        and thus become tools of Satan."</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8881d7bf-aef3-4735-b451-3a46980cd92e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.603Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.763+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Pope''s speech, delivered at the end of Mass at Sala Regia in
+        the Apostolic Palace, came at the end of an unprecedented gathering of 190
+        Catholic leaders, including 114 bishops from around the world, to address
+        a clergy sexual abuse scandal that stretches across several continents.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8c517b3-29e3-4093-82ed-416c7e8c0484'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.603Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.763+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In his wide-ranging speech on Sunday, Francis framed the church''s
+        abuse crisis within the wider context of society, even saying that pagans,
+        in history, had "sacrificed children" in rituals.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'efbf3dfb-bdc6-47e5-8ecd-74ac83230e6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.603Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.764+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We are thus facing a universal problem," the Pope said, "tragically
+        present almost everywhere and affecting everyone. Yet we need to be clear,
+        that while gravely affecting our societies as a whole, this evil is in no
+        way less monstrous when it takes place within the church."</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6eacd386-ceb4-4b12-821d-ea718eb1a3c7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.604Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.764+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Dozens of survivors of sexual abuse perpetrated by Catholic clergy
+        have also been in Rome this week to protest and offer testimonies about their
+        experiences.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8c4e5f0b-f11c-48e4-9338-ce5692897b3b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.604Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.764+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The four-day summit has included two speeches by the Pope, talks
+        outlining best practices and small-group discussions among bishops.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '20f74f61-f915-4859-a7b0-280745ebd235'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.604Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.765+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Francis began the unprecedented summit on Thursday by saying that
+        Catholics are not looking for simple condemnation, but concrete actions.</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a9b76ea-5bec-4257-83e3-d155cf2aa33a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.604Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.765+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"In the face of this scourge of sexual abuse perpetrated by men
+        of the church to the detriment of minors, I thought I would summon you," he
+        said, "so that all together we may lend an ear and listen to the Holy Spirit
+        ... and to the cry of the small ones who are asking for justice."</p>'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c85ca0e2-4fa1-4aa3-a52b-868c5f6287f4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.605Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.765+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The holy people of God are looking at us and expect from us not
+        simple condemnations," Francis continued in his opening address, "but concrete
+        and effective measures to put in place. We need to be concrete."</p>'
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a5656fc8-effc-48c0-b927-2d08d0977ef7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T15:12:44.605Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.766+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The bishops have discussed several measures, including a proposal
+        to hold bishops accountable and lift the Pontifical Secret that often keeps
+        abuse victims in the dark about how their church trials are processing. But
+        they did not appear to vote on or immediately adopt any new measures.</p>'
+  'Rodrigo-Duterte-EDSA-People-Power-message':
+    'caption': 'President Rodrigo Duterte (FILE PHOTO)'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2019-02-24T16:16:19.140Z
+    'imagesource': 'jcr:90475c29-b2e9-4ee6-9ff5-bc6b97c2bd3a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '366340bf-c91f-470f-90c8-8207b21dfc24'
+    'lead': 'President Rodrigo Duterte reminded Filipinos of their right to vote in
+      commemoration of the 33rd anniversary of the EDSA People Power Revolution on
+      Monday.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T16:38:17.057Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:47.292+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:38.001+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['Rodrigo-Duterte', 'EDSA', 'People-Power-Revolution', 'EDSA33']
+    'template': '1'
+    'title': 'Duterte: EDSA Revolution should remind Filipinos of right to vote'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fdee65f6-c6e6-4c05-8477-255d5feb5530'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.057Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.292+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 25)</strong> — President
+        Rodrigo Duterte reminded Filipinos of their right to vote in commemoration
+        of the 33rd anniversary of the EDSA People Power Revolution on Monday.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e71f90f-8499-44b8-91bd-e1f9844ddc5f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.057Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.293+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"As the entire nation prepares for the upcoming Midterm Elections
+        this May, let us always remember how this historic revolution restored our
+        power to collectively chart our future through the ballot. May we all have
+        a profound sense of appreciation and understanding of what we lost and what
+        we reclaimed," Duterte said in his message Monday.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b1166c48-67a0-44ba-af59-4853949c401e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.057Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.293+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>He said the revolution showed to the world that "history can be
+        rewritten without the need to resort to violent means."</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e7512713-5095-4544-8d8b-10863a5d3ac1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.058Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.293+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I am hopeful that this occasion will inspire all of us, especially
+        the younger generation, to deeply value the freedom and liberty that we won
+        in EDSA. Let us never forget the sacrifice of those who came before us so
+        that we may always be motivated to preserve and protect the democratic way
+        of life that we enjoy today," Duterte added.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b9af860-0ec6-4a98-a634-63f2cbef1bf1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.058Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.293+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The President has previously skipped the commemoration rites, and
+        Malacañang said Wednesday he is most likely to do so for the third time.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78727fba-c4c6-4563-853a-21a9959ecc2d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.058Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Read the President''s full message below:</p>'
+    '7':
+      'contentWidth': '100%'
+      'embedCode': '<blockquote class="twitter-tweet" data-partner="tweetdeck"><p
+        lang="en" dir="ltr">READ: President Rodrigo Duterte&#39;s message in commemoration
+        of the 33rd anniversary of the People Power Revolution. <a href="https://t.co/sDo55hwVGt">https://t.co/sDo55hwVGt</a>
+        <a href="https://t.co/blLJt8aE0J">pic.twitter.com/blLJt8aE0J</a></p>&mdash;
+        CNN Philippines (@cnnphilippines) <a href="https://twitter.com/cnnphilippines/status/1099700725238554624?ref_src=twsrc%5Etfw">February
+        24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c98b7d5b-fdd0-46d1-97e9-8bdbb585ad2c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:38:17.058Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:47.294+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'embedCode'
+  'San-Miguel-Corporation-water-sustainability-goals':
+    'caption': 'Despite the conglomerate''s ongoing expansion and increase in production
+      volumes, San Miguel Corporation was able to save some 7.7 billion liters of
+      water for the year.'
+    'categories': ['e44ef96f-d476-4488-a4bd-b475f1a649f1']
+    'created': 2019-02-24T16:41:46.927Z
+    'imagesource': 'jcr:71731639-a3d4-425e-9233-c12f41e7ffa1'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'a300577e-c261-495f-8457-3ccb6cab5661'
+    'lead': 'Despite the conglomerate''s ongoing expansion and increase in production
+      volumes, SMC was able to save some 7.7 billion liters of water for the year.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T16:45:33.935Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:46.900+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:38.136+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['San-Miguel-Corporation']
+    'template': '1'
+    'title': 'San Miguel Corp. reduces water use in line with sustainability goals'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6b62f1b2-c38d-45ee-aed8-23a441f4b844'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.900+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — San
+        Miguel Corporation (SMC) announced Sunday it significantly reduced operational
+        water use across its businesses by 23 percent in 2018, beating its goal to
+        reduce consumption by 20 percent in 2020.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '17deea29-d844-4656-b02e-ed5ff176e01a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.900+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Despite the conglomerate''s ongoing expansion and increase in production
+        volumes, SMC was able to save some 7.7 billion liters of water for the year.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5276ee24-a5e3-4b45-b595-6dcbd582aa28'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.900+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The initiative is part of the conglomerate''s ambitious "Water for
+        All" sustainability project which will see San Miguel and its businesses cutting
+        utility and domestic use of water by 50 percent by 2025.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '85d6531c-f3d8-47d7-9be9-106200e5398f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>SMC attributed the drop to the effective implementation of programs
+        aimed at increasing use of alternative, "non-scarce" water, including rainwater,
+        recycled water, and seawater.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e393339-7abc-429c-a1b2-c7311bdb3a88'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"This is a significant milestone for us, and we''re highly encouraged
+        by these results," said SMC president and chief operating officer Ramon S.
+        Ang.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '84e891be-c958-4e65-8621-93f7756eba0e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Ang said it has only been two years since the company announced
+        its sustainability goal.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '88f1e383-db86-4a85-a1a9-cbe075aafb6a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.936Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Already, the effort and commitment of those in our company tasked
+        with making this goal a reality, have started to pay off," he said.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa92597c-ad2b-4f8c-ab4a-cf24764adf2b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Increased use of non-scarce water</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4e51f552-ac4b-4674-9cc9-3c8668303599'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.901+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>SMC explained that while its total water volumes for the year actually
+        increased--due to higher production and the start of operations of new manufacturing
+        plants--it was also able to increase utilization of non-scarce water sources.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f43bb1d4-2e3f-45f7-ab98-5a957e42f68e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>From 4,738,338 cubic meters saved in 2017, representing 15.76 percent
+        of the company''s total non-product water use, SMC was able to save a total
+        of 7,762,061 cubic meters of water in 2018.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2efe00ae-6418-4c0d-9dcd-bb612dfeefaa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Ang said water sustainability goes beyond corporate social responsibility.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5cf823ad-cbc7-4117-afd6-ce61942d90ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Water is an integral part of our operations, and a vital need of
+        our people and communities. While we''ve long worked to conserve and protect
+        water in our areas of operation, this initiative will see us drawing even
+        less water in the future," Ang said.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a8aab88c-79ff-4f60-bc7c-9a247b4abca5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The SMC President recognized that water is a finite resource and
+        that SMC wants to take the lead in addressing water supply issues as a "responsible"
+        business.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8d972ee9-c26c-4af3-b5ba-7c47ab66d20c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Water has an impact on our business and society and we fully recognize
+        the role we can play in water stewardship," Ang said.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '553d9966-9845-4b6f-92dd-94358750e9c6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.902+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In addition to its efforts to reduce water use in its operations,
+        San Miguel also donates water systems to waterless communities throughout
+        the Philippines. The company''s goal is to increase access to water in remote
+        barangays.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4b4ac4d-9c22-46de-bde9-dd4943895563'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.903+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Communities in Malita, Davao; Maasim, Saranggani, and Mulanay, Quezon
+        recently benefitted from SMC''s donations.</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2261ed5b-f38b-4d44-8bda-316c50044f19'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:45:33.937Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.903+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Last January, SMC''s multi-billion Bulacan Bulk Water Project, which
+        will make potable water accessible to 24 water districts in the province at
+        the lowest price per cubic meter, came onstream.</p>'
+  'Rodrigo-Duterte-EDSA-traffic-campaign-':
+    'caption': 'President Rodrigo Duterte said Saturday he has fulfilled most of his
+      campaign promises to the people, except easing EDSA''s traffic congestion.'
+    'categories': ['9f881b11-f250-41ce-9ad5-334f860f07c0']
+    'created': 2019-02-24T16:46:38.744Z
+    'imagesource': 'jcr:211b8948-6418-4f12-b31c-b976eb7624f2'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '7f9ec2cf-05db-4d7e-916a-c42a47cc3e6e'
+    'lead': 'President Rodrigo Duterte said Saturday he has fulfilled most of his
+      campaign promises to the people, except easing EDSA''s traffic congestion.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T16:48:19.587Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:46.307+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:38.260+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['EDSA', 'Rodrigo-Duterte']
+    'template': '1'
+    'title': 'Duterte claims he fulfilled campaign promises except solving EDSA traffic'
+    'visualType': 'image'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b852175d-b9fe-40a0-8964-74ed3a1de44d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.307+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — President
+        Rodrigo Duterte said Saturday he has fulfilled most of his campaign promises
+        to the people, except easing EDSA''s traffic congestion.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf8829f8-cf7a-4e4c-8e52-e5428a361752'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"<em>Wala akong pangako na hindi ko natupad</em> except ''yang EDSA.<em>
+        Nangako ako na</em> free tuition, <em>nandiyan na ang batas. Nangako ako na</em>
+        free universal health care, <em>pirmado ko na ang batas. Anak ka --- ano pa
+        naman gusto?</em>" he said during the campaign rally for senatorial candidates
+        under PDP-Laban held in Biñan, Laguna Saturday.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '749a62f6-f962-421b-a1b9-f784cbbc6a85'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>[Translation: I have no promises that I was not able to fulfill
+        except EDSA. I signed the free tuition act. I signed the promised free universal
+        health care. What more do you want?]</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ddf89ad-afdd-451e-8177-5a820743cd90'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The President blamed Congress for not granting him the emergency
+        powers needed to solve traffic along major roads.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cd0dc8fb-2503-4e1a-813d-6be2b0bd493a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I said I would need money to repair or rehabilitate or do away
+        with the present situation. <em>Sabi ng iba</em> [Others said], mga congressmen,
+        ''Let us give Duterte the power, extraordinary power.'' <em>Hindi ninyo narinig
+        '' yun sa bunganga ko ni minsan, kasi alam ko</em> [You''ve never heard that
+        from me because I know]," he said.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '30eea668-5697-43da-978e-476b5219d8c7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Both houses of Congress have filed their respective emergency power
+        bills, but are still pending approval.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa0da3f1-607d-4f21-a8d0-19ad764c661f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.308+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In September, Duterte said he will no longer seek emergency powers
+        to ease Manila''s traffic woes.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f89b7da1-2c96-469a-81ec-a6804117c9d8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:48:19.588Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:46.309+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Duterte believes the party''s candidates can help strengthen the
+        administration in fulfilling its advocacies and projects, especially in the
+        remaining three years of his term.</p>'
+  'LTFRB-Pantawid-Pasada-February-28':
+    'caption': 'The Land Transportation Franchising and Regulatory Board reminded
+      public utility jeepney drivers they only have until February 28 to claim their
+      fuel cards under the Pantawid Pasada Program.'
+    'categories': ['9f881b11-f250-41ce-9ad5-334f860f07c0']
+    'created': 2019-02-24T16:48:26.945Z
+    'imagesource': 'jcr:0a0958ce-b99d-4acb-9c1d-2b41a0ebeaac'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'dd03ccfb-2ec7-4641-b7ff-0ed107f437e9'
+    'lead': 'The Land Transportation Franchising and Regulatory Board reminded public
+      utility jeepney drivers they only have until February 28 to claim their fuel
+      cards under the Pantawid Pasada Program.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T16:49:44.332Z
+    'mgnl:createdBy': 'chad'
+    'mgnl:lastActivated': 2023-01-29T17:29:45.957+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:38.356+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': ['Pantawid-Pasada']
+    'template': '1'
+    'title': 'LTFRB reminds that Pantawid Pasada cards may only be claimed until Feb.
+      28'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7dd0ebe3-1eae-4cf7-a14a-810e5dfc32ce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:49:44.332Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.957+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Metro Manila (CNN Philippines, February 24)</strong> — The
+        Land Transportation Franchising and Regulatory Board (LTFRB) reminded public
+        utility jeepney drivers they only have until February 28 to claim their fuel
+        cards under the Pantawid Pasada Program.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9f72d3ce-4190-456a-bc8d-384c6c9b1d1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:49:44.332Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.957+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The LTFRB in a Friday statement said more than 87,000 cards have
+        already been distributed to beneficiaries up to date.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c0b5825f-42d2-4839-9262-c0924c36b88e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:49:44.332Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.958+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>For 2019, drivers are given ₱20,514 fuel subsidy under the program,
+        which seeks to offset the additional excise tax on fuel products under the
+        Tax Reform Acceleration and Inclusion (TRAIN) Act.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '797776cb-067e-40c6-8aee-f5b3e0f485c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T16:49:44.332Z
+      'mgnl:createdBy': 'chad'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.958+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Over 170,000 jeepney operators across the country are expected to
+        benefit from the fuel subsidy distribution.</p>'
+  'venezuela-brazil-violence':
+    'author': 'Laura Smith-Spark, Jorge Luis Perez Valery, Claudia Dominguez and Christina
+      Maxouris, CNN'
+    'caption': 'On the Simon Bolivar bridge, Venezuelan national police stand guard
+      blocking the bridge into Venezuela. On the Colombian side, Venezuelans have
+      been chanting "freedom" singing and standing face to face with the police telling
+      them their stories.'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2019-02-23T23:14:23.144Z
+    'imagesource': 'jcr:6719d876-d7f3-49e9-a17a-ece58b672832'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b0b728c0-3b1c-41c7-ba46-e1357db66fc3'
+    'lead': 'Venezuelan President Nicolas Maduro broke diplomatic relations Saturday
+      with Colombia as tensions escalated along the two countries'' borders, where
+      international aid intended for Venezuela is awaiting transport. Maduro has vowed
+      to stop the aid from coming into the country.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T23:17:44.451Z
+    'mgnl:createdBy': 'janine'
+    'mgnl:lastActivated': 2023-01-29T17:29:45.582+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:38.714+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Violence flares at Venezuela''s border; Maduro breaks off relations
+      with Colombia'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f36e29b-842c-45c0-8e34-570e7b22a7cb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.451Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.582+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN) —</strong> Venezuelan President Nicolas Maduro broke
+        diplomatic relations Saturday with Colombia as tensions escalated along the
+        two countries'' borders, where international aid intended for Venezuela is
+        awaiting transport. Maduro has vowed to stop the aid from coming into the
+        country.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'feab69c2-6ffa-4712-b276-8e66f1b7cd9e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.451Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.583+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>These are the highlights from Saturday:</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb0155a2-5d13-4423-bfe0-afab54d15bef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.451Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.584+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>• The Colombian foreign minister said 285 people were hurt, with
+        37 requiring hospitalization, after the Venezuelan National Guard fired tear
+        gas and rubber bullets at protesters near the Colombian border.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a1c4d011-22f4-4977-b894-bdc9097fb9b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.584+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>• Trucks carrying supplies were blocked at most spots, but two trucks
+        carrying Brazilian humanitarian aid crossed into Venezuela on Saturday without
+        incident, the office of communications for the Brazilian presidency said.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46f66bc5-395e-48c2-8652-6c67f7138dc1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.584+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>• At least 60 members of Venezuela''s military fled the Maduro regime
+        on Saturday.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9dcca939-0cc7-4744-b2ef-0eff339ed824'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.585+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>• At a rally in the capital of Caracas, Maduro said he was breaking
+        relations with neighboring Colombia and threatened the United States with
+        military action.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83c39718-70a5-4d06-ba30-92ad13fa89d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.585+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>• Opposition leader Juan Guaido, speaking at the border with Colombia,
+        urged people to keep working to bring in aid shipments.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '66f364af-2653-4d78-a94d-f50d996732db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.585+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Venezuelan soldiers faced off against protesters who were demanding
+        to cross the border at Ureña to go work in Colombia, according to a CNN crew
+        that witnessed the scene at the Tienditas Bridge.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '38fa8b36-f759-49e2-87e7-5a876979f4b6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.585+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The protesters chanted, "We want to work!" as the National Guard
+        fired tear gas to disperse them. Men with shirts covering their faces started
+        throwing rocks toward the guard members.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c654774-92d2-4423-be6e-fd588a2fe14f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.585+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>CNN''s team in Ureña witnessed Venezuelan Armed Forces fire tear
+        gas at three members of the opposition-leaning National Assembly while they
+        were attempting a peaceful mediation with protesters.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3d4c06ca-d677-4b84-bb88-6e9447af29f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Journalist Stefano Pozzebon said three congressmen, two men and
+        one woman, raised their hands in the air Saturday afternoon and started slowly
+        walking toward a human barricade of Venezuelan armed forces when the soldiers
+        fired tear gas at them. The members of congress then pulled back to a safe
+        location among the protesters.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b19706c7-169b-4fdf-807f-6db43a6331e7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Amnesty International called for Venezuela to stop attacking its
+        citizens, saying, "Armed attacks against the population constitute serious
+        human rights violations and crimes under international law."</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5f06fd39-45b9-4753-b19e-88fad0172fa5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.452Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Also Saturday, humanitarian aid moved through the Brazilian-Venezuelan
+        border in Pacaraima, according to Maria Teresa Belandria, Venezuela''s opposition-appointed
+        ambassador to Brazil.</p>'
+    '73':
+      'contentWidth': '100%'
+      'embedCode': '<blockquote class="twitter-tweet" data-lang="en"><p lang="es"
+        dir="ltr">Ya estamos cargando la ayuda humanitaria desde Boa Vista Gracias
+        Brasil. 🇧🇷 Gracias 🇺🇸 <a href="https://twitter.com/hashtag/VamosBien?src=hash&amp;ref_src=twsrc%5Etfw">#VamosBien</a>
+        <a href="https://t.co/GrJLOUbZBO">pic.twitter.com/GrJLOUbZBO</a></p>&mdash;
+        Maria T  Belandria (@matebe) <a href="https://twitter.com/matebe/status/1099231011806896129?ref_src=twsrc%5Etfw">February
+        23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2046c146-a098-4d1b-9684-1497395f8e65'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'embedCode'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '394127c6-2d52-4d6f-9177-acf8d8757fa5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>But trucks were stopped at other border points, and two trucks attempting
+        to cross into Venezuela from Colombia went up in flames on Saturday, according
+        to three witnesses who told a CNN team near the border.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '32941499-0531-4800-8447-b92fb714af83'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.586+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Witnesses said the two trucks were set on fire as Venezuelan security
+        forces were firing tear gas against volunteers unloading aid on the Francisco
+        de Paula bridge. CNN cannot independently confirm the incident or the circumstances
+        of how the two trucks were set on fire.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffb6a3d8-2bff-4926-8861-ff4745c1ba41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2>Maduro: ''My patience has run out''</h2>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c4d3688-d544-41f9-8adb-d436e5f010a4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e12b5a84-920a-49a2-be24-fa48cd5dee44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Maduro denies that a humanitarian crisis exists in Venezuela and
+        suggests that aid efforts are part of a U.S. plot to orchestrate a coup.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '12c398ea-02f7-478d-a3c8-b0f9cf4ea664'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Saturday, Maduro called on Venezuelans to "mobilize." "Let''s all
+        take to the streets to defend our independence with conscience and joy," the
+        embattled Venezuelan President said on his official Twitter account.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f4bf635e-e5e9-4a29-a92d-a5f2bfe969c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>At a large rally in Caracas, he dared the opposition to call for
+        elections and called Guaido a "clown" and a "U.S. puppet."</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '09bc334c-78be-4535-9f96-bd88e4a9951e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.453Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.588+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Maudro told supporters he is breaking all diplomatic relations with
+        Colombia and is calling for its ambassadors and consuls to leave Venezuela.</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ae9c3ac-1fec-4a0a-b6da-1233008578ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.588+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>He gave the Colombian ambassadors and consuls 24 hours to get out
+        of the country.</p>'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '87dd8ced-81a6-4c63-999f-1cb8806c607c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.588+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"My patience has run out. I can''t continue to tolerate the aggressions
+        against Venezuela that are being carried out by the Colombian government,"
+        Maduro said.</p>'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a548f8b3-80b0-4186-8256-f41cdb9c1fea'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.588+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>He also threatened the United States: "If the empire dares to attack,
+        they will be received by the strength of the Venezuelan armed forces."</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '55d586b1-6f55-4b7e-9474-979bb98f5196'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.588+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, opposition leader Juan Guaido, who declared himself acting
+        president last month, said that some are looking to block access to aid by
+        generating violence.</p>'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a32a6d2-da2c-4cad-af61-e516a4ea9e7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We have peaceful intentions regarding this humanitarian and multilateral
+        effort," Guaido said, speaking Saturday in front of aid trucks on the Colombia-Venezuela
+        border. He described it as a "peaceful effort that wants to save lives."</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '874e8895-41af-433f-87a6-0b14426e8893'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Guaido tweeted later Saturday that aid had reached Venezuelan territory,
+        including an image of trucks blocked by the military.</p>'
+    '74':
+      'contentWidth': '100%'
+      'embedCode': '<blockquote class="twitter-tweet" data-lang="en"><p lang="es"
+        dir="ltr">¡Atención Venezuela! <br><br>Anunciamos que los camiones de la ayuda
+        humanitaria provenientes de Colombia ya están en territorio venezolano. <br><br>El
+        régimen usurpador está impidiendo su paso. <br><br>No podrán con nuestra decisión
+        irreversible de vivir en libertad. <br><br> <a href="https://twitter.com/hashtag/23FAvalanchaHumanitaria?src=hash&amp;ref_src=twsrc%5Etfw">#23FAvalanchaHumanitaria</a>
+        <a href="https://t.co/PBFJnRnaJm">pic.twitter.com/PBFJnRnaJm</a></p>&mdash;
+        Juan Guaidó (@jguaido) <a href="https://twitter.com/jguaido/status/1099369334319837184?ref_src=twsrc%5Etfw">February
+        23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"
+        charset="utf-8"></script>'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c2d23760-dc19-40cd-a611-1ef0f2a18d8a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'embedCode'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '26352a89-fc0d-49cc-9598-0830c9a7472f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Attention Venezuela!" he said on Twitter. "We announced that the
+        trucks of humanitarian aid from Colombia are already in Venezuela territory.
+        The usurper regime is blocking them. They will not be able with our irreversible
+        decision to live in freedom."</p>'
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f3202988-265d-4647-bcfb-131068c9fce0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50ea000e-7afe-4b2c-89ee-d6e8ed59fd74'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2>Defections on the border</h2>'
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ec77bd3d-116a-4f3e-84ca-184ed8f0b5cd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.454Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '49e55dfd-c7b9-443d-8722-0f420a49e38a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>More than 60 Venezuelan security forces defected to Colombia, Colombia
+        Foreign Minister Carlos Holmes Trujillo said in a news conference from Cucuta
+        on Saturday. Among them were two members of the Bolivarian National Guard
+        who fled with their families, Colombian immigration authorities said.</p>'
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0f673326-3e5b-4645-a47c-3e6068399e44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A Venezuelan man also "turned himself in," Colombian immigration
+        authorities said.</p>'
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '565cfb92-46fc-4159-a704-599777da247a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Some of the troops abandoned their posts at the Simon Bolivar International
+        Bridge on the Colombia-Venezuela border and requested help from Colombia''s
+        immigration department.</p>'
+    '37':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a6cf06df-889d-4c8c-9ae8-1e0306f06491'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Guaido said he "welcomes those soldiers that are on the constitution''s
+        side." He called for Venezuelan forces to join the "right side of history."</p>'
+    '38':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f6be6b9-94d4-4f2e-85bd-fb86360f29c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.590+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The opposition leader later tweeted a video he said shows Venezuelan
+        soldiers saluting him as their commander in chief. "There will be amnesty
+        and guarantees for those who take the side of the people," he said on Twitter.</p>'
+    '39':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'faa9fe78-f575-4287-b32c-eefb6446089c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Two trucks trying to bring humanitarian aid into the country were
+        burned, Colombian authorities said.</p>'
+    '40':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a7149f7-f82e-4263-93ef-1cc0e43a8b05'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '27192777-8b12-453c-9d38-9ef908e5bc77'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2>2 dead near Brazil border</h2>'
+    '42':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '134f52fe-70e6-4ded-8a59-2c9a00572eee'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '43':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ba09b7d5-bae9-4d28-9410-8d7e7fb3a804'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A standoff over aid delivery led to violence Friday at a Venezuelan
+        town near the border with Brazil, killing two people and injuring 17 others,
+        local authorities said.</p>'
+    '44':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2c1d1db4-9bd4-4eaa-a379-dec5296d356f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.455Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The violence occurred between a local indigenous community and the
+        military near Gran Sabana, said the town''s mayor, Emilio Gonzalez. He told
+        CNN the military opened fire on an indigenous group trying to facilitate the
+        passage of aid into Venezuela.</p>'
+    '45':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ffa3d489-80c3-4eea-b872-24a2815c59c4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.592+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Gonzalez said soldiers shot and killed a 34-year-old indigenous
+        Venezuelan woman and injured 17 others.</p>'
+    '46':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a9280ad0-2cca-42cc-8464-1cfda9659829'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.592+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>National Assembly member Americo De Grazia said on his official
+        Twitter feed that two people had died. The second victim was an indigenous
+        man, according to De Grazia.</p>'
+    '47':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6870e283-bc67-413d-92b9-d0fb64476a42'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.592+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Venezuela''s Ministry of Defense told CNN it had no information
+        on the incident.</p>'
+    '48':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '00dbe8c5-1054-4ed1-9ee9-9917ae64ddbe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.592+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>After the military opened fire, an indigenous group in Gran Sabana
+        detained 40 National Guard soldiers, Gonzalez said.</p>'
+    '49':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '736a4df4-e19d-4939-9c73-85e2dacfe3fd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.592+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Shots were fired overnight in the center of the town, where residents
+        put up barricades while members of the National Guard drove in armored vehicles,
+        Gonzalez said. The skirmishes brought the town to a total shutdown, he said.</p>'
+    '50':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c917165b-e01d-40dd-8412-e72fede0624e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Earlier this week, Guaido named&nbsp;Saturday as the deadline&nbsp;for
+        the aid to cross the border.</p>'
+    '51':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ea1c5ada-1325-4069-a88a-d30d979dc74a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Guaido has been working with a raft of global partners to bring
+        Venezuelans desperately needed food and medical supplies. The White House
+        urged the Venezuelan military to allow aid into the country in a statement
+        Friday.</p>'
+    '52':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '57e5d0be-1e16-4609-9ebb-202b27932599'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The United States strongly condemns the Venezuelan military''s
+        use of force against unarmed civilians and innocent volunteers on Venezuela''s
+        border with Brazil," White House press secretary Sarah Sanders said.</p>'
+    '53':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aee0357f-ba3c-4fa2-bc78-ddcaff6501a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Egregious violation of human rights by Maduro and those who are
+        following his orders will not go unpunished. The United States strongly urges
+        the Venezuelan military to uphold its constitutional duty to protect the citizens
+        of Venezuela. The Venezuelan military must allow humanitarian aid to peacefully
+        enter the country. The world is watching."</p>'
+    '54':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48d837c1-1567-410a-896e-7a17e50a03bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.456Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The United States announced Friday that it was preparing to bring
+        in aid through another route.</p>'
+    '55':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '583e68e9-655f-453f-beaa-b94fd1925361'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.593+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The U.S. and its partners began pre-positioning additional humanitarian
+        aid for Venezuelans in Boa Vista, Brazil," the U.S. State Department tweeted.</p>'
+    '56':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '638eb4a6-c356-4073-b888-038c7c83134a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The aid consists of food kits "containing rice, beans, sugar, and
+        salt to feed nearly 3,500 people for 10 days and additional rice to feed an
+        estimated 6,100 people for one month," a fact sheet from the State Department
+        says.</p>'
+    '57':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ede24f94-2252-4f29-99fa-cdcfe7e59c13'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '58':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5f4f2583-d0e5-4c4a-88c8-3dc87ebd85d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2>Aid stacked on Colombian border</h2>'
+    '59':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8632bca9-4c80-4630-ae84-0e79e432f155'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '60':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5690ef5d-9631-4e8a-a75f-7f932ec482ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The United States has&nbsp;so far delivered&nbsp;batches of relief
+        supplies to a&nbsp;border town in Colombia, including food and hygiene kits,
+        ready-to-use supplementary foods and high-energy biscuits. It''s pledged $20
+        million to help Venezuela, and other countries including Canada, the UK and
+        Germany have chipped in, too.</p>'
+    '61':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '728c1d13-af00-4f3e-aa36-af72732f048e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Colombian President Ivan Duque said Saturday that aid piled up in
+        his country should be allowed into Venezuela.</p>'
+    '62':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '85e4a97e-e2fd-444f-847d-0faac518de64'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We demand that its entry is allowed in a peaceful manner to the
+        Venezuelan territory for the benefit of those who need it," said Duque, standing
+        alongside Guaido at a press conference in Cucuta, Colombia, near the Venezuelan
+        border.</p>'
+    '63':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dad8b46b-f980-43ad-8653-1f89bf92d8ca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Preventing its entry is an attack against the human rights and
+        could constitute a crime against humanity."</p>'
+    '64':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1e8c55f0-c985-40f4-a8e5-eda662fd29d5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.457Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Duque added that the international aid has been handed over to Guaido.</p>'
+    '65':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '340a03a6-8ccf-4044-a6d4-8bc9ea2117c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Denying entry has represented so far a systematic violation to
+        the minimal conditions of life of the Venezuelan people. Today, we are doing
+        a multilateral exercise of peaceful and humanitarian nature; about the results
+        of this process, the usurper Nicolas Maduro will be responsible of any violence
+        acts," he said.</p>'
+    '66':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fe3d5ebb-c837-4de0-914f-945ede9ec9c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We ask the armed forces of Venezuela to be on the right side of
+        history and receive your brothers and sisters that are taking humanitarian
+        aid to assist the people of Venezuela."</p>'
+    '67':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a356c3e-77dd-47fb-88c1-a5e0412b2fbb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '68':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '069af461-2230-4d76-91f9-06cf3b1f94ca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2>Supporters host rival concerts</h2>'
+    '69':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5dcb643f-aa77-49c3-a350-7c556fc3689b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>&nbsp;</p>'
+    '70':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '00efe3eb-d05f-46e8-81da-22960d8213ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>British billionaire Richard Branson sponsored a Live Aid-inspired
+        show Friday in Cucuta, featuring Latin American stars such as Colombian musical
+        legends Carlos Vives and Juanes, and reggaeton singer Maluma.</p>'
+    '71':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd5bbad4a-5e76-4de8-82ad-8842db49676d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Maduro staged a rival concert a few hundred meters away on the Venezuelan
+        side of the bridge in Tachira.</p>'
+    '72':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '44488a4d-0af0-414f-ba08-d1dca3741844'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:17:44.458Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:45.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com "<a href="https://edition.cnn.com/2019/02/23/americas/venezuela-brazil-violence-intl/index.html">Violence
+        flares at Venezuela''s border; Maduro breaks off relations with Colombia</a>"</em></p>'
+  'woman-killed-venezuela-aid':
+    'author': 'Jorge Luis Perez Valery, Claudia Dominguez, Eliza Mackintosh and Jack
+      Guy, CNN'
+    'caption': 'An ambulance carries people hurt in clashes Friday in southern Venezuela
+      near the border with Brazil.'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2019-02-23T23:18:03.510Z
+    'imagesource': 'jcr:c1d68e4e-cd36-4001-b5ee-b2d2eab10418'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '62b55598-c18d-4af8-944e-52d7a1e373ef'
+    'lead': 'At least two people have died and 17 were injured Friday in a standoff
+      between a local indigenous community and the Venezuelan military over deliveries
+      of humanitarian aid, according to local authorities.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-24T23:19:46.462Z
+    'mgnl:createdBy': 'janine'
+    'mgnl:lastActivated': 2023-01-29T17:29:43.469+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:39.070+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Reports: Two dead in standoff over aid with Venezuelan military'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cf3f61b0-4002-48d7-853b-4f21dfa596c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.469+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN) —</strong> At least two people have died and 17 were
+        injured Friday in a standoff between a local indigenous community and the
+        Venezuelan military over deliveries of humanitarian aid, according to local
+        authorities.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '96e1154d-94e2-43c9-b000-e4522c0b37a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.470+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Instead of mediating, the military started shooting," Emilio Gonzalez,
+        mayor of the Venezuelan town Gran Sabana, told CNN. The conflict took place
+        near the Brazil-Venezuela border.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '37225d0e-3699-40ab-9bab-a1b732f8ea2b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.470+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Gonzalez said one victim was a 34-year-old woman, who was part of
+        an indigenous group trying to facilitate the passage of aid into Venezuela,
+        one day after President Nicolas Maduro shuttered the country''s border with
+        Brazil.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46350168-ecf3-4fde-82c9-088598ff0051'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.470+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>National Assembly member Americo De Grazia said on his official
+        Twitter feed that a second person, an indigenous man, had also died. CNN could
+        not immediately confirm the deaths.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '43634b25-b009-4e6a-b774-14eaabfd8c2b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.471+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Tensions are running high at Venezuela''s borders amid opposition
+        plans to usher aid into the country this weekend in defiance of Maduro''s
+        wishes.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e2faf663-80ce-4e3b-9a0e-dd4590e2f1a3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.471+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Venezuelan opposition leader Juan Guaido, who invoked a constitutional
+        provision last month to declare himself acting president, has been working
+        with a raft of global partners to bring Venezuelans desperately needed food
+        and medical supplies.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c2824333-ff72-4248-91f1-ab068de2bd94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.471+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The violence came as dueling concerts kicked off on the country''s
+        western border with Colombia, where aid deliveries from the United States
+        have been languishing since Maduro&nbsp;blocked the Tienditas Bridge.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '99b17000-8696-4f65-acee-d1660c58bc29'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.463Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.472+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>But the U.S. announced on Friday preparations to bring aid in through
+        another route.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a21f3a91-ec7c-4b9a-b542-0650355a1fbb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.472+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The U.S. and its partners began pre-positioning additional humanitarian
+        aid for Venezuelans in Boa Vista, Brazil in proximity to the Brazil-#Venezuela
+        border," a tweet from the U.S. Department of State said.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bbbc76e-036a-4329-a91a-7c6ff7c2be05'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.472+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The aid consists of food kits "containing rice, beans, sugar, and
+        salt to feed nearly 3,500 people for 10 days and additional rice to feed an
+        estimated 6,100 people for one month," a fact sheet from the State Department
+        says.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f804ae99-bf16-47ca-ad58-b7adfdcd45ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.472+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>British billionaire Richard Branson sponsored a Live Aid-inspired
+        show Friday in Cucuta, Colombia, featuring Latin American stars&nbsp;such
+        as Colombian musical legends Carlos Vives and Juanes and reggaeton singer
+        Maluma.&nbsp;Colombian President Ivan Duque, Chile''s Sebastian Piñera and
+        Mario Abdo of Paraguay also joined the crowds.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0aa2ac6e-5681-45cf-be26-d15876bcc5c7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.473+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I would like to send a message to Maduro," Piñera said. "There
+        is nothing crueller than a government that denies and closes the entry of
+        humanitarian aid that his own people need so much. And I can''t stop wondering,
+        how can a person be so greedy to be willing to cause so much pain and so much
+        suffering to his own people for so long, only to hold on to a power that does
+        not belong to him."</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f0377c20-2b8a-43fe-a41a-31a63d8991e9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.473+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Maduro staged a rival concert a few hundred meters away on the Venezuelan
+        side of the bridge in Tachira.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '554a2bb1-4c17-45bb-966c-3c81fa139973'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.473+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The beleaguered President, who is facing growing calls to step down,
+        denies that a humanitarian crisis exists in his country and suggests that
+        aid efforts are part of a U.S. plot to orchestrate a coup.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c9e944c-b0db-48bc-b01a-83d81d803150'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.473+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Maduro announced in a televised speech Thursday that he was considering
+        shutting the Colombia border, which would seal off most of Venezuela''s inland
+        periphery, and warned against trying to bring humanitarian supplies into the
+        country by force.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '470c65e7-f470-45f6-9d36-d2a226ef99b2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.474+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Then on Friday, vice president of Venezuela Delcy Rodriguez announced
+        on her verified Twitter page a "total temporary closure" of the border with
+        Colombia, "due to a series of illegal attempted threats by the government
+        of Colombia against the peace and sovereignty of Venezuela."</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9f7fc169-c4e9-4d23-b0b3-8e73934d0bf6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.474+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Venezuelan government has also closed its maritime border with
+        Aruba, Curacao and Bonaire and, in the western state of Falcon, stopped flights
+        to and from those islands.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6b17ae59-fc53-4336-a888-b0af56373736'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.464Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.474+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Tweeting about the deadly clashes Friday afternoon in Gran Sabana,
+        Guaido said: "This will not go unpunished.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e67df811-a19d-47bf-bb64-cb1a67566633'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.465Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.475+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Decide which side you are in at this final hour. To all the military:
+        between today and tomorrow you will define how you want to be remembered.
+        We already know that they are with the people, you have made it very clear
+        to us. Tomorrow you can prove it," Guaido added.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1c4f7202-ac4f-4f19-af69-02c5835dac8a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.465Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.475+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Venezuelan lawmaker Americo de Grazia&nbsp;tweeted&nbsp;a video
+        of those injured at a hospital in Boa Vista, Brazil, and said there was a
+        heavy military presence in the area, including several tanks.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31d8f7e1-ad25-403c-b955-b98071ac4023'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.465Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.475+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>UN Secretary-General Antonio Guterres has urged that violence be
+        avoided in Venezuela, according to his spokesman, Stephane Dujarric. "We will
+        obviously keep a very close eye on what happens tomorrow," Dujarric said.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7ba6bef7-631f-44b1-9cf7-65b38cb6d3bd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-24T23:19:46.465Z
+      'mgnl:createdBy': 'janine'
+      'mgnl:lastActivated': 2023-01-29T17:29:43.475+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com "<a href="https://edition.cnn.com/2019/02/22/americas/woman-killed-venezuela-aid-scli-intl/index.html">Reports:
+        Two dead in standoff over aid with Venezuelan military</a>"</em></p>'
+  'india-air-strikes-launch-pakistan-border':
+    'author': 'Helen Regan, Nikhil Kumar and Sophia Saifi, CNN'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2019-02-26T12:31:45.992Z
+    'imagesource': 'jcr:68678abc-58bf-44fd-b50f-68599855a38a'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '63d86dc4-16dd-4fb8-b9e5-eccdb7400c07'
+    'lead': 'India says it has conducted air strikes on an alleged terrorist training
+      camp across the Line of Control, the de facto border between India and Pakistan
+      in the disputed Kashmir region, in a significant escalation of hostilities between
+      the two nuclear armed powers.'
+    'mgnl:activationStatus': true
+    'mgnl:comment': ''
+    'mgnl:created': 2019-02-26T12:35:35.127Z
+    'mgnl:createdBy': 'robert'
+    'mgnl:lastActivated': 2023-01-29T17:29:42.744+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-01-29T17:29:39.251+08:00
+    'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'India says it has launched air strikes across disputed border with Pakistan'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0fd55a29-15a2-445f-bb80-562451b03b80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.745+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN)</strong> — India said it has conducted air strikes
+        on an alleged terrorist training camp across the Line of Control (LoC), the
+        de facto border between India and Pakistan in the disputed Kashmir region,
+        in a significant escalation of hostilities between the two nuclear armed powers.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fa9079bb-3adf-4ede-b00e-91e0f5b83890'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.745+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The apparent strike took place in the early hours of Tuesday morning,
+        and came in response to what India said was "credible intelligence" about
+        potential terrorist attacks, India''s foreign secretary, Vijay Gokhale told
+        reporters in New Delhi, Tuesday.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3a8a3d1e-5e56-428c-b0b1-91dda6c5bf0c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.745+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Gokhale said the alleged camp was run by Jaish-e-Mohammed, the group
+        India blames for a&nbsp;suicide car bomb attack&nbsp;in Pulwama in Indian
+        administered Kashmir that killed 40 Indian paramilitary soldiers on 14 February.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7913b77b-dc66-4e97-b867-806fa5d825f5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.745+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>It was the worst attack on Indian forces since the beginning of
+        an insurgency in the region in the late 1980s, according to analysts.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a03b1b95-721a-4932-92fc-ef6036a081f0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.745+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Following the announcement, Pakistan''s Foreign Minister Shah Mahmood
+        Qureshi warned India not to challenge Pakistan.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '60bbd282-b311-4ca4-aa8b-e010a5e9ebf3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.746+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a statement Tuesday, Qureshi said better sense should prevail
+        in India and that defenders of Pakistan were "fully prepared to respond to
+        any misadventure."</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ab43aa69-8e18-4b48-b518-fe25b0408e8e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.746+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>India''s account came hours after a spokesperson for the Pakistan
+        Armed Forces tweeted that Indian military aircraft crossed into Pakistan airspace,
+        but were driven back.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ad5a945d-8b33-47e7-9343-940eb285ba47'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.746+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Pakistan Maj. Gen. Asif Ghafoor alleged that Indian jets crossed
+        the Line of Control (LoC) and were pushed back by Pakistan Air Force jets
+        that were "scrambled" to the scene.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1da2b7fc-a4d8-4e12-9594-7a1046a44c96'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.128Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.746+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Indian (aircraft) intruded from Muzafarabad sector. Facing timely
+        and effective response from Pakistan Air Force released payload in haste while
+        escaping which fell near Balakot," said Ghafoor, in a statement posted on
+        his official Twitter account.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3535db9f-2a37-4a51-943e-338b65b1b409'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.746+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>He&nbsp;added&nbsp;that there were no casualties, nor any damage
+        to Pakistani property or military assets reported in the incident.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '33147427-8a3c-4704-ae2a-a5b7d7e7e841'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.747+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Escalating tensions</strong></h2>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c67482e6-3fb1-4361-8d7d-4b2316b18a8a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.747+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In the statement released Tuesday, India said "a very large number"
+        of militants were "eliminated" in the airstrike operation. It believed the
+        alleged camp was a military training facility headed by Maulana Yousuf Azhar,
+        the brother-in-law of Masood Azhar -- chief of Jaish-e-Mohammed.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6142aec0-9601-4776-b0c1-055dcb72b530'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.747+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>India had previously claimed to have "incontrovertible evidence"
+        that Pakistan had a "direct hand" in the Pulwama bomb attack. "It is a well-known
+        fact that Jaish-e-Mohammed and its leader Masood Azhar are based in Pakistan.
+        These should be sufficient proof for Pakistan to take action," India''s Foreign
+        Ministry said in a statement posted February 19.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '626525d7-efd4-4087-af67-05252e739af3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.747+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Following the attack, India promised retaliation, including commercial
+        and diplomatic steps to "isolate" Pakistan internationally.</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5173fcfd-1c3b-4221-baaa-cae2f603c36f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.747+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Pakistan has&nbsp;vehemently denied&nbsp;having a role in the attacks.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '936c70f0-d767-4152-93ec-bf52b0e9c575'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.748+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<h2><strong>Tumultuous history</strong></h2>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '683b2dc3-e26e-4efa-b7f8-a8d9ecd370fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.748+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Kashmir, a largely mountainous region located between India and
+        Pakistan, has had a tumultuous history.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3fe9c44c-81f2-443a-afbf-bc41408147c8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.748+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The region has been bitterly contested by both India and Pakistan
+        following the partition of the two countries in 1947, leading to three wars
+        and numerous other skirmishes.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e48f06aa-d987-47cb-ab41-b457de0a8ded'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.129Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.748+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The February attack came more than two years after&nbsp;armed militants
+        entered&nbsp;an Indian army base in the garrison town of Uri, about 63 miles
+        (102 kilometers) from Srinagar -- killing 18.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bbdd13e2-507d-4ffb-9a82-4a8e075c7e56'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.130Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.749+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>India later said it had used ground troops to strike terrorist targets
+        across the LoC in response to the Uri attack, something which Pakistan denied.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c20544d-9d6b-4997-aacd-030cd9004ab2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.130Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.749+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Days after February''s attack four Indian army personnel&nbsp;were
+        killed&nbsp;in a gunfight with militants in the Pulwama district of Indian-administered
+        Kashmir.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dfbfb521-e624-4cc4-bde4-103536919cbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.130Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.749+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Separatist violence in the region has killed more than 47,000 people
+        since 1989, although this toll doesn''t include people who have disappeared
+        due to the conflict. Some human rights groups and nongovernmental organizations
+        put the death toll at twice that amount.</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c97b980a-49b0-4b4a-a1f5-d9daf60692a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-02-26T12:35:35.130Z
+      'mgnl:createdBy': 'robert'
+      'mgnl:lastActivated': 2023-01-29T17:29:42.749+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T12:30:18.070+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com, "India says it has
+        launched air strikes across disputed border with Pakistan."</em></p>'

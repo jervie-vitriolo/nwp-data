@@ -1,0 +1,3352 @@
+'26':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': 'e4324410-f983-4721-99a0-09fe53ba3937'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2019-11-15T14:44:45.572+08:00
+  'mgnl:createdBy': 'jeff'
+  'mgnl:lastActivated': 2023-02-14T14:26:14.343+08:00
+  'mgnl:lastActivatedBy': 'magnolia'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:02.624+08:00
+  'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+  'mgnl:lastModifiedBy': 'magnolia'
+  'CNN-Philippines-poll-Readers-prefer-familiar-politicians-for-president':
+    'author': 'Alexander T. Magno, CNN Philippines'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2015-04-26T22:21:27.433+08:00
+    'imagesource': 'jcr:07bf3041-8644-411c-bbdd-36ed45ee61b4'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '208f4fc6-2ebb-4c7c-913a-f44749c5c1b0'
+    'lead': 'We here at CNN Philippines asked you this question: "Who would you want
+      as the next president of the Philippines?" The results, please...'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:16:12.855+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:27.567+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:03.422+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Readers prefer familiar politicians for president
+
+      '
+    'updated': 2015-07-16T02:49:00.000+08:00
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a25b5f4a-c58c-4c26-bcae-12dbb2f1a403'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.855+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.570+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN Philippines) –</strong> Isn''t there nobody else qualified
+        for public office who doesn''t come from a political clan?</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6698837a-f25e-4e54-88d3-bb49f67d6787'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.855+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.571+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>You''ve probably heard that comment often, if you haven''t said
+        it yourself.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5c207e66-55e9-474d-b204-1daa92086117'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.573+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>So we here at CNN Philippines thought of asking you, through our
+        website, this question: "Who would you want as the next president of the Philippines?"</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1a24af75-656c-4899-8365-48c7eee21d33'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.574+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>We didn''t give any choices so our readers could put in any name
+        they want.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '39432df2-edcf-497c-9c57-9046c81ae09d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.575+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>From the more than 7,000 responses, we first weeded out the obvious
+        jokers who named Mang Kanor, the late former cop who became famous for his
+        sex scandal videos; Vicky Belo, the dermatologist; and two CNN Philippines
+        news anchors, Mai Rodriguez and Claudine Trillo.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3dbc070b-f113-4134-8551-9ff7b7109fa5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.576+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Someone wants actor Vic Sotto for president, which may not be a
+        serious suggestion – or maybe it is, considering that the actor''s brother,
+        Vicente "Tito" Sotto III is now a senator.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '83d5da85-ec87-429e-82bf-0c1a6a9ef78c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.578+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>So did our readers put in names other than the usual?</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bfdc4fd3-a363-4134-8507-e2b177110750'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.580+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>No. Most of them put in the old familiar politicians whose supporters
+        are now already pushing as possible presidential candidates.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a58bcb01-97b3-4444-a81d-02f58c48ef21'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.582+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>So here are our readers'' choices for the presidency, who currently
+        hold government posts, with their surnames in alphabetical order:</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '23045b90-f9fa-4c2a-a592-c13b92aabfb2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.584+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>President Benigno Aquino III</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78eedde5-8c71-4c38-b087-6bdde8de8246'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.587+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Vice President Jejomar Binay</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46be7dec-9fcd-4bce-98c9-b255e6bf8b29'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.589+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Alan Peter Cayetano</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '24d6ad83-cc5a-48f3-9cdc-d29ee1c05f76'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.591+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Pia Cayetano</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1c333f56-8051-41eb-b665-f67fea56d3aa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.594+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Davao City Mayor Rodrigo Duterte</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '17fd8c98-d2ca-45f4-82d4-4d365df4cc86'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.856+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.595+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Manila Mayor Joseph Estrada, a former president</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ee46db30-1678-4a93-92cf-6c33c2491478'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.596+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Ferdinand Marcos, Jr.</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ad6065a4-e8b9-436a-8656-45cc2b36143e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.598+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Sergio Osmeña III</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f870477-d085-406b-902a-16091dc634fd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.599+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Grace Poe</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf2d5e3d-e08a-49fb-a718-e3a8da31999c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.601+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Pampanga Rep. Oscar S. Rodriguez</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1353df9d-cecf-48a1-aa59-3691d62d349e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.602+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Interior Secretary Manuel Roxas</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '31c13ce0-692d-4b31-98c0-adf3d6216055'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.603+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Albay Gov. Joey Salceda</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '75606f17-c22b-4b53-b164-104cc0e2e6c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.603+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Sen. Miriam Defensor-Santiago</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '979f2a2b-10cc-4e35-bbbd-c1085e7c5fd2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.605+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Chief Justice Maria Lourdes Sereno</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9c868696-111d-4492-9e91-8e04537abf39'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.606+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Readers also want the following former government officials:</p>'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8f38bdfa-75ca-46b6-aab4-3afaa207d3e5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.608+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Former Interior Secretary Rafael Alunan III</p>'
+    '25':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7dabe7f2-5531-4d2f-962c-a98b6ad33458'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.609+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Former Chairman Bayani Fernando of the Metropolitan Manila Development
+        Authority</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6f39e979-4815-4c9f-833b-f79172371b34'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.610+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Former Sen. Richard Gordon, who is now chairman of the Philippine
+        Red Cross</p>'
+    '27':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '77b457ee-2301-42aa-a8ba-056ab1ae3ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.611+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Former Sen. Panfilo Lacson</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '21bc14ef-eee2-433d-ac86-597a02cf2e09'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.857+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.612+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Former Defense Secretary Gilberto Teodoro</p>'
+    '29':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6aa43f07-a924-4649-9937-998db9d40b5e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.614+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>One businessman made it to the list – telecommunications and media
+        magnate Manuel V. Pangilinan.</p>'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '51ba2067-c89e-4b2d-b4b7-2cbfda2e8520'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.616+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Some people still want the late former President Ferdinand E. Marcos,
+        one of them saying: "Could you make MARCOS alive?"</p>'
+    '31':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb4a2b21-9348-4285-9d7a-82305a8d6775'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.617+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Reasons</p>'
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '783ed6c5-82e4-4a0c-9fe9-bc414f3bb132'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.619+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>We decided not to put out a tally of the names, because it''s not
+        our intent here to influence voters with numbers.</p>'
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4338199c-7373-4856-b95b-970337b79754'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.620+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>At any rate, some readers made the reasons for their choices clear.</p>'
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '08fafeb6-66f1-4e1f-80c0-b0523daae1e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.621+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I want Mayor Rodrigo Duterte to be the next President of the Philippines
+        so that we can be assured of ''the matuwid na daan'' and also pursue federal
+        form of government which is his and our advocacy... thus assuring resources
+        to be fair and equal to the different regions in the Philippines."</p>'
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2af4e585-5cc7-4224-a28e-fb919f096b66'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.622+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The major problems of the Philippines: 1. Corruption in the gov''t
+        2. Drugs that poison the Filipino people until they become useless 3. Criminalistics,
+        if you want these problems solve GO FOR DUTERTE! DUTERTE is my CHOICE."</p>'
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cac31e39-4a57-4ca3-b04b-6ef0d0897539'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.623+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I foresee Miriam Defensor-Santiago as a good President as her health
+        permits as she has the best political and judiciary exposure and technical
+        know-how to lead the country."</p>'
+    '37':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f29ef97a-90a0-41ec-8b8f-ce85011c904b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.624+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"ping lacson tau! ibahin naman natin ang takbo ng pilipinas.."</p>'
+    '38':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3e41de43-664f-43eb-ad58-7e64a87517fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.626+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Senator Panfilo Lacson. Its because he posseses proven leadership,
+        competence and in responsive position to address concerns on national security"</p>'
+    '39':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a81b2d04-1677-49d7-88ab-01a3c00697f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.627+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Pnoy or Roxas para sa matuwid at malinis na daan.. nothing more"</p>'
+    '40':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0050d168-ac9e-4f82-8d2d-4e1a582f3e66'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.628+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Bongbong Marcos, hnd dahil anak sya ni FEM [Ferdinand E. Marcos],
+        alam lng nya ang gngwa at cnsabi nya, at gusto q ung pngulo hnd umaasa s tga
+        payo nya me sariling utak n dala dala kht sn."</p>'
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '56185ade-56c5-4e86-acb1-88edbcdd3bf1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.629+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Senator Bongbong Marcos for the greater Philippine dont vote for
+        celebrity''s who don''t have any experience."</p>'
+    '42':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f19d61a2-094a-40b8-800e-6a9e1647512e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.858+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.631+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Bongbong marcos para sa lahat ng pmilya nmin.gogogo bongbong."</p>'
+    '43':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '05dec5a4-2b04-47a0-b26e-7560a250f68c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.631+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The Maharlikan blood Bongbong Marcos ''our nation will be great
+        again''."</p>'
+    '44':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bf60eb2e-ea91-4143-92f8-3abcb9a765c5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.633+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Poe or Roxas. DEFINITELY not Binay. May God forbid it."</p>'
+    '45':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'de8b09f4-79a1-4bb9-84e0-e28d35fc3ba0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.635+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>General qualifications</p>'
+    '46':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fd40b666-c15f-4aaf-b47d-d5a008880712'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.636+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Other readers apparently have no candidate yet in mind, but they
+        gave some traits they would like a presidential candidate to have:</p>'
+    '47':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8c93fd9e-8e82-4be7-93a3-b9ec41aa0668'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.636+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"brave and honest to the people of the philippines"</p>'
+    '48':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'da767e2f-004b-4f1d-9c7f-8836015f28ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.638+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"a person of integrity,have fear in God above all must possess political
+        will"</p>'
+    '49':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '79441d92-df30-4594-a8e7-5609335b3a0c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.639+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Someone cares about the poor people and who can stop the corruption"</p>'
+    '50':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9338fcd5-7c7a-4a1f-8297-916bedb59ff6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.640+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Someone fresh with new ideas, anybody but the corrupt to the core
+        Binay. His latest ... Making billions off the homeless poor... If Filipinos
+        vote for him, then I say: the country is down the drain! Sad, sad, sad ...
+        Filipinos truly will lice unto the stupidest voter in the withdrawal. How
+        embarrassing!"</p>'
+    '51':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1f12a88d-bd8f-44ab-bf97-ae3623ee8737'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.641+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"a person of integrity,have fear in God above all must possess political
+        will"</p>'
+    '52':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cb55e9f8-1286-4241-aaa6-735b6bdb997f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.642+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"A kind dictator or a hard democrat"</p>'
+    '53':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e789a927-06e7-4462-b6c5-9c4606c50bef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.643+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A few readers apparently couldn''t care less who runs in 2016:</p>'
+    '54':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c46ebda2-2e97-42da-a430-e636400d8c3b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.644+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Change the political system."</p>'
+    '55':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '993a2ea5-a2f4-4744-a494-3e830ca0204d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:16:12.859+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:27.645+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"GOD only He can save us now. Our current politicians are just clueless
+        and stoopids."</p>'
+  'Veloso-was-happy-calm-hopeful-amid-looming-execution-–-lawyer':
+    'author': 'Louie U. Navarro, CNN Philippines'
+    'caption': 'Death convict Mary Jane Veloso said she received a letter early Saturday
+      evening telling her of the date of her execution.'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2015-04-26T21:44:20.495+08:00
+    'imagesource': 'jcr:b3e05e87-0b3f-42b9-803b-7a6c12d7f696'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '6d2f6bbd-bc50-4b08-ae78-92f0a5262da5'
+    'lead': 'Mary Jane Veloso, the Filipina maid who is set to be executed on Tuesday
+      (April 28), was surprisingly upbeat during her family’s visit the previous day
+      – a few hours before she received a letter setting the date of her execution,
+      according to one of her lawyers.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:20:10.233+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:25.000+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:04.482+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Lawyer: Veloso was calm, happy, hopeful
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b1fc8682-cd1b-4da7-8cff-ffb5b24a2acc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.233+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.002+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN Philippines) –</strong> Mary Jane Veloso, the Filipina
+        maid who is on death row for drug trafficking in Indonesia, was surprisingly
+        calm and happy and even made jokes on Saturday (April 25), a few hours before
+        she received a letter setting the date of her execution.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6c0c0d88-d973-44a6-aa41-8c11822212fc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.233+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.003+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Edre Olalia, a lawyer acting for Veloso, told CNN Sunday (April
+        26) that Veloso had telephoned her sister on Saturday at about 5:30 p.m. local
+        time and said her execution will take place on Tuesday, April 28. Officials
+        at the Philippine Embassy in Jakarta confirmed the same information.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '508c610c-d11d-42de-97ea-952180d58ef5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.233+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.003+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><a href="http://cnnphilippines.com/news/2015/04/25/Veloso-execution-day-set.html">RELATED:
+        Veloso set to be shot on Tuesday</a></p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '26fa0eaa-6e7f-4784-be2f-afb76e0506ba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.233+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.004+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>An embassy representative who attended the meeting at the Nusakambangan
+        correctional facility – a maximum high security prison in Indonesia in Cilacap,
+        Central Java – reported Saturday night that Veloso was issued the letter Notice
+        of Execution but she, her lawyer, and the embassy representative did not sign
+        it due to a pending second appeal. They were again issued a second letter
+        indicating that Veloso refused to sign the letter Notice of Execution, which
+        they then signed.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '03761cdd-7550-44e1-b979-2ecf80736ca9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.006+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Veloso was arrested at the Yogyakarta Airport in March 2010 for
+        carrying 2.6 kilograms of heroin in her luggage. In October of the same year,
+        she was given the death sentence.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ceb2dee0-cdde-4ac2-8e99-65466be358cf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.007+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>‘Happy and calm’</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '56deb3e5-36ac-45a1-8bb5-40e4dae57ff6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.007+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A Reuters report on Sunday (April 26) quoted Veloso’s lawyer, who
+        said the Filipina on death row was surprisingly upbeat during her family’s
+        visit the previous day.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd84669a0-0fb0-453c-9f6a-9b111a3c49e4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.008+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The family paid Veloso another visit on Sunday – their second since
+        she was sent to the island on Friday (April 24).</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1b616b7a-5bfb-4f96-886b-eb2e86eb20b0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.008+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Atty. Olalia, while waiting for the permit to cross by boat to the
+        island, told reporters: "We saw Mary Jane inside the prison, and it is a bit
+        amazing because we saw her happy and calm. She even made jokes, which gives
+        strength to her father, mother and siblings. She has gained some weight because
+        she has nothing to do inside (the prison), but overall she is stable. She
+        insists that she is innocent and still hopes she can be saved."</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ca199554-944b-4087-a8d2-0889c812630a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.010+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Nine of the 10 death row inmates, including Veloso, have been given
+        72 hours notice ahead of their execution, according to a spokesperson for
+        the Attorney General''s office.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '719e8f74-0ea2-4caf-80e6-92a1b1f9463d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.011+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"So it basically means, there will not be any executions before
+        5 o''clock (5 a.m. local time (2200GMT on April 27)) on April 28, but of course
+        the possibility of the execution will happen after the 5 o''clock deadline.
+        But from our knowledge, the executions happen at 12 midnight (1700GMT) according
+        to their practice," Olalia said.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bbc91b1e-f9ec-4395-ab66-8771595f6fce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.011+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Aside from Veloso, nationals from Australia, Nigeria, Brazil and
+        Ghana are also on Indonesia''s death row. A temporary reprieve was granted
+        to a French citizen who will not be in the next round of executions.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '755a4e1c-f3e4-4e84-901c-57e80e7eabe7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.011+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Indonesia has harsh punishments for drug crimes and resumed executions
+        in 2013 after a five-year gap. Six executions have been carried out so far
+        this year.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a690560-86bc-4054-a38c-e45d8d4a9953'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.013+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><a href="http://cnnphilippines.com/world/2015/04/26/indonesia-72-hour-warning-given-to-death-row-inmates.html">RELATED:
+        Indonesian executions: 72-hour warning given to death row inmates</a></p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a36dbd64-9e46-4e24-8442-57b6f73eff4e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:20:10.234+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:25.014+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>CNN Philippines'' Alex Ho, Brian Poe, and Reuters contributed to
+        this report.</p>'
+  'pba-finals-rain-or-shine-talk-n-text-game-6-almazan':
+    'author': 'Jan Ballesteros, CNN Philippines'
+    'caption': 'Raymond Almazan had 18 points in Rain or Shine''s Game 6 win.'
+    'categories': ['26cd2aca-e96d-4813-956c-11c0f3a1281f']
+    'created': 2015-04-26T20:05:56.189+08:00
+    'imagesource': 'jcr:7f5d021a-f578-46d0-a4f7-129cbd994b69'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '9c3efa99-d726-451a-807d-6aa43587187d'
+    'lead': 'With their backs against the wall, the Rain or Shine Elasto Painters
+      edged the Talk ''N Text Tropang Texters in Game 6 to extend the Commissioner''s
+      Cup finals series to a seventh and deciding game.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:23:48.102+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:23.999+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:05.354+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'PBA Finals: Rain or Shine still alive, forces do-or-die Game 7 vs. Talk
+      ''N Text
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '99b56f2d-a290-4786-9085-0b854d537dba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.999+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN Philippines) —</strong> With backs against the wall,
+        the Rain or Shine Elasto Painters played with so much gusto and cohesion to
+        hammer out a 101-93 victory over Talk ’N Text Tropang Texters in Game 6 of
+        the Philippine Basketball Association (PBA) Commissioner’s Cup finals at the
+        SMART-Araneta Coliseum Sunday (April 26).</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7d1b40d4-cec5-4b79-902d-be808cd36fdb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.000+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>More importantly, the Elasto Painters kept their heads above the
+        water in the best-of-seven series as they forced a do-or-die match on Wednesday
+        (April 29) also at the Big Dome.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4a5840f4-a36a-4357-a49c-88e139255e83'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.000+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Raymond Almazan showed the way for Rain or Shine with 18 points,
+        11 of which he scattered in the opening quarter to set the tone for the Elasto
+        Painters.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '54822fcd-088c-4f0c-8852-1d500497131a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.001+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>“Raymond played another excellent game not only on offense but also
+        on defense,” said Rain or Shine coach Yeng Guiao. “He challenged shots of
+        Ranidel (de Ocampo) and Jayson (Castro).”</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '406c7f8d-f975-40b7-aa38-cf7bbaad34e3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.002+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>De Ocampo and Castro, though, still finished with 21 and 17 points,
+        respectively, for the Tropang Texters, who didn’t get much help from import
+        Ivan Johnson who scored a measly six points.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c053c947-4617-4840-912d-2593855a253a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.003+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Before Sunday’s contest, Johnson hadn’t scored lower than 15 points.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0243fdd8-07fe-45fd-b79b-f36e28375d54'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.004+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>His counterpart, Rain or Shine reinforcement Wayne Chism, made his
+        presence felt with 18 points, while Paul Lee chipped in 16 markers.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2ce4f639-c097-40a0-9fcd-68bf27a6467e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.004+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Jeff Chan, supposedly out for the rest of the series, played through
+        pain and scored 11 points, including eight straight in the first four minutes
+        of the second quarter.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0b5b535d-17b9-4569-a996-4f687e0d6608'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.005+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>“Jeff Chan was in pain. He called me up last night, asked if he
+        can make a contribution and he did, trying to show the rest of the team he
+        really wanted to make contribution. Even in pain he wanted to help,” Guiao
+        said.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '92c92980-252a-4237-b64e-9fc78fb01683'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.006+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The scores:</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a57d85ac-7d59-4080-ab57-3e117ac69e22'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.007+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>RAIN OR SHINE 101 - Almazan 18, Chism 18, Lee 16, Chan 11, Cruz
+        Jericho 10, Quinahan 9, Tiu 7, Norwood 6, Ibanes 3, Arana 3, Uyloan 0, Belga
+        0.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f229b2be-9072-4857-9fd3-55eeb1c8a16c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.103+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.008+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>TALK N'' TEXT 93 - De Ocampo 21 Castro 17, Washington 14, Carey
+        13, Fonacier 11, Johnson 6, Alas 4, Williams 4, Rosser 3, Aban 0.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '673fc99d-976d-4803-a61a-baf081f78cd0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:23:48.104+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:24.008+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Quarters: 23-18, 54-42, 76-71, 101-93</p>'
+  'major-aftershock-hits-nepal-day-after-cataclysmic-earthquake':
+    'author': 'Manesh Shrestha, Jethro Mullen, and Wayne Drash, CNN'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2015-04-26T19:01:33.709+08:00
+    'imagesource': 'jcr:04eefcfb-3913-4dfa-af5d-adfc2add1fcf'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '13bb60e6-0381-4999-8d1d-0a1a4edf9734'
+    'lead': 'No Filipinos were hurt in Saturday''s deadly quake in Nepal that has
+      so far killed more than 1,900 people — with the numbers expected to rise as
+      the full extent of the damage is assessed.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:29:30.250+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:23.101+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:05.925+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Major aftershock hits Nepal day after cataclysmic earthquake
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e20d2ebe-490b-405b-85a3-06db4173582c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.250+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.101+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>(CNN) — A powerful aftershock jolted Nepal on Sunday (April 26)
+        as the Himalayan nation struggled to cope with the aftermath of a catastrophic
+        earthquake that had struck a day earlier, killing more than 2,000 people and
+        leveling scores of buildings.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a33b5116-d1ea-4013-b9e7-787cb0dedaa9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.250+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.102+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The magnitude of the new quake Sunday was initially estimated at
+        6.7 by the U.S. Geological Survey (USGS), considerably weaker than the 7.8
+        magnitude of the devastating one of a day earlier.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9a4e832-11ae-4402-ae71-1cee42994e94'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.250+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.103+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>But it was still enough to create fresh panic among already traumatized
+        residents.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7b6f967d-dd33-4421-9245-ecef35e662a5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.250+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.104+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"People are running and everything is shaking," said Kushal Neogy,
+        a staff member of the aid group Catholic Relief Services in Kathmandu, the
+        Nepalese capital.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3232e121-42cc-4768-a7ae-0a85a66aef35'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.250+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.104+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"It is really shaking very hard and strong," he said live on CNN
+        as the aftershock rattled the city. Sirens were wailing and dust was rising
+        into the air, he added.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ede0f3e-e68a-4d29-8540-7d8c987bae0c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.105+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Climbers also said it set off fresh avalanches on Mount Everest,
+        where at least 17 people were reported to have been killed on Saturday.</p>'
+    '11':
+      'image': 'jcr:e6d08bf1-f2c5-49af-aa0f-bf14c933aed5'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '46f05bb4-f3db-4a25-bc6c-a55af516d5f0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.106+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'image'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1aaf6b9b-a199-41fe-bea6-854092b65521'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.107+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Rummaging through debris for survivors</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '47e7c9ae-d971-498f-a167-ae4237b28209'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.107+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The epicenter of Saturday''s (April 25) huge quake was less than
+        50 miles northwest of Kathmandu, at a depth of 9.3 miles, which is considered
+        shallow and more damaging than a deeper quake. Sunday''s occurred closer to
+        Everest, 40 miles east of the city, at a depth of 6.2 miles, according to
+        the USGS.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5e4fc721-de69-4836-bd44-45719fc8742c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.108+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Like many other areas of Nepal, Kathmandu is facing a colossal challenge
+        dealing with the devastation from the disaster.</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6347c329-5e3a-4e46-a410-793e0bc6d5cb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.109+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Whole streets and squares were covered in rubble in the capital,
+        with an estimated metropolitan area population of around 3 million residents.
+        Stunned Nepalis stared at temples that had stood stalwart for generations
+        and now were reduced to piles.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bb1d5645-3ed8-4ad7-89c4-b60088fe532b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.110+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Locals and tourists ferreted through mounds of debris in search
+        of survivors. Cheers rose when victims emerged alive — but mostly bodies turned
+        up. The injured ended up being treated outside overflowing hospitals, where
+        crowds of people gathered looking for relatives.</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ea0e7f59-71ac-4997-86a3-5467ced9fe16'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.110+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Dozens of bodies were pulled from Dharahara, the historic nine-story
+        tower that came crashing down during the quake. A backhoe chipped away at
+        the nub left protruding through its crumbled ruins.</p>'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '85fca561-92f7-4ff8-bb91-92c141fd8c15'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.111+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Death toll expected to rise</p>'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '670cf7e2-123b-4399-a7be-7a5acf66ab79'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.251+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.112+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The death toll in Nepal of 1,958 — provided Sunday by Laxmi Prasad
+        Dhakal, an official at the Ministry of Home Affairs — is expected to rise
+        as the full extent of the damage emerges.</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '42c93d4b-4d08-4290-87e8-b81a1c120399'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.113+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The loss of life reported so far "is really based on the information
+        we have from the main cities," Lex Kassenberg, Nepal country director for
+        CARE International, told CNN. "But if you look at the spread of the earthquake,
+        a lot of the rural areas have been hit as well. The information we received
+        from the field is that 80% of the houses in these rural areas have been destroyed."</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9d981dbd-9511-42e9-a024-64354515402f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.113+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The overall death toll from the quake, including the 34 people killed
+        in India and 13 killed in China, now stands at more than 2,000.</p>'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ade6b19f-3524-4934-b1c9-182da2910733'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.114+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In Nepal, more than 4,600 people have been injured. Many residents
+        of Kathmandu, which sits in a valley surrounded by Himalayan mountains, huddled
+        outside in cold rain Saturday night as aftershocks continued.</p>'
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e55451ba-db7e-41b8-9b54-6be5f23cae58'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.115+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Fears over damage in remote areas</p>'
+    '33':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f04aa727-3ff1-4e32-84d7-82aaef7d6fc3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.116+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>News out of remote areas near the quake''s epicenter, where many
+        more may have died, has been scant. Most of the homes in the secluded Latang
+        Valley, have been destroyed, an official there said.</p>'
+    '35':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '008bde73-5497-4d60-927f-a034db7feaf3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.116+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In accessible cities, many hills of rubble have yet to reveal all
+        the bodies of people who were inside the buildings when they collapsed.</p>'
+    '37':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bff52e9b-6e82-4b43-847e-1cf2e68396ae'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.252+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.117+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Nepal sits in a seismically active zone where two tectonic plates
+        are converging. Its citizens are used to earthquakes, but not ones like this.</p>'
+    '39':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b21ca25d-7b36-4a4e-b83d-6355d128062f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.118+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The quake Saturday was the strongest in the region in more than
+        80 years. An 8.1 magnitude earthquake centered near Mount Everest in 1934
+        killed more than 10,000 people.</p>'
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6ee5072a-ea65-49c7-80b5-37a5af3b0154'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.118+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>''Utterly terrifying''</p>'
+    '42':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e55a2de2-7985-4a41-90fc-09c136fd8fa2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.119+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>An estimated 4.6 million people in the region were exposed to tremors
+        from the Nepal earthquake, the United Nations Office for the Coordination
+        of Humanitarian Affairs said via Twitter. Thirty out of 75 Nepal districts
+        were affected by the quake.</p>'
+    '44':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e52780bf-17a3-470b-840f-85b3555815fe'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.120+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Siobhan Heanue, a reporter with ABC News Australia, told CNN she
+        was wandering around an ancient temple complex at the moment of the earthquake.
+        Several temples collapsed around her, she said.</p>'
+    '46':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '65bd22a9-c65c-42c2-9c99-f1b04c5a36b4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.120+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"It''s not too often you find yourself in a situation where you
+        have to run for your life," Heanue said, adding that she sought shelter under
+        the table of a cafe. "It was utterly terrifying."</p>'
+    '48':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ad59101b-ce3f-4e80-98d7-c0bb384e4a41'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.121+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Temples collapse around her</p>'
+    '49':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '37dad3b8-c10f-4525-b4b8-0cfe793ec571'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.122+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Heanue watched as residents picked through the rubble of a destroyed
+        temple, turning up bodies.</p>'
+    '51':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e3dfed58-77a7-4d42-8785-69ff187e275a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.123+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Unfortunately, that search was not fruitful," Heanue said. "There
+        were 12 bodies at least pulled from the rubble in the square. This was just
+        one of several historical temple complexes severely affected by the earthquake."</p>'
+    '53':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4f32f18a-a262-4614-aac1-14966adf58c3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.253+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.124+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Dharahara tower was packed with people when it collapsed. Heanue
+        said at least 50 bodies were pulled from its ruins.</p>'
+    '55':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c8c78317-9a77-4033-92bf-cb35ec23257c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.124+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The tower, built in 1832, provided visitors with a panoramic view
+        of the Kathmandu Valley.</p>'
+    '57':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8aef7d7-be95-40a9-9383-9aad13c8b7f1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.125+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Quick response needed to save lives</p>'
+    '58':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bd98dbef-3f5c-4616-8fc0-05f50f235d0c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.126+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Aid agencies are concerned about for the welfare of survivors in
+        the coming days, as overnight temperatures were expected to drop and people
+        were forced to make do without electricity, running water and shelter.</p>'
+    '60':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '50eac4de-dae3-46c3-a8d5-0dd3b876286a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.127+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The international community must react quickly to save lives — particularly
+        those of children — said Devendra Tak, of the aid agency Save the Children.</p>'
+    '62':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c125753d-e353-479c-a120-a2521349c705'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.127+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"With every minute the situation becomes worse," he said.</p>'
+    '64':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '17f8bc9b-11cf-4831-ba16-a8be8b2381d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.128+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Nepal is in dire need of food, clothing and medicine.</p>'
+    '66':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '642f72cf-6523-4faf-93f5-52d3f5416fe9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.254+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.129+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Manesh Shrestha reported from Kathmandu. Jethro Mullen wrote and
+        reported from Hong Kong. Wayne Drash wrote and reported from Atlanta. CNN''s
+        Ray Sanchez, Harmeet Shah Singh, Sumnima Udas, and Brian Walker also contributed
+        to this report.</p>'
+    '68':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '272c4c53-3b43-45d9-a1b2-825073157dc5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.255+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.129+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>CNN Philippines'' Ivy Saunar contributed to this report.</em></p>'
+    '70':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9174341c-d672-4cf8-84e9-fe9399c07430'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:29:30.255+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:23.130+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>This story was first published on CNN.com, "Major aftershock hits
+        Nepal day after cataclysmic earthquake."</p>'
+  'paul-walker-car-fast-and-furious-auction':
+    'author': 'Chris Isidore, CNN'
+    'caption': 'A 1993 Toyota Supra driven by Paul Walker in the first Fast and Furious
+      movie is going up for auction.'
+    'categories': ['9c97e21f-a76f-46f3-bc77-d7074b7893bf']
+    'created': 2015-04-26T18:13:18.578+08:00
+    'imagesource': 'jcr:18f56125-2b51-4d49-ace4-af27f94f09ae'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '353bb564-a1c6-4cc3-84c2-138bc3e1dd12'
+    'lead': 'A souped-up stunt car driven by the late actor Paul Walker in the first
+      Fast & Furious movie is going up for auction.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:33:46.431+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:21.450+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:06.795+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Paul Walker''s car in first Fast & Furious up for auction
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f92ba8d7-75c3-4168-afe6-1883e6fc272c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.458+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN) —</strong> A souped-up stunt car driven by the late
+        actor Paul Walker in the first Fast &amp; Furious movie is going up for auction.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'abe08918-d692-4c13-9028-c4481e836571'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.459+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The 220-horsepower 1993 Toyota Supra, complete with twin nitrous
+        oxide bottles for that extra push, is expected to sell for between $150,000
+        to $200,000, according Mecum Auctions. It goes up for sale at the Indiana
+        Fair Grounds in Indianapolis on May 16.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd2b3c400-18d1-4d68-b8ce-e477565e2d7f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.460+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Like any movie involving car stunts, more than one version of this
+        car was built, including a ''hero'' car for close-up scenes and others designed
+        and built to perform the actual stunts," said the auction house''s Web site.
+        "This Supra was featured throughout the movie, including the final race scene
+        between Walker''s character and that of fellow actor Vin Diesel."</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '5435266f-901f-45b3-b109-b3a842aa6101'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.461+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The current owner was not disclosed by the auction house. Walker
+        died in a fiery car crash in December. He was a passenger in a Porsche Carrera
+        that slammed into a light pole.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '81a769e2-9854-4b3a-9dda-776c645bd11a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.461+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The 40-year-old actor was best known for the Fast &amp; Furious
+        movie series. The first movie in 2001 did $363 million in global box office.
+        Furious 7, which is in theaters now, raked in more than that on its record
+        setting opening weekend. It has now done $1.1 billion worldwide. It stars
+        Walker, even though he died before it could be completed.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '98b6068b-1c93-4b6a-8d5d-a467612931de'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:33:46.432+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:21.462+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com, <a href="http://money.cnn.com/2015/04/23/autos/paul-walker-fast-furious-car-auction/">"Paul
+        Walker''s car in first Fast &amp; Furious up for auction."</a></em></p>'
+  'philippines-urges-neighbors-to-rally-vs-china-reclamation':
+    'author': 'Reuters'
+    'caption': 'The Philippines on Sunday (April 26) asked its Southeast Asian neighbors:
+      "Is it not time for ASEAN to say to our northern neighbor that what it is doing
+      is wrong and that the massive reclamations must be immediately stopped?"'
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2015-04-26T17:06:53.742+08:00
+    'imagesource': 'jcr:695778c1-c51a-4ddb-9cef-084e8bcd35ad'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '58af08f4-d790-4cfc-9e41-0db6e1fe5727'
+    'lead': 'The Philippines on Sunday (April 26) asked its Southeast Asian neighbors:
+      "Is it not time for ASEAN to say to our northern neighbor that what it is doing
+      is wrong and that the massive reclamations must be immediately stopped?"'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:37:34.586+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:20.798+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:07.046+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Philippines urges neighbors to rally vs. China reclamation
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8b506719-d628-4e3c-b694-b7dde6e37918'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.586+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.799+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>(Reuters) – The Philippines on Sunday (April 26) called on neighboring
+        Southeast Asian nations to push for an immediate halt to China''s reclamation
+        in the disputed South China Sea ahead of a regional summit.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8d847a82-524e-4dd3-ae49-4554cf1b1f44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.800+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>China claims 90% of the South China Sea, which is believed to be
+        rich in oil and gas, with overlapping claims from Brunei, Malaysia, the Philippines,
+        Vietnam, and Taiwan.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '81110170-845d-4503-bd2e-1f8c06b90380'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.800+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Recent satellite images suggest China has made rapid progress in
+        building an airstrip suitable for military use in contested territory in the
+        Spratly islands in the South China Sea and may be planning another.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c0bb84c-11ba-43ec-b1a3-3e99266a5816'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.801+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In a speech to foreign ministers of the 10-member Association of
+        Southeast Asian Nations (ASEAN), Foreign Secretary Albert del Rosario did
+        not name China directly, but said its "northern neighbor" was quickly advancing
+        with its massive reclamation.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '350dd0e6-c2b2-41f9-a901-b65db83d2d49'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Is it not time for ASEAN to say to our northern neighbor that what
+        it is doing is wrong and that the massive reclamations must be immediately
+        stopped?" Rosario asked.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'fd318292-cbfd-4ec3-b28b-eeb8e4826a08'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.802+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The territorial dispute is seen as one of Asia''s hotspots, carrying
+        risks that it could result in conflict as countries aggressively stake their
+        claims.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8790b294-713b-49cf-821a-dfa45a524534'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.803+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The foreign ministers were meeting ahead of the official opening
+        of the 10-member ASEAN summit in Kuala Lumpur on Monday (April 27).</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '52c0fede-96b8-4605-9fc9-b6c373a09968'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.804+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Del Rosario said the reclamation would likely be finished before
+        China agrees to a planned Code of Conduct for the South China Sea.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1cec31bb-f0be-4b9f-a321-78db0739bc31'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.805+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>ASEAN Secretary General Le Luong Minh told Reuters in an interview
+        that it has become very urgent for ASEAN and China to conclude the code early.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4b8266de-c94d-43ca-9d1a-3c2d6e9e949b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.806+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"In the context of the ever-widening gap between the diplomatic
+        track and the situation at sea, it is very urgent now for ASEAN and China
+        to early conclude the Code of Conduct, which must be a legally binding instrument
+        and must be an instrument that can prevent such incidents," he said.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '90a426e7-cfe3-40f8-9c5a-06526d4d0068'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:37:34.587+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.807+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>But ASEAN summit host Malaysia is likely to steer clear of criticizing
+        China, its biggest trade partner, a draft end-statement seen by Reuters showed.es
+        urges neighbors to rally vs. China reclamation</p>'
+  'indonesia-72-hour-warning-given-to-death-row-inmates':
+    'author': 'Kathy Quiano and Paul Armstrong, CNN'
+    'caption': 'An police car enters Wirogunan prison as Mary Jane Veloso is prepared
+      to be transferred to Nusakambangan prison on April 24, 2015.'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2015-04-26T07:42:25.334+08:00
+    'imagesource': 'jcr:5fefba85-df30-4ea9-8877-e2523fac8c09'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'd8808f11-2e00-47a2-a40e-5e2619a37a52'
+    'lead': 'Nine of ten mostly foreign prisoners on death row in Indonesia have been
+      given 72 hours notice ahead of their execution, according to a spokesperson
+      for the Attorney General''s office.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:41:44.046+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:20.131+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:07.966+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Indonesian executions: 72-hour warning given to death row inmates
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b3c9167b-6df8-4242-a8ce-788d4fc5b51f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.132+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>(CNN) —</strong> Nine of ten mostly foreign prisoners on
+        death row in Indonesia have been given 72 hours notice ahead of their execution,
+        according to a spokesperson for the Attorney General''s office.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8cab883-1fb6-44a0-b585-007c3d2593d9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.133+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Seventy-two hours notification means three days, at least, to go
+        to the execution. It may be longer. In other words, there will be no execution
+        less than 72 hours after notification," Tony Spontana told CNN by phone Sunday
+        (April 26).</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '407bd9dd-733d-49fc-bc6c-631edc425498'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.133+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Though Indonesian officials said all 10 would be executed at the
+        same time, Spontana said French national Serge Atlaoui had filed a challenge
+        to the State Administrative Court on Thursday (April 23) so his sentence has
+        been delayed.</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a1e23501-fe2d-4d29-83a2-134dbe0c45b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.134+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, Edre Olalia, a lawyer acting for Filipino maid Mary Jane
+        Veloso, told CNN Sunday that Veloso had telephoned her sister on Saturday
+        at about 5:30 p.m. local time and said her execution will take place on Tuesday,
+        April 28. Officials at the Philippine Embassy in Jakarta confirmed the same
+        information.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '270a4612-2fdf-4636-be2d-57610e9f493d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.137+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>According to her lawyers, Veloso unknowingly carried drugs into
+        Indonesia, and that she was set up by members of a drug syndicate.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6e1128bf-06e2-4754-8315-b6bc6a362bb6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.046+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.138+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>RELATED: <a href="http://cnnphilippines.com/news/2015/04/25/Veloso-execution-day-set.html"><strong>Mary
+        Jane set to be shot on Tuesday</strong></a></p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ef988f5c-9e84-49b7-a291-bf3982099619'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.139+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Execution notice</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e764b0a-b5dc-4d05-b941-05605774523c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.140+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>On Friday, Indonesian officials advised relevant consular officials
+        to travel to Indonesia''s "execution island" — Nusa Kambangan — where the
+        ten are being held — a sign that the sentences may be carried out soon. They
+        will face a firing squad.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '35f0071a-8f91-4603-9f50-d1f3efc5ad5e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.141+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The ten on death row, which also include two Australian citizens
+        Andrew Chan and Myuran Sukumaran — members of the so-called "Bali Nine" smuggling
+        ring — as well as prisoners from Ghana, Brazil, Nigeria, and Indonesia, had
+        their petitions for clemency denied by President Joko Widodo in late 2014.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2936b45e-146c-4dcf-bb3d-928e00ee509c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.142+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A statement Sunday from Foreign Minister Julie Bishop said the Australian
+        government had been notified that the execution of Chan and Sukumaran would
+        be carried out "imminently."</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6bec8a3d-4b22-496b-b7c2-34a3a5d50a52'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.143+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I spoke to Mr. Sukumaran''s mother Raji yesterday and assured her
+        the government would continue to seek clemency from Indonesian President Widodo
+        for both men.</p>'
+    '11':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0d21130e-fb67-4202-959f-23e8dfecc3b1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.143+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"They have been rehabilitated in a most remarkable way over the
+        past ten years and are genuinely remorseful for their serious crimes.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '74971c52-4911-4bcb-ac69-caf6737b8655'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.144+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Nothing can be gained and much will be lost if these two young
+        Australians are executed.</p>'
+    '13':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '69fb408b-ad71-4c45-914a-69692dcd4a3a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.145+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I again respectfully call on the President of Indonesia to reconsider
+        his refusal to grant clemency. It is not too late for a change of heart."</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ff917f5e-1e1c-4a3d-94bc-e3b369815ed0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.146+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The two Australians, convicted for their role in a failed 2005 heroin
+        smuggling plot, tried to challenge the President''s decision earlier this
+        month but lost an appeal for the State Administrative Court to hear their
+        case. Their lawyers have since filed another review at the Constitutional
+        Court. The Attorney General''s office has said they would respect all ongoing
+        court proceedings but insisted the inmates have exhausted all their legal
+        options.</p>'
+    '15':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7230765f-37e5-4d51-95a4-e8f2bb89ca80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.146+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Australia has repeatedly appealed for clemency for the pair and
+        has unsuccessfully proposed a prisoner swap with Indonesia as a way of avoiding
+        their deaths.</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7eee057b-8126-4ef8-aa0a-a88c54d3a272'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.147+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Appeals for clemency</p>'
+    '17':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '32c36a8b-dfff-4713-95f6-791877aa0693'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.148+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>On Saturday (April 25), United Nations Secretary-General Ban Ki-moon
+        called on Indonesia''s government to reverse their decision.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b8cf1e3d-4087-4661-83aa-acd709da4523'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.047+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.149+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The Secretary-General appeals to the government of Indonesia to
+        refrain from carrying out the execution, as announced, of 10 prisoners on
+        death row for alleged drug-related crimes," a spokesman for Ban said, according
+        to various reports.</p>'
+    '19':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3def10c1-8f5b-4877-8935-a8e4a776d3c1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.048+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.149+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Meanwhile, Human Rights Watch says President Widodo "has an important
+        opportunity to signal Indonesia''s rejection of the death penalty by sparing
+        the lives of the 10 people facing looming execution."</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '473eeb2a-b43a-4e4b-8bba-11f848acbd44'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.048+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.150+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Widodo can demonstrate true leadership by ending capital punishment
+        as unacceptable state brutality," said Phelim Kine, deputy Asia director at
+        Human Rights Watch, in a statement Saturday (April 25).</p>'
+    '21':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c45e64a4-3e16-4aa8-8404-b9253b9c293d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.048+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.151+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"President Widodo should recognize that the death penalty is not
+        a crime deterrent but an unjustifiable and barbaric punishment. Widodo should
+        promote Indonesia as a rights-respecting democracy by joining the countries
+        that have abolished capital punishment."</p>'
+    '22':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '920e8214-33c3-4b0c-9447-001895c0907f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:41:44.048+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:20.152+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com, <a href="http://edition.cnn.com/2015/04/26/asia/indonesia-executions-notice/index.html">"Indonesian
+        executions: 72-hour warning given to death row inmates."</a></em></p>'
+  'earthquake-slams-nepal':
+    'author': 'Manesh Shrestha, Ray Sanchez, and Wayne Drash, CNN'
+    'categories': ['90febd36-3bb8-453a-86aa-322eeb5841f5']
+    'created': 2015-04-26T18:38:36.550+08:00
+    'imagesource': 'jcr:f4173ec2-a4ea-4d3f-bdb7-00e4ebee769e'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '217db273-7b65-4957-81d0-aa9eea8afb5d'
+    'lead': 'Rescue crews and residents in Nepal early Sunday (April 26) began the
+      desperate search for survivors after a magnitude-7.8 quake near the capital
+      of Kathmandu a day earlier flattened homes, buildings, and temples, causing
+      widespread damage across the region and killing more than 1,900 people.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:46:37.758+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:18.383+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:09.260+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Death toll rising after Nepal quake; all Pinoys safe
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bfbf48db-bc31-41bb-af6c-c7dfeb53b6f6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.384+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><strong>Kathmandu, Nepal (CNN) —</strong> Rescue crews and residents
+        in Nepal early Sunday (April 26) began the desperate search for survivors
+        after a magnitude-7.8 quake near the capital of Kathmandu a day earlier flattened
+        homes, buildings, and temples, causing widespread damage across the region
+        and killing more than 1,900 people.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eb380eeb-ef15-4889-b9d2-3a3f8472ec3c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.384+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Whole streets and squares in the capital of more than 1 million
+        people were covered in rubble. Stunned residents stared at temples that were
+        once part of their daily lives and now were reduced to nothing.</p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c272c290-f777-432a-9a06-1b9c900e5b96'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.385+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Locals and tourists ferreted through mounds of debris in search
+        of survivors. Cheers rose from the piles when people were found alive — but
+        mostly bodies turned up. The injured ended up being treated outside overflowing
+        hospitals, where crowds of people gathered looking for relatives.</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '20b05fa8-957b-47f5-bc56-0e432805b3f9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.385+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Dozens of bodies were pulled from the historic nine-story Dharahara
+        tower that came crashing down during the quake. At least 17 people were reported
+        killed on Mount Everest, where the quake caused multiple avalanches.</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '935713af-9f5b-4faf-be32-60473cc32798'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.386+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>A seemingly endless series of aftershocks continued to roil the
+        area, further traumatizing survivors. Residents huddled in the cold rain overnight
+        for safety.</p>'
+    '10':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f0650ae4-e277-4732-8f55-b48f929403b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.758+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.409+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The death toll of 1,910 — provided Sunday by Laxmi Dhakal, an official
+        at the Nepalese Ministry of Home Affairs — is expected to rise as the full
+        extent of the damage is assessed.</p>'
+    '12':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '6d8e6ba6-be31-4aa9-a8db-a9cc6b7914eb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.409+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The loss of life reported so far "is really based on the information
+        we have from the main cities," Lex Kassenberg, Nepal country director for
+        CARE International, told CNN. "But if you look at the spread of the earthquake
+        a lot of the rural areas have been hit as well. The information we received
+        from the field is that 80% of the houses in these rural areas have been destroyed."</p>'
+    '14':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3ed1524c-9c52-43e1-9248-25a1b7f4f038'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.412+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>News out of remote areas near the quake''s epicenter, where many
+        more may have died, has been scant. Most of the homes in the secluded Latang
+        Valley, have been destroyed an official there said.</p>'
+    '16':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '47c57806-4f0d-403c-a9a1-3aa2d9426f89'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.417+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In accessible cities, many hills of rubble have yet to reveal all
+        the bodies of people inside of buildings, when they collapsed.</p>'
+    '18':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '08fec9bc-2c97-416c-82bc-c3350a96c874'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.420+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The quake was the strongest in the region in more than 80 years.
+        Residents are used to earthquakes in Nepal, and many thought the start of
+        Saturday''s quake was a tremor, until the earth kept shaking and buildings
+        crashed down.</p>'
+    '20':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0c89b2c2-1534-4093-b8c8-e92e01345f1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.421+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"The reports of the devastation are still coming in and the numbers
+        of people killed, injured and affected by this earthquake continue to rise,"
+        said U.N. Secretary-General Ban Ki-moon in a statement. "It is clear that
+        very many lives have been lost."</p>'
+    '22':
+      'image': 'jcr:0451035e-e83f-4f4c-9b3e-3b52ac203917'
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3712f8bc-beab-4932-be81-2cdbe60314ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.424+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'image'
+    '23':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4021994-edd4-45d4-a0c3-fe7efbe7844d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.425+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>''Utterly terrifying''</p>'
+    '24':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f72ff354-d95f-4fbc-8ce0-8e451ef131ff'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.426+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>An estimated 4.6 million people in the region were exposed to tremors
+        from the Nepal earthquake, the United Nations Office for the Coordination
+        of Humanitarian Affairs said via Twitter. Thirty out of 75 Nepal districts
+        were affected by the quake.</p>'
+    '26':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '78d4022a-4a85-45cd-822b-d10928e796c2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.759+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.427+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>In neighboring Tibet, roads buckled, buildings collapsed and at
+        least 13 people were killed, China''s state media reported, citing local authorities.</p>'
+    '28':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1eb275a2-146f-4704-856a-d85473aad18a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.427+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Separately, at least four Chinese citizens in Nepal — two workers
+        with a Chinese company, a tourist, and a mountaineer — have been killed, state
+        media reported, citing the Chinese Embassy in Kathmandu.</p>'
+    '30':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'cefdba85-54aa-48a5-8dd1-5ff8fadc2cbb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.428+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Officials in India confirmed at least 34 deaths in three states
+        from the Nepal quake.</p>'
+    '32':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9ef06f10-d150-4ffe-a0cb-26214d883919'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.429+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The quake struck at 11:56 a.m. local time (2:11 p.m. Philippine
+        time) and was centered less than 50 miles northwest of Kathmandu. It occurred
+        at a depth of 9.3 miles, which is considered shallow and more damaging than
+        a deeper quake. It was reported by people in the area as having lasted a long
+        time. One person said he felt as if he were on a ship in rough seas.</p>'
+    '34':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '7caafd20-f961-4c27-8b13-e2ef4add92fc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.429+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Kathmandu sits in a valley surrounded by the Himalayas.</p>'
+    '36':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ea56ebb3-9bde-45b8-bd1c-86d9436bbd25'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.430+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Siobhan Heanue, a reporter with ABC News Australia, told CNN she
+        was wandering at an ancient temple complex at the moment of the earthquake.
+        Several temples collapsed around her, she said.</p>'
+    '38':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9e66cbee-53c2-435d-aaf6-5febdc22591e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.431+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"It''s not too often you find yourself in a situation where you
+        have to run for your life," Heanue said, adding that she sought shelter under
+        the table of a cafe. "It was utterly terrifying."</p>'
+    '40':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '845928d0-14ff-4a7c-a953-684a72f2a670'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.431+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Devastating loss of people, history</p>'
+    '41':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '4515b811-7706-4b08-8641-8640ba7b495f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.760+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.432+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Heanue watched as residents picked through the rubble of a destroyed
+        temple. They found 12 bodies.</p>'
+    '43':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'af7fa0d2-2b5d-46bf-9b15-9b92d4e443e0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.433+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Unfortunately, that search was not fruitful," Heanue said. "There
+        were 12 bodies at least pulled from the rubble in the square. This was just
+        one of several historical temple complexes severely affected by the earthquake."</p>'
+    '45':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'b4318e26-f10d-4285-b062-153588b706fb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.434+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The Dharahara tower, the landmark nine-story structure, was packed
+        with people when it collapsed. Heanue said at least 50 bodies were pulled
+        from the ruins of Dharahara.</p>'
+    '47':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '48d9b2af-36f3-4ba8-9d4a-00bad38f9e2b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.435+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The tower, built in 1832, provided visitors with a panoramic view
+        of the Kathmandu Valley.</p>'
+    '49':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f6a5cfd8-548d-435d-8dbb-7a940fbfee93'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.436+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Kanak Masni, a journalist in Kathmandu, told CNN by telephone that
+        this appeared to be "the most massive earthquake to hit central Nepal since
+        1934." In that quake, which was 8.1 magnitude and centered near Mount Everest,
+        more than 10,000 people were killed.</p>'
+    '51':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f28f7e85-3079-45a8-853a-b9bb3ffbc3e1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.437+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Thomas Nybo, a freelance photographer, was sitting in a coffee shop
+        in Kathmandu''s Thamel district. It appeared to be a minor tremor at first
+        but gradually gained intensity, he told CNN. Thousands poured onto the streets
+        of the densely populated tourist hub.</p>'
+    '53':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '1c3856e9-009d-4bd7-91cf-1b04dc4666b9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.437+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"This region is no stranger to earthquakes," he said. "A lot of
+        people had the same feeling: This is a tremor, it passed. When that wasn''t
+        the case, they were in uncharted territory... It''s basically an unwritten
+        book."</p>'
+    '55':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3bb5413f-730e-473f-96a0-a1570066cc78'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.438+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Outside the coffee shop, Nybo said he saw a group of women gather
+        near what had been a six-story building. One woman said children were trapped
+        beneath rubble.</p>'
+    '57':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'c330e7f1-f050-4025-8347-3aba56e51d9e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.761+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.438+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"We ran over and ran around the rubble and couldn''t hear anything,"
+        he said. "There was no chance that they survived."</p>'
+    '59':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bc9a50fd-187d-47cb-a1d0-cd416c545771'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.439+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Nearby, another building had come down on an area where locals went
+        to do laundry and collect water, Nybo said. A voice was heard coming from
+        the rubble.</p>'
+    '61':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd8a81dcd-15e6-4bfa-8646-96d28a9e3381'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.440+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"A group of mainly tourists started gathering rocks, hammers and
+        pickaxes and breaking through a re-enforced concrete wall to reach this guy...
+        It took about two hours of smashing through wall and cutting rebar with a
+        hacksaw to pull him out alive."</p>'
+    '63':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e6909b2-6c8a-44f6-b152-50dd32c5c9a9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.443+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Two bodies were found near the spot where the man was rescued, Nybo
+        said. Not far away, lay the bodies of three or four women.</p>'
+    '65':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '06631bca-5dbe-44c7-aa69-28a948e858db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.444+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Who knows how many other bodies lie beneath the rubble?" he said.</p>'
+    '67':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f6aa9f9a-da58-4ab1-92d3-1f02e0c03c3d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.444+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>People ''shaken, upset, crying''</p>'
+    '68':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97edf4d4-7c23-4ada-9879-269e8a5d3748'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.446+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The streets of Kathmandu were packed with thousands of locals and
+        tourists who didn''t want to go back to their homes or hotels because of recurring
+        aftershocks.</p>'
+    '70':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '311869ae-b68b-43ed-a850-493e434a5976'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.447+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Rob Stiles and his wife had just checked into a hotel in Kathmandu
+        when the earthquake struck.</p>'
+    '72':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e9b1c4c2-f577-48ab-b925-69e8ce419a10'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.762+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.447+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"It felt like it went on forever," the California resident said.</p>'
+    '74':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0278733e-6f63-4d0c-8757-c87396c0907a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.448+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Outside, people ran onto the street, with the temblor knocking some
+        off their feet. A huge section of a brick wall crushed motorcycles and a car.</p>'
+    '76':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'ed44ebac-e65f-486f-81a9-66716a4da46e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.449+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Later, as they walked around the city, an aftershock hit.</p>'
+    '78':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '647745ed-10a6-4152-8bb0-99495bcce445'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.450+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"People were screaming and looking around," he said. "There were
+        people clearly shaken, upset, crying."</p>'
+    '80':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '839f5940-93a0-4fe3-b3d2-1bed5cde4d1f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.450+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Denis McClean, spokesman for the U.N. Office for Disaster Risk Reduction,
+        told CNN that weak building codes in Nepal contributed to the amount of structural
+        damage.</p>'
+    '82':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'f7c4a72e-7f44-4360-987f-7c5ba72972b3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.451+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Building codes in Kathmandu itself have not been well upheld in
+        recent years," he said. "Efforts have been made over the last few years to
+        strengthen these building codes but, unfortunately, this comes too late for
+        the many thousands of buildings that have gone up across the Kathmandu Valley
+        over the last 20 years that did not adhere to the building codes."</p>'
+    '84':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '97fd2e3b-40d3-4285-876f-8f324c538c4d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.452+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Chitra Thapa, 48, a CNN security guard in Atlanta, said he spoke
+        by telephone with relatives in Kathmandu and Pokhara, a city about 125 miles
+        (200 kilometers) west of the capital. They were fine and were staying on streets.</p>'
+    '86':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3c509501-9e40-424f-ad1c-2cf9ba0c4cd9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.453+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Everybody''s in shock," he said. "They never felt an earthquake
+        that big."</p>'
+    '88':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'e67023b1-68ad-452c-8dad-eef1a8761f38'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.763+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.454+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Aid agencies expressed concern for the welfare of survivors in the
+        coming days, as overnight temperatures were expected to drop and people were
+        forced to make do without electricity, running water and shelter.</p>'
+    '90':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0a890ec1-ca9c-4119-a405-995263fd7bca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.455+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The international community must react quickly to save lives — particularly
+        those of children — said Devendra Tak, of the aid agency Save the Children.</p>'
+    '92':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3ea6342c-91e1-4d49-abc4-b405d397b605'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.456+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"With every minute the situation becomes worse," he said.</p>'
+    '94':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'aa1d2896-5158-42fa-99f6-36ee5dcbe654'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.457+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Food, clothing and medicine will be urgently required, Tak said.</p>'
+    '96':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '3954f2dc-4cc3-4830-aa14-2bcaf7196cce'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.458+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The U.S. government is providing $1 million in immediate assistance
+        to Nepal, the U.S. Embassy in Nepal said. American disaster response teams
+        are also on their way to Nepal, the Embassy said via Twitter.</p>'
+    '98':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '2e7404ec-f067-4406-ad55-17896fff9d4c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.459+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"To the people in Nepal and the region affected by this tragedy
+        we send our heartfelt sympathies," Secretary of State John Kerry said in a
+        statement. "The United States stands with you during this difficult time.</p>'
+    '100':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'd14a28b2-e12d-426b-88de-7909a8d6cca7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.460+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>At a hospital in the Nepalese capital, people with broken bones
+        and head injuries were lying outside, with doctors administering CPR to at
+        least one of them. Residents with scrapes and lacerations were turned away
+        for those in need of more urgent care.</p>'
+    '102':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '96ecd66e-e5a4-4180-98ce-ceac2ab345d4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.764+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.460+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>The U.S. Geological Survey had at first measured the strength at
+        magnitude 7.5 but later upgraded it. A strong aftershock of magnitude 6.6
+        was recorded a little more than a half-hour afterward, along with nearly three
+        dozen other aftershocks, the USGS reported.</p>'
+    '104':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '26afe327-fe3e-43b4-9bc0-c0e66277dcac'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.765+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.461+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>Manesh Shrestha reported from Kathmandu. Ray Sanchez wrote and
+        reported from New York. Wayne Drash wrote and reported from Atlanta. CNN''s
+        Don Melvin, Ben Brumfield, Ralph Ellis, Harmeet Shah Singh, Sumnima Udas,
+        and Brian Walker also contributed to this report.</em></p>'
+    '106':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '072d0e53-abb3-4a4e-8fba-c0f11edde117'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:46:37.765+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:18.463+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><em>This story was first published on CNN.com, <a href="http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/">"Earthquake
+        slams Nepal; devastating loss of people, history."</a></em></p>'
+  'one-fc-mark-streigl-debut-win-casey-suire':
+    'author': 'CJ Marquez, CNN Philippines'
+    'caption': 'Mark Striegl won his first match with ONE Championship.'
+    'categories': ['26cd2aca-e96d-4813-956c-11c0f3a1281f']
+    'created': 2015-04-26T10:22:38.563+08:00
+    'imagesource': 'jcr:70f81f13-3a10-4dc3-90de-0fb56965aadb'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': '9a2091b7-98b7-4088-85e9-aecd6a1a3c20'
+    'lead': 'Baguio-born slugger Mark Striegl opened his ONE Championship career with
+      a victory over Casey Suire, who suffered his first professional loss.'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2019-11-22T14:50:43.889+08:00
+    'mgnl:createdBy': 'jeff'
+    'mgnl:lastActivated': 2023-02-14T14:26:14.943+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.0'
+    'mgnl:lastActivatedVersionCreated': 2023-02-14T14:26:10.085+08:00
+    'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'template': '1'
+    'title': 'Fil-Am Mark Striegl on ONE Championship debut win: ''It feels amazing''
+
+      '
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'dd081db1-4ec1-4982-9e84-ec8a284c4c46'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.889+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.943+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>(CNN Philippines) — Homegrown talent Mark Striegl made quick work
+        of American Casey Suire to notch his first ONE Championship victory on Friday
+        (April 25) at the Mall of Asia Arena.</p>'
+    '1':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '0766925f-de83-4ce9-bfc2-f5d272d7ecca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.944+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"I want to put him away early and come back to start the year strong,"
+        revealed Striegl, who fastened a rear-naked choke forcing Suire to finally
+        throw in the towel at the 3:48 mark of round 1.</p>'
+    '2':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '886b80a4-cb2e-4446-8469-96e85d330328'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.945+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"You always try to go out and finish the guy."</p>'
+    '3':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '525b55bf-579d-4a75-8ef6-ebc4f8bbeedb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.946+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><a href="http://cnnphilippines.com/sports/2015/04/24/one-fc-ben-askren-luis-santos-no-contest-mark-striegl-suire.html">Related:
+        Ben Askren retains belt after fight against Luis Santos ruled no contest</a></p>'
+    '4':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '704db9a3-6998-4174-b612-aedaec341d50'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.946+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>It was a momentous event for the Baguio-born slugger as he shares
+        the triumph with his beloved countrymen.</p>'
+    '5':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'bee5adb8-8160-40b4-9cae-f4ffc294153b'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.947+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"To get the [win] in front of my home crowd, it feels amazing."</p>'
+    '6':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b45a37d-6143-453a-a297-c1198a81e44e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.948+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>Like a true sportsman, the 5-foot-8 bantamweight warrior gave his
+        counterpart credit for being resilient.</p>'
+    '7':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '8014a3c3-06ed-42d8-a3df-a9b799e72d9d'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.949+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>"Casey is really a tough fighter. I put him in some tough positions
+        and he was able to get out of them," he said. "Props to him for getting out
+        of those positions."</p>'
+    '8':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '9b4ea695-d7d6-4fb8-a2b2-9f25d01cfb19'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.950+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p>With his latest accomplishment, Striegl climbs up to 14-1 while
+        handing Suire his first professional career loss.</p>'
+    '9':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': '47c3b196-92a6-44a6-b958-b7fdba232baf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2019-11-22T14:50:43.890+08:00
+      'mgnl:createdBy': 'jeff'
+      'mgnl:lastActivated': 2023-02-14T14:26:14.950+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T15:10:24.647+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+      'text': '<p><a href="http://cnnphilippines.com/sports/2015/04/25/ONE-FC-Valor-of-Champions.html">Photos:
+        ONE FC Valor of Champions</a></p>'

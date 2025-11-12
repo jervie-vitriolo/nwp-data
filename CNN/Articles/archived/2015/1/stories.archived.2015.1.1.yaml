@@ -1,0 +1,77 @@
+'1':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mgnl:folder'
+  'jcr:uuid': '09552e64-cbe1-4c43-920b-31604b2e0552'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2023-02-21T15:15:02.019+08:00
+  'mgnl:createdBy': 'magnolia'
+  'mgnl:lastActivated': 2023-02-21T15:32:47.966+08:00
+  'mgnl:lastActivatedBy': 'magnolia'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2023-02-21T15:32:23.379+08:00
+  'mgnl:lastModified': 2024-07-05T16:14:57.457+08:00
+  'mgnl:lastModifiedBy': 'magnolia'
+  'your-article-is-not-found':
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2015-01-01T15:23:08.000+08:00
+    'imagesource': 'jcr:44734f53-cd60-4e77-8bbc-fdedeb277bb7'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'e79de00b-15ff-4240-991e-c3595f33bbeb'
+    'lead': 'This article is updating, please refresh in a few seconds!'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2023-02-21T15:17:21.898+08:00
+    'mgnl:createdBy': 'magnolia'
+    'mgnl:lastActivated': 2023-03-05T18:10:56.625+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastActivatedVersion': '1.4'
+    'mgnl:lastActivatedVersionCreated': 2023-03-05T18:10:12.399+08:00
+    'mgnl:lastModified': 2024-07-05T16:14:57.457+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Your article is being updated or not found. Please refresh after a moment'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'a6e57b6d-b54c-44b5-8fd5-5e1013961c7e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2023-02-21T15:17:21.910+08:00
+      'mgnl:createdBy': 'magnolia'
+      'mgnl:lastActivated': 2023-03-05T18:10:56.625+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T16:14:57.457+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
+  'mgnl-test-article':
+    'categories': ['b3b3f789-2fc8-49bd-8c51-bc446e3087d9']
+    'created': 2015-01-01T15:23:08.000+08:00
+    'imagesource': 'jcr:44734f53-cd60-4e77-8bbc-fdedeb277bb7'
+    'jcr:mixinTypes': ['mgnl:hasVersion']
+    'jcr:primaryType': 'mgnl:composition'
+    'jcr:uuid': 'b549f291-f907-49a3-8a6a-558362edadf0'
+    'lead': 'your article is not found!'
+    'mgnl:activationStatus': false
+    'mgnl:created': 2023-02-22T23:12:58.968+08:00
+    'mgnl:createdBy': 'magnolia'
+    'mgnl:lastActivated': 2023-03-07T23:35:05.616+08:00
+    'mgnl:lastActivatedBy': 'magnolia'
+    'mgnl:lastModified': 2024-07-05T16:14:57.457+08:00
+    'mgnl:lastModifiedBy': 'magnolia'
+    'mgnl:tags': []
+    'stories': []
+    'template': '1'
+    'title': 'Your article is not found'
+    'visualType': 'image'
+    '0':
+      'jcr:primaryType': 'mgnl:block'
+      'jcr:uuid': 'eedd08f5-08f0-4775-80d2-114eff54355d'
+      'mgnl:activationStatus': false
+      'mgnl:created': 2023-02-22T23:12:58.968+08:00
+      'mgnl:createdBy': 'magnolia'
+      'mgnl:lastActivated': 2023-03-07T23:35:05.616+08:00
+      'mgnl:lastActivatedBy': 'magnolia'
+      'mgnl:lastModified': 2024-07-05T16:14:57.457+08:00
+      'mgnl:lastModifiedBy': 'magnolia'
+      'mgnl:type': 'text'
